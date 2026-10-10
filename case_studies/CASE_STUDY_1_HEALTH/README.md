@@ -1,39 +1,23 @@
-# CASE_STUDY_1_HEALTH_REPRODUCIBLE
+# EviDQ — Case Study 1: Health
 
-Filtered reproducibility archive for DEMARCHE_ENCAD3 — Case Study 1 (Health).
+## Scientific scope and conclusion
+This study examines data-quality evidence in a received health dataset without artificial corruption. Statistical signals are not automatically classified as errors. Documentary and statistical knowledge are linked for diagnosis.
 
-## Scientific status
-The case study uses the received health dataset without artificial corruption. Statistical observations are treated as observations, not automatically as errors. Documentary/statistical knowledge was constructed and semantically linked. The natural-problem diagnostic branch did **not establish the observed signals as correctable data-quality errors**; the study therefore ends in responsible **ABSTAIN / NO ACTION**, with no fabricated correction dataset.
+**Recorded outcome: ABSTAIN / NO ACTION.** The observed signals were not established as correctable data-quality errors. No corrected dataset or intervention benefit is claimed.
 
-## Canonical notebook
-`DEMARCHE_ENCAD3_CASE1_HEALTH_REPRODUCIBLE.ipynb`
+## Experimental notebook
+[Case1_Health.ipynb](Case1_Health.ipynb) contains saved outputs from the deposited experiment. Saved outputs document recorded computations but do not prove independent re-execution. Original Windows paths may appear in the execution record.
 
-Run the notebook from this project root. Personal absolute Windows paths were replaced by `Path.cwd()`.
+## Evidence map
+- `data/`: reference data and metadata.
+- `knowledge/`: documentary corpus, extracted content and knowledge resources.
+- `models/`: reference model and preprocessing artifacts.
+- `results/`: retained experimental and diagnostic outputs and publication figures where present.
+- `requirements.txt`: study-specific Python dependencies.
 
-## Canonical structure
-- `data/clean/`: frozen received/reference data and dictionary.
-- `knowledge/documents/official/`: documentary sources.
-- `knowledge/documents/extracted/`: extracted page text used to build the corpus.
-- `models/`: frozen reference model and preprocessor.
-- `results/01_...` through `results/14_...`: retained final experimental artifacts.
-- `results/article_figures_case_study_1/`: publication figures.
+## Reproducibility and provenance
+Some semantic/documentary stages were performed through external LLM workflows. Frozen inputs, prompts, outputs and audits should be examined where available. These are not deterministic local Python executions, and exact LLM regeneration is not guaranteed.
 
-## Important LLM reproducibility note
-Some semantic steps were executed in an external ChatGPT/LLM workflow or have an optional local Ollama reproduction protocol. The frozen inputs, prompts, validated outputs, metadata, and audit artifacts are retained. Re-running a generative model may not reproduce byte-identical semantic outputs unless the same model/runtime is available.
+To review the experiment, inspect the notebook outputs, cross-check numerical claims against `results/` and `data/`, and reconstruct a compatible environment using `requirements.txt`. Adapt machine-specific paths before any rerun, and preserve the original outputs.
 
-## Removed as non-canonical
-- `.ipynb_checkpoints/`
-- redundant `.zip`/`.rar` archives of already extracted result folders
-- incomplete local STEP07 partial-output folder
-- duplicated per-feature LLM package files (the canonical exhaustive feature-block pair files are retained)
-- notebook installation/debug/inspection cells and obsolete figure-generation cells superseded by the final corrected figure artifacts
-
-## Folder normalization
-- `DEMARCHE_ENCAD3_STEP07_LLM_A_RESULTS` → `results/07_llma_semantic_filtering_results`
-- `10B_document_statistical_semantic_alignment` → `results/10A_document_statistical_alignment`
-
-## Integrity
-See `PROJECT_MANIFEST_SHA256.csv`.
-
-## Notebook syntax check
-Python cells with syntax errors: none.
+**Interpretation boundary:** observation does not imply anomaly; statistical outlier or missingness does not automatically justify correction. This repository documents the original evidence, not a newly executed replication.
