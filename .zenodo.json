@@ -1,0 +1,28 @@
+
+{
+  "title": "EviDQ: Experimental Reproducibility Package",
+  "upload_type": "software",
+  "description": "Experimental reproducibility package accompanying the EviDQ research manuscript. The repository contains four case studies covering health data-quality governance, a simulated cancer registry, Beijing air-quality observations, and controlled missingness and intervention evaluation in diabetes data. It includes Jupyter notebooks, recorded experimental outputs, supporting research artifacts, and documentation of reproducibility limitations. Original software is licensed under MIT, designated original documentation under CC BY 4.0, and third-party materials retain their original licensing conditions.",
+  "creators": [
+    {
+      "name": "Dafali Sidi Mohamed"
+    },
+    {
+      "name": "Kissi Mohamed"
+    },
+    {
+      "name": "EL Beggar Omar"
+    }
+  ],
+  "keywords": [
+    "EviDQ",
+    "Data Quality",
+    "Explainable Artificial Intelligence",
+    "Tabular Machine Learning",
+    "Reproducibility",
+    "Evidence-Guided Interventions"
+  ],
+  "license": "other-open",
+  "version": "1.0.0"
+}
+  
