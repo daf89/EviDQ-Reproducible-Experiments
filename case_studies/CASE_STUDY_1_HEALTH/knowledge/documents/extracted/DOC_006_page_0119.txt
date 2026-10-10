@@ -1,0 +1,51 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+improve the healthcare patients currently receive as well as accelerate growth and development of 
+healthcare services in the United States, the government has set baseline minimum requirements for 
+use of coding system and data exchange standards by vendors and healthcare providers. 
+Interoperability Standards 
+We have previously touched on the idea of standards which help drive interoperability between 
+systems. 
+Electronic CQMs came to prominence with the advent of The ONC’s Certified EHR requirements. They 
+ultimately included threeprimary requirements for data capture and reporting [113]: 
+• 
+Patient data must use the mandated vocabulary standards. Patient data must be able to be 
+expressed using vocabulary standards like SNOMED CT, ICD, RxNorm, LOINC, and others. 
+• 
+Measure results must be correct. Given a set of sample patients, computed results must match 
+the expected results as defined by the testing tool. 
+• 
+Systems must use the mandated file formats. Systems must be able to emit patient data and 
+results in the required interoperable standardformats. 
+What this means to us is that we should be able to take source data from any (certified) medical records 
+system, reliably produce the correct results, and then emit those results in standard formats that can be 
+accepted by downstream applications. In doing so, the expectation is that we should be able to: 
+• 
+Leverage interoperable data from one or multiple medical record systems with little or no 
+subjective interpretation 
+• 
+Reliably compute the results of a measure 
+• 
+Share the results for ingestion into downstream systems like the clinician’s view of the patient, 
+population reporting tools, or even the Quality Payment Programsite. 
+Exhibit 56: Measure Components 
+To achieve these goals, eCQMs are broken into a few components 
+which neatly align with existing abstraction methods. 
+Information Model: The set of basic definitions of concepts that are 
+used in the measure logic. Things like “encounter,” “medication,” 
+“procedure,” or even “time” must have guidance on their meaning, 
+attributes, and use. 
+Logic: The questions and assertions that compose how the data are 
+to be evaluated. We will not explore this in detail. It is simply 
+important to recognize it as a distinct component. 
+Codes / Value Sets: For a given component like an “observationvital 
+sign,” the list of allowable vocabulary terms which define it. For 
+example, a heart rate might be defined as LOINC code 8867-4. 
+The intent is to provide a set of standards that clinicians and developers can rely on as being common, 
+reusable, and reproducible. Revisiting the example from above, we have broken out to more discretely 
+express the way an abstractor is interpreting it, but in a way that starts to align with an electronically 
+computable measure. 
+Health IT Advisor Handbook 
+Page 114

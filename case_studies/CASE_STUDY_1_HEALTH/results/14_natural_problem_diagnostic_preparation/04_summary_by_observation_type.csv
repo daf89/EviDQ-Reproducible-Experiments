@@ -1,0 +1,4 @@
+﻿observation_type,n_observations,total_affected
+IQR_EXTREME_OBSERVATIONS,10,47596
+NEGATIVE_VALUES,2,6
+ZERO_VALUES,12,354245

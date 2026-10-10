@@ -1,0 +1,161 @@
+
+
+===== PDF PAGE 189 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-7 
+WHO STEPS Surveillance 
+Taking Blood Pressure and Recording Heart Rate, Continued 
+ 
+ 
+ 
+When to use a 
+Sphygmomano- 
+meter 
+The sphygmomanometer is generally not recommended, but may be used in 
+the following circumstances: 
+ 
+• 
+the automatic blood pressure monitor is not functioning; 
+• 
+the automatic blood pressure monitor display shows multiple errors; 
+• 
+to cross check automatic blood pressure monitor readings in various 
+clinical states such as irregular pulse, peripheral circulatory disturbance, 
+extreme hypotension; 
+• 
+for calibration of the automatic blood pressure monitor. 
+ 
+ 
+ 
+Procedure for 
+Sphygmomano- 
+meter 
+Follow the steps below or refer to the operating instructions included with the 
+device to measure the blood pressure of a participant using the 
+sphygmomanometer. 
+ 
+Step 
+Action 
+1 
+Apply the cuff (as detailed above). 
+2 
+Put stethoscope earpieces in ear and set to bell. 
+3 
+Palpate pulse at either brachial or radial artery. Take a pulse 
+count for one full minute. 
+4 
+Pump up pressure and inflate cuff until unable to feel pulse. 
+5 
+Continue to inflate cuff 30 mmHg beyond this point. 
+6 
+Apply the bell of the stethoscope to the right antecubital fossa. 
+7 
+Listen for pulse sounds while deflating the cuff slowly. 
+8 
+Record the systolic blood pressure (SBP) when a pulse is first 
+audible. 
+9 
+Record the diastolic blood pressure (DBP) when the pulse sound 
+disappears. 
+10 
+Deflate the cuff fully and let the arm rest for three minutes 
+(between each of the readings). 
+11 
+Repeat Steps 2-10 twice to obtain three readings. 
+12 
+Check that all readings are correctly filled in on the Android 
+device. 
+13 
+Inform the participant about the blood pressure readings only after 
+the whole process is completed, and record the last reading on the 
+participant feedback form. 
+ 
+
+
+===== PDF PAGE 190 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-8 
+WHO STEPS Surveillance 
+Measuring Height 
+ 
+ 
+ 
+Introduction 
+The height of eligible participants is taken to help calculate their body mass 
+index (BMI), which is their weight relative to their height, and therefore to 
+determine the prevalence of overweight and obese people in the population. 
+ 
+ 
+Equipment 
+To measure height, you need a portable height/length measuring device such 
+as ultrasonic height board, such  as from SECA or an ultrasonic height 
+measuring device. Alternatively, a BMI scale measuring both height and 
+weight (e. g. Growth Management Scale) can be used. 
+ 
+ 
+Assembling the 
+measuring 
+board 
+Follow the steps below to assemble the measuring board: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Procedures 
+Follow the steps below to measure the height of a participant: 
+Step 
+Action 
+1 
+Ask the participant to remove their: 
+• footwear (shoes, slippers, sandals, etc) 
+• head gear (hat, cap, hair bows, comb, ribbons, etc). 
+• any fancy or high hairdos may have to be pressed. 
+Note: If it would be insensitive to seek removal of a scarf or veil, 
+the measurement may be taken over light fabric. 
+2 
+Ask the participant to stand on the board facing you. 
+3 
+Ask the participant to stand with: 
+• feet together 
+• heels against the back board 
+• knees straight. 
+4 
+Ask the participant to look straight ahead and not tilt their head 
+up. 
+5 
+Make sure eyes are the same level as the ears. 
+6 
+Move the measure arm gently down onto the head of the 
+participant and ask the participant to breathe in and stand tall. 
+7 
+Read the height in centimetres at the exact point to the nearest 
+mm. 
+8 
+Ask the participant to step away from the measuring board. 
+9 
+Record the height measurement in centimetres in the Android 
+device, along with the device ID and your Technician ID. 
+ 
+Step 
+Action 
+1 
+Separate the pieces of the board (usually 3 pieces) by unscrewing 
+the knot at the back. 
+2 
+Assemble the pieces by attaching each one on top of the other in 
+the correct order. 
+3 
+Lock the latches in the back. 
+4 
+Position the board on a firm surface against a wall. 

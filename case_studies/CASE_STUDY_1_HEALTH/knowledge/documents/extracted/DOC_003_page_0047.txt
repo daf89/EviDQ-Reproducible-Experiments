@@ -1,0 +1,141 @@
+8.3. Pharmacological interventions 
+8.3.1. Treatment strategy to reduce adverse 
+cardiovascular disease outcomes 
+The main goal of reducing BP is to prevent adverse CVD outcomes. The 
+relative risk reduction afforded by a fixed degree of BP reduction is largely 
+independent of pre-treatment BP.116 There is a clear relationship be-
+tween the intensity of BP lowering and the relative and absolute reduction 
+in risk of CVD events for all adults, regardless of age (at least up to 
+85 years), sex, prior CVD, diabetes, or AF.116,131,443–445 With this strong 
+evidence for the ‘the lower the better, but within reason’ paradigm, deci-
+sion rules are required for selecting patients most likely to benefit from 
+treatment.172 In this section, a summary of evidence for BP-lowering 
+drug treatment is provided, followed by strategies for their use for pre-
+venting CVD. 
+8.3.2. Drug classes with evidence on clinical outcomes 
+in the target population 
+The major drug classes with robust evidence for BP-mediated reduction 
+in CVD events are ACE inhibitors, ARBs, dihydropyridine CCBs, diuretics 
+(thiazides and thiazide-like diuretics such as hydrochlorothiazide, 
+chlorthalidone, and indapamide), and beta-blockers (see Supplementary 
+data online, Tables S7 and S8).122,446,447 The first four are recommended 
+as first-line options for starting hypertension treatment in the general 
+population. Beta-blockers can be added preferentially in circumstances 
+such as in the presence of angina or heart failure, after myocardial infarc-
+tion, or for controlling heart rate, where they are the cornerstone of ther-
+apy.122,448,449 In such settings, second-generation (cardioselective) and, 
+specifically, third-generation (vasodilating) beta-blockers are preferred.450 
+However, beta-blockers are less effective than ACE inhibitors, ARBs, 
+CCBs, or diuretics at preventing stroke, and have a higher discontinuation 
+rate due to side effects.451,452 Beta-blockers and diuretics, especially when 
+combined, are associated with an increased risk of new-onset diabetes in 
+predisposed patients.453,454 The effect of RAS blockers and CCBs on pre-
+venting progression of HMOD also appears to be superior to beta- 
+blockers.455–458 Beta-blockers should also be avoided in patients with iso-
+lated systolic hypertension or more generally with arterial stiffness, as they 
+increase stroke volume (given the lower heart rate).218 
+When therapy and adherence with the above-mentioned drug classes 
+is optimized but insufficient to reach BP goals, other drug classes can be 
+used for treating hypertension. Of these, spironolactone, an MRA, ap-
+pears to be the most effective at further lowering BP in resistant hyper-
+tension; however, more evidence of CVD risk-lowering effects with 
+MRAs among all hypertensive populations, especially those without re-
+sistant hypertension, is needed.459 Specifically, while use of MRAs in pa-
+tients with heart failure has provided clinical evidence on the 
+effectiveness of MRAs for preventing CVD events, dedicated outcome 
+trials in patients with primary hypertension without heart failure are lack-
+ing. Because the present guidelines require trial evidence for CVD out-
+come benefit for a BP-lowering drug or procedure to achieve a Class I 
+recommendation, and given no outcome trials of MRAs have been con-
+ducted in general samples of patients with primary hypertension, we have 
+given MRAs a Class IIa recommendation (see below). We acknowledge 
+that spironolactone was provided a Class I recommendation in the 2018 
+ESC/ESH Guidelines on the management of arterial hypertension. 
+However, to be consistent with our requirement for trial evidence for 
+CVD outcomes benefit in patients with hypertension, the task force 
+agreed to provide a Class IIa recommendation for spironolactone in 
+these 2024 Guidelines. Importantly, it was also agreed that a Class IIa rec-
+ommendation (i.e. should be considered) is an endorsement of MRAs for 
+Recommendation Table 15 — Recommendations for 
+non-pharmacological treatment of blood pressure and 
+cardiovascular risk reduction (see Evidence Tables 22–26) 
+Recommendations 
+Classa 
+Levelb 
+Restriction of sodium to approximately 2 g per day is 
+recommended where possible in all adults with 
+elevated BP and hypertension [this is equivalent to 
+about 5 g of salt (sodium chloride) per day or about a 
+teaspoon or less].353,354 
+I 
+A 
+Moderate intensity aerobic exercise of ≥150 min/ 
+week (≥30 min, 5–7 days/week) or alternatively 
+75 min of vigorous intensity aerobic exercise per 
+week over 3 days are recommended and should be 
+complemented with low- or moderate-intensity 
+dynamic or isometric resistance training (2–3 times/ 
+week) to reduce BP and CVD risk. 1,381,390–393 
+I 
+A 
+It is recommended to aim for a stable and healthy 
+BMI (e.g. 20–25 kg/m2) and waist circumference 
+values (e.g. <94 cm in men and <80 cm in women) to 
+reduce BP and CVD risk.399–401 
+I 
+A 
+Adopting a healthy and balanced diet, such as the 
+Mediterranean or DASH diets, is recommended to 
+help reduce BP and CVD risk.412,438,439 
+I 
+A 
+Men and women are recommended to drink less 
+alcohol than the upper limit, which is about 
+100 g/week of pure alcohol. How this translates into 
+number of drinks depends on portion size (the 
+standards of which differ per country), but most 
+drinks contain 8–14 g of alcohol per drink. Preferably, 
+it is recommended to avoid alcohol to achieve the 
+best health outcomes.170,419,440,441 
+I 
+B 
+It is recommended to restrict free sugar 
+consumption, in particular sugar-sweetened 
+beverages, to a maximum of 10% of energy intake. It 
+is also recommended to discourage consumption of 
+sugar-sweetened beverages, such as soft drinks and 
+fruit juices, starting at a young age.425–427 
+I 
+B 
+It is recommended to stop tobacco smoking, initiate 
+supportive care and refer to smoking cessation 
+programmes, as tobacco use strongly and 
+independently causes CVD, CVD events, and 
+all-cause mortality.428,429,431,437 
+I 
+A 
+In patients with hypertension without moderate to 
+advanced CKD and with high daily sodium intake, an 
+increase of potassium intake by 0.5–1.0 g/day—for 
+example through sodium substitution with potassium- 
+enriched salt (comprising 75% sodium chloride and 
+25% potassium chloride) or through diets rich in fruits 
+and vegetables—should be considered.348,368,373,374,442 
+IIa 
+A 
+In patients with CKD or taking potassium-sparing 
+medication, such as some diuretics, ACE inhibitors, 
+ARBs, or spironolactone, monitoring serum levels of 
+potassium should be considered if dietary potassium 
+is being increased. 
+IIa 
+C 
+© ESC 2024
+ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blocker; BMI, body mass 
+index; BP, blood pressure; CKD, chronic kidney disease; CVD, cardiovascular disease; 
+DASH, Dietary Approaches to Stop Hypertension. 
+aClass of recommendation. 
+bLevel of evidence. 
+3958 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

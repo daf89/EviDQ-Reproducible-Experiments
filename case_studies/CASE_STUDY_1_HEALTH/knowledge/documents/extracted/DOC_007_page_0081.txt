@@ -1,0 +1,138 @@
+Chapter 2: Risk assessment in people with CKD
+2.1 Overview on monitoring for progression of CKD
+based upon GFR and ACR categories
+Practice Point 2.1.1: Assess albuminuria in adults, or
+albuminuria/proteinuria in children, and GFR at least
+annually in people with CKD.
+Monitoring CKD through the surveillance of albuminuria
+and GFR serves to update staging for prognosis, identify
+timing of intervention strategies, and assess the effectiveness
+of speciﬁc treatments. No clear threshold deﬁnes a clinically
+relevant change in GFR or albuminuria, as any worsening
+could reﬂect deterioration in kidney health. However, over-
+interpretation of small changes in these measures may lead to
+unnecessary changes in clinical management that could be
+unhelpful or even deleterious. Education for healthcare pro-
+viders and people with CKD about the variability of speciﬁc
+laboratory measurements in kidney disease is important to
+facilitate
+understanding
+and
+to
+mitigate
+inappropriate
+changes in treatment strategies due to nonclinically signiﬁcant
+ﬂuctuations in either positive or negative directions.
+There is an expected variability in GFR caused by both
+biological and analytical factors of the biomarkers used
+(Figure 12). We have chosen to consider the 95% CI of test
+reproducibility for both eGFR and ACR as an important
+factor for determining thresholds for clinical evaluation.
+The initial evaluation of an observed change in either eGFR
+or ACR should be to repeat the test(s) so as to determine if
+the observed change is clinically signiﬁcant progression of
+CKD or is within biological and analytical variability of the
+test.
+Special considerations
+Pediatric considerations. Monitoring of children in the per-
+ipubescent phase should be undertaken more frequently than
+the CKD stage–based recommended frequency of monitoring
+as puberty is a period of high risk of progression.387 Reasons
+for
+this
+are
+incompletely
+understood,
+but
+potential
+mechanisms include inability of diseased kidneys to undergo
+the hypertrophy needed to accompany the rapid somatic
+growth that characterizes puberty and the negative effect of
+increased levels of sex steroids.388 A study of over 900
+children with CKD due to CAKUT showed a decline that
+was >10 times faster in creatinine-based eGFR after the
+period of peak growth than before that period.388 The CKiD
+study (including children with CKD of any cause) showed
+more rapid declines in both eGFR (creatinine- and cystatin
+C–based) and mGFR after the period of peak growth velocity
+than
+before.387
+Frequency
+of
+monitoring
+should
+be
+individualized, and informed by the severity of CKD, stage of
+puberty, and observed recent rate of progression.
+Practice Point 2.1.2: Assess albuminuria and GFR more
+often for individuals at higher risk of CKD progression
+when measurement will impact therapeutic decisions.
+Previous guidelines have suggested the routine monitoring
+of albuminuria and GFR. Prior guidelines have suggested
+annual monitoring for those with CKD G1–G2, every 6
+months for those with CKD G3, every 3 months for CKD G4,
+and every 6 weeks for CKD G5 disease. Given the greater risk
+of disease progression, those with higher risk of disease
+progression should undergo more frequent monitoring
+(Figure 1329). More frequent monitoring may be indicated in
+people with changing clinical status, intercurrent events, and
+after
+therapeutic
+interventions
+to
+assess
+response
+and
+adherence and ensure safety. In addition, progression risk
+may vary by the etiology of CKD within a speciﬁc stage
+based on GFR and albuminuria or proteinuria.
+Practice Point 2.1.3: For people with CKD, a change in
+eGFR of >20% on a subsequent test exceeds the expected
+variability and warrants evaluation.
+Within-subject variation in measured and eGFR is well
+described (Figure 12). Thus, the ability to distinguish between
+biological and analytical versus pathological variation in the
+mGFR and eGFR is important for healthcare providers and
+people
+with
+CKD.
+Studies
+show
+that
+intraindividual
+biological
+variation
+in
+eGFR
+is
+similar
+across
+eGFR
+equations: CKD-EPI-creatinine (5.3% [4.5%–6.4%]), CKD-
+EPI-cystatin
+C
+(5.3%
+[4.5%–6.5%]),
+and
+CKD-EPI-
+creatinine-cystatin C (5.0% [4.3%–6.2%]). The reference
+change value (RCV) is deﬁned as the threshold of change
+that differs from the individual’s prior value with 95% CI;
+in a cohort of people with CKD, eGFRcr and eGFRcys had
+RCVs ranging from 14%–20% in the positive and negative
+directions. Although attention to progressive loss of eGFR is
+important, smaller changes in GFR may not be related to
+true changes in kidney health, especially if transient and
+require cautious interpretation.
+Thresholds for CKD progression used in clinical trials and
+epidemiological studies are different than those suggested for
+monitoring of people with CKD. In research studies, 30%–
+40% declines in GFR have been associated with increased risk
+for kidney failure, and treatment effects on these endpoints
+have been associated with changes in risk for kidney failure.
+Because these are evaluated at the group level, small errors in
+individual people with CKD are minimized.
+chapter 2
+www.kidney-international.org
+S196
+Kidney International (2024) 105 (Suppl 4S), S117–S314

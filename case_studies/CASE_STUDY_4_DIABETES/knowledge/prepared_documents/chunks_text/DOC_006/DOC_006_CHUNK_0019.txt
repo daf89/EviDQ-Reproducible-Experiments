@@ -1,0 +1,177 @@
+
+
+===== PDF PAGE 37 =====
+
+DIABETES PROTOCOL
+Type 2 diabetes management protocol derived from WHO-PEN (27, 29)
+FPG/RPG >18 mmol/l 
+( 325 mg/dl)
+TEST urine ketones
+if ketones ≥2+
+if ketones <2+
+REVIEW in 3–5 days
+REVIEW in 2–3 months
+No improvement
+Improvement
+BEGIN gliclazide 
+80 mg bid & counsel 
+on diet modiﬁcation, 
+physical activity and 
+adherence to 
+medicines
+REVIEW IN 3 MONTHS
+If goal not achieved
+BEGIN METFORMIN 
+500 mg once daily. 
+Counsel on diet and physical 
+activity and adherence 
+at ALL visits
+REVIEW IN 3 MONTHS
+If goal not achieved increase 
+dose to 1000 mg 1x daily
+REVIEW IN 3 MONTHS
+If goal not achieved increase 
+dose to 1000 mg 2x daily
+REVIEW IN 3 MONTHS
+ If goal not achieved, 
+ADD gliclazide 80 mg 1x daily. 
+Counsel on hypoglycaemia at all 
+subsequent visits
+REVIEW IN 3 MONTHS
+If goal not achieved, despite 
+adherence to medication, 
+healthy diet and physical 
+activity, REFER to higher-level 
+health care facility for starting 
+insulin*
+REVIEW IN 3 MONTHS
+If goal not achieved increase 
+dose to 80 mg 2x daily
+FPG ≥7 mmol/l and <18 mmol/l  
+or RPG ≥11.1 mmol/l 
+and <18 mmol/l #
+Counsel on diet and 
+physical activity
+REFER 
+to higher level 
+of care
+REFER to higher 
+level of care
+CONTINUE gliclazide 
+and diet and 
+physical activity
+If goal not achieved 
+REFER to higher level of 
+care
+TEST ADULTS who have symptoms of diabetes with fasting or 
+random plasma glucose (FPG or RPG),
+Test adults who are 40+ years old with BMI >25 with FPG
+• Measure blood pressure at every 
+scheduled visit, review medication as 
+per hypertension protocol
+• REFER for dilated-pupil retinal exam 
+upon diagnosis, and every two years 
+thereafter, or as per ophthalmologist 
+recommendation
+• Examine feet for ulcers at every visit. 
+REFER to higher level of care if ulcer 
+present
+• Assess risk of lower limb amputation 
+annually (foot pulses, sensory 
+neuropathy by monoﬁlament, 
+presence of healed or open ulcers, 
+calluses). REFER to higher level of care 
+if ulcer present or pulse absent
+• Test for proteinuria annually. 
+REFER to higher level of care if positive.
+MANAGEMENT OF ACUTE 
+COMPLICATIONS
+Severe hypoglycaemia (plasma glucose 
+<50 mg/dl or 2.8 mmol/l) or signs:
+• If conscious, give a sugar-sweetened 
+drink
+• If unconscious, give 20–50 mI of 50% 
+glucose (dextrose) IV over 1–3 minutes.
+Severe hyperglycaemia (plasma 
+glucose >18 mmol/l (325 mg/dl) and 
+urine ketone 2+) or signs and symptoms 
+of severe hyperglycaemia: 
+• Set up intravenous drip 0.9% NaCI 1 
+litre in 2 hours; continue at 1 litre every 
+4 hours, REFER to hospital.
+Goal for glycaemic 
+control
+Plasma glucose**
+Fasting
+≤7.0 mmol/l 
+(126mg/dl)†
+# 
+refer to table on diagnostic values for other tests 
+which can be used to diagnose diabetes.
+* 
+If they are more aﬀordable than insulin, 
+DPP4-inhibitors, SGLT2-inhibitors or pioglitazone 
+can be used before insulin in cases of treatment 
+failure with metformin and gliclazide. Introduce 
+and titrate insulin treatment according to local 
+practices.
+** HbA1c should be used where available.
+† 
+Consider less stringent glycaemic control in 
+patients with frequent severe hypoglycaemia, 
+advanced complications, serious comorbidities 
+and/or Iimited life expectancy.
+SCREENING FOR CHRONIC 
+COMPLICATIONS
+19 February 2018
+35
+
+
+===== PDF PAGE 38 =====
+
+3	 Identifying emergencies 
+and need for referral
+A primary care visit may also be for an emergency condition, or evolve to an 
+emergency, and the provider can be equipped to identify and refer such patients to 
+the nearest facility with the required capacity.
+Morbidity from acute exacerbations of cardiovascular disease (including but not 
+limited to hypertensive crisis, heart attack, stroke, and diabetic ketoacidosis) can 
+be very time-dependent. Early recognition, resuscitation and referral of patients 
+with acute cardiovascular emergencies is essential. 
+All providers delivering primary care for cardiovascular conditions should:
+1.	 Know the nearest appropriate higher-level facilities for referral of acute 
+cardiovascular emergencies.
+2.	 Understand how to approach the person with acute difficulty in breathing, shock, 
+or altered mental status (such as that taught in the WHO Basic Emergency Care 
+course).
+3.	 Screen each patient for danger signs that would suggest the need for immediate 
+referral. (This screening may take 2–3 minutes in patients without acute 
+symptoms. A simple list of danger signs is provided below, but facilities may 
+want to use existing referral protocols).
+Urgent referral criteria
+•• New chest pain, chest pain at time of assessment or change in severity or 
+frequency of chest pain
+•• Symptoms/signs of transient ischemic attack (TIA) or stroke 
+•• Symptoms/signs of heart failure (shortness of breath, difficulty breathing, leg 
+swelling) or heaving cardiac apex
+•• Severe leg pain with symptoms of claudication 
+•• Blood pressure >180/110 mmHg with severe headache, chest pain, shortness 
+of breath, blurred vision, mental status changes, reduced urine output, nausea, 
+vomiting, lethargy, seizures, papilloedema, focal neurologic signs or signs of 
+heart failure
+•• Blood pressure >200/>120 mmHg 
+•• Plasma glucose >18mmoI/l (325mg/dl) and urine ketones 2+ or signs and 
+symptoms 
+•• Hypoglycaemia unresolved by intravenous glucose 
+•• Suspected type 1 diabetes in a newly diagnosed patient 
+•• Any severe infection or infected ulcer
+•• Recent deterioration of vision
+•• Anuria
+•• Symptomatic tachycardia.
+Other referral criteria (non-emergency)
+•• Known prior heart disease, stroke, TIA, diabetes, kidney disease (if the patient 
+has not had an initial assessment) 
+•• Cardiac murmurs 
+•• Irregular pulse 
+36
+HEARTS: Evidence-based treatment protocols

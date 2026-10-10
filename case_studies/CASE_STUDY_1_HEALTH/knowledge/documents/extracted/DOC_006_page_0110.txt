@@ -1,0 +1,53 @@
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N P R I M A R Y
+C A R E
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N 
+P R I M A R Y C A R E 
+• 
+Step 2: Sort Patients by Condition: You can use the Uniform Data System (UDS) codes in Exhibit 
+52 to identify high-risk conditions co-morbidities or a custom list that is appropriate to your 
+patient population. 
+• 
+Step 3: Stratify Patients to Segment the Population into Target Groups: Start by using the 
+method of “condition counts” (the number of conditions per patient) illustrated in Exhibit 53. 
+• 
+Step 4: Design Care Models and Target Interventions for Each Risk Group: Each cohort (highly 
+complex, high-risk, rising-risk, and low-risk) should be matched to a care model that meets their 
+needs. 
+Exhibit 53: Example of Condition Counts Used to Establish a Risk Level 
+Risk Level 
+Number of Conditions 
+Highly complex 
+6 or more 
+High-risk 
+4-5 
+Rising-risk 
+2-3 
+Low risk 
+0 or 1 
+A different risk model developed by the American Academy of Family Physicians (AAFP) uses both 
+diagnosis codes and healthcare utilizationacross variedcare settings. This canbe considered a more 
+complex model and may require additional data not found in an EHR to apply in the clinic (utilization is 
+often derived from payer claims). 
+Some EHRs (andmany population health platforms)offer automatedalgorithms toassignriskscores, 
+but clinics may use a manual approach or a hybrid method when stratifying their patient population or 
+provider panels. As noted above, if using automated algorithms, transparency is vital as is seeking to 
+ensure that bias is not thereby introduced. 
+Practices may require assistance from Health IT Advisors for configuring health assessments, scoring 
+algorithms, and incorporating CDS into the EHR.[97] Custom programming requires proficient health IT 
+skills and most likely assistance from the EHR vendor, which may incur additional costs to the provider. 
+9.4 Implementing Risk Stratification in Practices 
+Daily staff huddles include a review of objective and subjective data for all patients for the current or 
+next day as well as for the coming weeks and months. Huddles promote discussionamong team 
+members and promote valuable information for assignment of risk scoring that brings vital patient 
+information to the attention of the care team. 
+Huddles can include a brief online or paper chart audit as well as review of any inpatient utilization or 
+outpatient referrals in between visits. This can be useful to pre-stratify patients prior to their visit to 
+help the care team assess patient needs according to risk level. Visit efficiency can be improved if care 
+resources and needs are identified prior to the health encounter. 
+Some tips for supporting clinics in this work include: 
+• 
+Include the entire team when assigning risk levels 
+• 
+Use daily huddles and weekly team meetings to discuss patient risk scores 
+Health IT Advisor Handbook 
+Page 105

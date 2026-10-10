@@ -1,0 +1,6 @@
+﻿feature,present_in_dataset_schema,minimal_dictionary_row_exists,semantic_status,description,dictionary_type,dictionary_role,coding_values,statistical_feature_type,statistical_type_status,statistical_type_justification,applicable_control_families,non_applicable_control_families,characterization_status
+registry_stage_code,True,True,DOCUMENTED,registry stage,categorical,clinical_characterisation,registry-specific stage codes,PENDING,PENDING,,,,PENDING
+icdo3_m_code,True,False,NOT_DOCUMENTED,,,,,PENDING,PENDING,,,,PENDING
+age_diag,True,True,DOCUMENTED,age at diagnosis (years),numeric,covariate,years,PENDING,PENDING,,,,PENDING
+administr_unit,True,False,NOT_DOCUMENTED,,,,,PENDING,PENDING,,,,PENDING
+mkb10_code,True,True,DOCUMENTED,ICD-10 topography code,categorical,disease_definition,"C33, C34, subcodes",PENDING,PENDING,,,,PENDING

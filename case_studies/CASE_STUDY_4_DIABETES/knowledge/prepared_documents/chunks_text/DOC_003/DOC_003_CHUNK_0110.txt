@@ -1,0 +1,172 @@
+
+
+===== PDF PAGE 219 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 1: Creating the Final Dataset 
+Last Updated: 7 April 2017 
+4-1-6 
+WHO STEPS Surveillance 
+Weighting the Data, Continued 
+ 
+ 
+ 
+Non-response 
+weight (cont.) 
+Non-response weighting is typically done for age and sex, though it can also be 
+done for any other variables, such as location. Whatever variable is used,  it 
+must fulfil the following requirements: 
+ 
+• 
+the variable should be known to be somehow related to the risk factors 
+(for example, hair colour likely has little to do with whether or not 
+people eat enough fruits and vegetables); 
+• the variable must be known for BOTH responders and non-responders (for 
+example, years of education would probably not be available from non-
+responders). 
+ 
+In surveys like STEPS, in which the age and sex is not known until the 
+participant is selected during a household visit, it is often difficult to have 
+complete age and sex information for all non-responders. Therefore a non- 
+response rate correcting for varying response rates by age-sex group often 
+cannot be done. 
+ 
+However, it may be of interest in many STEPS surveys to assess response rate 
+by location (e.g. urban vs rural areas or high vs low socioeconomic areas). 
+Risk factors may be expected to vary by location and the location of both 
+responders and non-responders  should be  known – thus location fulfils the 
+two criteria listed above. To calculate a non-response weight for location, the 
+response rate for each location should be calculated and the inverse of this 
+figure would be applied as the non-response weight for all records from the 
+location. 
+ 
+ 
+ 
+Population 
+weight 
+The population weight allows for the correction of over- or under- 
+representation in the sample of the targeted age-sex groups. 
+ 
+In order to calculate the population weight, you can first count the total 
+number of participants in each of the age-sex groups covered by your survey. 
+Use the sample weights to attain weighted counts for each age-sex group. 
+You will then need to use recent Census data or similar to get these same 
+counts for your underlying target population. Use this information to create a 
+table like the one below, in which the population weight is shown in the last 
+column. The columns labelled A and B show the proportion of each age-sex 
+group in the target population or sample. These are calculated by taking the 
+number of individuals in that age-sex group and dividing it by the total  
+number of individuals.  The population weight is derived from the ratio of 
+these two proportions. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 220 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 1: Creating the Final Dataset 
+Last Updated: 7 April 2017 
+4-1-7 
+WHO STEPS Surveillance 
+Weighting the Data, Continued 
+ 
+ 
+ 
+Population 
+weight (cont.) 
+ 
+Example table 
+to calculate 
+population 
+weight 
+Target 
+population 
+Proportion 
+of target 
+population 
+(A) 
+Sample 
+(sum of 
+sample 
+weights) 
+Proportion 
+of sample 
+(B) 
+Population 
+Weight 
+= A/B 
+Males, 18-29 
+2000 
+0.13 
+1181 
+0.08 
+1.78 
+Males, 30-44 
+1760 
+0.12 
+2214 
+0.15 
+0.78 
+Males, 45-59 
+1440 
+0.10 
+1919 
+0.13 
+0.77 
+Males, 60-69 
+1600 
+0.11 
+2214 
+0.15 
+0.71 
+Females, 18-29 
+2000 
+0.13 
+1476 
+0.10 
+1.33 
+Females, 30-44 
+1200 
+0.08 
+1919 
+0.13 
+0.64 
+Females, 45-59 
+3000 
+0.20 
+2214 
+0.15 
+1.33 
+Females, 60-69 
+2000 
+0.13 
+1919 
+0.13 
+1.07 
+Total 
+15000 
+15056 
+ 
+ 
+Overall weight 
+Once the sample, non-response (if needed), and population weights have been 
+calculated and attached to your dataset, you will need to multiply these  
+together to arrive at the overall weight for each Step of your survey. It is 
+possible that non-response weight (if used) and population weights will vary 
+slightly from each Step due to different response rates.  It is thus   
+recommended to calculate an overall weight for each Step of your survey. 
+The Epi Info analysis programs provided by the WHO Geneva STEPS team 
+(see Part 4, Section 2) have been designed so that there are different analysis 
+weights for analyses of variables from each Step of the survey. These overall 
+weights are named accordingly: 
+ 
+• WStep1 
+• WStep2 
+• WStep3. 
+ 
+Even if there is no difference in the overall weight for Step 1 versus Step 2,  
+for example, you must create one analysis weight per Step in order to use the 
+provided analysis programs. 
+ 
+Continued on next page 

@@ -1,0 +1,129 @@
+
+
+===== PDF PAGE 33 =====
+
+21
+4. Automated non-invasive BPMDs with cuff 
+4.10	Decommissioning
+Decommissioning is usually understood as “retirement” of equipment from active service. In health care, 
+equipment is not only withdrawn from service but must be properly decontaminated and rendered both 
+unusable and safe for the environment. The manufacturer is responsible for providing details of disposal, 
+including environmental concerns and recycling or structural requirements. The owner or the responsible 
+health authority is obliged to understand and follow the decommissioning procedures.
+Common reasons for decommissioning a medical device are that it is unserviceable, obsolescent, unsafe, 
+costly to use and repair, superfluous, inoperable or that a replacement has been scheduled.
+For decommissioning, the device must be properly identified, with authorization for disposition and sanitized. 
+All patient health information and software must be deleted such that it is forensically unrecoverable.
+Additional information on decommissioning medical devices, including the conditions to reuse or discard a 
+medical device, is presented in WHO’s 2019 guidance on decommissioning medical devices, as part of the 
+WHO Medical Device Technical Series (37). 
+
+
+===== PDF PAGE 34 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+22
+TECHNICAL SPECIFICATIONS OF AUTOMATED NON-INVASIVE BP MEASURING DEVICES WITH CUFF
+(Including information on the following where relevant or appropriate)
+i
+Version No.
+1
+ii
+Date of initial version
+1 December 2019
+iii
+Date of last modification
+1 December 2019
+iv
+Date of publication
+31 December 2019 
+v
+Completed or submitted by
+WHO working group
+Name, category or coding
+1
+WHO category or code
+To be determined
+2
+Generic name
+Electronic blood pressure monitor
+3
+Specific type or variation 
+(optional)
+Electronic (automated, semi-automated) sphygmomanometer 
+4
+GMDN name ©
+Automatic-inflation electronic sphygmomanometer, non-portable
+5
+GMDN code ©
+16173
+6
+GMDN category ©
+Automatic, electronic, oscillometric
+7
+UMDNS name ©
+Sphygmomanometers, electronic, automatic. Sphygmomanometers, electronic, automatic, oscillometric 
+monitors 
+8
+UMDNS code ©
+18326, 25209
+9
+UNSPSC (optional) ©
+ 
+10
+Alternative names 
+(optional)
+Non-invasive BP monitors; oscillometric sphygmomanometers; oscillotonometers; spot check monitors; 
+spot checking; sphygmomanometer, automatic
+11
+Alternative codes (optional)
+ 
+12
+Keywords (optional)
+Automatic electronic sphygmomanometers non-invasive. Digital automatic non-invasive BP monitor
+13
+GMDN/UMDNS definition 
+(optional) ©
+An electrically powered device designed to non-invasively measure BP, with a self-contained software 
+program to regulate automatic arm-cuff inflation and measurement cycles. It typically displays current 
+heart rate and mean arterial pressure in addition to systolic and diastolic BP; it may have memory to 
+store values and may sound an alarm if BP exceeds pre-set limits. This device is not designed to be 
+portable and is typically used at the bedside.
+Purpose of use
+14
+Clinical or other 
+Physical examination; diagnosis of hypertension; monitor, measure and display arterial blood pressure
+15
+Level of use (if relevant)
+Ambulatory care centre, health centre, district hospital, provincial hospital, specialized hospital, home
+16
+Clinical department or ward 
+(if relevant)
+All areas
+17
+Overview of functional 
+requirements
+The main unit includes controls and displays numerical data for BP. It also includes appropriate 
+attached cuffs (probes, and sensors, depending on their configuration) that allow sequential, periodic 
+and/or simultaneous measurements. 
+Technical characteristics
+18
+Detailed requirements
+Measurement ranges: systolic (mm Hg), 60–250, 290 preferred for adults, 30–160 for children and 
+20–120 for neonates. Diastolic (mm Hg), 30–180 adults, 10–150 paediatric, 10100 neonate. Mean 
+arterial pressure (mm Hg), 30–250 adults, 30–160 children, 30–110 neonates. Pulse (beats per min), 
+30–150 adult and children, 30–180 neonates. Inflation pressure (mm Hg) 150–260 adults, 85–140 
+neonates; adjustable or automatically set preferred. Auto deflate pressure (mm Hg), 300 adults, 150 
+neonates. Measurement interval, min: User selectable: ≥ 5 choices. Cuff sizes: neonatal, paediatric, 
+adult, large adult, thigh. Measurement time (s) ≤ 60, user selectable. Automatic 0 required. Display 
+may include tabular and/or graphic trends (user preference). Equipment alarms required: cuff leak, cuff 
+disconnect, failure to take successful reading, low-battery notice. Equipment alarms preferred: hose 
+leak, inflation or deflation error. Sphygmomanometer should automatically deflate if the cuff pressure 
+reaches 300 mm Hg for an adult and 150 mm Hg for a neonate.
+19
+Displayed parameters
+The unit should display the following numerical values: systolic pressure, diastolic pressure, pulse rate 
+and mean arterial pressure. Other parameters are optional. The unit should alert the operator, either 
+visually or audibly.
+4.11	Technical specifications of automated non-invasive BPMDs with cuff
+The technical specifications for procurement of electronic BPMDs with cuff are listed below. 

@@ -1,0 +1,73 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+133
+Objectif 2.4 
+Les équipes évaluent leurs pratiques notamment au regard du suivi des résultats cliniques de leur patientèle
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.4-04 Les équipes améliorent leurs pratiques 
+en analysant les événements indésirables associés aux 
+soins qu’elles ont déclarés
+La gestion des événements indésirables associés aux soins [EIAS dont les presqu’accidents, plaintes, 
+erreurs cliniques, thérapeutiques ou pharmaceutiques…] est traitée comme une opportunité d’analyse 
+des pratiques et de mise en œuvre d’une dynamique collective de gestion des risques. Dans un service, 
+les professionnels sont informés des erreurs survenues, discutent des moyens possibles pour prévenir 
+et récupérer les erreurs et reçoivent un retour d’information sur les actions mises en place. Les équipes 
+s’améliorent en tirant des leçons des réussites et des erreurs, de la gestion des imprévus (savoirs formels 
+et informels, compétences techniques et non techniques), et elles évaluent leurs performances collectives. 
+La gouvernance promeut l’accréditation des médecins ou des équipes médicales pour développer ces 
+bonnes pratiques.
+ Tout l’établissement Impératif 
+Éléments d’évaluation
+ Professionnels 
+• Les EIAS dont les presqu’accidents sont déclarés et 
+partagés.
+• L’équipe analyse régulièrement ses pratiques en s’ap
+puyant sur les déclarations des événements indésirables 
+associés aux soins dont les presqu’accidents : revue de 
+mortalité et de morbidité, comité de retour d’expérience, 
+revue des erreurs liées aux médicaments et dispositifs 
+médicaux associés, etc.
+• Les analyses s’appuient sur une méthode d’analyse 
+systémique des causes (de type ALARM – Association 
+of Litigation and Risk Management).
+• L’équipe met systématiquement en œuvre des actions 
+d’amélioration de la qualité et de la sécurité des soins à la 
+suite des analyses. Le plan d’action issu de l’analyse des 
+EIAS dont les presqu’accidents est suivi.
+• Les médecins et les équipes éligibles connaissent 
+le dispositif d’accréditation et les moyens mis à leur 
+disposition par l’établissement pour développer une 
+culture sécurité à leur niveau.
+Parcours traceur
+Fiches pédagogiques
+L'accréditation des médecins et équipes 
+médicales.
+Évaluation de la gestion des risques et des 
+vigilances.
+Références HAS
+Cadre général d’évaluation des
+démarches d’analyse des événements
+indésirables associés aux soins, 2016.
+Guide « L'analyse des événements 
+indésirables associés aux soins », juillet 
+2021.
+Revue de mortalité et de morbidité, 
+actualisation 2022.
+Références légales 
+et réglementaires
+• Décret n° 2016-1606 du 25 novembre 
+2016 relatif à la déclaration des 
+événements indésirables graves associés 
+à des soins et aux structures régionales 
+d’appui à la qualité des soins et à 
+la sécurité des patients.
+• Instruction n° DGS/PP1/DGOS/PF2/
+DGCS/2A/2017/58 du 17 février 2017 
+relative à la mise en œuvre du décret 
+n° 2016-1606 du 25 novembre 2016 relatif 
+à la déclaration des événements 
+indésirables graves associés à des soins 
+et aux structures régionales d’appui 
+à la qualité des soins et à la sécurité 
+des patients.

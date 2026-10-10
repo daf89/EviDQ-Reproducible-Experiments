@@ -1,0 +1,149 @@
+
+
+===== PDF PAGE 373 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-14 
+WHO STEPS Surveillance 
+ 
+ 
+Tobacco Use 
+ 
+ 
+Current 
+smoking 
+Description: Current smokers among all respondents. 
+ 
+Instrument question: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+ 
+Percentage of current smokers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Current 
+95% CI 
+smoker 
+% 
+n 
+Current 
+95% CI 
+smoker 
+% 
+n 
+Current 
+95% CI 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T8 
+• Epi Info program name: Tsmokestatus (unweighted); TsmokestatusWT (weighted) 
+ 
+
+
+===== PDF PAGE 374 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-15 
+WHO STEPS Surveillance 
+ 
+ 
+Smoking 
+Status 
+Description: Smoking status of all respondents. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• In the past, did you ever smoke any tobacco products? 
+ 
+Smoking status 
+Age Group 
+(years) 
+Men 
+n 
+Current smoker 
+Non-smokers 
+% Non- 
+% 
+% Never 
+% Daily 
+95% CI 
+daily 
+95% CI 
+Former 
+95% CI 
+smoker 
+95% CI 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Smoking status 
+Age Group 
+(years) 
+Women 
+n 
+Current smoker 
+Non-smokers 
+% Non- 
+% 
+% Never 
+% Daily 
+95% CI 
+daily 
+95% CI 
+Former 
+95% CI 
+smoker 
+95% CI 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Smoking status 
+Age Group 
+(years) 
+Both Sexes 
+n 
+Current smoker 
+Non-smokers 
+% Non- 
+% 
+% Never 
+% Daily 
+95% CI 
+daily 
+95% CI 
+Former 
+95% CI 
+smoker 
+95% CI 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T8 
+• Epi Info program name: Tsmokestatus (unweighted); TsmokestatusWT (weighted) 
+ 

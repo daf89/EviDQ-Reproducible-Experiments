@@ -1,0 +1,8 @@
+DEMARCHE_ENCAD3 — STEP 08 — LLM-B
+Trace implementation: LOCAL OLLAMA, model llama3.1:8b.
+Role: extract only explicit documentary knowledge for the supplied feature/block.
+Allowed types: GOVERNANCE, ERROR, DETECTION, CORRECTION.
+Use [] when unsupported. No external knowledge. Anomaly != error.
+ERROR does not imply DETECTION; ERROR/DETECTION do not imply CORRECTION.
+Every extracted item must retain exact documentary evidence and provenance.
+No automatic source priority. Source at this stage: DOCUMENT only.

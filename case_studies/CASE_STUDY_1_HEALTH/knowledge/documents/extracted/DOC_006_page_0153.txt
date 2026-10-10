@@ -1,0 +1,43 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+112. 
+Office of the National Coordinator for Health Information Technology. Information Blocking. 
+Available from: https://www.healthit.gov/topic/information-blocking 
+113. 
+Office of the National Coordinator for Health Information Technology. 2015 Edition Test 
+Method. Available from: https://www.healthit.gov/topic/certification-ehrs/2015-edition-test
+method 
+114. 
+National Quality Forum. Quality Data Model. Available from: 
+https://www.qualityforum.org/QualityDataModel.aspx 
+115. 
+HL7 International. Quality Improvement Core (QI-Core) Implementation Guide. Available from: 
+http://hl7.org/fhir/us/qicore/ 
+116. 
+Office of the National Coordinator for Health Information Technology. Value Set. Available from: 
+https://ecqi.healthit.gov/glossary/value-set 
+117. 
+National Institutes of Health. Value Set Authority Center. Available from: 
+https://vsac.nlm.nih.gov/valueset/2.16.840.1.113762.1.4.1045.39/expansion/Latest 
+118. 
+National Committee for Quality Assurance. Using HEDIS® Measure Specifications. Available 
+from: https://www.ncqa.org/hedis/using-hedis-measures/ 
+119. 
+Bodenheimer, T., et al., The 10 building blocks of high-performing primary care. Annals of family 
+medicine, 2014. 12(2): p. 166-171. 
+120. 
+Certification Commission for Health Information Technology, A Health IT Framework for 
+Accountable Care. 2013. Available from: 
+https://www.healthit.gov/sites/default/files/facas/a_health_it_framework_for_accountable_ca 
+re_0.pdf. 
+121. 
+Visualization: Long-term Care Facilities. Available from: 
+https://gillingscovid19.unc.edu/visualization/long-term-care-facilities. 
+122. 
+Morgenthaler, T.I., et al., Measurementofquality to improve care in sleep medicine. Journal of 
+clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine, 
+2015. 11(3): p. 279-291. 
+AHRQ Pub. No. 22-0028 
+May 2022 
+Health IT Advisor Handbook 
+Page 148

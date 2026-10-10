@@ -1,0 +1,80 @@
+12 
+Table 3: 2016 Sample Sizes and Completion Rates in the Medical Provider Component 
+Sample by Provider Type – Pair Level 
+Provider Type 
+Final Eligible 
+Sample 
+Completion 
+Rate 
+Refusal Rate 
+Other Non-
+participation 
+Rate 
+Hospital 
+10,162 
+0.851 
+0.081 
+0.068 
+Office-based 
+16,927 
+0.861 
+0.070 
+0.069 
+HMO 
+790 
+0.766 
+0.000 
+0.234 
+Home care 
+817 
+0.841 
+0.111 
+0.048 
+Institution 
+131 
+0.908 
+0.046 
+0.046 
+SBD 
+27,490 
+0.539 
+0.049 
+0.412 
+Pharmacy* 
+17,366 
+0.849 
+0.067 
+0.084 
+Completion rate calculations include completes and partial completes. Completes include no events within the 
+provider/pair that are missing critical items and partial completes include providers/pairs for which at least one event 
+is missing a critical item and at least one event is not missing any critical items. 
+* For pharmacies only, completion rate calculations also include additional categories of partial pairs, which are pairs 
+that are missing at least one critical item for all events. 
+MOS Sample Size and Completion Rates 
+Table 4 presents sample sizes and completion rates for the MOS at the practice and pair level. At 
+the practice level, the MOS completion rate was 76 percent. At the pair level, the completion rate 
+was 77 percent. 
+Table 4: 2016 Sample Sizes and Completion Rates in the Medical 
+Organizations Survey 
+Survey Status 
+MOS Practices 
+USC/Office Based 
+Provider Pairs 
+Eligible 
+7,064 
+12,211 
+Complete/Partial complete 
+5,331 
+9,400 
+Nonresponse 
+1,733 
+2,811 
+Eligibility rate 
+98.7% 
+98.8% 
+Completion rate 
+75.5% 
+76.9% 
+Nonresponse rate 
+24.5% 
+23.0%

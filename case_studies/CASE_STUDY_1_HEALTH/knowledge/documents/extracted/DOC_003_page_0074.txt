@@ -1,0 +1,128 @@
+10.4. Acute blood pressure management in 
+pre-eclampsia and severe hypertension in 
+pregnancy 
+10.4.1. Pre-eclampsia 
+Pre-eclampsia is discussed in Section 9. Here we focus on its management 
+in the acute setting. Pre-eclampsia is cured by delivery. Most international 
+societies, including the ESC, recommend an intensive approach to BP 
+lowering in pre-eclampsia.89,964,965 In women with pre-eclampsia and se-
+vere hypertension, immediately reducing systolic BP to <160 mmHg and 
+diastolic BP to <105 mmHg using i.v. labetalol or nicardipine (with admin-
+istration of magnesium sulfate if appropriate and consideration of deliv-
+ery if appropriate) was recommended in the 2018 ESC/ESH Guidelines 
+on the management of arterial hypertension and the 2022 ESC 
+Guidelines for management of cardiovascular disease in pregnancy.1,89 
+The objective of treatment is to lower BP within 150–180 min. 
+Magnesium sulfate [4 g i.v. over 5 min, then 1 g/h i.v.; or 5 g intramus-
+cularly (i.m.) into each buttock, then 5 g i.m. every 4 h] is recommended 
+for eclampsia treatment but also for women with pre-eclampsia who 
+have severe hypertension and proteinuria or hypertension and neuro-
+logical symptoms or signs.966 There is a risk of hypotension when mag-
+nesium is given concomitantly with nifedipine.967 If BP control is not 
+achieved by 360 min despite two medications, consulting critical care 
+is recommended for intensive care unit admission, stabilization, and de-
+livery (if appropriate).966 Since plasma volume is reduced in pre- 
+eclampsia, diuretic therapy should be avoided. 
+10.4.2. Severe acute hypertension in pregnancy 
+Severe hypertension in pregnancy (without pre-eclampsia) may neces-
+sitate acute BP-lowering therapies. Severe hypertension in pregnancy is 
+defined in general as systolic BP of >160 mmHg and diastolic BP of 
+>110 mmHg and is associated with adverse maternal and peri-natal 
+outcomes independent of pre-eclampsia and potentially of the same 
+magnitude as eclampsia itself.89,968 
+There are differences in rate of BP control between i.v. labetalol and 
+i.v. hydralazine in severe hypertension in pregnancy.969 While evidence 
+is conflicting,667,668 hydralazine may be associated with more peri-natal 
+adverse events than other drugs.970 Nifedipine seems to provide lower 
+BP with lower rates of neonatal complications than labetalol.971 
+10.5. Peri-operative acute management of 
+elevated blood pressure 
+Details are provided in the ESC Guidelines on cardiovascular assessment 
+and management of patients undergoing non-cardiac surgery.972 
+Peri-operative hypertension, hypotension, and BP variability are associated 
+with haemodynamic instability and poor clinical outcomes for patients 
+undergoing surgery.973 Pre-operative risk assessment for BP management, 
+therefore, should involve assessing for underlying end-organ damage and 
+comorbidities.974 Postponing necessary non-cardiac surgery is not usually 
+warranted for patients with minor or moderate elevations in BP, as they 
+are not at higher CVD risk.130,975 
+Avoiding large fluctuations in BP in the peri-operative course is im-
+portant, and planning a strategy for a patient should account for the 
+baseline office BP.974–977 
+There is insufficient evidence for reduced or increased peri- 
+operative BP targets compared to usual care BP targets to lower 
+peri-operative events.978 No specific measure of BP appears better 
+than any other for predicting risk of peri-operative events.975 
+10.5.1. Blood pressure-lowering drugs in the 
+peri-operative phase 
+Routine initiation of a beta-blocker peri-operatively is not necessary.979 
+Pre-operative initiation of beta-blockers in advance of high-risk, 
+non-cardiac surgery may be considered in patients who have 
+known coronary artery disease or myocardial ischaemia980 or 
+two or more significantly elevated clinical risk factors in order to 
+reduce the incidence of peri-operative myocardial infarction.979 
+Peri-operative continuation of beta-blockers is recommended for 
+patients currently taking beta-blockers.981 
+Some studies suggest that continued use of ACE inhibitors is asso-
+ciated with a higher risk of peri-operative hypotension and subsequent 
+end-organ damage including kidney injury, myocardial infarction, and 
+stroke.982 In the Prospective Randomized Evaluation of Preoperative 
+Angiotensin-Converting Enzyme Inhibition (PREOP-ACEI) trial, transient 
+pre-operative interruption of ACE inhibitor therapy was associated with 
+a decreased risk of intra-operative hypotension.983 A subsequent system-
+atic review also showed a decreased risk of intra-operative hypotension 
+with withholding ACE inhibitors/ARBs before surgery, but no association 
+• In patients with ischaemic stroke not receiving 
+re-perfusion treatment and BP of ≥220/110 
+mmHg, BP should be carefully lowered by 
+approximately 15% during the first 24 h after 
+stroke onset.956–960 
+IIa 
+C 
+In patients with intracerebral haemorrhage, 
+immediate BP lowering (within 6 h of symptom 
+onset) should be considered to a systolic target 140– 
+160 mmHg to prevent haematoma expansion and 
+improve functional outcome.948,949 
+IIa 
+A 
+In patients with intracerebral haemorrhage 
+presenting with systolic BP ≥220 mmHg, acute 
+reduction in systolic BP >70 mmHg from initial levels 
+within 1 h of commencing treatment is not 
+recommended.950,951,960–963 
+III 
+B 
+© ESC 2024
+BP, blood pressure; TIA, transient ischaemic attack. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 33 — Recommendations for 
+acutely managing blood pressure in patients with severe 
+hypertension in pregnancy and pre-eclampsia (see 
+Evidence Table 46) 
+Recommendation 
+Classa 
+Levelb 
+In pre-eclampsia or eclampsia with hypertensive 
+crisis, drug treatment with i.v. labetalol or nicardipine 
+and magnesium is recommended.971 
+I 
+C 
+In pre-eclampsia or eclampsia associated with 
+pulmonary oedema, nitroglycerin given as an i.v. 
+infusion is recommended.242 
+I 
+C 
+In severe hypertension in pregnancy: 
+• drug treatment with i.v. labetalol, oral methyldopa, 
+or oral nifedipine is recommended. Intravenous 
+hydralazine is a second-line option.666–668,969,971 
+I 
+C 
+© ESC 2024
+i.v., intravenous. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3985 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

@@ -1,0 +1,33 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+264
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_V7 
+Règles de rédaction des synthèses du rapport de visite
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche présente les principes de rédaction des synthèses du rapport de visite.
+ Pour bien commencer
+Une synthèse est rédigée pour chacun des trois chapitres : 
+• • le patient  ;
+• • les équipes de soins ;
+• • l’établissement.
+Ces synthèses sont intégrées dans le rapport de certification publié sur le site Internet de la HAS.
+ Ce qu’il faut savoir
+Le coordonnateur, chargé de la rédaction de la synthèse, s’appuie sur : 
+• • les résultats des évaluations restitués sous forme de radar . 
+• • les éventuelles fiches anomalies ;
+• • les échanges que l’équipe a eu avec les professionnels et les patients au fil de la visite ; 
+• • les consultations documentaires ; 
+• • etc.
+Présentation graphique des résultats
+CALISTA permet d’obtenir une visualisation 
+graphique des résultats au niveau du chapitre, des 
+objectifs, des critères et des éléments d’évaluation 
+(onglet « Graphes »)
+Exemple : chapitre 1 – Le patient
+La synthèse explique et illustre les résultats des évaluations faites pendant la visite en support des représentations 
+graphiques produites sous forme de radar.

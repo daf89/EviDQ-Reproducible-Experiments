@@ -1,0 +1,49 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_11_CONSOLIDATED_KNOWLEDGE_BASE",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "execution": "LOCAL_DETERMINISTIC_PYTHON",
+  "llm_used": false,
+  "ollama_used": false,
+  "knowledge_sources_supported": [
+    "DOCUMENT",
+    "STATISTICAL",
+    "EXPERT"
+  ],
+  "knowledge_sources_instantiated": [
+    "DOCUMENT",
+    "STATISTICAL"
+  ],
+  "expert_source": {
+    "supported_by_framework": true,
+    "instantiated_in_current_experiment": false
+  },
+  "counts": {
+    "document_knowledge_nodes": 368,
+    "statistical_profile_nodes": 12,
+    "statistical_observation_nodes": 24,
+    "statistical_condition_nodes": 13,
+    "total_kb_nodes": 417,
+    "validated_cross_source_relations": 7,
+    "rejected_alignment_audit": 1325
+  },
+  "knowledge_base_definition": {
+    "nodes": "DOCUMENT knowledge + STATISTICAL reference profiles + STATISTICAL observations + STATISTICAL candidate conditions",
+    "relations": "Only semantically supported DOCUMENT <-> STATISTICAL alignments"
+  },
+  "scientific_principles": {
+    "document_knowledge_requires_current_statistical_match": false,
+    "statistical_observation_is_error": false,
+    "statistical_condition_is_error_rule": false,
+    "automatic_correction": false,
+    "source_priority": "NONE",
+    "rejected_alignments_deleted": false
+  },
+  "input_hashes": {
+    "step08_document_knowledge_sha256": "009711b5a443615e0ba83d35e44c70c8698658b2619ac9b2196f5dfdb202de89",
+    "step09_profiles_sha256": "dbfd2a01cd2a7fcb9ea42580f1c84972e50c29ba43ce7dbbdea8df8d27b8b359",
+    "step09_observations_sha256": "c4f9528b7d28a8b4e77a383fb62863e4556be4a3ad12eab61af2b31f40bf39db",
+    "step09_conditions_sha256": "1eb5ab9b82c4ce83803a43f7fbaab6753d961c582cb15b04c43f7a68a1afea25",
+    "step10b_alignments_sha256": "77d5162359a1f28b94e2f921b734ed8f7215c22ecc07b0b6aaa9fa520e2608eb"
+  }
+}

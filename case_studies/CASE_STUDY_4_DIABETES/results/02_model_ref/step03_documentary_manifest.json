@@ -1,0 +1,17 @@
+{
+    "step": "STEP_03_MODEL_REF",
+    "raw_results": [
+        "step03_model_ref_metrics.csv",
+        "step03_model_ref_predictions.csv"
+    ],
+    "tables": [
+        "tables/table_step03_performance_ref.csv",
+        "tables/table_step03_confusion_matrix.csv"
+    ],
+    "figures": [
+        "figures/figure_step03_performance_ref",
+        "figures/figure_step03_confusion_matrix_validation",
+        "figures/figure_step03_roc_validation"
+    ],
+    "test_used": false
+}

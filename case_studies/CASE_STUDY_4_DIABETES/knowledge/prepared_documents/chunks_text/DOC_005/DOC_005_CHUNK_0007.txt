@@ -1,0 +1,135 @@
+
+
+===== PDF PAGE 13 =====
+
+1
+1. Introduction
+AFFORDABLE
+TECHNOLOGY  
+BLOOD PRESSURE MEASURING DEVICES  
+FOR LOW RESOURCE SETTINGS
+CARDIOVASCULAR DISEASES
+World Health Organization
+Affordable technology blood pressure 
+measuring devices for low-resource 
+settings 
+2003
+https://apps.who.int/iris/
+handle/10665/43115
+Core Medical Equipment
+Core medical equipment
+2011
+http://apps.who.int/medicinedocs/
+documents/s22062en/s22062en.pdf
+1
+Introduction
+This document describes the performance and technical aspects of automated non-invasive BPMDs, which 
+are essential for optimal diagnosis and treatment of hypertension, particularly in LMICs. It also outlines the 
+importance of measuring BP and identifies the barriers to access of accurate and affordable BPMDs.
+The scope of this document is on non-invasive upper arm BPMD with cuff, using oscillometric method, which 
+is the preferred option to measure BP. Nevertheless, this document also mentions the manual BPMD aneroid 
+for where automated is not available and mercury, only for callibration. It also describe other cuffless innovative 
+technologies but further evidence for recommendation is needed. The document thus complies with WHO 
+guidance to countries regarding phasing out mercury-containing sphygmomanometers in the health care 
+sector in the context of the Minamata Convention on Mercury (see Annex 1). This version replaces the 2005 
+WHO publication on affordable technology blood pressure measuring devices for low-resource settings (1).
+The document is based on evidence and data on the predictive value of non-invasive upper-arm BP 
+measurements. It includes discussion and comparison of alternative devices and standards to build consensus 
+for shaping the global market. It is intended for regulators, policy-makers, programme managers, biomedical 
+engineers, BP device manufacturers and industries, procurement officers and health care providers. It should 
+assist procurement agencies and regulatory authorities to prepare policy, management and supply accordingly. 
+Manufacturers should comply with the technical specifications outlined as minimum requirements to ensure 
+safety and efficiency. Health workers, academics and the general population may benefit from this resource, 
+as it may improve their understanding of BP devices and their capacity to measure BP accurately.
+The following WHO publications are complementary to the body of this technical guidance and specification 
+document: 
+Phasing out mercury thermometers 
+and sphygmomanometers in health 
+care
+2015
+https://apps.who.int/
+iris/bitstream/hand
+le/10665/259448/9789241508339-
+eng.pdf?sequence=1
+Procurement process 
+resource guide
+WHO Medical device technical series
+Procurement process resource guide 
+2011
+https://www.who.int/medical_
+devices/publications/procurement_
+guide/en/
+
+
+===== PDF PAGE 14 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+2
+Medical device donations: 
+considerations for 
+solicitation and provision
+WHO Medical device technical series
+Medical device donations: 
+considerations for solicitation and 
+provision 
+2016
+https://www.who.int/medical_
+devices/management_use/manage_
+donations/en/
+Decontamination
+and Reprocessing
+of Medical Devices
+for Health-care
+Facilities
+Decontamination and reprocessing 
+of medical devices for health-care 
+facilities
+2016
+https://www.who.int/infection-
+prevention/publications/
+decontamination/en/
+WHO compendium of 
+innovative health technologies 
+for low-resource settings
+Medical devices
+eHealth/mHealth
+Medical simulation devices
+Personal protective equipment
+Assistive products
+Other  technologies
+2016- 2017
+WHO compendium of innovative 
+health technologies for low-resource 
+settings 
+2016–2017
+https://www.who.int/
+medical_devices/publications/
+compendium_2016_2017/en/
+WHO Medical device technical series
+WHO Global Model Regulatory 
+Framework for Medical Devices 
+including in vitro diagnostic 
+medical devices
+WHO global model regulatory 
+framework for medical devices 
+including in vitro diagnostic medical 
+devices
+2017
+https://www.who.int/medical_
+devices/publications/global_model_
+regulatory_framework_meddev/en/
+Decommissioning 
+Medical Devices
+WHO Medical Device Technical Series
+Decommissioning medical devices
+2019
+https://apps.who.int/
+iris/bitstream/hand
+le/10665/330095/9789241517041-
+eng.pdf?sequence=1&isAllowed=y
+HEARTS Technical Package
+2018
+https://www.who.int/cardiovascular_
+diseases/hearts/en/
+Technical package for cardiovascular disease 
+management in primary health care

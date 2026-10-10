@@ -1,0 +1,179 @@
+
+
+===== PDF PAGE 99 =====
+
+Choosing the Sample Design, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-13 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Stratification 
+and 
+sample 
+allocation 
+(cont.) 
+Proportional allocation means sampling the same proportion of individuals 
+from each strata so that the resulting sample is distributed across the strata 
+similarly to the underlying target  population.  This type  of sample allocation 
+is the appropriate method for surveys which will only be reporting data for all 
+strata combined. 
+ 
+Disproportional allocation means sampling some strata at a higher rate than 
+other strata.   Often this is implemented by drawing an equal sized sample  
+from each strata. This type of sample allocation is appropriate when survey 
+results are desired for each individual strata. In this situation, a larger sample 
+size is usually required to ensure adequate precision in the strata-specific 
+estimates. The primary drawback to this method is a loss of sampling 
+efficiency for the estimates for all strata combined. 
+ 
+Note: In some cases where very small strata exist, proportional allocation 
+may be done but oversampling may be required for the very small strata. 
+ 
+ 
+ 
+Proportional 
+Allocation 
+Example 
+Because proportional allocation is more likely to be used for a STEPS survey, 
+an example is provided here. 
+ 
+In this example, the sample size has been calculated to be 2,880. The target 
+population has been divided into the 4 government districts of the country.  
+These districts will serve as strata. The target population within each strata has 
+been listed in the table below along with the proportion each comprises of the 
+total target population. 
+ 
+ 
+To compute the number of individuals from the total sample to be drawn from 
+each strata, multiply the total sample size by the proportion for each strata. 
+ 
+ 
+ 
+Strata 
+Target Pop. 
+Proportion 
+of Pop. 
+Sample 
+District 1 
+25,955 
+0.24 
+691 
+District 2 
+30,568 
+0.28 
+807 
+District 3 
+32,578 
+0.30 
+864 
+District 4 
+19,054 
+0.18 
+518 
+Total 
+108,155 
+1.00 
+2,880 
+ 
+ 
+Strata 
+Target Pop. 
+Proportion 
+of Pop. 
+District 1 
+25,955 
+0.24 
+District 2 
+30,568 
+0.28 
+District 3 
+32,578 
+0.30 
+District 4 
+19,054 
+0.18 
+Total 
+108,155 
+1.00 
+
+
+===== PDF PAGE 100 =====
+
+Choosing the Sample Design, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-14 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Simple random 
+sampling 
+In a small number of settings simple random sampling may be feasible. For 
+household surveys, the following characteristics generally should be met: 
+ 
+• small target population; 
+• small survey area, the entirety of which can be covered by the resources 
+available; 
+• detailed sampling frame is available, listing, at minimum, all households in 
+the survey area, or, at best, all eligible individuals in the survey area. 
+ 
+Simple random sampling can be combined with stratification. In stratified 
+random sampling, the population is first stratified and then a random sample 
+is drawn from each strata. 
+ 
+Note: If simple or stratified random sampling is deemed to be feasible in a 
+country, a smaller sample size can be used.  In the calculation for sample size  
+a design effect of 1 should be used. 
+ 
+ 
+ 
+Multi-stage 
+cluster 
+sampling 
+Multi-stage cluster sampling is one of the most common sample designs for 
+national surveys and it is the recommended method for most STEPS surveys. 
+ 
+"Multi-stage" indicates that sampling is done in several steps. First larger 
+sampling units are selected then smaller sampling units are selected within the 
+selected larger units. "Cluster" refers to the fact that the sampling units are 
+subdivided into mutually-exclusive clusters and, unlike stratification, only a 
+sample of these clusters is selected for the survey. 
+ 
+ 
+ 
+Why use multi- 
+stage cluster 
+sampling? 
+The table below highlights two primary reasons for using multi-stage cluster 
+sampling. These are very common problems in national surveys that can be 
+overcome with the use of multi-stage cluster sampling. 
+ 
+Problem 
+Solution 
+Detailed information does not 
+exist for all households or 
+individuals in the sample 
+population and it is not 
+feasible to create a detailed 
+sampling frame for the entire 
+survey area. 
+Multi-stage cluster sampling  allows for 
+the selection of larger sampling units (e.g. 
+villages) that require less detailed 
+information about the target population. 
+It is only at the final stage of sampling 
+(most often the selection of households) 
+that detailed information needs to be 
+available. However, because only a 
+selection of clusters will be chosen at 
+each stage of sampling, the detailed 
+sampling frames are only needed for a 
+subset of the entire target population. 

@@ -1,0 +1,32 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+207
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Pourquoi et comment valider le profil 
+de votre établissement ?
+Cibles prioritaires ES 
+ Objectifs de la fiche
+Cette fiche définit les champs d’applicabilité des critères spécifiques du référentiel Qualité des soins et explique ce 
+qui doit être réalisé par l’établissement pour obtenir la liste personnalisée de l’ensemble des critères qui lui seront 
+applicables.
+Afin de déterminer les critères spécifiques du référentiel applicables à votre établissement, il est indispensable de 
+vérifier le profil de votre établissement. Cette tâche consiste à vous assurer de l’exactitude des champs d’applicabilité 
+pré-renseignés dans CALISTA.
+ Pour bien commencer
+Le référentiel de certification s’adresse à tous les établissements de santé, tout en étant spécifique et adaptable 
+à chaque établissement . À cette fin, le référentiel contient 90 critères génériques s’appliquant à l’ensemble des 
+établissements de santé, et 41 critères spécifiques liés à des champs d’applicabilité particuliers relevant :
+• • de populations spécifiques : enfant et adolescent, patient âgé, vivant avec un handicap (dans les critères 
+génériques, une attention particulière souligne, en cas de besoin, l’intégration des patients atteints d’une 
+maladie chronique ou en situation de précarité) ;
+• • de modes de prise en charge spécifiques : ambulatoire (ce champ d’applicabilité intègre la prise en charge à 
+temps partiel et en hôpital de jour), hospitalisation à domicile (HAD), SAMU-SMUR, urgences, soins critiques 
+(catégorie regroupant les soins continus, les soins intensifs et la réanimation) ;
+• • de secteurs d’activité spécifiques : chirurgie et interventionnel, maternité, psychiatrie et santé mentale, soins 
+médicaux et de réadaptation (SMR), unité de soins de longue durée (USLD).
+Les champs d’applicabilité des critères spécifiques (secteurs d’activité, populations et modes de prise en charge) 
+sont pré-renseignés dans CALISTA. Ils correspondent au périmètre initial de chaque établissement.
+ Fiche pratique opératoire_E6

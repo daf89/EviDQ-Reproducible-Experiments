@@ -1,0 +1,122 @@
+
+
+===== PDF PAGE 85 =====
+
+73
+Annex
+Annex A
+Electronic database search strategies
+Database
+Search
+PubMed
+(n = 2307)
+( ( (“Diabetes”) AND ( “Evaluation Indicator*”[Title/Abstract] OR “Evaluation Benchmark*”[Title/
+Abstract] OR “Evaluation Metric*”[Title/Abstract] OR “Evaluation Index”[Title/Abstract] OR 
+“Evaluation Indices”[Title/Abstract] OR “Process Indicator*”[Title/Abstract] OR “Process 
+Benchmark*”[Title/Abstract] OR “Process Metric*”[Title/Abstract] OR “Process Index”[Title/Abstract] 
+OR “Process Indices”[Title/Abstract] OR “Outcome Indicator*”[Title/Abstract] OR “Outcome 
+Benchmark*”[Title/Abstract] OR “Outcome Metric*”[Title/Abstract] OR “Outcome Index”[Title/
+Abstract] OR “Outcome Indices”[Title/Abstract] OR “Performance Indicator*”[Title/Abstract] 
+OR “Performance Benchmark*”[Title/Abstract] OR “Performance Metric*”[Title/Abstract] OR 
+“Performance Index”[Title/Abstract] OR “Performance Indices”[Title/Abstract] OR “Surveillance 
+Indicator*”[Title/Abstract] OR “Surveillance Benchmark*”[Title/Abstract] OR “Surveillance 
+Metric*”[Title/Abstract] OR “Surveillance Index”[Title/Abstract] OR “Surveillance Indices”[Title/
+Abstract] OR “Monitoring Indicator*”[Title/Abstract] OR “Monitoring Benchmark*”[Title/Abstract] 
+OR “Monitoring Metric*”[Title/Abstract] OR “Monitoring Index”[Title/Abstract] OR “Monitoring 
+Indices”[Title/Abstract] OR “Quality Indicator*”[Title/Abstract] OR “Quality Benchmark*”[Title/
+Abstract] OR “Quality Metric*”[Title/Abstract] OR “Quality Index”[Title/Abstract] OR “Quality 
+Indices”[Title/Abstract] OR “Capacity Indicator*”[Title/Abstract] OR “Capacity Benchmark*”[Title/
+Abstract] OR “Capacity Metric*”[Title/Abstract] OR “Capacity Index”[Title/Abstract] OR 
+“Capacity Indices”[Title/Abstract] OR “Governance Indicator*”[Title/Abstract] OR “Governance 
+Benchmark*”[Title/Abstract] OR “Governance Metric*”[Title/Abstract] OR “Governance Index”[Title/
+Abstract] OR “Governance Indices”[Title/Abstract] OR “Availability Indicator*”[Title/Abstract] OR 
+“Availability Benchmark*”[Title/Abstract] OR “Availability Metric*”[Title/Abstract] OR “Availability 
+Index”[Title/Abstract] OR “Availability Indices”[Title/Abstract] OR “Affordability Indicator*”[Title/
+Abstract] OR “Affordability Benchmark*”[Title/Abstract] OR “Affordability Metric*”[Title/
+Abstract] OR “Affordability Index”[Title/Abstract] OR “Affordability Indices”[Title/Abstract] 
+OR “Risk Management Indicator*”[Title/Abstract] OR “Risk Management Benchmark*”[Title/
+Abstract] OR “Risk Management Metric*”[Title/Abstract] OR “Risk Management Index”[Title/
+Abstract] OR “Risk Management Indices”[Title/Abstract] OR “Service Delivery Indicator*”[Title/
+Abstract] OR “Service Delivery Benchmark*”[Title/Abstract] OR “Service Delivery Metric*”[Title/
+Abstract] OR “Service Delivery Index”[Title/Abstract] OR “Service Delivery Indices”[Title/Abstract] 
+OR “Impact Indicator*”[Title/Abstract] OR “Impact Benchmark*”[Title/Abstract] OR “Impact 
+Metric*”[Title/Abstract] OR “Impact Index”[Title/Abstract] OR “Impact Indices”[Title/Abstract] OR 
+“Care Indicator*”[Title/Abstract] OR “Care Benchmark*”[Title/Abstract] OR “Care Metric*”[Title/
+Abstract] OR “Care Index”[Title/Abstract] OR “Care Indices”[Title/Abstract] OR “Health System 
+Indicator*”[Title/Abstract] OR “Health System Benchmark*”[Title/Abstract] OR “Health System 
+Metric*”[Title/Abstract] OR “Health System Index”[Title/Abstract] OR “Health System Indices”[Title/
+Abstract] OR “Health Facility Indicator*”[Title/Abstract] OR “Health Facility Benchmark*”[Title/
+Abstract] OR “Health Facility Metric*”[Title/Abstract] OR “Health Facility Index”[Title/Abstract] OR 
+“Health Facility Indices”[Title/Abstract] OR “Monitoring framework*”[Title/ Abstract] OR “Clinical 
+management guideline*”[Title/Abstract] OR “Core outcome set*”[Title/Abstract] OR “Metric 
+Selection Process*”[Title/Abstract] OR “Clinical control parameter*”[Title/Abstract] OR “National 
+registr*”[Title/Abstract] OR “National database*”[Title/Abstract] OR “Diabetes audit*”[Title/
+Abstract] OR “Access to healthcare”[Title/Abstract] OR “Access to health care”[Title/Abstract] OR
+
+
+===== PDF PAGE 86 =====
+
+74
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Database
+Search
+“Healthcare service* availability”[Title/Abstract] OR “Health care service* availability”[Title/
+Abstract] OR “Healthcare access”[Title/Abstract] OR “Health care access”[Title/Abstract] OR 
+“Health economic indicator*”[Title/Abstract] OR “Productivity loss”[Title/Abstract] OR “Budget 
+impact”[Title/Abstract] OR “Absenteeism”[Title/Abstract] OR “Economic evaluation”[Title/
+Abstract] OR “Cost of diabetes”[Title/Abstract] OR “Socioeconomic disparit*”[Title/Abstract] 
+OR “Health equity”[Title/Abstract] OR “Socioeconomic factor*”[Title/Abstract] OR “Socio-
+economic factor*”[Title/Abstract] OR “Social determinant* of health”[Title/Abstract] OR 
+“Prevention strateg*”[Title/Abstract] OR “Risk management strateg*”[Title/Abstract] OR 
+“Risk factor management”[Title/Abstract] OR “Risk factor reduction”[Title/Abstract] OR “Self-
+management strateg*”[Title/Abstract] OR “Modifiable risk behavi*”[Title/Abstract] OR “Behavioral 
+determinant*”[Title/Abstract] OR “Behavioural determinant*”[Title/Abstract] OR “Behavioral 
+risk*”[Title/Abstract] OR “Behavioural risk*”[Title/Abstract] OR “Healthcare professional 
+engagement*”[Title/Abstract] OR “Health professional engagement*”[Title/Abstract] OR “Public 
+health impact*”[Title/Abstract] OR “Health policy effectiveness”[Title/Abstract] OR “Policy impact 
+metric*”[Title/Abstract] ) ) OR ( ( “Diabetes Evaluation”[Title/Abstract] OR “Diabetes Mellitus 
+Evaluation”[Title/Abstract] OR “Diabetes Surveillance”[Title/Abstract] OR “Diabetes Mellitus 
+Surveillance”[Title/Abstract] OR “Diabetes Monitoring”[Title/Abstract] OR “Diabetes Mellitus 
+Monitoring”[Title/Abstract] ) AND ( “Indicator*”[Title/Abstract] OR “Benchmark*”[Title/Abstract] 
+OR “Metric*”[Title/Abstract] OR “Index”[Title/Abstract] OR “Indices”[Title/Abstract] ) ) ) AND ( 
+“Consensus”[Title/Abstract] OR “Framework*”[Title/Abstract] OR “Review*”[Title/Abstract] OR 
+“Delphi”[Title/Abstract] )
+Cochrane 
+Database of 
+Systematic 
+Reviews
+(n = 20)
+( ( (Diabetes) AND ( (Evaluation NEXT Indicator*):ab,ti OR (Evaluation NEXT Benchmark*):ab,ti 
+OR (Evaluation NEXT Metric*):ab,ti OR (Evaluation NEXT Index):ab,ti OR (Evaluation NEXT 
+Indices):ab,ti OR (Process NEXT Indicator*):ab,ti OR (Process NEXT Benchmark*):ab,ti OR (Process 
+NEXT Metric*):ab,ti OR (Process NEXT Index):ab,ti OR (Process NEXT Indices):ab,ti OR (Outcome 
+NEXT Indicator*):ab,ti OR (Outcome NEXT Benchmark*):ab,ti OR (Outcome NEXT Metric*):ab,ti 
+OR (Outcome NEXT Index):ab,ti OR (Outcome NEXT Indices):ab,ti OR (Performance NEXT 
+Indicator*):ab,ti OR (Performance NEXT Benchmark*):ab,ti OR (Performance NEXT Metric*):ab,ti 
+OR (Performance NEXT Index):ab,ti OR (Performance NEXT Indices):ab,ti OR (Surveillance NEXT 
+Indicator*):ab,ti OR (Surveillance NEXT Benchmark*):ab,ti OR (Surveillance NEXT Metric*):ab,ti 
+OR (Surveillance NEXT Index):ab,ti OR (Surveillance NEXT Indices):ab,ti OR (Monitoring NEXT 
+Indicator*):ab,ti OR (Monitoring NEXT Benchmark*):ab,ti OR (Monitoring NEXT Metric*):ab,ti OR 
+(Monitoring NEXT Index):ab,ti OR (Monitoring NEXT Indices):ab,ti OR (Quality NEXT Indicator*):ab,ti 
+OR (Quality NEXT Benchmark*):ab,ti OR (Quality NEXT Metric*):ab,ti OR (Quality NEXT Index):ab,ti 
+OR (Quality NEXT Indices):ab,ti OR (Capacity NEXT Indicator*):ab,ti OR (Capacity NEXT 
+Benchmark*):ab,ti OR (Capacity NEXT Metric*):ab,ti OR (Capacity NEXT Index):ab,ti OR (Capacity 
+NEXT Indices):ab,ti OR (Governance NEXT Indicator*):ab,ti OR (Governance NEXT Benchmark*):ab,ti 
+OR (Governance NEXT Metric*):ab,ti OR (Governance NEXT Index):ab,ti OR (Governance NEXT 
+Indices):ab,ti OR (Availability NEXT Indicator*):ab,ti OR (Availability NEXT Benchmark*):ab,ti OR 
+(Availability NEXT Metric*):ab,ti OR (Availability NEXT Index):ab,ti OR (Availability NEXT Indices):ab,ti 
+OR (Affordability NEXT Indicator*):ab,ti OR (Affordability NEXT Benchmark*):ab,ti OR (Affordability 
+NEXT Metric*):ab,ti OR (Affordability NEXT Index):ab,ti OR (Affordability NEXT Indices):ab,ti OR 
+(“Risk Management” NEXT Indicator*):ab,ti OR (“Risk Management” NEXT Benchmark*):ab,ti 
+OR (“Risk Management” NEXT Metric*):ab,ti OR (“Risk Management” NEXT Index):ab,ti OR (“Risk 
+Management” NEXT Indices):ab,ti OR (“Service Delivery” NEXT Indicator*):ab,ti OR (“Service 
+Delivery” NEXT Benchmark*):ab,ti OR (“Service Delivery” NEXT Metric*):ab,ti OR (“Service Delivery” 
+NEXT Index):ab,ti OR (“Service Delivery” NEXT Indices):ab,ti OR (Impact NEXT Indicator*):ab,ti OR 
+(Impact NEXT Benchmark*):ab,ti OR (Impact NEXT Metric*):ab,ti OR (Impact NEXT Index):ab,ti 
+OR (Impact NEXT Indices):ab,ti OR (Care NEXT Indicator*):ab,ti OR (Care NEXT Benchmark*):ab,ti 
+OR (Care NEXT Metric*):ab,ti OR (Care NEXT Index):ab,ti OR (Care NEXT Indices):ab,ti OR (“Health 
+System” NEXT Indicator*):ab,ti OR (“Health System” NEXT Benchmark*):ab,ti OR (“Health System” 
+NEXT Metric*):ab,ti OR (“Health System” NEXT Index):ab,ti OR (“Health System” NEXT Indices):ab,ti 
+OR (“Health Facility” NEXT Indicator*):ab,ti OR (“Health Facility” NEXT Benchmark*):ab,ti OR 
+(“Health Facility” NEXT Metric*):ab,ti OR (“Health Facility” NEXT Index):ab,ti OR (“Health Facility” 
+NEXT Indices):ab,ti OR (Monitoring NEXT framework*):ab,ti OR (“Clinical management” NEXT 

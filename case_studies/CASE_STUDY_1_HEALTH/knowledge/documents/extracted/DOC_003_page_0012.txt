@@ -1,0 +1,113 @@
+11. Patient-centred care in hypertension 
+An informed discussion about CVD risk and treatment benefits tailored to the needs of a patient is recommended as part of hypertension 
+management. 
+I 
+C 
+Motivational interviewing should be considered for patients with hypertension at hospitals and community health centres to assist patients 
+in controlling their BP and to enhance treatment adherence. 
+IIa 
+B 
+Physician–patient web communications are an effective tool that should be considered in primary care, including reporting on home BP 
+readings. 
+IIa 
+C 
+Home BP measurement for managing hypertension by using self-monitored BP is recommended to achieve better BP control. 
+I 
+B 
+Self-measurement, when properly performed, is recommended due to positive effects on the acceptance of a diagnosis of hypertension, 
+patient empowerment, and adherence to treatment. 
+I 
+C 
+Enhanced self-monitoring of BP using a device paired with a connected smartphone application may be considered, though evidence to date 
+suggests that this may be no more effective than standard self-monitoring. 
+IIb 
+B 
+Multidisciplinary approaches in the management of patients with elevated BP and hypertension, including appropriate and safe task-shifting 
+away from physicians are recommended to improve BP control. 
+I 
+A 
+© ESC 2024
+ABPM, ambulatory blood pressure monitoring; ACE, angiotensin-converting enzyme; ACR, albumin-to-creatinine ratio (urine); AF, atrial fibrillation; ALARA, as low as reasonably achievable; 
+ARB, angiotensin receptor blocker; BP, blood pressure; CAC, coronary artery calcium; CCB, calcium channel blocker; CKD, chronic kidney disease; CVD, cardiovascular disease; eGFR, 
+estimated glomerular filtration rate; HBPM, home blood pressure monitoring; HFpEF, heart failure with preserved ejection fraction; HIV, human immunodeficiency virus; HMOD, 
+hypertension-mediated organ damage; MRA, mineralocorticoid receptor antagonist; RAS, renin–angiotensin system; SCORE2, Systematic COronary Risk Evaluation 2; SCORE2-OP, 
+Systematic COronary Risk Evaluation 2–Older Persons; SGLT2, sodium–glucose co-transporter 2. 
+aClass of recommendation. 
+bLevel of evidence. 
+Table 4 Revised recommendations 
+Recommendations in 2018 version 
+Classa 
+Levelb 
+Recommendations in 2024 version 
+Classa 
+Levelb 
+6. Definition and classification of elevated blood pressure and hypertension 
+It is recommended that BP be classified as optimal, 
+normal, high–normal, or grades 1–3 hypertension, 
+according to office BP. 
+I 
+C 
+It is recommended that BP be categorized as 
+non-elevated BP, elevated BP, and hypertension to aid 
+treatment decisions. 
+I 
+B 
+CV risk assessment with the SCORE system is 
+recommended for hypertensive patients who are not 
+already at high or very high risk due to established CVD, 
+renal disease, or diabetes, a markedly elevated single 
+risk factor (e.g. cholesterol), or hypertensive LVH. 
+I 
+B 
+SCORE2 is recommended for assessing 10-year risk of 
+fatal and non-fatal CVD among individuals aged 40–69 
+years with elevated BP who are not already considered 
+at increased risk due to moderate or severe CKD, 
+established CVD, HMOD, diabetes mellitus, or familial 
+hypercholesterolaemia. 
+I 
+B 
+SCORE2-OP is recommended for assessing the 
+10-year risk of fatal and non-fatal CVD among 
+individuals aged ≥70 years with elevated BP who are 
+not already considered at increased risk due to 
+moderate or severe CKD, established CVD, HMOD, 
+diabetes mellitus, or familial hypercholesterolaemia. 
+I 
+B 
+7. Diagnosing hypertension and investigating underlying causes 
+It is recommended that the diagnosis of hypertension 
+should be based on: 
+• Repeated office BP measurements on more than one 
+visit, except when hypertension is severe (e.g. grade 3 
+and especially in high-risk patients). At each visit, three 
+BP measurements should be recorded, 1–2 min apart, 
+and additional measurements should be performed if 
+the first two readings differ by >10 mmHg. The 
+patient’s BP is the average of the last two BP readings. 
+Or 
+• Out-of-office BP measurement with ABPM and/or 
+HBPM, provided that these measurements are 
+logistically and economically feasible. 
+I 
+C 
+Where screening office BP is 140–159/90–99 mmHg, it is 
+recommended that the diagnosis of hypertension should 
+be based on out-of-office BP measurement with ABPM 
+and/or HBPM. If these measurements are not logistically 
+or economically feasible, then diagnosis can be made on 
+repeated office BP measurements on more than one visit. 
+I 
+B 
+Where screening office BP is ≥160/100 mmHg: 
+• It is recommended that BP 160–179/100–109 mmHg 
+be confirmed as soon as possible (e.g. within 1 
+month) preferably by either home or ambulatory BP 
+measurements. 
+• It is recommended when BP ≥180/110 mmHg that 
+hypertensive emergency be excluded. 
+I 
+C 
+Continued 
+ESC Guidelines 3923 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

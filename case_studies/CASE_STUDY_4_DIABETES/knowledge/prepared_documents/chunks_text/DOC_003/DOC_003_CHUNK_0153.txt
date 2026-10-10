@@ -1,0 +1,202 @@
+
+
+===== PDF PAGE 305 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4G-3 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+LIGHTING 
+Question 
+Response 
+Code 
+Does this household use anything for 
+lighting? 
+Yes 
+1 
+HE 8 
+No  2        If No, go to next section 
+Don't know  77 
+What does this household use most of the 
+time as energy for lighting, or as a light 
+source? Please tell me the light source used 
+for the most time each day.  
+Electricity  1         
+HE 9 
+Solar-powered lantern or flashlight 
+2         
+ 
+Rechargeable flashlight, torch or lantern 
+3 
+ 
+Battery powered flashlight, torch or lantern  4         
+ 
+Biogas lamp 
+5         
+ 
+Liquified petroleum gas lamp 
+6         
+ 
+Gasoline lamp 
+7         
+ 
+Kerosene or paraffin lamp  8 
+ 
+Oil lamp 
+9 
+ 
+Candle 
+10 
+ 
+Open fire (wood/charcoal/crop residue/animal 
+dung or waste) 
+11 
+ 
+Other 
+12 If Yes, go to HE9other 
+ 
+Don’t know 
+77 
+ 
+ 
+Other (please specify) 
+└─┴─┴─┴─┴─┘ 
+HE9other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF PAGE 306 =====
+
+HPart 5: The STEPS Instrument 
+ 
+5-4H-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+Sensory Functions Module 
+ 
+ 
+Vision  
+The next questions ask about your vision and hearing, problems with your vision and hearing and any care that you may have received for 
+problems with your vision or hearing.   
+ 
+Question 
+Response 
+Code 
+Do you have difficulty seeing objects in the distance even when 
+wearing glasses or contact lenses? (e.g. driving or watching TV) 
+[Insert country specific examples] 
+Yes 
+1 
+SF1a 
+No 
+2 
+Do you have difficulty seeing things up close even when wearing 
+glasses? (e.g. reading)?  
+[Insert country specific examples] 
+Yes 
+1 
+SF1b 
+No 
+2 
+Have you ever had your vision/eyes checked by a doctor or other 
+health worker? 
+Yes 
+1    If yes, go to SF4 
+SF2 
+No 
+2  
+What is the main reason you have not had your vision/eyes 
+checked? 
+Too expensive, could not afford 
+1 If yes, go to SF6 
+SF3 
+Service too far away 
+2 If yes, go to SF6 
+Unavailability of services 
+3 If yes, go to SF6 
+Not aware I needed to 
+4 If yes, go to SF6 
+Other (please specify) 
+5 └─┴─┴─┴─┴─┴─┘Go to 
+SF6 
+How long ago did you have your vision/eyes last checked by a 
+doctor or other health worker? 
+Years 
+1└─┴─┘If known, go to SF5 
+SF4 
+ OR Months 
+2└─┴─┘If known, go to SF5 
+OR Weeks 
+3└─┴─┘If known, go to SF5 
+ OR Days 
+4└─┴─┘ If known, go to SF5 
+Don’t know 
+77 
+Have you ever been given a prescription by a doctor or other health 
+worker for glasses or contact lenses? 
+Yes 
+1 
+SF5 
+No 
+2 
+Do you regularly wear glasses or contact lenses? 
+ 
+ 
+Yes 
+1 
+SF6 
+No 
+2 If No and SF5=1, go to SF8, 
+otherwise go to SF9 
+What are the glasses or contact lenses for? 
+Distance (driving or 
+watching TV) 
+1 If Yes, go to SF9 
+SF7 
+Near (reading or 
+computer work) 
+2 If Yes, go to SF9 
+Both 
+3 If Yes, go to SF9 
+What is the main reason you are not wearing the glasses or contact 
+lenses prescribed for you? 
+(RECORD ONLY ONE) 
+Too expensive, could not afford 
+1  
+SF8 
+Shop/service provider too far 
+away 
+2 

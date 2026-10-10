@@ -1,0 +1,65 @@
+{
+  "step": "STEP13_KB_DOCUMENT_CONSTRUCTION_PREPARATION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-22T16:08:23.837944+00:00",
+  "local_processor": "Python / Jupyter",
+  "next_semantic_processor": "GPT-5.6 Sol",
+  "input": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\llmb_output\\Table_LLMB_Established_Knowledge.csv",
+  "input_established_knowledge_items": 81,
+  "exact_knowledge_groups": 23,
+  "strict_duplicate_rows_grouped": 58,
+  "groups_with_multiple_source_items": 4,
+  "strict_duplicate_definition": [
+    "feature",
+    "knowledge_type",
+    "knowledge_statement_after_whitespace_normalization"
+  ],
+  "knowledge_statement_semantically_modified": false,
+  "semantic_consolidation_performed": false,
+  "semantic_similarity_used": false,
+  "tfidf_used": false,
+  "cosine_similarity_used": false,
+  "embeddings_used": false,
+  "keyword_prefilter_used": false,
+  "top_k_used": false,
+  "cross_feature_merging": false,
+  "cross_knowledge_type_merging": false,
+  "knowledge_type_conversion": false,
+  "dataset_used": false,
+  "dataset_diagnosis": false,
+  "correction_application": false,
+  "hidden_reference_used": false,
+  "external_knowledge_used": false,
+  "provenance_preserved": true,
+  "knowledge_types": [
+    "SEMANTICS",
+    "DOMAIN_CONSTRAINT",
+    "ERROR",
+    "DETECTION",
+    "CORRECTION"
+  ],
+  "original_distribution": {
+    "SEMANTICS": 42,
+    "DOMAIN_CONSTRAINT": 34,
+    "ERROR": 1,
+    "DETECTION": 3,
+    "CORRECTION": 1
+  },
+  "feature_distribution": {
+    "registry_stage_code": 65,
+    "age_diag": 9,
+    "mkb10_code": 7
+  },
+  "outputs": {
+    "semantic_consolidation_csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\consolidation_input\\GPT56_KB_DOCUMENT_Consolidation_Input.csv",
+    "semantic_consolidation_jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\consolidation_input\\GPT56_KB_DOCUMENT_Consolidation_Input.jsonl",
+    "full_provenance_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\tables\\Table_Exact_Knowledge_Provenance.csv",
+    "summary_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\tables\\Table_PreSemantic_Consolidation_Summary.csv",
+    "strict_duplicate_groups": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\tables\\Table_Strict_Exact_Duplicate_Groups.csv"
+  },
+  "sha256": {
+    "semantic_consolidation_csv": "22c2267eea60b365306b83678179eeebd4dcdaf5331a6f0c928763eedce1cea6",
+    "semantic_consolidation_jsonl": "618aa6fbffbdcdac3fbd6cd12e8a516c5e71227b581029505d75dfef3da0b452",
+    "full_provenance_table": "6fceda5647562cb16c10a5223fd810f510a84f2d3117699b2d26d2ed5c82eda4"
+  }
+}

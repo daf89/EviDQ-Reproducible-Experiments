@@ -1,0 +1,74 @@
+
+
+===== PDF PAGE 355 =====
+
+ 
+ 
+
+
+===== PDF PAGE 356 =====
+
+WHO STEPS noncommunicable disease risk factor surveillance 
+www.who.int/chp/steps 
+6-3A-1 
+fact sheet 
+ 
+ 
+ 
+ 
+ 
+The STEPS survey of noncommunicable disease (NCD) risk factors in [country name] was carried out from [insert month 
+and year] to [insert month and year]. [country name] carried out Step 1, Step 2 and Step 3. Socio demographic and 
+behavioural information was collected in Step 1. Physical measurements such as height, weight and blood pressure were 
+collected in Step 2. Biochemical measurements were collected to assess blood glucose and cholesterol levels in Step 3. 
+The survey was a population-based survey of adults aged 18-69 [adjust as necessary]. A [insert type of sampling design] 
+sample design was used to produce representative data for that age range in [insert country name]. A total of [insert 
+sample size] adults participated in the survey. The overall response rate was [insert response rate (x%)]. A repeat survey 
+   is planned for [insert year] if funds permit. 
+ 
+ 
+Results for adults aged 18-69 years (incl. 95% CI) (adjust if necessary) 
+Both Sexes 
+Males 
+Females 
+Step 1 Tobacco Use 
+Percentage who currently smoke tobacco 
+77.1% 
+(66.2 – 88.1) 
+77.2% 
+(66.2 – 88.1) 
+77.4% 
+(66.2 – 88.1) 
+Percentage who currently smoke tobacco daily 
+For those who smoke tobacco daily 
+Average age started smoking (years) 
+Percentage of daily smokers smoking manufactured cigarettes 
+Mean number of manufactured cigarettes smoked per day (by smokers of 
+manufactured cigarettes) 
+Step 1 Alcohol Consumption 
+Percentage who are lifetime abstainers 
+Percentage who are past 12 month abstainers 
+Percentage who currently drink (drank alcohol in the past 30 days) 
+Percentage who engage in heavy episodic drinking (6 or more drinks on 
+any occasion in the past 30 days) 
+Step 1 Diet 
+Mean number of days fruit consumed in a typical week 
+Mean number of servings of fruit consumed on average per day 
+Mean number of days vegetables consumed in a typical week 
+Mean number of servings of vegetables consumed on average per day 
+Percentage who ate less than 5 servings of fruit and/or vegetables on 
+average per day 
+Percentage who always or often add salt or salty sauce to their food 
+before eating or as they are eating 
+Percentage who always or often eat processed foods high in salt 
+Step 1 Physical Activity 
+Percentage with insufficient physical activity (defined as < 150 minutes of 
+moderate-intensity activity per week, or equivalent)* 
+Median time spent in physical activity on average per day (minutes) 
+(presented with inter-quartile range) 
+Percentage not engaging in vigorous activity 
+* For complete definitions of insufficient physical activity, refer to the GPAQ Analysis Guide 
+(http://www.who.int/chp/steps/GPAQ/en/index.html) or to the WHO Global recommendations on physical activity for health 
+(http://www.who.int/dietphysicalactivity/factsheet_recommendations/en/index.html) 
+<Country> STEPS Survey <year> 
+Fact Sheet 

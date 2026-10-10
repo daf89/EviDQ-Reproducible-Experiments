@@ -1,0 +1,48 @@
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T 
+Using CDS for Quality Improvement 
+CDScan be a powerful tool for QI, but overuse of alarms and other reminders has been shown to create 
+“alert fatigue” and even lead to important warnings being ignored or bypassed when users are busy or 
+under stress.[52] 
+Below are some things Health IT Advisors should consider when incorporating a provider-facing CDS 
+intervention in an EHR: 
+• 
+Remember that CDSincludes severalpossible interventions, including on-demand contextual 
+access to reference data, “smart” documentation templates and phrases, and the design and 
+layout of flowsheets and rounding sheets (a “synoptic report” for diabetes care was used in the 
+Case Study presented in Section 6). Even printed reports can be organized and presented to 
+enhance clinical decision making, thus making them a form of CDS using our broad definition. 
+• 
+Overuse of CDS alerts and other reminders, poorly designed prompts, and “bad” data leading to 
+inappropriate triggers can all lead to alert fatigue. Clinics should carefully prioritize and manage 
+the number and intensity of CDS interventions and be cautious about adding new interruptive 
+prompts or warnings that can distract (and annoy) clinicians and staff. 
+• 
+CDS interventions should align with related quality efforts. For example, if a clinic is reporting 
+quality measures to focus attention on diabetes care, including a CDS alert to flag high or 
+missing A1c values would be a logical choice. 
+• 
+EHR vendors often provide pre-defined CDS content in the form of a menu of prompts, alerts, 
+templates, order sets, andthird-partycontent. Where possible, these should be carefully 
+evaluatedand tailoredto fit the clinic’s workflows and priorities. 
+EXAMPLE: 
+After proposing a new CDS alert as partof a QI project, you find that the clinicians are actively 
+hostile to the idea of adding “another click”to theirworkflow.You dig deeperand find that the 
+vendor had turned on many alerts by default, leading to alertfatigue. After addressingdefault 
+alert settings, you suggest that—additionally—areview seeking “low-value”CDS be 
+performed, which may also reduceunhelpful alerts and alert fatigue. 
+When Health IT Advisors plan to implement new CDS interventions, they can assist clinics by first 
+reviewing and optimizing existing alerts and prompts to weed out those with low value and/or those 
+driven by poor data, as well as to ensure—before implementation—that any planned CDSefforts will 
+have sizable, meaningful impact. 
+• 
+Patient data needed to drive CDStriggers andlogic must be as complete as possible. For 
+example, setting a ten-year time window for a preventive alert for colonoscopy only works if ten 
+years of data are accessible by the EHR and not “hidden” in scanned documents or clinical 
+narrative. 
+• 
+CDS interventions should be evidence-based. Before designing or implementing a new CDS 
+intervention, search the literature for triggers and logic paths that have been validated in a 
+similar setting and with a comparable patient population. 
+Health IT Advisor Handbook 
+Page 57

@@ -1,0 +1,16 @@
+{
+    "step": "05_feature_control_and_dataset_new",
+    "dataset_ref_rows": 1902,
+    "excluded_indeterminate_target_rows": 37,
+    "dataset_new_rows": 1865,
+    "dataset_new_columns": 28,
+    "Y_0": 1198,
+    "Y_1": 667,
+    "candidate_features_before_final_review": 14,
+    "diag_year_exact_match_pct": 100.0,
+    "mkb10_prefix_exact_match_pct": 100.0,
+    "histology_icdo_one_to_one": true,
+    "model_trained": false,
+    "shap_computed": false,
+    "dataset_ref_modified": false
+}

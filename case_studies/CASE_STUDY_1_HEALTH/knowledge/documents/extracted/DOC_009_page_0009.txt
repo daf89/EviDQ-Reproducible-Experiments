@@ -1,0 +1,95 @@
+Included in another SBD (5 nodes)
+Included in Hospital bill (6 nodes)
+Node is part of a global fee where charges were captured on another date, that is, node is a leaf. (3 nodes)
+These procedures for identifying SBD‑OBD overlap in the manual review were similar to those used for the automated
+review, except the manual review looked across the entire SBD contact group (instead of being restricted to OBD and
+SBD providers with the same provider identification number). In addition to these rules, the SBD was coded as abstracted
+in error if the SBD should not have been recorded during the Hospital stay because the specialty (such as “nurse”) was
+included in the Hospital event charges.
+As a step in the preparation of the SBD sample, attempts are made to match all SBD providers to a National Provider
+Identifier (NPI) to assign an identification number. In many instances, the provider’s NPI was included in the records and
+was abstracted into the Event Form. If the NPI was not in the record, DCSs looked up the number in the NPI Registry.
+SBD providers that could not be associated with an NPI were assigned a unique identifier in the same format as the NPI.
+The NPI Registry includes both individual and organizational providers.
+Return to Table of Contents
+3.2 Data Abstraction
+Once the provider acknowledged receipt of the AFs, the DCS either collected information over the telephone through
+electronic Event Forms specific to each provider type or planned to receive medical records and patient account
+information.
+Since the 2020 cycle, all MPC abstraction work has been performed using PDF files of the records. Tools that
+accommodate the abstraction of the PDF records include allowing abstractors to highlight the PDF files and an eANF
+used for entering abstraction notes. Records that arrived via hardcopy were scanned and converted to PDF format to allow
+for abstraction. Abstractors were able to access the PDF records and highlight and save the abstracted version for future
+review. Once all data elements were successfully highlighted, the abstractor could proceed with keying the data elements
+into the eANF. The data abstracted into the eANF were automatically loaded into the Blaise Event Forms for manual
+review and verification by the abstractor. These same processes and procedures were used for the 2024 cycle.
+Table 3.1 displays the proportion of participating Hospital, OBD, and SBD contact groups4 that elected to participate by
+sending in medical records and patient account information for abstraction. Reflecting the preference for collecting
+Hospital records for abstraction, in the 2024 cycle most Hospital contact groups, 88.3%, provided medical records for
+abstraction and 88.7% provided patient account records. In both OBD and SBD contact groups, protocols concerning
+collecting data by telephone were more flexible than in Hospitals. Close to half (45.3%) of OBD contact groups provided
+records and 27.3% of SBD contact groups provided records.
+The distribution for the 2024 cycle reflects emphasis on Hospital records abstraction, and on telephone data collection for
+OBDs. Because Hospital records tend to be lengthy and because of the number of patients involved in the record requests,
+Hospitals generally prefer to participate in the MPC by sending records rather than providing data over the telephone.
+This is also beneficial from a data quality perspective because the Hospital protocol can result in a great deal of
+information and availability of records for review is helpful to assure comprehensive and accurate abstraction. In the 2024
+cycle, the data collection team had to exhibit more flexibility with regard to completing eligible Hospital pairs by phone,
+given the constraints some POCs faced with availability of data and access to systems when working remotely.
+Information obtained from OBD and SBD contact groups is more straightforward and more amenable to telephone data
+collection which can be less burdensome to providers as well as a more efficient mode for uncomplicated billing
+situations.
+4 Note that these counts and percentages are based on participation at the contact group level, not individual providers. As
+noted in section 2, contact groups may consist of multiple providers as, for example, a group practice that employs a
+number of physicians or a healthcare system that may contain several Hospitals. Note as well that contact group is a
+different metric than the concept of “provider wave” reported in the MPC prior to 2009. In a provider wave, a provider is
+counted once for each wave of the sample in which it is represented. Table 3.1 reports the percentage of contact groups
+that provided medical and patient account records.
+Return to Table of Contents
+Table 3‑1. Percent of Participating Contact Groups Providing Records, 2021‑2024
+Table 3‑1. Percent of Participating Contact Groups Providing Records, 2021
+Provider Type
+Participating Contact Groups
+Groups Providing Records
+Percent
+Hospital—Medical Records
+2,766
+2,398
+86.7%
+Hospital—Patient Accounts
+2,766
+2,459
+88.9%
+Office‑Based Doctors
+7,704
+3,737
+48.5%
+Separately Billing Doctors
+2,331
+684
+29.3%
+Table 3‑1. Percent of Participating Contact Groups Providing Records, 2022
+Provider Type
+Participating Contact Groups
+Groups Providing Records
+Percent
+Hospital—Medical Records
+2,493
+2,283
+91.6%
+Hospital—Patient Accounts
+2,493
+2,196
+88.1%
+Office‑Based Doctors
+7,167
+3,376
+47.1%
+Separately Billing Doctors
+2,827
+618
+21.9%
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+9/40

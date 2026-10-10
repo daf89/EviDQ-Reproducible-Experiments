@@ -1,0 +1,34 @@
+DEMARCHE_ENCAD3 — STEP 18
+FINAL FUZZY EXPLANATION ON TEST
+
+PROTOCOL
+--------
+Frozen STEP14 membership functions were applied unchanged to final STEP17 TEST values.
+No TEST value was used to recalibrate membership functions.
+Comparisons follow the STEP15B FUZZY_STATE_FIRST policy.
+Tiny numerical differences inside the same fuzzy state are not interpreted as meaningful superiority.
+No global aggregation, score, ranking or recommendation was produced.
+
+DOC
+---
+DOC: performance degraded (μ=0.527); explanation shift moderate (μ=0.484); stability high (μ=1.000); coverage moderate (μ=0.968). Boundary information: PERFORMANCE also has PRESERVED membership μ=0.473.
+Performance: DOC is DEGRADED; different state from MEDIAN=PRESERVED, KNN=PRESERVED, ITERATIVE=PRESERVED. Explanation shift: DOC is MODERATE; same fuzzy state as KNN; different state from MEDIAN=LOW, ITERATIVE=HIGH. Stability: DOC is HIGH; same fuzzy state as MEDIAN, KNN, ITERATIVE. Coverage: DOC is MODERATE; different state from MEDIAN=FULL_OR_NEAR_FULL, KNN=FULL_OR_NEAR_FULL, ITERATIVE=FULL_OR_NEAR_FULL.
+
+MEDIAN
+------
+MEDIAN: performance preserved (μ=0.978); explanation shift low (μ=1.000); stability high (μ=1.000); coverage full or near-full (μ=1.000).
+Performance: MEDIAN is PRESERVED; same fuzzy state as KNN, ITERATIVE; different state from DOC=DEGRADED. Explanation shift: MEDIAN is LOW; different state from DOC=MODERATE, KNN=MODERATE, ITERATIVE=HIGH. Stability: MEDIAN is HIGH; same fuzzy state as DOC, KNN, ITERATIVE. Coverage: MEDIAN is FULL_OR_NEAR_FULL; same fuzzy state as KNN, ITERATIVE; different state from DOC=MODERATE.
+
+KNN
+---
+KNN: performance preserved (μ=1.000); explanation shift moderate (μ=0.849); stability high (μ=1.000); coverage full or near-full (μ=1.000).
+Performance: KNN is PRESERVED; same fuzzy state as MEDIAN, ITERATIVE; different state from DOC=DEGRADED. Explanation shift: KNN is MODERATE; same fuzzy state as DOC; different state from MEDIAN=LOW, ITERATIVE=HIGH. Stability: KNN is HIGH; same fuzzy state as DOC, MEDIAN, ITERATIVE. Coverage: KNN is FULL_OR_NEAR_FULL; same fuzzy state as MEDIAN, ITERATIVE; different state from DOC=MODERATE.
+
+ITERATIVE
+---------
+ITERATIVE: performance preserved (μ=1.000); explanation shift high (μ=0.956); stability high (μ=1.000); coverage full or near-full (μ=1.000).
+Performance: ITERATIVE is PRESERVED; same fuzzy state as MEDIAN, KNN; different state from DOC=DEGRADED. Explanation shift: ITERATIVE is HIGH; different state from DOC=MODERATE, MEDIAN=LOW, KNN=MODERATE. Stability: ITERATIVE is HIGH; same fuzzy state as DOC, MEDIAN, KNN. Coverage: ITERATIVE is FULL_OR_NEAR_FULL; same fuzzy state as MEDIAN, KNN; different state from DOC=MODERATE.
+
+STATUS
+------
+PASS_FINAL_FUZZY_EXPLANATION

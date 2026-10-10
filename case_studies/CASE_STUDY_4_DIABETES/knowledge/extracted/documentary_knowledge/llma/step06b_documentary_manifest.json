@@ -1,0 +1,94 @@
+{
+  "step": "STEP_06B",
+  "status": "PASS",
+  "source_step": "STEP_06A",
+  "documents": [
+    {
+      "document_id": "DOC_001",
+      "document_name": "Cardiovascular Disease.pdf",
+      "input_chunks": 15,
+      "analyzed_chunks": 15,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 30
+    },
+    {
+      "document_id": "DOC_002",
+      "document_name": "guidance-on-global-monitoring-for-diabetes.pdf",
+      "input_chunks": 47,
+      "analyzed_chunks": 47,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 94
+    },
+    {
+      "document_id": "DOC_003",
+      "document_name": "steps-manual.pdf",
+      "input_chunks": 245,
+      "analyzed_chunks": 245,
+      "relevant_chunks": 2,
+      "knowledge_candidates": 5,
+      "pdf_page_min": 1,
+      "pdf_page_max": 489
+    },
+    {
+      "document_id": "DOC_004",
+      "document_name": "Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS).pdf",
+      "input_chunks": 6,
+      "analyzed_chunks": 6,
+      "relevant_chunks": 1,
+      "knowledge_candidates": 1,
+      "pdf_page_min": 1,
+      "pdf_page_max": 12
+    },
+    {
+      "document_id": "DOC_005",
+      "document_name": "WHO TECHNICAL blood.pdf",
+      "input_chunks": 36,
+      "analyzed_chunks": 36,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 72
+    },
+    {
+      "document_id": "DOC_006",
+      "document_name": "WHO-NMH-NVI-18.2-eng.pdf",
+      "input_chunks": 22,
+      "analyzed_chunks": 22,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 43
+    },
+    {
+      "document_id": "DOC_007",
+      "document_name": "WHO-NMH-NVI-19.8-eng.pdf",
+      "input_chunks": 6,
+      "analyzed_chunks": 6,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 12
+    },
+    {
+      "document_id": "DOC_008",
+      "document_name": "WHO-UCN-NCD-20.1-eng.pdf",
+      "input_chunks": 18,
+      "analyzed_chunks": 18,
+      "relevant_chunks": 0,
+      "knowledge_candidates": 0,
+      "pdf_page_min": 1,
+      "pdf_page_max": 35
+    }
+  ],
+  "artifacts": [
+    "step06b_llma_results.jsonl",
+    "step06b_llma_knowledge_candidates.csv",
+    "step06b_chunk_audit.csv",
+    "step06b_extraction_metadata.json",
+    "step06b_documentary_manifest.json"
+  ]
+}

@@ -1,0 +1,99 @@
+7. Diagnosing hypertension and investigating underlying causes 
+Opportunistic screening for elevated BP and hypertension should be considered: 
+• At least every 3 years for adults aged <40 years. 
+• At least annually for adults aged ≥40 years. 
+IIa 
+C 
+In individuals with elevated BP who do not currently meet risk thresholds for BP-lowering treatment, a repeat BP measurement and risk 
+assessment within 1 year should be considered. 
+IIa 
+C 
+Other forms of screening for hypertension (i.e. systematic screening, self-screening, and non-physician screening) may be considered, 
+depending on their feasibility in different countries and healthcare systems. 
+IIb 
+B 
+In individuals with increased CVD risk where their screening office BP is 120–139/70–89 mmHg, it is recommended to measure BP out of 
+office, using ABPM and/or HBPM or, if not logistically feasible, make repeated office BP measurements on more than one visit. 
+I 
+B 
+Objective evaluation of adherence (either directly observed treatment or detecting prescribed drugs in blood or urine samples) should be 
+considered in the clinical work-up of patients with apparent resistant hypertension, if resources allow. 
+IIa 
+B 
+If moderate-to-severe CKD is diagnosed, it is recommended to repeat measurements of serum creatinine, eGFR, and urine ACR at 
+least annually. 
+I 
+C 
+Coronary artery calcium scoring may be considered in patients with elevated BP or hypertension when it is likely to change patient management. 
+IIb 
+B 
+Patients with resistant hypertension should be considered for referral to clinical centres with expertise in hypertension management for 
+further testing. 
+IIa 
+B 
+It is recommended that patients with hypertension presenting with suggestive signs, symptoms, or medical history of secondary 
+hypertension are appropriately screened for secondary hypertension. 
+I 
+B 
+Screening for primary aldosteronism by renin and aldosterone measurements should be considered in all adults with confirmed 
+hypertension (BP ≥ 140/90 mmHg). 
+IIa 
+B 
+8. Preventing and treating elevated blood pressure 
+Opportunistic screening with office BP measurements to monitor development of BP during late childhood and adolescence, especially 
+if one or both parents have hypertension, should be considered to better predict development of adult hypertension and associated 
+CVD risk. 
+IIa 
+B 
+It is recommended to restrict free sugar consumption, in particular sugar-sweetened beverages, to a maximum of 10% of energy 
+intake. It is also recommended to discourage consumption of sugar-sweetened beverages, such as soft drinks and fruit juices, starting 
+at young age. 
+I 
+B 
+In patients with hypertension without moderate-to-advanced CKD and with high daily sodium intake, an increase of potassium intake by 
+0.5–1.0 g/day—for example through sodium substitution with potassium-enriched salt (comprising 75% sodium chloride and 25% 
+potassium chloride) or through diets rich in fruits and vegetables—should be considered. 
+IIa 
+A 
+In patients with CKD or taking potassium-sparing medication, such as some diuretics, ACE inhibitors, ARBs, or spironolactone, monitoring 
+serum levels of potassium should be considered if dietary potassium is being increased. 
+IIa 
+C 
+It is recommended to take medications at the most convenient time of day for the patient, to establish a habitual pattern of medication 
+taking to improve adherence. 
+I 
+B 
+In adults with elevated BP and low/medium CVD risk (<10% over 10 years), BP lowering with lifestyle measures is recommended and can 
+reduce the risk of CVD. 
+I 
+B 
+In adults with elevated BP and sufficiently high CVD risk, after 3 months of lifestyle intervention, BP lowering with pharmacological 
+treatment is recommended for those with confirmed BP ≥130/80 mmHg to reduce CVD risk. 
+I 
+A 
+It is recommended that in hypertensive patients with confirmed BP ≥140/90 mmHg, irrespective of CVD risk, lifestyle measures and 
+pharmacological BP-lowering treatment is initiated promptly to reduce CVD risk. 
+I 
+A 
+It is recommended to maintain BP-lowering drug treatment lifelong, even beyond the age of 85 years, if well tolerated. 
+I 
+A 
+Because the benefit in reducing CVD outcomes is uncertain in these settings, and noting that close monitoring of treatment tolerance is 
+advised, BP-lowering treatment should only be considered from ≥140/90 mmHg (office) among persons meeting the following criteria: 
+• pre-treatment symptomatic orthostatic hypotension; 
+• age ≥85 years; 
+• clinically significant moderate-to-severe frailty; 
+• and/or limited predicted lifespan (<3 years). 
+IIa 
+B 
+In cases where BP-lowering treatment is poorly tolerated and achieving a target systolic of 120–129 mmHg is not possible, it is 
+recommended to target a systolic BP level that is ‘as low as reasonably achievable’ (ALARA principle). 
+I 
+A 
+Once BP is controlled and stable under BP-lowering therapy, at least a yearly follow-up for BP and other CVD risk factors should 
+be considered. 
+IIa 
+C 
+Continued 
+ESC Guidelines 3921 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

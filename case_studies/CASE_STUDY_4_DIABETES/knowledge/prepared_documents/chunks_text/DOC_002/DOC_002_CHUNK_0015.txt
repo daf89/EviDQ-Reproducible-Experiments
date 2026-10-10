@@ -1,0 +1,91 @@
+
+
+===== PDF PAGE 29 =====
+
+17
+Health system determinants
+Subdomain
+Indicator
+Governance
+1.	 Existence and implementation of national diabetes prevention and 
+control plan
+2.	 Existence and implementation of policies and legislation for 
+diabetes prevention
+3.	 Existence and enforcement of tax on alcoholic beverages, tobacco, 
+sugar-sweetened beverages, foods high in saturated fats, trans fats, free 
+sugars and/or salt
+4.	 Existence of national guidelines for diabetes management
+5.	 Referral and back-referral system for diabetes management 
+Financing
+6.	 Insulin, insulin delivery devices and blood glucoses self-monitoring 
+included in health benefits package
+7.	 Insulin, insulin delivery devices and blood glucose self-monitoring 
+affordability
+Health workforce
+8.	 Availability of trained health care staff for diabetes management 
+Medicines and health 
+technologies
+9.	 Availability of diabetes, cardiovascular disease and hypertension 
+core medicines
+10.	Availability of plasma glucose testing
+11.	Availability of glycated haemoglobin (HbA1c) testing
+Health information
+12.	Availability and quality of diabetes surveillance system
+General population. Population with diabetes.
+
+
+===== PDF PAGE 30 =====
+
+18
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+1. 	 Existence and implementation of national diabetes prevention and 
+control plan 
+Indicator name
+Existence and implementation of national diabetes prevention and 
+control plan 
+Purpose
+To assess the availability of governance mechanisms for diabetes prevention 
+and control at national level.
+Definition
+Country has a national diabetes prevention and control plan developed/
+updated within the past 5 years and the plan is currently implemented.
+	
+●
+A national diabetes prevention and control plan includes a set of specific 
+strategic actions to be taken to achieve the goals of the national diabetes 
+prevention and control programme. The plan may be an independent 
+diabetes prevention and control plan or part of a comprehensive national 
+plan for noncommunicable diseases. 
+Numerator
+Not applicable
+Denominator
+Not applicable 
+Method of estimation 
+Country can respond “Yes” to the question “Does the country have a national 
+plan that includes prevention, early detection, treatment and/or care for 
+diabetes?” and needs to provide a copy of the plan and the latest report on the 
+implementation of the plan.
+Existence of the plan is validated by examining the plan document and 
+implementation is validated by examining the latest report detailing the 
+execution of at least one strategic action outlined in the plan.
+The indicator is considered “Yes” if the country has a national diabetes 
+prevention and control plan developed/updated within the past 5 years and the 
+plan is currently being implemented.
+The indicator is considered “Partially yes” if the country has a national diabetes 
+prevention and control plan developed/updated within the past 5 years, but it is 
+not currently being implemented.
+The indicator is considered “No” if the country does not have a national diabetes 
+prevention and control plan developed/updated within the past 5 years.
+Disaggregation
+Type of diabetes included in the plan
+Sources of data
+NCD country capacity survey, other survey, country report 
+Limitations/comments
+An acceptable minimum number of strategic actions completed according to 
+plan must be defined at every evaluation period to consider the plan as currently 
+implemented.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).

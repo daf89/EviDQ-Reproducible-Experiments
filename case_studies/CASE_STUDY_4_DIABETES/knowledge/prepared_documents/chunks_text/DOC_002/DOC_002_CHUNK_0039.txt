@@ -1,0 +1,85 @@
+
+
+===== PDF PAGE 77 =====
+
+Indicators and metadata  ﻿
+65
+41. 	Lower-extremity amputation among people with diabetes
+Indicator name
+Lower-extremity amputation among people with diabetes
+Purpose
+To assess outcome of diabetes management.
+Definition
+Proportion of people with diabetes who had a lower-extremity amputation.
+Numerator
+Number of people with diabetes registered in the facility who had a lower- 
+extremity amputation due to diabetic foot during the reporting period.
+Denominator
+Total number of people with diabetes registered in the facility.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as 
+age, sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic 
+status, residence type (urban/rural), and health insurance type, type of lower-
+extremity amputation.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+For comparison with other health care facilities the indicator needs to be 
+age-standardized.
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+ICD 11 for mortality and morbidity statistics: ND55 Other injuries of leg, level 
+unspecified [website]. Geneva: World Health Organization; 2024 (https://icd.who.
+int/browse/2024-01/mms/en#507000791, accessed 26 May 2024).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186).
+
+
+===== PDF PAGE 78 =====
+
+66
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+42. 	Cardiovascular disease mortality rate
+Indicator name
+Cardiovascular disease mortality rate
+Purpose
+To measure impact of diabetes programme.
+Definition
+Number of cardiovascular disease deaths per 100 000 population.
+Numerator
+Number of cardiovascular disease deaths in a given period.
+Denominator
+Total population.
+Method of estimation
+Numerator ÷ denominator × 100 000
+Countries using ICD-10 can include the codes: I00-I99 in the calculation of 
+cardiovascular disease mortality.
+Countries using ICD-11 can include the codes: 8B00-8B2Z, BA00-BE2Z in the 
+calculation of cardiovascular disease mortality.  
+Disaggregation
+Where possible and applicable, stratify by type of CVD, individual characteristics 
+such as age, sex, race/ethnicity, comorbidity status, high-risk groups, 
+socioeconomic status, residence type (urban/rural), and health insurance type.
+Sources of data
+Civil registration with complete coverage and medical certification of 
+cause of death.
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardisation is needed.
+When calculating deaths by cause using ICD-10, WHO reassigns deaths 
+assigned to ill-defined causes of death, such as those assigned to signs and 
+symptoms (R00-R94, R96- R99), heart failure (I50), unspecified cardiac arrest (I46), 
+and unspecified respiratory failure (J96). 
+Related links
+ICD-11 for mortality and morbidity statistics. Geneva: World Health Organization; 
+2024 (https://icd.who.int/browse11/l-m/en, accessed 26 May 2024).
+WHO methods and data sources for country-level causes of death. Geneva: World 
+Health Organization; 2020 (https://iris.who.int/handle/10665/374896). 

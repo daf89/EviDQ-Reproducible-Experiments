@@ -1,0 +1,433 @@
+# SORTIE 1 — TABLEAU DE VALIDATION
+
+| knowledge_id | feature | dq_problem | source_evidence_exists | source_location_verified | criterion_expression_status | feature_applicability | operational_status_assessment | candidate_action_assessment | final_validation_status | main_reason |
+|---|---|---|---|---|---|---|---|---|---|---|
+| K001 | PM2.5 | MISSING_VALUE | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Le document prescrit explicitement de rechercher les gaps et d'investiguer sans prescrire d'imputation. |
+| K002 | PM10 | MISSING_VALUE | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Identique à K001, la règle de screening des gaps s'applique à tous les polluants. |
+| K003 | WSPM | MISSING_VALUE | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Le checklist de screening météorologique inclut explicitement "Review missing data summary". |
+| K004 | DEWP | MISSING_VALUE | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Identique à K003, applicable aux variables météorologiques. |
+| K005 | CO | MISSING_VALUE | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Identique à K001, la recherche de gaps est une étape générique de Level 1 Review. |
+| K006 | PM2.5 | POTENTIAL_OUTLIER | YES | YES | OVER_FORMALIZED | DIRECT | DIAGNOSTIC_ONLY | FLAG | VALIDATED_WITH_RESTRICTION | Le document mentionne "more than a few hours/days" (qualitatif). L'expression stricte et le statut EXECUTABLE sont surévalués. |
+| K007 | PM10 | POTENTIAL_OUTLIER | YES | YES | FAITHFUL_FORMALIZATION | CONDITIONAL | EXECUTABLE | FLAG | VALIDATED_WITH_RESTRICTION | Le document présente cela comme une "observation attendue" (expected behavior) conditionnée par la collocation des sites. |
+| K008 | CO | POTENTIAL_OUTLIER | YES | YES | FAITHFUL_FORMALIZATION | DIRECT | EXECUTABLE | REVIEW | VALIDATED | Le document prescrit de vérifier les maxima/minima et les valeurs négatives pour investiguer. |
+| K009 | WSPM | POTENTIAL_OUTLIER | YES | YES | OVER_FORMALIZED | CONDITIONAL | DIAGNOSTIC_ONLY | FLAG | VALIDATED_WITH_RESTRICTION | Le document mentionne le "rate of change" mais le seuil (10 m/s) est un exemple dépendant de l'instrument. Le screening doit être adapté au site. |
+| K010 | WSPM | POTENTIAL_OUTLIER | YES | YES | FAITHFUL_FORMALIZATION | CONDITIONAL | REQUIRES_ADDITIONAL_INFORMATION | REVIEW | VALIDATED | LLM-A a correctement identifié que les plages instrumentales nécessitent de connaître l'instrument de Beijing. |
+| K011 | DEWP | POTENTIAL_OUTLIER | YES | YES | EXPLICITLY_SUPPORTED | DIRECT | EXECUTABLE | FLAG | VALIDATED | Le document cite explicitement cette relation comme un "known physical principle". |
+
+***
+
+# SORTIE 2 — AUDIT DÉTAILLÉ K PAR K
+
+### K001
+- **ORIGINAL_CLAIM** : Identifier les gaps de collecte PM2.5, rechercher leur cause.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data (EPA-454/B-21-007)
+- **VERIFIED_SECTION** : 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 44 (PDF p. 53)
+- **MINIMAL_SUPPORTING_PASSAGE** : "1. Look for gaps in data collection (i.e., missing data). a. If identified, determine root cause of data loss and document it."
+- **SOURCE_INTERPRETATION** : Le document exige la détection et l'investigation des données manquantes. Aucune imputation n'est suggérée.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE (La détection d'un gap est une opération binaire et exécutable).
+- **ACTION_ASSESSMENT** : REVIEW (Correct, le document demande d'investiguer).
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K002
+- **ORIGINAL_CLAIM** : Identifier et investiguer les gaps PM10.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data
+- **VERIFIED_SECTION** : 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 44 (PDF p. 53)
+- **MINIMAL_SUPPORTING_PASSAGE** : "1. Look for gaps in data collection..."
+- **SOURCE_INTERPRETATION** : S'applique à tous les analyseurs/échantillonneurs continus ou intermittents.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K003
+- **ORIGINAL_CLAIM** : Examiner les données WSPM manquantes.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : QA Handbook Vol IV: Meteorological Measurements
+- **VERIFIED_SECTION** : 10.4.5.1 Data Screening Qualifiers / Figure 10.5
+- **VERIFIED_PAGE** : 80 (PDF p. 89)
+- **MINIMAL_SUPPORTING_PASSAGE** : "Review missing data summary" (Figure 10.5 Meteorological Data Screening Checklist).
+- **SOURCE_INTERPRETATION** : Le screening des données météorologiques inclut la vérification des résumés de données manquantes.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K004
+- **ORIGINAL_CLAIM** : Examiner les données DEWP manquantes.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : QA Handbook Vol IV: Meteorological Measurements
+- **VERIFIED_SECTION** : 10.4.5.1 Data Screening Qualifiers / Figure 10.5
+- **VERIFIED_PAGE** : 80 (PDF p. 89)
+- **MINIMAL_SUPPORTING_PASSAGE** : "Review missing data summary"
+- **SOURCE_INTERPRETATION** : Identique à K003, applicable à DEWP.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K005
+- **ORIGINAL_CLAIM** : Identifier les gaps CO.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data
+- **VERIFIED_SECTION** : 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 44 (PDF p. 53)
+- **MINIMAL_SUPPORTING_PASSAGE** : "1. Look for gaps in data collection..."
+- **SOURCE_INTERPRETATION** : S'applique à CO comme à tout autre polluant continu.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K006
+- **ORIGINAL_CLAIM** : REPEATED_IDENTICAL_VALUES -> FLAG (Stuck values PM2.5).
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data
+- **VERIFIED_SECTION** : 3.2.1 Level 0 / 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 42, 46 (PDF p. 51, 55)
+- **MINIMAL_SUPPORTING_PASSAGE** : "Stuck or repeating identical values for more than a few hours/days that can be flagged as suspect and require further investigation" / "8. Look for constantly repeating values... If identified, investigate to determine root cause(s) and document."
+- **SOURCE_INTERPRETATION** : Le document signale que des valeurs répétées sont suspectes, mais le seuil ("a few hours/days") est qualitatif et dépend du contexte.
+- **CRITERION_EXPRESSION_ASSESSMENT** : OVER_FORMALIZED (La transformation en règle booléenne stricte sans seuil temporel précis est surévaluée).
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : DIAGNOSTIC_ONLY (Nécessite un jugement expert pour définir la durée anormale).
+- **ACTION_ASSESSMENT** : FLAG (Correct, suivi de REVIEW).
+- **MISSING_INFORMATION** : Seuil temporel précis (nombre d'heures/jours) adapté au site.
+- **FINAL_STATUS** : VALIDATED_WITH_RESTRICTION
+- **CORRECTION_REQUIRED** : Changer `operational_status` en `DIAGNOSTIC_ONLY`. Préciser que le flagging nécessite une évaluation qualitative de la durée.
+
+### K007
+- **ORIGINAL_CLAIM** : PM10 >= PM2.5 (Contrôle de cohérence).
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data
+- **VERIFIED_SECTION** : 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 45 (PDF p. 54)
+- **MINIMAL_SUPPORTING_PASSAGE** : "4. Look for the expected behavior of the pollutant... o Are PM10 concentrations higher than PM2.5 concentrations at a collocated site?"
+- **SOURCE_INTERPRETATION** : Ce n'est pas une règle d'invalidation automatique, mais un contrôle de cohérence physique ("expected behavior") conditionné par la collocation des sites.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : CONDITIONAL (Exige que les sites soient collocated).
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE (Si collocation avérée).
+- **ACTION_ASSESSMENT** : FLAG (Correct, pour investigation).
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED_WITH_RESTRICTION
+- **CORRECTION_REQUIRED** : Changer `applicability` en `CONDITIONAL`. Ajouter la condition de collocation stricte.
+
+### K008
+- **ORIGINAL_CLAIM** : Examiner les maxima/minima et valeurs négatives pour CO.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : Best Practices for Review and Validation of Ambient Air Monitoring Data
+- **VERIFIED_SECTION** : 3.2.2 Level 1 Data Review
+- **VERIFIED_PAGE** : 45-46 (PDF p. 54-55)
+- **MINIMAL_SUPPORTING_PASSAGE** : "3. For each pollutant monitored, verify the maximum and minimum hourly concentrations... 7. Look for negative readings."
+- **SOURCE_INTERPRETATION** : Le screening des valeurs extrêmes et négatives est une étape standard de vérification.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K009
+- **ORIGINAL_CLAIM** : Screening sur le taux de variation (rate of change) de WSPM.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : QA Handbook Vol IV: Meteorological Measurements
+- **VERIFIED_SECTION** : 10.2.2 / 10.4.5 Data Screening
+- **VERIFIED_PAGE** : 75, 79 (PDF p. 84, 88)
+- **MINIMAL_SUPPORTING_PASSAGE** : Table 10-1 "Maximum Rate of Change | 10 m/s" / "assessments based on the rate of change of a variable (data that change too rapidly or not at all are flagged as suspect)... Screening is an iterative process in which range checks and other screening criteria are revised as necessary based on experience."
+- **SOURCE_INTERPRETATION** : Le concept de "rate of change" est validé, mais le seuil de 10 m/s est un exemple pour un système spécifique (0-50 m/s). Le document insiste sur l'adaptation au site.
+- **CRITERION_EXPRESSION_ASSESSMENT** : OVER_FORMALIZED (Si un seuil universel était implicite).
+- **APPLICABILITY_ASSESSMENT** : CONDITIONAL
+- **OPERATIONAL_STATUS_ASSESSMENT** : DIAGNOSTIC_ONLY (Le seuil doit être défini par l'expérience du site).
+- **ACTION_ASSESSMENT** : FLAG
+- **MISSING_INFORMATION** : Seuil de variation adapté à l'instrument et au site de Beijing.
+- **FINAL_STATUS** : VALIDATED_WITH_RESTRICTION
+- **CORRECTION_REQUIRED** : Changer `operational_status` en `DIAGNOSTIC_ONLY`. Préciser que le seuil n'est pas universel.
+
+### K010
+- **ORIGINAL_CLAIM** : Utilisation des plages instrumentales pour WSPM si l'instrument est connu.
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : QA Handbook Vol IV: Meteorological Measurements
+- **VERIFIED_SECTION** : Appendix C
+- **VERIFIED_PAGE** : 92 (PDF p. 101)
+- **MINIMAL_SUPPORTING_PASSAGE** : Tables "Measurement Method Characteristics" (e.g., Range 0.5 m/s - 50 m/s).
+- **SOURCE_INTERPRETATION** : Les plages instrumentales sont documentées mais leur application dépend de la connaissance de l'instrument déployé.
+- **CRITERION_EXPRESSION_ASSESSMENT** : FAITHFUL_FORMALIZATION
+- **APPLICABILITY_ASSESSMENT** : CONDITIONAL
+- **OPERATIONAL_STATUS_ASSESSMENT** : REQUIRES_ADDITIONAL_INFORMATION
+- **ACTION_ASSESSMENT** : REVIEW
+- **MISSING_INFORMATION** : Modèle et plage de l'anémomètre de Beijing.
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+### K011
+- **ORIGINAL_CLAIM** : DEWP <= TEMP (Principe physique).
+- **SOURCE_FOUND** : YES
+- **VERIFIED_DOCUMENT** : QA Handbook Vol IV: Meteorological Measurements
+- **VERIFIED_SECTION** : 10.4.5 Data Screening
+- **VERIFIED_PAGE** : 79 (PDF p. 88)
+- **MINIMAL_SUPPORTING_PASSAGE** : "assessments based on known physical principles relating two or more variables (e.g., the dew point should never exceed the dry-bulb temperature)."
+- **SOURCE_INTERPRETATION** : Le document cite explicitement cette règle comme un principe physique connu servant au screening.
+- **CRITERION_EXPRESSION_ASSESSMENT** : EXPLICITLY_SUPPORTED
+- **APPLICABILITY_ASSESSMENT** : DIRECT
+- **OPERATIONAL_STATUS_ASSESSMENT** : EXECUTABLE
+- **ACTION_ASSESSMENT** : FLAG
+- **MISSING_INFORMATION** : NONE
+- **FINAL_STATUS** : VALIDATED
+- **CORRECTION_REQUIRED** : NONE
+
+***
+
+# SORTIE 3 — BASE VALIDÉE
+
+```json
+{
+  "VALIDATED_KNOWLEDGE_BASE": [
+    {
+      "knowledge_id": "K001", "feature": "PM2.5", "dq_problem": "MISSING_VALUE", "knowledge_type": "COMPLETENESS",
+      "criterion_description": "Identifier les gaps de collecte, rechercher leur cause et la documenter.",
+      "criterion_expression": "PM2.5 IS MISSING", "control_features": [],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.2 Level 1 Data Review", "source_page": "44",
+      "evidence_text": "Look for gaps in data collection (i.e., missing data).",
+      "documentary_interpretation": "Une valeur absente doit être identifiée et investiguée; aucune imputation automatique n'est prescrite.",
+      "applicability": "DIRECT", "applicability_reason": "La présence d'une valeur manquante est directement observable.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Lorsqu'un gap est détecté.",
+      "missing_information": "", "limitations": "Ne fournit pas de valeur de remplacement.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K002", "feature": "PM10", "dq_problem": "MISSING_VALUE", "knowledge_type": "COMPLETENESS",
+      "criterion_description": "Identifier et investiguer les gaps de collecte.",
+      "criterion_expression": "PM10 IS MISSING", "control_features": [],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.2 Level 1 Data Review", "source_page": "44",
+      "evidence_text": "Look for gaps in data collection.",
+      "documentary_interpretation": "Le gap doit être détecté, documenté et investigué.",
+      "applicability": "DIRECT", "applicability_reason": "Test directement possible.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Gap détecté.",
+      "missing_information": "", "limitations": "Aucune imputation documentée.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K003", "feature": "WSPM", "dq_problem": "MISSING_VALUE", "knowledge_type": "COMPLETENESS",
+      "criterion_description": "Examiner les données météorologiques manquantes et leur récupération/complétude.",
+      "criterion_expression": "WSPM IS MISSING", "control_features": [],
+      "document_id": "EPA_METEO_VOLIV_2008", "document_title": "QA Handbook Vol IV: Meteorological Measurements",
+      "organization": "U.S. EPA", "publication_year": 2008, "source_section": "10.4.5.1 Data Screening Qualifiers", "source_page": "80",
+      "evidence_text": "Review missing data summary.",
+      "documentary_interpretation": "La complétude doit être examinée; le document ne justifie pas une imputation automatique.",
+      "applicability": "DIRECT", "applicability_reason": "Les missing WSPM sont observables.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Valeur manquante.",
+      "missing_information": "", "limitations": "Pas de méthode universelle de remplacement.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K004", "feature": "DEWP", "dq_problem": "MISSING_VALUE", "knowledge_type": "COMPLETENESS",
+      "criterion_description": "Examiner les données météorologiques manquantes.",
+      "criterion_expression": "DEWP IS MISSING", "control_features": [],
+      "document_id": "EPA_METEO_VOLIV_2008", "document_title": "QA Handbook Vol IV: Meteorological Measurements",
+      "organization": "U.S. EPA", "publication_year": 2008, "source_section": "10.4.5.1 Data Screening Qualifiers", "source_page": "80",
+      "evidence_text": "Review missing data summary.",
+      "documentary_interpretation": "Le missing doit être documenté et revu.",
+      "applicability": "DIRECT", "applicability_reason": "Directement testable.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Valeur manquante.",
+      "missing_information": "", "limitations": "Aucune règle d'imputation automatique.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K005", "feature": "CO", "dq_problem": "MISSING_VALUE", "knowledge_type": "COMPLETENESS",
+      "criterion_description": "Identifier les gaps et rechercher la cause.",
+      "criterion_expression": "CO IS MISSING", "control_features": [],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.2 Level 1 Data Review", "source_page": "44",
+      "evidence_text": "Look for gaps in data collection.",
+      "documentary_interpretation": "Le gap CO doit être investigué avant toute décision.",
+      "applicability": "DIRECT", "applicability_reason": "Directement observable.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Gap détecté.",
+      "missing_information": "", "limitations": "Pas d'imputation documentée.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K006", "feature": "PM2.5", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "TEMPORAL",
+      "criterion_description": "Des valeurs identiques répétées sur une durée anormale peuvent correspondre à des valeurs stuck et nécessitent investigation.",
+      "criterion_expression": "REPEATED_IDENTICAL_VALUES(QUALITATIVE_DURATION) -> FLAG", "control_features": ["timestamp"],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.1 / 3.2.2 Level 0/1 Data Review", "source_page": "42, 46",
+      "evidence_text": "Stuck or repeating identical values for more than a few hours/days that can be flagged as suspect",
+      "documentary_interpretation": "La répétition constitue un signal de suspicion qualitatif, pas une preuve automatique d'erreur. Le seuil temporel exact dépend du contexte.",
+      "applicability": "DIRECT", "applicability_reason": "Les séquences temporelles PM2.5 sont disponibles.",
+      "operational_status": "DIAGNOSTIC_ONLY", "candidate_action": "FLAG", "action_conditions": "Répétition anormale identifiée sur une durée jugée suspecte par l'expert.",
+      "missing_information": "Seuil numérique précis de durée (heures/jours) non fourni par le document.",
+      "limitations": "Ne justifie pas l'invalidation automatique. Règle qualitative.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED_WITH_RESTRICTION", "validation_note": "Statut opérationnel downgradé à DIAGNOSTIC_ONLY car le seuil temporel est qualitatif ('a few hours/days')."
+    },
+    {
+      "knowledge_id": "K007", "feature": "PM10", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "PHYSICAL",
+      "criterion_description": "Comparer PM10 et PM2.5 à un site collocated; PM10 est attendu supérieur à PM2.5 (contrôle de cohérence).",
+      "criterion_expression": "PM10 >= PM2.5 (IF COLLOCATED)", "control_features": ["PM2.5", "station", "timestamp"],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.2 Level 1 Data Review", "source_page": "45",
+      "evidence_text": "Are PM10 concentrations higher than PM2.5 concentrations at a collocated site?",
+      "documentary_interpretation": "PM10 < PM2.5 constitue une incohérence physique à investiguer, mais ce contrôle n'est valide que si les capteurs sont collocated.",
+      "applicability": "CONDITIONAL", "applicability_reason": "Nécessite que les mesures PM10 et PM2.5 proviennent du même site collocated.",
+      "operational_status": "EXECUTABLE", "candidate_action": "FLAG", "action_conditions": "Mesures correspondant au même site collocated et à la même période.",
+      "missing_information": "", "limitations": "Une violation n'identifie pas automatiquement laquelle des mesures est erronée.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED_WITH_RESTRICTION", "validation_note": "Applicabilité restreinte à CONDITIONAL (exige la collocation des sites)."
+    },
+    {
+      "knowledge_id": "K008", "feature": "CO", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "VALIDATION",
+      "criterion_description": "Examiner les maxima/minima et les valeurs négatives, puis rechercher leur cause.",
+      "criterion_expression": "NOT_EXPLICITLY_SPECIFIED", "control_features": ["timestamp"],
+      "document_id": "EPA_VALIDATION_2021", "document_title": "Best Practices for Review and Validation of Ambient Air Monitoring Data",
+      "organization": "U.S. EPA", "publication_year": 2021, "source_section": "3.2.2 Level 1 Data Review", "source_page": "45-46",
+      "evidence_text": "verify the maximum and minimum hourly concentrations... Look for negative readings.",
+      "documentary_interpretation": "Une valeur CO extrême ou négative déclenche investigation, pas invalidation automatique.",
+      "applicability": "DIRECT", "applicability_reason": "Les valeurs et leur ordre temporel sont disponibles.",
+      "operational_status": "EXECUTABLE", "candidate_action": "REVIEW", "action_conditions": "Valeur suspecte détectée.",
+      "missing_information": "QA/QC et calibration pour déterminer la cause.",
+      "limitations": "Pas de seuil universel applicable à Beijing.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K009", "feature": "WSPM", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "TEMPORAL",
+      "criterion_description": "Le screening peut examiner les changements anormalement rapides de vitesse du vent, mais le seuil doit être adapté au site.",
+      "criterion_expression": "NOT_EXPLICITLY_SPECIFIED", "control_features": ["timestamp"],
+      "document_id": "EPA_METEO_VOLIV_2008", "document_title": "QA Handbook Vol IV: Meteorological Measurements",
+      "organization": "U.S. EPA", "publication_year": 2008, "source_section": "10.2.2 / 10.4.5 Meteorological Data Validation", "source_page": "75, 79",
+      "evidence_text": "maximum rate of change... Screening is an iterative process in which range checks and other screening criteria are revised as necessary based on experience.",
+      "documentary_interpretation": "Un changement rapide peut être flaggé mais peut aussi représenter un événement réel. Le seuil (ex. 10 m/s) est un exemple dépendant de l'instrument.",
+      "applicability": "CONDITIONAL", "applicability_reason": "Le seuil doit être calibré pour l'instrument et le site de Beijing.",
+      "operational_status": "DIAGNOSTIC_ONLY", "candidate_action": "FLAG", "action_conditions": "Critère de screening documenté et adapté au site.",
+      "missing_information": "Seuil adapté au site/instrument.",
+      "limitations": "Les exemples numériques EPA ne doivent pas être transférés sans justification.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED_WITH_RESTRICTION", "validation_note": "Statut opérationnel downgradé à DIAGNOSTIC_ONLY. Le seuil n'est pas universel."
+    },
+    {
+      "knowledge_id": "K010", "feature": "WSPM", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "INSTRUMENT",
+      "criterion_description": "Les caractéristiques de plage de mesure peuvent servir au contrôle si le système instrumental correspondant est connu.",
+      "criterion_expression": "NOT_EXPLICITLY_SPECIFIED", "control_features": [],
+      "document_id": "EPA_METEO_VOLIV_2008", "document_title": "QA Handbook Vol IV: Meteorological Measurements",
+      "organization": "U.S. EPA", "publication_year": 2008, "source_section": "Appendix C", "source_page": "92",
+      "evidence_text": "Measurement Method Characteristics",
+      "documentary_interpretation": "Les plages instrumentales sont utilisables uniquement si l'instrument/méthode Beijing est compatible.",
+      "applicability": "CONDITIONAL", "applicability_reason": "Le type d'instrument Beijing n'est pas établi.",
+      "operational_status": "REQUIRES_ADDITIONAL_INFORMATION", "candidate_action": "REVIEW", "action_conditions": "Identifier l'instrument et sa spécification.",
+      "missing_information": "Instrument, modèle et plage certifiée.",
+      "limitations": "Ne pas appliquer directement les limites instrumentales EPA au dataset Beijing.",
+      "epistemic_status": "DOCUMENTED_CONDITIONAL_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    },
+    {
+      "knowledge_id": "K011", "feature": "DEWP", "dq_problem": "POTENTIAL_OUTLIER", "knowledge_type": "PHYSICAL",
+      "criterion_description": "Le point de rosée ne doit pas dépasser la température sèche (principe physique connu).",
+      "criterion_expression": "DEWP <= TEMP", "control_features": ["TEMP"],
+      "document_id": "EPA_METEO_VOLIV_2008", "document_title": "QA Handbook Vol IV: Meteorological Measurements",
+      "organization": "U.S. EPA", "publication_year": 2008, "source_section": "10.4.5 Data Screening", "source_page": "79",
+      "evidence_text": "assessments based on known physical principles relating two or more variables (e.g., the dew point should never exceed the dry-bulb temperature).",
+      "documentary_interpretation": "DEWP > TEMP constitue une incohérence physique documentée nécessitant revue.",
+      "applicability": "DIRECT", "applicability_reason": "DEWP et TEMP existent dans le dataset.",
+      "operational_status": "EXECUTABLE", "candidate_action": "FLAG", "action_conditions": "DEWP > TEMP.",
+      "missing_information": "", "limitations": "La règle n'identifie pas automatiquement si DEWP ou TEMP est la mesure erronée.",
+      "epistemic_status": "DOCUMENTED_DIRECT_KNOWLEDGE", "validation_status": "VALIDATED", "validation_note": "NONE"
+    }
+  ]
+}
+```
+
+***
+
+# SORTIE 4 — REJECTED KNOWLEDGE
+
+```json
+{
+  "REJECTED_KNOWLEDGE": []
+}
+```
+*Aucune connaissance n'a été totalement rejetée. Les connaissances présentant des surinterprétations (K006, K007, K009) ont été conservées mais strictement restreintes (VALIDATED_WITH_RESTRICTION) pour aligner leur statut opérationnel et leur applicabilité sur la réalité documentaire.*
+
+***
+
+# SORTIE 5 — MATRICE FINALE Feature × DQProblem
+
+| feature | dq_problem | validated_knowledge_available | validated_knowledge_ids | executable_rule_available | conditional_rule_available | diagnostic_knowledge_available | supported_actions | missing_information | final_status |
+|---|---|---|---|---|---|---|---|---|---|
+| PM2.5 | MISSING_VALUE | YES | K001 | YES | NO | NO | REVIEW | NONE | SUPPORTED_EXECUTABLE |
+| PM2.5 | POTENTIAL_OUTLIER | YES | K006 | NO | NO | YES | FLAG | Seuil temporel qualitatif | SUPPORTED_CONDITIONAL |
+| PM10 | MISSING_VALUE | YES | K002 | YES | NO | NO | REVIEW | NONE | SUPPORTED_EXECUTABLE |
+| PM10 | POTENTIAL_OUTLIER | YES | K007 | YES (si collocated) | YES | NO | FLAG | Collocation des sites | SUPPORTED_CONDITIONAL |
+| WSPM | MISSING_VALUE | YES | K003 | YES | NO | NO | REVIEW | NONE | SUPPORTED_EXECUTABLE |
+| WSPM | POTENTIAL_OUTLIER | YES | K009, K010 | NO | YES | YES | FLAG, REVIEW | Seuil site-specific, Instrument | SUPPORTED_CONDITIONAL |
+| DEWP | MISSING_VALUE | YES | K004 | YES | NO | NO | REVIEW | NONE | SUPPORTED_EXECUTABLE |
+| DEWP | POTENTIAL_OUTLIER | YES | K011 | YES | NO | NO | FLAG | NONE | SUPPORTED_EXECUTABLE |
+| CO | MISSING_VALUE | YES | K005 | YES | NO | NO | REVIEW | NONE | SUPPORTED_EXECUTABLE |
+| CO | POTENTIAL_OUTLIER | YES | K008 | YES | NO | NO | REVIEW | QA/QC logs | SUPPORTED_EXECUTABLE |
+
+***
+
+# SORTIE 6 — CONTRÔLE MÉTHODOLOGIQUE
+
+1. **Les 11 connaissances ont-elles toutes été contrôlées contre les PDF ?**
+   OUI. Chaque K a été vérifiée ligne par ligne dans les documents sources indiqués.
+
+2. **Combien sont : VALIDATED ? VALIDATED_WITH_RESTRICTION ? REJECTED ?**
+   - VALIDATED : 8 (K001, K002, K003, K004, K005, K008, K010, K011)
+   - VALIDATED_WITH_RESTRICTION : 3 (K006, K007, K009)
+   - REJECTED : 0
+
+3. **Toutes les pages/sections annoncées par LLM-A ont-elles été vérifiées ?**
+   OUI. Les sections et numéros de pages ont été corrigés pour correspondre exactement à la pagination des PDFs fournis (ex. K003/K004 pointent vers la page 80 du PDF pour le checklist de screening, K011 vers la page 79 pour le principe physique).
+
+4. **Des expressions ont-elles été jugées OVER_FORMALIZED ?**
+   OUI. 
+   - `REPEATED_IDENTICAL_VALUES -> FLAG` (K006) : Le document utilise une formulation qualitative ("more than a few hours/days").
+   - Le seuil de `rate of change` (K009) : Le document donne 10 m/s comme exemple pour un instrument spécifique, mais exige que le screening soit adapté à l'expérience du site.
+
+5. **Des connaissances initialement EXECUTABLE ont-elles dû devenir CONDITIONAL ou DIAGNOSTIC_ONLY ?**
+   OUI.
+   - K006 (PM2.5 stuck values) : Downgradé à `DIAGNOSTIC_ONLY` car le seuil de répétition est qualitatif.
+   - K007 (PM10 >= PM2.5) : L'applicabilité a été restreinte à `CONDITIONAL` (exige la collocation des sites).
+   - K009 (WSPM rate of change) : Downgradé à `DIAGNOSTIC_ONLY` car le seuil dépend de l'instrument.
+
+6. **Une règle d'imputation non documentée subsiste-t-elle ?**
+   NON. Les connaissances K001 à K005 prescrivent explicitement l'investigation (`REVIEW`) et LLM-A a correctement noté qu'aucune imputation n'est documentée. Le principe épistémique "Valeur manquante ≠ obligation d'imputation" est respecté.
+
+7. **Une règle de suppression/invalidation automatique d'un outlier subsiste-t-elle ?**
+   NON. Toutes les règles de détection d'outliers (K006, K007, K009, K011) aboutissent à l'action `FLAG` ou `REVIEW` pour investigation. Aucune ne prescrit d'`INVALIDATE` ou d'`EXCLUDE` automatiquement.
+
+8. **Un seuil numérique non documenté subsiste-t-il ?**
+   NON. Les seuils numériques spécifiques à Beijing (ex. nombre exact d'heures pour les valeurs "stuck", ou le taux de variation maximal du vent pour l'anémomètre de Beijing) ont été identifiés comme `MISSING_INFORMATION` et les règles ont été downgradées en statut `DIAGNOSTIC_ONLY` ou `CONDITIONAL`.
+
+9. **Une norme environnementale a-t-elle été utilisée comme limite de validité ?**
+   NON. Le dataset étant utilisé pour de l'analyse de qualité des données (et non pour la détermination de la conformité NAAQS dans ce contexte précis), les normes NAAQS n'ont pas été introduites comme seuils de validité instrumentale.
+
+10. **Une procédure EPA a-t-elle été présentée comme procédure réellement appliquée à Beijing ?**
+    NON. Le statut épistémique et les limitations de chaque K rappellent explicitement que les documents EPA constituent une source de connaissance méthodologique externe, et que leur application directe au réseau de Beijing nécessite des informations contextuelles (ex. K010 sur les plages instrumentales).
+
+11. **Quels couples Feature × DQProblem disposent finalement d'une règle réellement exécutable sans introduire de connaissance supplémentaire ?**
+    - PM2.5 × MISSING_VALUE (K001)
+    - PM10 × MISSING_VALUE (K002)
+    - WSPM × MISSING_VALUE (K003)
+    - DEWP × MISSING_VALUE (K004)
+    - CO × MISSING_VALUE (K005)
+    - DEWP × POTENTIAL_OUTLIER (K011 - Principe physique absolu)
+    - CO × POTENTIAL_OUTLIER (K008 - Screening des extrêmes/négatifs)
+    
+    *(Les autres couples disposent de règles conditionnelles ou diagnostiques nécessitant soit la collocation, soit l'expertise contextuelle, soit les logs instruments).*

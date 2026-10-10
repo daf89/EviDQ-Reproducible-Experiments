@@ -1,0 +1,149 @@
+
+
+===== PDF PAGE 81 =====
+
+Choosing a Chemistry Screening Method for Step 3 
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-30 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+Blood chemistry screening methods are widely used in community-based 
+screening programs and public health surveillance for measurements of: 
+• glucose 
+• cholesterol 
+• triglycerides 
+• high density lipoproteins (HDL). 
+ 
+ 
+Dry or wet 
+chemistry? 
+Decide whether dry (blood collection from the fingertip) or wet ('gold 
+standard', laboratory-based measurement of blood samples) chemistry will be 
+used. 
+Staff, training and equipment for blood tests will be dependent on the choice. 
+The table below lists the advantages and disadvantages of both dry and wet 
+chemistry. 
+ 
+Type 
+Advantages 
+Disadvantages 
+Dry 
+• rapid results available on-site 
+• small sample volumes 
+• no sample transport required 
+• no pre-analytical variables 
+• convenient to participants 
+• viable option for less-resourced and unstable 
+settings. 
+• operators need good training and 
+supervision 
+• may be less accurate as compared 
+to wet methods 
+Wet 
+• accurate results 
+• centralized laboratory with trained staff and 
+good internal and external quality control 
+• more costly than dry methods 
+• logistically more challenging due 
+to transport of specimens 
+• lower response rates 
+ 
+ 
+Devices for dry 
+chemistry 
+The table below lists a selection of dry chemistry devices, along with 
+information on which of the Step 3 measurements they perform. Please note 
+that this selection is just a list of examples. For more information on these  
+and other devices, please contact the WHO Geneva STEPS team. 
+ 
+Device 
+Measurement 
+Cardiochek PA 
+Blood glucose, total cholesterol, triglycerides and HDL cholesterol 
+Cholestech LDX 
+Blood glucose, total cholesterol, triglycerides and HDL cholesterol 
+Reflotron Plus 
+Blood glucose, total cholesterol, triglycerides and HDL cholesterol 
+HemoCue 201 DM 
+Blood glucose 
+Accu-Check 
+Blood glucose 
+ 
+
+
+===== PDF PAGE 82 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-31 
+WHO STEPS Surveillance 
+Timeframes and Data Collection Considerations 
+ 
+ 
+ 
+Introduction 
+Data collection should be carefully planned to take place over a defined 
+period of time and within appropriate seasons. 
+ 
+ 
+General 
+timeframes 
+The table below provides a guide to estimated timeframes for each phase in a 
+STEPS survey. 
+ 
+Phase 
+Suggested timeframes 
+Planning and scoping 
+4-6 weeks 
+Recruitment and training 
+3-4 weeks 
+Data collection 
+10-12 weeks 
+Data analysis and reporting 
+4-8 weeks 
+ 
+ 
+Data collection 
+If possible, you should aim to complete data collection within a period of ten 
+to twelve weeks. 
+Some key factors to consider when identifying an appropriate time to conduct 
+the survey include: 
+ 
+Factors to consider 
+Guidelines 
+Seasons 
+• Confine the survey period to one season to 
+avoid dietary changes. 
+• Avoid festive seasons (Ramadan, Christmas, 
+and other national holidays). 
+• Avoid rainy seasons where it may be physically 
+difficult to get to individual clusters and 
+households. 
+• Avoid seasons when food is in unusually short 
+supply. 
+Calendar year 
+Confine the data collection period to one calendar 
+year. 
+Major events 
+Avoid data collection during periods prior to 
+local, regional or national elections to avoid 
+confusion with political campaigners. 
+Civil unrest, turmoil, 
+famine, etc. 
+It is not appropriate to conduct STEPS during 
+times when more pressing matters occupy the 
+minds and lives of the population. Sometimes it 
+may be necessary to defer or cease a STEPS 
+survey because of an intervening event or natural 
+calamity. 
+Collection timeframe 
+Keep timeframe as close as possible (within 
+reason) to the recommended timeframe. 
+ 
+Continued on next page 

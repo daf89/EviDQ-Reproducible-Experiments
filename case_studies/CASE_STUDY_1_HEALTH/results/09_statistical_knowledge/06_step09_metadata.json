@@ -1,0 +1,41 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_09_STATISTICAL_KNOWLEDGE",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "dataset": "Dataset_REF",
+  "dataset_sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+  "selected_features": [
+    "gagne_sum_tm1",
+    "cost_op_specialists_tm1",
+    "cost_laboratory_tm1",
+    "cost_ip_medical_tm1",
+    "cost_other_tm1",
+    "cost_op_surgery_tm1",
+    "dem_age_band_65-74_tm1",
+    "cost_pharmacy_tm1",
+    "cre_tests_tm1",
+    "cost_emergency_tm1",
+    "dem_age_band_75+_tm1",
+    "cost_home_health_tm1"
+  ],
+  "selected_feature_count": 12,
+  "source_type": "STATISTICAL",
+  "expert_source_instantiated": false,
+  "principles": {
+    "statistical_observation_is_error": false,
+    "iqr_is_error_rule": false,
+    "iqr_applied_to_binary": false,
+    "negative_value_is_error": false,
+    "missing_value_is_error": false,
+    "automatic_correction": false,
+    "automatic_source_priority": false,
+    "candidate_conditions_require_validation": true
+  },
+  "outputs": {
+    "reference_profiles": "01_statistical_reference_profiles.csv",
+    "observations": "02_statistical_observations.csv",
+    "candidate_conditions": "03_statistical_candidate_conditions.csv",
+    "statistical_knowledge": "04_statistical_knowledge.csv",
+    "binary_control": "05_binary_feature_control.csv"
+  }
+}

@@ -1,0 +1,18 @@
+Example 4: Complex Time Series 
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+The next example is a very complex data visualization that requires a lot of explanation. This is actually 
+part of a larger COVID-19 dashboard, but we chose to separate each visualization on its own page in 
+order to provide enough space and supporting content around each visualizationto address questions a 
+user may have. Users of this dashboard ranged from the general public to county administrators, to 
+state legislatures,toresearchscientists. Inadditionto the visualization, eachof the following 
+components were considered when creating this dashboard page: Title, Overview, frequently asked 
+questions (FAQ), How to Use, and Terms Used. Each visualization on the dashboard had a similar page 
+with all of the same components. 
+Exhibit 69: Complex Time Series Visualization 
+Graphic included with permission from the Cecil G. Sheps Center for Health Services Research for the Gillings Global School of 
+Public Health at the University of North Carolina at Chapel Hill. 
+Health IT Advisor Handbook 
+Page 137

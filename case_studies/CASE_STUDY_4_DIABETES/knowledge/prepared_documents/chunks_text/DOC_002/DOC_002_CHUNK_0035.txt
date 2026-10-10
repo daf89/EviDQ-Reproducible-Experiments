@@ -1,0 +1,88 @@
+
+
+===== PDF PAGE 69 =====
+
+Indicators and metadata  ﻿
+57
+Related links
+Gregg E, Buckley J, Ali M, Davies J, Flood D, Griffiths B et al (for the For the 
+Diabetes Targets Expert Consultation Group). Improving health outcomes of 
+people with diabetes mellitus: target setting to reduce the global burden of 
+diabetes mellitus by 2030. Lancet. 2023;401(10384): 1302–1312. doi:10.1016/
+S0140-6736(23)00001-6. 
+HEARTS-D: diagnosis and management of type 2 diabetes.  Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application (https://iris.who.int/handle/10665/364379).
+Draft recommendations to strengthen and monitor diabetes responses within 
+national noncommunicable disease programmes including potential targets. 
+WHO discussion paper. Geneva: World Health Organization; 2021 (https://www.
+who.int/publications/m/item/who-discussion-paper-draft-recommendations-
+to-strengthen-and-monitor-diabetes-responses-within-national-
+noncommunicable-disease-programmes-including-potential-targets, accessed 
+26 May 2024).
+Wei N, Zheng H, Nathan DM. Empirically establishing blood glucose 
+targets to achieve HbA1c goals. Diabetes Care. 2014;37(4): 1048–1051. 
+doi:10.2337/dc13-2173.
+
+
+===== PDF PAGE 70 =====
+
+58
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+35. 	Blood pressure control among people with diabetes
+Indicator name
+Blood pressure control among people with diabetes
+Purpose
+To measure effectiveness of clinical services for people with diabetes and raised 
+blood pressure for achieving blood pressure control. 
+Definition
+Proportion of people with diabetes with good control of blood pressure based on 
+WHO or national treatment guidelines.
+Based on WHO guidelines: BP is considered controlled when SBP <130 mmHg 
+among people with diabetes. 
+	
+●
+Blood pressure control can alternatively be defined in accordance with 
+national targets and guidelines.
+	
+●
+This indicator can be derived from population-level surveys or health 
+facility-based routine data.
+Numerator
+Population survey data: Number of respondents with diabetes, with good control 
+of blood pressure.
+Facility data: Number of people with diabetes registered in health facilities, 
+with good control of blood pressure at the last clinical visit during the reporting 
+period, excluding those who were newly diagnosed with raised blood pressure 
+with less than 3 months of treatment.
+Denominator
+Facility data: Total number of people with diabetes registered in health facilities 
+during the reporting period, excluding those who were newly diagnosed with 
+raised blood pressure with less than three months of treatment.
+Population survey data: Total number of respondents with diabetes.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by type of diabetes, individual 
+characteristics such as age, sex, race/ethnicity, comorbidity status, high-
+risk groups, socioeconomic status, residence type (urban/rural), and health 
+insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys, with 
+plasma glucose or HbA1c and blood pressure measurement, health facility 
+patient registers, health records.
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardization is needed.
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).

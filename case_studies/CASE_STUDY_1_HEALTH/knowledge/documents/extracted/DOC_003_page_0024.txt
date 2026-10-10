@@ -1,0 +1,126 @@
+medications.82 Potential advantages of ABPM over HBPM include diag-
+nosing nocturnal hypertension or symptomatic transient hypotension 
+or hypertension with exertion. As such, ABPM and HBPM should be 
+considered complementary and additive, rather than competing ap-
+proaches to long-term BP management.83 
+5.5. Measuring blood pressure in selected 
+groups 
+5.5.1. Pregnancy 
+Monitoring BP during pregnancy is typically done at antenatal visits, 
+which vary dependent on trimester (with increasing frequency to-
+wards term). BP tends to reach a nadir at 20–30 weeks of pregnancy 
+before increasing towards term at 40 weeks.84 Only a small number 
+of automated oscillometric BP monitors have been adequately vali-
+dated in pregnancy and several have failed, usually due to providing 
+BP values that are erroneously high.85 Auscultatory measurement 
+with sphygmomanometry is consequently the clinical standard in 
+pregnancy.85 Self-monitoring at home is not yet proven to be effect-
+ive in gestational hypertension.86,87 While norms for BP during 
+pregnancy remain unclear, the 2022 Chronic Hypertension and 
+Pregnancy (CHAP) trial indicated benefit of targeting clinic BP below 
+140/90 mmHg.88 Consideration of secondary causes of hyperten-
+sion is important in young women with gestational hypertension. 
+Further details are provided in Section 9.2 and the 2018 ESC 
+Guideline for the management of cardiovascular disease during 
+pregnancy.89 
+5.5.2. Atrial fibrillation 
+Hypertension is a risk factor for AF.90,91 Oscillometric BP monitors 
+are not always accurate in the presence of AF, due to the greater 
+variability of BP beat to beat, so multiple auscultatory measurements 
+are recommended.48,92,93 Some oscillometric BP monitors include 
+an algorithm for detecting AF, but an electrocardiogram (ECG) is still 
+required to confirm the diagnosis.49,94 
+5.5.3. Orthostatic hypotension 
+Postural or orthostatic hypotension is common,95,96 present in ap-
+proximately 10% of all hypertensive adults and up to 50% of older 
+institutionalized adults.97,98 Orthostatic hypotension is defined as 
+a BP drop of ≥20/10 mmHg 1 and/or 3 min after standing following 
+a 5-min period in the seated or lying position.99–101 Diagnosis is 
+made in the office. Routine ABPM is not currently suitable for for-
+mally assessing orthostatic hypotension,102 though it may help in 
+some cases, particularly when accompanied by a patient symptom 
+diary.103 
+5.6. Novel methods of measuring blood 
+pressure 
+New methods to measure BP are under development. Continuous of-
+fice and out-of-office BP recordings and ABPM and HBPM have been 
+developed that derive beat-to-beat, reading-to-reading, and day-to-day 
+BP variability. However, there is no agreement on the optimum ap-
+proach to measuring variability, and there is no trial evidence that redu-
+cing BP variability specifically can reduce CVD events.104 Other 
+emerging technologies include wearable, wrist-based BP measurement 
+devices, devices evaluating central BP, and cuffless devices implementing 
+plethysmographic or other technologies.105,106 However, there is at 
+present insufficient scientific consensus on the accuracy standards 
+and validation procedures that these cuffless devices must comply 
+with prior to commercialization.43,44,107–109 
+In view of these issues, none of these cuffless measurement modal-
+ities are currently recommended for routine clinical use. 
+Recommendation Table 1 — Recommendations for 
+measuring blood pressure (see Evidence Tables 1–8) 
+Recommendations 
+Classa 
+Levelb 
+It is recommended to measure BP using a validated 
+and calibrated device, to enforce the correct 
+measurement technique, and to apply a consistent 
+approach to BP measurement for each patient.41,42 
+I 
+B 
+All adult patients (≥18 years) are recommended to 
+have their office and/or out-of-office BP measured 
+on an opportunistic basis and recorded in their 
+medical file, and be told what their current BP is. 
+I 
+C 
+Out-of-office BP measurement is recommended for 
+diagnostic purposes, particularly because it can 
+detect both white-coat hypertension and masked 
+hypertension. Where out-of-office measurements 
+are not logistically and/or economically feasible, then 
+it is recommended that the diagnosis be confirmed 
+with a repeat office BP measurement using the 
+correct standardized measurement technique.70 
+I 
+B 
+It is recommended that office BP should be measured 
+in both arms at least at the first visit, because a 
+between-arm systolic BP difference of >10 mmHg is 
+associated with an increased CVD risk and may 
+indicate arterial stenosis.55,110 
+I 
+B 
+If a between-arm difference of >10 mmHg in systolic 
+BP is recorded, then it is recommended that all 
+subsequent BP readings use the arm with the higher 
+BP reading.110 
+I 
+B 
+Out-of-office BP measurement is recommended for 
+ongoing management to quantify the effects of 
+treatment and guide BP-lowering medication 
+titration, and/or identify possible causes of side 
+effects (e.g. symptomatic hypotension). Where 
+out-of-office measurements are not logistically and/ 
+or economically feasible, then ongoing management 
+is recommended to be based on repeated office BP 
+measurements using the correct standardized 
+measurement technique.74,111,112 
+I 
+B 
+It is recommended that all patients undergoing 
+BP measurement also undergo pulse palpation 
+at rest to determine heart rate and arrhythmias 
+such as AF.113 
+I 
+C 
+Most automated oscillometric monitors have 
+not been validated for BP measurement in AF; 
+BP measurement should be considered using 
+a manual auscultatory method in these 
+circumstances where possible.47–49 
+IIa 
+C 
+Continued 
+ESC Guidelines 3935 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

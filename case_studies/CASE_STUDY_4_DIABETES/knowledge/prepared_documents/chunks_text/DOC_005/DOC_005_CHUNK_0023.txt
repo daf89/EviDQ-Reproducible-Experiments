@@ -1,0 +1,73 @@
+
+
+===== PDF PAGE 45 =====
+
+33
+7. Conclusions
+7
+Conclusions 
+Hypertension is a global health challenge that must be tackled on many fronts. As it is the largest modifiable 
+risk factor for cardiovascular disease, appropriate devices to screen for hypertension and measure BP are 
+important to ensure that hypertension is accurately diagnosed and treated. Devices validated for accuracy 
+by international protocols are essential, and non-validated devices must not be marketed or purchased. As 
+hypertension is more prevalent in LMICs, these countries must make procurement of accurate BPMDs a 
+priority to combat the growing public health crisis of hypertension. Validated devices with upper arm cuffs 
+should be available in all settings. Regulatory agencies must have the capacity to ensure that devices intended 
+for measuring BP are appropriately and rigorously tested and validated and properly labelled, in accordance 
+with international standards, before they are commercialized.
+BPMD technology should be spread globally, with broad, regular training and re-training of providers to 
+accurately measure BP. Providing standardized BP measurement certification with ongoing assessments 
+and re-training to ensure competence will result in accurate BP readings, appropriate diagnosis and better 
+management of hypertension. As manual BPMD are being phased out because of environmental concerns, 
+need for frequent calibration to maintain accuracy, and the increased risk for observer error and inaccurate 
+BP measurements with aneroid, use of validated automatic devices is preferred and recommended, as they 
+may produce more accurate and consistent measurements on a global scale. Even with automatic BPMD, the 
+importance of trained health care professionals and standardized methods to diagnose and treat hypertension 
+must be emphasized. 
+In view of the growing number of innovations and devices, this document provides evidence for the accuracy 
+and use of aneroid, semi-automatic and automatic BPMDs. As new technology becomes available, its 
+implications, impact and viability in the global clinical setting must be assessed. More appropriately trained 
+health care professionals as well as validated and affordable BPMDs could reduce the risks for disability and 
+mortality for hundreds of millions of people living with hypertension. WHO invites everyone to engage in the 
+battle against hypertension by increasing screening, treatment and access throughout the world. 
+Key messages
+In order to increase access to accurate BP measurement and monitoring, the experts and WHO secretariat 
+who participated in the meeting in June 2019 (Annex 2) proposed the following messages. 
+Member States, governments
+1.	 Member States are encouraged to strengthen their regulatory capacity to ensure that only certified 
+accurate, validated BPMD are marketed and to identify institutions in which independent validation can 
+be conducted. 
+a.	Member States should enforce quality assurance by mandating manufacturers to clearly state on 
+packaging whether their BPMD has passed validation testing for accuracy.
+b.	Non-validated BPMDs should not be marketed, purchased or used for clinical diagnosis. 
+
+
+===== PDF PAGE 46 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+34
+2.	 Appropriate resources should be maintained for use of manual auscultatory BPMD only for special clinical 
+or testing purposes.
+3.	 Governments, health and scientific communities and BPMD manufacturers should ensure the availability 
+of affordable accurate, validated automatic BPMDs in low-resource settings with or without a reliable 
+electricity supply.
+4.	 LMICs are encouraged to acquire, allocate and use validated BPMDs.
+5.	 Important to have trained professionals (clinical engineering and other technical professionals) to 
+appropriately select, validate and maintain BPMDs.
+Manufacturers
+1.	 Electronic BPMD (automated and semi-automated) should undergo independent validation testing with 
+a rigorous international protocol (e.g. ISO 81060-2; 2018). Compliance with this should be indicated on 
+the label.
+2.	 Manufacturers should specify the range of arm circumferences for which the device or cuff size is intended 
+and clearly mark the cuffs for the arms for which they are intended to be used. 
+Health care institutions and professionals
+1.	 Validated automatic BPMDs with appropriately sized upper-arm cuffs should be used in routine clinical 
+and community screening.
+2.	 Certification courses and annual training and re-training of health care professionals should be required 
+to ensure accurate BP measurement. Training should include patient preparation, cuff selection and BP 
+measurement technique. In order to minimize additional training for manual BP measurements, preferably 
+automated non-invasive BPMDs should be used.
+3.	 Health care facilities in which manual BPMDs containing mercury cannot yet be replaced by validated 
+electronic BPMDs should inform their communities about the hazards of mercury and develop procedures 
+for safe operation of the devices, search for ways to replace them for non-mercury ones, preferably 
+automated, and do proper decommissioning.

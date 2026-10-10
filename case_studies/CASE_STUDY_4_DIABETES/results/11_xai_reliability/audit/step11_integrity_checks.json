@@ -1,0 +1,15 @@
+{
+  "frozen_step02_split_reused": true,
+  "train_n": 460,
+  "original_val_n": 154,
+  "common_val_n": 139,
+  "test_n": 154,
+  "common_population_alignment": true,
+  "all_perturbation_matrices_float": true,
+  "new_model_training": false,
+  "test_predictions_generated": false,
+  "test_xai_computed": false,
+  "test_used": false,
+  "action_selected": false,
+  "all_fidelity_checks_pass": true
+}

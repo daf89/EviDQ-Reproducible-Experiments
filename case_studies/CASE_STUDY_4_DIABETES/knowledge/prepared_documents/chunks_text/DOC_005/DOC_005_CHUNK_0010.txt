@@ -1,0 +1,176 @@
+
+
+===== PDF PAGE 19 =====
+
+7
+3. Non-invasive BPMDs with cufff
+Manual / analogue
+Electronic / automated
+Type
+Mercury sphygmomanometer
+Aneroid sphygmomanometer
+Semi-automated, cuff
+Automated, cuff
+Cuffless technique, mobile app.
+Advantages
+•	 Often referred to as gold 
+standard or reference
+•	 No need for calibration, 
+inexpensive, does not require 
+electricity
+•	 Inexpensive and portable
+•	 Does not require electricity
+•	 Portable
+•	 Easy to use
+•	 Fewer observer errors
+•	 Minimal observer bias or terminal digit preference
+•	 Good for screening
+•	 Home use
+•	 Saves time and clinical resources
+•	 Less expertise and training required when used in the absence of a health care provider
+•	 Calibration not required
+•	 Can measure during motion 
+or continuously (beat-to-
+beat) 
+•	 Easy measurement without 
+discomfort due to inflation, 
+no limb size limitations
+(e.g. obese patients)
+Disadvantages
+•	 Risk of noise interference
+•	 Expertise and retraining required to avoid observer error
+•	 Requires manual dexterity to ensure proper cuff deflation rate
+•	 Risk of observer bias and terminal digit preference
+•	 Requires excellent hearing and vision
+•	 Requires access to a continuous power source (electricity or battery) 
+•	 Requires validation by standard protocol (some are validated only for adults)
+•	 Manufacturer variation due to proprietary algorithm for estimation
+•	 Some are inaccurate 
+•	 Cost and longevity of device 
+•	 Integrity of cuff and tubing essential to maintain accuracy over time
+•	 Must be replaced periodically because of mechanical failure
+•	 Generally poor accuracy; 
+more trials are needed
+•	 No current accuracy 
+validation standards; 
+devices need to be tested to 
+ensure accuracy. 
+Mercury is an environmental 
+hazard
+•	 Requires regular calibration 
+(at least every 6 months)
+•	 A device can lose calibration 
+(become inaccurate) when it 
+is jostled or bumped, leading 
+to false readings
+•	 Often inaccurate in clinical 
+practice if no routine 
+accuracy testing 
+Requires manual inflation of 
+cuff, which can lead to false 
+measurements if cuff not fully 
+inflated
+Many are not suitable for patients with atrial fibrillation 
+Table 1. Subcategories of non-invasive BPMDs and their advantages and disadvantages (continued)
+Sources: References (1, 8, 9).
+
+
+===== PDF PAGE 20 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+8
+The market for electronic/automated BPMDs has grown in the past few years, contributing to a larger variety 
+which makes specification of the different types of devices much more significant. Fig. 3 shows the various 
+types of electronic BPMD available (8).
+Fig. 3. Electronic BPMDs 
+Source: Reference (8).
+Automated 
+(spot-check) 
+device
+Spot-check 
+NIBP monitor
+Automatic-
+cycling NIBP 
+monitor
+Multi-parameter 
+monitors
+Ambulatory BP 
+monitor
+Wrist device
+Finger device
+Electronic 
+battery powered 
+monitor, 
+pressure sensor, 
+electrical pump, 
+digital display 
+and upper arm 
+cuff. 
+May display 
+pulse rate, 
+memory. 
+More 
+sophisticated 
+than automated, 
+for routine 
+clinical 
+assessment. 
+May measure 
+other vital signs 
+using upper-arm 
+cuff.
+Main and battery 
+powered. 
+Similar to 
+spot-check NIBP, 
+automatic-
+cycling, facility 
+to record, bed 
+side monitoring. 
+May measure 
+other vital signs 
+using upper arm 
+cuff.
+Alarms.
+DC and AC.
+For use in 
+critical care 
+wards and 
+operating 
+theatres; 
+monitors a wide 
+range of vital 
+signs, including 
+BP (with upper 
+arm cuff).
+Ethernet or 
+Wi-Fi.
+Same as 
+automated, it is 
+all attached to 
+patient´s belt.
+Records 
+patient´s BP 
+at different 
+intervals over 
+24-hour period 
+using upper arm 
+cuff, and stores 
+data.
+Electronic 
+battery powered. 
+Function similar 
+to automated, 
+pump attached 
+to a wrist cuff.
+Electronic 
+monitor finger 
+cuff or device 
+attached to 
+finger.
+Could use 
+different 
+techniques.
+Not all the variety of external pressure cuffs that are available, such as wrist and finger devices, are suitable 
+for clinical use, because they have not been validated for accuracy. Other non-invasive methods for measuring 
+BP are beyond the scope of this document. 

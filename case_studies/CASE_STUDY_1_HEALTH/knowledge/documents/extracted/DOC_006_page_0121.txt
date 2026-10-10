@@ -1,0 +1,55 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+Having that conformity is a central part of the goal. The intention is to introduce consistency and 
+reusability to reduce the need to constantly transform between systems. That is the benefit of a 
+standard. 
+In the context of CQMs and clinical decision support, there are two primary information model 
+standards you will encounter. 
+• 
+Quality Data Model: Originally createdby the National Quality Forum,[114] the Quality Data 
+Model (QDM) has historically been the primary information model used for CMS eCQMs since 
+approximately 2010. 
+• 
+FHIR: HL7 FHIR contains a series of types and classes whichare used to compose “resources” – 
+definitions of the elements like patient, encounter, medication, etc. Within FHIR, there is a set of 
+additional modifications specifically to support quality measurement. These additionalitems 
+and rules (known as profiles) are known as “QI Core.”[115] 
+QDM is the information model currently in use for CMS quality reporting, but the future is FHIR. They 
+are similar, but where QDM is targeted to particularly quality reporting, FHIR is meant for portrayal of 
+comprehensive portray of EHR data and allows for the purpose-driven extension where required to 
+support both new concepts as well as policy-driven constraints. 
+Coded Data 
+When we define a quality measure such as “did the patient receive a specific medication on the day of or 
+day after hospital admission?” we have a list of the patient’s medications we wish to compare with a 
+pre-defined list of “allowed” medications per the measure definition. We need to know if the patient 
+was administered a particular medication (potentially in a specific form and dose, administered through 
+a particular route). That means we need to have a common definition. 
+A given measure will contain a list of finite medications, encounter types, etc. which are appropriate for 
+evaluation. In the case of medications, we have standardized vocabularies like RxNorm and NDC. They 
+allow us to portray the specific medications in a codified form, so we avoid subjective interpretation of 
+text data. This is similarto previous abstractedversions in that there is a set of “allowed” medications, 
+but in this case, they are fixed and mandate use of the standard. If a patient’s data do not contain the 
+precise medication in the specified terminology, then the rule will not consider those data. 
+Given an example of “did the patient receive appropriate venous thromboembolism (VTE)prophylaxis 
+medication?” there would be provided sets of codes (known as a value set[116])which define that list of 
+medications. Take, for example, the Joint Commission’s “Low Dose UnfractionatedHeparinfor VTE 
+Prophylaxis” value set.[117] It contains a series of medications (only a subset depicted below), which are 
+expressedusing a terminology (in this case RxNorm)and codes.[117] 
+Exhibit 58: Subset of the Joint Commission’s "Low Dose Unfractionated Heparin for VTE Prophylaxis" 
+Value Set 
+Medication 
+Code System 
+Code 
+heparin sodium, porcine 1000 UNT/ML Injectable Solution 
+RXNORM 
+1361226 
+5 ML heparin sodium, porcine 2000 UNT/ML Injection 
+RXNORM 
+1361568 
+heparin sodium, porcine 20000 UNT/ML Injectable Solution 
+RXNORM 
+1361574 
+Health IT Advisor Handbook 
+Page 116

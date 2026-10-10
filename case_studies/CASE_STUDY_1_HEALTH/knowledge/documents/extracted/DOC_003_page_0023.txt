@@ -1,0 +1,112 @@
+5.2.5. Comparison of home and ambulatory blood 
+pressure monitoring 
+There is overlap between home and ambulatory monitoring in terms of 
+differentiating between hypertensive phenotypes. However, around 
+15% of people will have diagnostic disagreement, of whom approximately 
+50% will represent clinically significant differences of >5 mmHg.67 The ad-
+vantages and disadvantages of home and ambulatory monitoring are out-
+lined in Table 6. 
+5.3. What is the best method for 
+measuring blood pressure to diagnose 
+hypertension? 
+5.3.1. Blood pressure measurement for hypertension 
+screening 
+Opportunistic screening is typically performed using office BP measure-
+ment and is key in detecting possible hypertension. However, a single 
+screening office BP alone does not typically have sufficient diagnostic 
+test performance to establish a diagnosis, especially for BP values close 
+to diagnostic thresholds. Therefore, a single screening office BP re-
+quires some form of repeat BP assessment to confirm a diagnosis (pref-
+erably out-of-office or repeat office if out-of-office is not available). 
+Relatedly, the BP threshold for acting on a screening office BP by con-
+ducting repeat BP assessments should also be lower than the office BP 
+threshold used for diagnosing hypertension. This latter consideration is 
+particularly relevant in the presence of increased CVD risk or markers 
+of HMOD. Also of note, populations where masked hypertension is 
+more prevalent include men, those who smoke, those with excessive 
+alcohol intake, or those with diabetes or obesity.68,69 While a screening 
+office BP of >160/100 mmHg is almost always consistent with a diagno-
+sis of hypertension, a small proportion of patients will have extreme 
+white-coat effects that motivate prompt repeat BP assessment.68 
+Hypertension screening approaches are discussed further in Section 7.1. 
+5.3.2. Blood pressure measurement for diagnosing 
+hypertension 
+After detecting high BP in the office, subsequent BP measurement 
+for diagnosing hypertension depends on the clinical circumstances. 
+Office BP has lower specificity than ABPM for detecting hypertension, 
+so diagnosis based on office BP alone is less desirable unless resources 
+do not allow out-of-office measurements.70 For screening BP of 
+160–179 mmHg systolic or 100–109 mmHg diastolic, prompt confirm-
+ation (within 1 month) using either office or out-of-office methods is 
+recommended, as delays in treatment are associated with increased 
+CVD event rates.71 For BP of ≥180/110 mmHg, assessment for hyper-
+tensive emergency is recommended. In the setting of hypertensive 
+emergency, immediately commencing BP-lowering treatment is recom-
+mended, otherwise, prompt confirmation (preferably within a week) 
+can be considered prior to commencing treatment (Sections 7 and 10). 
+For screening BP of 140–159/90–99 mmHg, out-of-office BP should be 
+measured to confirm the diagnosis.72 When treatment of elevated BP is 
+being considered (e.g. 120–139/70–89 mmHg) for individuals with high 
+risk CVD conditions or sufficiently high 10-year predicted CVD risk, 
+out-of-office BP measurement is recommended, both to confirm BP 
+and to assess for masked hypertension. Out-of-office measurements 
+may also be helpful for individuals with office BP of 130–139/85–89 
+mmHg to diagnose masked hypertension. Further details on the diag-
+nostic evaluation of hypertension are provided in Section 7.2. 
+5.4. What is the best method for 
+measuring blood pressure for long-term 
+management of hypertension? 
+While repeat office measurement of BP remains the commonest ap-
+proach to long-term management of hypertension, several lines of in-
+vestigation support augmenting office BP measurements with 
+out-of-office assessment. 
+5.4.1. Home monitoring 
+There are over 50 trials of different self-monitoring-based interventions.73 
+Self-monitoring is associated with lower mean systolic BP at 12 months 
+[−3.2 mmHg; 95% confidence interval (CI) −4.9 to −1.6 mmHg].74 
+Furthermore, there are known benefits of telemonitoring, digital interven-
+tions, and mobile health in managing BP.75–78 Self-monitoring is also likely 
+to be cost-effective.79 Unfortunately, in clinical practice, some patients 
+may not provide reliable information on their home BP, and both their de-
+vice and measurement technique need to be checked. 
+5.4.2. Ambulatory monitoring 
+ABPM provides a reference BP measurement but repeat ABPM testing 
+is sometimes not practical due to resource constraints and, uncom-
+monly, low patient acceptability.80 There is a paucity of data on treat-
+ment guided by ABPM vs. that of office or HBPM measurements. A 
+trial of treatment guided by HBPM vs. clinic and ambulatory monitoring 
+found equivalence in BP control and HMOD.81 Other studies reported 
+a non-significant trend to worse BP control with ambulatory vs. office 
+BP monitoring, though the ambulatory group also received fewer 
+Table 6 Comparison of ambulatory and home blood 
+pressure monitoring 
+Ambulatory monitoring 
+Advantages 
+• Can identify white-coat and masked hypertension 
+• Measurement in real-life settings and during usual activities 
+• Stronger prognostic evidence 
+• Night-time readings 
+• Abundant information from a single investigation, including short-term 
+diurnal BP variability 
+• Additional BP phenotyping (e.g. nocturnal dipping status) 
+Disadvantages 
+• Relatively expensive and sometimes limited availability 
+• Can be uncomfortable and affect sleep 
+Home monitoring 
+Advantages 
+• Identify white-coat and masked hypertension 
+• Cheap and widely available 
+• Measurement at home, which may be more relaxed than at doctor’s office 
+• Patient engagement in BP measurement and telemedicine potential 
+• Easily repeated and used over longer periods to assess day-to-day BP 
+variability 
+Disadvantages 
+• Only static BP at rest is typically available 
+• Potential for measurement error due to improper measurement 
+technique or unvalidated or poorly calibrated device 
+• Nocturnal readings not usually possible 
+© ESC 2024
+BP, blood pressure. 
+3934 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

@@ -1,0 +1,30 @@
+19 
+References 
+Cohen, J. Design and Methods of the Medical Expenditure Panel Survey Household Component. 
+MEPS Methodology Report No. 1. AHCPR Pub. No. 97-0026. Rockville, MD: Agency for 
+Health Care Policy and Research, 1997. 
+https://meps.ahrq.gov/data_files/publications/mr1/mr1.pdf 
+Cohen, S. Sample Design of the 1996 Medical Expenditure Panel Survey Household Component. 
+MEPS Methodology Report No. 2. AHCPR Pub. No. 97-0027. Rockville, MD: Agency for 
+Health Care Policy and Research, 1997. 
+https://meps.ahrq.gov/data_files/publications/mr2/mr2.pdf 
+Cohen, S. Design Strategies and Innovations in the Medical Expenditure Panel Survey. Medical 
+Care, July 2003:41(7) Supplement: III-5–III-12. 
+Ezzati-Rice, T.M., Rohde, F., Greenblatt, J. Sample Design of the Medical Expenditure Panel 
+Survey Household Component, 1998–2007. Methodology Report No. 22. March 2008. Agency 
+for Healthcare Research and Quality, Rockville, MD. 
+https://meps.ahrq.gov/data_files/publications/mr22/mr22.pdf 
+Machlin, S.R., Dougherty, D.D. Overview of Methodology for Imputing Missing Expenditure 
+Data in the Medical Expenditure Panel Survey. Methodology Report No. 19. March 2007. 
+Agency for Healthcare Research and Quality, Rockville, MD. 
+https://meps.ahrq.gov/data_files/publications/mr19/mr19.pdf 
+Machlin, S.R., Taylor, A.K. Design, Methods, and Field Results of the 1996 Medical Expenditure 
+Panel Survey Medical Provider Component. Methodology Report No. 9. May 2000. Agency for 
+Healthcare Research and Quality, Rockville, MD. 
+https://meps.ahrq.gov/data_files/publications/mr9/mr9.pdf 
+Hill, S.C., Roemer, M., Stagnetti, M.N. Outpatient Prescription Drugs: Data Collection and 
+Editing in the 2011 Medical Expenditure Survey. MEPS Methodology Report No. 29. March 
+2014. Agency for Healthcare Research and Quality, Rockville, MD. 
+https://meps.ahrq.gov/data_files/publications/mr29/mr29.pdf 
+Stagnitti, Marie N., Beauregard, Karen, and Solis, Amy. Design, Methods, and Field Results of 
+the Medical Expenditure Panel Survey Medical Provider Component (MEPS MPC)—2006

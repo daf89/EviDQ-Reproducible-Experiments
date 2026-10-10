@@ -1,0 +1,44 @@
+{
+  "step": "STEP16",
+  "title": "Sensitivity analysis of fuzzy membership functions",
+  "timestamp": "2026-10-03T14:47:42.632364",
+  "baseline": "Dataset_DQ",
+  "source_values": "STEP14_FUZZY_INPUT_VALUES.csv",
+  "sensitivity_type": "LOCAL_PARAMETER_SENSITIVITY",
+  "sensitivity_rate": 0.1,
+  "scenarios": {
+    "S_MINUS": 0.9,
+    "S0": 1.0,
+    "S_PLUS": 1.1
+  },
+  "natural_anchors": {
+    "PERFORMANCE": 0.0,
+    "EXPLANATION_SHIFT": 0.0,
+    "STABILITY": 1.0,
+    "COVERAGE": 1.0
+  },
+  "action_values_used_to_tune_parameters": false,
+  "membership_recomputed": true,
+  "models_retrained": false,
+  "SHAP_recomputed": false,
+  "datasets_modified": false,
+  "DQ_actions_reapplied": false,
+  "REF_used": false,
+  "TEST_accessed": false,
+  "global_score": false,
+  "action_ranking": false,
+  "recommendation": false,
+  "number_action_variable_profiles": 16,
+  "number_stable_profiles": 15,
+  "number_sensitive_profiles": 1,
+  "descriptive_stability_rate": 0.9375,
+  "sensitivity_status": "SOME_LINGUISTIC_STATES_SENSITIVE",
+  "status": "PASS_FUZZY_SENSITIVITY_ANALYSIS",
+  "hashes": {
+    "STEP16_SENSITIVITY_MEMBERSHIPS_LONG.csv": "4d5d0d305e55ebf38a912380e4e5e84ab14718cfad6ac2f347f1577923ca057f",
+    "STEP16_SENSITIVITY_DOMINANT_TERMS.csv": "391c728f18775d794dc0c12052b01efb3631ac8e3aeca194323934d6c664d094",
+    "STEP16_SENSITIVITY_COMPARISON.csv": "245c0630b772bd5605ed903bdea3f0ee01270261e1feda9a9f11cc6fc855c068",
+    "STEP16_ROBUSTNESS_SUMMARY.csv": "5315059711ca1f289179852d68eeafdf5bee942b0d1db5822798d9761948ad0c",
+    "STEP16_SENSITIVITY_PARAMETER_SCENARIOS.csv": "a084f352de691e60df0269514410ab6a7e51f1008ae1bb5ca46aeee2c7d0f84f"
+  }
+}

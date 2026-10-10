@@ -1,0 +1,120 @@
+expected to decrease during sleep by 10%–20% relative to daytime BP.878 
+Night-time dipping patterns are classified into four groups:879,880 
+• Inverse dipping (riser): nocturnal increase in BP (night-to-day ra-
+tio of >1.0). 
+• Non-dipper: reduced night-time BP dip of <10% (or night-to-day 
+ratio of >0.9 and ≤1.0). 
+• Normal dipping: fall in night-time BP of >10% and <20% (or 
+night-to-day ratio of 0.8 to 0.9). 
+• Extreme dipping: marked fall in night-time BP of >20% (or 
+night-to-day ratio of <0.8). 
+Patients with nocturnal hypertension may be dippers or non-dippers. 
+Of note, the long-term reproducibility of dipping patterns appears to 
+be low.881,882 
+9.12.2. Epidemiology 
+Nocturnal hypertension has been observed in up to half of patients with 
+hypertension,883–886 and is associated with increased HMOD,883 im-
+paired renal function, and diabetes mellitus.887 Nocturnal hypertension 
+appears to be more prevalent in black888–890 and Asian891,892 popula-
+tions. Masked uncontrolled hypertension, which occurs in 30% of 
+patients treated for hypertension, is more often due to poorly con-
+trolled nocturnal BP than daytime BP on ABPM.893 
+Environmental factors, including sleep duration and higher humid-
+ity,894 nocturia,895 OSAS,896 obesity, high salt intake in salt-sensitive pa-
+tients,897 orthostatic hypotension, autonomic dysfunction, CKD,898–900 
+diabetic neuropathy/diabetes,901 and old age62 are associated with non- 
+dipping. Moreover, nocturnal hypertension and absent night-time dip-
+ping pattern are more common in secondary hypertension.902,903 
+9.12.3. Night-time blood pressure as a cardiovascular 
+disease risk factor 
+Nocturnal hypertension is a risk factor for adverse CVD events,904 
+cerebrovascular disease, including stroke,905 and cardiovascular mor-
+tality.891,906,907 Night-time BP may provide more prognostic infor-
+mation than daytime BP, perhaps as it is less dependent on physical 
+activities. Non-dipping908–910 and reverse dipping (nocturnal rise in 
+BP) may also be associated with increased CVD risk.62,910–913 A noc-
+turnal rise in BP is associated with an increased risk of dementia and 
+Alzheimer’s disease in older men.914 There is also some evidence that 
+extreme dipping, particularly in untreated patients, is associated with 
+an increased risk for CVD events.35,886 
+9.12.4. Treatment of nocturnal hypertension 
+There is no reliable evidence that BP-lowering medication should be 
+routinely dosed at bedtime. The diurnal timing of drug administration 
+is discussed in Section 8.3.4. In patients with secondary hypertension, 
+the underlying cause (OSAS, primary aldosteronism) should be treated 
+as discussed in Section 9.14. 
+9.13. Resistant hypertension 
+9.13.1. Definition of resistant hypertension 
+Resistant hypertension is defined as BP remaining above goal despite 
+three or more BP-lowering drugs of different classes at maximally tol-
+erated doses, of which one is a diuretic (Table 11).915 Resistant hyper-
+tension should be managed at specialized centres with the expertise 
+and resources to exclude pseudo-resistant hypertension (adherence 
+testing) and causes of secondary hypertension.916 
+9.13.2. Non-pharmacological interventions 
+The Treating Resistant Hypertension Using Lifestyle Modification to 
+Promote Health (TRIUMPH) trial demonstrated significant clinic and 
+ambulatory BP reductions in patients with resistant hypertension par-
+ticipating in a 4-month lifestyle intervention comprising diet and exercise 
+interventions delivered within a cardiac rehabilitation programme.917 
+9.13.3. Pharmacological interventions 
+BP-lowering treatment of resistant hypertension with single-pill combi-
+nations is recommended to reduce the pill burden, thereby increasing 
+drug adherence and persistence.492 
+As resistant hypertension often, and especially in CKD,918 represents a 
+state of salt retention and volume expansion secondary to relative aldos-
+terone excess,516,919,920 BP control may be improved by switching hydro-
+chlorothiazide 
+to 
+long-acting 
+thiazide-like 
+diuretics, 
+such 
+as 
+chlorthalidone.921,922 However, a recent trial of chlorthalidone vs. 
+hydrochlorothiazide—which probably included a sizeable proportion of 
+adults with resistant hypertension—did not demonstrate any difference 
+in systolic BP or CVD outcomes between the two medications. In the sub-
+group of patients with prior CVD, there was a strong trend of benefit with 
+chlorthalidone on CVD outcomes.447 Of note, the risk of hypokalaemia 
+was higher in the chlorthalidone group than in the hydrochlorothiazide 
+group.447 In patients with eGFR < 30 mL/min/1.73 m2, an adequately up- 
+titrated loop diuretic is necessary to define resistant hypertension. 
+Most patients with resistant hypertension require the addition of 
+non-first-line BP-lowering drugs (Figure 22). Of these, low-dose spir-
+onolactone (25–50 mg daily) should be considered first.459,515,923–925 
+In patients with resistant hypertension and type 2 diabetes, spironolac-
+tone (25–50 mg daily) reduced BP and albuminuria.926 The use of spirono-
+lactone can be precluded by limited tolerability due to anti-androgenic side 
+effects resulting in breast tenderness or gynaecomastia (in about 6%), im-
+potence in men, and menstrual irregularities in women.927 The efficacy and 
+safety of spironolactone for treating resistant hypertension have not yet 
+been established in patients with significant renal impairment. Moreover, 
+spironolactone, especially in addition to RAS inhibitors, increases the risk 
+of hyperkalaemia.927,928 Therefore, spironolactone should be restricted 
+to patients with an eGFR of ≥30 mL/min/1.73 m2 and a plasma potassium 
+concentration of ≤4.5 mmol/L.459 Steroidal MRAs are contraindicated in 
+patients with an eGFR of <30 mL/min/1.73 m2. Serum electrolytes and kid-
+ney function should be monitored soon after initiation and frequently 
+thereafter. In patients with resistant hypertension and CKD (eGFR of 
+25–45 mL/min/1.73 m2), the oral potassium binder patiromer enabled 
+more patients to continue treatment with spironolactone.929 
+If spironolactone is not tolerated due to anti-androgen side ef-
+fects, eplerenone may be used. If eplerenone is used, higher doses 
+(i.e. 50–200 mg daily) and twice-daily dosing may be necessary to 
+achieve a BP-lowering effect.503 Of note, eplerenone is not licensed 
+for hypertension treatment in many countries. 
+When not already prescribed for a compelling indication, beta- 
+blockers should be considered in the treatment of resistant hyperten-
+sion, though their BP-lowering effects appear to be less potent than 
+spironolactone in the setting of resistant hypertension.459 
+Amiloride and clonidine have data suggesting they are as effective as 
+spironolactone for BP lowering, though they lack outcomes data. 
+A non-exhaustive list of additional medications sometimes used for 
+BP-lowering purposes includes other centrally acting BP-lowering med-
+ications (e.g. methyldopa), hydralazine, aliskiren, minoxidil, triamterene, 
+and loop diuretics (Figure 22).515,516 As noted earlier, minoxidil use is 
+often limited by side effects. 
+3980 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

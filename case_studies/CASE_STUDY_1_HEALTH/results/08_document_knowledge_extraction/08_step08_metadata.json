@@ -1,0 +1,21 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_08_DOCUMENTARY_KNOWLEDGE_EXTRACTION",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "source_type": "DOCUMENT",
+  "input_relevant_pairs": 162,
+  "unique_evidence_families_reviewed": 30,
+  "valid_pair_outputs": 162,
+  "knowledge_items": 368,
+  "pairs_without_explicit_knowledge": 0,
+  "execution_used_for_delivered_results": "GPT-5.6 Sol (ChatGPT) acting as LLM-B",
+  "reproducibility_trace_implementation": "LOCAL_OLLAMA / llama3.1:8b",
+  "principles": {
+    "external_knowledge": false,
+    "anomaly_is_error": false,
+    "force_all_categories": false,
+    "exact_documentary_evidence": true,
+    "automatic_source_priority": false,
+    "automatic_correction": false
+  }
+}

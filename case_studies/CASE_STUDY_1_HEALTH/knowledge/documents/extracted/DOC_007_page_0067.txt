@@ -1,0 +1,106 @@
+mGFR also differs from the true physiological GFR, which
+itself cannot be directly measured. Errors may be related to
+analytical errors in the assay or the clearance procedure. For
+example, the overestimation of GFR is seen if late samples are
+not taken for people with low GFR.167,186 Urinary clearances
+are preferred to plasma clearance methods in people with
+extensive third spacing of ﬂuid.169–173 In the absence of
+changes related to disease progression, a change in mGFR
+from time to time may occur due to preanalytical (e.g.,
+patient preparation and time of day), analytical (laboratory
+measurement variability), and biological (changes in true
+physiological GFR) variability, as is the case for eGFR. This
+does not detract from the advantage of mGFR as being free
+from
+non-GFR
+determinants.
+It
+is
+important
+for
+nephrologists to appreciate and understand these errors and
+nuances to appropriately order the right tests in speciﬁc
+circumstances.
+Practice Point 1.2.2.4: Interpretation of SCr level requires
+consideration of dietary intake.
+Most studies measuring GFR for clinical or research pur-
+poses are performed in the morning after a period of fasting or
+moderate protein intake. Ideally, optimal application of eGFR
+would
+simulate
+these
+conditions.
+Several
+studies
+have
+documented the impact of a cooked meat or ﬁsh meal on
+creatinine
+concentrations.187
+For
+example,
+one
+study
+demonstrates increase in SCr of approximately 20 mmol/l
+(0.23 mg/dl) which in the study population was equivalent to
+decrease in eGFR of approximately 20 ml/min per 1.73 m2.
+Maximum postprandial effects were reached in some subjects
+by 2 hours and others by 4 hours. Waiting for at least 12
+hours before the measurement of SCr, after meat or ﬁsh
+intake, best avoids this effect. We recognize that this approach
+may be challenging to implement in the clinical environment.
+Practice Point 1.2.2.5: Assess the potential for error in
+eGFR when assessing a change in GFR over time.
+When evaluating a change in eGFR over time, the question
+is whether the true GFR is changing. However as described
+above, there are several other potential causes for a change in
+observed eGFR, other than AKI, such as changes in non-GFR
+determinants of the ﬁltration markers or analytical errors in
+the assays. Healthcare providers should consider whether
+there has been a change in non-GFR determinants (e.g., a
+recent meat meal now or at the ﬁrst measurement or change
+in muscle mass or extreme activity). The impact of the
+combined effect of analytical and biological variation on
+eGFR in determining progression is discussed in Chapter 2.
+Biological variability
+Analytical variability
+Non ideal properties of
+mGFR
+Measurement error in the
+ clearance procedure
+Measurement error in the assay of
+ determinants of serum
+ concentrations of endogenous
+eGFR
+Measurement error in the assay
+mGFR P15 ~ 90%
+± 15%
+26–35
+± 15%
+51–69
+15
+30
+45
+60
+90
+120
+eGFR P30 ~ 90%
+± 30%
+21–39
+± 30%
+42–78
+Figure 12 | Sources and magnitude of error around measured glomerular ﬁltration rate (mGFR) and estimated GFR (eGFR). It is
+important to determine how accurate the assessment of GFR needs to be for clinical decision-making. P30 for eGFR refers to the percent of
+eGFRs that are within 30% of mGFR. If accuracy within 30% is acceptable (P30 >80%) or optimal (P30 >90%), eGFR may be sufﬁcient, provided
+that there are not large deviations in non-GFR determinants of creatinine or cystatin C. If greater accuracy is needed, mGFR is advised. The
+accuracy for mGFR is based on time-to-time variability. P15 for mGFR refers to the percent of one mGFR that was within 15% of the second. At a
+GFR of 60 ml/min per 1.73 m2, 30% accuracy for eGFR corresponds to 42 to 78 ml/min per 1.73 m2 and 15% accuracy for mGFR corresponds to
+51 to 69 ml/min per 1.73 m2. At a GFR of 30 ml/min per 1.73 m2, 30% accuracy for eGFR corresponds to 21 to 39 ml/min per 1.73 m2 and 15%
+accuracy for mGFR corresponds to 26 to 35 ml/min per 1.73 m2. Non-GFR determinants of endogenous ﬁltration markers include generation,
+tubular handling, and extrarenal elimination. Nonideal properties of exogenous ﬁltration markers include tabular handling and extrarenal
+elimination. Reproduced from Kidney International, volume 96, issue 2, Inker LA, Levey AS. Knowing your GFR—when is the number not (exactly)
+the number? Pages 280–282.174 Copyright ª 2019, with permission from the International Society of Nephrology. Published by Elsevier Inc. All
+rights reserved.
+chapter 1
+www.kidney-international.org
+S182
+Kidney International (2024) 105 (Suppl 4S), S117–S314

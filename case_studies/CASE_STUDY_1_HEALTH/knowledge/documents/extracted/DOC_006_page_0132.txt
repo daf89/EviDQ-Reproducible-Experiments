@@ -1,0 +1,49 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+Appendix D: Tips on Designing Reports and Data Visualizations 
+The first step in designing a report is to identify the task of the report. Who will be using the report? Will 
+it be for internal clinicians, organization leadership, ACO, payer, regulatory, or something else? 
+A report should tell a story and it is important to think about the components that make up that story 
+and maybe more importantly, the components that do not. Be careful mixing stories because this can 
+lead to a busy and confusing report (seemore below). What does the report need to convey? Think 
+about the data that are needed to support this story. What systems do the data currently live in and 
+what access is required, or is this new data collection? What frequency will the report need to be 
+updated? Below we will cover some thoughts around automated and a method for semi-automation 
+that does not require programming or systems administration. 
+Before embarking on creating a new report, first check to see if the report already exists (see Section 3). 
+Is this report covered by a standard report (e.g., MIPS) that may be already built into your EHR? Check 
+with the EHR vendor or handbook or website to see if a related report already exists. In some cases, the 
+reporting role may require a separate license. With practice staff, ask your vendor if there is any training 
+available for the reporting module. In most cases, the use of a standardized report is preferable to 
+maintain consistency, ease of use, and reduce the practice resources needed. If you are in a health 
+system, it may be a good idea to reach out to your data analytics team. They may know of something 
+outside of the EHR. 
+If the report will be used in the clinic, think about the intended purpose. Will this be used to support 
+day-to-day operations? For example, one idea is to create “buckets” that show how many patients are 
+waiting in each room and for how long. Another is to track occurrences of incomplete, partial, or 
+complete processes for review and improvement. Another idea is to use quality measures at the 
+individual provider level and create a dashboard for teams of providers to see how they compare to 
+their peers in terms of controlling for disease in their patient population. 
+Finally, a dashboard showing a running average of costs for procedures or processes can be helpful for a 
+clinic to meet financial goals. Costs side-by-side with related quality measures could be a very powerful 
+visualization. 
+Many EHRs provide an integrated reporting module that allows the user to build a report (there may be 
+additional costs). The simplest of these reports is to run a list of patients that have a certain 
+characteristic, for example, a hypertension diagnosis. The user interface and commands used to create a 
+custom list will vary by EHR, but most support Boolean logic like that shown in the example below: 
+• 
+Select (All patients) 
+• 
+AND (Between 18 and 85 years old) 
+• 
+AND (Seen within 365 days) 
+• 
+AND (for an office visit) OR (for a tele visit)) 
+• 
+AND (having a diagnosis of ICD-10 I.10, Essential Hypertension) 
+• 
+NOT (pregnant). 
+Health IT Advisor Handbook 
+Page 127

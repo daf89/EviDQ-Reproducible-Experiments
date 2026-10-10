@@ -1,0 +1,34 @@
+{
+  "step": 9,
+  "phase": "KNOWLEDGE",
+  "case_study": "CANCER_REGISTRY",
+  "purpose": "Prepare a traceable corpus of official institutional documents for blind RAG processing.",
+  "n_official_documents": 5,
+  "official_document_ids": [
+    "DOC01_ENCR_DQ_CHECKS",
+    "DOC02_IARC_SP95",
+    "DOC03_ENCR_STANDARD_2023",
+    "DOC04_WHO_ICDO3",
+    "DOC05_JRC_ENCR_QCS"
+  ],
+  "features_selected_by_SHAP": [
+    "registry_stage_code",
+    "icdo3_m_code",
+    "age_diag",
+    "administr_unit",
+    "mkb10_code"
+  ],
+  "SHAP_cumulative_coverage_percent": 80.376,
+  "chunking_strategy": "FIXED_NON_OVERLAPPING_PAGE_BLOCKS",
+  "chunk_size_pages": 2,
+  "n_extracted_pages": 680,
+  "n_chunks": 340,
+  "allowed_source_type": "OFFICIAL_OR_INSTITUTIONAL_DOCUMENT_ONLY",
+  "scientific_articles_used_as_RAG_source": false,
+  "hidden_reference_used": false,
+  "GPT_5_6_Sol_used": false,
+  "knowledge_extraction_performed": false,
+  "diagnosis_performed": false,
+  "correction_performed": false,
+  "important_principle": "Step 9 performs documentary preparation only. Statistical observation is not converted into an established error."
+}

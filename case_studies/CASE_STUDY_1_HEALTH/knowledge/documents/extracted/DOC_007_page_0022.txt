@@ -1,0 +1,179 @@
+Deﬁnition and classiﬁcation of CKD
+Deﬁning CKD. CKD is deﬁned as abnormalities of kidney
+structure or function, present for a minimum of 3 months,
+with implications for health (Table 1).1
+Classifying CKD. CKD is classiﬁed based on Cause, GFR
+category (G1–G5), and Albuminuria category (A1–A3),
+abbreviated
+as
+CGA.1
+These
+3
+components
+of
+the
+classiﬁcation system are each critical in the assessment of
+people with CKD and help enable determination of severity
+and risk. Listed below are reference tables describing each
+component. Note that while the deﬁnition of CKD includes
+many different markers of kidney damage and is not
+conﬁned to decreased GFR and albumin-to-creatinine ratio
+(ACR) >30 mg/g [>3 mg/mmol], the classiﬁcation system
+is based on the 2 dimensions of GFR and degree of
+albuminuria (Tables 2 and 3). This nuance is often missed
+by healthcare providers and students.
+It is well established that patient advocates with CKD and
+healthcare providers prefer the more clinically useful and
+generally understood assessment of GFR resulting from the
+use of GFR estimating equations compared with serum
+creatinine (SCr) alone. Globally, although still not universally
+available in all countries, SCr is measured routinely and the
+approach to assessment of GFR is therefore to use SCr and an
+estimating equation for initial assessment of GFR. The
+approach to evaluation of GFR using initial and supportive
+tests is described in greater detail in Chapter 1.
+Etiology of CKD should be sought, and there are
+numerous systems for grouping various etiologies, some of
+which are evolving with new knowledge and diagnostic tools.
+There are congenital and genetic causes of CKD, some asso-
+ciated with systemic diseases, and others that are primary. It is
+beyond our remit to suggest a speciﬁc approach, but we
+highlight the importance of establishing a cause to individ-
+ualize management of CKD.
+The global burden of CKD
+The Global Burden of Disease, Injuries, and Risk Factors
+Study (GBD) pulls together data on premature death and
+disability from more than 350 diseases and injuries in 204
+countries, by age and sex, from 1990 to the present.24 Disease
+“burden” is the impact of a health problem as measured by
+ﬁnancial cost, mortality, morbidity, or other indicators and
+can be measured by combining 2 indicators to describe the
+disability-adjusted life-years (DALYs): the number of years
+of life lost to disease and the number of years lived with
+disability due to disease.
+Globally, in 2017, a systematic analysis from the all-age
+GBD project found 697.5 million (95% uncertainty interval
+[UI]: 649.2–752.0) cases of all-stage CKD, for a global preva-
+lence of 9.1% (8.5%–9.8%).25 By 2021, a joint statement from
+the
+American
+Society
+of
+Nephrology,
+European
+Renal
+Association,
+and
+International
+Society
+of
+Nephrology
+indicated that more than 850 million people suffer from
+some form of kidney disease, roughly double the number of
+people who live with diabetes (422 million) and 20 times
+more than the prevalence of cancer worldwide (42 million)
+or people living with AIDS/HIV (36.7 million). These
+estimates derive from aggregation of studies worldwide,
+which
+have
+applied
+a
+variety
+of
+deﬁnitions
+of
+CKD;
+nevertheless, they furnish the best guide about global CKD
+prevalence.
+In 2017, CKD was estimated to account for 35.8 million
+(95% UI: 33.7e38.0) DALYs, and 1.2 million people died
+from CKD. Most of the burden of CKD was concentrated in
+the 3 lowest quintiles of sociodemographic index (SDI). In
+2019, CKD was responsible for 41.5 million (95% UI: 38.3–
+45.0) DALYs, and 1.43 million people died from CKD.24 Age-
+standardized DALY rates (Figure 224) were highest in central
+and Andean Latin America, at 1348.1 (1203.6–1521.6) and
+836.3 (704.2–981.6) per 100,000, respectively (global rate
+was
+514.9
+[474.9–558.9]).
+In
+2017,
+CKD
+in
+diabetes
+represented a third of all DALYs, and there were 1.4 million
+Table 1| Criteria for chronic kidney disease (either of the
+following present for a minimum of 3 months)
+Markers of kidney
+damage (1 or more)
+Albuminuria (ACR $30 mg/g [$3 mg/mmol])
+Urine sediment abnormalities
+Persistent hematuria
+Electrolyte and other abnormalities due to
+tubular disorders
+Abnormalities detected by histology
+Structural abnormalities detected by imaging
+History of kidney transplantation
+Decreased GFR
+GFR <60 ml/min per 1.73 m2
+(GFR categories G3a–G5)
+ACR, albumin-to-creatinine ratio; GFR, glomerular ﬁltration rate.
+Table 2| GFR categories in CKD
+GFR
+category
+GFR (ml/min
+per 1.73 m2)
+Terms
+G1
+$90
+Normal or high
+G2
+60–89
+Mildly decreaseda
+G3a
+45–59
+Mildly to moderately decreased
+G3b
+30–44
+Moderately to severely decreased
+G4
+15–29
+Severely decreased
+G5
+<15
+Kidney failure
+CKD, chronic kidney disease; GFR, glomerular ﬁltration rate.
+aRelative to the young adult level. In the absence of evidence of kidney damage,
+neither G1 nor G2 fulﬁlls the criteria for CKD.
+Table 3| Albuminuria categories in chronic kidney disease
+Category
+AER
+(mg/24 h)
+ACR (approximately
+equivalent)
+Terms
+(mg/mmol)
+(mg/g)
+A1
+<30
+<3
+<30
+Normal to mildly
+increased
+A2
+30–300
+3–30
+30–300
+Moderately increaseda
+A3
+>300
+>30
+>300
+Severely increased
+ACR, albumin-to-creatinine ratio; AER, albumin excretion rate.
+aRelative to the young adult level.
+www.kidney-international.org
+introduction, qualifying statements, and key concepts
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S137

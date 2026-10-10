@@ -1,0 +1,135 @@
+HMOD assessment is also an important way to identify young adults 
+<40 years old who have increased CVD risk, since 10-year estimated 
+CVD risk by SCORE2 cannot be calculated in this age group (see 
+Section 8.1). More details on diagnostic thresholds for HMOD by the 
+various assessment options, including important sex differences, are 
+provided in Supplementary data online, Tables S1 and S5 and Figure 12. 
+Finally, some individuals may be at heightened risk for CVD events 
+when cardiac and vascular HMOD measurements like LVH and 
+increased PWV do not regress over time with appropriate treatment 
+and BP control.14,268–271 
+Investigations aimed at screening for secondary hypertension are 
+additional optional tests and are detailed in Section 7.6. Of note, patients 
+with an incidental adrenal nodule or nodules (typically detected on im-
+aging of the abdomen done for other clinical reasons) warrant screen-
+ing for elevated BP and hypertension. Those with adrenal 
+incidentalomas and hypertension warrant a basic work-up for second-
+ary hypertension to include screening for primary aldosteronism, 
+Cushing’s syndrome and phaeochromocytoma. 
+7.4.3.1. The kidneys 
+CKD is defined as abnormalities of kidney structure or function, pre-
+sent for at least 3 months with implications for health.272 Renal function 
+is evaluated initially using serum creatinine and an estimated glomerular 
+filtration rate (eGFR) equation (preferably race-free CKD-EPI) and typ-
+ically for proteinuria.273 Our definition of moderate-to-severe CKD re-
+quires an eGFR of <60 mL/min/1.73 m2 or albuminuria of ≥30 mg/g 
+(≥3 mg/mmol). Intensive BP control in patients with CKD reduces rates 
+of CVD events.274,275 CKD can influence the choice of BP-lowering 
+treatment (Sections 8 and 9), as well as newer drugs for cardiovascular 
+prevention, such as sodium–glucose co-transporter 2 (SGLT2) inhibi-
+tors and finerenone. 
+We recommend repeat measurement of eGFR and urine albumin: 
+creatinine ratio (ACR) at least annually if clinically significant CKD is di-
+agnosed. Renal ultrasound and Doppler examination to evaluate causes 
+of CKD and to exclude renoparenchymal and renovascular hyperten-
+sion (RVH) should also be considered.276,277 
+7.4.3.2. The heart 
+A 12-lead ECG is a part of the initial routine work-up for all patients with 
+hypertension and should be repeated whenever patients present with an 
+irregular pulse or cardiac symptoms. The ECG should be analysed for 
+LVH (Supplementary data online, Table S1) and AF.31,278–282 
+Echocardiography is recommended in patients with hypertension 
+when the ECG is abnormal, murmurs are detected, or there are cardiac 
+symptoms. A full, standardized, two-dimensional echocardiogram should 
+be performed, preferably with tissue Doppler and strain assessment. 
+Echocardiography can be considered for all patients with newly diag-
+nosed hypertension, if local resources and reimbursement policies allow. 
+Over 5 years of follow-up, subclinical left ventricular diastolic dysfunction 
+predicts the incidence of CVD.283–285 In addition, LVH detected by echo-
+cardiography predicts total and cardiovascular mortality and CVD events 
+in the general population,286,287 including in young adults.26,268,288,289 
+Data on the associations with CVD of other metrics for detecting 
+HMOD in the heart are also available.26,268,290 Since cardiac size and func-
+tion differ by sex, sex-specific thresholds for detecting HMOD in the 
+heart are used to avoid under-diagnosis in women.25,174,291 
+Table 9 Optional tests that may be used as clinically indi-
+cated in the initial work-up of a patient with elevated blood 
+pressure or hypertension to assess hypertension-mediated 
+organ damage or established cardiovascular disease 
+Optional test 
+Clinical utility 
+Echocardiography 
+Assessing HMOD (hypertensive heart 
+disease) 
+Assessing established CVD (previous 
+acute myocardial infarction, heart 
+failure) 
+Assessing thoracic aorta dilation 
+CAC by cardiac CT or carotid or 
+femoral artery ultrasound imaging 
+Assessing HMOD (atherosclerotic 
+plaque) 
+Large artery stiffness (carotid– 
+femoral or brachial–ankle PWV) 
+Assessing HMOD (arterial stiffness) 
+High-sensitivity cardiac troponin 
+and/or NT-proBNP 
+Assessing HMOD 
+Ankle–brachial index 
+Assessing established CVD 
+(lower-extremity arterial disease) 
+Abdominal ultrasound 
+Assessing established CVD 
+(abdominal aneurysm) 
+Fundoscopy 
+Assessing HMOD (hypertensive 
+retinopathy) 
+Diagnosing hypertensive emergency/ 
+malignant hypertension 
+(haemorrhages and exudates, 
+papilloedema) 
+© ESC 2024
+CAC, coronary artery calcium; CT, computed tomography; CVD, cardiovascular disease; 
+HMOD, hypertension-mediated organ damage; NT-proBNP, N-terminal pro-brain 
+natriuretic peptide; PWV, pulse wave velocity. 
+Recommendation Table 8 — Recommendations for 
+assessing renal hypertension-mediated organ damage 
+Recommendation 
+Classa 
+Levelb 
+It is recommended to measure serum creatinine, 
+eGFR, and urine ACR in all patients with 
+hypertension.170,273 
+I 
+A 
+If moderate-to-severe CKD is diagnosed, it is 
+recommended to repeat measurements of serum 
+creatinine, eGFR, and urine ACR at least annually.276 
+I 
+C 
+Renal ultrasound and Doppler examination should 
+be considered in hypertensive patients with CKD to 
+assess kidney structure and determine causes of 
+CKD and to exclude renoparenchymal and 
+renovascular hypertension.276,277 CT or magnetic 
+resonance renal angiography are alternative testing 
+options. 
+IIa 
+C 
+© ESC 2024
+ACR, albumin:creatinine ratio; CKD, chronic kidney disease; CT, computed tomography; 
+eGFR, estimated glomerular filtration rate. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 9 — Recommendations for 
+assessing cardiac hypertension-mediated organ damage 
+Recommendation 
+Classa 
+Levelb 
+A 12-lead ECG is recommended for all patients with 
+hypertension.31,281 
+I 
+B 
+Continued 
+ESC Guidelines 3947 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

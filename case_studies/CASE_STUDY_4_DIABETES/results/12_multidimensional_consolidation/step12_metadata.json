@@ -1,0 +1,77 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_12_MULTIDIMENSIONAL_CONSOLIDATION",
+  "objective": "Consolidate STEP10 predictive performance and coverage with STEP11 SHAP behavior, explanation shift, stability and TreeSHAP fidelity before fuzzy recommendation.",
+  "conditions": [
+    "REF",
+    "DQ",
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "candidate_actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "reference_anchor": "REF",
+  "degraded_anchor": "DQ",
+  "coverage_source": "STEP10 coverage_val",
+  "dimensions": [
+    "PREDICTIVE_PERFORMANCE",
+    "COVERAGE",
+    "SHAP_BEHAVIOR",
+    "EXPLANATION_SHIFT",
+    "EXPLANATION_STABILITY",
+    "EXPLANATION_FIDELITY"
+  ],
+  "performance_metrics": [
+    "ROC_AUC",
+    "Accuracy",
+    "Balanced_Accuracy",
+    "Precision",
+    "Recall",
+    "F1"
+  ],
+  "fuzzy_logic_applied": false,
+  "membership_functions_defined": false,
+  "global_score_created": false,
+  "action_ranking_created": false,
+  "action_selected": false,
+  "test_accessed": false,
+  "new_model_training": false,
+  "new_shap_computation": false,
+  "publication_tables_generated": 4,
+  "scientific_figures_generated": 3,
+  "figure_png_dpi": 300,
+  "vector_pdf_generated": true,
+  "figure_source_csv_generated": true,
+  "input_hashes": {
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_predictive_performance.csv": "5956e1b03680d33d04e07699b39065cab208d771e7851d6c9750b599791fe884",
+    "results\\11_xai_reliability\\tables\\Table_STEP11_Age_SHAP.csv": "4a3896385f02d3e377d48cb07da73ff66b8308e42ec3c553983ea7859e0c652d",
+    "results\\11_xai_reliability\\raw\\step11_global_rank_agreement.csv": "621dde572934fd1db4cbbcf3d1565cb8023fe45d68a5462bbfa1a309a385fb19",
+    "results\\11_xai_reliability\\raw\\step11_stability_summary.csv": "fbed10d0adb04a721bde1942a38316d5907ce51ddfd5c640a27ec0930f86c459",
+    "results\\11_xai_reliability\\raw\\step11_fidelity_summary.csv": "cf34baf118f7dd0f915d650787fa2387fd59fddbb36da7b385acfd0847f72cec"
+  },
+  "output_hashes": {
+    "results\\12_multidimensional_consolidation\\raw\\step12_multidimensional_master_matrix.csv": "772f7b83b8d53c41f78b8e0836683396af3df0f4ae91f845fb769a4bd2c22cbf",
+    "results\\12_multidimensional_consolidation\\raw\\step12_action_profiles_numeric.csv": "2b9db95c3611f50874b0902554795a52a97528a86375da2436ac76d3ddbd7a25",
+    "results\\12_multidimensional_consolidation\\raw\\step12_dimension_semantics.csv": "67b48a15f48253e7fbaf1448edf352ca1b401229f261181ebe5d06b189eff17b",
+    "results\\12_multidimensional_consolidation\\tables\\Table_STEP12_Performance_Coverage.csv": "a0749378407cd09de3f87a2f3ad35bac13f32424c6071686361bb5606c648b60",
+    "results\\12_multidimensional_consolidation\\tables\\Table_STEP12_XAI_Behavior.csv": "3af135d71737b35f4477e43c2e53802729babb43481b998a943104db0357bbd7",
+    "results\\12_multidimensional_consolidation\\tables\\Table_STEP12_Explanation_Reliability.csv": "e1e4530523a63529055de60fdeb9f67298f5aef1982e45acc325b679b425c03c",
+    "results\\12_multidimensional_consolidation\\tables\\Table_STEP12_Action_Profiles.csv": "c51ca9beff7b07cc810dfd4359ab7c87dce932a8b85421684c5426ce754bc21d",
+    "results\\12_multidimensional_consolidation\\figure_data\\Figure_STEP12_01_data.csv": "e159c561fa5f4a4b22dd83c138a02696380e7dbecad18d59c82b7f15f2a37dc3",
+    "results\\12_multidimensional_consolidation\\figure_data\\Figure_STEP12_02_data.csv": "d51121d1cccf0bf30709e9ea9e3d48fd5709a041962aad53fd718c6ae079a10d",
+    "results\\12_multidimensional_consolidation\\figure_data\\Figure_STEP12_03_data.csv": "e552d8c34accb67a9115410eb0657d20e5b378f8a16c69382731e371b157b1fd",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_01_Performance_Delta.png": "26dd121668e8b31dbda1fb99fe8481fe8235848aae3021ad220d249cfd1e03a5",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_01_Performance_Delta.pdf": "4cd0b5150a44ba029be010e440b71cc0eaabae822ca41bb62ab4c8fc86579cc8",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_02_Age_SHAP_Shift.png": "03fa7c1cc5b8a26bc2aae17cbc862cf9dfe5c0c300df65ca0de344e9facab2a3",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_02_Age_SHAP_Shift.pdf": "7dffe2b6395ea0587ff8969993fabcd8506448937aaa83e8e7b62f475a3ebcf8",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_03_Coverage.png": "18ed7692fa2f3b91519a3c390a2c230268fcb19ea805de4a3cff717263c97ae3",
+    "results\\12_multidimensional_consolidation\\figures\\Figure_STEP12_03_Coverage.pdf": "ed7c441d01d2cd22ca25500220cfd948397457e8a6481d2fef466fbcb284e151"
+  },
+  "created_utc": "2026-10-01T19:36:51.339646+00:00"
+}

@@ -1,0 +1,129 @@
+
+
+===== PDF PAGE 419 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-60 
+WHO STEPS Surveillance 
+ 
+ 
+Avoid eating foods prepared outside of a home 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Do other things specifically to control your salt intake 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: D11a-f 
+• Epi Info program name: Dcontrol (unweighted); DcontrolWT (weighted) 
+ 
+
+
+===== PDF PAGE 420 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-61 
+WHO STEPS Surveillance 
+ 
+ 
+Physical Activity 
+ 
+ 
+Introduction 
+A population's physical activity (or inactivity) can be described in different ways. 
+The two most common ways are 
+(1) to estimate a population's mean or median physical activity using a continuous 
+indicator such as MET-minutes per week or time spent in physical activity, and 
+(2) to classify certain percentages of a population in specific groups by setting up 
+cut-points for a specific amount of physical activity. 
+ 
+When analyzing GPAQ data, both continuous as well as categorical indicators are 
+used. 
+ 
+ 
+Metabolic 
+Equivalent 
+(MET) 
+METs (Metabolic Equivalents) are commonly used to express the intensity of 
+physical activities, and are also used for the analysis of GPAQ data. 
+ 
+Applying MET values to activity levels allows us to calculate total physical  
+activity.  MET is the ratio of a person's working metabolic rate relative to the 
+resting metabolic rate. One MET is defined as the energy cost of sitting quietly,  
+and is equivalent to a caloric consumption of 1 kcal/kg/hour. For the analysis of 
+GPAQ data, existing guidelines have been adopted: It is estimated that, compared  
+to sitting quietly, a person's caloric consumption is four times as high when being 
+moderately active, and eight times as high when being vigorously active. 
+ 
+Therefore, for the calculation of a person's total physical activity using GPAQ data, 
+the following MET values are used: 
+ 
+Domain 
+MET value 
+Work 
+• Moderate MET value = 4.0 
+• Vigorous MET value = 8.0 
+Transport 
+Cycling and walking MET value = 4.0 
+Recreation 
+• Moderate MET value = 4.0 
+• Vigorous MET value = 8.0 
+ 
+ 
+WHO 
+global 
+recommen- 
+dations on 
+physical 
+activity for 
+health 
+For the calculation of the categorical indicator on the recommended amount of 
+physical activity for health, the total time spent in physical activity during a 
+typical week and the intensity of the physical activity are taken into account. 
+ 
+Throughout a week, including activity for work, during transport and leisure time, 
+adults should do at least 
+• 150 minutes of moderate-intensity physical activity OR 
+• 75 minutes of vigorous-intensity physical activity OR 
+• An equivalent combination of moderate- and vigorous-intensity physical 
+activity achieving at least 600 MET-minutes. 
+ 
+ 

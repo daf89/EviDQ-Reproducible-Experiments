@@ -1,0 +1,55 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+84
+Objectif 2.2 
+Les équipes sont coordonnées pour prendre en charge le patient de manière pluriprofessionnelle et pluridisciplinaire 
+tout au long de sa prise en charge
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.2-05 Les équipes de soins ont accès aux 
+informations du patient avec un système d’information 
+adapté
+Le développement du numérique en santé impose de nouvelles pratiques en matière d'accessibilité des 
+professionnels aux dossiers de leurs patients, notamment au dossier médical de Mon espace santé (DMP) 
+et au dossier pharmaceutique. L’interopérabilité des systèmes d’information garantit l’accessibilité de ces 
+informations aux professionnels qui ont besoin d'un accompagnement à la prise en main de tout nouvel 
+applicatif.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• Tous les éléments utiles à la prise en charge du patient 
+(antécédents, examen clinique, prescriptions, résultats de 
+bilan, allergies, bactéries multirésistantes…) sont acces
+sibles dans le dossier. 
+• Tous les professionnels impliqués (médecins, soignants, 
+soins de support…) tracent, en temps utile, tous les élé
+ments nécessaires à la prise en charge du patient (tra
+çabilité et accès au dossier).
+• L’ergonomie du système d’information permet aux 
+professionnels un accès simultané à l’ensemble du 
+dossier patient utile à la prise en charge.
+• Les équipes sont accompagnées dans la prise en main 
+des nouveaux outils /logiciels.
+Professionnels 
+• Les équipes médicales peuvent consulter le dossier médi
+cal de Mon espace santé (DMP) et/ou le dossier pharma
+ceutique du patient selon les cibles définies par la CME, 
+notamment via le service du « WebPS DMP ».
+Fiches pédagogiques
+Évaluation de la médecine et de la chirurgie 
+ambulatoire.
+Évaluation de la gestion des risques 
+numériques dans les pratiques de soins.
+Évaluation de la prise en charge des 
+patients privés de liberté du fait d'un séjour en 
+milieu carcéral.
+Évaluation de l’accès aux données de 
+santé : dossier patient & « Mon espace 
+santé ».
+Références légales 
+et réglementaires
+• Art. D. 6124-302 et D. 6124-304 du CSP.
+• Art. R. 1112-1-2 et Art. R. 1112-2 du CSP.
+• Décret n° 2016-995 du 20 juillet 2016 
+relatif aux lettres de liaison.
+• Art. L1111-15 du CSP.

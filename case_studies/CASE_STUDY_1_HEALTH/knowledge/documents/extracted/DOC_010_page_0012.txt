@@ -1,0 +1,41 @@
+on the donor record (4,248/5,171) to the total charges on the recipient record ($4,173). 
+Then, the imputed total expense on the recipient record ($3,421) is allocated across the 
+two potential sources of payment, Medicare and private insurance, in the same 
+proportion as on the donor record (i.e., 837/4,248 and 3411/4,248 for Medicare and 
+private insurance, respectively). 
+Summary 
+MEPS is an ongoing survey that collects data on the utilization and expenditures for 
+health care in the U.S. civilian noninstitutionalized population. Given the complexity of 
+the U.S. health care system and the wide range of public and private financing 
+arrangements, it is difficult to collect complete information on health care expenses. 
+To maximize the completeness and accuracy of expenditure data, MEPS integrates data 
+on utilization and expenditures from the Household Component of the survey with data 
+from a sample of providers that participate in the Medical Provider Component of the 
+survey. To complete medical expenditure data that were not obtained from either 
+component, a weighted hot-deck imputation procedure is used. The primary advantage of 
+this procedure is that the distribution of data values (including the imputed ones) will 
+look similar to the distribution of the values in the population (Korn and Graubard, 
+1999). 
+The hot-deck procedures used to complete missing expenditure data in MEPS are based 
+on statistical as well as substantive considerations regarding the U.S. health care 
+financing system. For example, type of health insurance coverage is used as an auxiliary 
+variable in the imputations for all health service type categories because of differences in 
+average payments between insured and uninsured persons as well as varying generosity 
+of payments by type of insurance coverage. In contrast, length of stay is incorporated as 
+a classification variable in the hot deck only for inpatient stays because it is significantly 
+associated with expenditures for hospital inpatient stays, but is irrelevant when imputing 
+expenses for other types of health care events. 
+In summary, the dual objectives of imputing missing expenditure data in MEPS are to 
+maximize sample sizes available for analysis and to reduce the risk of nonresponse bias 
+associated with exclusion of cases with missing data. However, the imputation approach 
+used is inherently complex, resource intensive, and leads to underestimation of variances 
+for survey estimates without an additional correction. While it is difficult to assess the 
+impact of imputation on variances, the Center for Financing, Access, and Cost Trends at 
+AHRQ is currently conducting methodological research to estimate the magnitude of the 
+impact. Results of a preliminary investigation of the impact of the expenditure 
+imputations in MEPS have been reported (Baskin, 2004). 
+References 
+Baskin, R., Wun, L., Sommers, J., et al. Investigation of the impact of imputation on 
+variance estimation in the Medical Expenditure Panel Survey. American Statistical 
+Association 2004 Proceedings. 2004. 
+6

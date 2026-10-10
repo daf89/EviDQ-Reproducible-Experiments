@@ -1,0 +1,278 @@
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+Final in‑scope sample
+7,489
+7,760
+7,026
+7,949
+7,118
+7,420
+8,472
+8,463
+8,085
+8,206
+Return to Table of Contents
+Table B‑1. MPC Sample Sizes, Provider Level, 1996‑2024 (continued)
+Table B‑1. MPC Sample Sizes, Provider Level, 2016‑2024
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Hospital
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+6,609
+7,026
+7,970
+6,948
+6,291
+8,630
+6,900
+6,167
+6,508
+Final in‑scope sample
+6,170
+6,551
+7,321
+6,595
+5,575
+7,918
+6,080
+5,394
+5,732
+HMO
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+375
+369
+331
+341
+326
+418
+393
+342
+323
+Final in‑scope sample
+323
+323
+299
+308
+292
+384
+339
+278
+284
+Institution
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+131
+168
+184
+142
+115
+120
+109
+122
+0
+Final in‑scope sample
+128
+161
+166
+131
+107
+118
+102
+119
+0
+Home Health
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+908
+858
+952
+891
+819
+979
+814
+698
+735
+Final in‑scope sample
+763
+713
+838
+815
+763
+886
+752
+630
+641
+Office‑based physician
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+14,055
+16,839
+15,449
+17,537
+16,765
+16,911
+16,772
+14,917
+14,799
+Final in‑scope sample
+12,903
+15,105
+13,677
+16,000
+14,880
+14,950
+14,486
+12,871
+12,619
+SBD
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+34,627
+20,936
+20,002
+16,602
+17,497
+17,162
+14,555
+16,364
+14,655
+Final in‑scope sample
+22,573
+12,825
+11,827
+12,162
+12,495
+12,690
+9,524
+10,773
+10,475
+Pharmacy
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+8,457
+10,531
+12,763
+8,969
+8,465
+10,538
+8,610
+7,306
+7,424
+Final in‑scope sample
+7,637
+9,324
+11,234
+7,998
+7,446
+9,079
+7,400
+6,305
+6,448
+Return to Table of Contents
+Table B‑2. MPC Sample Sizes, Pair Level, 1996‑2024
+Table B‑2. MPC Sample Sizes, Pair Level, 1996‑2005
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+Hospital
+Initial Sample
+6,729
+11,694
+7,922
+6,712
+7,849
+11,798
+16,481
+13,876
+13,175
+12,933
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+20/40

@@ -1,0 +1,44 @@
+A P P E N D I X B : E X A M P L E O F D A T A P L A N N I N G F O R Q U A L I T Y
+I M P R O V E M E N T
+A P P E N D I X C : E X A M P L E O F D A T A P L A N N I N G F O R 
+Q U A L I T Y I M P R O V E M E N T 
+Appendix C: Example of Data Planning for Quality Improvement 
+A careful assessmentofpractice data capacity, both broadly and specificto the needs of a project, is a 
+crucial initial step. This includes determining the specific EHR version and other data systems in use, the 
+ability of the practice to generate key measures and data, the ability of the practice to produce usable, 
+clean, and accurate data, and the use of data in QI and other practice management activities. 
+This appendix illustrates the steps a Health IT Advisor might take to iteratively assess and support a 
+practice as they implement a new measure. The illustration uses Screening for Unhealthy Alcohol Use, 
+but the process is applicable for any measure. 
+Measure: Number of unique patients 18 years of age and over who have been screened for unhealthy 
+alcohol use 
+First the Health IT Advisor needs to meet with the practice’s QI and IT reporting staff to discuss the 
+meaning of the measure, and to confirm that the report should be run/built for all unique patients who 
+are 18 and over. This group will be the denominator for the measure. If a patient is screened for 
+unhealthy alcohol use during the reporting period, then they would be included in the numerator. 
+Next the Health IT Advisor needs to consider if there are variables that are missing from this definition 
+that the QI and IT staff members might need to run or build this report. In this case we would want to 
+define the time period for this measure. In this example we are going to select a 3-month time period 
+that repeats on calendar quarters, like this: Jan – Mar, Apr – Jun, Jul – Sep, Oct – Dec. 
+Once everyone has agreed on the definition of the measure, the QI and IT staff members will need to 
+determine if their EHR or Quality Registry are already able to run the measure. If the measure is 
+available, then the practice will want to run the report and see if a numerator and denominator are 
+being populated accurately. If the measure is not available in the EHR or Quality Registry, then the 
+Health IT Advisor will work with the practice to determine what steps will be needed to build the report. 
+If the report needs to be built, the Health IT Advisor should work with the practice and their IT/billing 
+team to determine a realistic timeline in which to do this. 
+Once the measure is available, the Health IT Advisor and practice staff should review to ensure that the 
+numerator and denominator look accurate. It is critical to have a staff member who is familiar with 
+patient volumes look at these numbers to confirm that the numbers are reasonable in terms of what 
+would be expected for the practice. 
+To ensure that the denominator (i.e., all unique patients 18 and over, seen during the specific 
+timeframe) looks reasonable, review the following: 
+• 
+Is the denominator accounting for all providers in the practice, is it counting all unique 
+patients or all patient visits during that timeframe? 
+• 
+Does the timeframe seem reasonable? For example, does it look like it includes all unique 
+patients during a 3-month period or is it pulling all unique patients in a year? 
+Next you want to focus on the numerator (i.e., all patients screened for unhealthy alcohol use): 
+Health IT Advisor Handbook 
+Page 125

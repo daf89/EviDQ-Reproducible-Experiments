@@ -1,0 +1,112 @@
+
+
+===== PDF PAGE 69 =====
+
+57
+Annex 6. Technical specifications and use of aneroid manual blood pressure measuring devices with cuff 
+TECHNICAL SPECIFICATIONS FOR MANUAL BLOOD PRESSURE MEASURING DEVICES
+(Including information on the following where relevant or appropriate)
+48
+International standards
+Standards applicable to the product and to the manufacturing process are listed below. Compliance 
+to the last available version of the international standard or to its local equivalent standard is 
+recommended and proof of compliance must be provided.
+Non-exhaustive list of standards applicable to general quality systems for medical devices:
+•	 EN ISO 13485:2012, Medical devices – Quality management systems – Requirements for regulatory 
+purposes” 
+•	 EN ISO 14971:2012, Medical devices – Application of risk management to medical devices
+•	 ISO 13485:2003 Medical devices – Quality management systems – Requirements for regulatory 
+purposes (Australia, Canada and European Union)
+•	 ISO 14155:2011, Clinical investigation of medical devices for human subjects – Good clinical 
+practice
+•	 ISO 14971:2007, Medical devices – Application of risk management to medical devices
+•	 ISO 16142-1:2016, Medical devices – Recognized essential principles of safety and performance of 
+medical devices – Part 1: General essential principles and additional specific essential principles for 
+all non-IVD medical devices and guidance on the selection of standards
+Non-exhaustive list of standards applicable to manual BP devices:
+•	 ISO 81060-1:2007, Non-invasive sphygmomanometers – Part 1: Requirements and test methods for 
+non-automated measurement type
+•	 ISO/IEEE 11073-10407:2010 (Part 10407: Device specialization – Blood pressure monitor)
+•	 BS EN 1060-2:1995 +A1:2009, Non-invasive sphygmomanometers: Supplementary requirements for 
+mechanical sphygmomanometers
+49
+Regional and local 
+standards
+ANSI/AAMI SP10:2002 and ANSI/AAMI SP10:2002/A1:2003 (Manual, electronic or automated 
+sphygmomanometers) 
+DS/EN 1060-1, Non-invasive sphygmomanometers – Part 1: General requirements 
+DS/EN 1060-2, Non-invasive sphygmomanometers – Part 2: Mechanical sphygmomanometers 
+AS EN 1060.3.2004, Non-invasive sphygmomanometers – Supplementary requirements for 
+electromechanical BP measuring systems 
+GOST R 51959.1, Non-invasive sphygmomanometers (Measuring devices of arterial pressure). Part 1. 
+General requirements 
+GOST R 51959.2, Non-invasive sphygmomanometers. Supplementary requirements for mechanical 
+sphygmomanometers 
+GOST R 51959.3, Non-invasive sphygmomanometers (Measuring devices of arterial pressure). Part 3. 
+Supplementary requirements for electro-mechanical blood pressure measuring systems 
+OIML R16-2:2002, Non-invasive automated sphygmomanometers
+JIS T 1115:2005, Non-invasive automated sphygmomanometers
+50
+Regulatory framework
+Compliance with (where applicable, but not limited to, and latest available version): 
+US regulatory requirements: 
+Code of Federal Regulations, Title 21, Part 820
+Code of Federal Regulations, Title 21, Part 870, Section 1130 / Non-invasive BP measurement system 
+Japan regulatory requirements: 
+MHLW Ordinance No.16916156000 Aneroid sphygmomanometer
+European Commission regulatory requirements:
+Council Directive 93/42/EEC of 14 June 1993
+Regulation (EU) 2017/745 of the European Parliament and the Council
+8.	General standardized procedure for proper manual BP measurements
+The same patient preparation steps detailed in section 4.1 should be employed. However, instead of activating 
+the device, the following steps should be followed to obtain a BP measurement by manual auscultation. 
+•	 Determine the radial pulse obliteration pressure to determine maximal cuff inflation for BP measurement. 
+The pulse obliteration pressure is determined by palpating the radial pulse, rapidly inflating the 
+sphygmomanometer, first to 60 mm Hg then in increments of 10 mm Hg until the pulse is no longer palpated.
+•	 30–60 seconds after determining the pulse obliteration pressure, rapidly inflate the cuff 20–30 mm Hg 
+above this pressure (the peak inflation level) to ensure proper determination of systolic pressure.
+•	 Deflate the cuff pressure by 2–3 mm Hg per second and listen for Korotkoff sounds. The onset of two 
+sequential tapping sounds is K1 and corresponds to the systolic BP. The point at which Korotkoff sounds 
+disappear is K5 and corresponds to the diastolic BP. Occasionally, K5 will not be heard (sounds are heard 
+to 0 mm Hg) or will be heard at a non-physiological level (e.g. 20 mm Hg). In such instances, the point 
+at which the Korotkoff sound is muffled (K4) should be used as the diastolic pressure.
+•	 Record systolic and diastolic pressure to the nearest even number. Do not round the number to the 
+nearest 5 or 10 mm Hg. 
+
+
+===== PDF PAGE 70 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+58
+For manual auscultatory measurement in an office or clinic, the practitioner should have recently 
+passed a hearing test, and the accuracy of their BP measurements should have been assessed 
+against those of others using a double- or triple-headed stethoscope within a regular training 
+schedule. Their hearing and accuracy should be reassessed regularly, at 6–12-month intervals. 
+Poor vision, hearing, manual dexterity, lack of training and decay of clinical skills all contribute to 
+inaccurate BP measurement when employing the auscultatory technique.
+References
+1.	 Booth J. A short history of blood pressure measurement. Proc R Soc Med 1977;70:793-799.
+2.	 Chen Y, Shi S, Liu YK, Huang SL, Ma T. (2018). Cuffless blood-pressure estimation method using a 
+heart-rate variability-derived parameter. Physiol Meas. 5; 39(9): 095002. doi: 10.1088/1361-6579/
+aad902.
+3.	 Babbs CF. The origin of Korotkoff sounds and the accuracy of auscultatory blood pressure 
+measurements. J Am Soc Hypertens 2015;9:935-950.e3.
+4.	 SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks), Mercury 
+Sphygmomanometers in Healthcare and the Feasibility of Alternatives, 23 September 2009
+5.	 Bruce NG, Shaper AG, Walker M, Wannamethee G. Observer bias in blood pressure studies. J 
+Hypertens 1988;6:375-380.
+6.	 ECRI Institute. Monitors, Vital Signs, Device Overview Specifications – Comparative Data, Published 
+1/1/2016.
+7.	 Wiley Encyclopedia of Biomedical Engineering. Metin Akay, Editor. WILEY-INTERSCIENCE. httos://
+onlinelibrary.wiley.com
+8.	 UN Environment MINAMATA CONVENTION ON MERCURY TEXT AND ANNEXES www.
+mercuryconvention.org
+9.	 Turner MJ, Speechly C, Bignell N. Sphygmomanometer calibration--why, how and how often. Aust Fam 
+Physician 2007;36:834-8.
+10.	ECRI Instructions of Preventive Maintenance, Procedure No. 454-20160810 for Sphygmomanometers 
+(aneroid or mercury) https://www.ecri.org
+11.	WHO. Nomenclature of medical devices. Retrieved from: https://www.who.int/medical_devices/priority/
+mde_nomenclature/en/ 
+12.	WHO. Standardization of medical devices nomenclature: International classification, coding and 
+nomenclature of medical devices. April 2019. Retrieved from: http://apps.who.int/gb/ebwha/pdf_files/
+EB145/B145_3-en.pdf?ua=1

@@ -1,0 +1,32 @@
+13 
+MPC Changes Over Time 
+Over the last decade, there have been significant developments in the United States health 
+care delivery system, including the consolidation of major health systems and increased use 
+of electronic health records. These developments have affected the way in which health 
+care information is recorded, maintained, and released. This section describes how the 
+MPC has evolved to respond to these developments, while maintaining the ability to 
+compare data year to year. 
+Adapting the MPC instruments to CAI (Computer-Assisted Interviewing) from 
+PAPI (Paper-and-Pencil Interviewing) 
+During the 2009 data year collection cycle, a computer-assisted interviewing system was 
+developed by the MEPS MPC team for both interviewing and record abstraction, which was a 
+change from the previous MEPS MPC paper-and-pencil interviewing methodology. This 
+integrated data collection system is flexible and supports the effort to recruit providers by 
+telephone and to interview medical records and billing staffs of medical facilities or providers. 
+The system is also used to abstract information from medical records and patient accounts from 
+providers that send hardcopy records. Data for all provider types are collected in this electronic 
+data collection system, which was used and refined during the 2016 data year collection cycle. 
+The integrated system also produces reports for the MEPS MPC team and develops data files for 
+the matching process for developing medical expenditure estimates. 
+Consolidation of Health Systems 
+Since the MEPS was designed in the mid-1990s, health care delivery in the United States has 
+evolved in many ways. One change has had a large impact on MPC operations: the trend toward 
+consolidation of health care facilities. This has occurred both by individual physicians moving 
+into group practices (Welch et al., 2013) and by independent hospitals being acquired by health 
+care systems (Tsai & Jha, 2014). There has also been consolidation among group practices as 
+well as hospital systems acquiring physician group practices. Consolidation can complicate the 
+identification of an appropriate POC within the provider facility. In the MPC sample design, the 
+frame of events, the basic data collection unit, is nested within a hierarchy of patient-provider 
+pairs and contact groups. 
+The source of the event level use data—the household respondent—is generally accurate at 
+distinguishing a provider as an office-based physician or a hospital. However, the contact

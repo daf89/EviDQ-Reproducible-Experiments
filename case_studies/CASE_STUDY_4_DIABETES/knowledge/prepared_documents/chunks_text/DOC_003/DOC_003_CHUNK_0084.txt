@@ -1,0 +1,88 @@
+
+
+===== PDF PAGE 167 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-7 
+WHO STEPS Surveillance 
+Interview Skills, Continued 
+ 
+ 
+ 
+Language 
+issues 
+‘Interpreters of convenience’ (such as members of the participant’s family or 
+household, the village headman, or domestic staff) should never be used,  
+since you may get incorrect data being recorded. 
+ 
+If the interviewer doesn’t get sufficient cooperation due to a language barrier, 
+this should be reported to the field team supervisor. 
+ 
+ 
+ 
+Working with 
+the Android 
+devices 
+After some practice, data collectors usually get proficient in using the 
+Android devices quickly. However, they should always try to not get too 
+absorbed recording, and to keep the participant’s interest by saying the 
+participant’s response aloud as they record it. 
+ 
+ 
+
+
+===== PDF PAGE 168 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-8 
+WHO STEPS Surveillance 
+Recording information on the Android devices 
+ 
+ 
+ 
+Introduction 
+Once the standard STEPS Instrument has been adapted, translated and loaded 
+onto the Android devices, it is ready for use during the survey. 
+ 
+One instrument is to be completed for each participant that is interviewed and 
+measured. Apart from questions that should be skipped depending on the 
+response given to other questions, all items on the instrument must be 
+completed for the response to be valid. 
+ 
+ 
+Introductory 
+statements 
+Where a section of items has an introductory statement, this should be read 
+out to the participant before asking the questions in the section. All 
+statements to be read out are displayed on the screen of the Android device. 
+“Hint” text in italics is not to be read aloud but is there to provide additional 
+guidance for data collectors. 
+ 
+ 
+ 
+Entering the 
+participants’ 
+responses 
+Depending on the required response for a question/item on the STEPS 
+Instrument, there are different types of data entry fields on the Android 
+devices. 
+ 
+• Radio buttons allow the data collector to select one option from a short list 
+of options; 
+• Dropdown lists allow the data collector to select one option from a long list 
+of options; 
+• Number fields allow the data collector to enter numeric data using the 
+number pad; 
+• Text fields allow the data collector to enter text responses using the 
+keyboard. 
+ 
+Date fields and time fields are also used to record the date and time of 
+interview and time of collection of Step 3 measures.  These fields are pre-  
+filled with the date and time from the data collection device but entries can be 
+modified if needed. 
+ 
+Continued on next page 

@@ -1,0 +1,31 @@
+{
+  "step10_results_reused": true,
+  "step11_results_reused": true,
+  "coverage_source": "STEP10 predictive performance / coverage_val",
+  "conditions_expected": [
+    "REF",
+    "DQ",
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "actions_expected": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "master_rows": 6,
+  "action_rows": 4,
+  "common_val_support_step11": 139,
+  "doc_validation_coverage": 0.9025974025974026,
+  "model_training": false,
+  "shap_recomputation": false,
+  "test_accessed": false,
+  "fuzzy_logic_applied": false,
+  "membership_functions_defined": false,
+  "global_score_created": false,
+  "action_ranking_created": false,
+  "action_selected": false
+}

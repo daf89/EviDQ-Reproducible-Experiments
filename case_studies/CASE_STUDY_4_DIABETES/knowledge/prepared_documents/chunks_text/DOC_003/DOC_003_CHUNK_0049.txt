@@ -1,0 +1,97 @@
+
+
+===== PDF PAGE 97 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-11 
+WHO STEPS Surveillance 
+Identifying the Sampling Frame, Continued 
+ 
+ 
+ 
+Features of a 
+good sampling 
+frame 
+Some features of a good sampling frame are: 
+ 
+• it does not contain duplicates, or if present they can easily be identified and 
+removed; 
+• it does not contain blanks, such as empty houses or a deceased individual; 
+• it contains information enabling all units to be distinguished from all others 
+and to be easily located (e.g. a complete street address); 
+• at minimum, it contains information about the number of households or 
+total number of individuals; 
+• it could be made accessible to the STEPS country team within a reasonable 
+timeframe and at no large expense. 
+ 
+Note: Sampling frames must be assessed for all the above features, but 
+particularly for completeness and potential bias. 
+ 
+ 
+
+
+===== PDF PAGE 98 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-12 
+WHO STEPS Surveillance 
+Choosing the Sample Design 
+ 
+ 
+ 
+Introduction 
+The selection of the sample design is highly dependent on a variety of factors, 
+most importantly the size of the population, the geography of the area to be 
+covered, and the resources available for the survey.   All factors must be kept  
+in mind in selecting the sample design for the survey. 
+ 
+ 
+Stratification 
+Stratification is the process of dividing the sampling frame into mutually 
+exclusive subgroups or strata. The sample is then drawn either 
+proportionately or disproportionately from all strata. How the target 
+population is stratified depends on the information that is available for the 
+sampling frame and the information that is desired from the survey results. 
+ 
+Strata are often based on the physical location of the sampling units. Some 
+examples of these types of strata are: 
+ 
+• enumeration areas (EAs) or other well-defined geographic regions 
+• urban vs. rural areas. 
+ 
+Less often, strata are based on the characteristics of the individuals in the 
+sampling frame.   This is less common in large national surveys due to a lack  
+of precise data on all individuals  in the  target population and the  difficulties 
+of developing sampling frames for each strata. Some examples of these types 
+of strata are: 
+ 
+• ethnicity 
+• socioeconomic status 
+• gender. 
+ 
+Stratification is not required but is recommended for the following reasons: 
+ 
+• increased precision of survey estimates 
+• guaranteed coverage of all strata 
+• administrative convenience. 
+ 
+Stratification can be applied in conjunction with other sampling strategies. 
+This section discusses simple random sampling and multi-stage cluster 
+sampling, both of which can be used along with stratification, as described 
+later in this topic. 
+ 
+ 
+Stratification 
+and 
+sample 
+allocation 
+If the decision has been made to stratify the population, it must then be 
+decided whether to sample proportionately from all strata or to sample a  
+larger proportion of individuals from some strata and a smaller proportion of 
+individuals from other strata (disproportional allocation). 
+ 
+Continued on next page 

@@ -1,0 +1,103 @@
+implementation of evidence-based guidelines in real-world clinical 
+practice. 
+(9) One of the most important changes in the 2024 Guidelines is the 
+focus on evidence related to CVD outcomes of BP-lowering in-
+terventions rather than BP lowering alone. 
+(10) Irrespective of the threshold BP above which BP-lowering treat-
+ment (lifestyle or pharmacological or other treatment) is re-
+commended, the on-treatment BP target is 120–129/70–79 
+mmHg for all adults, provided this treatment is well tolerated. 
+There are several important exceptions to these targets and in-
+dividualized decision-making is always the most important 
+priority. 
+13. Gaps in the evidence 
+(1) Drivers of worsening trajectories of BP control in women and 
+men. 
+(2) Need for sex-specific data on epidemiology, risk factors, and 
+pathophysiology of hypertension. Need for more prospective 
+studies to assess women’s and men’s specific CVD risk factors 
+pertinent to adults with elevated BP and hypertension, due to bio-
+logical and socio-cultural conditions. This includes sex-specific 
+weighting of traditional risk factors, as well as inclusion of sex- 
+dependent, non-traditional, vascular risk factors such as stress, 
+socio-economic conditions, and others.1017,1018 We are also lack-
+ing data on sex-specific hormonal and genetic mechanisms and 
+pathophysiology in the human.1019 Another important area in 
+need of investigation is a better understanding of the role of gen-
+der in the management of elevated BP and hypertension (including 
+gender-driven barriers in accessing medical care and adherence). 
+(3) More widespread validation of home BP measuring devices. 
+Validation protocols for cuffless BP measurement devices have 
+just recently been proposed and need to be tested. 
+(4) Clinical effectiveness of HMOD in directing intensity of care and 
+personalized approaches in managing elevated BP and hypertension. 
+(5) Best practice to screen and manage primary aldosteronism. 
+(6) Clinical benefits of treating low CVD-risk individuals with elevated 
+BP and further data strengthening the use of BP-lowering 
+medication among high-risk persons with baseline systolic BP 
+of 120–129 mmHg. 
+(7) Need for more data on the sex-specific optimal dosing, effects, 
+and adverse effects of BP-lowering drugs,1020 in particular from 
+specifically planned prospective randomized trials. 
+(8) More consideration for overall CVD outcomes of BP-lowering 
+interventions. 
+(9) More European data (RCTs, real life) about the beneficial effect of 
+treating patients with elevated BP and hypertension with polypills 
+(inclusive of non-BP lowering medications). 
+(10) CVD outcomes-based data on MRAs as add-on therapy solely for 
+resistant hypertension. 
+(11) Trials on the BP-lowering effects of newer antidiabetic drugs 
+(such as SGLT2 inhibitors and GLP-1 receptor agonists) or drugs 
+that now have indications for other conditions, such as finerenone 
+or sacubitril-valsartan. 
+(12) Beneficial BP and CVD effects of increasing dietary potassium in-
+take and other lifestyle interventions. Studies to disentangle the 
+effect of sodium reduction vs. the effect of potassium supplemen-
+tation on BP control and CVD outcomes. 
+(13) RCTs comparing single-pill combination therapy with fixed doses 
+vs. multiple monotherapies and their effects on CVD outcomes. 
+(14) Cardiovascular outcomes trials of renal denervation. 
+(15) BP-lowering treatment RCTs on different ethnic and migrant 
+groups established in Europe. 
+(16) Pharmacological BP management in young adults (aged <40 years) 
+and better data on the efficacy of a life-course approach for the 
+drug management of BP.1021 
+(17) CVD outcomes in moderately to severely frail and/or very elderly 
+persons where BP medications have been deprescribed, and the 
+impact of competing risks. 
+(18) Management of renal artery disease with haemodynamically stable 
+but severe stenosis (i.e. without high-risk features). 
+(19) Need for clinical trials on managing hypertension in patients trea-
+ted with anticancer drugs or anti-rejection drugs in recipients of 
+an allograft transplant. 
+(20) Hypertension management in the setting of climate changes, glo-
+bal warming, air and other forms of pollution, pandemics, war 
+zones, and in the context of drug restrictions experienced in 
+some low-to-middle-income countries. 
+(21) Need to improve implementation of guidelines by healthcare 
+providers. 
+(22) How to develop sustainable hypertension care at the intersection 
+of growing numbers of patients and limited resources. 
+(23) Treat-to-target trials specifically testing BP-lowering drugs among 
+drug-naïve persons with baseline BP of 120–129 mmHg and in-
+creased CVD risk. 
+14. ‘What to do’ and ‘what not to 
+do’ messages from the guidelines 
+A selected sample of the main messages from these guidelines are pro-
+vided in Table 15. 
+Table 15 What to do and what not to do 
+Recommendations 
+Class 
+Level 
+5. Measuring blood pressure 
+It is recommended to measure BP using a validated and calibrated device, to enforce the correct measurement technique, and to apply a 
+consistent approach to BP measurement for each patient. 
+I 
+B 
+All adult patients (≥18 years or older) are recommended to have their office and/or out-of-office BP measured on an opportunistic basis and 
+recorded in their medical file, and be told what their current BP is. 
+I 
+C 
+Continued 
+ESC Guidelines 3989 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

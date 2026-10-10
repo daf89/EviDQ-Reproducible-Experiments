@@ -1,0 +1,9 @@
+﻿feature,n_document_governance,n_document_error,n_document_detection,n_document_correction,has_documented_error,has_documented_detection,has_documented_correction,has_all_three_categories,requires_semantic_problem_linking,scenario_selected
+cost_emergency_tm1,20,11,7,7,True,True,True,True,True,False
+cost_home_health_tm1,20,11,7,7,True,True,True,True,True,False
+cost_ip_medical_tm1,20,11,7,7,True,True,True,True,True,False
+cost_laboratory_tm1,20,11,7,7,True,True,True,True,True,False
+cost_op_specialists_tm1,20,11,7,7,True,True,True,True,True,False
+cost_op_surgery_tm1,20,11,7,7,True,True,True,True,True,False
+cost_other_tm1,17,11,7,7,True,True,True,True,True,False
+cost_pharmacy_tm1,19,11,8,8,True,True,True,True,True,False

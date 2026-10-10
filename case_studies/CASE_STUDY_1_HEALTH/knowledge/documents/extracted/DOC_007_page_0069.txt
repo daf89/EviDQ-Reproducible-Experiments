@@ -1,0 +1,116 @@
+Children (CKiD) cohort revealed that averaging the eGFRcr
+and eGFRcys reduced mean bias in people who are Black,
+White, and other race. Likewise, averaging eGFRs derived
+from the equations improved accuracy to 89%–91% (as
+assessed by P30) across race groups. This has not been
+externally validated.195
+1.2.3 Guidance to clinical laboratories
+Practice Point 1.2.3.1: Implement the laboratory standards
+of care outlined in Table 11 to ensure accuracy and
+reliability
+when
+assessing
+GFR
+using
+creatinine
+and
+cystatin C.
+Practice Point 1.2.3.2: Given available resources, clinical
+laboratories may consider the possibility of measurement
+of both creatinine and cystatin either as an in-house test or
+as a referred test.
+Consistency, standardization, and comparability of labo-
+ratory measures of creatinine and cystatin C; the reporting of
+results and of GFR estimates; and the ﬂagging of reported
+results where indicated are of paramount importance. The
+assays used should have the required speciﬁcity for the ana-
+lyte, and the calibration of assays is essential for the inter-
+pretation of kidney function measures. Results should be
+traceable to reference materials and methods listed on the
+Joint Committee for Traceability in Laboratory Medicine
+(JCTLM) database.
+Estimation of GFR improves identiﬁcation of CKD.
+Adoption of the laboratory standards described here will
+ensure that healthcare providers receive eGFR reports in a
+consistent style and with assurance regarding the accuracy
+and reliability of the result. Flagging decreased values for
+eGFR can alert healthcare providers to the possibility of
+kidney disease and may indicate the need for additional
+evaluation or adjustment of doses of medications that are
+excreted by the kidney.
+Globally, most creatinine measurements are undertaken
+using a colorimetric method (Jaffe). This method also reacts
+with a variety of substances that are not creatinine (so-called
+“non-creatinine chromogens,” e.g., glucose and acetoacetate),
+typically comprising some 20% of the measured substance
+reported as creatinine in adults at physiological creatinine
+concentrations. Enzymatic assays are available that are more
+speciﬁc for creatinine and less susceptible to chemical and
+chromogenic (e.g., icterus and hemolysis) interferences.
+Although enzymatic methods are not totally immune to the
+interferences affecting the Jaffe method and may be suscep-
+tible to other interferences speciﬁc to the enzymatic approach,
+in the majority of people, use of an enzymatic method will
+reduce the possibility of interference (Table 12127,196–215). It is
+likely that cystatin C measurements will be less susceptible to
+chemical and spectral interferences affecting creatinine assays,
+but inevitably, interferences will surface with more extensive
+clinical experience, for example, those due to circulating
+antibodies that are seen with other immunoassays.216–218
+After venipuncture, in unseparated samples, there is a
+gradual increase in measured SCr over time when the Jaffe
+assay is used. This effect is not seen when enzymatic assays are
+Table 11| Implementation standards to ensure accuracy and reliability of GFR assessments using creatinine and cystatin C
+ Report eGFR in addition to the serum concentrations of ﬁltration markers using validated equations.
+ Report eGFR rounded to the nearest whole number and relative to a body surface area (BSA) of 1.73 m2 in adults using the units ml/min per 1.73 m2.
+ Reported eGFR levels <60 ml/min per 1.73 m2 should be ﬂagged as being low.
+ When reporting levels of ﬁltration markers, report:
+(i) SCr concentration rounded to the nearest whole number when expressed as standard international units (mmol/l) and rounded to the nearest
+100th of a whole number when expressed as conventional units (mg/dl);
+(ii) serum cystatin C concentration rounded to the nearest 100th of a whole number when expressed as conventional units (mg/l).
+ Measure ﬁltration markers using a speciﬁc, precise (coefﬁcient of variation [CV] <2.3% for creatinine and <2.0% for cystatin C) assay with calibration
+traceable to the international standard reference materials and desirable bias (<3.7% for creatinine and <3.2% for cystatin C) compared with reference
+methodology (or appropriate international standard reference method group target in external quality assessment [EQA] for cystatin C).
+ Use an enzymatic method to assay creatinine, where possible.
+ Separate serum/plasma from red blood cells by centrifugation within 12 hours of venipuncture.
+ When cystatin C is measured, measure creatinine on the same sample to enable calculation of eGFRcr-cys.
+eGFR, estimated glomerular ﬁltration rate; eGFRcr-cys, estimated glomerular ﬁltration rate based on creatinine and cystatin C; GFR, glomerular ﬁltration rate; SCr, serum
+creatinine.
+Table 12| Reported examples of substances that may cause
+analytical interferences in creatinine assays
+Jaffe methods
+Enzymatic methods
+Acetaminophen196
+Aspirin196
+Ascorbic acid197
+Bacterial contamination198
+Bilirubin199,200
+Blood-substitute products201
+Cephalosporins202,203
+Fluorescein204
+Glucose205
+Hemoglobin F206
+Ketones/ketoacids207
+Lipids208
+Metamizole protein206-209
+Pyruvate, including that arising
+from delayed sample processing143
+Streptomycin210
+Bilirubin211
+Lidocaine metabolites212
+Metamizole196
+N-acetylcysteine213
+Proline stabilizers, present in
+intravenous immunoglobulin
+preparations214
+Phenindione215
+The nature of interference (magnitude and direction of bias) from the listed com-
+pounds is dependent on the precise reaction conditions in use, in relation to timing
+of spectrophotometric readings and chemical composition of the reagent: different
+versions of the Jaffe and enzymatic methods used by different manufacturers will
+respond in variable ways to interferences. Further information may be found in
+Myers et al.205
+chapter 1
+www.kidney-international.org
+S184
+Kidney International (2024) 105 (Suppl 4S), S117–S314

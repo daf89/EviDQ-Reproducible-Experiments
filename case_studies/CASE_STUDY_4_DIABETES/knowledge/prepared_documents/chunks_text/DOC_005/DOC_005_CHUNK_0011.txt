@@ -1,0 +1,79 @@
+
+
+===== PDF PAGE 21 =====
+
+9
+4. Automated non-invasive BPMDs with cuff 
+4
+Automated non-invasive BPMDs 
+with cuff
+This section presents the characteristics of electronic BP devices designed for use on the upper arm. 
+Automated and semi-automated oscillometric devices are easier for health care workers to use than manual 
+devices, and they avoid potential observer error due to variations in user technique and hearing acuity in 
+listening for Korotkoff sounds (10, 11) (see Glossary). 
+4.1	 Description 
+Electronic BP devices are used to measure and display arterial BP by automated and semi-automated 
+inflation and deflation of a cuff applied to an extremity. The cuff is usually positioned on the upper arm for 
+even compression of the brachial artery, which is the standard location for BP measurement (12). In some 
+electronic devices, the cuff is placed over the radial artery on the wrist; however, these devices may give 
+inaccurate measurements, particularly if the arm is not kept at heart level during measurement and if the 
+radial artery is not evenly compressed (13). In addition, as systolic and diastolic pressure vary substantially 
+in different parts of the arterial tree, a radial BP measurement may not be equivalent to a brachial artery 
+measurement (14). Therefore, most guidelines do not recommend their use. Similarly, devices for measuring 
+BP in a digital artery are no longer recommended because their accuracy is critically affected by the position 
+of the limb and peripheral vasoconstriction (15).
+Electronic devices can provide BP measurements on demand by the clinician (immediately after pushing 
+a button with automated devices) or after pre-set intervals without a clinician present (several minutes after 
+pushing a button with fully automated devices). One of the main benefits of automated devices is reduced 
+human error (15). Additionally, most such units display other physiological indicators, such as the pulse rate or 
+heart rate, adding to their clinical usefulness. Some automatic BPMDs have auditory and visual alarms that are 
+activated if a patient’s BP or pulse rate drops below or exceeds the limits established by the user or clinician.
+Regulatory agencies, such as the Medicines and Healthcare Products Regulatory Agency in the United 
+Kingdom, recognize that some automated BP devices may not give reliable results for patients with heart 
+arrhythmia, pre-eclampsia or certain vascular diseases. It is therefore recommended that calibrated, non-
+mercury devices that do not rely on oscillometry be available in all clinical areas (8). 
+4.2	 Measurement principles
+Most automated, or electronic, devices on the market utilize the oscillometric technique for BP measurement. 
+With this technique, BP is estimated from oscillations detected during inflation or deflation of the BPMD’s 
+cuff using proprietary algorithms that vary among manufacturers. This technique does not include Korotkoff 
+sounds; instead, the cuff occludes an artery (typically the brachial artery) and acts as a transducer to detect 
+the small variations in intracuff pressures that occur with changes in heartbeat-induced pulse volume at 
+different cuff pressures. The maximal oscillation during cuff inflation or deflation corresponds to the mean 
+arterial pressure (MAP). This measured value (the MAP) is used to estimate systolic and diastolic BP with the 
+previously mentioned algorithms. In these devices, a microprocessor inflates and slowly deflates a cuff (16).
+
+
+===== PDF PAGE 22 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+10
+Some automated devices estimate BP using Korotkoff sounds. These devices contain a microphone that 
+is positioned against the compressed artery to detect Korotkoff sounds, which determine both systolic and 
+diastolic pressure. Unlike the automated devices that measure the MAP and use that value to calculate 
+the systolic BP and diastolic BP, these devices estimate BP from Korotkoff sounds and use those values to 
+calculate the MAP. MAP measures are shown on an electronic display (15), which may be a liquid crystal, 
+light-emitting diode (LED) that produces either a numerical display, or a simulated pointer of an aneroid gauge. 
+A disadvantage of these devices is that they require electrical power.
+Fig. 4 contrasts manual BP measurement (with auscultation of Korotkoff sounds) to automated oscillometric 
+measurement from a mathematical oscillometric waveform envelope derived from proprietary algorithms. 
+Oscillometric 
+envelope
+MAP
+Calculated 
+systolic BP
+120
+100
+80
+Calculated 
+diastolic BP
+Oscillometric 
+waveform
+Korotkoff 
+sounds
+Auscultated 
+diastolic BP
+Auscultated 
+systolic BP
+Fig. 4. Comparison of auscultatory and oscillometric techniques for measuring BP
+MAP, mean arterial pressure.
+Source: Reference (17).

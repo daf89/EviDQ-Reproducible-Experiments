@@ -1,0 +1,72 @@
+Skip Navigation
+Medical Expenditure Panel Survey
+Medical Provider Component (MEPS-MPC)
+Methodology Report 2024 Data Collection
+Deliverable OP4-4
+Version 2.0
+June 2026
+Prepared for:
+Agency for Healthcare Research and Quality
+Rebecca Ahrnsbrak
+AHRQ Project Officer
+AHRQ, Center for Financing, Access & Cost Trends
+5600 Fishers Lane
+Rockville, Maryland 20857
+Prepared by:
+RTI International
+3040 Cornwallis Road
+PO Box 12194
+Research Triangle Park, NC 27709-2194
+RTI Project Number 0218180.004
+AHRQ Contract Number 75Q80121C00005
+Table of Contents
+1 Introduction
+1.1 Changes from 2023 MPC to 2024 MPC
+2 Preparations for the 2024 MPC
+2.1 Sample Preparations
+2.2 Sample Maintenance
+2.3 Integrated Data Collection System
+2.4 Enhanced Security Network
+2.5 Recruiting and Training
+3 Data Collection
+3.1 Provider Recruitment and Data Collection Procedures
+3.2 Data Abstraction
+3.3 Coding Text Fields Collected in the 2024 MPC
+3.4 Data Collection Schedule
+3.5 Data Collection Results
+Appendix A: Acronyms and Definitions
+Appendix B: MPC Data Collection Summary Tables
+Appendix C: Critical Items
+Table 2‑1 Household Component Design Features Related to the MPC
+Table 3‑1 Percent of Participating Contact Groups Providing Records, 2021‑2024
+Table 3‑2 MPC Data Collection Schedule 2021‑2024
+Table 3‑3 Provider‑Level Completion Rates, MPC 2021‑2024
+Table 3‑4 Pair‑Level Completion Rates, MPC 2021‑2024
+Table 3‑5 SBD Node‑Level Completion Rate, MPC 2021‑2024
+Table 3‑6 Refusal Conversion Outcomes: Final Disposition of Contact Groups Initially Coded as Refusal, MPC
+2021‑2024
+Table 3‑7 Hours per Completed Pair/Node, 2021‑2024
+Figure 3‑1 Hospital providers: Response factors over time
+Figure 3‑2 Office‑Based providers: Response factors over time
+Figure 3‑3 SBD providers: Response factors over time
+Figure 3‑4 Pharmacy providers: Response factors over time
+1. Introduction
+The Medical Expenditure Panel Survey (MEPS) has been conducted by the Agency for Healthcare Research and Quality
+(AHRQ) each year since 1996. MEPS is a set of large‑scale surveys of families and individuals, their medical providers,
+and their employers across the United States. MEPS collects data on specific health services, including frequency of use,
+costs, and sources of payment for services, and on the cost and scope of health insurance covering U.S. workers.
+This report describes the methodology of the 2024 Cycle of the MEPS Medical Provider Component (MPC)1. The MEPS
+MPC collects data from Hospitals, Office‑Based Doctors (OBD), Home Health Agencies, Institutions2 (such as long‑term
+care facilities) and Pharmacies reported by MEPS Household Component (HC) respondents, as well as doctors who
+provide services for patients in Hospitals but bill separately from the Hospital (referred to as Separately Billing Doctors or
+SBDs). (See Section 2.1 for additional information about provider types.) The MEPS HC is conducted by Westat, Inc. and
+the MEPS MPC is conducted by RTI International and DLH (formerly known as SSS).
+For each cycle, providers for the MPC sample are identified in three rounds of HC data collection for two HC panels (see
+Table 2‑1). Overall, the HC panel design features five core rounds of interviewing over the course of two full calendar
+years. The HC collects data from a sample of families and individuals in selected communities across the United States,
+drawn from a nationally representative subsample of households that participated in the prior year’s National Health
+Interview Survey (conducted by the National Center for Health Statistics, Centers for Disease Control and Prevention).
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+1/40

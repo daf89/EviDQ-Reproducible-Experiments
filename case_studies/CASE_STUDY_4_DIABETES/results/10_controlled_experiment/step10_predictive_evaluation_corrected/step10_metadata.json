@@ -1,0 +1,139 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_10_CORRECTED_PREDICTIVE_EVALUATION",
+  "objective": "Evaluate the predictive impact of controlled DQ actions after mandatory reproduction of Model_REF.",
+  "conditions": [
+    "REF",
+    "DQ",
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "training_protocol": {
+    "iterations": 2000,
+    "learning_rate": 0.03,
+    "depth": 6,
+    "loss_function": "Logloss",
+    "eval_metric": "AUC",
+    "random_seed": 42,
+    "l2_leaf_reg": 3,
+    "verbose": false,
+    "allow_writing_files": false,
+    "thread_count": 1
+  },
+  "early_stopping_rounds": 100,
+  "use_best_model": true,
+  "ref_reproducibility_pass": true,
+  "ref_checks": {
+    "roc_auc": {
+      "expected": 0.942222,
+      "observed": 0.9422222222222222,
+      "delta": 2.2222222217926912e-07,
+      "pass": true
+    },
+    "accuracy": {
+      "expected": 0.87013,
+      "observed": 0.8701298701298701,
+      "delta": -1.2987012987242252e-07,
+      "pass": true
+    },
+    "balanced_accuracy": {
+      "expected": 0.857407,
+      "observed": 0.8574074074074074,
+      "delta": 4.074074073656675e-07,
+      "pass": true
+    },
+    "precision": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "recall": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "f1": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "tn": {
+      "expected": 90,
+      "observed": 90,
+      "pass": true
+    },
+    "fp": {
+      "expected": 10,
+      "observed": 10,
+      "pass": true
+    },
+    "fn": {
+      "expected": 10,
+      "observed": 10,
+      "pass": true
+    },
+    "tp": {
+      "expected": 44,
+      "observed": 44,
+      "pass": true
+    },
+    "best_iteration": {
+      "expected": 71,
+      "observed": 71,
+      "pass": true
+    },
+    "tree_count": {
+      "expected": 72,
+      "observed": 72,
+      "pass": true
+    }
+  },
+  "same_model_family": true,
+  "same_training_protocol": true,
+  "new_hyperparameter_tuning": false,
+  "evaluation_split": "VALIDATION",
+  "test_predictions_generated": false,
+  "test_metrics_computed": false,
+  "test_used_for_selection": false,
+  "xai_computed": false,
+  "action_selected": false,
+  "common_population_analysis": true,
+  "common_population_n": 139,
+  "publication_tables_generated": 4,
+  "publication_figures_generated": 3,
+  "figure_png_dpi": 300,
+  "figure_pdf_generated": true,
+  "figure_source_data_saved": true,
+  "model_hashes": {
+    "REF": "65006979bd36bfa1265759884c68ce909c22d3200d99cb5000fb8b244f17b630",
+    "DQ": "00bfc152988ea88fd3c292d1f5a281d781332d958db59df64a9b36694dafea7d",
+    "DOC": "b426d5337bc64725abc21cfbbc19a82089773e48fcbdb5f7fb005165822d87b9",
+    "MEDIAN": "4cbb6e231273e39c90674e06e79236c63d19b1894b1f8e9ec7ef8d89a7995954",
+    "KNN": "94b4dff969bcc2da5e60291a148977b73719e29ca0d9e43c56630d9e0edcb668",
+    "ITERATIVE": "c10b4fe2fbaa100c6d1eb66c555bb1506b92b35d62ee6e2ac887ee00cc506bb6"
+  },
+  "output_hashes": {
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_predictive_performance.csv": "5956e1b03680d33d04e07699b39065cab208d771e7851d6c9750b599791fe884",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_confusion_matrices.csv": "f93440856b612cb9b576deba16818dd9be289d6e353241c31de703ad41345781",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_common_population_performance.csv": "43afc6fe18bc37b321c2f62639d2a88c744585329de45e0da51cf3b54db5f039",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\tables\\Table_STEP10_Predictive_Performance.csv": "9e14146b4a4b682432bb909432b52408c7e3555872f80f70a8c82fceda8cc409",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\tables\\Table_STEP10_Performance_Deltas.csv": "6cc533fffb07fbf060704e284e1eec902aa848d2e8f8cb46c820fdebf19df116",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\tables\\Table_STEP10_Common_Population.csv": "c9aee0b5072a27e00e3c4ba44e53a2e6e21cbf8adef599792d46dd3aaf520633",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\tables\\Table_STEP10_Confusion_Matrices.csv": "f93440856b612cb9b576deba16818dd9be289d6e353241c31de703ad41345781",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figure_data\\Figure_STEP10_01_data.csv": "00c9f9f2a1ee30892145f09d3efd933a75fd6a6426db6541c3686535f9d4648b",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figure_data\\Figure_STEP10_02_data.csv": "82064e6225a1b583736f07ee9a314c2527225f5f3e360348dccc55796f35c50b",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figure_data\\Figure_STEP10_03_data.csv": "fd1cd26d7693bbd8120fd1df7c4d082f1be12c70df79c73b530d41e9efd0f530",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_01_Predictive_Performance.png": "3beb5ffe927d34c5c70f7cf2f918360fa00c8d3aaed9c3cd643535c42528df21",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_01_Predictive_Performance.pdf": "82baf4128921ef200a0e1dd5ef42274cfe9ae9febcf73b6f5bfc8be83032d95a",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_02_Delta_vs_REF.png": "c48c8b535a0f5c041cfa6c6096c2cc819230f4dd3a19f570cef7f1b85fca175a",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_02_Delta_vs_REF.pdf": "3450a193926520e986a280a9f1a944f54cabaeb3c32a614527a7b0a9e8fbde64",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_03_Validation_Coverage.png": "6373253fdd61da80687eb711114473922f8a1d4d6c837149d824e0a1f966f3f1",
+    "results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\figures\\Figure_STEP10_03_Validation_Coverage.pdf": "87cc8375c722f2f01cdeb667683c2a83b523dbf4e9338aa7076c88a6fd91869c"
+  },
+  "created_utc": "2026-09-28T17:59:43.830555+00:00"
+}

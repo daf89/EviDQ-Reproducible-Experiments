@@ -1,0 +1,129 @@
+• To reliably estimate renin and aldosterone status (and therefore 
+ARR), and to facilitate a ‘clean’ screen for aldosteronism, a second 
+approach is to discontinue drugs that affect these variables when-
+ever feasible before ARR testing (Table 12). Such interfering drugs 
+include, beta-blockers, centrally acting drugs (e.g., clonidine and 
+alpha-methyldopa) renin-angiotensin system (RAS) blockers and 
+diuretics.326 Long-acting calcium channel blockers (CCBs), either di-
+hydropyridine or non-dihydropyridine, and alpha-receptor antago-
+nists do not interfere with the ARR and can be used instead of 
+interfering medications before ARR testing. Should drugs that do 
+not interfere with the ARR be contraindicated or insufficient to con-
+trol BP, centrally acting sympatholytic drugs can also then be used, but 
+at the risk of slightly more false positives (by renin suppression). 
+Furthermore, when mineralocorticoid receptor antagonists (MRAs) 
+cannot be stopped for safety reasons (i.e. severe hypokalaemia or se-
+vere hypertension among patients with severe hyperaldosteronism), 
+recent evidence suggests that the accuracy of ARR testing under 
+this treatment is only marginally impacted, particularly in the presence 
+of florid primary aldosteronism.327 
+Assessing sodium intake (preferably 24 h urinary sodium, or sodium- 
+to-creatinine ratio in the morning urine sample) is also important for 
+interpreting the ARR, as is time in menstrual cycle for females. ARR 
+cut-offs vary depending on unit of measurement and by local labora-
+tory. For detailed information, readers are referred to the latest pri-
+mary aldosteronism guidelines.328,329 
+7.6.3. Renovascular hypertension 
+Renovascular hypertension (RVH) defines a condition where renal 
+artery occlusion or stenosis decreases renal perfusion pressure to 
+a level that activates the renin–angiotensin–aldosterone system 
+(RAAS), thereby raising BP. Major causes are atherosclerosis and 
+fibromuscular dysplasia (Figure 14 and Supplementary data online, 
+Tables S1 and S2). Atherosclerosis is the most common form of 
+RVH, especially in older adults.318 Fibromuscular dysplasia is a sys-
+temic non-atherosclerotic vascular disease involving medium-sized 
+muscular arteries. When renal arteries are involved, fibromuscular 
+dysplasia may induce RVH (FMD-RVH), especially in children and 
+younger women.330–332 
+Though not highly sensitive, very elevated renin levels raise the sus-
+picion for RVH. The work-up of RVH (Table 13) is based on imaging 
+tests, such as renal artery Doppler ultrasound, with bilateral assessment 
+of renal arterial resistive index, or abdominal CT angiography, or mag-
+netic resonance imaging (MRI), in line with current ESC Guidelines on 
+the diagnosis and treatment of peripheral arterial diseases,277 which 
+will be updated in 2024. Of note, bystander renal artery stenosis may 
+be present in patients with essential hypertension, without causing sec-
+ondary hypertension due to RVH. Since fibromuscular dysplasia is a sys-
+temic disease, CT or MRI angiography from head to pelvis is 
+recommended in patients with FMD-RVH.277,332 
+7.6.4. Obstructive sleep apnoea syndrome 
+Obstructive sleep apnoea syndrome (OSAS) is prevalent in hyperten-
+sion and particularly in resistant hypertension, with studies indicating 
+that up to 60% of patients with resistant hypertension have features 
+of OSAS.314 OSAS should be suspected in patients with hypertension 
+and suggestive symptoms (see Supplementary data online, Table S2), 
+in all patients with resistant hypertension, and in patients with non- 
+dipping or reverse-dipping pattern at 24 h BP monitoring, especially if 
+obese (Figure 15). Using validated questionnaires may help identify pa-
+tients at high risk of OSAS.333 Lack of suggestive symptoms does not 
+rule out OSAS. A simplified polysomnogram confirms the diagnosis [ap-
+noea–hypopnoea index (AHI) > 5] and can quantify the severity of 
+OSAS (mild: AHI < 15; moderate: AHI of 15–30; severe: AHI > 30).334 
+Table 12 Drugs and conditions that affect aldosterone, renin, and aldosterone-to-renin ratio 
+Factor 
+Effect on plasma aldosterone levels 
+Effect on renin levels 
+Effect on ARR 
+Serum potassium status 
+Hypokalaemia 
+↓ 
+→↑ 
+↓ (FN) 
+Potassium loading 
+↑ 
+→↓ 
+↑ 
+Sodium restriction 
+↑ 
+↑↑ 
+↓ (FN) 
+Sodium loading 
+↓ 
+↓↓ 
+↑ (FP) 
+Drugs 
+Beta-adrenergic blockers 
+↓ 
+↓↓ 
+↑ (FP) 
+Calcium channel blockers (DHPs) 
+→↓ 
+→↑ 
+→↓ (FN with short-acting DHPs) 
+ACE inhibitors 
+↓ 
+↑↑ 
+↓ (FN) 
+ARBs 
+↓ 
+↑↑ 
+↓ (FN) 
+Potassium-sparing diuretics 
+↑ 
+↑↑ 
+↓ (FN) 
+Potassium-wasting diuretics 
+→↑ 
+↑↑ 
+↓ (FN) 
+Alpha-2 agonists (clonidine, methyldopa) 
+↓ 
+↓↓ 
+↑ (FP) 
+NSAIDs 
+↓ 
+↓↓ 
+↑ (FP) 
+Steroids 
+↓ 
+→↓ 
+↑ (FP) 
+Contraceptive agents (drospirenone) 
+↑ 
+↑ 
+↑ (FP) 
+© ESC 2024
+↑, raised; ↓, lowered; →, no effect; ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blocker; ARR, aldosterone-to-renin ratio; DHPs, dihydropyridines; FN, false negative; FP, 
+false positive; NSAID, non-steroidal anti-inflammatory drug. 
+ESC Guidelines 3951 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

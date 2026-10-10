@@ -1,0 +1,72 @@
+Use of a simple algorithm such as that shown above in
+settings such as primary care, cardiology, and endocrinology
+could signiﬁcantly improve the early identiﬁcation and
+treatment of CKD (Figure 3).28
+There are no current evidence-based recommendations
+regarding the frequency of screening in people at risk of CKD.
+In the setting of diabetes, a consensus report from the Amer-
+ican Diabetes Association (ADA) and KDIGO recommends
+annual screening of people with diabetes for CKD.29 CKD
+screening should start at diagnosis of type 2 diabetes (T2D)
+because evidence of CKD is often already apparent at this
+time. For type 1 diabetes (T1D), screening is recommended
+commencing 5 years after diagnosis. The overall costs of a
+screening program are largely driven by the frequency of
+repeat screening, so the timing of repeated testing should be
+guided by CKD risk. There are risk equations available to
+estimate the interval risk of developing CKD, and this risk
+stratiﬁcation could guide repeat testing intervals.30
+International considerations
+In low- and middle-income regions of the world and in the
+lower sociodemographic quintiles, there is a large gap between
+CKD burden and provision of adequate healthcare. There is
+limited access to kidney replacement therapy (KRT) combined
+with the rising prevalence of diabetes and hypertension and
+evidence of substantial sex and gender disparities in access to
+CKD treatment. These factors highlight the importance of early
+identiﬁcation and treatment of risk factors in primary care.
+However, the majority of the world’s population with CKD is
+in low- and middle-income countries (LMIC) where there are
+disparities in access to laboratory diagnostic services, kidney
+biopsy, and imaging services, in availability of appropriately
+skilled healthcare providers and the availability and afford-
+ability of medications. The International Society of Nephrology
+survey assessing global kidney healthcare resources reported
+that fewer than 1 in 4 surveyed countries had facilities available
+for routine measurements of SCr or proteinuria.31
+Identify adults at risk for CKD
+Test for GFR* and ACR ± other markers of kidney damage†
+Test for GFR or ACR if not performed and exclude AKI/AKD
+AKI/AKD present: 
+follow AKI/AKD guidance
+GFR <60 ml/min per 1.73 m2 and/or
+ACR ≥30 mg/g [3 mg/mmol] after 3 months
+or earlier if evidence of chronicity
+Measure eGFRcr-cys if not
+performed and available
+CKD not present
+Timing of retesting based on
+individual characteristics such
+as risk of progression
+Stage according to GFR and ACR
+Establish underlying cause
+Estimate risk of progression
+Initiate treatment
+GFR ≥60 ml/min per 1.73 m2 and
+ACR <30 mg/g [3 mg/mmol]
+and no other markers of
+kidney damage present
+GFR <60 ml/min per 1.73 m2 or ACR ≥30 mg/g [3 mg/mmol]
+and/or other markers of kidney damage present
+Figure 3 | Screening algorithm for diagnosis and staging of chronic kidney disease (CKD) in adults. Risk factor conditions are listed in
+Table 5. *For recommended methods to estimate glomerular ﬁltration rate (eGFR), see Section 1.2. †Markers of kidney damage other than
+albuminuria may also be used to diagnose CKD, but albumin-to-creatinine ratio (ACR) and GFR are still required to determine stage and
+estimate risk of progression. Acute kidney disease (AKD) is deﬁned by the abnormalities of kidney function and/or structure with implications
+for health and with a duration of #3 months.28 The orange boxes indicate actions in people at risk for CKD and in whom testing should be
+performed. The blue boxes indicate testing steps. The green boxes indicate the identiﬁcation of CKD and its stages and the initiation of
+treatment. The purple box indicates the identiﬁcation of AKD/acute kidney injury (AKI). Please also see the Kidney Disease: Improving Global
+Outcomes (KDIGO) Clinical Practice Guideline for Acute Kidney Injury.97
+www.kidney-international.org
+introduction, qualifying statements, and key concepts
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S139

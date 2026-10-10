@@ -1,0 +1,24 @@
+S E C T I O N 4 : P A T I E N T P O R T A L S A N D E N G A G E M E N T
+T E C H N O L O G I E S
+S E C T I O N 4 : P A T I E N T P O R T A L S A N D E N G A G E M E N T 
+T E C H N O L O G I E S 
+Using the Portal for Quality Improvement 
+EHR portals and patient engagement platforms have the potential to reshape how, where, and when an 
+individual’s health data are collected. Information that once used pen and clipboard can be acquired in 
+the clinic on a tablet computer or kiosk, or outside of the office. 
+Health IT Advisors should consider the following use cases when a patient portal is available: 
+1. Use EHR logs and audits to measure how and when users interact with portals and apps. 
+2. Incorporate structured data from forms, questionnaires, and assessments collected via a portal 
+or app into a QI project. 
+The principles of data governance (see Section 2) also apply to data collected through portals or other 
+patient engagement technologies. When it is used for QI, HealthIT Advisors should observe how 
+patients or caregivers interact with the portal to look for gaps or red flags in data quality. For example, 
+there may be issues with how data are collected (unformatted text, for example) and when and how 
+data are transferred and incorporated into the EHR. 
+And most important, not all patients can (or will) use patient engagement platforms, including 
+traditionalEHR patient portals. You should carefully consider whether adoption and use may be limited 
+to a subpopulation with higher literacy and numeracy and/or greater access to or affinity for technology. 
+Equity and inclusion are important issues that need to be addressed when use of patient-facing 
+technology is being considered. 
+Health IT Advisor Handbook 
+Page 60

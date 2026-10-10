@@ -1,0 +1,87 @@
+
+
+===== PDF PAGE 263 =====
+
+ 
+ 
+ 
+ 
+WHO STEPS Instrument 
+Question-by-Question 
+Guide 
+(Core and Expanded) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The WHO STEPwise approach to 
+noncommunicable disease risk factor 
+surveillance (STEPS) 
+World Health Organization 
+20 Avenue Appia, 1211 Geneva  27, Switzerland 
+ 
+ 
+ 
+For  further  information: Noncommunicable Disease Surveillance, Monitoring and Reporting (who.int)
+
+
+===== PDF PAGE 264 =====
+
+ 
+STEPS Question-by-Question (Q-by-Q) 
+Guide 
+Overview 
+Introduction 
+The Question-by-Question Guide presents the STEPS Instrument with a brief 
+explanation for each of the questions. 
+ 
+ 
+Purpose 
+The purpose of the Question-by-Question Guide is to provide background 
+information to the interviewers and supervisors as to what is intended by each 
+question. 
+ 
+Interviewers can use this information when participants request clarification 
+about specific questions or they do not know the answer. 
+ 
+Interviewers and supervisors should refrain from offering their own 
+interpretations. 
+ 
+ 
+Guide to the 
+columns 
+The table below is a brief guide to each of the columns in the Q-by-Q Guide. 
+ 
+Column 
+Description 
+Country Tailoring 
+Question 
+Each question is to be read to the participants 
+• Select sections to use. 
+• Add expanded and optional 
+questions as desired. 
+Response 
+This column lists the available response 
+options which the interviewer will be circling 
+or filling in the text boxes. The skip 
+instructions are shown on the right hand side 
+of the responses and should be carefully 
+followed during interviews. 
+• Add country-specific 
+responses for demographic 
+responses (e.g. C6). 
+• Change skip question 
+identifiers where necessary. 
+Code 
+The column is designed to match data from 
+the instrument into the data entry tool, data 
+analysis syntax, data book, and fact sheet. 
+This should never be changed 
+or removed. The code is used 
+as a general identifier for the 
+data entry and analysis. 

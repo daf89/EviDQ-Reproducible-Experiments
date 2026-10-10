@@ -1,0 +1,122 @@
+enriched with older adults.135,136,146 In addition, the average CVD event 
+rate in the control arm of a landmark meta-analysis showing the bene-
+fits of more intensive BP-lowering treatment was approximately 
+equivalent to a 10% 10-year risk.116 Finally, the task force, which in-
+cluded patient members, felt that age-specific risk thresholds could re-
+sult in BP treatment decisions being made solely based on age, which is 
+difficult to support scientifically or otherwise. To try to avoid any con-
+fusion with the 2021 ESC Guidelines on cardiovascular disease preven-
+tion in clinical practice, we use the terms ‘sufficiently high risk’ or 
+‘increased risk’ to describe a person with 10-year CVD risk of ≥10% 
+(rather than the terms ‘high risk’ or ‘very high risk’). 
+6.4. Refining cardiovascular disease risk 
+estimation beyond risk models 
+The SCORE2 and SCORE2-OP risk-prediction models incorporate 
+traditional risk factors such as age, sex, systolic BP, cholesterol values, 
+and smoking status to predict 10-year risk of CVD.165,166 However, 
+they do not include ‘non-traditional’ CVD risk factors (detailed below 
+and hereafter termed ’risk modifiers’). Non-traditional CVD risk 
+modifiers can improve the predictive performance (i.e. discrimin-
+ation) of other CVD risk-prediction models, and may also apply to 
+SCORE2 or SCORE2-OP.173 For example, among individuals with 
+elevated BP and borderline increased 10-year predicted CVD risk 
+by SCORE2 or SCORE2-OP (estimates of 5% to <10%), these non- 
+traditional CVD risk modifiers may help up-classify the patient’s risk 
+and thereby prompt BP-lowering treatment (Figure 8). 
+6.4.1. Sex-specific non-traditional cardiovascular 
+disease risk modifiers 
+Sex differences in the distribution of traditional and non-traditional 
+CVD risk factors have been documented among patients with 
+hypertension.174 Although sex itself is included as an input variable 
+in the SCORE2 and SCORE2-OP, and though these models were 
+derived separately in men and women, some sex-specific, non- 
+traditional risk modifiers were not included, and their associated 
+impact on CVD risk may not be fully captured by SCORE2, 
+SCORE2-OP, or SCORE2-Diabetes. 
+The relationship between BP and overall CVD risk is similar in 
+both sexes, though some studies even suggest a stronger relative 
+risk for CVD for a given BP level among females compared with 
+males.117 Female-specific, non-traditional CVD risk modifiers often 
+arise at specific times throughout the life course, especially during 
+pregnancy and the peri-partum period. Women with a history of 
+hypertensive disorders of pregnancy, including gestational hyperten-
+sion and pre-eclampsia, have a two-fold higher long-term risk of 
+CVD vs. women without these pregnancy conditions.175–177 The 
+relative long-term CVD risk associated with hypertensive disorders 
+of pregnancy may also be higher in younger vs. older pregnant wo-
+men.178,179 Most, but not all, of the excess CVD risk associated 
+with hypertensive disorders of pregnancy is captured by convention-
+al CVD risk factors.176,178 Gestational diabetes is independently as-
+sociated with an approximately two-fold increase in the long-term 
+relative risk of CVD events.180 Other complications such as pre- 
+term delivery, recurrent miscarriage, and one or more stillbirths 
+are associated with a 40% relative increase in long-term CVD 
+risk.181–185 Accordingly, a history of specific pregnancy complica-
+tions, including gestational hypertension, pre-eclampsia, gestational 
+diabetes, pre-term delivery, one or more stillbirths, and recurrent 
+miscarriage, can be considered as non-traditional CVD risk modi-
+fiers to up-classify women with elevated BP and borderline increased 
+10-year predicted CVD risk (5% to <10%) to sufficiently high risk, 
+thereby influencing the risk-based management of their elevated BP. 
+Evidence whether other female-specific conditions (infertility, poly-
+cystic ovary syndrome, and premature menopause) and male-specific 
+conditions (androgenic alopecia and erectile dysfunction) improve pre-
+diction of CVD sufficiently to inform risk-based BP-lowering treatment 
+decisions is inconclusive at present. 
+Recommendation Table 3 — Recommendations for 
+assessing cardiovascular disease risk among individuals 
+with elevated blood pressure (office systolic blood 
+pressure 120–139 mmHg or diastolic blood pressure 
+70–89 mmHg) (see Evidence Tables 10 and 11) 
+Recommendations 
+Classa 
+Levelb 
+It is recommended to use a risk-based approach in 
+the treatment of elevated BP, and individuals with 
+moderate or severe CKD, established CVD, HMOD, 
+diabetes mellitus, or familial hypercholesterolaemia 
+are considered at increased risk for CVD 
+events.31,153–159,161–163,172 
+I 
+B 
+SCORE2 is recommended for assessing 10-year risk 
+of fatal and non-fatal CVD among individuals aged 
+40–69 years with elevated BP who are not already 
+considered at increased risk due to moderate or 
+severe CKD, established CVD, HMOD, diabetes 
+mellitus, or familial hypercholesterolaemia.143,165,172 
+I 
+B 
+SCORE2-OP is recommended for assessing the 
+10-year risk of fatal and non-fatal CVD among 
+individuals aged ≥70 years with elevated BP who are 
+not already considered at increased risk due to 
+moderate or severe CKD, established CVD, HMOD, 
+diabetes mellitus, or familial 
+hypercholesterolaemia.143,166,172 
+I 
+B 
+It is recommended that, irrespective of age, 
+individuals with elevated BP and a SCORE2 or 
+SCORE2-OP CVD risk of ≥10% be considered at 
+increased risk for CVD for the purposes of 
+risk-based management of their elevated 
+BP.143,165,166,172 
+I 
+B 
+SCORE2-Diabetes should be considered to estimate 
+CVD risk among type 2 diabetes mellitus patients 
+with elevated BP, particularly if they are <60 years of 
+age.164 
+IIa 
+B 
+© ESC 2024
+BP, blood pressure; CKD, chronic kidney disease; CVD, cardiovascular disease; HMOD, 
+hypertension-mediated organ damage; SCORE2, Systematic COronary Risk Evaluation 2; 
+SCORE2-OP, Systematic COronary Risk Evaluation 2–Older Persons. 
+Established CVD: coronary artery disease, cerebrovascular disease, peripheral arterial 
+disease, or heart failure. For details on HMOD see Section 7. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3939 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

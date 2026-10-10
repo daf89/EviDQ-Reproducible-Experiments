@@ -1,0 +1,95 @@
+9 
+generated listing of the prescriptions dispensed to a given customer). The DCS reviews the 
+patient profile and identifies and records the pharmacy-specific data items listed in Table 1. Upon 
+request, nearly all pharmacies provide this computer-generated profile for sample persons via fax, 
+FedEx, or regular mail rather than over the phone. One large chain with a large number of sample 
+persons provided the prescription data via electronic file. 
+Table 1: MPC Data Elements Collected by Provider Component 
+Data Elements 
+Hospital 
+Office-
+based 
+Home 
+Care 
+Pharmacy 
+SBD 
+Institution 
+Date of service 
+X 
+X 
+X 
+X 
+X 
+X 
+Setting of care 
+X 
+X 
+X 
+Medical condition 
+X 
+X 
+X 
+X 
+X 
+Type of personnel seen 
+X 
+Prescribed medicine 
+X 
+Quantity and dosage 
+of medicine 
+X 
+Procedures and services 
+X 
+X 
+X 
+X 
+X 
+Full established charge 
+X 
+X 
+X 
+X 
+X 
+Total charge 
+X 
+X 
+X 
+X 
+X 
+Payment amount 
+X 
+X 
+X 
+X 
+X 
+X 
+Payer source 
+X 
+X 
+X 
+X 
+X 
+X 
+Reason for discrepancy 
+between total charge 
+and total payments 
+X 
+X 
+X 
+X 
+X 
+SBDs 
+X 
+X 
+Comparison of total 
+number of events 
+reported in MPC against 
+total events reported in 
+HC and explanation if 
+discrepancy cannot 
+be resolved. 
+X 
+X 
+X 
+X 
+X

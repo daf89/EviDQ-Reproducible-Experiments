@@ -1,0 +1,61 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+305
+Ajustements
+Critère 2.1-05
+Ajustement de l’évaluation en visite.
+La pertinence du recours à des mesures restrictives de liberté (limitation des contacts, des 
+visites, retrait d’effets personnels, isolement) est argumentée et réévaluée
+Changement de méthode d’investigation pour les éléments d’évaluation 2, 3 et 4 : méthode parcours 
+traceur.
+Critère 2.2-02
+Le dossier médical préhospitalier des SMUR comporte tous les éléments nécessaires à la 
+poursuite de la prise en charge du patient
+Libellé 2023 : Le bilan de l’analyse régulière des dossiers par l’équipe SMUR donne lieu à des actions 
+d’amélioration de leurs pratiques (pilotage de l’activité, formation, adaptation des moyens…).
+Libellé 2024 : Le bilan de l’analyse régulière des dossiers par l’équipe SMUR donne lieu à des actions 
+d’amélioration de leurs pratiques (pilotage de l’activité, formation, adaptation des moyens, réécoute des 
+enregistrements…).
+Critère 2.2-03
+Ajustement de l’évaluation en visite et suppression de redondance.
+L’équipe des urgences assure au patient une orientation dans les circuits et délais adaptés à sa 
+prise en charge
+Changement de méthode d’investigation : méthode parcours traceur
+Libellé 2023 : Un médecin référent est facilement joignable et est rapidement identifié.
+Libellé 2024 : Un médecin de spécialité est facilement joignable pour avis en cas de besoin en intra ou 
+extra établissement.
+Libellé 2023 : Les examens sont réalisés dans des locaux permettant le respect de la confidentialité et de 
+la dignité.
+Suppression de l’élément d’évaluation car ce sujet est traité dans le critère 1.2-01 sur le respect de la 
+dignité et de la confidentialité.
+Transfert de l’élément d’évaluation du critère 2.2-04 : L’équipe des urgences a accès au dossier du patient 
+ayant déjà séjourné ou consulté dans l’établissement ainsi qu’au ddossier médical de Mon espace santé 
+(DMP).
+Critère 2.2-04
+Suppression du critère. L’élément d’évaluation est intégré dans le critère 2.2-03.
+Critère 2.2-05
+Ajustement lié au numérique en santé.
+Les équipes de soins ont accès aux informations du patient avec un système d’information 
+adapté
+Création d’un élément d’évaluation : L’ergonomie du système d’information permet aux professionnels un 
+accès simultané à l’ensemble du dossier patient utile à la prise en charge.
+Création d’un élément d’évaluation : Les équipes sont accompagnées dans la prise en main des nouveaux 
+outils /logiciels.
+Création d’un élément d’évaluation : Les équipes médicales peuvent consulter le dossier médical de Mon 
+espace santé (DMP) et/ou le dossier pharmaceutique du patient selon les cibles définies par la CME, 
+notamment via le service du « WebPS DMP ».
+Critère 2.2-08
+Suppression d’une redondance.
+Les équipes se coordonnent dans le cas où le patient n’a pas été orienté dans l’unité adaptée 
+faute de disponibilité
+Libellé 2023 : Le dossier du patient est accessible à l’équipe spécialiste.
+Suppression de l’élément d’évaluation car redondance avec le critère 2.2-05.
+Critère 2.2-10
+Suppression d’une redondance.
+Les acteurs de la programmation opératoire se coordonnent et tiennent compte de la priorisation 
+des urgences
+Libellé 2023 : En cas de reprogrammation, le patient est informé.
+Suppression de l’élément d’évaluation car redondance avec le critère 2.2-05.
+Critère 2.2-12
+Au bloc et dans les secteurs interventionnels, la check-list « Sécurité du patient » est utilisée de 
+manière efficace
+Changement du niveau d’exigence avec passage en standard par permutation avec le critère 2.4-06.

@@ -1,0 +1,49 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+229
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique opératoire_M1 
+1 IDENTIFICATION DU PATIENT
+Modalités de définition des profils de patient traceur
+L’ensemble des profils choisis doit, majoritairement, être représentatif de l’activité significative de l’établissement selon : 
+• • le volume d’activité ;
+• • les modes de prise en charge (hospitalisation complète, de jour, ambulatoire…) ;
+• • la patientèle (handicap, personne âgée, enfant…) ;
+• • les activités.
+Exemples de profils : 
+• • pour un établissement de santé avec une activité d’orthopédie : personne âgée entrée par les urgences et 
+opérée d’une prothèse de hanche ; 
+• • pour un établissement de santé avec une activité de neurologie : patient victime d’AVC avec hémiplégie ;
+• • pour un établissement de santé ayant une activité de chirurgie digestive avec des actes de prise en charge 
+de l’obésité : patient opéré pour une chirurgie bariatrique ;
+• • pour un établissement de santé prenant en charge peu de mineurs mais de façon récurrente : patient mineur 
+pris en charge dans un secteur non dédié à l’enfant ;
+• • pour un établissement de santé ayant une activité de soins de suite et de réadaptation : personne âgée 
+en rééducation présentant un diabète ;
+• • pour un établissement de santé ayant une activité de psychiatrie infanto-juvénile : mineur présentant 
+des troubles du comportement alimentaire ;
+• • pour un établissement de santé ayant une activité d’hospitalisation à domicile : maman prise en charge 
+en hospitalisation à domicile après sortie précoce.
+Dans le cadre de la préparation de la visite, la définition des profils est effectuée par la HAS, en lien avec le 
+coordonnateur de la visite. Ces profils sont communiqués à l’établissement avec le calendrier de visite. En cours de 
+visite, si le besoin de conforter une évaluation est nécessaire, un nouveau profil de patient peut être défini ou une 
+séquence patient traceur prévue dans le programme peut être annulée pour être remplacée par une autre séquence.
+Modalités de sélection
+• • En évaluation interne, l’établissement sélectionne avec l’équipe concernée le dossier au sein de sa file active 
+correspondant au profil défini.
+• • Lors de la visite, l’établissement fournit aux experts-visiteurs médecins, lors du temps de calage du calendrier 
+prévu, la liste pour chaque séquence d’évaluation, de tous les patients présents correspondant aux profils 
+prédéfinis lors de la préparation de la visite. Le choix définitif est réalisé dans les services concernés après 
+présentation rapide des dossiers. Les patients devront être informés par l’établissement de la démarche et 
+donner leur consentement à l’évaluateur pour participer à l’évaluation.
+Il est préconisé que les patients soient au plus proche de la sortie d’hospitalisation.
+• • L’évaluateur s’assure avant tout entretien du recueil du consentement du patient lui-même ou d’un tiers dans 
+les cas suivants : 
+• • le consentement du représentant légal pour un mineur ;
+• • le consentement du tuteur pour les patients sous tutelle ;
+• • le consentement de la personne de confiance pour les patients qui ne sont pas en capacité de 
+s’exprimer.
+Une case est à cocher dans la grille d’entretien avec le patient dans CALISTA pour tracer que ce recueil a été effectué.

@@ -1,0 +1,35 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+TIPS FOR ACCESSING SUPPORT RESOURCES: 
+1. At the beginning of the relationship with a clinic, Health IT Advisors should assess their 
+internal and external EHR support capabilities by asking the following questions during the 
+planning stage of a project (also see Section 1.1): 
+Who is responsible for the day-to-day operation and maintenance of the EHR? 
+Who do you call when there are software, hardware, or network issues? 
+Who approves and manages upgrades, enhancements, or changes to the EHR? 
+Who provides user training to clinicians and staff? 
+What is the process for making content or workflow changes? 
+Who decides what CDS is appropriate? 
+Who handles requests for new reports or queries? 
+Who should I call with EHR questions related to the project? 
+2. Become familiar with major menu options and identify screens that capture or display data 
+elements needed for the project. Remember that individual users may have different 
+configurations based on their role and security level. If you plan to retrieve, extract, or 
+abstract data it helps to know the following for each EHR: 
+How to search for a patient 
+How to access problems, medications, vital signs, test results, and chart notes, etc. 
+How progress notes are organized 
+How external reports, summaries, and external records are accessed 
+EHR-specific terms that are used as shorthand (“dot-phrase,” “macro,” 
+“flowsheet”). 
+3. A Health IT Advisor who has a long-term and valued relationship with a clinic may be given 
+access to internal and external EHR resources like a vendor’s support portal. Remember 
+that vendor documentation (including screen shots) is usually proprietary and use by third 
+parties may be explicitly prohibited. Resources may include the following: 
+Access to training and support documents and videos 
+Help files or on-line reference material access through the EHR application 
+ “Cheat sheets” developed by or for the clinic with tips and shortcuts 
+Access to a training system, or “sandbox” EHR that does not contain patient data. 
+Health IT Advisor Handbook 
+Page 52

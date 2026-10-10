@@ -1,0 +1,55 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+• 
+Syntactic standards fortransactions including eligibility, enrollment, claims, and payment.[107] 
+• 
+Semantic standards fordata including ICD-10, HCPCS, CPT, CDT,andNDC. 
+• 
+Rules for managing the privacy and security of patient data.[108] This includes definitions of 
+PHI as well as specification of organizations and relationships which could safely exchange PHI in 
+order to provide care. 
+• 
+Use of Employment IdentificationNumbers (EIN) in electronic transactions. 
+• 
+Standardization on use of the National Provider Identifier (NPI) for provider identification. 
+• 
+Pre-emption of any state laws which do not meet the minimum requirements as defined in the 
+rule. States may offer additional controls and protections in addition to the federal 
+requirements but may not relax any requirements. 
+This was pivotal legislationas it provided a frameworkfor clinicians and payers (with CMSbeing a 
+primary one) to interact with each other in a safe, managed form that also mandated minimal standards 
+to help ensure data were able to be communicatedmore easily without distortion. It also pre-emptively 
+contained major potential problems with unmanaged sharing of patient data sharing that was sure to 
+become an issue with the advent of computer networks. 
+Several future iterations of legislation followed HIPAA and its additions, encouraging the use of 
+standards forsafe management andtransmissionof patient data: 
+• 
+Meaningful Use: Part of the American Recovery and Reinvestment Act of 2009, it introduced the 
+concept of a “CertifiedEHR Technology,” which set criteria expectedfor all participating medical 
+record systems. This included both semantic and syntactic standards for transitions of care, 
+syndromic surveillance, reportable labs, immunization registries, and several other areas where 
+data are commonly exchanged. It also set new uniform requirements for securing and managing 
+patient data. Critically, it also introduced new standards for eCQMs. 
+• 
+Trusted Exchange Framework and Common Agreement (TEFCA)[109]: An extremely ambitious 
+policy, TEFCA defines how Qualified Health Information Networks are allowed to function and 
+interact in order to provide much-desired functions like health information networks, registries, 
+or research networks. 
+• 
+21st Century Cures Act (Cures Act)[110]: Continuing the march forward from Meaningful Use 
+and leveraging TEFCA, this set of policies promotes greater patient access todata, specifies 
+additional requirements on standard coding systems for semantic interoperability, and 
+introduces new syntactic interoperability requirements focused on emerging standards like 
+Health Level 7 Fast Healthcare Interoperability Resources (HL7 FHIR).[111] 
+• 
+Information Blocking Rule[112]: Part of 21st Century Cures, this item specifically targets tools 
+and vendors that proactively block access and exchange by restricting access to features and 
+functions which facilitate data exchange or implement technologies which make it difficult or 
+more expensive to access data within a system. This is a landmark action by the federal 
+government. 
+These standards have only relatively recently been mandated by The Office of the National Coordinator 
+for Health Information Technology (ONC) and The Centers for Medicare and Medicaid Services (CMS). To 
+Health IT Advisor Handbook 
+Page 113

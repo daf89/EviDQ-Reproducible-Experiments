@@ -1,0 +1,53 @@
+
+STEP 13 — FUZZY MEMBERSHIP FUNCTION FORMALIZATION
+
+Baseline scientifique : DQ
+REF dans fuzzy : FALSE
+TEST accessed : FALSE
+New model : FALSE
+New SHAP : FALSE
+Fuzzy inference : FALSE
+Recommendation : FALSE
+
+Variables fuzzy primaires :
+
+1. PERFORMANCE
+   Metric:
+   Delta_BalancedAccuracy_vs_DQ
+
+   Linguistic terms:
+   DEGRADED / PRESERVED / IMPROVED
+
+2. EXPLANATION SHIFT
+   Metric:
+   Abs_Delta_Age_SHAP_vs_DQ
+
+   Linguistic terms:
+   LOW / MODERATE / HIGH
+
+3. STABILITY
+   Metric:
+   Stability_Cosine_Mean
+
+   Linguistic terms:
+   LOW / MODERATE / HIGH
+
+4. COVERAGE
+   Metric:
+   Coverage
+
+   Linguistic terms:
+   LOW / MODERATE / FULL_OR_NEAR_FULL
+
+FIDELITY:
+TreeSHAP additivity remains a PASS/FAIL gate.
+
+IMPORTANT:
+No membership threshold has been fitted from
+DOC / MEDIAN / KNN / ITERATIVE.
+
+The membership parameters remain TO_BE_FROZEN
+after explicit scientific justification.
+
+STATUS:
+PASS_FORMALIZATION_ONLY

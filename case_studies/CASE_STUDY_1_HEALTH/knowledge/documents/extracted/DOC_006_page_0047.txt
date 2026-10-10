@@ -1,0 +1,49 @@
+Step 2: Inspect the data for “red flags”: Inspect the extracted data file for potential issues, asking the 
+following questions: 
+• 
+Are the data adequate to determine each patient’s eligibility for a SBIRT screen? 
+• 
+Does the total number of eligible patients pass a “gut check”? 
+• 
+Are there gaps or coding issues with the encounter codes exported to the file? 
+• 
+Are there any outliers or obvious format errors in dates, numeric data, or coded values? 
+• 
+Are coded values for screening assessment and interventions what is expected? 
+• 
+Are dates and times associated with SBIRT screening and follow-up realistic? 
+Step 3: Compare EHRdatawith a gold standard, benchmark, or additionaldatasources 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+• 
+Finding appropriate comparison data in this example could be difficult. Some options to 
+consider include the following: 
+o Confirm the patient age distribution against known values for the clinic 
+o Find a reasonable benchmark for a “typical” number of patients eligible for screening 
+o Make sure screening tools, scoring criteria, and riskinterpretationare consistent witha 
+validated assessment tool. 
+Example: You find that data for the AUDIT, an assessment used to score risky alcohol use, are 
+included in the data set, but the questions and scoring found in the EHR do not match the validated 
+assessment.How canthis be best addressed? 
+Step 4: Ask the clinic for a “gut check” 
+• 
+To avoid overloading clinic staff, a “gut check” for this example might include the following: 
+o A preview of the performance rate for a short measurement period 
+o The total number of eligible visits; does this track with the total visits during that period? 
+o A chart showing frequency of specific intervention types; is it realistic that all of these 
+services were delivered? 
+Conclusion 
+The wide adoption of EHRs by medical practices has created a wealth of data that can be used to 
+support QI projects. Knowing where to start begins early in the project and the implications of poor-
+quality data must be clearly understood and addressed. While not all projects will require all of these 
+steps, Health IT Advisors must always ensure data quality before using any EHR data for a project. 
+2.4 
+Core Principles for Handling EHR Data 
+Health IT Advisors have a legal and ethical obligation to follow best practices when handling data both 
+within, and extracted from, an EHR. Data governance refers to a set of best practices for handling all 
+types of data and provides a useful framework for handling the EHR data used for QI. 
+This section is presented in two parts: the first addresses general concepts for data governance; the 
+second focuses on a brief review of HIPAA and other privacy and security requirements. 
+Health IT Advisor Handbook 
+Page 42

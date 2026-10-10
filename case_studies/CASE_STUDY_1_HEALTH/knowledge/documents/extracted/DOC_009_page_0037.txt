@@ -1,0 +1,108 @@
+If FFS‑ At least one payment ($0 counts as a payment, but should only be used when we are sure the SOP did not pay)
+If Capitated‑ insurance type
+An event can still be a full complete if we have “don't know” in any of the following:
+If outpatient event DK to the day part of the event date is ok
+Location of service (however, if we can't determine location of service, we typically default to outpatient for hospital
+events)
+Diagnosis
+SBD info
+Global fee days (only month and year are required)
+Charges for each CPT
+FFS‑ Some payments can be “don't know“ if we know at least one payment ($0 counts as a payment, but should only be
+used when we are sure the SOP did not pay)
+Reasons payments less than or greater than charges
+Expecting additional payments
+If capitated:
+Copayment
+Who paid copayment
+Other payments
+Pair‑level
+If all events in the pair are full complete events, the pair is finalized as a completed pair
+If at least one event in the pair is full complete, the pair is finalized as a partial complete pair
+If all the events in a pair have some data but all are missing critical items, the pair is a special partial pair. 
+If the pair contains no events that contain critical items
+We also created a new “special partial”, which is an event that has any data at all. These special partials show up as final
+others in our main production report, but show up as partials in an alternate production report. We want to minimize the
+special partials during the field period, but this means that all pairs that have any records at all should at least be data
+entered a special partial (and not coded out as a refusal).
+Critical Items
+Table C‑1. Critical Items
+Item
+Item is
+complete
+if:
+Hospital
+OBD
+Home Health
+Agency
+HCH‑Health
+HCN‑Non‑Health
+Institution
+SBD
+1. Admit and discharge
+dates for inpatient
+stays
+Valid dates
+Don't
+Know
+Refusal
+A2a
+A1
+2. Date of visit for
+outpatient visits
+Valid date
+Don't
+Know
+Refusal
+A2c
+B1
+3. Dates of service
+Valid dates
+Don't
+Know
+Refusal
+E1 (HCH)
+D1 (HCN)
+B2b
+4. Diagnosis
+Verbatim
+description
+or ICD‑9
+code
+Don't
+Know
+Refusal
+E2
+5. Home health‑care
+personnel type and
+hours:
+Home health
+aide
+Homemaker
+IV/Infusion
+Therapist
+Nurse/Nurse
+Practitioner
+Nurse's aide
+Occupational
+therapist
+Personal care
+attendant
+Physical
+therapist
+Respiratory
+therapist
+Number of
+hours for
+each type
+(includes
+0)
+Don't
+Know
+Refusal
+E3(HCH)
+D2(HCN)
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+37/40

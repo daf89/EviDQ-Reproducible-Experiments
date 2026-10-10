@@ -1,0 +1,48 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+In addition to the ability to unambiguously express data, there are some other benefits of using coded 
+data. Each of the individual coding systems we have listed above was purpose-developed to portray 
+“right-sized” information specific to their respective area of focus. Some are incredibly rich and define 
+far more than the human-readable term including additional attributes and references to other 
+concepts. 
+You might think that systems would directly store some of these facts in one of the standardized code 
+systems we mentioned, but that is extremely rare. Instead, most store information using their own 
+private internal identifiers which map to equivalent values one or more code systems. There are some 
+valid reasons this is done, but extended discussion of them is outside of the scope of this document. 
+Instead, we are going to focus on the implications for cross-systems interoperability. 
+The reader will note we use the word “equivalent” when discussing mappings. That is intentional. 
+Mappings are not always guaranteedtobe “precise” direct identifiers for a specific coded term. Any 
+mapping requires significant investment and expertise and is not something that should be done 
+without exercising great care. Each effort requires subject matter expertise in topics like pathology, 
+pharmacology, and laboratory science as well as deep expertise in the respective code system. The key 
+take-away is that it takes expertise in both of those areas. There are nuances in how specific code 
+systems model data that have serious ramifications in code selection. 
+The single greatest value of using common vocabularies is they increase the opportunity to exchange 
+data on an organization, city, state, or even national level. This creates important potential applications 
+for research, population health, and quality measurement. We can now see beyond one patient at one 
+facility and start looking at entire populations of patients. We can glean insights across staggering 
+volumes of data to help drive improvements in care that can benefit millions of patients. None of that 
+would be practical without semantic interoperability. 
+Syntactic Interoperability 
+We have discussed how to capture the semantics of a concept, but we have yet to touch on how they 
+might be assembled in a structured way so they can be communicated with meaning. This is known as 
+syntax. 
+We are not going to go into detail as it exceeds the scope of this handbook, but we do want to touch on 
+a few ideas. Possibly the easiest way to describe syntax is through a grammar in language. Effective 
+communication requires a concept of nouns, verbs, adjectives, etc. as well as a set of rules on how those 
+items can be combined to form a message (a sentence)toconvey meaning. 
+Syntax often appears in two forms: 
+• 
+Structure of the message contents:The message.There is usually a defined agreement on the 
+“body” of a particular communication. 
+• 
+Protocols for operations: The agreement on the required and optional series of actions that can 
+be taken on the message during communication. A common example would be when placing an 
+order, the sender will initiate the order and the receiver will acknowledge that the order was 
+received correctly. 
+A concrete non-medical example is email. An email has a structure – a “to,” a “from,” a “subject,” and a 
+message body. The actions like sending, receiving, and deleting are the operations you can take on an 
+Health IT Advisor Handbook 
+Page 111

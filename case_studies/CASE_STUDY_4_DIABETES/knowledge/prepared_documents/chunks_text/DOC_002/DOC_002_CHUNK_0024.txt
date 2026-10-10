@@ -1,0 +1,80 @@
+
+
+===== PDF PAGE 47 =====
+
+Indicators and metadata  ﻿
+35
+15.	 Cardiovascular disease risk assessment 
+Indicator name
+Cardiovascular disease risk assessment 
+Purpose
+To assess the level of cardiovascular disease risk assessment among people aged 
+40 years and over in health facilities.
+Definition
+Proportion of people aged 40 years and over who were attending health facilities 
+and assessed for cardiovascular disease risk using WHO CVD risk charts.
+Numerator
+Number of people aged 40 years and over who were attending health facilities 
+and were assessed for cardiovascular disease risk using WHO CVD risk charts 
+during the reporting period.
+Denominator
+Total number of people aged 40 years and over who attended health facilities 
+during the reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by diabetes status within each facility, 
+facility level of care type, provider ownership type (public/private), and 
+individual-level characteristics such as age, sex, race/ethnicity, comorbidity 
+status, high-risk groups, socioeconomic status, residence type (urban/rural), and 
+health insurance type.
+Sources of data
+Health facility patient registers, health records 
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379). 
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186). 
+
+
+===== PDF PAGE 48 =====
+
+36
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+16.	 Hypertension screening 
+Indicator name
+Hypertension screening 
+Purpose
+To determine the level of opportunistic screening for hypertension.
+Definition
+Proportion of people aged 18 years and over who were attending health facilities 
+and were screened for hypertension based on WHO or national guidelines.
+Numerator
+Number of people aged 18 years and over who were attending health facilities 
+and were screened for hypertension during the reporting period.
+Denominator
+Total number of people aged 18 years and over who attended health facilities 
+during the reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+Guideline for the pharmacological treatment of hypertension in adults. Geneva: 
+World Health Organization; 2021 (https://iris.who.int/handle/10665/344424). 
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).

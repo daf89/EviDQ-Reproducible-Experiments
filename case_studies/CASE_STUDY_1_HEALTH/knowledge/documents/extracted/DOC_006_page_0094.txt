@@ -1,0 +1,53 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+o Send and receive electronic care summaries [continuity of care documents 
+(CCDs)] 
+o Send and receive electronic transition of care notifications 
+o Send and receive referrals for medical, behavioral, and social needs 
+Tips for Health IT Advisors 
+In some respects, the aggregation pools of EHR data provided by registries, population health 
+tools/platforms, and HIEs seem like a giant extension of the organizational EHR with silo walls torn 
+down. There are, however, some important differences. 
+Some common themes, adapted from Section 7, include: 
+1. External data sources may provide a wide range of demographic, clinical, administrative, and 
+financial data useful for QI: 
+• 
+Registries, population health tools, and HIEs vary widely in the scope, content, and the original 
+sources they consume. For example, a registry hosted by a medical specialty or research 
+organization may only incorporate specific types of data on a subset of patients. 
+• 
+Population health tools and HIEs are limited by the cost and complexity of the connections used 
+to pull data from EHRs, claims, and other sources. 
+• 
+More sophisticated analytics platforms are often operated by health plans or commercial payers 
+and are limited to data on their beneficiaries. 
+2. External data sources may provide options for reporting at least some CQMs, generate graphs and 
+dashboards, and generate patient lists filtered by demographic and clinical parameters : 
+• 
+Population health platforms, registries,andmany HIEs were built to use the data they collect to 
+measure clinical quality and usually offer a wide assortment ofCQMs. 
+• 
+EHRs are still somewhat limited in the measures they offer and the options for in-depth analysis; 
+external data sources are often designed and built to provide sophisticated analytics beyond 
+simple performance rates. 
+• 
+Population health tools (and some HIEs) incorporate advanced computational techniques 
+including natural language processing (NLP), artificial intelligence (AI), and machine learning to 
+provide sophisticated analytics capabilities. Examples include assessing group and individual 
+health risks, generating predictive models, and (when combined with claims data) analyzing 
+healthcare costs. 
+• 
+Just like EHRs, these platforms must capture and store data in an appropriate form, usually as 
+structured data. Inconsistent workflows and poor data quality will lead to erroneous conclusions 
+(see Section 2). 
+• 
+Errors and distortions can occur as information travels farther from the point of collection. 
+Because aggregate collections of clinical data are completely reliant on feeder systems, the 
+potential for data quality issues is multiplied compared to using a clinic EHR as a single source. 
+• 
+Issues can include technical problems with data transfer, challenges linking individual patient 
+records across feeds, and data formatting and mapping problems. For example, HIEs that 
+receive electronic care summaries as continuity of care documents (CCDs) may have trouble 
+Health IT Advisor Handbook 
+Page 89

@@ -1,0 +1,6 @@
+﻿document_id,short_title,institution,n_chunks,first_page,last_page,total_characters,empty_chunks
+DOC01_ENCR_DQ_CHECKS,Cancer Data Quality Checks v1.1,ENCR / JRC - European Commission,52,1,104,118786,0
+DOC02_IARC_SP95,Cancer Registration: Principles and Methods,WHO / IARC / IACR,147,1,294,701379,0
+DOC03_ENCR_STANDARD_2023,ENCR Standard Dataset 2023,ENCR / JRC - European Commission,3,1,6,8936,0
+DOC04_WHO_ICDO3,ICD-O-3 First Revision,World Health Organization (WHO),126,1,252,644563,0
+DOC05_JRC_ENCR_QCS,JRC-ENCR Quality Check Software User Manual,JRC / ENCR - European Commission,12,1,24,28298,0

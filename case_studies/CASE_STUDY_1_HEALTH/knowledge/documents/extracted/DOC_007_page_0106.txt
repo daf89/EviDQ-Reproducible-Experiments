@@ -1,0 +1,206 @@
+Special considerations
+Pediatric considerations. No relevant studies to inform this
+guideline have been completed in children.
+3.9 Glucagon-like peptide-1 receptor agonists
+(GLP-1 RA)
+The Work Group highlights a key recommendation and practice
+point from the KDIGO 2022 Clinical Practice Guideline for
+Diabetes Management in Chronic Kidney Disease.23
+Recommendation 3.9.1: In adults with T2D and CKD
+who have not achieved individualized glycemic
+targets despite use of metformin and SGLT2 inhib-
+itor treatment, or who are unable to use those
+medications, we recommend a long-acting GLP-1 RA
+(1B).
+Practice Point 3.9.1: The choice of GLP-1 RA should
+prioritize agents with documented cardiovascular
+beneﬁts.
+Results of the FLOW trial assessing effects of GLP-1 RA in
+a dedicated CKD population are awaited. It is a deﬁnitive
+assessment of semaglutide on kidney outcomes in 3534
+people with CKD, albuminuria, and T2D.537a Nevertheless,
+extrapolating current evidence from trials in people with
+T2D
+where
+kidney
+function
+was
+generally
+preserved
+suggests GLP-1 RA safely improve glycemic control and
+may reduce weight and risk of CVD in people with
+CKD.23,538 Meta-analysis of these large, placebo-controlled
+cardiovascular outcome GLP-1 RA trials has shown reduced
+MACE in people with prior CVD or at high risk.538 The
+size of RR reductions on cardiovascular risk appears similar
+in
+people
+with
+or
+without
+decreased
+GFR.538
+Once
+aggregated, GLP-1 RAs were shown to have modestly
+reduced risk of hospitalization for heart failure (HR: 0.89;
+95% CI: 0.82–0.92) and separately reduced risk of death
+from any cause (HR: 0.88; 95% CI: 0.82–0.94).538 The
+KDIGO
+2022
+Clinical
+Practice
+Guideline
+for
+Diabetes
+Management in Chronic Kidney Disease has recommended
+that long-acting GLP-1 RAs are prioritized ahead of insulin
+in people with T2D and CKD. GLP-1 RAs with proven
+Outcome
+Finerenone (n = 6519)
+Placebo (n = 6507)
+Hazard ratio
+(95% CI)
+P valuea
+Number of 
+patients with
+event per 100
+patient-years
+Number of
+patients
+with event
+(%)
+Number of 
+patients with
+event per 100
+patient-years
+Number of
+patients
+with event
+(%)
+Composite cardiovascular outcomeb
+0.0018
+0.86 (0.78–0.95)
+5.01
+939 (14.4)
+4.34
+825 (12.7)
+322 (4.9)
+0.092
+0.88 (0.76–1.02)
+1.84
+364 (5.6)
+1.61
+173 (2.7)
+0.36
+0.91(0.74–1.12)
+0.97
+189 (2.9)
+0.88
+1.01
+198 (3.0)
+0.95
+0.99 (0.82–1.21)
+1.02
+198 (3.0)
+256 (3.9)
+Death from cardiovascular causes 
+Nonfatal myocardial infarction 
+Nonfatal stroke
+Hospitalization for heart failure
+0.0030
+0.78 (0.66–0.92)
+1.68
+eGFR ≥57% composite kidney outcomec
+360 (5.5)
+1.31
+1.96
+325 (5.0)
+465 (7.1)
+0.0002
+0.77 (0.67–0.88)
+2.55
+Sustained ≥40% decrease in eGFR from baseline
+0.039
+0.84 (0.71–0.99)
+1.62
+297 (4.6)
+1.38
+254 (3.9)
+0.040e
+0.80 (0.64–0.99)
+0.96
+188 (2.9)
+0.76
+151 (2.3)
+0.026e
+0.81(0.67–0.98)
+1.29
+237 (3.6)
+1.06
+195 (3.0)
+257 (3.9)
+361 (5.5)
+<0.0001
+0.70 (0.60–0.83)
+4.03
+0.46e
+0.53 (0.10–2.91)
+0.02
+4 (<0.1)
+0.01
+2 (<0.1)
+Kidney failure
+End-stage kidney diseased
+Sustained decrease in eGFR to <15 ml/min/1.73 m2 
+Sustained ≥57% decrease in eGFR from baseline 
+Renal death
+eGFR ≥40% composite kidney outcomef
+854 (13.1)
+0.0004
+0.85 (0.77–0.93)
+817 (12.5)
+1.40
+4.81
+4.60
+995 (15.3)
+962 (14.8)
+5.64
+5.45
+0.0002
+0.84 (0.76–0.92)
+Death from any cause
+3.10
+614 (9.4)
+2.76
+552 (8.5)
+0.89 (0.79–>1.00g)
+0.051e
+Hospitalization for any cause
+2836 (43.5)
+19.04
+2926 (45.0)
+0.087e
+0.96 (0.91–1.01)
+19.91
+Favors finerenone
+Favors placebo
+0.5
+1.0
+2.0
+Figure 27 | Effect of ﬁnerenone versus placebo on kidney and cardiovascular outcomes in pooled analyses from the Finerenone in
+Reducing Kidney Failure and Disease Progression in Diabetic Kidney Disease (FIDELIO-DKD) and Finerenone in Reducing
+Cardiovascular Mortality and Morbidity in Diabetic Kidney Disease (FIGARO-DKD trials). CI, conﬁdence interval; eGFR, estimated
+glomerular ﬁltration rate. aStatistical tests where P values are provided were exploratory in nature; therefore, no adjustment for multiplicity was
+performed. bThe composite of time to ﬁrst onset of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for
+heart failure. cThe composite of time to ﬁrst onset of kidney failure, sustained $57% decrease in estimated glomerular ﬁltration rate from
+baseline over $4 weeks, or renal death. dInitiation of chronic dialysis for $90 days or kidney transplantation. eAnalyses for P values not
+prespeciﬁed. fThe composite of time to ﬁrst onset of kidney failure, sustained $40% decrease in estimated glomerular ﬁltration rate from
+baseline over $4 weeks, or renal death. gP ¼ 1.001 to 3 decimal places. Reproduced from Agarwal R, Filippatos G, Pitt B, et al. Cardiovascular
+and kidney outcomes with ﬁnerenone in patients with type 2 diabetes and chronic kidney disease: the FIDELITY pooled analysis. Eur Heart J.
+2022;43:474–484.535 ª The Author(s) 2021. Published by Oxford University Press on behalf of the European Society of Cardiology. This is an
+Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/
+licenses/by-nc/4.0/).
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S221

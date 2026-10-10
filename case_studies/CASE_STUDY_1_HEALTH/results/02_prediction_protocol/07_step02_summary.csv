@@ -1,0 +1,20 @@
+item,value
+Dataset_REF valid,True
+Target,risk_score_t
+Target missing,0
+Modelling rows,48784
+ALL_DQ_FEATURES,159
+MODEL_FEATURES,150
+Excluded from model only,9
+Numerical model features,149
+Categorical model features,1
+Model-input missing cells,0
+Train rows,39027
+Test rows,9757
+Train/test overlap,0
+Dataset unchanged,True
+Model trained,False
+SHAP calculated,False
+Feature selection,False
+RAG used,False
+Corrections applied,False

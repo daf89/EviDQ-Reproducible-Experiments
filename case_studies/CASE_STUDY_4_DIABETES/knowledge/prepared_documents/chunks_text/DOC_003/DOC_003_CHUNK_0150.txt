@@ -1,0 +1,203 @@
+
+
+===== PDF PAGE 299 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4E-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+CORE: Injury, Continued 
+Question 
+Response 
+Code 
+Where were you when you had this injury? 
+Home 
+1 
+School 
+2 
+Workplace 
+3 
+Road/Street/Highway 
+4 
+Farm 
+5 
+Sports/athletic area 
+6 
+Other (specify) 
+7 
+Don’t know 
+77 
+Refused 
+88 
+V7 
+Other (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+V7other 
+ 
+EXPANDED: Unintentional Injury 
+The next questions ask about behaviours related to your safety and whether or not you drink alcohol while driving or being a passenger. 
+Question 
+Response 
+Code 
+Always 
+1 
+Sometimes 
+2 
+In the past 30 days, how often did you wear a helmet when you 
+rode a bicycle or pedal cycle? 
+Never 
+Did not ride in the past 30 days 
+3 
+4 
+V8 
+Don't Know 
+77 
+Refused 
+88 
+In the past 30 days, how many times have you driven a 
+motorized vehicle when you have had 2 or more alcoholic 
+drinks? 
+(USE SHOWCARD) 
+Number of times 
+Don't Know 
+Refused 
+└─┴─┘ 
+77 
+88 
+V9 
+In the past 30 days, how many times have you ridden in a 
+motorized vehicle where the driver has had 2 or more alcoholic 
+drinks? 
+(USE SHOWCARD) 
+Number of times 
+Don't Know 
+Refused 
+└─┴─┘ 
+77 
+88 
+V10 
+
+
+===== PDF PAGE 300 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4E-3 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+CORE: Violence 
+The following questions are about different experiences and behaviours that are related to violence. 
+Question 
+Response 
+Code 
+Never 
+1 
+If never, go to V14 
+In the past 12 months, how many times were you in a violent 
+incident in which you were injured and required medical 
+attention? 
+Rarely (1- 2 times) 
+Sometimes (3 – 5 times) 
+Often (6 or more times) 
+2 
+3 
+4 
+V11 
+Don’t know 
+77 If don't know, go to V14 
+Refused 
+88 If Refused, go to V14 
+The next questions ask about the most serious violent incidence you have had in the past 12 months. 
+Being shot with a firearm 
+1 
+Please indicate which of the following caused your most serious 
+injury in the last 12 months. 
+(USE SHOWCARDS) 
+A weapon (other than a firearm) was 
+used by the person who injured me 
+Being injured without any weapon 
+(slapped, pushed…) 
+2 
+3 
+V12 
+Don’t know 
+77 
+Refused 
+88 
+Intimate partner 
+1 
+Parent 
+2 
+Child, sibling, or other relative 
+3 
+Friend or acquaintance 
+4 
+Please indicate the relationship between yourself and the 
+person(s) who caused your injury. 
+Unrelated caregiver 
+Stranger 
+5 
+6 
+V13 
+Official or legal authorities 
+7 
+Other (specify) 
+8 
+Refused 
+88 
+Other (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+V13other 
+Never 
+1 
+Very rarely 
+2 
+Looking back on your childhood (before age 18 years), did a 
+parent or adult in the household ever push, grab, shove, slap, 
+hit, burn, or throw something at you? 
+Once a month 
+Once a week 
+Almost daily 
+3 
+4 
+5 
+V14 
+Don't know 
+77 
+Refused 
+88 
+Looking back on your childhood, did an adult or anyone at least 
+five years older than you ever touch you sexually or try to make 
+you touch them sexually or force you to have sex? 
+Yes 
+No 
+Refused 
+1 
+2 
+88 
+V15 
+Never 
+1 
+Since your 18th birthday, have you ever experienced a sex act 
+involving either vaginal, oral, or anal penetration against your 
+will? 
+Once 
+A few times (2 to 3 times) 
+Many times (4 or more times) 
+2 
+3 
+4 
+V16 
+Don’t know 
+77 
+Refused 
+88 

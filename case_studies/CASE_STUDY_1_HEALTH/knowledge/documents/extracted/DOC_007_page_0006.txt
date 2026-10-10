@@ -1,0 +1,83 @@
+S209
+Figure 20. Average protein content of foods in grams
+S214
+Figure 21. Algorithm for monitoring of potassium and estimated glomerular ﬁltration rate (eGFR) after the initiation
+of renin-angiotensin system inhibitors
+S215
+Figure 22. Effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) with kidney disease outcomes by diabetes
+status
+S216
+Figure 23. Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on cardiovascular and
+mortality outcomes by diabetes status and trial population
+S217
+Figure 24. Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on kidney failure (chronic
+kidney disease [CKD] trials)
+S219
+Figure 25. Effects of empagliﬂozin versus placebo on annual rate of change in estimated glomerular ﬁltration rate
+(GFR) by key subgroups in the Study of Heart and Kidney Protection With Empagliﬂozin (EMPA-
+KIDNEY)
+S220
+Figure 26. Serum potassium monitoring during treatment with a nonsteroidal mineralocorticoid receptor
+antagonist (MRA) (ﬁnerenone)
+S221
+Figure 27. Effect of ﬁnerenone versus placebo on kidney and cardiovascular outcomes in pooled analyses from the
+Finerenone in Reducing Kidney Failure and Disease Progression in Diabetic Kidney Disease (FIDELIO-
+DKD) and Finerenone in Reducing Cardiovascular Mortality and Morbidity in Diabetic Kidney Disease
+(FIGARO-DKD trials)
+S222
+Figure 28. Association between estimated glomerular ﬁltration rate (eGFR) with serum bicarbonate
+concentration in general population and high-risk cohorts from the Chronic Kidney Disease
+Prognosis Consortium, by level of albuminuria (A1–A3)
+S224
+Figure 29. Distribution of blood potassium in general population and high-risk cohorts from the Chronic Kidney
+Disease Prognosis Consortium, by estimated glomerular ﬁltration rate (eGFR)
+S224
+Figure 30. Meta-analyzed adjusted prevalence of hyperkalemia (25th and 75th percentile cohort) in general
+population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by diabetes
+status
+S225
+Figure 31. Serum potassium concentration and confounder-adjusted risk of death by presence or absence of
+diabetes, heart failure (HF), or chronic kidney disease (CKD)
+S228
+Figure 32. Actions to manage hyperkalemia (potassium >5.5 mmol/l) in chronic kidney disease
+S228
+Figure 33. Potassium absorption rates of plant-based, animal-based, and processed foods
+S229
+Figure 34. Association between estimated glomerular ﬁltration rate (eGFR) and hemoglobin concentration from
+general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by
+diabetes status
+S230
+Figure 35. Association between estimated glomerular ﬁltration rate (eGFR) with serum concentrations of
+parathyroid hormone, phosphate, and serum calcium in general population and high-risk cohorts
+from the Chronic Kidney Disease Prognosis Consortium, by level of albuminuria (A1–A3)
+S233
+Figure 36. Risk of all-cause and cardiovascular mortality by estimated glomerular ﬁltration rate (eGFR) and level of
+albuminuria from general population cohorts contributing to the Chronic Kidney Disease Prognosis
+Consortium
+S235
+Figure 37. Effect of lowering low-density lipoprotein (LDL) cholesterol per 1.0 mmol/l on risk of major vascular
+events by level of estimated glomerular ﬁltration rate (eGFR) at recruitment
+S237
+Figure 38. Predicted 5-year absolute beneﬁts and harms of allocation to aspirin (A) versus control (C) using a
+secondary or primary prevention strategy, by different levels of risk (based on age and sex)
+S240
+Figure 39. Meta-analyzed adjusted prevalence of atrial ﬁbrillation from cohorts contributing to the Chronic Kidney
+Disease Prognosis Consortium, by diabetes status
+S241
+Figure 40. Strategies for the diagnosis and management of atrial ﬁbrillation
+S242
+Figure 41. Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with
+warfarin among people with chronic kidney disease in terms of stroke
+S243
+Figure 42. Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with
+warfarin among people with chronic kidney disease in terms of bleeding
+S244
+Figure 43. Evidence from (a) randomized controlled trials (RCTs) regarding therapeutic anticoagulation dose by
+glomerular ﬁltration rate (GFR) and (b) in areas where RCTs are lacking
+S245
+Figure 44. Advice on when to discontinue non–vitamin K antagonist oral anticoagulants (NOACs) before
+procedures (low vs. high risk)
+www.kidney-international.org
+contents
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S121

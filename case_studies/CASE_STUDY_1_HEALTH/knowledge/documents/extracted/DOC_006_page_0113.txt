@@ -1,0 +1,46 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+trends that may help improve health through additional care facilities or education via 
+community outreach. 
+o Real-time monitoring of symptoms (syndromic surveillance) in the event of an outbreak of 
+flu or some other highly communicable disease. 
+o Clinical quality and operations reporting is also improved as providers can more reliably 
+identify challenges and determine if patients are receiving adequate, cost-effective care. 
+o Access to richer patient data allows researchers to collaborate, just like they would for 
+quality and operations reporting, but for the purposes of evaluating areas of concern and 
+opportunity for specific patient populations. Data is the fuel that powers research and in its 
+absence progress stutters and stops. When there is data, it is often in a variety of non-
+compatible formats that slow its use toa trickle. Being able to identify new treatments or 
+evaluate the impacts of existing ones is what drives progress and improves lives. 
+We are just at the cusp of an electronic healthcare revolution. The ability to extract, communicate, and 
+utilize data are foundational for its success and that success relies heavily on interoperability. 
+Components of Interoperability 
+As EHRs emerged in the 1960s, 70s, and 80s, they promised a future that took them beyond being 
+simply a word processor to capture a block of text. They provided new ways of discretely capturing 
+problems, allergies, medications, labs, and a whole host of other facts which could be used to help drive 
+care. These worked well when organizations used one and only one system but struggled when teams 
+needed to exchange data between sites or even integrate new with a new systemat the same site. 
+Imagine you needed to transfer a patient and want to send their high-level information for continuity of 
+care. When you hit “send” to communicate that data from one EHR to another, what is in the message 
+and how is it sent? How can you be sure the receiving system was able to correctly interpret the 
+associated diagnoses, medication, and procedures? 
+As computers and medical records systems started hitting their stride in the 1980s the pressure to allow 
+for more seamless and faithful communication of data increased. There was recognition that to promote 
+improved care, organizations needed to be able to integrate specialized components and tailor them to 
+suit. Groups of like-minded physicians, informaticians, and technologists teamed up or formed entities 
+dedicated to creating and promoting industry standards for representation and exchange of medical 
+data. They worked to establish a variety of standards which could be used to ensure faithful 
+communication of critical data. 
+Interoperability has three primary features: 
+• 
+Semantic: The meaning of each piece of data - the nouns, verbs, and adjectives. Having common 
+definitions to communicate concepts like diagnoses, procedures, laboratory tests, results, and 
+other like notions are critical in communicating meaning. 
+• 
+Syntactic: The structure and process of communication - the grammar. There needs to be 
+agreement on how a computer-to-computer message and its contents should be 
+communicated. 
+Health IT Advisor Handbook 
+Page 108

@@ -1,0 +1,75 @@
+
+
+===== PDF PAGE 5 =====
+
+iii
+﻿ ﻿
+Contents
+Foreword  ������������������������������������������������������������������������������������������������������������ iv
+Acknowledgements ���������������������������������������������������������������������������������������������� v
+Disclosure of interests ���������������������������������������������������������������������������������������� viii
+Abbreviations ������������������������������������������������������������������������������������������������������ ix
+1.	
+Background ��������������������������������������������������������������������������������������������������� 1
+2.	
+Introduction �������������������������������������������������������������������������������������������������� 3
+3.	
+The global framework for diabetes prevention and control ��������������������������������� 5
+Development process ........................................................................................................... 5
+Framework ............................................................................................................................ 7
+Global targets ........................................................................................................................ 9
+Framework domains  .......................................................................................................... 10
+Data sources ........................................................................................................................ 10
+4.	
+Application of the Guidance on global monitoring for diabetes prevention 
+and control in countries ��������������������������������������������������������������������������������� 14
+Adopting/aligning the framework with national diabetes programmes and 
+review processes ................................................................................................................. 14
+Selecting indicators according to priorities and capacities .............................................. 14
+Setting baseline values, thresholds, and targets for each indicator ................................. 15
+Address major gaps in data using standards, innovative methods, and digital 
+technologies ........................................................................................................................ 15
+Strengthening capacities for data analysis, interpretation, and dissemination .............. 15
+Conducting regular reviews to guide decisions and actions ............................................ 15
+5.	
+Indicators and metadata �������������������������������������������������������������������������������� 16
+Health system determinants .............................................................................................. 17
+Service delivery ................................................................................................................... 32
+Risk factors  ......................................................................................................................... 49
+Outcomes and impacts ....................................................................................................... 59
+References ���������������������������������������������������������������������������������������������������������� 69
+Annex ���������������������������������������������������������������������������������������������������������������� 73
+
+
+===== PDF PAGE 6 =====
+
+iv
+Foreword
+Diabetes presents a significant global health challenge, affecting millions worldwide and contributing 
+to premature mortality and morbidity. The prevalence of diabetes is increasing globally and is 
+among the top 10 leading causes of death. In addition, diabetes is a major cause of blindness, kidney 
+failure, heart attacks, stroke and lower-extremity amputation leading to debilitating complications. 
+Much of the burden caused by diabetes can be prevented with evidence-based, individual-level and 
+population-level interventions. 
+The World Health Organization (WHO) is committed to supporting countries in tackling diabetes 
+and its morbidity and mortality burden. The WHO Global Diabetes Compact, launched in 2021, is 
+a central focus of these efforts. The Compact has the vision of reducing the risk of diabetes and 
+ensuring that all people who are diagnosed with diabetes have access to equitable, comprehensive, 
+affordable and quality treatment and care. The work undertaken as part of the Compact will also 
+support the prevention of type 2 diabetes from obesity, unhealthy diet and physical inactivity. One 
+of the key components of the Compact is to strengthen the monitoring and evaluation of diabetes 
+responses through country-level surveillance and monitoring systems. 
+The Guidance on global monitoring for diabetes prevention and control builds on the WHO global 
+monitoring framework on noncommunicable diseases with diabetes-related targets, endorsed 
+by the World Health Assembly in May 2013, as well as the recently adopted five global diabetes 
+coverage targets in 2022. The proposed diabetes indicators in this guidance reflect multiple 
+domains, including health system determinants, service delivery, risk factor control, and outcome 
+and impact. The indicators were designed to be relevant to people living with diabetes and the 
+general population.
+Robust diabetes monitoring indicators are important because they provide insights into where 
+we are and where we need to go. Beyond measuring progress, they can also help to ensure 
+accountability—guiding us towards a future with improved life for people with diabetes. Let us 
+build this future together.
+Dr Jerôme Salomon
+Assistant Director-General 
+Universal Health Coverage/ Communicable and Noncommunicable Disease

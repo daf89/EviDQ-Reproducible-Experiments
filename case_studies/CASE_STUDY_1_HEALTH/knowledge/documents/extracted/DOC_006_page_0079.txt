@@ -1,0 +1,56 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+• 
+Targeting populationsand individuals for interventions: 
+Using EHR data to inform population health is a recurring theme across most QI use cases. EHRs 
+that can calculate CQMs often allow users to “drill down” to a list of individual patients meeting, 
+not meeting, or excluded from a preventive care measure. These lists are often called “gaplists” 
+because they highlight specific gaps in recommended care, and in more robust EHRs can further 
+segment quality data by demographic, administrative, and other parameters useful for targeting 
+interventions. 
+EHR Interventions 
+• 
+Clinical decision support tools: 
+In Section 3 of this handbook, CDS interventions are described as a collection of EHR features 
+and functions designed to draw attention to specific gaps in recommended care. For example, a 
+CDS intervention could be configured as an alert window that pops up in a patient’s chart when 
+age-and gender-appropriate preventive cancer screening tests have not been ordered or 
+performed. 
+CDS is a powerful QI tool, but can exacerbate alert fatigue among providers. Therefore, Health IT 
+Advisors should be cautious before recommending new provider-facing CDS alerts. (Also see 
+Section 3.) 
+• 
+Patient engagement as an intervention: 
+Successful preventive care depends on individuals’ following through with provider’s 
+recommendations for screening tests and procedures -- especially unpleasant procedures like a 
+colonoscopy or a mammogram. EHRs canbe used to deliver patient-facing reminders, education 
+material, encourage virtual visits, and other targeted interventions. (Also see Section 3.) 
+EHRs canalsocollect data (e.g., blood pressure)and online assessmentsdirectlyfrom patients 
+via a portal or smartphone application. For example, a standardized questionnaire to screen for 
+depression such as the Patient Health Questionnaire (PHQ-2 or PHQ-9) can be completed by a 
+patient the day before a visit – freeing up time in the exam room. 
+Exhibit 35. EHR Data Considerations - Improving the Delivery of Preventive Care 
+EHR Element 
+Description 
+Assessment and Plan 
+of Treatment 
+• 
+Assessment and billing codes applied to an encounter may indicate 
+services and tests provided for screening and preventive care. 
+• 
+A treatment plan may include referrals or orders for future screening tests 
+(labs) and procedures (colonoscopy). 
+Clinical Notes 
+• 
+Patient-reported history or screening results from external providers may 
+be recorded as narrative in clinical notes or medical history. 
+Clinical Tests 
+• 
+In office tests and procedures might be used for preventive care or as part 
+of diagnosis, treatment, and management. 
+Diagnostic Imaging 
+• 
+Results for mammograms and other preventive imaging studies may be 
+available as structured data or “hidden” in scanned documents and faxes. 
+Health IT Advisor Handbook 
+Page 74

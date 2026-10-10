@@ -1,0 +1,101 @@
+
+
+===== PDF PAGE 229 =====
+
+Epi Info Overview, Continued 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-7 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Reading Epi 
+Info Output 
+(cont.) 
+95% confidence intervals are provided in the LCL% and UCL% rows of the 
+output tables. In the above example, the 95% confidence interval for the  
+12.6% of men aged 18-44 who currently smoke is 8.1-17.0. 
+ 
+ 
+ 
+Compacting the 
+dataset 
+After you have run several analysis programs, your STEPS.mdb file will 
+expand in size and become very large. When you have finished running your 
+analysis programs (or if there is a noticeable slow down while you are in the 
+middle of your analysis programs), close Epi Info and open your STEPS.mdb 
+file in Access. 
+ 
+To compact your data file back to its usual size, go to the File tab and then 
+click on “Compact & Repair”. After a few seconds your file should be back  
+to its usual size. 
+ 
+ 
+
+
+===== PDF PAGE 230 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-8 
+WHO STEPS Surveillance 
+Completing the Fact Sheet 
+ 
+ 
+ 
+Introduction 
+The STEPS Fact Sheet is a short summary of key results of the STEPS  
+survey. It is intended to be distributed widely to draw attention to the survey 
+results and highlight issues that will be covered in more depth in the survey 
+report. 
+ 
+The STEPS Fact Sheet template and the STEPS Fact Sheet analysis guide are 
+located in Part 6, Section 3 of the Manual. 
+ 
+ 
+Fact Sheet 
+layout 
+The STEPS Fact Sheet contains a short paragraph that briefly describes when 
+and where the STEPS survey has been carried out, the scope of the survey, as 
+well as age groups covered, overall sample size and  response rates, and a   
+short description of the sampling method. Additionally, at the very end of the 
+Fact Sheet there are contact details of the  country  STEPS  Survey 
+Coordinator.   Be sure to complete these pieces of text as well as the data  
+fields. 
+ 
+The main body of the Fact Sheet contains a small number of indicators for 
+each of the behavioural and metabolic risk factors covered in the survey. 
+Additionally, there are a few indicators in which behavioural and metabolic 
+risk factors are combined. For each indicator, results are presented for the 
+overall sample, for all males and for all females. 
+ 
+ 
+ 
+Fact Sheet 
+Analysis Guide 
+The Fact Sheet Analysis Guide has been developed to assist data analysts in 
+preparing the Fact Sheet. It looks similar to the STEPS Fact Sheet, but  
+instead of the results columns, it contains one column that displays the 
+standard question code of the question(s) required to calculate that particular 
+indicator, and one column that includes the names of the Epi Info program 
+that needs to be run to produce results for that indicator. 
+ 
+ 
+ 
+Procedure 
+To complete the STEPS Fact Sheet, it is recommended to first review the Fact 
+Sheet Analysis Guide to determine which Epi Info programs needs to be run.   
+If the relevant questions have been dropped from the local STEPS Instrument, 
+the related line in the Fact Sheet can be removed. 
+ 
+Once all Epi Info analysis programs have been identified, follow the 
+instructions provided in the Epi Info Overview earlier in this Section to run 
+each program. 
+ 
+Point estimates (prevalences or means) should be rounded to one decimal 
+point and be presented with 95% confidence intervals (also rounded to one 
+decimal point). 
+ 

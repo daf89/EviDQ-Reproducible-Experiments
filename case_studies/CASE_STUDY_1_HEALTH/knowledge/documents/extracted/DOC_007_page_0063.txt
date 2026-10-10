@@ -1,0 +1,116 @@
+Key information
+Balance of beneﬁts and harms. Please see Practice Point
+1.2.2.1 regarding the beneﬁt of accurate assessment of GFR for
+clinical decision-making. In clinical practice, there may be
+situations where the estimation of GFR from SCr alone may
+be a source of error, for example, muscle wasting/loss, or
+where greater accuracy of GFR estimation is required for
+clinical decision-making (e.g., drug dosing). In most of these
+situations, estimating GFR using a combined creatinine and
+cystatin C equation provides the required degree of accuracy
+and obviates the need for expensive and time-consuming
+measurement of GFR using an approved gold standard
+methodology. GFR estimating equations that incorporate both
+creatinine and cystatin C have particular beneﬁt in terms of
+improved accuracy in relation to mGFR compared with
+equivalentequationsusingonlyoneofthese markers.91,92,146–149
+In 2 large-scale studies in pooled cohorts of general pop-
+ulation cohorts and clinical populations in North America
+and Europe, the P30 (deﬁned as the percentage of the eGFR
+values within 30% of mGFR) using eGFRcr-cys is in the
+range of 90%,91,147 which is considered optimal.1 Greater
+accuracy of eGFRcr-cys compared with eGFRcr or eGFRcys
+is also observed in studies evaluating GFR estimating
+equations compared with mGFR in other countries such as
+Brazil, Congo, Pakistan, Singapore, Japan, and China, with
+P30 estimated between 80% and 90%,77,78,83,88,93,136,150–154
+which is considered adequate for most decision-making.1
+Potential harms include increased costs, as described
+below, and greater complexity in the interpretation of GFR
+with discrepant results between eGFRcr, eGFRcys, and
+eGFRcr-cys. This in turn may lead to an increased number of
+nephrology consults, especially initially as healthcare pro-
+viders may be unfamiliar with these new tests.
+Certainty of evidence. The Work Group considered the
+overall certainty of the evidence to be moderate to high in
+ambulatory people who were neither frail nor had acute or
+chronic illnesses, and low in other populations due to in-
+consistencies and imprecision in the studies currently avail-
+able in the literature. Most of the studies used in the
+development and initial external validation of these equations
+were performed in ambulatory people who were neither frail
+nor had acute or chronic illnesses. There remains a paucity of
+studies examining the accuracy of eGFR in such pop-
+ulations.142 Many studies that have been performed in such
+populations
+are
+small,
+increasing
+risk
+for
+analytical
+variability, and show inconsistent results among the studies
+even within the same disease. Some reports in populations
+with cancer, HIV, or obesity demonstrate greater accuracy
+for eGFRcr-cys than either eGFRcr or eGFRcys.132–135,155–157
+Consistent with these ﬁndings, a large study of people living
+in Stockholm, Sweden referred for an mGFR test who had
+diagnoses for heart failure, liver failure, cancer, CVD, or
+diabetes found eGFRcr-cys to be the most accurate and
+least biased.82 In other studies of sick or frail people, such
+as very advanced liver or heart failure or those admitted to
+the intensive care unit, all eGFR tests demonstrated very
+low levels of accuracy.73,137,158–161
+There are insufﬁcient data to indicate the accuracy of
+eGFRcr, eGFRcys, or eGFRcr-cys for many diseases. For
+example, in people with high cell turnover such as hematologic
+cancers, we expect that cystatin C would provide highly inac-
+curate estimates due to the increase in cystatin C because of cell
+turnover rather than decreased GFR disease.162–165 However,
+there are no data to evaluate that hypothesis. Importantly, even
+for people from populations where eGFRcr-cys has been
+demonstrated to be more accurate, healthcare providers should
+assess the potential sources of error in eGFR and the need for a
+highly accurate level of GFR. Among people who are frail or
+with multiple comorbid illnesses, eGFRcr-cys may be insufﬁ-
+ciently accurate due to large contributions from non-GFR
+determinants of creatinine, cystatin C, or both markers.
+Conversely, in otherwise healthy populations with decreased
+Table 7| Description of initial and supportive tests for the evaluation of GFR
+GFR assessment method
+Speciﬁc tests
+Guidance for use and implementation
+Estimated GFR
+Creatinine (eGFRcr)
+Most used method to assess GFR. In most cases,
+initial test for the evaluation of GFR.
+Standardized assay required to decrease between-center
+analytical variation
+Cystatin C (eGFRcr-cys, eGFRcys)
+Used in selected circumstances as listed in Table 8
+Standardized assay required to decrease between-center
+analytical variation
+mGFR
+Gold standard. Urinary or plasma clearance of exogenous
+markers (e.g., iohexol, iothalamate, 51Cr-EDTA, and 99mTc-DTPA)
+Used in selected circumstances as listed in Table 8
+Standard protocols for clearance methods and for the
+standardized assay
+Timed urine clearance
+Creatinine
+Highly prone to errors and recommended only when
+no other options for supportive tests for GFR evaluation;
+performance under supervised conditions may decrease error
+Nuclear medicine
+imaging
+Imaging of the kidneys after injection of tracer cleared
+by the kidneys (e.g.,99mTc-DTPA scintigraphy)
+Highly prone to errors; not recommended
+51Cr-EDTA, chromium 51-labeled ethylenediaminetetraacetic acid;
+99mTc-DTPA, technetium 99m-labeled diethylenetriamine pentaacetate; eGFRcr, creatinine-based
+estimated GFR; eGFRcr-cys, creatinine and cystatin C–based estimated GFR; eGFRcys, cystatin C–estimated GFR; GFR, glomerular ﬁltration rate; mGFR, measured glomerular
+ﬁltration rate.
+chapter 1
+www.kidney-international.org
+S178
+Kidney International (2024) 105 (Suppl 4S), S117–S314

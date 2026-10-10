@@ -1,0 +1,182 @@
+TYPE 1 DIABETES
+Recommendations
+2.6 Screen for presymptomatic type 1 
+diabetes by testing autoantibodies 
+against insulin (IA), glutamic acid 
+decarboxylase (GAD), islet antigen 2 
+(IA-2), or zinc transporter 8 (ZnT8). B
+2.7 Autoantibody-based screening 
+for presymptomatic type 1 diabe
+tes should be offered to those 
+with a family history of type 1 dia
+betes or otherwise known elevated 
+genetic risk. B
+2.8a Individuals with screening re
+sults positive for one or more islet 
+autoantibodies should be evaluated 
+for stage 3 (overt) type 1 diabetes 
+(using A1C, urinalysis, and/or plasma 
+glucose), which would require prompt 
+clinical management and education. B
+2.8b Individuals with multiple con
+firmed islet autoantibodies and with
+out overt type 1 diabetes have a high 
+risk for progression to stage 3 type 1 
+diabetes and should be referred to a 
+specialized center for metabolic staging 
+(Table 2.4), education, and consider
+ation of prevention trials or approved 
+treatments (e.g., teplizumab). B
+2.9 Individuals with a single con
+firmed IA-2 autoantibody should be 
+monitored similarly to individuals with 
+multiple islet autoantibodies, as IA-2 
+autoantibody positivity is an indepen
+dent risk factor for progression. B Indi
+viduals with a single confirmed islet 
+autoantibody should undergo repeat 
+antibody testing every 6 months to 3 
+years (depending on age) to assess for 
+persistence or seroconversion. E
+2.10 Standardized islet autoantibody 
+tests are recommended for classifica
+tion of diabetes in adults who have 
+phenotypic risk factors that overlap with 
+those for type 1 diabetes (e.g., younger 
+age at diagnosis, unintentional weight 
+loss, ketoacidosis, or short time to insu
+lin treatment). E
+Immune-Mediated Diabetes
+Autoimmune type 1 diabetes accounts 
+for 5–10% of diabetes and is caused by 
+autoimmune destruction of the pancreatic 
+β-cells. Autoimmune markers include islet 
+cell autoantibodies and autoantibodies to 
+glutamic acid decarboxylase (GAD) (e.g., 
+GAD65), insulin, the tyrosine phosphatases 
+islet antigen 2 (IA-2) and IA-2b, and zinc 
+transporter 8 (ZnT8). Clinical studies are 
+being conducted to test various methods 
+of preventing or delaying type 1 diabetes 
+in those with evidence of islet autoimmu
+nity (trialnet.org/our-research/prevention- 
+studies) (36–38,43,46,47). The disease has 
+strong HLA associations, with linkage to the 
+DQB1 and DRB1 haplotypes, and genetic 
+screening has been used in some research 
+studies to identify high-risk populations. 
+Specific alleles in these genes can be either 
+predisposing (e.g., DRB1*0301-DQB1*0201 
+[DR3-DQ2] and DRB1*0401-DQB1*0302 
+[DR4-DQ8]) or protective (e.g., DRB1*1501 
+and DQA1*0102-DQB1*0602).
+Stage 1 of type 1 diabetes is defined 
+by the presence of two or more of 
+these autoantibodies and normoglyce
+mia (Table 2.4). At stage 1, the 5-year 
+risk of developing symptomatic type 1 
+diabetes is ∼44% overall but varies con
+siderably based on number, titer, and 
+specificity of autoantibodies as well as 
+age of seroconversion and genetic risk 
+(41). Stage 2 includes individuals with is
+let autoantibodies (usually multiple) and 
+dysglycemia not yet diagnostic of diabe
+tes (dysglycemia can be defined by one 
+or more criteria as outlined in Table 
+2.4). At time of progression to stage 2, 
+the risk of developing stage 3 type 1 di
+abetes is ∼60% within 2 years and 
+∼75% within 5 years (48,49).
+Early diagnostic testing (Table 2.4) for 
+stage 3 type 1 diabetes should be per
+formed promptly in any individual with 
+one or more islet autoantibodies to 
+avoid delays in treatment, which can oc
+cur with long wait times for specialty re
+ferrals. Identifying overt hyperglycemia 
+early can help prevent DKA at stage 3 
+diagnosis and guide urgency of referral. 
+In the Diabetes Prevention Trial-Type 1, 
+semiannual OGTT in high-risk family mem
+bers was associated with a relatively low 
+risk of DKA (4%) at disease presentation 
+compared with individuals who had 
+not been enrolled in a monitoring pro
+gram (50). A consensus report pro
+vides guidance on when to perform 
+repeat antibody testing, how meta
+bolic status should be monitored, and 
+how often these factors should be 
+monitored in individuals with positive 
+autoantibodies (51). A single autoanti
+body result requires metabolic evalua
+tion, as some individuals may lose 
+detectable antibodies as they approach 
+stage 3. Specifically, individuals who 
+have a single IA-2 autoantibody should 
+be monitored at the same frequency as 
+multiple-autoantibody–positive individuals, 
+as they have a comparable risk of pro
+gressing through type 1 diabetes stages 
+(52). For single non-IA-2 antibody positivity, 
+progression risk is more heterogenous and 
+depends on age, antibody type, and other 
+risk factors. Evidence from pediatric co
+horts shows that among children with a 
+persistent single islet autoantibody, the 
+10-year cumulative risk of progression 
+to clinical type 1 diabetes is ∼14–15%, 
+with much of the risk accruing in the 
+first 2 years after seroconversion and 
+the highest risk being associated with 
+younger age and single IA-2 autoanti
+body positivity (36). In adults, progres
+sion risk is lower and decreases with 
+age, and prospective data to define an 
+optimal cadence are limited; therefore, in
+tervals are extrapolated from pediatric 
+patterns and clinical diabetes expertise. 
+The practical implication of this informa
+tion is that the four islet autoantibodies 
+(GAD autoantibody, IA-2 autoantibody, in
+sulin autoantibody, ZnT8 autoantibody), 
+a random venous or capillary blood 
+glucose, and an A1C test should be re
+peated at intervals of 6 months to 3 years 
+based on age. In children ≤3 years, test 
+every 6 months for 3 years and then an
+nually for 3 more years. In children and 
+adolescents 3–18 years old, test annu
+ally and consider discontinuing after 
+3 years if no progression to multiple anti
+bodies or onset of dysglycemia. In adults, 
+test every 3 years or annually if additional 
+risk factors are present, such as another 
+autoimmune disease, elevated genetic 
+risk score, or first-degree relative with 
+type 1 diabetes (51).
+In adults with stage 3 type 1 diabe
+tes, isolated GAD autoantibody positiv
+ity is common and has been associated 
+with slower loss of endogenous insulin 
+production after diagnosis (32). In early 
+stages of type 1 diabetes, single GAD65 
+autoantibody positivity is also associ
+ated with slower progression to stage 3 
+compared with IA-2 or ZnT8A autoanti
+body positivity (1,53).
+The rate of β-cell destruction is quite 
+variable, being rapid in some individuals 
+(particularly but not exclusively in in
+fants and children) and slow in others 
+(mainly but not exclusively adults) (40,54). 
+Children and adolescents often present 
+with DKA as the first manifestation of the 
+disease, and rates in the U.S. have in
+creased over the past 20 years (27–29). 
+Others have modest fasting hyperglycemia 
+diabetesjournals.org/care 
+Diagnosis and Classification of Diabetes
+S33 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

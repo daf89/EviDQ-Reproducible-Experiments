@@ -1,0 +1,56 @@
+
+
+===== PDF PAGE 37 =====
+
+25
+5. Measuring BP 
+5
+Measuring BP 
+5.1	 General standardized procedure for proper electronic BP measurements
+When BP is measured in a clinic or at home, the environment should be standardized, and a quiet, relaxed, 
+comfortable setting ensured, with the person seated quietly with their arm outstretched and supported. Stimuli 
+in the area such as a television, use of a telephone or smartphone, a radio or loud conversations or noises 
+should be avoided. The room temperature should, if possible, be neither hot nor cold (Fig. 6).
+Fig. 6. Instructions and recommendations for optimizing observer accuracy in clinical BP measurement 
+Source: Reference (7).
+
+
+===== PDF PAGE 38 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+26
+The following are specific instructions for proper electronic BP measurement (1, 38, 39). 
+Step 1: Properly prepare the patient 
+	 Ask the patient to empty their bladder and to abstain from caffeine, nicotine and 
+exercise for 30 minutes before the BP measurement.
+	 Ask the patient to relax and to sit on a chair with their feet on the floor, legs 
+uncrossed, back supported, ideally for at least 5 minutes. 
+	 Neither the patient nor the observer should talk, read or use electronic devices 
+during the rest period or during the assessment. 
+Step 2: Use the proper technique for BP measurement
+	 Use a validated upper-arm, automated BPMD. 
+	 Identify the appropriate size of cuff for the patient’s mid-upper arm circumference. 
+	
+Many manufacturers mark cuffs to indicate proper fitting. A proper cuff should have:
+– a bladder length 75–100% of the upper mid-arm circumference and
+– a bladder width of 37–50% of the upper mid-arm circumference.
+	 Position the cuff on the patient’s bare upper arm (a light sleeve is acceptable) and 
+centre it over the brachial artery (the centre is marked on most cuffs). The cuff 
+should fit snugly on the arm, allowing no more than two fingers to fit between the 
+distal part of the cuff and the skin. The distal part of the cuff should be positioned 
+1–2 cm above the cubital fossa.
+	 Support the patient’s arm (i.e. resting on a desk with a pillow or book to adjust arm 
+height) so that the middle of the cuff is at heart level. The cuff should not be higher 
+or lower than heart level. 
+Step 3. Activate the device as per the manufacturer’s instructions
+For semi-automated BPMDs (that require manual cuff inflation), ensure that the cuff is inflated to at least 
+30 mm Hg higher than disappearance of the radial or brachial pulse. Most devices will indicate an error if 
+the inflation is inadequate. 
+	 At the first visit, measure BP in both arms. If one arm has a consistently higher reading, use that arm 
+for subsequent readings. If the difference between the two arms is >20 mm Hg for systolic pressure 
+or >10 mm Hg for diastolic pressure on consecutive readings, the subject should be referred to a 
+cardiovascular centre for further evaluation in order to exclude arterial disease. 
+	 Take two or more readings in a seated position to assess usual BP for screening, diagnosis and treatment 
+decisions. Assess standing BP to determine postural hypotension in people with newly diagnosed 
+hypertension, those taking drugs and those who have symptoms of postural hypotension. 
+	 Separate repeated measurements by 1–2 minutes.

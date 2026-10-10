@@ -1,0 +1,40 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+Dr. Chavez: “Ok, but can we just runit for patients I’ve seenin the office in the past year?” 
+Now, we would adjust the initial population in our specification to include only patients seen by Dr. 
+Chavez within the last year. 
+110 patients with hypertension / 2000 patients = 0.055 x 100 = 5.5% 
+Dr. Chavez: “Can we exclude patients with renal disease or pregnancy, two conditions that affect blood 
+pressure?” 
+In this last step, we will add an exclusion to remove patients with pregnancy and/or renal disease from 
+the denominator. Once again, the numerator may or may not be lower after removing the excluded 
+individuals. 
+85 patients with hypertension / (2000 patients -100 excluded patients) = 0.045 x 100 = 4.5% 
+From the Dr. Chavez example, we can see that, as our asks of the data become more complex, so does 
+the reporting burden. For this reason, there is always the underlying question of whether or not there is 
+an existing quality measure that fits an organization’s needs or is there a need to create a measure and 
+subsequent report. 
+Continuing this example, a Health IT Advisor might find that Dr. Chavez’s EHR has a CQM called 
+“Controlling Hypertension” (CMS165, NQF 0018) built into its dashboard for MIPS reporting (this CQM is 
+described above). 
+Note: Clinics are frequently unaware of which measures their EHR may support “out of the box.” In 
+Section 2 we discuss how to search for measures supported by specific EHRs. 
+8.6 Tips for Presenting Clinical Quality Measure Data 
+Health IT Advisors should not only be adept at finding, extracting, and analyzing data on quality 
+performance, but also skilled at presenting these data to diverse audiences. It is not unusual for a single 
+project to incorporate more than one CQM to establish baseline performance, monitor progress, and 
+evaluate success. (See the AHRQ Practice Facilitation Training Module Presenting Performance Data). 
+Below, we review tips for visually organizing CQM performance rates using tables and graphs and 
+discuss how the best approach will depend on your audience. 
+Option 1: Describing CQM data in text 
+CQM data can be presented in text by describing the measures used, references to standard 
+specifications (if used), the measurement period, and the performance rate. For example: 
+“…Between January 1, XXXX and December 31, XXXX, Clinic ABC achieved a performance rate of 50.0% 
+on Controlling Hypertension (CMS 165, NQF 0018). The rate was extracted from the clinic’s EHR 
+(DocuWare 4.5) and includes all providers and all payers.” 
+It is often useful to expand this to include the numerator, denominator, and exceptions/exclusions to 
+provide context to the audience. 
+“…a performance rate of 50.0% (Initial population 210, Numerator 100, Denominator 200, Exclusions 10) 
+on…” 
+Health IT Advisor Handbook 
+Page 96

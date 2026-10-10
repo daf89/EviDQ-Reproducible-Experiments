@@ -1,0 +1,106 @@
+
+
+===== PDF PAGE 65 =====
+
+Indicators and metadata  ﻿
+53
+32. 	Hypertension prevalence
+Indicator name
+Hypertension prevalence
+Purpose
+To measure the prevalence of hypertension among people aged 18 
+years and over.
+Definition
+Proportion of people aged 18 years and over with raised blood pressure or on 
+medication for hypertension.
+Raised blood pressure criteria:
+	
+●
+systolic blood pressure (SBP) ≥140 mmHg; or 
+	
+●
+diastolic blood pressure (DBP) ≥90 mmHg. 
+Numerator
+Number of respondents aged 18 years and over with raised blood pressure or on 
+medication for hypertension. 
+Denominator
+Total number of respondents aged 18 years and over.
+Method of calculation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by individual characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys with blood 
+pressure measurement.
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardization is needed.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+
+
+===== PDF PAGE 66 =====
+
+54
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+33. 	Glycaemic control among people with diabetes based on glycated 
+haemoglobin (HbA1c)
+Indicator name
+Glycaemic control among people with diabetes based on glycated 
+haemoglobin (HbA1c)
+Purpose
+To measure the effectiveness of clinical services for people with diabetes for 
+achieving glycaemic control.
+Definition
+Proportion of people living with diabetes with good glycaemic control based on 
+HbA1c measurement.
+Based on WHO guidelines:
+Clinical target: <7% (53mmol/mol) 
+Global target: <8% (64mmol/mol)
+	
+●
+Glycaemic control can be alternatively defined in accordance with 
+national targets and guidelines.
+	
+●
+This indicator can be derived from population-level surveys or health 
+facility-based routine data. 
+Numerator
+Population survey data: Number of respondents with diabetes with good 
+glycaemic control using HbA1c measurement.
+Facility data: Number of people with diabetes registered in health facilities with 
+good glycaemic control using HbA1c measurement at the last clinical visit during 
+the reporting period, excluding those who were newly diagnosed with less than 
+three months of treatment.
+Denominator
+Population survey data: Total number of respondents with diabetes. 
+Facility data: Total number of people with diabetes registered in health facilities 
+during the reporting period, excluding those who were newly diagnosed with less 
+than three months of treatment.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by type of diabetes, facility level of 
+care type, provider ownership type (public/private), and individual-level 
+characteristics such as age, sex, race/ethnicity, comorbidity status, high-
+risk groups, socioeconomic status, residence type (urban/rural), and health 
+insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys, with 
+HbA1c measurement, health facility patient registers, health records.
+Limitations/comments
+People with unknown status of glycaemic control (e.g. missed appointment/
+dropped out) and patients referred to higher-level care facilities during the 
+reporting quarter will be counted in the denominator and their glycaemic control 
+status will be counted as not controlled.
+Patients known to have transferred to another facility during the reporting 
+quarter will be counted in the denominator and their last known status prior to 
+transfer will be used.
+For comparison with other health care facilities the indicator needs to be 
+age-standardized.

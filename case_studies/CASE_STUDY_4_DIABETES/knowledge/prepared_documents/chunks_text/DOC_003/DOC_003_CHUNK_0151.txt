@@ -1,0 +1,154 @@
+
+
+===== PDF PAGE 301 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4E-4 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+EXPANDED: Violence 
+The next questions ask about behaviours related to your safety. 
+Question 
+Response 
+Code 
+In the past 12 months, have you been frightened for the safety 
+of yourself or your family because of the anger or threats of 
+another person(s)? 
+Yes 
+No 
+Refused 
+1 
+2 If no, go to V19 
+88 If refused, go to V19 
+V17 
+Intimate partner 
+1 
+Parent 
+2 
+Child, sibling, or other relative 
+3 
+Friend or acquaintance 
+4 
+Unrelated caregiver 
+5 
+V18 
+Please specify of whom you were most often frightened. 
+Stranger 
+6 
+Official or legal authority 
+7 
+Other (specify) 
+8 
+Refused 
+88 
+Other (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+V18other 
+No 
+1 
+Yes, for protection 
+2 
+Have you carried a loaded firearm on your person outside the 
+home in the last 30 days? 
+Yes, for work 
+Yes, for sport (e.g. hunting target 
+practice) 
+3 
+4 
+V19 
+Refused 
+88 
+
+
+===== PDF PAGE 302 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4F-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+Objective Measurement of Physical Activity 
+ 
+ 
+Introduction 
+Questions on physical activity are included in Step 1 of the STEPS 
+Instrument. This ‘subjective’ measurement relies on perceptions, memory, 
+and judgments of the participant. However, physical activity can also be 
+assessed ‘objectively’, through quantification of movement. 
+ 
+Common objective measures include devices such as accelerometers (activity 
+watches), pedometers (step-counters), or Global Positioning System (GPS) 
+units. 
+ 
+ 
+Accelerometer 
+or pedometer 
+measurements 
+as part of Step 
+2 
+Measurements of physical activity with accelerometers or pedometers can be 
+integrated in Step 2 of a STEPS survey. These measurements are generally 
+done with a sub-sample, or ideally the entire sample of the survey, whereby 
+each participant should wear the device over a few days. 
+ 
+ 
+ 
+Protocols for 
+objective 
+measurement of 
+physical 
+activity 
+Protocols for the integration of accelerometry and pedometry in Step 2 of a 
+STEPS survey are available from the WHO Geneva STEPS team upon 
+request. The protocols include an introduction to the measurements, 
+background information and objectives, methods on how to implement the 
+measurements, including survey logistics, as well as plans for data analysis 
+and reporting. 
+ 
+ 
+ 
+Instructions 
+and training 
+materials for 
+data collectors 
+Instructions for data collectors, as well as training materials for objective 
+measurement of physical activity as part of STEPS are also available from the 
+WHO Geneva STEPS team upon request. These instructions include a quick 
+check list, information on device preparation, data collection procedures, data 
+recording as well as device cleaning and storage. 
+ 
+ 
+ 
+Instructions for 
+participants 
+Instructions for participants included in objective physical activity measurement 
+with accelerometers or pedometers have also been developed, and are available 
+from the WHO Geneva STEPS team upon request. They include guidelines on 
+how to use the devices and frequently asked questions. 
+ 
+ 
+ 
+Devices at 
+WHO Geneva 
+Countries interested in including objective measurement of physical activity in 
+their STEPS survey may wish to contact the WHO Geneva STEPS team for loan 
+of pedometers or accelerometers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

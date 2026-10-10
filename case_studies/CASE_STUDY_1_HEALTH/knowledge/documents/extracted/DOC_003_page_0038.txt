@@ -1,0 +1,82 @@
+Coronary artery calcium score
+>100 Agatston units
+Carotid-femoral PWV >10 m/s
+Brachial-ankle PWV >14 m/s
+Plaque (focal wall thickening >1.5 mm)
+Cornell voltage: SV3+RaVL>28 mm (men) 
+SV3+RaVL>20 mm (women)
+RaVL ≥11 mm
+Sokolow–Lyon: SV1+RV5 >35 mm
+Cardiac CT
+Pulse wave
+velocity
+Carotid
+or femoral
+ultrasound
+Cardiac
+biomarkers
+Echocardiography
+ECG
+eGFR
+ACR
+Moderate-to-severe kidney disease
+LVH
+LVH
+Diastolic dysfunction
+LV mass/height2.7(g/m2.7):
+>50 (men)
+>47 (women)
+LV mass/BSA(g/m2): 
+>115 (men)
+>95 (women)
+RWT ≥0.43
+LV concentric geometry:
+LA volume/height2 (mL/m2): >18.5 (men)
+>16.5 (women)
+LA volume index (mL/m2): 34
+e’ <7cm; E/e’ >14
+hs-cTnT or I >99th percentile upper
+reference limit
+NT-proBNP >125 pg/mL if age <75 years
+or >450 pg/mL if ≥75 years
+eGFR <60 mL/min/1.73 m2 irrespective
+of albuminuria
+Albuminuria ≥30 mg/g irrespective
+of eGFR
+Assistance
+overcoming
+patient and
+physician inertia
+Individuals <40
+years old with
+elevated blood
+pressure
+Uncertain situations
+(i.e. BP or risk close
+to thresholds,
+masked or white-coat
+hypertension,
+non-traditional
+CVD risk factors)
+Individuals with
+elevated BP with
+SCORE2/SCORE2-OP
+risk of 5–<10%
+Support decision to
+start or intensify BP-
+lowering treatment for:
+Why measure?
+How to diagnose HMOD?
+What to measure?
+Which organ?
+Kidney
+Heart
+Arteries
+Figure 12 Tests and criteria for defining hypertension-mediated organ damage and considerations for their use in clinical practice. ACR, albumin: 
+creatinine ratio; BP, blood pressure; BSA, body surface area; CT, computed tomography; CVD, cardiovascular disease; ECG, electrocardiogram; 
+eGFR, estimated glomerular filtration rate; HMOD, hypertension-mediated organ damage; hs-cTnT, high-sensitivity cardiac troponin T; LA, left atrial; 
+LV, left ventricular; LVH, left ventricular hypertrophy; NT-proBNP, N-terminal pro-brain natriuretic peptide; PWV, pulse wave velocity; RWT, relative 
+wall thickness; SCORE2, Systematic COronary Risk Evaluation 2; SCORE2-OP, Systematic COronary Risk Evaluation 2–Older Persons. More details 
+and references can be found in the Supplementary data online, Tables S1 and S5. 
+ESC Guidelines 3949 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

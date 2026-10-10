@@ -1,0 +1,35 @@
+{
+  "step": "STEP22_INTEGRATED_BLIND_DIAGNOSIS",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-23T16:14:18.950495+00:00",
+  "processor": "Python / Jupyter",
+  "dataset_rows": 1865,
+  "statistical_rules": 6,
+  "documentary_rules": 8,
+  "measurement_only_items": 5,
+  "not_ready_items": 4,
+  "diagnostic_events": 62,
+  "flagged_rows": 62,
+  "dataset_sha256_before": "33b4f47288907c69835e16f39deafade2028b03337c4f47395ffb7fc39cc9369",
+  "dataset_sha256_after": "33b4f47288907c69835e16f39deafade2028b03337c4f47395ffb7fc39cc9369",
+  "dataset_unchanged": true,
+  "principles": {
+    "statistical_flag_is_error": false,
+    "measurement_is_anomaly": false,
+    "documentary_constraint_violation_is_automatically_error": false,
+    "correction_applied": false,
+    "new_rule_created": false,
+    "unsupported_threshold_created": false,
+    "hidden_reference_used": false,
+    "gpt_used": false
+  },
+  "outputs": {
+    "events": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\DIAGNOSIS_REF_events.csv",
+    "row_summary": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\DIAGNOSIS_REF_row_summary.csv",
+    "statistical_execution": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\tables\\Table_Statistical_Rule_Execution.csv",
+    "documentary_execution": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\tables\\Table_Documentary_Rule_Execution.csv",
+    "measurements": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\tables\\Table_Statistical_Descriptive_Measurements.csv",
+    "abstentions": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\tables\\Table_Statistical_Diagnostic_Abstentions.csv",
+    "global_summary": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\03_diagnosis\\step22_integrated_diagnosis\\tables\\Table_Diagnosis_Global_Summary.csv"
+  }
+}

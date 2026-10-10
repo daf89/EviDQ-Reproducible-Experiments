@@ -1,0 +1,18 @@
+I N T R O D U C T I O N
+P R E F A C E 
+Agency for Healthcare Research and Quality (AHRQ) Team: 
+Daniel Miller, MS 
+Jan DeLaMare, MPAff 
+Jesse Crosson, PhD 
+Robert McNellis, MPH, PA 
+This handbook was developed by Abt Associates under contract with AHRQ, Rockville, MD, U.S. 
+Department of Health and Human Services (Contract No. HHSP233201500013I - 75P00120F37008). The 
+suggestions and guidance in this document are those of the authors, who are responsible for its content, 
+and do not necessarily represent the views of AHRQ. No statement in this report should be construed as 
+an official position of AHRQ or of the U.S. Department of Healthand HumanServices. 
+This document is in the public domain and may be used and reprinted without permission except those 
+copyrighted materials that are clearly noted in the document. Further reproduction of those copyrighted 
+materials is prohibited without the specific permission of copyright holders. 
+Suggestedcitation: Obtaining and Using Data in Practice Improvement: A Handbook for Health IT 
+Advisors and Practice Facilitators. AHRQPublicationNo. 22-0028. Rockville, MD; Agencyfor Healthcare 
+Research and Quality; May 2022.

@@ -1,0 +1,159 @@
+Multiple systematic reviews and quality assessments of risk
+prediction equations have been performed in the last 10 years,
+with the most recent review published in 2020.405 This review
+included 35 development studies and 17 external validation
+studies,
+and
+described
+the
+variables
+included
+in
+the
+prediction models and provided a decision aid for selecting
+the
+best
+model
+for
+the
+prediction
+horizon
+and
+the
+underlying etiology of kidney disease. More recently, an
+additional externally validated model using serum cystatin
+C has also been developed in Germany and externally
+validated
+in
+3
+European
+cohorts.409
+A
+summary
+of
+externally validated models for kidney failure is provided
+below and in Table 19.9,10,407–411
+We highlight here 3 validated models, The Kidney Failure
+Risk Equation (KFRE), the Veterans Affairs model, and the Z6
+Score model. All of these use routinely collected data from
+labs or EMRs and have been validated in different pop-
+ulations, both in North America and internationally to
+varying degrees. Detailed review of all existing prediction
+models is beyond the scope of this document.
+The KFRE was developed and initially validated in 8391 adults
+from 2 Canadian provinces, and subsequently validated in
+721,357 individuals from more than 30 countries spanning 4
+continents.9,10 In this large validation study, cohorts from both
+general populations and nephrology clinic
+settings were
+included. Discrimination was excellent (C-statistic >0.80 in 28/
+30 cohorts), and the use of a calibration factor improved
+calibration for some regions outside of North America; the
+validation populations now exceed 2 million individuals in
+more than 60 cohorts from nearly every continent.407,408 The
+KFRE is consistently highly accurate and has not been improved
+by the addition of longitudinal slopes or variability of eGFR and
+urine ACR, or by adding cardiovascular comorbidities.407
+A further 2 externally validated models from large US
+health systems (Kaiser Permanente North West and Veterans
+Affairs) also use routinely collected data and predict kidney
+failure with high accuracy within a 5-year horizon.410,414 Only
+1 externally validated model for kidney failure has been
+developed using serum cystatin C (Z6 model), and although
+it is highly accurate in 4 European cohorts, it has not been
+validated in other continents.409
+The Work Group judged that the published externally vali-
+dated models (delineated in Table 199,10,407–411) all had
+sufﬁcient accuracy to be used in clinical settings. Given the
+potential beneﬁts and utility of knowing the risk of kidney
+failure,
+patients
+and
+healthcare
+providers
+should
+be
+encouraged to use these tools. Assessing risk of progression
+can aid in optimizing healthcare delivery services, facilitate
+the earlier identiﬁcation of individuals for disease-modifying
+therapy, help with planning for modality education, and
+identify goals of care planning. There are limited but
+supportive
+studies
+describing
+the
+better
+prediction
+of
+outcomes when using risk equations compared with care that
+is delivered according to isolated eGFR values and clinical
+judgment. Potential harms from the use of prediction
+equations could result from inappropriate use in the settings
+of AKI or AKD or in younger individuals with CKD G1–G2
+who may be at high risk of progression but low risk of kidney
+failure in the next 5 years. In these people, more proximal
+outcomes such as 40% decline in GFR or lifetime risk were
+judged to be more appropriate (i.e., establishing a validated
+risk equation for the appropriate outcome of interest, derived
+from the population of interest). As described above,
+healthcare providers should be cognizant of the impact of
+biological and analytical variability in albuminuria and eGFR
+values and the subsequent impact on calculation of predicted
+risk of kidney failure.
+Certainty of the evidence. To assess the certainty of evidence,
+the ERTexamined 2 existing systematic reviews addressing the
+question of the ability of risk prediction models to predict
+kidney failure (see Supplementary Table S6).406,415 The 2021
+review from NICE in the United Kingdom (UK) assessed the
+certainty of evidence for a variety of risk-based equations to
+predict kidney failure and concluded that there was high-
+quality evidence to state that the chosen risk prediction
+equations accurately predict kidney failure.415 There was high
+certainty of the evidence (C-statistics were high, and the CIs
+were narrow). The Tangri 2013 review did not assess the
+certainty of evidence as part of the review (Supplementary
+Tables S6–S99,85,89,94,96,408,416).406
+The Work Group agreed with the NICE assessment and
+considered evidence from other systematic reviews and
+recently published validation studies. The certainty of evi-
+dence was based on the established and growing evidence base
+for clinical validation and clinical utility as well as feasibility
+for validated risk prediction equations that predict kidney
+failure.
+Values and preferences. The Work Group judged that the
+accurate prediction of kidney failure was of importance to
+people with CKD, their families, and healthcare providers,
+and that most people with CKD would choose to receive
+prognostic information about their individual risk of kidney
+failure as part of routine care. For a global guideline, the Work
+Group focused on prediction equations that were externally
+validated, had a low risk of bias, and included variables that
+were routinely available in most healthcare settings.
+Resource use and costs. Most externally validated risk
+equations for predicting kidney failure use routinely collected
+data including laboratory variables such as eGFR, albumin-
+uria, and serum albumin, phosphate, calcium, or hemoglo-
+bin,
+or
+information
+on
+demographics
+and
+comorbid
+conditions that can be easily obtained. As such, these models
+can be easily implemented at low cost to health systems. Only
+1 externally validated model (Z6 Score) used cystatin C, and
+its usability in global health will depend on the potential
+increased routine availability of cystatin C in laboratories
+worldwide.
+Considerations
+for
+implementation. Given the potential
+value of risk prediction models for planning and care de-
+cisions, healthcare providers should consider how to integrate
+risk prediction models into clinical practice, either in EMRs,
+laboratory information systems, or using other mechanisms
+chapter 2
+www.kidney-international.org
+S200
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,45 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+1.3 
+Obtaining Organizational Leadership Buy-in 
+Engaging the leadership of a practice and their organizational stakeholders ensures there is a resourced 
+and focused team capable of aligning a practice-wide vision with concrete goals and objectives that the 
+Health IT Advisor can support. This is a key step in any effort to implement evidence-based practice 
+improvements and advanced primary care frameworks. 
+Leadership introduces the practice to concepts important in improving primary care, enters into value
+basedpayment agreements, createsbudgets, determines funding for health IT, allocates time of team 
+members to projects, and sets the stage forthe Health IT Advisor in the practice’s qualityimprovement 
+efforts. Within a health system, practice, or system, leaders are critical in getting attention and 
+engagement from the organization’s health IT vendors, which can be a major barrier. Leaders exist at all 
+levels in healthcare organizations and primary care practices. Local teams may lack the positional power 
+of systemdirectors andexecutives but often have the most to gain(or lose) from changes in practice 
+workflows. Understanding how to identify and engage effective formal and informal leaders at all levels 
+of a practice and/or system will help the Health IT Advisor meet improvement objectives. Effective 
+leadership can expedite decision making, provide strategic credibility, and authorize resource 
+allocations. 
+Dynamic engagement outlasts the one-time pitch. When focusing on implementation, QI data needs, 
+and health IT capabilities, obtaining leadership buy-in should not be a one-time ask. In addition to the 
+recurring funding required for technology licensing, leadership also must regularly invest in team 
+trainings, data extraction, validation, optimization, and reporting to support ongoing data monitoring 
+and quality improvement. 
+1.4 
+Opportunities for Health IT Advisors to Engage Leaders 
+A data-driven business case: QI efforts that also improve the financial standing of a practice have a 
+higher likelihood of leadership support and long-termsustainability. HealthIT Advisors can help teams 
+compile locally relevant data points to define target populations and capture potential savings or new 
+revenue for a team’s proposedinterventions. 
+EXAMPLE: 
+Practice A was hesitant to shiftstaff time from otherduties to address a growing backlog for 
+patients waiting to be scheduled for internal behavioral health and procedure visits.The Health 
+IT Advisor pulled data on the size of the backlog, theaverage collections for these visits, and 
+their internal versus industry standards for conversion rate of internal referral to a completed 
+visit. With this data, the teamfound they could generateover $200,000of additional revenue 
+per year if a dedicated staff member was assigned to schedule an extra100 behavioral health 
+and procedure visits each month from this backlog. Sharing this information with leadership 
+lead to hiring a dedicated staff person for this function. 
+Displaying key data at leadership meetings: Run charts (line charts of data graphed over time; also 
+called run-sequence plots;) and other data visualizations showing data progression over time can be 
+effective tools for orienting leaders to project goals and developing a sense of urgency for making 
+improvements. 
+Health IT Advisor Handbook 
+Page 8

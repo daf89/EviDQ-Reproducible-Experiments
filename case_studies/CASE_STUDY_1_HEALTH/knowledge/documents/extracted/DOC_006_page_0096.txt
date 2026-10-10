@@ -1,0 +1,82 @@
+8. Section 8: Review of Clinical Quality Measures 
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+Clinical quality measures (CQMs) are used to measure and track the quality of healthcare services. They 
+can range from simple metrics devised by an individual clinician to curated collections of related 
+measures. For example, Exhibit 42 includes measure sets used by CMS, Health Resources and Services 
+Administration (HRSA), and commercial payers to assess and compare clinical quality. 
+An example of a “homegrown” measure is presentedat the end of this section and in the Diabetes Case 
+Study presented in Section 6. 
+Common Quality Measures for Quality Improvement 
+Standardized CQMs from many sources are used by various stakeholders to compare the quality of 
+providers, calculate reimbursement and incentives in value-based payment, and to rank payers by 
+quality (the HEDIS 5-Star ratings for commercial Medicare Advantage Plans use CQMs to determine 
+performance on a range of measures). Some examples of common CQMs are shown in Exhibit 42, but by 
+are by no means the only options available for QI projects. 
+Exhibit 42: Examplesof Clinical Quality Measures 
+Clinical Quality Measure 
+Domains or Examples 
+CMS Quality Payment 
+• 
+Patient and Family Engagement 
+Program Measures for 
+• 
+Patient Safety 
+Medicare (MIPS) 
+• 
+Care Coordination 
+Used by CMS to report quality 
+• 
+Population/Public Health 
+data for Medicare incentive 
+• 
+Efficient Use of Healthcare Resources 
+and value-based payment 
+• 
+Clinical Process/Effectiveness 
+programs 
+Link: https://ecqi.healthit.gov/ep-ec?qt-tabs_ep=1 
+Uniform Data System (UDS) 
+Used by Federally Qualified 
+Health Centers (FQHCs) under 
+the U.S. Health Resources & 
+Services Administration 
+(HRSA) 
+• 
+Diabetes Control (HbA1C > 9%, D-5.1) 
+• 
+Hypertension BP Control (BP < 140/90, HDS-12) 
+• 
+Access to Prenatal Care (MICH-10) 
+• 
+Childhood Immunizations (IID-8) 
+• 
+Cervical Cancer Screening (C-15) 
+• 
+Colorectal Cancer Screening (C-16) 
+• 
+Dental Sealants for Children (OH-12.2) 
+• 
+Low Birth Weight (MICH-8.1) 
+Link: https://bphc.hrsa.gov/program-opportunities/sac/uds
+measures-and-hp-goals 
+Healthcare Effectiveness Data • 
+Effectiveness of Care 
+and Information Set (HEDIS) 
+• 
+Access/Availability of Care 
+Used by government and 
+• 
+Experience of Care 
+commercial payers to measure • 
+Utilization and Risk Adjusted Utilization 
+clinical quality for value-based 
+• 
+Health Plan Descriptive Information 
+payment and comparative 
+• 
+Measures Reported Using Electronic Clinical Data Systems 
+provider ratings. 
+Link: https://www.ncqa.org/hedis/ 
+Health IT Advisor Handbook 
+Page 91

@@ -1,0 +1,116 @@
+In all these situations, enhanced communication with the
+patients, and between inpatient and outpatient teams, is neces-
+sary to ensure resumption of medications in a timely manner.
+Special considerations
+Pediatric considerations. Many children with CKD with un-
+derlying tubular disorders have an obligate urine output irre-
+spective of their hydration status and are at particularly high risk
+of hypotension and AKI during an acute dehydrating illness.
+Therefore, temporary discontinuation of medications such as
+diuretics and RASi that may lead to serious complications of
+volume depletion, such as hypotension and AKI, should be
+considered during illnesses. If medications are discontinued
+during an illness, a clear plan of when to restart the discontinued
+medications should be communicated to people with CKD and
+documented in the medical record.
+4.3.1 Strategies to promote drug stewardship
+Practice Point 4.3.1.1: Educate and inform people with
+CKD regarding the expected beneﬁts and possible risks of
+medications so that they can identify and report adverse
+events that can be managed.
+People with kidney disease have a role in drug stewardship,
+and given that they may receive medications from non-
+nephrology healthcare providers, people with CKD should be
+encouraged to inform those prescribers that they have kidney
+disease to facilitate consideration of doses and potential side
+effect of medications. Thus, education and information for
+people with CKD inclusive for their population (i.e., literacy
+level and languages) are encouraged. Although brochures and
+conversations may be useful, interactive electronic health
+applications have been shown to be acceptable to patients and
+may lead them to apply the knowledge gained more effec-
+tively.793–797 Practical implementation tips involve printing
+out the results of the most recent eGFR estimation for the
+patient to bring along in future healthcare consultations and/
+or write down a list of ongoing medications to alert other
+healthcare providers of medication risks and beneﬁts.
+A diagnosis of CKD should always be reﬂected in medical
+records, as this will alert physicians on the need to consider
+adjusting or avoiding certain medications or procedures.
+Under-recognition of CKD diagnoses in medical records is
+associated with medication errors, including potentially
+inappropriate prescription of nephrotoxic medications.729
+Practice Point 4.3.1.2: Establish collaborative relationships
+with other healthcare providers and pharmacists and/or
+use tools to ensure and improve drug stewardship in people
+with CKD to enhance management of their complex
+medication regimens.
+Clinical pharmacists are highly qualiﬁed experts in medi-
+cines and, as part of the multidisciplinary team, can play a
+pivotal role in improving the quality of care and ensuring
+patient safety in a range of ways. This includes carrying out
+structured medication reviews for people with CKD and
+associated health problems and improving patient safety,
+outcomes, and value through a person-centered approach.798–
+800 In addition and where clinical pharmacists are not avail-
+able, clinical decision support systems can optimize this
+process through automation and decision support integrated
+into the EMRs, supporting drug stewardship through alerts to
+healthcare providers on the need for dose adjustment to
+prevent adverse effects. In RCTs enrolling people with CKD,
+electronic clinical decision support systems have demon-
+strated efﬁcacy in reducing medication errors, avoiding drug-
+drug interactions, and improving dose adjustment of medi-
+cations excreted by the kidneys.801–806 Recognizing that many
+of these tools may not be available in all communities, the
+concepts of regular review and evaluation of medications by a
+knowledgeable healthcare provider are a critical component
+of care for people with CKD.
+Special considerations
+Pediatric considerations. Parents and carers should be cen-
+tral to drug stewardship for children with CKD, with
+increasing involvement from the young person as they move
+toward transition.
+4.4 Imaging studies
+Practice Point 4.4.1: Consider the indication for imaging
+studies in accordance with general population indications.
+Risks and beneﬁts of imaging studies should be determined
+on an individual basis in the context of their CKD.
+The use of iodinated radiocontrast media has been asso-
+ciated with the occurrence of AKI, with varying rates reported
+in observational studies depending on the population studied,
+the type, route and dose of agent being used, and the deﬁ-
+nition of nephrotoxicity. The term “contrast-induced AKI”
+has been traditionally coined to describe this condition,807 but
+subsequent research characterizing this entity suggests causal
+links to be weak,807–809 and the term “contrast-associated AKI
+(CA-AKI)” has been suggested instead.
+Although there is potential risk for AKI with contrast
+administration in people with CKD G4–G5, caution should be
+exercised in withholding contrast treatment or evaluation of a
+potentially fatal condition solely based on GFR.810,811 Harm
+Table 32| Medications that should be considered for
+temporary discontinuation before elective surgeries and
+potential perioperative adverse events associated with their
+continued use
+Medications
+Potential perioperative adverse events
+ACEi/ARB
+Hypotension, AKI
+Diuretics
+Volume depletion, AKI
+SGLT2i
+Ketoacidosis (starvation or diabetes)
+Metformin
+Lactic acidosis if AKI occurs
+Aminoglycosides
+Acute tubular necrosis/AKI
+NSAIDs
+AKI, acute interstitial nephritis (AIN)
+ACEi, angiotensin-converting enzyme inhibitor; AKI, acute kidney injury; ARB,
+angiotensin II receptor blocker; NSAID, nonsteroidal anti-inﬂammatory drug; SGLT2i,
+sodium glucose cotransporter-2 inhibitor.
+chapter 4
+www.kidney-international.org
+S252
+Kidney International (2024) 105 (Suppl 4S), S117–S314

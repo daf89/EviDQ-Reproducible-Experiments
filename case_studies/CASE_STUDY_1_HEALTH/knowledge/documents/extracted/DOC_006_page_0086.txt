@@ -1,0 +1,31 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+sophisticatedsoftware fornatural language processing (NLP)may open up how data s tored 
+as free text can be used for QI. 
+4. EHR-delivered interventions depend on consistently entered data that is located in the correct 
+documentation location, consistent workflows, proper training, evidence-based design, and 
+organizational support for success: 
+• 
+Quality interventions using an EHR may involve the delivery of context-sensitive information 
+to a user when a trigger condition is met. We have broadly referred to this in this handbook 
+as a form of CDS. It is imperative that Health IT Advisors carefully consider the quality and 
+completeness of the underlying data used to generate an alert or display clinical 
+information. It does not take long for clinicians to lose confidence when alerts or 
+information pop-ups are firing inappropriately or are incorrect. 
+• 
+CDSalerts and other types of EHR interventions directed towardclinicians require special 
+attention, even when a CDSalert is well designedand incorporates high-quality data. 
+Introducing another “click” to a provider’s workflow cancontribute to alert fatigue even 
+when the notification is timely and accurate. Health IT Advisors must include user input and 
+engage in a formal acceptance process before implementing any interruptive CDS 
+interventions. 
+5. EHRs are not the only health IT tool useful for QI and may not even be the best choice for a 
+given project (see Section 7 for alternative data sources). 
+• 
+As Health IT Advisors get more familiar with specific EHRs, it is tempting to see them as a 
+one-stop source for quality data and for delivering interventions. Remember, though, that 
+the EHR may not always be the best choice: be sure to consider external data sources and 
+even non-technical solutions. The next section of this handbook addresses possible 
+alternatives. 
+Health IT Advisor Handbook 
+Page 81

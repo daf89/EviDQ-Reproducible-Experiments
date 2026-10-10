@@ -1,0 +1,163 @@
+medications,
+metabolic
+acidosis,
+hyperosmosis
+due
+to
+hyperglycemia, hypernatremia or uremia, and constipation
+are more likely to explain plasma potassium abnormalities
+than
+diet.545,556,572,589
+Although
+short-term
+dietary
+restriction of the foods highest in potassium is a valid
+strategy to treat acute hyperkalemia, restriction of foods
+highest in bioavailable potassium may be a supportive
+prevention
+strategy
+for
+people
+with
+a
+history
+of
+hyperkalemia or during periods in which hyperkalemia risk
+is a concern.590 Increased efforts toward education on
+potassium content in foods can serve to improve diet
+quality and diversity for many people with CKD where this
+Table 27| A comparison of potassium exchange agents
+(Polystyrene sulfonates) sodium or calcium
+Patiromer
+Sodium zirconium cyclosilicate (SZC)
+Mechanism of
+action
+Sodium-potassium exchange resin (SPS) or
+calcium-potassium exchange resin (CPS)
+Calcium-potassium exchange polymer
+Crystalline compound that traps Kþ in
+exchange for hydrogen and sodium
+cations
+Counterion
+content
+SPS: Suspension contains 65 mmol/60 ml (15 g)
+of sodium and powder approximately 4.1
+mmol/g of sodium.
+CPS: 1.6–2.4 mmol/g of calcium.
+1600 mg of calcium per 8.4 g of
+patiromer
+Approximately 400 mg of sodium per
+5 g of SZC
+Cations bound
+Potassium, magnesium, and calcium
+Potassium, magnesium, and phosphate
+(bound by calcium release)582
+Potassium
+Formulation
+of route of
+administration
+Powder for reconstitution (oral), suspension
+(oral), and enema (rectal)
+Powder for reconstitution (oral)
+Powder for reconstitution (oral
+suspension)
+Dosage and
+titration
+Oral: 15–60 g/d (up to 4 times per day)
+Rectal: 30 g/d (for SPS up to a maximum
+of 50 g/d)
+Initial: 8.4 g orally once per day
+(maximum 25.2 g orally once per
+day); dose can be increased by 8.4 g
+increments at 1-week intervals
+Initial: 10 g orally 3 times per day for
+up to 48 hours
+Maintenance
+dosing
+15–60 g/d orally per day depending on
+potassium level and level of tolerability
+8.4–25.2 g orally once per day
+5 g every second day to 10 g once
+per day
+Onset of effect
+Variable, hours to days
+4–7 hours
+Starts to reduce potassium within
+1 hour with normokalemia typically
+at 24–48 hours
+Duration
+of effect
+Variable, 6–24 hours
+24 hours
+Not studied; not systematically
+absorbed and excreted fecally
+Administration
+pearls
+Separate from oral medications by at least
+3 hours before or 3 hours after
+administration; if gastroparesis, separate
+other medications by 6 hours
+Separate from oral medications by at
+least 3 hours before or 3 hours after
+administration except for those
+drugs to not have a clinically
+important interaction
+No dose adjustments or separation of
+time of dosing is required for any
+medication that does not have pH-
+dependent bioavailability. However,
+SZC should be administered at least
+2 hours before or 2 hours after oral
+medicinal products with clinically
+meaningful gastric pH-dependent
+bioavailability
+Adverse effects
+GI events (nausea, vomiting, diarrhea,
+constipation), electrolyte disturbances
+(hypokalemia, hypocalcemia, and
+hypomagnesemia), edema, and potentially
+serious GI adverse events (intestinal
+necrosis, bleeding, ischemic colitis, and
+perforation)
+GI events (nausea, diarrhea, and
+ﬂatulence), electrolyte disturbances
+(hypokalemia, hypercalcemia, and
+hypomagnesemia)
+Insufﬁcient postmarketing surveillance
+at present to evaluate long-term/
+rare events
+Hypokalemia and edema events are the
+most common. Milder reports of GI
+events (nausea, diarrhea, and
+constipation)
+Insufﬁcient postmarketing surveillance
+at present to evaluate long-term/
+rare events
+GI, gastrointestinal.
+Modiﬁed from Bridgeman MB, Shah M, Foote E. Potassium-lowering agents for the treatment of nonemergent hyperkalemia: pharmacology, dosing and comparative efﬁcacy.
+Nephrology Dialysis Transplantation, Volume 34, Supplement 3, pages iii45–iii50.581 ª The Author(s) 2019. Published by Oxford University Press on behalf of ERA-EDTA. All
+rights reserved.
+Table 28| Suggested action in the event of moderate and
+severe hyperkalemia
+Severity of
+hyperkalemia
+Clinically unwell or AKI
+Unexpected result
+Moderate
+Kþ 6.0–6.4 mmol/l
+Assess and treat
+in hospital
+Repeat within
+24 hours
+Severe
+Kþ $6.5 mmol/l
+Take immediate action to assess and treat.
+Assessment will include blood testing and
+electrocardiogram monitoring
+AKI, acute kidney injury; Kþ, potassium.
+Data from Think Kidneys, the Renal Association and the British Society for Heart
+Failure.585
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S227

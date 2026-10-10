@@ -1,0 +1,51 @@
+{
+  "step": "STEP16_RULE_BASE_DOCUMENT_FINALIZATION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "rule_base": "RULE_BASE_DOCUMENT",
+  "version": "RULE_BASE_DOCUMENT_CASE2_v1",
+  "created_at_utc": "2026-09-22T17:38:40.571868+00:00",
+  "semantic_processor": "GPT-5.6 Sol",
+  "validation_processor": "Python / Jupyter",
+  "knowledge_source": "DOCUMENT",
+  "input_kb_document_items": 23,
+  "knowledge_items_used_in_rules": 12,
+  "final_rules": 8,
+  "rule_distribution": {
+    "VALIDATION_RULE": 4,
+    "DETECTION_RULE": 2,
+    "CORRECTION_CANDIDATE_RULE": 1,
+    "ERROR_RULE": 1
+  },
+  "executability_distribution": {
+    "NOT_EXECUTABLE": 6,
+    "EXECUTABLE": 2
+  },
+  "controls": {
+    "all_23_knowledge_items_mapped": true,
+    "all_rule_sources_exist_in_kb": true,
+    "feature_type_preserved": true,
+    "rule_type_source_type_validated": true,
+    "executability_independently_checked": true,
+    "dataset_schema_only": true,
+    "dataset_values_inspected": false,
+    "dataset_diagnosis": false,
+    "correction_application": false,
+    "semantic_reasoning_during_finalization": false,
+    "external_knowledge_used": false,
+    "hidden_reference_used": false,
+    "domain_constraint_converted_to_error": false,
+    "detection_converted_to_correction": false,
+    "automatic_correction_created": false,
+    "provenance_preserved": true
+  },
+  "outputs": {
+    "csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\RULE_BASE_DOCUMENT.csv",
+    "jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\RULE_BASE_DOCUMENT.jsonl",
+    "type_validation_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step16_rule_base_document_validation\\tables\\Table_Rule_Type_Validation.csv",
+    "executability_validation_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step16_rule_base_document_validation\\tables\\Table_Rule_Executability_Validation.csv"
+  },
+  "sha256": {
+    "RULE_BASE_DOCUMENT.csv": "1fc1a908d8ac2682caf442df8488588358df566fa8c88966d47eb8235f00526e",
+    "RULE_BASE_DOCUMENT.jsonl": "91cd4ec87de7ef3dc377a8de3c714aaa82a8cab1e636de27364b9314cd3907c8"
+  }
+}

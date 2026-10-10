@@ -1,0 +1,150 @@
+
+
+===== PDF PAGE 383 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-24 
+WHO STEPS Surveillance 
+Cessation 
+Description: Percentage of current smokers who have tried to stop smoking during 
+ 
+ 
+the past 12 months. 
+ 
+Instrument questions: 
+•Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+•During the past 12 months, have you tried to stop smoking? 
+ 
+Current smokers who have tried to stop smoking 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% Tried 
+n 
+ to stop 
+95% CI 
+smoking 
+% Tried 
+n 
+ to stop 
+95% CI 
+smoking 
+% Tried 
+n 
+ to stop 
+95% CI 
+smoking 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T6 
+• Epi Info program name: Tcessation (unweighted); TcessationWT (weighted) 
+ 
+ 
+ 
+Advice to 
+stop 
+smoking 
+Description: Percentage of current smokers who have been advised by a doctor or 
+other health worker to stop smoking, among those smokers who have had a visit to  
+a doctor or other health worker in the past 12 months. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or 
+pipes? 
+• During any visit to a doctor or other health worker in the past 12 months, were 
+you advised to quit smoking tobacco? 
+ 
+Current smokers who have been advised by doctor to stop smoking 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Advised 
+95% CI 
+to stop 
+smoking 
+% 
+n 
+Advised 
+95% CI 
+to stop 
+smoking 
+% 
+n 
+Advised 
+95% CI 
+to stop 
+smoking 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T7 
+• Epi Info program name: Tcessation (unweighted); TcessationWT (weighted) 
+ 
+
+
+===== PDF PAGE 384 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-25 
+WHO STEPS Surveillance 
+Current 
+Description: Percentage of current users of smokeless tobacco among all 
+ 
+ 
+users of 
+smokeless 
+tobacco 
+respondents. 
+ 
+Instrument question: 
+• Do you currently use any smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+ 
+Current users of smokeless tobacco 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Current 
+95% CI 
+users 
+% 
+n 
+Current 
+95% CI 
+users 
+% 
+n 
+Current 
+95% CI 
+users 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T12, T13, T15 
+• Epi Info program name: Tsmokelessstatus (unweighted); TsmokelessstatusWT (weighted) 
+ 

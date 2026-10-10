@@ -1,0 +1,10 @@
+﻿feature,document_id,total_relevant_chunks,SEMANTICS,DOMAIN_CONSTRAINT,ERROR,DETECTION,CORRECTION
+registry_stage_code,DOC01_ENCR_DQ_CHECKS,31,30,29,0,1,0
+registry_stage_code,DOC02_IARC_SP95,7,4,0,0,0,0
+registry_stage_code,DOC05_JRC_ENCR_QCS,1,1,0,0,0,0
+age_diag,DOC01_ENCR_DQ_CHECKS,3,1,2,0,2,1
+age_diag,DOC02_IARC_SP95,8,2,0,1,0,0
+mkb10_code,DOC01_ENCR_DQ_CHECKS,3,3,3,0,0,0
+mkb10_code,DOC02_IARC_SP95,3,0,0,0,0,0
+mkb10_code,DOC03_ENCR_STANDARD_2023,1,0,0,0,0,0
+mkb10_code,DOC04_WHO_ICDO3,6,1,0,0,0,0

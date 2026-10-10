@@ -1,0 +1,111 @@
+8.6.2. Other devices 
+Most device-based therapies investigated for BP-lowering therapy in 
+hypertension have been aimed at modulating the autonomic nervous 
+system activity (baroreflex activation therapy, endovascular barore-
+flex amplification therapy, and carotid body ablation).560 Cardiac 
+neuromodulation therapy aims to lower left ventricular preload by 
+variably altering the atrioventricular interval using a dual-chamber, 
+rate-responsive, implantable pulse generator in patients indicated 
+for implantation or replacement of a dual-chamber pacemaker.591,592 
+Some, though not all, of these devices have shown promising results in 
+non-randomized, single-arm studies. A sham-controlled trial investi-
+gating central iliac arteriovenous stent anastomosis was terminated 
+early after longer-term follow-up data indicated an increase in heart 
+failure in the stent group.561 Therefore, the use of these device-based 
+therapies is not recommended for routinely treating hypertension un-
+til further evidence regarding their safety and efficacy becomes avail-
+able (see Supplementary data online). 
+8.7. Unintended and potentially harmful 
+consequences of blood pressure lowering 
+and implications for treatment targets 
+8.7.1. Adverse effects of blood pressure-lowering 
+medications 
+8.7.1.1. Symptomatic adverse effects 
+BP-lowering medications have multiple side effects, which may be more 
+common in females.536,593,594 Although generally well tolerated, common 
+side effects include headaches, cough, dizziness or light-headedness, diar-
+rhoea or constipation, fatigue, ankle swelling, and erectile problems, de-
+pending on the drug class (see Supplementary data online, 
+Table S9).536,550,593–597 
+In randomized trials of adults aged >60 years, the overall rate of 
+symptomatic BP-lowering drug withdrawal was higher than the rate 
+of placebo withdrawal (approximately 15% vs. 5%).593 A systematic re-
+view, which included 280 638 participants in 58 RCTs, reported no evi-
+dence for an increased relative risk of falls in those taking BP-lowering 
+drugs.550 There was, however, an increased relative risk of mild hyper-
+kalaemia, acute kidney injury, hypotension, and syncope. Furthermore, 
+very frail adults were excluded from BP-lowering trials, which is rele-
+vant because such patients are more prone to adverse effects and poly-
+pharmacy (see Supplementary data online).596 
+8.7.1.2. Renal effects 
+A systematic review reported an increased risk of acute kidney injury and 
+hyperkalaemia associated with BP-lowering treatment.550 Analyses 
+of outcomes by specific drug class showed that drugs affecting the 
+RAAS were more likely to be associated with acute kidney injury 
+and hyperkalaemia.550 
+Patients with significant CKD tend to be excluded from 
+RCTs.137,545,598 It is important to remember these exclusion criteria, 
+and that patients with CKD are more likely to suffer from resistant 
+hypertension, when extrapolating the results of more intensive BP low-
+ering to patients with moderate-to-severe CKD (see Section 9).599 
+8.7.1.3. Erectile dysfunction 
+Older classes of BP-lowering drugs (including diuretics, beta-blockers, 
+and centrally acting medications) are associated with erectile 
+dysfunction.600 However, newer classes have neutral effects.601 
+Angiotensin receptor antagonists may have beneficial effect on erectile 
+function.602 
+8.7.2. Pill burden and non-adherence 
+More intensive treatment of elevated BP and hypertension may be as-
+sociated with an increased risk of polypharmacy and pill burden, which 
+are themselves associated with non-adherence.603,604 Single-pill, fixed- 
+dose drug combinations can help to reduce pill burden and are recom-
+mended to improve adherence (refer to Section 8.3.4). 
+Increased intensity of BP lowering (while ultimately cost reducing in 
+terms of CVD reduction)605 can also result in higher upfront direct and 
+indirect healthcare costs, with more people requiring medication and 
+higher demand for technology-based adherence strategies, which can 
+be challenging to implement, especially in resource-poor settings.604 
+8.7.3. Potentially harmful consequences of blood 
+pressure lowering for frail older people 
+Unintended consequences of BP lowering (hypotension, syncope, falls) can 
+be hazardous for frail older people in particular.606 Retrospective studies 
+have shown that adults aged >75 years from the general population, 
+who would have met the criteria for inclusion in the Systolic Blood 
+Pressure Intervention Trial (SPRINT), had a rate of injurious falls and syn-
+cope that was nearly five times that of the standard care group in the trial. 
+This suggests that healthy participant bias may have contributed to the 
+findings of SPRINT and other similar BP-lowering trials, and that the results 
+may not fully generalize to older adults in more routine clinical care.607 
+Patients’ functional ability should be considered in addition to age to 
+help negate any unintended consequences of BP lowering in a frailer co-
+hort. Despite their chronological age, older patients with hypertension 
+who are fit and can independently carry out activities of daily living will 
+benefit from guideline-directed treatment similar to younger cohorts.131 
+However, tailoring treatment targets and treatment plans for frail older 
+patients is necessary to avoid unintended consequences. This should in-
+clude assessing frailty, including cognitive status, risk of falls, propensity 
+for symptomatic orthostatic hypotension, polypharmacy, and other co-
+morbid conditions.608,609 Of note, and as detailed in Section 9, some 
+data indicate a benefit of more intensive BP-lowering on cognitive func-
+tion.523,610,611 For those with loss of function but preserved activities of 
+daily living, a more detailed geriatric assessment is required to explore 
+the risks and benefits of treatment, as well as considerations for tailoring 
+therapeutic strategies where appropriate. For patients who are both func-
+tionally impaired and unable to carry out activities of daily living, the thera-
+peutic goals of hypertension treatment should be personalized, and 
+medications discontinued where appropriate (see Section 9.3).596 
+8.7.4. Clinical inertia in blood pressure lowering 
+The fear of serious adverse events with BP-lowering medications is of-
+ten cited as a reason for clinical inertia, although the evidence to date 
+from meta-analyses of RCTs suggests these side-effect concerns may 
+be exaggerated.550,612 However, RCTs often select populations with 
+less frailty and multimorbidity who are more likely to tolerate treat-
+ment.613 Consequently, fewer adverse effects might be reported 
+than would be expected in the general population. It remains up to in-
+dividual clinicians to initiate shared decision-making with each patient, 
+especially patients in vulnerable groups and those who have experi-
+enced previous adverse events, weighing up potential benefits against 
+risks of treatment.614,615 
+3968 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

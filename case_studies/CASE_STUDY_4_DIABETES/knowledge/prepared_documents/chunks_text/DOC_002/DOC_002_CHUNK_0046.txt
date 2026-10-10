@@ -1,0 +1,91 @@
+
+
+===== PDF PAGE 91 =====
+
+Annex  ﻿
+79
+Database
+Search
+Benchmarks”)) OR (ti:(“Care Metric”) OR ti:(“Care Metrics”)) OR (ab:(“Care Metric”) OR ab:(“Care 
+Metrics”)) OR (ti:(“Care Index”)) OR (ab:(“Care Index”)) OR (ti:(“Care Indices”)) OR (ab:(“Care 
+Indices”)) OR (ti:(“Health System Indicator”) OR ti:(“Health System Indicators”)) OR (ab:(“Health 
+System Indicator”) OR ab:(“Health System Indicators”)) OR (ti:(“Health System Benchmark”) OR 
+ti:(“Health System Benchmarks”)) OR (ab:(“Health System Benchmark”) OR ab:(“Health System 
+Benchmarks”)) OR (ti:(“Health System Metric”) OR ti:(“Health System Metrics”)) OR (ab:(“Health 
+System Metric”) OR ab:(“Health System Metrics”)) OR (ti:(“Health System Index”)) OR (ab:(“Health 
+System Index”)) OR (ti:(“Health System Indices”)) OR (ab:(“Health System Indices”)) OR (ti:(“Health 
+Facility Indicator”) OR ti:(“Health Facility Indicators”)) OR (ab:(“Health Facility Indicator”) OR 
+ab:(“Health Facility Indicators”)) OR (ti:(“Health Facility Benchmark”) OR ti:(“Health Facility 
+Benchmarks”)) OR (ab:(“Health Facility Benchmark”) OR ab:(“Health Facility Benchmarks”)) OR 
+(ti:(“Health Facility Metric”) OR ti:(“Health Facility Metrics”)) OR (ab:(“Health Facility Metric”) OR 
+ab:(“Health Facility Metrics”)) OR (ti:(“Health Facility Index”)) OR (ab:(“Health Facility Index”)) OR 
+(ti:(“Health Facility Indices”)) OR (ab:(“Health Facility Indices”)) OR (ti:(“Monitoring framework”) OR 
+ti:(“Monitoring frameworks”)) OR (ab:(“Monitoring framework”) OR ab:(“Monitoring frameworks”)) 
+OR (ti:(“Clinical management guideline”) OR ti:(“Clinical management guidelines”)) OR 
+(ab:(“Clinical management guideline”) OR ab:(“Clinical management guidelines”)) OR (ti:(“Core 
+outcome set”) OR ti:(“Core outcome sets”)) OR (ab:(“Core outcome set”) OR ab:(“Core outcome 
+sets”)) OR (ti:(“Metric Selection Process”) OR ti:(“Metric Selection Processs”)) OR (ab:(“Metric 
+Selection Process”) OR ab:(“Metric Selection Processs”)) OR (ti:(“Clinical control parameter”) OR 
+ti:(“Clinical control parameters”)) OR (ab:(“Clinical control parameter”) OR ab:(“Clinical control 
+parameters”)) OR (ti:(“National registry”) OR ti:(“National registries”)) OR (ab:(“National registry”) 
+OR ab:(“National registries”)) OR (ti:(“National database”) OR ti:(“National databases”)) OR 
+(ab:(“National database”) OR ab:(“National databases”)) OR (ti:(“Diabetes audit”) OR ti:(“Diabetes 
+audits”)) OR (ab:(“Diabetes audit”) OR ab:(“Diabetes audits”)) OR (ti:(“Access to healthcare”)) OR 
+(ab:(“Access to healthcare”)) OR (ti:(“Access to health care”)) OR (ab:(“Access to health care”)) OR 
+(ti:(“Healthcare service availability”) OR ti:(“Healthcare services availability”)) OR (ab:(“Healthcare 
+service availability”) OR ab:(“Healthcare services availability”)) OR (ti:(“Health care service 
+availability”) OR ti:(“Health care services availability”)) OR (ab:(“Health care service availability”) 
+OR ab:(“Health care services availability”)) OR (ti:(“Healthcare access”)) OR (ab:(“Healthcare 
+access”)) OR (ti:(“Health care access”)) OR (ab:(“Health care access”)) OR (ti:(“Health economic 
+indicator”) OR ti:(“Health economic indicators”)) OR (ab:(“Health economic indicator”) OR 
+ab:(“Health economic indicators”)) OR (ti:(“Productivity loss”)) OR (ab:(“Productivity loss”)) OR 
+(ti:(“Budget impact”)) OR (ab:(“Budget impact”)) OR (ti:(“Absenteeism”)) OR (ab:(“Absenteeism”)) 
+OR (ti:(“Economic evaluation”)) OR (ab:(“Economic evaluation”)) OR (ti:(“Cost of diabetes”)) OR 
+(ab:(“Cost of diabetes”)) OR (ti:(“Socioeconomic disparity”) OR ti:(“Socioeconomic disparities”)) 
+OR (ab:(“Socioeconomic disparity”) OR ab:(“Socioeconomic disparities”)) OR (ti:(“Health equity”)) 
+OR (ab:(“Health equity”)) OR (ti:(“Socioeconomic factor”) OR ti:(“Socioeconomic factors”)) OR 
+(ab:(“Socioeconomic factor”) OR ab:(“Socioeconomic factors”)) OR (ti:(“Socio-economic factor”) OR 
+ti:(“Socio-economic factors”)) OR (ab:(“Socio-economic factor”) OR ab:(“Socio-economic factors”)) 
+OR (ti:(“Social determinant of health”) OR ti:(“Social determinants of health”)) OR (ab:(“Social 
+determinant of health”) OR ab:(“Social determinants of health”)) OR (ti:(“Prevention strategy”) 
+OR ti:(“Prevention strategies”)) OR (ab:(“Prevention strategy”) OR ab:(“Prevention strategies”)) OR 
+(ti:(“Risk management strategy”) OR ti:(“Risk management strategies”)) OR (ab:(“Risk management 
+strategy”) OR ab:(“Risk management strategies”)) OR (ti:(“Risk factor management”)) OR (ab:(“Risk 
+factor management”)) OR (ti:(“Risk factor reduction”)) OR (ab:(“Risk factor reduction”)) OR (ti:(“Self-
+management strategy”) OR ti:(“Self-management strategies”)) OR (ab:(“Self-management strategy”)
+OR ab:(“Self-management strategies”)) OR (ti:(“Modifiable risk behavior”) OR ti:(“Modifiable 
+risk behaviour”) OR ti:(“Modifiable risk behaviors”) OR ti:(“Modifiable risk behaviours”)) OR 
+(ab:(“Modifiable risk behavior”) OR ab:(“Modifiable risk behaviour”) OR ab:(“Modifiable 
+risk behaviors”) OR ab:(“Modifiable risk behaviours”)) OR (ti:(“Behavioral determinant”) 
+OR ti:(“Behavioral determinants”)) OR (ab:(“Behavioral determinant”) OR ab:(“Behavioral 
+determinants”)) OR (ti:(“Behavioural determinant”) OR ti:(“Behavioural determinants”)) OR 
+(ab:(“Behavioural determinant”) OR ab:(“Behavioural determinants”)) OR (ti:(“Behavioral risk”) OR 
+ti:(“Behavioral risks”)) OR (ab:(“Behavioral risk”) OR ab:(“Behavioral risks”)) OR (ti:(“Behavioural 
+risk”) OR ti:(“Behavioural risks”)) OR (ab:(“Behavioural risk”) OR ab:(“Behavioural risks”)) OR 
+(ti:(“Healthcare professional engagement”) OR ti:(“Healthcare professional engagements”)) OR
+
+
+===== PDF PAGE 92 =====
+
+80
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Database
+Search
+ (ab:(“Healthcare professional engagement”) OR ab:(“Healthcare professional engagements”)) OR 
+(ti:(“Health professional engagement”) OR ti:(“Health professional engagements”)) OR (ab:(“Health 
+professional engagement”) OR ab:(“Health professional engagements”)) OR (ti:(“Public health 
+impact”) OR ti:(“Public health impacts”)) OR (ab:(“Public health impact”) OR ab:(“Public health 
+impacts”)) OR (ti:(“Health policy effectiveness”)) OR (ab:(“Health policy effectiveness”)) OR 
+(ti:(“Policy impact metric”) OR ti:(“Policy impact metrics”)) OR (ab:(“Policy impact metric”) OR 
+ab:(“Policy impact metrics”)) ) ) OR ( ( (ti:(“Diabetes Evaluation”)) OR (ab:(“Diabetes Evaluation”)) 
+OR (ti:(“Diabetes Mellitus Evaluation”)) OR (ab:(“Diabetes Mellitus Evaluation”)) OR (ti:(“Diabetes 
+Surveillance”)) OR (ab:(“Diabetes Surveillance”)) OR (ti:(“Diabetes Mellitus Surveillance”)) 
+OR (ab:(“Diabetes Mellitus Surveillance”)) OR (ti:(“Diabetes Monitoring”)) OR (ab:(“Diabetes 
+Monitoring”)) OR (ti:(“Diabetes Mellitus Monitoring”)) OR (ab:(“Diabetes Mellitus Monitoring”)) ) AND 
+( (ti:(“Indicator”) OR ti:(“Indicators”)) OR (ab:(“Indicator”) OR ab:(“Indicators”)) OR (ti:(“Benchmark”) 
+OR ti:(“Benchmarks”)) OR (ab:(“Benchmark”) OR ab:(“Benchmarks”)) OR (ti:(“Metric”) OR 
+ti:(“Metrics”)) OR (ab:(“Metric”) OR ab:(“Metrics”)) OR (ti:(“Index”)) OR (ab:(“Index”)) OR (ti:(“Indices”)) 
+OR (ab:(“Indices”)) ) ) ) AND ( (ti:(“Consensus”)) OR (ab:(“Consensus”)) OR (ti:(“Framework”) OR 
+ti:(“Frameworks”)) OR (ab:(“Framework”) OR ab:(“Frameworks”)) OR (ti:(“Review”) OR ti:(“Reviews”)) 
+OR (ab:(“Review”) OR ab:(“Reviews”)) OR (ti:(“Delphi”)) OR (ab:(“Delphi”)) )
+Limited to English language

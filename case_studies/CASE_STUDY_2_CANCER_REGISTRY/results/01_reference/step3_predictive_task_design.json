@@ -1,0 +1,49 @@
+{
+    "framework": "DEMARCHE_ENCAD3",
+    "phase": "01_REFERENCE",
+    "step": "03_PREDICTIVE_TASK_DESIGN",
+    "timestamp": "2026-09-20T21:16:00.049818",
+    "dataset_rows": 1902,
+    "dataset_columns": 27,
+    "identifier_candidates": [
+        "registration_number",
+        "disease_id",
+        "birth_date"
+    ],
+    "date_candidates": [
+        "birth_date",
+        "death_date",
+        "diag_date",
+        "diag_date_valid_name"
+    ],
+    "categorical_candidates": [
+        "sex_code",
+        "sex_name",
+        "vital_status_code",
+        "vital_status_name",
+        "diag_year",
+        "diag_date_valid_name",
+        "mkb10_code",
+        "mkb10_name",
+        "mkb10_3char",
+        "histology_code",
+        "icdo3_m_code",
+        "icdo3_m_name",
+        "registry_stage_code",
+        "registry_stage_name",
+        "stage_definition_code",
+        "stage_definition_name",
+        "diagnosis_method_code",
+        "diagnosis_method_name",
+        "finding_code",
+        "finding_name",
+        "administr_unit"
+    ],
+    "continuous_candidates": [
+        "age_diag"
+    ],
+    "model_trained": false,
+    "shap_computed": false,
+    "dataset_modified": false,
+    "reference_rules_used": false
+}

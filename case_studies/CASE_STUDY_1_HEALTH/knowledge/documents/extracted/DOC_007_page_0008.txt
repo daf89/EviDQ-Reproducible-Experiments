@@ -1,0 +1,60 @@
+Table S14. Adults and children with CKD and atrial ﬁbrillation, non–vitamin K antagonist oral anticoagulant
+(NOAC) with warfarin or NOAC alone versus medical treatment—stroke outcomes
+Table S15. Adults and children with CKD and atrial ﬁbrillation, non–vitamin K antagonist oral anticoagulant
+(NOAC) with warfarin or NOAC alone versus medical treatment—bleeding outcomes
+Appendix D – Data supplement - Summary of ﬁndings (SoF) tables not cited in the guideline text
+Chapter 3. Delaying CKD progression and managing its complications
+Table S16. Adults and children with CKD but not type 2 diabetes, steroidal mineralocorticoid receptor agonists
+(MRAs; canrenone, eplerenone, spironolactone) or non-steroidal MRAs (ﬁnerenone, esaxerenone) versus
+active comparator, placebo, or usual care
+Table S17. Adults and children with CKD at risk for cardiovascular disease (CVD), aspirin versus placebo
+Appendix E – PRISMA diagrams
+Chapter 1. Evaluation of CKD
+Figure S1.
+PRISMA diagram for the clinical question “What is the diagnostic and prognostic beneﬁt and safety of
+kidney biopsy among people with CKD?”
+Figure S2.
+PRISMA diagram for the clinical question “What is the diagnostic accuracy of eGFR based on
+measurements of cystatin C, creatinine, or their combination compared to mGFR among people with
+and without CKD?”
+Figure S3.
+PRISMA diagram for the clinical question “In children and young adults with suspected or diagnosed
+CKD, what is the accuracy of ACR and PCR compared to 24-hour excretion of albumin or protein?”
+Figure S4.
+PRISMA diagram for the clinical question “What is the diagnostic accuracy and reproducibility of POC
+blood creatinine compared to laboratory-based tests among people with suspected or diagnosed
+CKD?”
+Figure S5.
+PRISMA diagram for the clinical question “What is the diagnostic accuracy of quantitative and
+semiquantitative protein or albumin urine dipstick tests compared to laboratory-based tests among
+people with suspected or diagnosed CKD?”
+Chapter 3. Delaying CKD progression and managing its complications
+Figure S6.
+PRISMA diagram for the clinical question “What is the effect of SGLT2i compared with placebo, usual
+care, or an active comparator among people with CKD in terms of mortality, progression of CKD,
+complications of CKD, and adverse events?”
+Figure S7.
+PRISMA diagram for the clinical question “What is the effect of MRAs compared with placebo, usual
+care, or an active comparator among people with CKD but not type 2 diabetes in terms of mortality,
+progression of CKD, complications of CKD, and adverse events?”
+Figure S8.
+PRISMA diagram for the clinical question “What is the effect of glucagon-like peptide-1 (GLP-1)
+receptor agonists compared with placebo, usual care, or an active comparator among people with
+CKD but not type 2 diabetes in terms of mortality, progression of CKD, complications of CKD, and
+adverse events?”
+Figure S9.
+PRISMA diagram for the clinical question “What is the effect of uric acid–lowering therapy compared
+with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms
+of mortality, progression of CKD, complications of CKD, and adverse events?”
+Figure S10. PRISMA diagram for the clinical question “What is the effect of aspirin compared to placebo in terms of
+the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?”
+Figure S11. PRISMA diagram for the clinical question “What are the effects of angiography or coronary
+revascularization compared to medical treatment among people with CKD and ischemic heart disease
+in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?”
+Figure S12. PRISMA diagram for the clinical question “What are the effects of NOACs with or without warfarin
+compared to placebo or warfarin alone among people with CKD and atrial ﬁbrillation in terms of
+stroke and bleeding risks?”
+www.kidney-international.org
+contents
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S123

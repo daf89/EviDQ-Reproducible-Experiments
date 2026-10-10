@@ -1,0 +1,59 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_02_PREDICTION_PROTOCOL",
+    "timestamp": "2026-09-17T17:07:27.976849",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "rows": 48784,
+        "columns": 160
+    },
+    "prediction_task": {
+        "target": "risk_score_t",
+        "problem_type": "REGRESSION",
+        "historical_protocol": "DEMARCHE_ENCAD3_BASELINE_GLOBAL_SHAP"
+    },
+    "feature_spaces": {
+        "all_DQ_features": 159,
+        "model_features": 150,
+        "numerical_model_features": 149,
+        "categorical_model_features": 1,
+        "excluded_from_model_only": [
+            "program_enrolled_t",
+            "cost_t",
+            "cost_avoidable_t",
+            "bps_mean_t",
+            "ghba1c_mean_t",
+            "hct_mean_t",
+            "cre_mean_t",
+            "ldl_mean_t",
+            "gagne_sum_t"
+        ]
+    },
+    "modelling_population": {
+        "rows": 48784,
+        "target_missing": 0
+    },
+    "split": {
+        "strategy": "RANDOM_HOLDOUT",
+        "test_size": 0.2,
+        "random_state": 42,
+        "shuffle": true,
+        "train_rows": 39027,
+        "test_rows": 9757,
+        "overlap": 0,
+        "all_rows_covered": true
+    },
+    "safety": {
+        "dataset_modified": false,
+        "target_frozen": true,
+        "preprocessing_fitted": false,
+        "model_trained": false,
+        "shap_calculated": false,
+        "feature_selection_performed": false,
+        "rag_used": false,
+        "knowledge_base_created": false,
+        "errors_injected": false,
+        "corrections_applied": false
+    }
+}

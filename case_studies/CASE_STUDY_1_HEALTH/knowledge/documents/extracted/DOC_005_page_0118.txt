@@ -1,0 +1,59 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+118
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-13 Les équipes maîtrisent le risque 
+infectieux lié au circuit des dispositifs médicaux invasifs
+La maîtrise de toutes les étapes du circuit des dispositifs médicaux invasifs permet de prévenir le risque 
+infectieux.
+Le terme de dispositif médical réutilisable recouvre :
+•   les DM utilisés par les unités de soins, les consultations et les blocs opératoires, conçus par leur 
+fabricant pour être retraités et utilisés plusieurs fois (usage ou nombre de retraitements définis et/
+ou illimités) ;
+•  les dispositifs d’anesthésie ;
+•  les implants livrés non stériles (utilisés chez un patient unique) ;
+•  les accessoires qui suivent le même circuit de retraitement que les DM auxquels ils sont associés ;
+•  les ancillaires en prêt ou en dépôt.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• Les conditions de désinfection et de stockage (locaux, 
+équipements, etc.) des dispositifs médicaux invasifs sont 
+respectées.
+• Les résultats des contrôles microbiologiques des dispo
+sitifs médicaux invasifs réutilisables et des équipements 
+de désinfection et de stockage sont connus des équipes.
+• Les professionnels chargés de la désinfection sont formés.
+• La liste du parc actif des dispositifs médicaux réutilisables 
+invasifs dans les secteurs interventionnels est actualisée.
+• Le compte rendu d’examen identifie les dispositifs médi
+caux invasifs utilisés avec la mention des références du 
+DM. 
+• La désinfection et la référence du dispositif invasif désin
+fecté sont tracées dans le dossier (date, opérateur, équi
+pements ayant servis dans le circuit de désinfection, etc.).
+Traceur ciblé
+Fiche pédagogique
+Évaluation de la prévention des infections 
+associées aux soins.
+Références HAS
+Infections associées aux soins (IAS),
+2019.
+Références légales 
+et réglementaires
+• Art. L. 5126-1 du CSP.
+• Art. R. 61111-1 à 11 du CSP.
+• Décret n° 2020-1536 du 7 décembre 2020 
+relatif au management de la qualité du 
+circuit des dispositifs médicaux stériles 
+dans les établissements de santé et les 
+installations de chirurgie esthétique.
+Autres références
+• Gestion des dispositifs médicaux stériles 
+réutilisables : guide des bonnes pratiques 
+de désinfection des dispositifs médicaux 
+– Ministère de l’Emploi et de la Solidarité, 
+1998.

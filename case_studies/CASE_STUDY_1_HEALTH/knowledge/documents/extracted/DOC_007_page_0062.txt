@@ -1,0 +1,64 @@
+Most people with CKD and their healthcare providers would
+prefer the more accurate assessment of kidney function resulting
+from the use of GFR estimating equations compared with SCr
+alone. Minimal cost or resources issues are expected because
+creatinine is available in healthcare settings globally, and evalu-
+ating GFR with the use of creatinine in the form of GFR esti-
+mating equations has been recommended for >20 years.
+eGFR from creatinine is widely used. Attention is required
+to implement and ensure the quality of eGFR reporting by
+clinical laboratories and ensure coordination with the elec-
+tronic medical record (EMR), including those eGFR reports
+from point-of-care settings (Section 1.2.2).
+Recommendation 1.2.2.1: We recommend using
+eGFRcr-cys in clinical situations when eGFRcr is less
+accurate and GFR affects clinical decision-making
+(Table 8127-142) (1C).
+This recommendation places a high value on using estimates of
+GFR derived from a combination of creatinine and cystatin C in
+clinical situations where eGFRcr is an unreliable or inadequate
+assessment of GFR. There is consistent evidence that eGFRcr-cys
+provides more accurate estimates of mGFR than eGFRcr and
+eGFRcys in ambulatory people.
+Initial test – eGFRcr*
+Consider sources of error and need for
+more accurate assessment.
+Is eGFR thought to be accurate?
+Consider potential sources of error in eGFRcr-cys
+and need for an even more accurate assessment.†
+Is a more accurate assessment needed?
+No
+Yes
+No
+Yes
+Measure
+cystatin C
+Evaluation of GFR for clinical application
+15
+30
+45
+60
+90
+120
+Use eGFRcr
+Measure
+GFR
+Use 
+GFRcr-cys‡
+Figure 11 | Approach to glomerular ﬁltration rate (GFR) evaluation using initial and supportive tests. The algorithm describes the
+approach to the evaluation of GFR. The approach uses initial and supportive testing to develop a ﬁnal assessment of true GFR and to apply it in
+individual decision-making. The initial test for the evaluation of GFR is creatinine-based estimated GFR (eGFRcr), which will be available for most
+people because creatinine is measured routinely as part of the basic metabolic panel. If eGFRcr is expected to be inaccurate, or if a more
+accurate assessment of GFR is needed for clinical decision-making, such as diagnosis or staging of chronic kidney disease or drug dosing, then,
+if available, cystatin C should be measured, and creatinine and cystatin C–based estimated GFR (eGFRcr-cys) should be estimated. If eGFRcr-cys
+is expected to be inaccurate, or if an even more accurate assessment of GFR is needed for clinical decision-making, then, if available, GFR should
+be measured using plasma or urinary clearance of exogenous ﬁltration markers. *Initial test may be estimated GFR by cystatin C (eGFRcys or
+eGFRcr-cys) in otherwise healthy populations with changes in creatinine generation due to non-GFR determinants such as changes in muscle
+mass or creatinine secretion or extrarenal elimination due to the use of speciﬁc medications. †Sources of error in eGFRcr-cys include very low
+muscle mass or very high levels of inﬂammation, high catabolic states, or exogenous steroid use. ‡Consider eGFRcys rather than eGFRcr-cys in
+otherwise healthy populations with decreased creatinine generation due to reduced muscle mass or decreased creatinine secretion or
+extrarenal elimination due to the use of speciﬁc medications.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S177

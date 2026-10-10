@@ -1,0 +1,36 @@
+Summary of recommendation statements and practice
+points
+Chapter 1: Evaluation of CKD
+1.1 Detection and evaluation of CKD
+1.1.1 Detection of CKD
+Practice Point 1.1.1.1: Test people at risk for and with chronic kidney disease (CKD) using both urine albumin mea-
+surement and assessment of glomerular ﬁltration rate (GFR).
+Practice Point 1.1.1.2: Following incidental detection of elevated urinary albumin-to-creatinine ratio (ACR), hematuria,
+or low estimated GFR (eGFR), repeat tests to conﬁrm presence of CKD.
+1.1.2 Methods for staging of CKD
+Recommendation 1.1.2.1: In adults at risk for CKD, we recommend using creatinine-based estimated glomer-
+ular ﬁltration rate (eGFRcr). If cystatin C is available, the GFR category should be
+estimated from the combination of creatinine and cystatin C (creatinine and cystatin
+C–based estimated glomerular ﬁltration rate [eGFRcr-cys]) (1B).
+1.1.3 Evaluation of chronicity
+Practice Point 1.1.3.1: Proof of chronicity (duration of a minimum of 3 months) can be established by:
+(i)
+review of past measurements/estimations of GFR;
+(ii) review of past measurements of albuminuria or proteinuria and urine microscopic
+examinations;
+(iii) imaging ﬁndings such as reduced kidney size and reduction in cortical thickness;
+(iv) kidney pathological ﬁndings such as ﬁbrosis and atrophy;
+(v) medical history, especially conditions known to cause or contribute to CKD;
+(vi) repeat measurements within and beyond the 3-month point.
+Practice Point 1.1.3.2: Do not assume chronicity based upon a single abnormal level for eGFR and ACR, as the ﬁnding
+could be the result of a recent acute kidney injury (AKI) event or acute kidney disease (AKD).
+Practice Point 1.1.3.3: Consider initiation of treatments for CKD at ﬁrst presentation of decreased GFR or elevated ACR
+if CKD is deemed likely due to presence of other clinical indicators.
+1.1.4 Evaluation of cause
+Practice Point 1.1.4.1: Establish the cause of CKD using clinical context, personal and family history, social and envi-
+ronmental factors, medications, physical examination, laboratory measures, imaging, and genetic
+and pathologic diagnosis (Figure 8).
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S149

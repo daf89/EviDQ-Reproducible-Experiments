@@ -1,0 +1,45 @@
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N P R I M A R Y
+C A R E
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N 
+P R I M A R Y C A R E 
+• 
+Adjust risklevels as the patient’s situationchanges orbased on new information from other 
+sources such as inpatient/ER admissions or patient-reporteddata; consider whether “missing” 
+patient data could impact assessment of risk level 
+• 
+Reassessindividual risklevels regularly as they tend to change over time 
+• 
+Document important data in standardizeddata fields to best utilize EHR-generateddata. 
+There are many risk models that will support a clinic’s efforts to assess andstratifytheirpanels. Health 
+IT Advisors can explore additional methods like the ones shown below to help find the best match for 
+practices they support. 
+More Risk Stratification Methods 
+• 
+Health IT Advisors can help practices develop workflows that reinforce patient data entry of 
+health history changes into the patient portal and incorporating new patient-generated data 
+into point of care visits. Workflow changes include asking patients during triage if they have had 
+any ancillary treatments, appointments, or admissions since their last encounter. This self-
+reported information is then entered into the EHR. 
+• 
+Hierarchical Condition Categories (HCCs): Part of the Medicare Advantage Program for 
+CMS, HCC contains 70 condition categories selected from ICD codes and includes expected 
+health expenditures. 
+• 
+AdjustedClinicalGroups (ACG): Developedat Johns Hopkins University, ACG uses both 
+inpatient and outpatient diagnoses to classify each patient into one of 93 ACG categories. It is 
+commonly used to predict hospital utilization. 
+• 
+Elder Risk Assessment (ERA): For adults over 60, ERA uses age, gender, marital status, number 
+of hospital days over the prior two years, and selected comorbid medical illness to assign an 
+index score to each patient. 
+• 
+Chronic Comorbidity Count (CCC): Based on the publicly available information from the Agency 
+for HealthcareResearchandQuality (AHRQ)’s ClinicalClassificationSoftware, CCC is the total 
+sum of selected comorbid conditions grouped into six categories. 
+• 
+Minnesota Tiering (MN): Basedon MajorExtended DiagnosticGroups (MEDCs), MN 
+Tiering groups patients into one of five tiers: Tier 0 (Low: 0 Conditions), Tier 1 (Basic: 1 to 3), 
+Tier 2 (Intermediate: 4 to 6), Tier 3 (Extended: 7 to 9), and Tier 4 (Complex: 10+ Conditions). 
+[104] 
+Health IT Advisor Handbook 
+Page 106

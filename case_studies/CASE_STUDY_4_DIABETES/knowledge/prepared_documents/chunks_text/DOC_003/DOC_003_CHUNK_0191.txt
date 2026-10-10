@@ -1,0 +1,227 @@
+
+
+===== PDF PAGE 381 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-22 
+WHO STEPS Surveillance 
+Frequency 
+Description: Percentage of daily cigarette smokers smoking given quantities of 
+ 
+ 
+of daily 
+cigarette 
+smoking 
+manufactured or hand-rolled cigarettes per day. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• On average, how many of the following products do you smoke each day? 
+ 
+Percentage of daily smokers smoking given quantities of manufactured or hand-rolled cigarettes per day 
+Age 
+Group 
+(years) 
+Men 
+n 
+% <5 
+Cigs. 
+95% CI 
+% 5-9 
+Cigs. 
+95% CI 
+% 10-14 
+Cigs. 
+95% CI 
+% 15-24 
+% 
+Cigs. 
+95% CI 
+≥ 25 
+Cigs. 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of daily smokers smoking given quantities of manufactured or hand-rolled cigarettes per day 
+Age 
+Group 
+(years) 
+Women 
+n 
+% <5 
+Cigs. 
+95% CI 
+% 5-9 
+Cigs. 
+95% CI 
+% 10-14 
+Cigs. 
+95% CI 
+% 15-24 
+% 
+Cigs. 
+95% CI 
+≥ 25 
+Cigs. 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of daily smokers smoking given quantities of manufactured or hand-rolled cigarettes per day 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% <5 
+Cigs. 
+95% CI 
+% 5-9 
+Cigs. 
+95% CI 
+% 10-14 
+Cigs. 
+95% CI 
+% 15-24 
+% 
+Cigs. 
+95% CI 
+≥ 25 
+Cigs. 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T5a, T5b 
+• Epi Info program name: Tcig (unweighted); TcigWT (weighted) 
+ 
+
+
+===== PDF PAGE 382 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-23 
+WHO STEPS Surveillance 
+Former 
+Description: Percentage of former daily smokers among all respondents and among 
+ 
+ 
+daily 
+smokers 
+and 
+former 
+smokers 
+ever daily smokers, and the mean duration, in years, since former smokers quit 
+smoking. 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• In the past did you ever smoke any tobacco products? 
+• In the past, did you ever smoke daily? 
+• How old were you when you stopped smoking? 
+ 
+Former daily smokers (who don’t smoke currently) among all respondents 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Former daily smokers (who don’t smoke currently) among ever daily smokers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+% 
+n 
+Former 
+95% CI 
+daily 
+smokers 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean years since cessation 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+years 
+n 
+Mean 
+95% CI 
+years 
+n 
+Mean 
+95% CI 
+years 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T8, T9, T10, T11a-c 
+• Epi Info program name: Tsmokeexdaily (unweighted); TsmokeexdailyWT (weighted) 
+ 

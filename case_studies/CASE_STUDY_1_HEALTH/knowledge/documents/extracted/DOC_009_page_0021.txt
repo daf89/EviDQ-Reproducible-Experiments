@@ -1,0 +1,323 @@
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+Sample after subsampling
+n/a
+8,192
+6,434
+n/a
+7,849
+11,377
+14,477
+13,094
+12,772
+12,601
+Final in‑scope sample
+6,570
+7,938
+5,825
+6,163
+7,016
+10,155
+12,805
+11,532
+11,589
+11,279
+HMO
+Initial Sample
+534
+809
+436
+555
+382
+965
+1,134
+939
+791
+804
+Sample after subsampling
+n/a
+n/a
+n/a
+n/a
+382
+791
+567
+625
+665
+685
+Final in‑scope sample
+924
+911
+346
+472
+324
+637
+477
+466
+514
+514
+Institution
+Initial Sample
+63
+85
+64
+53
+66
+86
+116
+86
+94
+123
+Sample after subsampling
+n/a
+85
+70
+n/a
+66
+86
+115
+85
+94
+123
+Final in‑scope sample
+53
+80
+70
+45
+63
+79
+107
+77
+90
+113
+Homecare
+Initial Sample
+461
+750
+520
+394
+367
+607
+713
+652
+610
+689
+Sample after subsampling
+n/a
+750
+491
+n/a
+367
+601
+682
+641
+610
+689
+Final in‑scope sample
+385
+662
+445
+340
+317
+471
+606
+579
+555
+619
+Office‑based physician
+Initial Sample
+13,681
+19,157
+12,641
+11,974
+17,407
+33,518
+42,327
+36,804
+34,611
+33,854
+Sample after subsampling
+n/a
+12,635
+10,747
+n/a
+17,407
+26,886
+19,309
+19,731
+26,392
+24,517
+Final in‑scope sample
+10,251
+9,632
+9,334
+10,409
+14,935
+23,376
+17,198
+17,692
+23,446
+21,821
+SBD
+Initial Sample
+12,488
+17,394
+13,658
+14,906
+15,955
+28,905
+30,780
+26,965
+29,271
+28,930
+Sample after subsampling
+n/a
+8,697
+13,658
+n/a
+15,955
+28,930
+30,780
+26,965
+29,271
+28,930
+Final in‑scope sample
+9,187
+6,301
+9,691
+10,100
+9,893
+17,529
+19,977
+17,566
+18,694
+18,720
+Pharmacy
+Initial Sample
+14,531
+20,248
+12,321
+13,183
+14,847
+22,165
+26,046
+22,438
+21,720
+21,077
+Sample after subsampling
+n/a
+n/a
+n/a
+n/a
+14,847
+22,165
+26,046
+22,438
+21,720
+21,077
+Final in‑scope sample
+12,146
+16,241
+10,386
+11,317
+12,728
+19,256
+23,057
+19,649
+18,571
+18,159
+Return to Table of Contents
+Table B‑2. MPC Sample Sizes, Pair Level, 1996‑2024 (continued)
+Table B‑2. MPC Sample Sizes, Pair Level, 2006‑2015
+n/a
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+Hospital
+Initial Sample
+13,071
+11,220
+11,374
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+11,911
+10,646
+10,672
+14,199
+9,960
+10,404
+11,361
+11,017
+10,909
+11,225
+Final in‑scope sample
+10,830
+9,611
+9,600
+12,262
+8,664
+8,978
+10,534
+10,314
+10,048
+10,412
+HMO
+Initial Sample
+694
+852
+968
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+594
+621
+572
+601
+624
+595
+764
+610
+794
+833
+Final in‑scope sample
+476
+459
+449
+601
+478
+458
+702
+541
+667
+752
+Institution
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+21/40

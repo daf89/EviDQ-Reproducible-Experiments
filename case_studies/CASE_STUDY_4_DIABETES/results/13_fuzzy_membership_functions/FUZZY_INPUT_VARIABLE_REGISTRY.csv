@@ -1,0 +1,5 @@
+﻿variable_id,source_metric,scientific_construct,baseline,orientation,natural_anchor,linguistic_terms,membership_family,fuzzy_role,parameter_source
+FZ_PERFORMANCE,Delta_BalancedAccuracy_vs_DQ,Predictive performance change,DQ,signed,0.0,DEGRADED|PRESERVED|IMPROVED,TO_BE_FROZEN,PRIMARY,SCIENTIFIC_PROTOCOL_NOT_ACTION_FITTED
+FZ_EXPLANATION_SHIFT,Abs_Delta_Age_SHAP_vs_DQ,Magnitude of explanation change,DQ,lower_is_more_preserved,0.0,LOW|MODERATE|HIGH,TO_BE_FROZEN,PRIMARY,SCIENTIFIC_PROTOCOL_NOT_ACTION_FITTED
+FZ_STABILITY,Stability_Cosine_Mean,Local SHAP explanation stability,CONDITION_INTRINSIC,higher_is_better,1.0,LOW|MODERATE|HIGH,TO_BE_FROZEN,PRIMARY,SCIENTIFIC_PROTOCOL_NOT_ACTION_FITTED
+FZ_COVERAGE,Coverage,Operational data coverage,FULL_COVERAGE=1,higher_is_better,1.0,LOW|MODERATE|FULL_OR_NEAR_FULL,TO_BE_FROZEN,PRIMARY,SCIENTIFIC_PROTOCOL_NOT_ACTION_FITTED

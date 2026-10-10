@@ -1,0 +1,114 @@
+Pair
+Initial sample after subsampling
+Final eligible sample
+Completion rate
+Refusal rate
+Other nonresponse rate1
+HMOs
+501
+422
+0.886
+0.076
+0.038
+Home care providers
+791
+689
+0.776
+0.083
+0.141
+Institutions
+0
+0
+‑
+‑
+‑
+SBDs
+16,982
+12,203
+0.521
+‑
+0.479
+Pharmacies
+14,673
+12,488
+0.889
+0.046
+0.065
+Total
+60,122
+49,181
+Notes:
+1 “Other nonresponse” includes unlocatable, type 1 disavowal, and other nonresponse.
+Return to Table of Contents
+SBD Node‑Level Results
+Table 3‑5 presents SBD node‑level results. A total of 22,525 nodes were released for data collection in the 2024 cycle. Of
+these, 32.6% were confirmed as ineligible nodes (that is, no charges were recorded for that provider). Of the remaining
+15,236 nodes (67.4% of the total), additional information was obtained for 7,202 nodes for a completion rate of 47.3%.
+Among eligible High priority nodes, the completion rate was 49.6% (n =1,771); among Medium priority nodes, the
+completion rate was 49.9% (n =5,047); among Low priority nodes, 31.9% (n=327); and among the Extra Low priority
+nodes, 13.2% (n=57).
+Table 3‑5. SBD Node‑Level Completion Rate, MPC 2021‑2024
+Nodes
+2021
+2022
+2023
+2024
+Total nodes released
+27,827
+22,486
+24,744
+22,525
+Ineligible nodes
+8,295
+8,719
+9,489
+7,379
+Eligible nodes
+19,532
+13,878
+15,458
+15,236
+Completed nodes
+8,224
+7,789
+8,466
+7,202
+Nonresponse1
+11,308
+5,978
+6,789
+7,944
+Eligibility rate
+70.3%
+61.4%
+62.0%
+67.4%
+Completion rate
+41.9%
+56.1%
+54.8%
+47.3%
+Notes:
+1 In the reports for previous cycles, nodes with a pending disposition at the close of data collection (empty nodes) were reported separately. In this table,
+nodes with final dispositions of “pending” and “refusal” are combined into the “Nonresponse” row.
+Veterans Administration Pairs
+Beginning with the 2020 cycle, RTI generated Excel files containing pairs with Veteran Administration (VA) providers for
+each wave and transmitted those files to AHRQ. Those files were then used by the Health Economics Research Center
+(HERC) to extract the MPC data for the pairs from the VA files. VA providers that are either state administered or
+CHAMPVA are excluded from the files.
+For the 2024 cycle, there were 331 unique Non‑Pharmacy VA pairs and 292 Pharmacy VA pairs. Data was extracted by
+HERC for 318 Non‑Pharmacy pairs and 264 Pharmacy pairs, resulting in a Non‑Pharmacy completion rate of 96.1% and
+90.4% for Pharmacy.
+Refusal Conversion
+Table 3‑6 provides additional information about refusal conversion for the 2021‑2024 MPC cycles. The analytic unit in
+this table is contact group, an operational unit which may consist of several providers who share facilities for medical
+records and billing (e.g., a medical group practice with several physicians or a healthcare system with several hospitals).
+The final column in this table displays the percent of initial refusals that were converted to a participating or partially
+participating contact group (i.e., provided all or some of the requested information). The 2024 MPC cycle refusal
+conversion rates by provider type were: 44.1% for Hospital, 35.5% for OBD, 16.2% for Pharmacy, 22.4% for Home
+Health, and 16.1% for SBD.
+Table 3‑6. Refusal Conversion Outcomes: Final Disposition of Contact Groups Initially Coded as Refusal, MPC 2021‑2024
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+14/40

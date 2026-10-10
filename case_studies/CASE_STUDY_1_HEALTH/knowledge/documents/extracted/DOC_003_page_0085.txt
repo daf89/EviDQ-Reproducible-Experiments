@@ -1,0 +1,155 @@
+57. Stergiou GS, Palatini P, Parati G, O’Brien E, Januszewicz A, Lurbe E, et al. European 
+Society of Hypertension practice guidelines for office and out-of-office blood pres-
+sure measurement. J Hypertens 2021;39:1293–302. https://doi.org/10.1097/hjh. 
+0000000000002843 
+58. Parati G, Stergiou GS, Bilo G, Kollias A, Pengo M, Ochoa J, et al. Home blood pressure 
+monitoring: methodology, clinical relevance and practical application: a 2021 position 
+paper by the working group on blood pressure monitoring and cardiovascular variabil-
+ity of the European Society of Hypertension. J Hypertens 2021;39:1742–67. https://doi. 
+org/10.1097/hjh.0000000000002922 
+59. Bradley CK, Choi E, Abdalla M, Mizuno H, Lam M, Cepeda M, et al. Use of different 
+blood pressure thresholds to reduce the number of home blood pressure monitoring 
+days needed for detecting hypertension. Hypertension 2023;80:2169–77. https://doi. 
+org/10.1161/hypertensionaha.123.21118 
+60. Hodgkinson JA, Lee MM, Milner S, Bradburn P, Stevens R, Hobbs FDR, et al. Accuracy 
+of blood-pressure monitors owned by patients with hypertension (ACCU-RATE 
+study): a cross-sectional, observational study in central England. Br J Gen Pract 2020; 
+70:e548–54. https://doi.org/10.3399/bjgp20X710381 
+61. Niiranen TJ, Asayama K, Thijs L, Johansson JK, Ohkubo T, Kikuya M, et al. 
+Outcome-driven thresholds for home blood pressure measurement: international 
+database of home blood pressure in relation to cardiovascular outcome. 
+Hypertension 2013;61:27–34. https://doi.org/10.1161/hypertensionaha.111.00100 
+62. Parati G, Stergiou G, O’Brien E, Asmar R, Beilin L, Bilo G, et al. European Society of 
+Hypertension practice guidelines for ambulatory blood pressure monitoring. 
+J Hypertens 2014;32:1359–66. https://doi.org/10.1097/hjh.0000000000000221 
+63. Yang WY, Thijs L, Zhang ZY, Asayama K, Boggia J, Hansen TW, et al. Evidence-based 
+proposal for the number of ambulatory readings required for assessing blood pressure 
+level in research settings: an analysis of the IDACO database. Blood Press 2018;27: 
+341–50. https://doi.org/10.1080/08037051.2018.1476057 
+64. Asayama K, Stolarz-Skrzypek K, Yang WY, Hansen TW, Brguljan-Hitij J, Odili AN, et al. 
+What did we learn from the international databases on ambulatory and home blood 
+pressure in relation to cardiovascular outcome? Hypertens Res 2023;46:934–49. 
+https://doi.org/10.1038/s41440-023-01191-4 
+65. Drawz PE, Agarwal A, Dwyer JP, Horwitz E, Lash J, Lenoir K, et al. Concordance be-
+tween blood pressure in the systolic blood pressure intervention trial and in routine 
+clinical practice. JAMA Intern Med 2020;180:1655–63. https://doi.org/10.1001/ 
+jamainternmed.2020.5028 
+66. Jaeger BC, Bress AP, Bundy JD, Cheung AK, Cushman WC, Drawz PE, et al. 
+Longer-term all-cause and cardiovascular mortality with intensive blood pressure con-
+trol: a secondary analysis of a randomized clinical trial. JAMA Cardiol 2022;7:1138–46. 
+https://doi.org/10.1001/jamacardio.2022.3345 
+67. Ntineri A, Niiranen TJ, McManus RJ, Lindroos A, Jula A, Schwartz C, et al. Ambulatory 
+versus home blood pressure monitoring: frequency and determinants of blood pres-
+sure difference and diagnostic disagreement. J Hypertens 2019;37:1974–81. https://doi. 
+org/10.1097/hjh.0000000000002148 
+68. Sheppard JP, Fletcher B, Gill P, Martin U, Roberts N, McManus RJ. Predictors of the 
+home-clinic blood pressure difference: a systematic review and meta-analysis. Am J 
+Hypertens 2016;29:614–25. https://doi.org/10.1093/ajh/hpv157 
+69. Franklin SS, Thijs L, Li Y, Hansen TW, Boggia J, Liu Y, et al. Masked hypertension in dia-
+betes mellitus: treatment implications for clinical practice. Hypertension 2013;61: 
+964–71. https://doi.org/10.1161/hypertensionaha.111.00289 
+70. Guirguis-Blake JM, Evans CV, Webber EM, Coppola EL, Perdue LA, Weyrich MS. 
+Screening for hypertension in adults: updated evidence report and systematic review 
+for the US preventive services task force. JAMA 2021;325:1657–69. https://doi.org/10. 
+1001/jama.2020.21669 
+71. Xu W, Goldberg SI, Shubina M, Turchin A. Optimal systolic blood pressure target, time 
+to intensification, and time to follow-up in treatment of hypertension: population based 
+retrospective cohort study. BMJ 2015;350:h158. https://doi.org/10.1136/bmj.h158 
+72. Antza C, Farmakis I, Doundoulakis I, Akrivos E, Stalikas N, Zafeiropoulos S, et al. 
+Reproducibility of masked hypertension and office-based hypertension: a systematic 
+review and meta-analysis. J Hypertens 2022;40:1053–9. https://doi.org/10.1097/hjh. 
+0000000000003111 
+73. Uhlig K, Patel K, Ip S, Kitsios GD, Balk EM. Self-measured blood pressure monitoring in 
+the management of hypertension: a systematic review and meta-analysis. Ann Intern 
+Med 2013;159:185–94. https://doi.org/10.7326/0003-4819-159-3-201308060-00008 
+74. Tucker KL, Sheppard JP, Stevens R, Bosworth HB, Bove A, Bray EP, et al. 
+Self-monitoring of blood pressure in hypertension: a systematic review and individual 
+patient data meta-analysis. PLoS Med 2017;14:e1002389. https://doi.org/10.1371/ 
+journal.pmed.1002389 
+75. McManus RJ, Mant J, Franssen M, Nickless A, Schwartz C, Hodgkinson J, et al. Efficacy of 
+self-monitored blood pressure, with or without telemonitoring, for titration of antihy-
+pertensive medication (TASMINH4): an unmasked randomised controlled trial. Lancet 
+2018;391:949–59. https://doi.org/10.1016/s0140-6736(18)30309-x 
+76. McManus RJ, Little P, Stuart B, Morton K, Raftery J, Kelly J, et al. Home and Online 
+Management and Evaluation of Blood Pressure (HOME BP) using a digital intervention 
+in poorly controlled hypertension: randomised controlled trial. BMJ 2021;372:m4858. 
+https://doi.org/10.1136/bmj.m4858 
+77. Li R, Liang N, Bu F, Hesketh T. The effectiveness of self-management of hypertension in 
+adults using mobile health: systematic review and meta-analysis. JMIR Mhealth Uhealth 
+2020;8:e17776. https://doi.org/10.2196/17776 
+78. Acharya S, Neupane G, Seals A, Madhav KC, Giustini D, Sharma S, et al. Self-measured 
+blood pressure-guided pharmacotherapy: a systematic review and meta-analysis of 
+US-based telemedicine trials. Hypertension 2024;81:648–57. https://doi.org/10.1161/ 
+hypertensionaha.123.22109 
+79. Monahan M, Jowett S, Nickless A, Franssen M, Grant S, Greenfield S, et al. 
+Cost-effectiveness of telemonitoring and self-monitoring of blood pressure for antihy-
+pertensive titration in primary care (TASMINH4). Hypertension 2019;73:1231–9. 
+https://doi.org/10.1161/hypertensionaha.118.12415 
+80. Wood S, Greenfield SM, Sayeed Haque M, Martin U, Gill PS, Mant J, et al. Influence of eth-
+nicity on acceptability of method of blood pressure monitoring: a cross-sectional study in 
+primary care. Br J Gen Pract 2016;66:e577–586. https://doi.org/10.3399/bjgp16X685717 
+81. Stergiou GS, Karpettas N, Destounis A, Tzamouranis D, Nasothimiou E, Kollias A, et al. 
+Home blood pressure monitoring alone vs. combined clinic and ambulatory measure-
+ments in following treatment-induced changes in blood pressure and organ damage. 
+Am J Hypertens 2014;27:184–92. https://doi.org/10.1093/ajh/hpt206 
+82. Staessen JA, Byttebier G, Buntinx F, Celis H, O’Brien ET, Fagard R. Antihypertensive 
+treatment based on conventional or ambulatory blood pressure measurement. A ran-
+domized controlled trial. Ambulatory blood pressure monitoring and treatment of 
+hypertension investigators. JAMA 1997;278:1065–72. https://doi.org/10.1001/jama. 
+1997.03550130039034 
+83. McEvoy JW, Leahy N, Parati G. The apples and oranges of blood pressure variability. 
+Hypertension 2023;80:2556–8. https://doi.org/10.1161/hypertensionaha.123.21927 
+84. Ishikuro M, Obara T, Metoki H, Ohkubo T, Yamamoto M, Akutsu K, et al. Blood pres-
+sure measured in the clinic and at home during pregnancy among nulliparous and mul-
+tiparous women: the BOSHI study. Am J Hypertens 2013;26:141–8. https://doi.org/10. 
+1093/ajh/hps002 
+85. Bello NA, Woolley JJ, Cleary KL, Falzon L, Alpert BS, Oparil S, et al. Accuracy of blood 
+pressure measurement devices in pregnancy: a systematic review of validation studies. 
+Hypertension 2018;71:326–35. https://doi.org/10.1161/hypertensionaha.117.10295 
+86. Tucker KL, Mort S, Yu LM, Campbell H, Rivero-Arias O, Wilson HM, et al. Effect of 
+self-monitoring of blood pressure on diagnosis of hypertension during higher-risk 
+pregnancy: the BUMP 1 randomized clinical trial. JAMA 2022;327:1656–65. https:// 
+doi.org/10.1001/jama.2022.4712 
+87. Chappell LC, Tucker KL, Galal U, Yu L-M, Campbell H, Rivero-Arias O, et al. Effect of 
+self-monitoring of blood pressure on blood pressure control in pregnant individuals 
+with chronic or gestational hypertension: the BUMP 2 randomized clinical trial. 
+JAMA 2022;327:1666–78. https://doi.org/10.1001/jama.2022.4726 
+88. Tita AT, Szychowski JM, Boggess K, Dugoff L, Sibai B, Lawrence K, et al. Treatment for 
+mild chronic hypertension during pregnancy. N Engl J Med 2022;386:1781–92. https:// 
+doi.org/10.1056/NEJMoa2201295 
+89. Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, Blomström-Lundqvist C, Cífková R, 
+De Bonis M, et al. 2018 ESC Guidelines for the management of cardiovascular diseases dur-
+ing pregnancy. Eur Heart J 2018;39:3165–241. https://doi.org/10.1093/eurheartj/ehy340 
+90. Tikhonoff V, Kuznetsova T, Thijs L, Cauwenberghs N, Stolarz-Skrzypek K, Seidlerová J, 
+et al. Ambulatory blood pressure and long-term risk for atrial fibrillation. Heart 2018; 
+104:1263–70. https://doi.org/10.1136/heartjnl-2017-312488 
+91. Lip GYH, Coca A, Kahan T, Boriani G, Manolis AS, Olsen MH, et al. Hypertension and 
+cardiac arrhythmias: a consensus document from the European Heart Rhythm 
+Association (EHRA) and ESC Council on Hypertension, endorsed by the Heart 
+Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS) and Sociedad 
+Latinoamericana de Estimulación Cardíaca y Electrofisiología (SOLEACE). Europace 
+2017;19:891–911. https://doi.org/10.1093/europace/eux091 
+92. Šelmytė-Besusparė A, Barysienė J, Petrikonytė D, Aidietis A, Marinskis G, Laucevičius 
+A. Auscultatory versus oscillometric blood pressure measurement in patients with at-
+rial fibrillation and arterial hypertension. BMC Cardiovasc Disord 2017;17:87. https://doi. 
+org/10.1186/s12872-017-0521-6 
+93. Omboni S, Ballatore T, Rizzi F, Tomassini F, Campolo L, Panzeri E, et al. 24-Hour am-
+bulatory blood pressure telemonitoring in patients at risk of atrial fibrillation: results 
+from the TEMPLAR project. Hypertens Res 2022;45:1486–95. https://doi.org/10. 
+1038/s41440-022-00932-1 
+94. Seccia TM, Letizia C, Muiesan ML, Lerco S, Cesari M, Bisogni V, et al. Atrial fibrillation as 
+presenting sign of primary aldosteronism: results of the prospective appraisal on the 
+prevalence of primary aldosteronism in hypertensive (PAPPHY) study. J Hypertens 
+2020;38:332–9. https://doi.org/10.1097/hjh.0000000000002250 
+95. McDonagh STJ, Mejzner N, Clark CE. Prevalence of postural hypotension in primary, 
+community and institutional care: a systematic review and meta-analysis. BMC Fam 
+Pract 2021;22:1. https://doi.org/10.1186/s12875-020-01313-8 
+96. Tran J, Hillebrand SL, Meskers CGM, Iseli RK, Maier AB. Prevalence of initial orthostatic 
+hypotension in older adults: a systematic review and meta-analysis. Age Ageing 2021; 
+50:1520–8. https://doi.org/10.1093/ageing/afab090 
+97. Juraschek SP, Hu JR, Cluett JL, Ishak AM, Mita C, Lipsitz LA, et al. Orthostatic hypoten-
+sion, hypertension treatment, and cardiovascular disease: an individual participant 
+meta-analysis. JAMA 2023;330:1459–71. https://doi.org/10.1001/jama.2023.18497 
+3996 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

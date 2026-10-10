@@ -1,0 +1,75 @@
+OB/GYN or Pathology (excluding pathology with pathology CPT codes for the event only in the range 80000‑84999),
+with Outpatient location of service;
+Other specialty with Emergency Room (ER), Hospital Inpatient, or Institution location of service;
+Pathology with Hospital Inpatient or Institution location of service,
+Pediatrics, Psychiatry, or missing specialty with ER location of service; or
+Radiology with any location of service;
+Low priority was assigned when the physician’s role was Active Physician/Providing Direct Care, Don’t know, blank or
+missing and the physician specialty, location of service, and Hospital event CPT codes were one of the following
+combinations:
+General/Family Practice or Internal Medicine, with ER or Outpatient location of service;
+Pediatrics, Psychiatry, Other specialty, missing specialty, or Pathology (with pathology CPT codes for the Hospital event
+in the range 80000‑84999 only), with Outpatient location of service; or
+OB/GYN or Pathology with ER location of service
+Low priority was also assigned for all other roles where the physician specialty was Surgery, Radiology, OB/GYN, or
+Anesthesiology.
+Extra Low priority was assigned for all other roles and specialties (that is, the physician role was something other than
+Active Physician/Providing Direct Care, Don’t know, blank or missing and the physician specialty was Pathologist,
+Internal Medicine, Psychiatry, Pediatrics, General/Family Practice, or Other).
+These criteria for assigning priority status were applied to the 2024 MPC. All High and Medium priority nodes and
+subsamples of the Low and Extra Low priority nodes were fielded. Low and Extra Low priority nodes were undersampled
+relative to the High and Medium priority nodes. The sample was constructed such that all nodes in a pair were fielded.
+Release of SBD pairs emphasized High priority nodes so that SBD providers and billing services would have ample time
+to respond. Four waves were used in the 2024 SBD cycle.
+Prior to SBD sample release and data collection, a computer algorithm identified instances of overlapping OBD and SBD
+providers. The OBD and SBD provider identification numbers were required to be the same to be considered a match by
+the computer algorithm. Nodes identified as directly overlapping an OBD were excluded from subsequent subsampling
+and from SBD data collection. Four situations were considered.
+1. Direct node match—As in recent previous cycles, nodes were filled using the overlap pair with an S‑code event (that is,
+an inpatient, ER, or outpatient event) on the same date at the node. The following situations were also used to
+automatically link OBD and SBD nodes:
+a. Events where the OBD location of service is a physician’s office and the SBD location is outpatient, dates of
+service are the same, and charges and payments are not the same;
+b. Events where the SBD location is inpatient and the OBD date of service is within the range of the inpatient stay
+(excluding first and last day); and
+c. Events where the SBD location of service is either outpatient or inpatient, the CPT4 codes for the OBD are
+associated with Hospital events and are not used in ambulatory settings, and the date of service is either the same
+for an outpatient event or within the date range of the inpatient event, including the first and last day of the stay.
+In the 2024 cycle, 43 nodes were identified as a direct node match.
+2. Systematic coding of obvious disavowal nodes—For a large proportion of the nodes associated with an OBD pair with
+various types of specialty services with a date close to or the same as an OBD event, often the role of the SBD is
+Referring or copied doc. Some examples of this situation are an office visit with an OB/GYN followed closely by a
+mammogram; an office visit with an internist preceded by a blood panel; and an office visit with an orthopedist followed
+closely by an x‑ray.
+The specifications used to identify the disavowal nodes were as follows:
+If the OBD overlap pair does not have an S‑code event within 2 weeks plus or minus of the SBD node, and
+The node is either radiology or pathology (as defined by CPT4 codes that begin with a “7” or “8” or any BETOS
+code in categories 3‑Imaging or 4‑Tests), and
+There is a regular OBD event (defined by CPT4 code that begins with a 99 or a BETOS code of M1A or M1B)
+within 2 weeks plus or minus of the SBD node (i.e., within 14 days before or 14 days after).
+The node was automatically coded as a referring/copied doc when all three of these conditions were met.
+If all OBD events have location of service as physician office, all OBD events have CPT 4 codes that are part of the
+evaluation/management series, and the SBD role is anything other than department head/follow‑up, the SBD was coded as
+a referring/copied doc.
+If all OBD events have location of service as physician office, all OBD events have CPT 4 codes that are part of the
+evaluation/management series, and the SBD role is specified as department head/follow‑up‑doc, then the SBD node was
+coded as department head/follow‑up doc. In the 2024 cycle, 237 nodes were coded as disavowals.
+3. If the overlap pair was a refusal during OBD data collection, the SBD node was automatically coded as a refusal. In the
+2024 cycle, 13 nodes were identified as refusals based on a match to a refusing OBD.
+4. Nodes were also reviewed to determine if any were abstracted in error. The logic for identifying these was when the OBD
+location of service is physician’s office, the SBD location is outpatient, the dates of services are the same, and the charges
+and payments are identical. In the 2024 cycle, 0 nodes were identified as abstracted in error.
+Remaining nodes where the SBDs and OBDs were associated with different provider IDs but possibly overlapped were
+reviewed by senior project staff to determine whether to field the node or not and, if not fielded, the code to describe the
+node’s status. In the 2024 cycle, 842 nodes that were subsampled to be fielded were reviewed and, of these, 398 (47.3%)
+were not fielded and resolved as follows:
+Included in an OBD, that is, a direct match that was not identified in the automated process (109 nodes)
+Disavowal (271 nodes)
+Type 2 Disavowal (30 nodes)
+Referred or copied physician (203 nodes)
+Department head or follow‑up (38 nodes)
+Abstracted in error (4 nodes)
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+8/40

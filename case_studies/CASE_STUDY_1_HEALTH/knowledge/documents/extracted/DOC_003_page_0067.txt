@@ -1,0 +1,131 @@
+9.8.5. Heart rhythm disease (including AF) 
+Not all patients with heart rhythm disease, including those with AF, 
+are at increased risk for CVD and, as such, the management of BP 
+among patients with heart rhythm disease should be the same as for 
+the general adult population.443 However, there is a close relationship 
+between increased BP and AF risk, hence, ensuring good BP control is 
+important.801,802 Management of heart rhythm disorders should follow 
+recommendations in guidelines specific to these conditions.803 
+9.9. Chronic cerebrovascular disease 
+and/or cognitive impairment 
+9.9.1. Role of hypertension in chronic cerebrovascular 
+disease 
+Hypertension is a risk factor for chronic cerebrovascular disease 
+through its direct effects on brain structure and microvasculature. 
+This manifests as transient ischaemic attack (TIA) and stroke in 
+the acute setting, but chronic hypertension can lead to covert stroke 
+and white-matter ischaemic change over time, resulting in cognitive 
+decline and progressive vascular dementia.804–808 Hypertension is 
+also associated with increased risk of Alzheimer’s disease,809 and 
+is a risk factor for developing AF, heart failure, and CKD, all of which 
+are associated with increased risk of developing cognitive impair-
+ment and dementia.810–813 For the purposes of these guidelines, 
+adults with a history of stroke or TIA and elevated BP are consid-
+ered at sufficiently high risk to be considered for BP-lowering 
+drug therapy as outlined in Section 8 and the Central Illustration 
+(Figure 19). 
+9.9.2. Treatment in patients with history of prior 
+stroke or transient ischaemic attack 
+In patients with a prior history of TIA and ischaemic stroke, 
+BP-lowering treatment reduces the risk of any recurrent stroke by 
+20%.814–817 The aetiology of stroke can affect the degree of risk reduc-
+tion with pharmacological treatment, with greater reductions observed 
+for intracerebral haemorrhage and lacunar ischaemic stroke syn-
+dromes.818–820 
+Most prior guidelines recommend an intensive BP target in patients 
+with a prior history of stroke, typically using combination treatment 
+(ACE inhibitor/ARB plus either a calcium channel antagonist or a thia-
+zide/thiazide-like diuretic), with therapy commencing immediately after 
+TIA and within a few days of ischaemic stroke (see Supplementary data 
+online and see Section 10.3 for acute BP management during hospital-
+ization for stroke).814,815,821–824 
+Regimens containing an ACE inhibitor and thiazide/thiazide-like diur-
+etic may be superior to beta-blockers in terms of stroke risk reduc-
+tion.825,826 Regarding intensive BP control after stroke, typically 
+targeting a systolic BP of <130 mmHg, individual trials were somewhat 
+inconclusive, but a meta-analysis showed a reduced risk of recurrent 
+stroke of 22% in the intensive treatment group randomized to a target 
+systolic BP as low as 120 mmHg.543,824,827,828 Caveats to this recom-
+mendation would be for frail patients, who have a much higher rate 
+of stroke and recurrent stroke than the general population, and who 
+are more sensitive to adverse effects of BP-lowering agents (see 
+Section 9.3).596,606,607,829 
+9.9.3. Treatment in patients with chronic 
+cerebrovascular disease and cognitive impairment 
+Treatment of hypertension represents a key mechanism for reducing 
+the global burden of dementia at the population level.830 
+Epidemiological studies have reported associations between mid-life 
+hypertension and development of cognitive decline in later life, with, 
+e.g. mid-life hypertension increasing relative risk of lifetime dementia 
+by 20%–54%.831–837 In one observational meta-analysis, an increased 
+risk for dementia emerged with systolic BP of >130 mmHg.831 
+Evidence for lowering BP to reduce the risk of dementia is limited 
+due to heterogeneity in populations studied, cognitive testing methods 
+used, and the varied use of dementia or cognitive impairment or both as 
+a primary outcome.838,839 Findings from individual studies have mixed 
+results (see Supplementary data online).264,839–843 Studies on effects 
+of BP-lowering treatment on white-matter intensities concluded that 
+patients in the intensive-control arm had less white-matter intensity ac-
+cumulation than in the standard-treatment arm.841,844 Studies in which 
+people with stroke and TIA were included reported a reduced risk of 
+dementia and cognitive decline for the active-treatment group, but a 
+mixed signal for dementia alone.841,845 However, individual studies 
+Recommendation Table 27 — Recommendations for 
+managing hypertension in patients with cardiac disease 
+Recommendations 
+Classa 
+Levelb 
+In patients with a history of myocardial infarction 
+who require BP-lowering treatment, beta-blockers 
+and RAS blockers are recommended as part of that 
+treatment.538 
+I 
+A 
+In patients with symptomatic angina who require 
+BP-lowering treatment, beta-blockers and/or CCBs 
+are recommended as part of that treatment.538 
+I 
+A 
+In patients with symptomatic HFrEF/HFmrEF, the 
+following treatments with BP-lowering effects are 
+recommended to improve outcomes: ACE inhibitors 
+(or ARBs if ACE inhibitors are not tolerated) or 
+ARNi, beta-blockers, MRAs, and SGLT2 
+inhibitors.795 
+I 
+A 
+In hypertensive patients with symptomatic HFpEF, 
+SGLT2 inhibitors are recommended to improve 
+outcomes in addition to their modest BP-lowering 
+properties.795 
+I 
+A 
+In patients with a history of aortic valve stenosis and/ 
+or regurgitation who require BP-lowering treatment, 
+RAS blockers should be considered as part of that 
+treatment.794,796 
+IIa 
+C 
+In patients with a history of moderate-to-severe 
+mitral valve regurgitation who require BP-lowering 
+treatment, RAS blockers should be considered as 
+part of that treatment.794 
+IIa 
+C 
+In patients with symptomatic HFpEF who have BP 
+above target, ARBs and/or MRAs may be considered 
+to reduce heart failure hospitalizations and reduce 
+BP.795,799,800 
+IIb 
+B 
+© ESC 2024
+ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blocker; ARNi, 
+angiotensin receptor–neprilysin inhibitor; BP, blood pressure; CCB, calcium channel 
+blocker; HFpEF, heart failure with preserved ejection fraction; HF(m)rEF, heart failure 
+with (mildly) reduced ejection fraction; MRA, mineralocorticoid receptor antagonist; 
+RAS, renin–angiotensin system; SGLT2, sodium–glucose co-transporter 2. 
+aClass of recommendation. 
+bLevel of evidence. 
+3978 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

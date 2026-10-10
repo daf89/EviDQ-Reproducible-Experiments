@@ -1,0 +1,169 @@
+
+
+===== PDF PAGE 65 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-14 
+WHO STEPS Surveillance 
+Adapting the STEPS Instrument 
+ 
+ 
+ 
+Introduction 
+Use of a standardized STEPS Instrument enables comparisons both within the 
+country over time and also in-between countries. However, the degree to  
+which the Instrument can be standardized across cultures or settings can be 
+limited. 
+ 
+ 
+When to adapt 
+the Instrument 
+Adaptations may need to be made to the STEPS Instrument to provide valid 
+data for the country or to address the needs for information on other risk 
+factors. 
+ 
+The following table provides guidance on when the Instrument can be 
+adapted to local requirements. 
+ 
+Item 
+If… 
+Then… 
+Notes 
+Terminology 
+The terms used in 
+some core questions 
+do not fit the cultural 
+setting (e.g. 
+occupations). 
+Alter the term for 
+local relevance, but 
+ensure the original 
+meaning is retained. 
+Changing the wording can 
+easily alter  the  meaning 
+of a  question.  Seek 
+advice before changing 
+questions. 
+Additional 
+information 
+You require additional 
+data on certain risk 
+factors (e.g. exposure 
+to indoor smoke at 
+public places) and you 
+have available 
+resources. 
+Add selective, but 
+limited questions as 
+optional items. 
+Inserting them in the 
+middle of the 
+core/expanded sections 
+may alter the meaning of 
+the questions. Insert them 
+where they best fit so that 
+they work with the flow 
+of the other questions. 
+Link to 
+previous data 
+You require specific 
+data to link to 
+previous surveys. 
+Add selective, but 
+limited questions as 
+expanded or optional 
+items. 
+Insert the questions where 
+they best fit so that they 
+work with the flow of the 
+other questions. 
+Questions that 
+are considered 
+less relevant 
+Questions asking 
+about a particular 
+health behaviour that 
+is less relevant in your 
+setting, (e.g. type of 
+smokeless tobacco). 
+Drop these questions. 
+Look first at the fact sheet 
+analysis guide and data 
+book to see the impact on 
+removing questions on the 
+analysis. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 66 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-15 
+WHO STEPS Surveillance 
+Adapting the STEPS Instrument, Continued 
+ 
+ 
+ 
+Rules 
+The list below provides some fundamental rules that must be observed when 
+tailoring the STEPS Instrument to create your country-specific instrument. 
+ 
+• Never delete a question or measure from the core sections (unless question 
+is not applicable in your setting). 
+• Never change the standard coding numbers (last column in the survey 
+instrument). 
+• Place additional questions or measures where they best fit within relevant 
+section as an expanded or optional item. 
+• Do not place additional questions or measures in between core questions or 
+measures. 
+• Code all added questions or measures with the letter 'X' plus a number (e.g. 
+X1, X2…). 
+• Remove the expanded sections and Steps (i.e. Step 3) that are not being 
+covered by your country from the Instrument. 
+• Amend the skip instructions if expanded or optional items are removed 
+from or added to any section. 
+• Review all skip instructions. 
+• Send a draft of your adapted STEPS Instrument to the WHO Regional 
+Office and the Geneva STEPS team for review before finalizing. 
+ 
+ 
+Process 
+The process of adapting the STEPS Instrument involves the following key 
+stages: 
+ 
+Stage 
+Description 
+1 
+Identifying questions that require local adaptation. 
+2 
+Adapting wording or adding questions or response options and 
+adjusting skip instructions. 
+3 
+Adapting other forms as appropriate. 
+4 
+Seeking feedback and advice. 
+5 
+Translating and back translating the country-specific instrument. 
+6 
+Pilot testing the country-specific instrument. 
+7 
+Adapting the data analysis code and reporting templates as 
+appropriate. 
+ 
+Note: Further details on each of these stages are provided in the following 
+pages. 
+ 
+ 
+Available 
+support 
+The WHO STEPS team is available at all stages of this process for  
+consultation and technical advice. To enable the WHO STEPS team to assist 
+with data analyses and weighting of the data, please ensure that they receive a 
+copy of the Instrument prior to finalization. 
+ 
+Continued on next page 

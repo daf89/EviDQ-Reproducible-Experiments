@@ -1,0 +1,160 @@
+with an eGFR of <60 ml/min per 1.73 m2 at baseline (among
+whom 71 primary outcomes accrued) were compared with
+the 5181 people with an eGFR of $60 ml/min per 1.73 m2
+(568 outcomes).611
+Certainty of evidence. The overall certainty of the evidence
+for uric acid–lowering therapy among people with CKD and
+hyperuricemia
+is
+very
+low
+(see
+Supplementary
+Table
+S11150,612–614). The critical outcome of delaying progression
+of CKD was addressed by 7 RCTs.150,612,615–619 The 2 largest
+RCTs were considered to have a low risk of bias.615,616 The
+certainty of the evidence was downgraded for inconsistency
+because
+there
+was
+substantial
+statistical
+heterogeneity
+detected in the meta-analysis (I2 ¼ 50%) and the estimated
+RRs ranged from 0.05 to 2.96. The certainty of the evidence
+was
+further
+downgraded
+because
+of
+very
+serious
+imprecision. There were 81 kidney failure events among the
+participants in the 7 trials.
+The overall certainty of the evidence for delaying pro-
+gression is very low, and the certainty for the critical harm
+outcomes, such as cutaneous reactions, hypersensitivity, and
+hepatotoxicity, was graded as low. However, the certainty of
+evidence for uric acid–lowering interventions in reducing
+frequency and severity of gout attack, and limiting tophaceous
+deposition is consistently high, so the recommendation is
+given an overall grade of level C.
+Values and preferences. People with gout have reported
+that they were initially hesitant to start uric acid–lowering
+therapy, but that after experiencing improved control of
+inﬂammatory symptoms and tophi, they became strong
+advocates for its earlier institution.607
+Resource use and costs. There are several generic xanthine
+oxidase inhibitors that are well tolerated and widely available
+at low cost.
+Considerations for implementation. In most countries, the
+cost and availability of uric acid–lowering therapies make
+the medications very accessible. The risk of serious adverse
+events (e.g., Stevens-Johnson syndrome) is related to the
+presence
+of
+speciﬁc
+human
+leukocyte
+antigen
+(HLA)
+*B5801, which is more common in those of Han Chinese,
+Korean, Thai, and African descent. In speciﬁc regions,
+assessment
+of
+the
+HLA
+type
+is
+recommended
+before
+commencing the drug; where testing is not available, close
+monitoring at initiation of the medication should be un-
+dertaken. At the current time, there is no indication to
+commence medication for high serum uric acid levels in
+the absence of symptoms.
+Rationale
+Uric acid–lowering therapy reduces uric acid levels and their
+associated symptomatic joint and skin complications, and are
+generally safe to use.
+Practice Point 3.14.1: Consider initiating uric acid–lowering
+therapy for people with CKD after their ﬁrst episode of gout
+(particularly where there is no avoidable precipitant or serum
+uric acid concentration is >9 mg/dl [535 mmol/l]).
+Although the initiation of uric acid–lowering therapy in
+people with a ﬁrst gouty arthritis episode and no tophi was
+not recommended by the American College of Rheumatology,
+uric acid–lowering therapy use was suggested to be initiated
+in people with CKD G3–G5, serum uric acid concentration
+>9 mg/dl (>535 mmol/l), or urolithiasis at the time of their
+ﬁrst episode of gout. This was justiﬁed by the higher risk of
+gout progression and development of clinical tophi in
+CKD.607 The ERT evidence review identiﬁed that uric acid–
+lowering therapy results in an increased risk of a gout ﬂare
+during the ﬁrst 3 months after initiation in people with
+CKD. This is an expected short-term risk of uric acid
+lowering that people should be counseled about when
+initiating such therapy. Two relatively small randomized
+trials
+have
+suggested
+that
+starting
+uric
+acid–lowering
+therapy during a gout ﬂare does not appear to extend ﬂare
+duration.620,621 Once initiated, the American College of
+Rheumatology
+suggests
+continuing
+uric
+acid–lowering
+therapy indeﬁnitely.607
+Practice Point 3.14.2: Prescribe xanthine oxidase inhibitors
+in preference to uricosuric agents in people with CKD and
+symptomatic hyperuricemia.
+Xanthine
+oxidase
+inhibitors
+(e.g.,
+allopurinol
+and
+febuxostat) reduce serum uric acid concentration by reducing
+purine metabolism into uric acid. Uricosuric agents enhance
+its urinary excretion (probenecid is an example), but their
+effect is blunted in the context of reduced GFR. Note that the
+Cardiovascular Safety of Febuxostat and Allopurinol in Par-
+ticipants
+With
+Gout
+and
+Cardiovascular Comorbidities
+(CARES) double-blind randomized trial of allopurinol versus
+febuxostat in 6190 people with gout and prior CVD found
+that these 2 interventions were noninferior with respect to the
+composite primary cardiovascular outcome. However, overall
+mortality and cardiovascular mortality were higher in the
+febuxostat group than in the allopurinol group (HR for death
+from any cause: 1.22; 95% CI: 1.01–1.47 and HR for car-
+diovascular death: 1.34; 95% CI: 1.03–1.73).622 In people with
+T2D, post hoc analyses from 2 large, placebo-controlled RCTs
+have
+reported
+that
+SGLT2i
+reduce
+serum
+uric
+acid
+concentration and appeared to reduce gout adverse event
+reports or initiations of uric acid–lowering therapy.515,623
+Observational studies suggest that diuretics (thiazide and
+loop) increase serum uric acid concentration.624 The effect
+is mediated through multiple potential kidney-centered
+mechanisms, which are summarized in a review of drug-
+induced hyperuricemia.625
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S231

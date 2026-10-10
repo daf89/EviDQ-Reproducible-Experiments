@@ -1,0 +1,34 @@
+16 
+Providers generally have more complete information on reimbursement arrangements 
+(capitation versus fee-for-service) and how much was paid by payer source for care delivered to 
+household respondents. 
+In general, the methodology used to develop 2016 MEPS medical expenditure estimates was 
+based on merging medical events reported in the HC with data from the MPC using a 
+probabilistic matching procedure. For all medical events except prescribed medicines, the first 
+stage of the MEPS expenditure estimation methodology involved matching the provider-reported 
+expenditure data in the MPC to the household-reported medical event in the HC using dates and 
+detailed information on conditions and procedures that were collected in both the HC and MPC. 
+Because of the matching, each medical event in the HC either had expenditure data from both the 
+MPC and HC, from the MPC or HC only, or from neither source (i.e., missing payment data). 
+Household-reported event type may be different from provider-reported event type, so some 
+cross-event type matches were permitted. However, “event type” on the final files released to the 
+public was defined according to the HC classification. A hierarchical approach was used to 
+develop complete expenditure data. When a match was found for a particular medical event, 
+expenditure data from the MPC were substituted for household-reported information. In certain 
+cases, if MPC data were not available, and complete household payment data were available, the 
+household data were used. A series of logical edits were applied to both the HC and MPC data to 
+correct for several issues with the reported data (e.g., outliers, misreported data). For more 
+information on the types of issues encountered and the logical edits applied, see “Section 2.5.11 - 
+Utilization, Expenditures and Source of Payment Variables” of the documentation for the 2016 
+Full Year Consolidated Data File (HC-192) at the following link: 
+https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-
+192. 
+Where MPC or HC payment data were not available, either due to item nonresponse or because 
+the payment was not tied to a specific visit (as in capitation arrangements), payment components 
+(e.g., private insurance, Medicare, Medicaid and/or out-of-pocket payments) were imputed using 
+a predictive mean matching procedure. This procedure uses regression models (based 
+predominantly on events with completely reported expenditure data assigned to the donor pool) to 
+predict total expenses for each event. Then, for each event with missing payment information, a 
+donor event with the closest predicted payment having the same pattern of expected payment 
+sources as the event with missing payment was used to impute the missing payment component 
+values. Data collected in the MPC were used as donors whenever possible when imputing

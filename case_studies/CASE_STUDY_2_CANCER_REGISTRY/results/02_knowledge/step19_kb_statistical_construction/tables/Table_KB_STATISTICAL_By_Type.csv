@@ -1,0 +1,4 @@
+﻿statistical_feature_type,n_features,n_statistical_knowledge_items
+CATEGORICAL_NOMINAL,2,8
+NUMERIC_CONTINUOUS,1,5
+UNKNOWN,2,2

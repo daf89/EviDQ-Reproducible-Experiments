@@ -1,0 +1,127 @@
+can be identified, and medication initiation can be tailored to pre- 
+existing conditions, such as diabetes mellitus, CKD, AF, post- 
+myocardial infarction, heart failure, metabolic syndrome, and pro-
+teinuria/albuminuria (Section 9). History of previous side effects 
+and possible and compelling indications also need to be considered 
+when selecting treatment (see Supplementary data online, Tables S9 
+and S10). Cardioselective beta-blockers may be used in low dose in 
+chronic asthma,553,554 in line with their use in patients with heart 
+failure with chronic asthma. 
+For considerations of BP-lowering treatment among specific pa-
+tient populations of interest, including different racial/ethnic popula-
+tions, see Section 9. 
+8.5.4. Duration and monitoring of drug therapy 
+BP-lowering treatment is usually chronic, often lifelong. This raises 
+the question of long-term efficiency, long-term side effects, adher-
+ence, and persistence with therapy. While BP-lowering therapies 
+typically provide an overall durable effect, some attenuation of 
+effect may be seen over time.66,530 First-line BP-lowering medica-
+tion classes appear to be safe for long-term use.555–557 Once BP is 
+controlled, at least a yearly follow-up is advised. Because of the 
+known temporal variability in BP558,559 and medication efficacy in 
+the long term,530 medication changes may be necessary over 
+time (see Supplementary data online). 
+8.6. Device-based blood pressure lowering 
+Several device-based therapies designed to lower BP have been inves-
+tigated.560,561 To date, the best evidence exists for catheter-based renal 
+denervation. 
+8.6.1. Catheter-based renal denervation 
+Sympathetic nervous system overactivity contributes to the develop-
+ment and progression of hypertension.562 Renal denervation aims to 
+interrupt afferent and efferent sympathetic nerves in the adventitia 
+and perivascular tissue of the renal arteries.563 The 2018 ESC/ESH 
+Guidelines on the management of arterial hypertension did not recom-
+mend the use of device-based therapies for routine treatment of hyper-
+tension, unless in the context of clinical studies and RCTs.1 This was 
+based on negative data using first-generation radiofrequency catheters 
+(see Supplementary data online). 
+More recent data from sham-controlled trials investigating second- 
+generation radiofrequency and ultrasound catheters demonstrated a 
+BP-lowering efficacy in a broad range of patients, with and without con-
+comitant BP-lowering medications, including those with resistant 
+hypertension.564–568 Long-term, non-randomized, follow-up data 
+from the Global Symplicity Registry,569 Symplicity HTN-3 trial,570 
+Spyral HTN-ON MED pilot trial,571 and A Study of the Recor 
+Medical Paradise System in Clinical Hypertension (RADIANCE-HTN) 
+SOLO trial572 indicate a sustained BP-lowering effect for up to 3 years. 
+A single-centre open-label study suggested sustained BP reductions up 
+to 10 years.573 These data also highlight a potentially important advan-
+tage of renal denervation, namely that the BP-lowering effect of this 
+intervention might be ‘always on’, making this approach attractive for 
+patients with suboptimal medication adherence.254 Some patients 
+may prefer a one-off procedure rather than taking daily medications 
+chronically and may request renal denervation. 
+Of significance, there are no reported procedure-related serious 
+safety signals in the first- and second-generation trials beyond the usual 
+risk of femoral arterial access procedures (noting that most trials to 
+date were not powered for safety outcomes and that the task force 
+could find no published meta-analysis data on exact rates of major 
+bleeding and major femoral artery vascular access complications after 
+renal denervation procedures). However, the rate of major bleeding 
+Recommendation Table 18 — Recommendations for 
+blood pressure targets with treatment (see Evidence 
+Table 34) 
+Recommendations 
+Classa 
+Levelb 
+To reduce CVD risk, it is recommended that treated 
+systolic BP values in most adults be targeted to 120– 
+129 mmHg, provided the treatment is well 
+tolerated.22,122,131,523,541 
+I 
+A 
+In cases where BP-lowering treatment is poorly 
+tolerated and achieving a systolic of 120–129 mmHg 
+is not possible, it is recommended to target a systolic 
+BP level that is ‘as low as reasonably achievable’ 
+(ALARA principle).22,122,131,523,541 
+I 
+A 
+Because the CVD benefit of an on-treatment systolic 
+BP target of 120–129 mmHg may not generalize to 
+the following specific settings, personalized and more 
+lenient BP targets (e.g. <140 mmHg) should be 
+considered among patients meeting the following 
+criteria: pre-treatment symptomatic orthostatic 
+hypotension, and/or age ≥85 years.131 
+IIa 
+C 
+Because the CVD benefit of an on-treatment systolic 
+BP target of 120–129 mmHg may not generalize to 
+the following specific settings, personalized and more 
+lenient BP targets (e.g. <140/90 mmHg) may be 
+considered among patients meeting the following 
+criteria: clinically significant moderate-to-severe 
+frailty at any age, and/or limited predicted lifespan 
+(<3 years). 
+IIb 
+C 
+In cases where on-treatment systolic BP is at or below 
+target (120–129 mmHg) but diastolic BP is not at 
+target (≥80 mmHg), intensifying BP-lowering 
+treatment to achieve an on-treatment diastolic BP of 
+70–79 mmHg may be considered to reduce CVD risk. 
+IIb 
+C 
+© ESC 2024
+ALARA, as low as reasonably achievable; BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 19 — Recommendations for 
+follow-up in patients with treated hypertension (see 
+Evidence Table 33) 
+Recommendation 
+Classa 
+Levelb 
+Once BP is controlled and stable under BP-lowering 
+therapy, at least a yearly follow-up for BP and other 
+CVD risk factors should be considered. 
+IIa 
+C 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+3966 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

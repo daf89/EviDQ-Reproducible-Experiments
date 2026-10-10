@@ -1,0 +1,28 @@
+Federal sources, Other State and local sources, Workers’ Compensation, and Other 
+unclassified sources. Payments for a particular medical event can be made across one or 
+a combination of sources (though total payments for a small proportion of events each 
+year are considered to be $0, which occurs when it is reported that no payments were or 
+will be made). Total expenses for a given event are obtained by summing across all 
+payment sources. 
+Figure 1. Illustration of collection of medical event and source of payment data: MEPS 
+Nonresponse on payments for a particular medical event may occur for any potential 
+payment source. However, it is not unusual for respondents to report the amount paid out 
+of pocket and that a third-party source(s) paid an unknown amount (i.e., partial item 
+nonresponse). 
+MEPS Expenditure Estimation Strategy 
+In addition to the HC, MEPS expenditure data are also collected in the Medical Provider 
+Component (MPC) of the survey. The purpose of the MPC is to collect data directly 
+from a sample of medical providers to reduce the level of missing data and to improve 
+the accuracy of expenditure estimates that would be obtained by relying solely on 
+household responses (Machlin and Taylor, 2000, and Cohen J. et al., 1997). Data from 
+the MPC are considered to be more accurate on average than comparable data reported 
+by household respondents in the HC. 
+Data obtained in the MPC are linked to medical events reported in the HC based on a 
+probabilistic matching procedure (Winglee et al., 1999). As a consequence of the 
+matching process, each medical event reported in the HC will have expense data from 
+both the HC and MPC, one of these sources, or neither source (i.e., complete missing 
+payment data). A hierarchical approach is used to develop complete data for 
+expenditures as follows: 1) start with household reported medical events, 2) use MPC 
+expense data where available, 3) use HC expense data if no MPC data available, and 4) 
+impute any missing information. Table 1 shows the distribution by source of expenditure 
+3

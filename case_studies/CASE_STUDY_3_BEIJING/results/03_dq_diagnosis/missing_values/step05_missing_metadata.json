@@ -1,0 +1,56 @@
+{
+    "experiment": "DEMARCHE_ENCAD3_CASE_STUDY_3",
+    "step": "05_TARGETED_MISSING_CHARACTERIZATION",
+    "creation_time": "2026-09-26T14:50:29.580656",
+    "input": {
+        "modeling_view_sha256": "a0f2090baf731f1064d4be63769c3e62bf875a517eb1389de9518e18893f20cb",
+        "F_IMPORTANT_source": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\02_xai_ref\\development\\step04B_shap_dev_metadata.json",
+        "F_IMPORTANT": [
+            "PM2.5",
+            "PM10",
+            "WSPM",
+            "DEWP",
+            "CO",
+            "month",
+            "hour"
+        ]
+    },
+    "development_scope": {
+        "splits": [
+            "TRAIN",
+            "VALIDATION"
+        ],
+        "train_rows": 205977,
+        "validation_rows": 103287,
+        "total_rows": 309264,
+        "test_used": false
+    },
+    "missing_observation": {
+        "features_with_missing": [
+            "CO",
+            "PM2.5",
+            "PM10",
+            "DEWP",
+            "WSPM"
+        ],
+        "n_features_with_missing": 5,
+        "rows_with_at_least_one_missing": 16207,
+        "rate_rows_with_at_least_one_missing_percent": 5.240506492834601
+    },
+    "epistemic_status": {
+        "missing_means_error": false,
+        "missing_means_impute": false,
+        "error_diagnosis_performed": false,
+        "correction_performed": false,
+        "documentary_evidence_used": false,
+        "rag_used": false
+    },
+    "artifacts_sha256": {
+        "step05_missing_summary.csv": "c8b474cf636d6a08a2786902b9196d539a81419128aead015c2470c1c8f347ee",
+        "step05_missing_by_split.csv": "db34715c659f3bfe70ea2486e502a78b07f7a8ea75adf4a9d74725d310ad17e0",
+        "step05_missing_by_station.csv": "53c0cc611b4ad8aa41a22d565ae927261c5b497faba4257c10fdf6a7fc8b22a3",
+        "step05_missing_patterns.csv": "4bd347420fdfcdc202e5ff9f7c62f6dd9c2ca756badba6a9f9df7e9312a84899",
+        "Table_STEP05_Missing_Global.csv": "4257f60ae8d7a5ecf8c48864bee87ff4761a7d1c27cdfe07c3b52b1f0f0541f1",
+        "Table_STEP05_Missing_By_Split.csv": "36e248aa25f5ef4795ff76d6ea66fcfa4296bc924c9c93e6a27288ead160613f"
+    }
+}

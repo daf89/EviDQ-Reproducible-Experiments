@@ -1,0 +1,45 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_01_REFERENCE_DATASET_AUDIT",
+    "timestamp": "2026-09-17T17:05:14.316102",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "rows": 48784,
+        "columns": 160,
+        "cells": 7805440,
+        "status": "ORIGINAL_UNMODIFIED_REFERENCE_DATASET"
+    },
+    "audit": {
+        "numeric_features": 159,
+        "non_numeric_features": 1,
+        "missing_cells": 127857,
+        "features_with_missing": 5,
+        "duplicated_rows_extra": 223,
+        "constant_features": 3,
+        "near_constant_features_99pct": 38,
+        "features_with_infinity": 0,
+        "features_with_negative_values": 2,
+        "features_with_iqr_extremes": 23,
+        "total_iqr_extreme_observations": 82600
+    },
+    "interpretation": {
+        "missing_means_error": false,
+        "duplicate_means_error": false,
+        "negative_means_error": false,
+        "iqr_extreme_means_error": false,
+        "dataset_claimed_error_free": false
+    },
+    "safety": {
+        "dataset_modified": false,
+        "target_defined": false,
+        "model_trained": false,
+        "shap_calculated": false,
+        "feature_selection_performed": false,
+        "rag_used": false,
+        "knowledge_base_created": false,
+        "official_documents_read": false,
+        "errors_injected": false,
+        "corrections_applied": false
+    }
+}

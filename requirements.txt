@@ -1,0 +1,17 @@
+# Unpinned research dependencies; verify versions against the original environment.
+notebook
+jupyterlab
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+catboost
+shap
+joblib
+openpyxl
+PyMuPDF
+pypdf
+requests
+tqdm

@@ -1,0 +1,41 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+How are the data elements entered and where are they viewed in the EHR? 
+The best way to determine where needed data elements “live” in the EHR is to observe users entering 
+the information into the EHR. A process for “following the data” is described later in the handbook. It 
+helps to know: What screens are accessed for input? How are these data viewed by clinicians and staff? 
+Can data be viewed for more than one patient at a time? 
+How are the data elements represented in the EHR? 
+For QI work, how data elements are captured and stored in an EHR is as important as where. Electronic 
+data can be represented in an EHR as unstructured, structured, or multimedia, with important 
+implications for extraction and analysis. 
+Unstructured data includes short or long free text in the form of a result (“See report,” “Nomalignancy 
+noted”), a brief phrase (“Counseledpatient on smoking cessation”), ora lengthynarrative (“The patient 
+presents witha…”). Information enteredinto anEHR as free text can be very difficult to extract and 
+analyze. 
+Structured data constrains a data element to a predefined format or standardized code list and is the 
+best choice for extracting andanalyzing data from an EHR. Structureddata is usually entered using 
+picklists, checkboxes, validatednumeric fields or dates, yes/noresponses (Boolean), or “macros” that 
+generate structuredresponses fromuser input, a “dot phrase,” ora “smart form.” 
+Multi-media data includes faxand document images, photographs, diagnosticscans,voice or dictation 
+files, and medical device telemetry. Information entered in this form is nearly impossible to extract or 
+analyze without specializedsoftware and equipment. Data neededfor a project is often “hidden” in 
+faxes and scanned documents creating challenges for QI (and many other secondary uses). 
+Can thedataelements beextracted throughreports, dashboards, or customqueries? 
+Extracting data from an EHR is challenging. It is important to consider all of the options available for 
+retrieving the data you need, and how the format of the stored information might impact these efforts. 
+As a rule, structured data is much easier to extract and use than unstructured data. 
+Health IT Advisors can also save time and effort by adapting an EHRs’ built-in reports and dashboards 
+instead of requesting (or developing) a EHR custom report or database query. [34] 
+EXAMPLE 1: 
+You need to use clinical data from an EHR to measure diabetes control in a sub-population of a 
+clinic’s patients.Your project preparation shows that Hemoglobin A1c values are being 
+captured in the EHR as structured data and that a built-in quality measure (Poor A1c Control 
+CMS 122, National Quality Forum (NQF) 0059) will suit your needs. Unfortunately, on closer 
+examination, you find that the built-in quality measure reports all active patients with diabetes 
+and cannot distinguish thesubpopulations you are targeting for an intervention. 
+You might get what you need by mergingdatafrom the EHRreport with a patientlistreflecting 
+your inclusion criteria. 
+Health IT Advisor Handbook 
+Page 29

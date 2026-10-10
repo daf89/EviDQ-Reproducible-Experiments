@@ -1,0 +1,184 @@
+
+
+===== PDF PAGE 423 =====
+
+Part 6: Templates and Forms 
+Section 3D: Data Book Template 
+6-3D-64 
+WHO STEPS Surveillance 
+ 
+ 
+Levels of 
+total 
+physical 
+activity 
+according 
+to former 
+recommen- 
+dations 
+Description: Percentage of respondents classified into three categories of total 
+physical activity according to former recommendations. 
+ 
+Instrument questions: 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Level of total physical activity according to former recommendations 
+Age Group 
+(years) 
+Men 
+n 
+% Low 
+95% CI 
+% 
+Moderate 
+95% CI 
+% High 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Level of total physical activity according to former recommendations 
+Age Group 
+(years) 
+Women 
+n 
+% Low 
+95% CI 
+% 
+Moderate 
+95% CI 
+% High 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Level of total physical activity according to former recommendations 
+Age Group 
+(years) 
+Both Sexes 
+n 
+% Low 
+95% CI 
+% 
+Moderate 
+95% CI 
+% High 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Ptotallevels (unweighted); PtotallevelsWT (weighted) 
+ 
+
+
+===== PDF PAGE 424 =====
+
+Total 
+Description: Mean minutes of total physical activity on average per day. 
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-65 
+WHO STEPS Surveillance 
+ 
+ 
+physical 
+activity- 
+mean 
+ 
+Instrument questions 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Mean minutes of total physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Ptotal (unweighted); PtotalWT (weighted) 
+ 
+ 
+ 
+Total 
+physical 
+activity- 
+median 
+Description: Median minutes of total physical activity on average per day. 
+ 
+Instrument questions 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Median minutes of total physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Ptotal (unweighted); PtotalmedianWT (weighted) 
+ 

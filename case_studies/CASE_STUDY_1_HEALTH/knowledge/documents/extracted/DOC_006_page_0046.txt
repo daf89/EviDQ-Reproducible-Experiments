@@ -1,0 +1,87 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+The clinic’s performance on Screening and Brief Intervention and Referral to Treatment (SBIRT)[41] will 
+use the quality measure for “Unhealthy Alcohol Use: Screening and Brief Counseling” (CMS 431, NQF 
+2152)[34] that counts eligible patients, screening rates, and whether a qualifying intervention was 
+delivered on a positive screen. 
+You begin by identifying the data elements needed to generate the quality measure for the project and 
+create a table like that in Exhibit 19 or the Data Collection Plan introduced earlier to explicitly list the 
+data elements needed to satisfy the measure and make note of any potential questions or concerns. You 
+have confirmed that resources are available to generate an EHR extraction file with the data you need. 
+Exhibit 19: Data Components of the SBIRT Quality Measure (CMS 431, NQF 2152) 
+Data Component 
+Elements 
+Further Considerations 
+How many patients were 
+eligible for SBIRT 
+screening? 
+• 
+Patient age (Integer) 
+• 
+Encounter code for visit [current 
+procedural terminology (CPT)] 
+• 
+Excluding diagnoses (ICD-10) 
+• 
+Patient refused screening (Yes/No) 
+How is “eligibility” is defined and 
+what inclusion and exclusion criteria 
+will be used to select patients? 
+How many eligible 
+• 
+SBIRT given? (Yes/No) 
+Of those eligible, who received 
+patients received SBIRT 
+• 
+SBIRT date and time 
+screening, when, and what 
+screening? 
+• 
+SBIRT tool used (List of 
+assessments) 
+assessments were used 
+[Alcohol Use Disorders Identification 
+Test (AUDIT), Alcohol Use Disorders 
+Identification Test-Consumption 
+(AUDIT-C), CRAFFT]. 
+How many SBIRT screens • 
+Result of SBIRT screen 
+What constitutes a “Positive” for the 
+were “positive”? 
+(Positive/Negative) 
+• 
+Additional assessments (Type, 
+Score) 
+assessment tools being used? 
+How are the screening results 
+represented in the EHR? 
+How many “positive” 
+• 
+Was an intervention given? 
+How many patients received a 
+screens resulted in a brief 
+(Yes/No) 
+qualifying intervention, when, and 
+intervention? 
+• 
+Intervention date/time 
+• 
+Type of intervention (List of 
+interventions) 
+• 
+Was this a qualifying intervention 
+(Yes/No) 
+what type 
+(counseling, a 
+referral, or medication). 
+The following are more specific steps totake in putting the tips above into practice: 
+Step 1: Follow the data 
+• 
+Do a targeted workflow analysis to determine if, when, and how the required data elements are 
+collected and entered in the EHR. Tips for observing workflows are discussed in Section 2.2. 
+• 
+Map the required data elements for the quality measure to the information in the EHR by 
+observing users or reviewing screen shots (being careful to protect PHI!) 
+Health IT Advisor Handbook 
+Page 41

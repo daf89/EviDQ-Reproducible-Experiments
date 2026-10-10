@@ -1,0 +1,71 @@
+During the household interviews, the HC collects detailed information for each person in the household including
+demographic characteristics, health conditions, health status, use of medical services, charges and source of payments,
+access to care, satisfaction with care, health insurance coverage, income, and employment.
+The 2024 MPC cycle was conducted by RTI International and DLH under the fourth option year of the 2021‑2024
+contract awarded by AHRQ to RTI in 2021. RTI completed data collection for Hospitals, Office‑Based Doctors, Home
+Health Agencies, and Separately Billing Doctors (SBDs), while DLH completed data collection for Pharmacies.
+1 Following convention, the 2024 MPC refers to the data collected about calendar year 2024 which are matched with data
+from the 2024 Household Component (HC) of MEPS. Data collection for 2024 MPC began in January 2025 and
+continued through January, 2026 (see Section 3.4).
+2 Institution data collection not conducted during the 2024 cycle.
+Return to Table of Contents
+1.1 Changes from 2023 MPC to 2024 MPC
+Prior to data collection beginning, a number of recommended Contact Guide, Event Form, and system changes were
+submitted to AHRQ for review and approval. This included the routine change of updating the reference year from 2023
+to 2024. A change was also made to allow points of contact (POCs) to submit records via encrypted email attachments.
+This update to allow records to be sent by email impacted not only receipting systems, but also the Contact Guide.
+Additionally, another system update involving the Contact Guide made it easier for records receiptors to decrypt
+electronic records received in the mail on encrypted media. These Contact Guide and system changes included:
+An update in the Contact Guide that offered POCs email as an option for sending records to the MPC. Updated and new
+Contact Guide items provided POCs with the email option (in addition to existing options of fax, electronic portal, and
+mail), along with the MPC email address and instructions for encrypting the records. The MPC receipting systems were
+also updated to provide a queue for records received by email.
+The addition of a field in the MPC receipting system that displays a password captured within the Contact Guide for use
+in decrypting files sent in the mail on encrypted electronic media (e.g., CDs). Displaying the password in the receipting
+system provided efficiency for receiptors. The password was pulled from a Contact Guide field (where it was collected
+from the POC) to display it within the receipting system, so receiptors had the password available on the same screen as
+receipting functions.
+A change was also made to the Event Forms:
+The addition of Telehealth and Drive‑through as location of service options for global fee events at item A5_WHSPC in
+the Hospital Event Form. These options were added in the 2020 cycle as locations for the main event in each Event Form;
+this update made the options available for global fee dates of service.
+Detailed information about item wording and instrument flow was provided to AHRQ in Deliverable OP4‑11, MPC 2024
+Final Data Collection Instruments.
+Since March 2020, many large‑scale, nationally based research projects, including the MEPS MPC, have faced consistent
+staffing challenges due to significant changes in the economy and the workplace. In response, the MPC team shifted data
+collection staff to a hybrid work environment with a blend of remote‑ and onsite‑based work beginning in the 2021 cycle
+and have continued with this model during the 2024 cycle.
+Return to Table of Contents
+2. Preparations for the 2024 MPC
+This section describes the 2024 MPC provider sample and preparations for data collection, including grouping
+patient‑provider pairs by provider, grouping providers for the purpose of contacting facilities, and updating locating
+information.
+Return to Table of Contents
+2.1 Sample Preparations
+Respondents in the HC are asked to identify all medical providers associated with healthcare services received by each
+member of the household for the reference period associated with the time period of the interview date. Thus, the basic
+sample unit in the MPC is a patient‑provider pair (referred to as a “pair”) where the patient is a member of a household
+participating in the HC and the provider is identified in the household survey as one associated with a medical event, that
+is, an office visit, a Hospital stay or visit to an outpatient or emergency department, a prescription for medicine, or other
+healthcare event. To facilitate the MPC contacting medical providers household members are asked to sign an
+authorization form (AF) indicating their agreement to allow providers to release information about the event to the MPC.
+This form is compliant with the Health Insurance Portability and Accountability Act (HIPAA) implemented in 2003.
+Within the HC, the term “medical provider” is intended to include any type of practitioner contacted by the household for
+what the household considers to be healthcare—hospitals, clinics, long‑term care institutions, HMOs, medical doctors and
+doctors of osteopathy, dentists, home care providers, optometrists, podiatrists, chiropractors, psychologists, and other
+practitioners.
+Eligibility for the MPC is restricted to services rendered in a hospital or by a medical doctor or doctor of osteopathy (MD
+or DO) or under the supervision of a MD or DO. The MPC excludes services provided by dentists, optometrists,
+psychologists, podiatrists, chiropractors, and other kinds of healthcare practitioners who do not provide care under the
+supervision of a MD or DO. Care provided by home care agencies is an exception to this criterion; the sample design
+includes all care provided through a home care agency. Pharmacies reported as sources of prescription medicines obtained
+by household respondents make up a fifth group of MPC pairs generated from the MEPS‑HC. However, the MPC
+excludes pharmacies that provided durable medical equipment (DME) only and no prescriptions. Finally, additional pairs
+identified during the MPC data collection as SBDs are identified in medical records obtained from Hospitals and
+Institutions.
+In summary, provider types included in the MPC are:
+Hospitals—Providers associated with an inpatient stay as well as hospital outpatient department or emergency room
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+2/40

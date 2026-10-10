@@ -1,0 +1,75 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+Building Block 
+Topic/Process 
+EHR Functionality 
+Patient Empowerment 
+Patients understand their condition 
+- SDOH, assessments 
+Shared decision-making tools, assessments; 
+ability to record patient preferences 
+Population 
+Management 
+Cohort Management 
+Assessment of the health of the 
+organization’s population of 
+patients 
+Accurate and Robust Analytics for tracked 
+Clinical Topics (e.g., Diabetes, cardiovascular 
+health 
+Extract data from multiple sources: claims, 
+practice management and clinical systems, 
+Identify cohorts of 
+health risk assessments; Identify patients by 
+patients/population 
+demographic, diagnosis, medication, lab result 
+or problems; identify high risk patients; 
+maintain lists of cohort(s) 
+Monitor individual patients 
+Integrate patient goals, interventions in a 
+sharable and reportable format; patient 
+monitoring; flag and communicate needed 
+interventions as appropriate; trending 
+Evidence based medicine (EBM) 
+CDS 
+EBM alerts/prompts via CDS: drug-drug 
+formulary interactions, drug formulary checks, 
+drug-allergy interactions; customizable order 
+sets 
+CPOE for medications, labs& radiology tests; 
+Interventions 
+Appropriate use alerts 
+Follow up 
+Identify and alert for missing care gaps (e.g., 
+missed appt); timely lab/test results, review, 
+communication with patients, schedule 
+interventions; update care plan 
+Monitor cohort 
+Calculate CQMs; present results from entire 
+patient population; provide benchmarks and 
+progress over time 
+Continuity of Care 
+Cohesive Patient Care 
+Prevention of Fragmented Care 
+Incorporates information from each care team 
+member; missed intervention or appointment 
+alerts; supports care coordination workflows 
+and data entry 
+Measurement of desired 
+coordination outcomes 
+Accurate and robust reporting for CQMs, 
+clinical process and effectiveness measures 
+Prompt Access to 
+Care 
+Access 
+After hours communication- pt. 
+portal, messaging 
+Patient portal 
+Access-telehealth 
+Telehealth 
+Access-Scheduling 
+Ability to access schedule and suggest 
+Health IT Advisor Handbook 
+Page 123

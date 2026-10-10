@@ -1,0 +1,3 @@
+split,tn,fp,fn,tp
+TRAIN,294,5,17,144
+VALIDATION,90,10,10,44

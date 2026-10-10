@@ -1,0 +1,118 @@
+Summary of relative and absolute risks relevant to CKD
+from meta-analysis of large multinational population
+studies in the CKD Prognosis Consortium (CKD-PC)
+Outcomes relevant to CKD, and the prognostic importance of
+CKD categories
+The most highly evaluated endpoints in epidemiological
+studies have been all-cause mortality, cardiovascular events
+(myocardial infarction, stroke, and heart failure), and kidney-
+speciﬁc outcomes (progression to kidney failure and AKI),
+although additional outcomes such as all-cause hospitaliza-
+tion and incident atrial ﬁbrillation have been studied more
+recently. In this section, we highlight newer data derived from
+the CKD Prognosis Consortium (CKD-PC).12 We describe
+the associations of CKD categories with 10 of these
+important outcomes and demonstrate the importance of
+different methods of estimating GFR (i.e., using creatinine-
+or cystatin C–based equations) on these risk gradients.
+Healthcare providers, researchers, and policy makers
+should understand the association of CKD parameters (ACR
+and eGFR) in populations. The overall distributions of
+epidemiological risk across CKD categories on a population
+level are presented here. This is not to be confused with the
+information presented in Chapter 2, where individualized risk
+assessment tools are described, and those tools can be used to
+inform clinical and management decisions for individual
+people with CKD.
+Associations of all complications of CKD are incre-
+mentally increased with worsened categories of estimated
+glomerular
+ﬁltration
+rate
+(eGFR)
+and
+albuminuria:
+updated data.
+The KDIGO 2012 Clinical Practice Guideline for the Evalu-
+ation and Management of Chronic Kidney Disease introduced
+the combined staging by eGFR and albuminuria categories,
+which were justiﬁed by their associations with CKD complica-
+tions.1 The combined associations of eGFR and ACR categories
+were presented as “heatmaps,” a color-coded depiction of the
+associations of increased risk with worsening CKD, for
+outcomes of all-cause mortality, kidney failure, AKI, and
+cardiovascular mortality on a population level. In this section,
+we provide an update to these CKD heatmaps, which have
+been provided by the CKD-PC.12
+Several changes in the development of these updated
+heatmaps are important to highlight.
+(i)
+They now include several clinical databases that allow a
+much larger population base, comprising up to 27,503,140
+people for the analyses of each adverse outcome.
+(ii) The eGFRcr has been changed to the 2021 CKD Epide-
+miology Collaboration (CKD-EPI) equation, as this
+newer version no longer includes race as a component.
+(iii) The number of outcomes has been increased to 10,
+including 6 that are cardiovascular related, 2 that are
+kidney speciﬁc (kidney failure and AKI), and 2 general
+outcomes
+(all-cause
+mortality
+and
+all-cause
+hospitalization).
+(iv) Additional analyses have been conducted using the 2021
+CKD-EPI combined eGFR equation that incorporates
+both creatinine and cystatin C. Although the sample size
+for these subsequent analyses is much smaller (n ¼
+720,736), it does permit better differentiation of associ-
+ations of eGFR and risk and allows validation of CKD
+thresholds across populations.
+CKD staging by eGFRcr and ACR and association with adverse
+events
+Figure 512 presents the RRs for all eGFR/ACR combinations
+for the 10 identiﬁed outcomes.
+The RRs presented have all been adjusted for age, sex,
+smoking status (current, former, or never), systolic BP (SBP),
+total cholesterol, high-density lipoprotein (HDL) cholesterol,
+body mass index (BMI), use of antihypertensive medications,
+and a medical history of diabetes, coronary heart disease,
+stroke, heart failure, atrial ﬁbrillation, peripheral artery dis-
+ease, cancer, and chronic obstructive pulmonary disease.
+Therefore, the RRs can be interpreted as the proportional
+elevation in risk for each outcome experienced by people in
+that stage of CKD (or non-CKD) compared with people in
+the healthiest group. Across all the heatmaps, a consistent
+color scheme is used.
+The ﬁgures reveal several common themes and highlight
+the necessity of having both eGFR and ACR parameters
+available in assessing risk. First, within the CKD popula-
+tion, the association of risk for all 10 outcomes increases
+with higher stages of both eGFR and albuminuria. The
+ﬁgures present only the RRs for each speciﬁc stage and not
+the absolute risk of experiencing that outcome for people
+in the risk cell. This distinction between relative and ab-
+solute risks demonstrates the importance of using indi-
+vidual risk prediction tools for persons with CKD, a subject
+of Chapter 2.
+Although nearly all CKD categories are at substantially
+elevatedrisk for most outcomes inFigure 5, a distinction must be
+made for people in the eGFRcr CKD G3a category and with the
+lowest ACR severity (<10 mg/g [<1 mg/mmol]). This group is
+portrayed in the lower-risk green color for 7 of the 10 outcomes
+presented, although they have 3-fold higher adjusted risk of AKI
+and 13-fold higher risk of kidney failure compared with the
+reference
+group.
+The
+inconsistent
+risk
+association
+for
+populations with CKD G3a, A1, particularly in older adults,
+has led to controversy over whether this group should be
+relative and absolute risks associated with CKD
+www.kidney-international.org
+S144
+Kidney International (2024) 105 (Suppl 4S), S117–S314

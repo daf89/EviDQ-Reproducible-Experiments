@@ -1,0 +1,71 @@
+
+
+===== PDF PAGE 39 =====
+
+Indicators and metadata  ﻿
+27
+Related links
+Harmonized health facility assessment (HHFA): comprehensive guide. Geneva: 
+World Health Organization; 2022 (https://iris.who.int/handle/10665/365534).
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Guideline for the pharmacological treatment of hypertension in adults. Geneva: 
+World Health Organization; 2021 (https://iris.who.int/handle/10665/344424).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+Technical package for cardiovascular disease management in 
+primary health care: evidence-based treatment protocols (https://iris.who.int/
+handle/10665/260421).
+The selection and use of essential medicines 2023: web annex A: World Health 
+Organization model list of essential medicines: 23rd list. Geneva: World Health 
+Organization; 2023 (https://iris.who.int/handle/10665/371090).
+
+
+===== PDF PAGE 40 =====
+
+28
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+10. 	Availability of plasma glucose testing 
+Indicator name
+Availability of plasma glucose testing
+Purpose
+To assess the availability of testing services for diabetes diagnosis 
+and management.
+Definition
+Proportion of health facilities that are providing diabetes service and performing 
+plasma glucose measurement through laboratory-based or point-of-care testing.
+Numerator
+Number of health facilities that are providing diabetes service and performing 
+plasma glucose measurement through laboratory-based method or point-of-
+care testing during the reporting period.
+Denominator
+Total number of health facilities
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Facility level of care type, provider ownership type (public/private), facility 
+location type (urban/rural), plasma glucose testing site (point-of-care 
+or laboratory)
+Sources of data
+Health facility reports, logistics information system or survey
+Limitations/comments
+In some settings, the health facilities do not provide laboratory services, so the 
+reporting units will need to come from other laboratory service providers, or 
+health facilities only collect samples on site and perform the test off site.
+Related links
+Harmonized health facility assessment (HHFA): core questions. Geneva: 
+World Health Organization; 2021 (https://www.who.int/publications/i/item/
+harmonized-health-facility-assessment-(hhfa), accessed 26 May 2024).
+Service availability and readiness assessment (‎SARA)‎: an annual monitoring 
+system for service delivery (reference manual, Version 2.2). Geneva: World 
+Health Organization; 2014 (Revised July 2015) (https://apps.who.int/iris/
+handle/10665/149025, accessed 26 May 2024). 
+The selection and use of essential in vitro diagnostics: report of the 
+fourth meeting of the WHO Strategic Advisory Group of Experts on In Vitro 
+Diagnostics, 2022 (including the fourth WHO model list of essential in vitro 
+diagnostics). Geneva: World Health Organization; 2023 (https://iris.who.int/
+handle/10665/373322, accessed 26 May 2024).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).

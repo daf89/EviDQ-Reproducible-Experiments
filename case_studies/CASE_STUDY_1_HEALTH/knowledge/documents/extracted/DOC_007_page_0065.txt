@@ -1,0 +1,109 @@
+creatinine generation due to reduced muscle mass or decreased
+creatinine secretion or extrarenal elimination due to the use of
+speciﬁc medications, it is possible that eGFRcys rather than
+eGFRcr-cys would be preferred.
+Values and preferences. The Work Group judged that most
+people and most healthcare providers would want to use the
+most accurate assessment of GFR available to them and
+would, therefore, wish to estimate GFR from a combination
+of creatinine and cystatin C, when available. However, they
+would also balance additional costs associated with cystatin C
+against the potential beneﬁts.
+Differences between eGFRcr and eGFRcys may prompt
+recognition that both are estimates of GFR and both are asso-
+ciated with error, requiring interpretation as to the best esti-
+mate of GFR. In our view, this is desirable, and uncertainty as to
+the level of GFR is an indication for nephrology referral.
+Resource use and costs. Costs for the higher frequency of
+cystatin C testing include one-time costs associated with initi-
+ation of the assay within a laboratory, which include building
+the information technology infrastructure and method veriﬁ-
+cation studies, and continuous costs associated with main-
+taining the assay, which include reagents, daily quality control,
+requirements for calibration veriﬁcation, and proﬁciency
+testing. Reagent costs are currently more expensive than
+creatinine but are lower compared with other commonly used
+biomarkers. If cystatin C is performed in an outside laboratory,
+other costs, as with any laboratory test, may ensue. Additional
+costs may also be a result of the increased referrals to ne-
+phrologists to assist the interpretation of potentially discordant
+results between eGFRcr and eGFRcys. Ideally, these decrease
+over time with increased utilization.
+Considerations for implementation. We recognize that for
+these recommendations to be implemented, cystatin C needs
+to be widely available. Wherever possible, access to both
+creatinine and cystatin C measurements should be made
+available when evaluating GFR. Education for healthcare
+providers and people with CKD for optimal use and inter-
+pretation of these tests is required. See Section 1.2.3 for details
+regarding the measurement of creatinine and cystatin C by
+clinical laboratories.
+Rationale
+We describe a framework for the evaluation of GFR beginning
+with an initial test and followed by additional supportive tests
+(Figure 11, Table 7). Cystatin C is an alternative endogenous
+ﬁltration marker that is now increasingly available. Its assay
+can be put on autoanalyzers, and therefore its utilization could
+be increased with clinical demand. eGFRcr-cys provides the
+most accurate estimate and is recommended as the primary
+supportive test for people in whom there are concerns about
+eGFRcr accuracy (Table 8127–142). However, there remain
+residual errors with some groups of people having a very high
+level of errors. In such people, we advocate using mGFR. We
+anticipate that such considerations be made at every encounter
+where GFR is being used for a clinical decision.
+Practice Point 1.2.2.2: Where more accurate ascertainment
+of GFR will impact treatment decisions, measure GFR using
+plasma or urinary clearance of an exogenous ﬁltration
+marker (Table 9).
+Given the beneﬁt of accurate assessment of GFR for clin-
+ical decision-making, there is a need to appreciate the value
+and circumstances in which directly mGFR is required. The
+greatest beneﬁt of mGFR is that it is less inﬂuenced by non-
+GFR determinants, in contrast to eGFR. GFR is measured
+using exogenous ﬁltration markers and urinary or plasma
+clearance. The precision of mGFR can be determined from
+variability with repeated measures. Time-to-time variability is
+the method used to assess error.
+One systematic review summarizing the available data
+comparing current GFR measurement methods to each other
+and to the classic gold standard of inulin urinary clearance rec-
+ommended
+the
+use
+of
+iothalamate,
+iohexol,
+ethyl-
+enediaminetetraacetic acid (EDTA), and diethylenetriamine
+pentaacetate (DTPA) as exogenous markers of choice.166 A
+subsequent study recommended against plasma 99mTc-DTPA,
+especially when clearances are performed over 2–4 hours.167
+Several studies demonstrate that the method by which the
+clearance of exogenous markers is measured may impact
+accuracy. For example, for people with lower GFRs, delayed
+blood sampling is most accurate, whereas for people with
+Table 9| Comparison of estimated GFR and measured GFR
+Estimated GFR by SCr and/or cystatin C
+Measured GFR
+Inexpensive and easy to implement
+More expensive, more time-consuming, and invasive
+Widely available and may also be used
+at point of care, easily repeatable
+Only available in certain centers
+Methods to measure that do not require urine collections are available (i.e., plasma clearance)
+Most protocols require repeat blood samples potentially over a long duration
+Microsampling tests by ﬁngerpick enable point-of-care testing. Testing has been described,
+but not routinely performed
+Not sufﬁciently accurate and precise
+for all clinical situations
+Accurate for GFR in all situations and across the GFR range. Requires individualized protocols
+Lags behind changes in GFR
+Able to identify early changes in GFR
+Subject to non-GFR determinant confounding
+Less inﬂuenced by non-GFR determinants
+GFR, glomerular ﬁltration rate; SCr, serum creatinine.
+chapter 1
+www.kidney-international.org
+S180
+Kidney International (2024) 105 (Suppl 4S), S117–S314

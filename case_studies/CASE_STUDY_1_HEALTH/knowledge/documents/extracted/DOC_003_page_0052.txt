@@ -1,0 +1,143 @@
+While there are not enough outcomes data for a drug recommenda-
+tion in lower CVD risk adults with elevated BP, there is some evi-
+dence to suggest that relative treatment effects of BP lowering are 
+similar across a wide range of predicted risk categories, including 
+among those with a <10% risk.518 Therefore, while we do not pro-
+vide a formal recommendation for this, if initial lifestyle measures are 
+not successful after 6–12 months, drug treatment might be discussed 
+on an individual basis among lower CVD-risk adults when BP is be-
+tween 130/80 and <140/90 mmHg.518 
+• In patients with elevated BP (office BP of 120–139/70–89 mmHg) 
+who are at sufficiently high risk for CVD (e.g. 10-year CVD risk 
+≥ 10%) or in the presence of high-risk conditions or borderline 
+10-year CVD risk (5% - <10%) combined with risk modifiers or 
+abnormal risk tool tests, BP-lowering lifestyle measures should be 
+initiated for 3 months. Following this, pharmacological therapy is re-
+commended for persons with confirmed BP of ≥130/80 mmHg, 
+when these lifestyle changes have not worked or are not being imple-
+mented (Section 8.2) Prompt addition of pharmacological therapy, if 
+needed by 3 months, should be emphasized, to avoid therapeutic 
+inertia.519 For those with BP of 120–129/70–79 mmHg, ongoing 
+and intensified lifestyle intervention is preferred. 
+The above recommendations apply to all individuals with elevated BP, 
+irrespective of age. However, recognizing the lack of conclusive evi-
+dence and added risk of side effects among certain subgroups, the 
+task force also recommends that, among patients with elevated BP, 
+BP-lowering treatment should always be started based on individual 
+clinical judgment and shared decision-making. 
+In addition, consideration of BP-lowering drug treatment should be 
+deferred until BP is >140/90 mmHg in the following settings: pre- 
+treatment symptomatic orthostatic hypotension, age ≥85 years, clinic-
+ally significant moderate-to-severe frailty, and/or limited predicted life-
+span (<3 years) due to high competing risk (including eGFR < 30 mL/ 
+min/1.73 m2). Patients with elevated BP in these settings are less likely 
+to obtain sufficient net benefit from BP-lowering drug therapy or to tol-
+erate intensive drug therapy. Section 9 contains more information on 
+the treatment of specific subgroups, including older and frail adults. 
+Table 14 Initiation of blood pressure-lowering treatment based on confirmed blood pressure category and cardiovas-
+cular disease risk 
+Blood 
+pressure 
+(mmHg) 
+Non-elevated BP 
+(<120/70) 
+Elevated BP (120/70 to 139/89) 
+Hypertension (≥140/90) 
+Risk 
+(a) 
+All adults with SBP 120– 
+129 mmHg 
+(b) 
+SBP 130–139 AND 10-year 
+estimated CVD risk <10% 
+AND no high-risk 
+conditions or risk modifiers 
+or abnormal risk tool tests 
+(a) 
+SBP 130–139 AND high-risk conditions 
+(e.g. established CVD, diabetes mellitus, 
+CKD, FH or HMOD) 
+(b) 
+SBP 130–139 AND 10-year estimated 
+CVD risk ≥10% 
+(c) 
+SBP 130–139 AND 10-year estimated 
+CVD risk 5% - <10% AND risk 
+modifiers or abnormal risk tool tests 
+Assumed all at sufficiently high risk to 
+benefit from pharmacological 
+treatment 
+Treatment 
+Lifestyle measures for 
+prevention 
+Screen BP and CVD risk 
+opportunistically 
+Lifestyle measures for treatment 
+Monitor BP and CVD risk yearly 
+Lifestyle measures and pharmacological 
+treatment (after 3-month delay). 
+Monitor BP yearly once treatment control is 
+established 
+Lifestyle measures and 
+pharmacological treatment 
+(immediate) 
+Monitor BP yearly once treatment 
+control is established 
+Target (mmHg) 
+Maintain BP <120/70 
+Aim BP 120–129/70–79 mmHga 
+© ESC 2024
+BP, blood pressure; CKD, chronic kidney disease; CVD, cardiovascular disease; DBP, diastolic blood pressure; FH, familial hypercholesterolaemia; HMOD, hypertension-mediated organ 
+damage; SBP, systolic blood pressure. 
+aCaution in adults with orthostatic hypotension, moderate-to-severe frailty, limited life expectancy, and older patients (aged ≥85 years). 
+Recommendation Table 17 — Recommendations for 
+initiating blood pressure-lowering treatment (see 
+Evidence Tables 30–32) 
+Recommendations 
+Classa 
+Levelb 
+In adults with elevated BP and low/medium CVD 
+risk (<10% over 10 years), BP lowering with 
+lifestyle measures is recommended and can reduce 
+the risk of CVD.119,120,348,408,411,520,521 
+I 
+B 
+In adults with elevated BP and sufficiently high CVD 
+riskc, after 3 months of lifestyle intervention, BP 
+lowering with pharmacological treatment is 
+recommended for those with confirmed BP ≥130/ 
+80 mmHg to reduce CVD risk.116,522 
+I 
+A 
+It is recommended that in hypertensive patients 
+with confirmed BP ≥140/90 mmHg, irrespective of 
+CVD risk, lifestyle measures and pharmacological 
+BP-lowering treatment are initiated promptly to 
+reduce CVD risk.116,121,122 
+I 
+A 
+It is recommended to maintain BP-lowering drug 
+treatment lifelong, even beyond the age of 85 years, 
+if well tolerated.523–525 
+I 
+A 
+Because the benefit in reducing CVD outcomes is 
+uncertain in these settings, and noting that close 
+monitoring of treatment tolerance is advised, 
+BP-lowering treatment should only be considered 
+from ≥140/90 mmHg among persons meeting the 
+following criteria: pre-treatment symptomatic 
+orthostatic hypotension, age ≥85 years, clinically 
+significant moderate-to-severe frailty, and/or 
+limited predicted lifespan (<3 years).131,524,526,527 
+IIa 
+B 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+c10-year estimated CVD risk of ≥10%; or 10-year estimated CVD risk of 5% - ≤10% plus risk 
+modifiers or abnormal risk tool tests; or high-risk conditions (e.g. established CVD, diabetes, 
+moderate or severe CKD, familial hypercholesterolaemia, or hypertension-mediated organ damage). 
+ESC Guidelines 3963 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

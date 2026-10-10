@@ -1,0 +1,255 @@
+
+
+===== PDF PAGE 403 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-44 
+WHO STEPS Surveillance 
+ 
+ 
+Standard 
+drinks of 
+unrecorded 
+alcohol per 
+day in the 
+past 7 days 
+Description: Mean number of standard drinks of unrecorded alcohol consumed on 
+average per day in the past 7 days among current (past 30 days) drinkers. 
+ 
+Instrument question: 
+• On average, how many standard drinks of the following did you consume 
+during the past 7 days? 
+ 
+Mean number of standard drinks of unrecorded alcohol consumed on average per day in the past 7 days 
+among current drinkers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+number 
+n 
+ Mean 
+95% CI 
+number 
+n 
+ Mean 
+95% CI 
+number 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A10a-g, A11, A12a-e 
+• Epi Info program name: Ameanunrecorded (unweighted); AmeanunrecordedWT (weighted) 
+ 
+ 
+ 
+Percent of 
+unrecorded 
+alcohol 
+from all 
+alcohol 
+consumed 
+Description: Percentage of unrecorded alcohol from all alcohol consumed during 
+the past 7 days among current (past 30 days) drinkers. 
+ 
+Instrument questions: 
+• During each of the past 7 days, how many standard drinks did you have each 
+day? 
+• During the past 7 days, did you consume any homebrewed alcohol, any alcohol 
+brought over the border, not intended for drinking or other untaxed alcohol? 
+• On average, how many standard drinks of the following did you consume 
+during the past 7 days? 
+ 
+Percentage of unrecorded alcohol from all alcohol consumed during past 7 days 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+unrecorded 
+95% CI 
+alcohol of 
+all alcohol 
+% 
+n 
+unrecorded 
+95% CI 
+alcohol of 
+all alcohol 
+% 
+n 
+unrecorded 
+95% CI 
+alcohol of 
+all alcohol 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A10a-g, A11, A12a-e 
+• Epi Info program name: Please contact the STEPS team. 
+ 
+
+
+===== PDF PAGE 404 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-45 
+WHO STEPS Surveillance 
+ 
+ 
+Types of 
+unrecorded 
+alcohol 
+Description: Percentage of each type of unrecorded alcohol of all unrecorded 
+alcohol consumed in the past 7 days among current (past 30 days) drinkers. 
+ 
+Instrument questions: 
+• During the past 7 days, did you consume any homebrewed alcohol, any 
+alcohol brought over the border, not intended for drinking or other untaxed 
+alcohol? 
+• On average, how many standard drinks of the following did you consume 
+during the past 7 days? 
+ 
+Unrecorded alcohol consumption during the past 7 days by type 
+Age 
+Group 
+(years) 
+Men 
+% 
+% 
+% 
+% 
+home- 
+ 
+ home- 
+ 
+brought 
+ 
+surro- 
+ 
+ % 
+95% 
+n 
+brewed 
+95% CI 
+brewed 
+95% CI 
+ over 
+95% CI 
+ gate 
+95% CI 
+other 
+ CI 
+spirits 
+beer/ 
+border 
+alcohol 
+wine 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Unrecorded alcohol consumption during the past 7 days by type 
+Age 
+Group 
+(years) 
+Women 
+% 
+% 
+% 
+% 
+home- 
+ 
+ home- 
+ 
+brought 
+ 
+surro- 
+ 
+ % 
+95% 
+n 
+brewed 
+95% CI 
+brewed 
+95% CI 
+ over 
+95% CI 
+ gate 
+95% CI 
+other 
+ CI 
+spirits 
+beer/ 
+border 
+alcohol 
+wine 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Unrecorded alcohol consumption during the past 7 days by type 
+Age 
+Group 
+(years) 
+Both Sexes 
+% 
+% 
+% 
+% 
+home- 
+ 
+ home- 
+ 
+brought 
+ 
+surro- 
+ 
+ % 
+95% 
+n 
+brewed 
+95% CI 
+brewed 
+95% CI 
+ over 
+95% CI 
+ gate 
+95% CI 
+other 
+ CI 
+spirits 
+beer/ 
+border 
+alcohol 
+wine 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A11, A12a-e 
+• Epi Info program name: Please contact the STEPS team. 
+ 

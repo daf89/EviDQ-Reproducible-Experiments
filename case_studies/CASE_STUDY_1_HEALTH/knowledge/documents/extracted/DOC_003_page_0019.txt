@@ -1,0 +1,119 @@
+Korotkoff sound (muffling) is used to estimate diastolic BP. 
+Oscillometric devices estimate diastole using an algorithm that 
+imputes from mean arterial pressure.37 
+Inter-arm difference: systolic BP difference of >10 mmHg when 
+BP is measured sequentially in each arm.38 
+Postural/orthostatic hypotension: decrement of ≥20 mmHg 
+in systolic BP and/or ≥10 mmHg in diastolic BP when BP is measured 
+in the standing position at 1 and/or 3 min after standing following a 
+5-min period in the sitting or lying position. 
+White-coat hypertension: BP that is above the threshold for 
+diagnosing hypertension in the office but below the threshold in home/ 
+ambulatory settings, e.g. ≥140/90 mmHg in office but <135/85 mmHg 
+at home/ambulatory daytime (or 24-h BP < 130/80 mmHg). 
+Masked hypertension: BP that is below the hypertension 
+diagnostic threshold in the office but above the hypertension diagnostic 
+threshold in home/ambulatory settings, e.g. <140/90 mmHg in clinic 
+but ≥135/85 mmHg at home/ambulatory daytime (or 24-h BP 
+≥130/80 mmHg). 
+Office BP: also known as clinic BP. The two terms are interchange-
+able. This guidelines document uses ‘office BP’ preferentially. Of note, 
+office BP can be measured manually or using an automated device. In 
+addition, automated office BP (AOBP) can be conducted in a setting at-
+tended by a healthcare professional or in an unattended fashion. Finally, 
+not all office BP measurements are equal, with some facilities using a 
+standardized method (which is recommended and outlined below) 
+and others unfortunately using suboptimal approaches to office BP 
+measurement. 
+Home BP measurement (HBPM): an out-of-office approach 
+to measuring BP when the patient measures their own BP at home 
+using a validated monitor (usually an upper-arm oscillometric cuff 
+device). 
+Ambulatory BP measurement (ABPM): an out-of-office BP 
+measurement that uses a fully automated oscillometric device, usually 
+for a 24-h period, and measures BP at set intervals. 
+5.2. Practical recommendations for 
+measuring blood pressure 
+5.2.1. Clinical validation of equipment for measuring 
+blood pressure 
+A prerequisite of BP measurement is that it must be undertaken 
+using a device that has been clinically validated and confirmed to 
+be accurate. Of the commercially available oscillometric BP meas-
+urement devices, as few as 6% have been adequately tested.39–41 
+National and international organizations provide lists of validated monitors 
+(e.g. www.stridebp.org, www.validatebp.org). 
+Since the 2018 ESC/ESH Guidelines on the management of arter-
+ial hypertension, three arbiters of device accuracy (the Association 
+for the Advancement of Medical Instrumentation, the ESH, and the 
+International Organization for Standardization) have published a 
+universal standard for validating devices for measuring BP.42 This 
+standard will likely become widely adopted. Validation standards 
+and methodology need to be developed and implemented for novel 
+BP measurement devices that are non-occlusive and ‘cuffless’.43,44 
+5.2.2. Office blood pressure measurement 
+All BP measurements can be influenced by circumstances of measure-
+ment, including position, ambient temperature, the technique of meas-
+urement, accuracy of equipment, and physical condition of the 
+patient.45 For BP measurements in the office, we recommend following 
+a standardized method (Figure 3). 
+Patient preparation: BP should be measured with the patient 
+seated comfortably after 5 min of rest. Patients should avoid exercising 
+and stimulants (caffeine, tobacco) for at least 30 min before measure-
+ment. The patient’s bladder should be emptied if needed.46 Patients 
+should be seated with their legs unfolded and their back supported at 
+the time of measurement. The arm should be supported (to avoid iso-
+metric exercise-induced increases in BP). Clothing at the location of the 
+cuff placement should be removed; rolling up of shirt sleeves should be 
+avoided as this can result in a tourniquet effect. 
+BP measurement technique: auscultatory or oscillometric 
+techniques can be used to measure BP non-invasively. The manual aus-
+cultatory approach is the traditional method of measuring systolic and 
+diastolic BP at the brachial artery site using a stethoscope. In contrast, 
+oscillometric devices compute mean arterial BP using the oscillation 
+amplitude with cuff deflation (or inflation) and then estimate systolic 
+and diastolic BP. Oscillometric devices can be semi-automated (taking 
+one reading per activation) or fully automated (obtaining multiple read-
+ings before averaging them). Oscillometric devices are not typically va-
+lidated for use in AF, and the manual auscultatory method is preferred 
+in these circumstances when feasible.47–49 
+BP cuff selection and positioning: an appropriately sized cuff 
+should be used, as an under-sized or over-sized cuff will artificially 
+elevate or reduce BP, respectively.50 The bladder length should be 
+75%–100% and the width 35%–50% of the arm circumference. The 
+arm circumference can be measured at the mid-point of the olecranon 
+and the acromion but many cuffs include sizing indicators. The cuff 
+should be positioned on the patient’s upper arm at the level of the heart 
+with the lower edge of the cuff a few centimetres above the antecubital 
+fossa. The stethoscope should not be placed under the cuff. In those 
+with significant obesity where a correctly fitting upper arm cuff is not 
+available, measurement at the lower arm or wrist can be considered 
+as an alternative.51 
+BP measurement by manual auscultation: three BP mea-
+surements should be taken, each 1–2 min apart, and additional mea-
+surements only if the readings differ by >10 mmHg (e.g. this may 
+occur with arrhythmias or white-coat effects). The BP recorded should 
+be the average of the last two BP readings. 
+BP measurement using AOBP measurement: as noted 
+above, AOBP using oscillometric devices may be obtained with (at-
+tended) or without (unattended) clinicians or staff present. Clear evi-
+dence regarding superiority of unattended vs. attended AOBP in 
+managing BP to reduce rates of CVD is lacking; however, because BP 
+readings may differ for unattended vs. attended measurements,52 we 
+advise that a consistent approach be used depending on local resource 
+and preference. AOBP monitors typically make three or six readings at 
+1-min intervals and provide an average. AOBP correlates more closely 
+with mean ABPM than with the manual auscultatory technique and may 
+reduce measurement error and white-coat effects.53 
+Inter-arm BP difference: at the initial visit, BP should be measured 
+in both arms to detect an inter-arm difference. Though devices allowing 
+simultaneous measurement in both arms exist, sequential arm measure-
+ment is considered sufficiently reliable.54,55 Measurement in the contra-
+lateral arm should be undertaken once the three measurements in the 
+index arm have been taken, and if a difference is detected, further meas-
+urement in the original arm is indicated to ensure the difference is con-
+sistent. If systolic BP differs by >10 mmHg between arms, subsequent 
+measurements are obtained using the arm with the higher BP value. 
+Significant inter-arm BP differences may reflect arterial stenosis or 
+3930 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

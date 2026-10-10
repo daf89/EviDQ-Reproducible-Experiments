@@ -1,0 +1,137 @@
+11.3. Self-measuring and monitoring 
+Self-care refers to individual responsibility for healthy lifestyle beha-
+viours, as well as the actions required to cope with health condi-
+tions.996,997 In the context of hypertension, it also includes 
+self-management and self-measurement of BP. 
+Self-management includes lifestyle behaviour (diet, exercise, smoking, 
+alcohol), co-management of medical treatments, and support for adher-
+ing to prescribed medication.998 Self-monitoring allows high BP to be de-
+tected early,999 and enables patients to co-manage medications with 
+their healthcare provider.1000,1001 Suitably validated and correctly used 
+digital devices have the potential to support co-management,1002,1003 
+and facilitate remote monitoring of BP.76,81,1004 
+11.4. Facilitating medication adherence 
+and persistence 
+Adherence (Figure 24) to BP-lowering drug regimens in clinical practice 
+is almost always lower than seen in clinical trials.1007 Most apparent 
+treatment-resistant hypertension is accounted for by non- 
+adherence.1008 Adherence should always be assessed with a no-blame 
+approach. Various methods are available to assess adherence and, along 
+with details on barriers to adherence, are described in the 
+Supplementary data online and Table S14.1009 
+Adherence may also be facilitated by an optimal therapeutic regi-
+men, which can be achieved by medication reviews carried out at 
+appropriate intervals. Several factors should be considered: (i) identify-
+ing drug-related adverse events and appropriate dosing levels, (ii) using 
+long-acting drugs that require once-daily dosing (preferably drugs that 
+are long-acting due to pharmacokinetic properties rather than galenic 
+formulation), (iii) avoiding complex dosing schedules, (iv) using single- 
+pill combinations whenever feasible, (v) taking into account the financial 
+capacity of the patient to pay for a given regimen in the longer term, if 
+relevant, or other pertinent aspects of the local or national healthcare 
+systems, and (vi) enlisting support of a family member or other social 
+support to facilitate medication adherence and persistence (see 
+Supplementary data online, Table S15).1010 
+While there have been advancements in digital tools to support self- 
+management of chronic illness including hypertension, there is little 
+efficacy evidence evaluating these interventions. Therefore, it is prema-
+ture to make recommendations about specific digital tools. 
+11.5. Multidisciplinary management 
+A collaborative approach to managing hypertension, using team-based 
+care among physicians, nurses, pharmacists, dietitians, and physiothera-
+pists, 
+offers 
+significant 
+benefits 
+over 
+physician-only 
+care. 
+Multidisciplinary care is intended to be collaborative and complemen-
+tary to regular medical care1011 and is associated with lower systolic 
+and diastolic BP227,229,1012,1013 and improved outcomes.230,1014 
+Task-shifting away from physicians is necessary to meet the huge 
+need for the management of elevated BP and hypertension in the popu-
+lation.1015 Prescribing remains a physician duty, but prescribing can be 
+conducted under collaborative practice agreements with the multidis-
+ciplinary team in many countries. 
+Further details on patient-centred care in hypertension is provided in 
+the Supplementary data online. 
+Recommendation Table 34 — Recommendations for 
+communicating 
+consequences 
+of 
+treatment 
+(see 
+Evidence Table 47) 
+Recommendation 
+Classa 
+Levelb 
+An informed discussion about CVD risk and 
+treatment benefits tailored to the needs of a patient 
+is recommended as part of hypertension 
+management.992 
+I 
+C 
+Motivational interviewing should be considered for 
+patients with hypertension at hospitals and 
+community health centres to assist patients in 
+controlling their BP and to enhance treatment 
+adherence.993,994 
+IIa 
+B 
+Physician–patient web communications are an 
+effective tool that should be considered in primary 
+care, including reporting on home BP readings.995 
+IIa 
+C 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 35 — Recommendations for 
+self-measuring and monitoring blood pressure (see 
+Evidence Table 48) 
+Recommendations 
+Classa 
+Levelb 
+Home BP measurement for managing hypertension 
+by using self-monitored BP is recommended to 
+achieve better BP control. 
+I 
+B 
+Self-measurement, when properly performed, is 
+recommended due to positive effects on the 
+acceptance of a diagnosis of hypertension, patient 
+empowerment, and adherence to treatment.1001 
+I 
+C 
+Enhanced self-monitoring of BP using a device paired 
+with a connected smartphone application may be 
+considered, though evidence to date suggests that 
+this may be no more effective than standard 
+self-monitoring.1005,1006 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 36 — Recommendations for 
+multi/interdisciplinary blood pressure management 
+(see Evidence Table 49) 
+Recommendation 
+Classa 
+Levelb 
+Multidisciplinary approaches in the management of 
+patients with elevated BP and hypertension, including 
+appropriate and safe task-shifting away from 
+physicians, are recommended to improve BP 
+control.227,229,230,1012–1014,1016 
+I 
+A 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3987 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

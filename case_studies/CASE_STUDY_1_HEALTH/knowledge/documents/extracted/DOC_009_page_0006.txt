@@ -1,0 +1,69 @@
+Prior to data collection and using the contact information collected from the provider during initial contact, providers
+were sent (by fax, mail, email, or web portal) the following materials:
+Cover sheet
+Cover letter providing general information about the study from the U.S. Department of Health and Human Services and
+AHRQ
+Brochure that addresses commonly asked questions about the MEPS MPC study
+Patient List of all MEPS HC respondents who reported receiving services from the provider
+AF for each patient on the Patient List
+Return form used by the respondent when they preferred to fax, mail, email, or send via the web portal their medical and
+patient account records for abstraction. The fax and web portal return cover sheet contained pre‑printed information for
+faxing/transmitting records. The mail return form includes a pre‑printed mailing label for the provider to send via mail.
+Return to Table of Contents
+2.4 Enhanced Security Network
+All files containing personally identifiable information (PII) or protected health information (PHI) were stored and
+managed within the FIPS‑Moderate Enhanced Security Network (ESN), a network developed by RTI to meet the security
+requirements of NIST SP 800‑53, Rev.4, Recommended Security Controls for Federal Information Systems and
+Organizations at the Moderate level (http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf). A key
+IDCS security feature provided access to the MEPS MPC desktop based on the login attributes assigned to individual
+users.
+Return to Table of Contents
+2.5 Recruiting and Training
+Data Collection Specialists (DCSs) were the “front‑line” staff charged with contacting medical providers and abstracting
+medical event data from medical and payment records. Abstracting this information could be completed either over the
+telephone in interviews with provider staff or by abstracting records sent in by providers. Separate training modules were
+conducted to emphasize the different skills necessary to complete data collection in either mode. Although some DCSs
+developed expertise in one mode, many DCSs were cross‑trained for either telephone or records abstraction methods.
+Return to Table of Contents
+3. Data Collection
+In the 2024 MPC, the project team continued to follow a core protocol for collecting information from providers. The
+protocol was customized in the Event Forms to address the unique challenges of each provider type. Project procedures
+were designed to make data collection as efficient as possible for the providers and DCSs.
+As noted in Section 2.1, the pairs in the sample files were sorted by provider. In addition, providers who appeared to work
+in the same practice were sorted into contact groups to minimize the number of contact attempts with individual
+providers.
+As part of the initial communication with each contact group, the DCS identified appropriate POCs to facilitate data
+collection completion. The Contact Guide was designed to enable DCSs to record the outcome of each contact attempt
+and to give supervisors and project staff the ability to review the provider group contact history prior to subsequent
+contact attempts. DCSs were assigned a set of provider contact groups to establish rapport with contacts in each group. If
+any cooperation or staffing issues arose, cases were reassigned to refusal converters or another DCS. During initial
+contacts, DCSs performed several tasks:
+Introduce the study
+Confirm the provider groupings in the initial assignment
+Identify the provider staff to fulfill the requests
+Obtain fax numbers, addresses, or emails for sending project materials
+Negotiate the manner in which data collection would proceed
+Determine whether the facility charged a fee for providing records.
+Depending on the size and complexity of the provider practice, these tasks may have been completed in a single call or
+over several calls with different POCs.
+Return to Table of Contents
+3.1 Provider Recruitment and Data Collection Procedures
+While the MPC includes data collection procedures common to all provider types, each provider type also has unique
+features and specific procedures DCSs are required to follow. The sections below describe the MPC data collection
+protocols and procedures for each provider type.
+Hospitals
+Data collection procedures were designed to adapt to particular situations in provider facilities while maintaining
+consistency in the data collected. DCSs typically contacted three Hospital departments: medical records, patient accounts,
+and the administrative office. After the Hospital received a provider information packet, the DCS re‑contacted the medical
+records department. Because of the length and complexity of Hospital records and because Hospital providers were often
+associated with multiple pairs, standard protocol requires sending records. This mode was also a preference so that
+records were available for quality assurance purposes. In a small percentage of cases (about 11.7% of medical records and
+11.3% of patient accounts, see Table 3‑1) data were collected by telephone.
+Four key pieces of information were obtained from the Hospital medical records:
+Date(s) of service
+Event type (ER, outpatient, inpatient)
+Diagnoses (ICD‑10 codes), and
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+6/40

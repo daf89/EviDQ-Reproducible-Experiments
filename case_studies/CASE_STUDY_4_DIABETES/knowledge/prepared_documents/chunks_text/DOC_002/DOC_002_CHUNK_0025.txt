@@ -1,0 +1,75 @@
+
+
+===== PDF PAGE 49 =====
+
+Indicators and metadata  ﻿
+37
+17. 	Diabetes diagnosis
+Indicator name
+Diabetes diagnosis
+Purpose
+To determine the level of effectiveness of the programme on early detection 
+of diabetes. 
+Definition
+Proportion of people with diabetes who have been diagnosed with diabetes 
+based on WHO or national guidelines.
+Numerator
+Number of respondents who reported having been diagnosed with diabetes by a 
+health professional.
+Denominator
+Total number of respondents, who have been identified as people with 
+diabetes (on treatment or raised blood glucose ≥ 126 mg/dl or 7.0 mmol/L).
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys 
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+
+
+===== PDF PAGE 50 =====
+
+38
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+18. 	Diabetic ketoacidosis at diagnosis
+Indicator name
+Diabetic ketoacidosis at diagnosis
+Purpose
+To determine the level of effectiveness of the programme on early detection 
+of diabetes. 
+Definition
+Proportion of people who were diagnosed with diabetes during their emergency 
+hospital/department admission due to diabetic ketoacidosis condition. 
+Numerator
+Number of people who were diagnosed with diabetes during their emergency 
+department admission due to diabetic ketoacidosis during the reporting period.
+Denominator
+Total number of people who were admitted to the emergency department due to 
+diabetic ketoacidosis during the reporting period.
+Method of calculation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by health facility, provider ownership 
+type (public/private), and individual characteristics such as age, sex, race/
+ethnicity, comorbidity status, high-risk groups, socioeconomic  status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).

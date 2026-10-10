@@ -1,0 +1,158 @@
+
+
+===== PDF PAGE 379 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-20 
+WHO STEPS Surveillance 
+ 
+ 
+Smoked 
+tobacco 
+consump- 
+tion 
+Description: Percentage of current smokers who smoke each of the following 
+products. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• On average, how many of the following products do you smoke each day/week? 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Men 
+n 
+% Manuf. 
+95% CI 
+% Hand- 
+95% CI 
+% Pipes of 
+95% CI 
+cigs. 
+rolled cigs. 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Men 
+% Cigars, 
+n 
+cheroots, 
+95% CI 
+% Shisha 
+95% CI 
+% Other 
+95% CI 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Women 
+n 
+% Manuf. 
+95% CI 
+% Hand- 
+95% CI 
+% Pipes of 
+95% CI 
+cigs. 
+rolled cigs. 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Women 
+% Cigars, 
+n 
+cheroots, 
+95% CI 
+% Shisha 
+95% CI 
+% Other 
+95% CI 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+
+
+===== PDF PAGE 380 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-21 
+WHO STEPS Surveillance 
+ 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% Manuf. 
+95% CI 
+% Hand- 
+95% CI 
+% Pipes of 
+95% CI 
+cigs. 
+rolled cigs. 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current smokers smoking each of the following products 
+Age 
+Group 
+(years) 
+Both Sexes 
+% Cigars, 
+n 
+cheroots, 
+95% CI 
+% Shisha 
+95% CI 
+% Other 
+95% CI 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T5a-T5fw 
+• Epi Info program name: Tsmoketypeprev (unweighted); TsmoketypeprevWT (weighted) 
+ 

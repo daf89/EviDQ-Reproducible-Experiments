@@ -1,0 +1,55 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+determinants of health microsite provides additional information, including tools to assess 
+patients socialrisks and needs. 
+A QI project focused on SDOH could further segment traditional CQMs. For example, structured 
+data capturing food insecurity might be combined with a CQM for controlling hypertension to 
+provide new insights and target interventions. 
+Because many clinics are early in their efforts to integrate behavioral health and screening for 
+social needs, Health IT Advisors can provide valuable assistance in developing the workflows and 
+EHR capabilities needed to assess, capture,anduse data on non-medical domains of health. 
+EHR Interventions 
+• 
+Clinical decision support tools: 
+There are exciting opportunities for QI once supporting data on social and behavioral health are 
+available in the EHR and accessible by CDS. For example, structured data collected by screening 
+for depression or unhealthy alcohol use could be used to trigger a reminder when appropriate 
+follow-up, referral to care, or medication is not provided to high-risk individuals. A care-
+coordinator dashboard can be implemented, and automated referrals to social workers can be 
+included, as well as pre-populated home visit templates for community health workers or 
+visiting nurses. 
+• 
+Patient engagement as an intervention: 
+Patient portals can be used to collect SDOH demographics and screen for behavioral and social 
+needs and to deliver tailored education and instructions for self-care. Health IT Advisors must 
+consider whether an EHR-based intervention is appropriate or equitable based on the 
+population of interest. For example, individuals dealing with homelessness may have difficulty 
+accessing patient portals or smartphone apps. 
+Many EHR data considerations that are related to social and behavioral needs are outlined in Exhibit 37. 
+Exhibit 37: EHR Data Considerations - Identifying/Managing Behavioral and Social Needs 
+EHR Element 
+Description 
+Assessment and Plan 
+of Treatment 
+• 
+Assessment and billing codes applied to an encounter may indicate 
+services and tests to assess and document behavioral and social needs. 
+• 
+A treatment plan may include referrals to behavioral or community 
+services to address needs identified during an encounter. 
+Clinical Notes 
+• 
+Patient-reported concerns about food, housing, transportation, mental 
+health, and other health-related risks may be recorded as narrative in 
+clinical notes. 
+• 
+Records of treatment for substance use are protected by CFR 42 Part 1 
+and may not be accessible in the EHR. 
+Encounter 
+Information 
+• 
+Assessments for behavioral (depression, anxiety, substance use) and 
+social/community needs may be recorded during an annual wellness 
+visit. 
+Health IT Advisor Handbook 
+Page 78

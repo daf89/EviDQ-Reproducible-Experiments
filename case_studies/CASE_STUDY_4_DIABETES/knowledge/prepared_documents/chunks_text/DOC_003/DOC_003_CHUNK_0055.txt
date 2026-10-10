@@ -1,0 +1,144 @@
+
+
+===== PDF PAGE 109 =====
+
+Selecting the Sample, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-22 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Selection of 
+households 
+and/or 
+individuals 
+The final stage of sampling, the selection of households and/or individuals,  
+will depend on the type of information available. The table below describes  
+the possible scenarios for the final stage of sampling and the sample selection 
+process for each. 
+ 
+If … 
+Then … 
+A list of eligible individuals is 
+available for the selected sampling 
+unit (e.g. village). 
+First check that the list of eligible 
+individuals meets the following 
+requirements: 
+• the list is up to date, for example, 
+people who have moved away or who 
+have died are not included in the list; 
+• the list contains specific information 
+allowing for each selected individual 
+to be located by the interviewers. 
+If both conditions are met, the selection 
+of individuals can be done randomly 
+from the list. 
+No or limited information is 
+available about the individuals in 
+the selected sampling unit but a 
+list of households exists for the 
+sampling unit. 
+First check that the list of households 
+meets the following requirements: 
+• the list is up to date and each 
+household listed represents a single 
+dwelling; 
+• the list contains specific information 
+allowing for each selected household 
+to be located by the interviewers. 
+If both conditions are met, the selection 
+of households can be done randomly 
+from the list. From the selected 
+households, participants can be selected 
+randomly using the STEPS Android  
+app. 
+If there is a concern that the list may be 
+out of date, it is recommended that the 
+field team first performs a quick 
+mapping and household listing of the 
+selected sampling units/clusters to 
+update the list, noting 
+abandoned/destroyed dwellings, new 
+dwellings, or expanded dwellings 
+(single family into multi-family). 
+
+
+===== PDF PAGE 110 =====
+
+Selecting the Sample, Continued 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-23 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Selection of 
+households 
+and/or 
+individuals 
+(cont.) 
+ 
+If … 
+Then … 
+The number of households is 
+known for the sampling unit but 
+there is no information about their 
+location. 
+In this situation the sampling unit 
+should be mapped to determine the 
+location of the households. Please 
+contact the STEPS team for more 
+guidance on this method or other 
+alternatives. 
+ 
+In the STEPSsampling.xls tool, the "RandHhold" worksheet can be used to 
+randomly select the desired number of participants from a list of eligible 
+individuals or the desired number of households from a list of households. 
+ 
+It is possible that some sampling units have more detailed information  
+available than others. In this case, the above scenarios can be used on a case- 
+by-case basis, meaning in some sampling units  with  more  detailed 
+information individuals may be selected directly while in other sampling units 
+with less detailed information households may need to be selected first. 
+ 
+Note: In all STEPS survey designs, sampling is non-replacement, meaning 
+that once a unit or person is selected they are not replaced with another 
+person/unit. If non-respondents or persons who are not at home for the 
+interview are replaced, a convenience sample will be performed and the 
+results will only represent the people sampled and not the target population. 
+ 
+ 
+ 
+Selection of an 
+individual 
+within a 
+household 
+In most STEPS surveys, the selection of an individual within a household is 
+only done once the STEPS data collector is in the household. The Android 
+STEPS app has an integrated random selection procedure, whereby eligible 
+household members are entered and one participant from this list is randomly 
+selected by the device. 
+ 
+Eligibility criteria for households and members of the households to be 
+included will need to be defined by the STEPS Coordinating Committee in 
+advance of the fieldwork. 
+ 
+ 
+ 
+Oversampling 
+for 60-69 year 
+olds 
+Depending on a country's population structure it may be difficult to obtain 
+enough respondents from the 60-69 year old age group to get precise 
+estimates for this age group. One possible solution to this problem is to 
+oversample this age group at the household level. Therefore, at each 
+household with adults aged 60-69, two adults will be selected. 
+ 
+ 

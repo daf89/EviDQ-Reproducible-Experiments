@@ -1,0 +1,87 @@
+
+
+===== PDF PAGE 11 =====
+
+Introduction
+In many low- and middle-income countries, there is a wide gap between evidence-
+based recommendations and current practice. Treatment of major CVD risk factors 
+remains suboptimal, and only a minority of patients who are treated reach their 
+target levels for blood pressure, blood sugar and blood cholesterol. 
+In other areas, overtreatment can occur with the use of non-evidence-based 
+protocols. The aim of using standard treatment protocols is to improve the quality 
+of clinical care, reduce clinical variability and simplify the treatment options, 
+particularly in primary health care. Standard treatment protocols can be developed 
+by preparing new national treatment guidelines or by adapting or adopting 
+international guidelines. 
+The Evidence-based protocols module uses hypertension and diabetes screening 
+and treatment as an entry point to control cardiovascular risk factors, prevent target 
+organ damage, and reduce premature morbidity and mortality. A comprehensive 
+risk- based approach for integrated management of hypertension, diabetes, and 
+high cholesterol is included in the Risk-based CVD management module.
+This module includes clinical practice points and sample protocols for:
+1.	 hypertension detection and treatment
+2.	 type 2 diabetes detection and treatment
+3.	 identifying basic emergencies – care and referral.
+HEARTS emphasizes adaptation, dissemination, and use of a standardized set of 
+simple clinical-management protocols, which should be drug- and dose-specific, 
+and include a core set of medications. The simpler the protocols and management 
+tools, the more likely they are to be used correctly, and the higher the likelihood that 
+a programme will achieve its goals.
+The use of a standardized algorithm is critical to success because it:
+•• enables task-sharing, with the entire health care team able to support patients
+•• increases ease of logistics in terms of drug inventory, drug forecasting, and 
+quality monitoring
+•• enables large reductions in cost of medication
+•• enables evaluation of impact
+•• simplifies implementation of changes to protocols, if needed.
+Use of module
+This module is intended for national policymakers, subnational programme 
+managers and primary health care facility managers who are in the position to 
+adapt these protocols and align to the local context. This ensures that just one 
+protocol is used at the national or in some instances subnational level.
+9
+HEARTS: Evidence-based treatment protocols
+
+
+===== PDF PAGE 12 =====
+
+1	 Hypertension detection and 
+treatment
+All adults should have their blood pressure checked. The treatment protocols 
+provided can be used if the patient is known to have hypertension or is newly 
+diagnosed with hypertension when presenting at the health care facility.
+When to measure blood pressure
+Measuring blood pressure is the only way to diagnose hypertension, as most 
+people with raised blood pressure have no symptoms.
+Blood pressure measurements should be conducted on adults during routine 
+visits to primary health care facilities, including all adults at first presentation to the 
+facility, and, if normal, periodically thereafter (e.g., every 1 to 5 years). Every patient 
+with elevated blood pressure readings requires immediate follow-up, according to 
+the protocol.
+Blood pressure measurement and control is particularly important in adults who:
+•• have had a prior heart attack or stroke
+•• have diabetes
+•• have chronic kidney disease (CKD)
+•• are obese
+•• use tobacco
+•• have a family history of heart attack or stroke.
+How to measure blood pressure
+Effective treatment algorithms for hypertension are dependent on accurate blood 
+pressure measurement. The following advice should be followed for measuring 
+blood pressure (1):
+•• Use the appropriate cuff size, noting the lines on the cuff to ensure that it is 
+positioned correctly on the arm. (If the arm circumference is >32 cm, use large 
+cuff.) 
+•• Although at the initial evaluation it is preferable to measure blood pressure in 
+both arms and use the arm with the higher reading thereafter, this may not be 
+practical in a busy primary care environment.
+•• The patient should be sitting with back supported, legs uncrossed, empty 
+bladder, relaxed for 5 minutes and not talking.
+•• For persons who are getting their blood pressure measured for the first time, it is 
+preferable to take at least two readings and to use the second reading.
+Blood pressure can be measured either by a conventional sphygmomanometer, 
+using a stethoscope, or by an automated electronic device. The electronic device, 
+if available, is preferred because it provides more reproducible results and is not 
+inﬂuenced by variations in technique or by the bias of the observers.
+10
+HEARTS: Evidence-based treatment protocols

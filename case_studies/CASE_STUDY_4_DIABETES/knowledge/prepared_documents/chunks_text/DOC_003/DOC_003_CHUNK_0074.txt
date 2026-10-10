@@ -1,0 +1,161 @@
+
+
+===== PDF PAGE 147 =====
+
+Part 3: Data Collection 
+Section 3: Data Collection Process 
+Last Updated: 26 January 2017 
+3-3-2 
+WHO STEPS Surveillance 
+Supervising Data Collection 
+ 
+ 
+ 
+Introduction 
+Members of the data collection team may have different levels of skills, 
+experience and varying strengths and abilities. To ensure high standards of 
+data collection, appointing field team supervisors to lead and supervise the 
+data collection teams is necessary. 
+ 
+ 
+Core tasks 
+The core tasks of a field team supervisor are provided in the checklist below. 
+ 
+Role 
+Description 
+1 
+Obtaining and preparing household lists and maps for each area, or 
+other lists to be used as the sampling frame, data collection forms, 
+devices for data collection, supplies and equipment, and 
+distributing them to data collectors 
+2 
+Coordinating logistics and assigning interviewers to households in 
+each cluster or primary sampling unit 
+3 
+Making travel arrangements for data collectors 
+4 
+Informing local authorities about the survey 
+5 
+Supervising the interview process and recording daily activities 
+6 
+Ensuring data quality 
+7 
+Ensuring regular submission of the data to the server 
+8 
+Managing human resource performance and issues 
+9 
+Sending regular progress reports to STEPS Survey Coordinator 
+ 
+Note: The core tasks are further described below. 
+ 
+ 
+Obtain and 
+manage 
+household lists 
+and maps 
+The field team supervisors will need to obtain household lists and maps of the 
+selected clusters from the Statistical Adviser or the STEPS Survey  
+Coordinator, manage them, and provide them to the data collectors during the 
+field work. 
+ 
+ 
+ 
+Coordinate 
+logistics and 
+assign 
+interviewers to 
+households 
+Create a plan for visits to the enumeration areas to be surveyed, and assign 
+data collectors to each household: 
+ 
+• schedule the data collection team to complete the survey of one 
+enumeration area before moving to another; 
+• assign data collectors to each household within the enumeration area; 
+• schedule time to revisit households within each enumeration area to finish 
+interviews; 
+• keep a record of all interviewers that need transport and schedule the 
+transport; 
+• keep track of which enumeration areas and households were visited. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 148 =====
+
+Part 3: Data Collection 
+Section 3: Data Collection Process 
+Last Updated: 26 January 2017 
+3-3-3 
+WHO STEPS Surveillance 
+Supervising Data Collection, Continued 
+ 
+ 
+ 
+Making travel 
+arrangements 
+for data 
+collectors 
+The field team supervisors are responsible for making travel arrangements for 
+the data collectors to move within selected enumeration areas from household to 
+household, and between selected areas. 
+ 
+ 
+ 
+Contact local 
+authorities 
+The field team supervisors will need to contact appropriate local authorities to 
+inform them about the survey and gain their support and cooperation. 
+ 
+ 
+ 
+Supervise 
+interview 
+process and 
+record daily 
+activities 
+Interviewers should use the Interview Tracking Form, available in Part 6, 
+Section 2, to track household and participant response information on a daily 
+basis. Collect and review the forms regularly to track process and recording 
+quality. 
+ 
+To ensure high-quality data collection, the supervisor will need to observe a 
+certain proportion of the interviews conducted by each interviewer, 
+particularly at the beginning of the data collection period. The proportion 
+may vary depending on the interviewers' experience, the timeframe and the 
+budget involved. 
+ 
+ 
+ 
+Ensuring data 
+quality 
+The supervisors should check that data have been recorded properly by the 
+data collectors in their team, and ensure proper follow up for unavailable 
+selected participants and unfinished interviews. 
+ 
+ 
+ 
+Regular data 
+submission 
+It is strongly recommended that field team supervisors ensure that all data 
+collectors in their team submit their data electronically at the end of 
+completion of the each enumeration area or least once a week. A wi-fi 
+connection is needed to send data electronically. If data collectors have 
+periodic access to a wi-fi connection during data collection, they can submit 
+their data electronically whenever they have a connection. 
+ 
+ 
+ 
+Manage 
+Human 
+Resources 
+Manage and support the data collection team to ensure : 
+ 
+• good quality interviews are conducted and all data are complete; 
+• interview timeframes are adhered to; 
+• interviewers are supported if any issues arise in the community or with 
+individual participants; 
+• performance issues are dealt with appropriately; 
+• confidentiality of all STEPS material is respected at all times; 
+• feedback is provided to data collection staff; 
+• any leave is appropriately covered. 
+ 

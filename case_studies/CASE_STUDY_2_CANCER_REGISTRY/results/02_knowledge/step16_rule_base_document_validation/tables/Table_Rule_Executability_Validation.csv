@@ -1,0 +1,9 @@
+﻿rule_id,required_features,available_required_features,missing_required_features,gpt_executability,local_schema_executability,consistency,local_reason
+RULE_DOC_0001,date(s) requiring imputation,,date(s) requiring imputation,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.
+RULE_DOC_0002,computed_age_at_diagnosis;age_diag,age_diag,computed_age_at_diagnosis,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.
+RULE_DOC_0003,age_diag,age_diag,,EXECUTABLE,EXECUTABLE,True,All declared required features exist in Dataset_REF and GPT classified the documentary rule as sufficiently operationalized.
+RULE_DOC_0004,birth_date;incidence_date,birth_date,incidence_date,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.
+RULE_DOC_0005,birth_date;diag_date,birth_date;diag_date,,EXECUTABLE,EXECUTABLE,True,All declared required features exist in Dataset_REF and GPT classified the documentary rule as sufficiently operationalized.
+RULE_DOC_0006,T;N;M;stage;cancer_topography;TNM_edition,,T;N;M;stage;cancer_topography;TNM_edition,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.
+RULE_DOC_0007,pathological_TNM;clinical_TNM;stage_grouping,,pathological_TNM;clinical_TNM;stage_grouping,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.
+RULE_DOC_0008,stage_grouping;topography;TNM_edition;T;N;M,,stage_grouping;topography;TNM_edition;T;N;M,NOT_EXECUTABLE,NOT_EXECUTABLE,True,At least one declared required feature is absent from the Dataset_REF schema.

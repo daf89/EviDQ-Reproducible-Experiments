@@ -1,0 +1,102 @@
+
+
+===== PDF PAGE 73 =====
+
+Indicators and metadata  ﻿
+61
+37. 	Hospitalization for diabetes
+Indicator name
+Hospitalization for diabetes 
+Purpose
+To assess outcome of diabetes management.
+Definition
+Proportion of people with diabetes who were admitted to hospital due to 
+following conditions:
+1.	 Severe hypoglycaemia 
+2.	 Diabetic ketoacidosis
+3.	 Hyperosmolar hyperglycaemic state
+4.	 Myocardial infarction
+5.	 Stroke
+6.	 Lower-extremity amputation
+7.	 Kidney failure
+Numerator
+Number of people with diabetes registered in the facility who were admitted to 
+hospital due to diabetes-related complications including cardiovascular disease 
+during the reporting period.
+Denominator
+Total number of people with diabetes registered in the facility.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by cause of admission, facility level 
+of care type, provider ownership type (public/private), and individual-level 
+characteristics such as age, sex, race/ethnicity, comorbidity status, high-
+risk groups, socioeconomic status, residence type (urban/rural), and health 
+insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+For comparison with other health care facilities the indicator needs to be 
+age-standardized.
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186).
+ICD-11 for mortality and morbidity statistics: Acute complications of diabetes 
+mellitus [website]. Geneva: World Health Organization; 2024 (https://icd.who.int/
+browse/2024-01/mms/en#1304552818, accessed 26 May 2024).
+ICD-11 for mortality and morbidity statistics: Diabetic retinopathy [website]. 
+Geneva: World Health Organization; 2024 (https://icd.who.int/browse/2024-01/
+mms/en#1006882070, accessed 26 May 2024).
+ICD-11 for mortality and morbidity statistics: Chronic kidney disease [website]. 
+Geneva: World Health Organization; 2024 (https://icd.who.int/browse/2024-01/
+mms/en#412389819, accessed 26 May 2024).
+
+
+===== PDF PAGE 74 =====
+
+62
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+38. 	Cardiovascular disease among people with diabetes
+Indicator name
+Cardiovascular disease among people with diabetes
+Purpose
+To assess outcome of diabetes management.
+Definition
+Proportion of people with diabetes who were diagnosed with cardiovascular 
+disease based on WHO or national guidelines.
+Cardiovascular disease among people with diabetes, includes:
+	
+●
+myocardial infarction;
+	
+●
+stroke; and
+	
+●
+lower-extremity vascular occlusion.
+Numerator
+Number of people with diabetes registered in the facility who were diagnosed 
+with cardiovascular disease during the reporting period.
+Denominator
+Total number of people with diabetes registered in the facility.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+For comparison with other health care facilities the indicator needs to be 
+age-standardized.
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). ICD 11 mortality 
+and morbidity statistics: GB61 Chronic kidney disease [website]. Geneva: 
+World Health Organization; 2024 (https://icd.who.int/browse/2024-01/mms/
+en#412389819, accessed 26 May 2024).

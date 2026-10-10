@@ -1,0 +1,44 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "global_phase": "PHASE_03_CONTROLLED_PROBLEM",
+  "stage": "PHASE3_STEP01_DOCUMENTED_SCENARIO_INVENTORY",
+  "execution": "LOCAL_DETERMINISTIC_PYTHON",
+  "dataset_ref": {
+    "path": "<LOCAL_PROJECT_ROOT>\\data\\clean\\data_new.csv",
+    "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+    "integrity": "VALID",
+    "modified": false
+  },
+  "knowledge_base": {
+    "total_nodes": 417,
+    "document_nodes": 368,
+    "validated_cross_source_relations": 7
+  },
+  "documentary_knowledge": {
+    "governance": 162,
+    "error": 88,
+    "detection": 60,
+    "correction": 58
+  },
+  "scenario_inventory": {
+    "documented_error_candidates": 88,
+    "documented_detection_candidates": 60,
+    "documented_correction_candidates": 58,
+    "features_requiring_semantic_problem_linking": 8,
+    "scenario_selected": false,
+    "problem_injected": false
+  },
+  "scientific_safeguards": {
+    "dataset_ref_modified": false,
+    "ground_truth_used": false,
+    "problem_injected": false,
+    "scenario_automatically_selected": false,
+    "same_feature_implies_same_problem": false,
+    "statistical_anomaly_is_error": false,
+    "documented_correction_automatically_applicable": false,
+    "source_priority": "NONE",
+    "expert_source_instantiated": false,
+    "llm_used": false,
+    "ollama_used": false
+  }
+}

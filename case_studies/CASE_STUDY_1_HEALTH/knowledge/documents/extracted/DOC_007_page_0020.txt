@@ -1,0 +1,133 @@
+Introduction, qualifying statements, and key concepts
+This 2024 update of the KDIGO Clinical Practice Guideline
+for the Evaluation and Management of Chronic Kidney Dis-
+ease (CKD)1 is an evidence-based guideline that provides
+recommendations
+and
+practice
+points
+for
+clinical
+management activities.
+The past 10 years have provided new hope for improved
+treatment of CKD. A greater understanding of healthy lifestyle
+and lifestyle modiﬁcations together with new medications
+and technologies furnish improved options for treatment and
+monitoring of CKD. People with CKD, healthcare providers,
+and health systems are eager to implement these advances in
+the most effective and evidence-based manner. This requires
+integration of new therapies with lifestyle management and
+existing medications using approaches that engage patients
+and optimize application of health resources. The goal of this
+guideline document is to provide such guidance. The majority
+of statements from the 2012 guideline have been updated
+based on current knowledge and practice. Only 6 statements
+were retained in their original form in 2012.
+As Co-Chairs, we would like to recognize the outstanding
+efforts of the Work Group, the Evidence Review Team (ERT),
+and Kidney Disease: Improving Global Outcomes (KDIGO)
+staff. The Work Group was diverse, multinational, multidis-
+ciplinary, experienced, thoughtful, and dedicated. Notably,
+the Work Group included 2 members who have CKD who
+contributed actively as peers to keep the guideline relevant
+and patient-centered. We are indebted to each and every in-
+dividual who contributed to this process. We hope that the
+guidance provided here will help improve the care of people
+with CKD worldwide.
+The KDIGO 2012 CKD guideline was built on the United
+States (US)-based Kidney Disease Outcomes Quality Initiative
+(KDOQI) 2002 Guideline on Deﬁnition, Classiﬁcation, and
+Evaluation
+of
+CKD,2
+accepted
+by
+the
+international
+community in 2005. It reinforced the deﬁnition of CKD
+incorporating a persistent reduction in glomerular ﬁltration
+rate (GFR) and markers of kidney damage and modiﬁed the
+staging and classiﬁcation system to include elements that
+had begun to be appreciated by the clinical community.3
+Speciﬁcally, the 2012 guideline introduced the concept of a
+“CGA” classiﬁcation of CKD based on cause (C), level of
+kidney function determined by GFR (G), and degree of
+albuminuria (A). The CGA classiﬁcation laid a foundation
+upon which management, treatment, research, and risk
+assessment of CKD have since been based.
+The deﬁnition, staging, and classiﬁcation of CKD pro-
+posed by the KDIGO 2012 CKD guideline have been widely
+accepted and implemented worldwide. Research has since
+highlighted that higher speciﬁc stages or categories of CKD,
+characterized by level of GFR and albuminuria independently,
+portend greater relative risk (RR) for adverse outcomes.4–7
+These include, but are not limited to, CKD progression,
+cardiovascular disease (CVD), mortality (all-cause and car-
+diovascular), kidney failure, and acute kidney injury (AKI).
+The development of risk-prediction tools has reﬁned moni-
+toring and referral to specialist nephrology and has aided in
+the estimation of prognosis.6,8–10 Although there remains
+ongoing discussion about application of the same thresholds
+to deﬁne disease in older adults,11 it is still clear that even
+in older populations, risk of adverse outcomes increases
+with higher CKD stages (Figure 1).12 In any ﬁeld of
+medicine, although data from large population studies
+inform
+clinical
+practice
+guidelines
+and
+associated
+recommendations for care, it is critically important to
+consider the individual in front of you, their preferences,
+and their individual risks and beneﬁts. We recognize that
+the
+threshold
+GFR
+<60
+ml/min
+per
+1.73
+m2
+(GFR
+categories G3a–G5) for >3 months to indicate a diagnosis
+of CKD is well below the average in young adult men and
+women,13 but because a signiﬁcant GFR reduction in
+younger people is also usually associated with other markers
+of kidney disease, the diagnosis of CKD would be captured.
+Similarly, we recognize that there is an average age-
+associated GFR decline observed in longitudinal and cross-
+sectional studies,14 but with substantial variation among
+individuals within the population,15 such that not all
+individuals will have a signiﬁcant GFR decline with age.12
+This guideline is not intended to be a textbook, and thus
+statements regarding prevention and screening for CKD,
+although important topics, are not addressed in depth but are
+brieﬂy discussed below in the context of the global burden of
+CKD and in Chapter 1. For a more detailed discussion of these
+issues, we refer readers to existing textbooks and reviews.16–18
+Prevention and screening for CKD should be conducted
+mostly by healthcare providers in primary care and in other
+specialties, such as endocrinology, cardiology, and oncology,
+rather than restricted to nephrologists. We strongly support
+efforts aimed at the early detection and treatment of CKD
+among people at high risk for CKD, including those with
+hypertension, diabetes, and CVD. Screening efforts in these
+and other populations should include assessments of GFR
+(estimated or in certain situations measured [see Section 1.2]
+and albuminuria [or surrogate, see Section 1.3]).
+The intended starting point for this update of the KDIGO
+2012 CKD guideline is an established diagnosis of CKD,
+though there are some practice points to clarify the evaluation
+of CKD and the ascertainment of chronicity. The care of
+people with CKD is multifaceted and complex. Several critical
+aspects of this comprehensive care, such as blood pressure
+(BP), diabetes, and lipid management, have been addressed in
+other KDIGO guidelines. These topics were not reviewed for
+the current guideline, but recommendations have been
+incorporated where relevant and we refer readers to those
+speciﬁc KDIGO guidelines and their updates.19–23
+www.kidney-international.org
+introduction, qualifying statements, and key concepts
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S135

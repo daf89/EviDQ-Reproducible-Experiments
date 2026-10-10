@@ -1,0 +1,24 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_07_KB_DOC_CONSOLIDATION",
+  "created_utc": "2026-09-28T09:57:57.156402+00:00",
+  "llma_candidates": 6,
+  "llmb_validations": 6,
+  "matched_candidates": 6,
+  "validated": 2,
+  "validated_with_restriction": 2,
+  "rejected": 2,
+  "kb_doc_entries": 4,
+  "matching_method": "DETERMINISTIC_COMPOSITE_KEY:document_id+chunk_id+feature+dq_problem+rule_role+evidence_page+evidence",
+  "consolidation_policy": {
+    "VALIDATED": "RETAIN",
+    "VALIDATED_WITH_RESTRICTION": "RETAIN_WITH_LLM_B_RESTRICTIONS",
+    "REJECTED": "EXCLUDE_FROM_KB_DOC"
+  },
+  "kb_doc_csv_sha256": "ad0d23ba68c8e37f67baa1e7bad3fec7c2d9228202b2205fb4fa17ab6566a258",
+  "kb_doc_jsonl_sha256": "28d5f58ddecd2125e22b1e1cd84edbd44368f33a3044ee6b1400e60d860bf55c",
+  "case_applicability_assessed": false,
+  "experimental_executability_assessed": false,
+  "test_dataset_accessed": false,
+  "dq_intervention_applied": false
+}

@@ -1,24 +1,42 @@
-# EviDQ — Reproducible Experiments
+# EviDQ: Experimental Reproducibility Package
 
-Experimental companion repository for **EviDQ: Evidence-Guided Data Quality Governance for Responsible Interventions and Explainable Recommendations in Tabular Machine Learning**.
+This package accompanies **EviDQ: Evidence-Guided Data Quality Governance for Responsible Interventions and Explainable Recommendations in Tabular Machine Learning**.
 
 ## Case studies
 
-1. **Health** — data-quality diagnosis and evidence assessment.
-2. **Cancer Registry** — simulated registry and documentary admissibility.
-3. **Beijing Air Quality** — environmental data-quality assessment.
-4. **Diabetes** — controlled missingness, candidate-action evaluation, SHAP analysis, and fuzzy interpretation.
+- `case_studies/CASE_STUDY_1_HEALTH/CASE_STUDY_1_HEALTH.ipynb` — health data-quality governance.
+- `case_studies/CASE_STUDY_2_CANCER_REGISTRY/CASE_STUDY_2_CANCER_REGISTRY.ipynb` — simulated cancer registry.
+- `case_studies/CASE_STUDY_3_BEIJING/CASE_STUDY_3_BEIJING.ipynb` — Beijing air-quality observations.
+- `case_studies/CASE_STUDY_4_DIABETES/CASE_STUDY_4_DIABETES.ipynb` — controlled missingness and intervention evaluation.
 
-## Experimental provenance
+Each notebook retains the original number and order of cells and its saved outputs, with local user paths anonymized. Run Jupyter **from the corresponding case-study folder**, because relative paths are resolved from the current working directory. The notebooks are provided as research records; this release has not been independently rerun from a clean environment.
 
-The official Jupyter notebooks are preserved as original experimental records, including executed cells, saved outputs, and documentation of steps involving external language models. Some saved outputs may contain environment-specific absolute paths; these are not intended as reusable project settings.
+## Setup
 
-LLM-assisted stages must be distinguished from Python computations. Reproducing such stages may require their original prompts, model configurations, inputs, and recorded responses.
+1. Install Python and JupyterLab in a fresh virtual environment.
+2. Install dependencies listed in `requirements.txt`. Version pins should be adjusted to match the original execution environment before a final reproducibility claim.
+3. Open a terminal in the appropriate case-study directory, start `jupyter lab`, and run the notebook sequentially.
+4. Some steps call external services or use externally prepared language-model outputs. These steps may require additional access, model versions, prompts, or manual review. See the notebook and its result folders for provenance.
+5. Verify dataset licenses and third-party documentary redistribution permissions before making this package public.
 
-## Reproducibility status
+## Data and research artifacts
 
-**Work in progress.** The notebooks and supplementary materials have not yet been independently re-executed in a clean environment. Availability of experimental records should not be interpreted as end-to-end reproducibility. Check dataset licenses and third-party document redistribution rights before making this repository public.
+Selected datasets, intermediate tables, result files, model files, scripts, and prompts from the provided reproducibility archives are included. Third-party PDF documents, document page images, notebook checkpoints, and redundant notebooks are deliberately excluded pending licensing review. The exact list is in `PACKAGE_MANIFEST.csv`; excluded material is in `EXCLUDED_FILES.csv`.
 
-## Repository status
+## Scientific safeguards
 
-This repository is currently private while the original notebooks and publication materials are reviewed. A stable, citable release can be archived after validation.
+These case studies do not imply that an experimentally executable data-quality action is a domain-authorized or human-validated correction. The fuzzy interpretation in the Diabetes case is explanatory and does not establish an automatic global ranking or validated intervention recommendation.
+
+## Sharing
+
+Review this archive for data-sharing rights, hidden identifiers, and repository size before uploading it to GitHub. For long-term citation, tag the final GitHub release and archive it with a persistent DOI service such as Zenodo. Do not treat the presence of recorded notebook outputs as proof that the notebooks execute successfully in a new environment.
+
+## Experimental Provenance and Reproducibility
+
+The original Jupyter notebooks are preserved as records of the experimental workflows, including the executed code, intermediate outputs, evaluation results, and documented interactions with external language models.
+
+Some notebooks contain local filesystem paths reflecting the environment in which the experiments were conducted. These paths are environment-specific and do not constitute methodological dependencies.
+
+Certain experimental stages involved external LLM-assisted processing. Such stages are explicitly distinguished from computations executed directly within the notebooks. Their reproducibility depends on the availability of the corresponding inputs, prompts, model configurations, and recorded outputs.
+
+The notebooks are provided to support scientific transparency, experimental traceability, and independent examination of the reported results. Their availability does not imply that every external processing step can be reproduced by executing the notebooks alone.

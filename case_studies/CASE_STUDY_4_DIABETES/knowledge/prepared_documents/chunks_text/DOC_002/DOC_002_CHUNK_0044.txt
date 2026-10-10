@@ -1,0 +1,134 @@
+
+
+===== PDF PAGE 87 =====
+
+Annex  ﻿
+75
+Database
+Search
+guideline*):ab,ti OR (“Core outcome” NEXT set*):ab,ti OR (“Metric Selection” NEXT Process*):ab,ti 
+OR (“Clinical control” NEXT parameter*):ab,ti OR (National NEXT registr*):ab,ti OR (National 
+NEXT database*):ab,ti OR (Diabetes NEXT audit*):ab,ti OR (“Access to healthcare”):ab,ti OR 
+(“Access to health care”):ab,ti OR (Healthcare NEXT service* NEXT availability):ab,ti OR (“Health 
+care” NEXT service* NEXT availability):ab,ti OR (Healthcare NEXT access):ab,ti OR (“Health care” 
+NEXT access):ab,ti OR (“Health economic” NEXT indicator*):ab,ti OR (“Productivity loss”):ab,ti 
+OR (“Budget impact”):ab,ti OR (“Absenteeism”):ab,ti OR (“Economic evaluation”):ab,ti OR 
+(“Cost of diabetes”):ab,ti OR (Socioeconomic NEXT disparit*):ab,ti OR (“Health equity”):ab,ti OR 
+(Socioeconomic NEXT factor*):ab,ti OR (“Socio-economic” NEXT factor*):ab,ti OR (Social NEXT 
+determinant* NEXT “of health”):ab,ti OR (Prevention NEXT strateg*):ab,ti OR (“Risk management” 
+NEXT strateg*):ab,ti OR (“Risk factor management”):ab,ti OR (“Risk factor reduction”):ab,ti OR (“Self-
+management” NEXT strateg*):ab,ti OR (“Modifiable risk” NEXT behavi*):ab,ti OR (Behavioral NEXT 
+determinant*):ab,ti OR (Behavioural NEXT determinant*):ab,ti OR (Behavioral NEXT risk*):ab,ti OR 
+(Behavioural NEXT risk*):ab,ti OR (“Healthcare professional” NEXT engagement*):ab,ti OR (“Health 
+professional” NEXT engagement*):ab,ti OR (“Public health” NEXT impact*):ab,ti OR (“Health policy 
+effectiveness”):ab,ti OR (“Policy impact” NEXT metric*):ab,ti ) ) OR ( ( (“Diabetes Evaluation”):ab,ti 
+OR (“Diabetes Mellitus Evaluation”):ab,ti OR (“Diabetes Surveillance”):ab,ti OR (“Diabetes Mellitus 
+Surveillance”):ab,ti OR (“Diabetes Monitoring”):ab,ti OR (“Diabetes Mellitus Monitoring”):ab,ti ) AND 
+( (Indicator*):ab,ti OR (Benchmark*):ab,ti OR (Metric*):ab,ti OR (Index):ab,ti OR (Indices):ab,ti ) ) ) 
+AND ( (Consensus):ab,ti OR (Framework*):ab,ti OR (Review*):ab,ti OR (Delphi):ab,ti )
+Embase
+(n = 3859)
+(‘diabetes’ AND (‘evaluation indicator*’:ab,ti OR ‘evaluation benchmark*’:ab,ti OR ‘evaluation 
+metric*’:ab,ti OR ‘evaluation index’:ab,ti OR ‘evaluation indices’:ab,ti OR ‘process indicator*’:ab,ti 
+OR ‘process benchmark*’:ab,ti OR ‘process metric*’:ab,ti OR ‘process index’:ab,ti OR ‘process 
+indices’:ab,ti OR ‘outcome indicator*’:ab,ti OR ‘outcome benchmark*’:ab,ti OR ‘outcome 
+metric*’:ab,ti OR ‘outcome index’:ab,ti OR ‘outcome indices’:ab,ti OR ‘performance indicator*’:ab,ti 
+OR ‘performance benchmark*’:ab,ti OR ‘performance metric*’:ab,ti OR ‘performance index’:ab,ti 
+OR ‘performance indices’:ab,ti OR ‘surveillance indicator*’:ab,ti OR ‘surveillance benchmark*’:ab,ti 
+OR ‘surveillance metric*’:ab,ti OR ‘surveillance index’:ab,ti OR ‘surveillance indices’:ab,ti OR 
+‘monitoring indicator*’:ab,ti OR ‘monitoring benchmark*’:ab,ti OR ‘monitoring metric*’:ab,ti 
+OR ‘monitoring index’:ab,ti OR ‘monitoring indices’:ab,ti OR ‘quality indicator*’:ab,ti OR ‘quality 
+benchmark*’:ab,ti OR ‘quality metric*’:ab,ti OR ‘quality index’:ab,ti OR ‘quality indices’:ab,ti 
+OR ‘capacity indicator*’:ab,ti OR ‘capacity benchmark*’:ab,ti OR ‘capacity metric*’:ab,ti OR 
+‘capacity index’:ab,ti OR ‘capacity indices’:ab,ti OR ‘governance indicator*’:ab,ti OR ‘governance 
+benchmark*’:ab,ti OR ‘governance metric*’:ab,ti OR ‘governance index’:ab,ti OR ‘governance 
+indices’:ab,ti OR ‘availability indicator*’:ab,ti OR ‘availability benchmark*’:ab,ti OR ‘availability 
+metric*’:ab,ti OR ‘availability index’:ab,ti OR ‘availability indices’:ab,ti OR ‘affordability 
+indicator*’:ab,ti OR ‘affordability benchmark*’:ab,ti OR ‘affordability metric*’:ab,ti OR ‘affordability 
+index’:ab,ti OR ‘affordability indices’:ab,ti OR ‘risk management indicator*’:ab,ti OR ‘risk 
+management benchmark*’:ab,ti OR ‘risk management metric*’:ab,ti OR ‘risk management 
+index’:ab,ti OR ‘risk management indices’:ab,ti OR ‘service delivery indicator*’:ab,ti OR ‘service 
+delivery benchmark*’:ab,ti OR ‘service delivery metric*’:ab,ti OR ‘service delivery index’:ab,ti OR 
+‘service delivery indices’:ab,ti OR ‘impact indicator*’:ab,ti OR ‘impact benchmark*’:ab,ti OR ‘impact 
+metric*’:ab,ti OR ‘impact index’:ab,ti OR ‘impact indices’:ab,ti OR ‘care indicator*’:ab,ti OR ‘care 
+benchmark*’:ab,ti OR ‘care metric*’:ab,ti OR ‘care index’:ab,ti OR ‘care indices’:ab,ti OR ‘health 
+system indicator*’:ab,ti OR ‘health system benchmark*’:ab,ti OR ‘health system metric*’:ab,ti OR 
+‘health system index’:ab,ti OR ‘health system indices’:ab,ti OR ‘health facility indicator*’:ab,ti OR 
+‘health facility benchmark*’:ab,ti OR ‘health facility metric*’:ab,ti OR ‘health facility index’:ab,ti 
+OR ‘health facility indices’:ab,ti OR ‘monitoring framework*’:ab,ti OR ‘clinical management 
+guideline*’:ab,ti OR ‘core outcome set*’:ab,ti OR ‘metric selection process*’:ab,ti OR ‘clinical 
+control parameter*’:ab,ti OR ‘national registr*’:ab,ti OR ‘national database*’:ab,ti OR ‘diabetes 
+audit*’:ab,ti OR ‘access to healthcare’:ab,ti OR ‘access to health care’:ab,ti OR ‘healthcare service* 
+availability’:ab,ti OR ‘health care service* availability’:ab,ti OR ‘healthcare access’:ab,ti OR ‘health 
+care access’:ab,ti OR ‘health economic indicator*’:ab,ti OR ‘productivity loss’:ab,ti OR ‘budget 
+impact’:ab,ti OR ‘absenteeism’:ab,ti OR ‘economic evaluation’:ab,ti OR ‘cost of diabetes’:ab,ti OR 
+‘socioeconomic disparit*’:ab,ti OR ‘health equity’:ab,ti OR ‘socioeconomic factor*’:ab,ti OR ‘socio-
+economic factor*’:ab,ti OR ‘social determinant* of health’:ab,ti OR ‘prevention strateg*’:ab,ti OR 
+‘risk management strateg*’:ab,ti OR ‘risk factor management’:ab,ti OR ‘risk factor reduction’:ab,ti
+
+
+===== PDF PAGE 88 =====
+
+76
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Database
+Search
+OR ‘self-management strateg*’:ab,ti OR ‘modifiable risk behavi*’:ab,ti OR ‘behavioral 
+determinant*’:ab,ti OR ‘behavioural determinant*’:ab,ti OR ‘behavioral risk*’:ab,ti OR 
+‘behavioural risk*’:ab,ti OR ‘healthcare professional engagement*’:ab,ti OR ‘health professional 
+engagement*’:ab,ti OR ‘public health impact*’:ab,ti OR ‘health policy effectiveness’:ab,ti OR ‘policy 
+impact metric*’:ab,ti) OR ((‘diabetes evaluation’:ab,ti OR ‘diabetes mellitus evaluation’:ab,ti OR 
+‘diabetes surveillance’:ab,ti OR ‘diabetes mellitus surveillance’:ab,ti OR ‘diabetes monitoring’:ab,ti 
+OR ‘diabetes mellitus monitoring’:ab,ti) AND (‘indicator*’:ab,ti OR ‘benchmark*’:ab,ti OR 
+‘metric*’:ab,ti OR ‘index’:ab,ti OR ‘indices’:ab,ti))) AND (‘consensus’:ab,ti OR ‘framework*’:ab,ti OR 
+‘review*’:ab,ti OR ‘delphi’:ab,ti)
+CINAHL
+(n = 920)
+( ( (“Diabetes”) AND ( TI “Evaluation Indicator*” OR AB “Evaluation Indicator*” OR TI “Evaluation 
+Benchmark*” OR AB “Evaluation Benchmark*” OR TI “Evaluation Metric*” OR AB “Evaluation 
+Metric*” OR TI “Evaluation Index” OR AB “Evaluation Index” OR TI “Evaluation Indices” OR AB 
+“Evaluation Indices” OR TI “Process Indicator*” OR AB “Process Indicator*” OR TI “Process 
+Benchmark*” OR AB “Process Benchmark*” OR TI “Process Metric*” OR AB “Process Metric*” 
+OR TI “Process Index” OR AB “Process Index” OR TI “Process Indices” OR AB “Process Indices” 
+OR TI “Outcome Indicator*” OR AB “Outcome Indicator*” OR TI “Outcome Benchmark*” OR AB 
+“Outcome Benchmark*” OR TI “Outcome Metric*” OR AB “Outcome Metric*” OR TI “Outcome 
+Index” OR AB “Outcome Index” OR TI “Outcome Indices” OR AB “Outcome Indices” OR TI 
+“Performance Indicator*” OR AB “Performance Indicator*” OR TI “Performance Benchmark*” 
+OR AB “Performance Benchmark*” OR TI “Performance Metric*” OR AB “Performance Metric*” 
+OR TI “Performance Index” OR AB “Performance Index” OR TI “Performance Indices” OR AB 
+“Performance Indices” OR TI “Surveillance Indicator*” OR AB “Surveillance Indicator*” OR TI 
+“Surveillance Benchmark*” OR AB “Surveillance Benchmark*” OR TI “Surveillance Metric*” OR AB 
+“Surveillance Metric*” OR TI “Surveillance Index” OR AB “Surveillance Index” OR TI “Surveillance 
+Indices” OR AB “Surveillance Indices” OR TI “Monitoring Indicator*” OR AB “Monitoring Indicator*” 
+OR TI “Monitoring Benchmark*” OR AB “Monitoring Benchmark*” OR TI “Monitoring Metric*” OR 
+AB “Monitoring Metric*” OR TI “Monitoring Index” OR AB “Monitoring Index” OR TI “Monitoring 
+Indices” OR AB “Monitoring Indices” OR TI “Quality Indicator*” OR AB “Quality Indicator*” OR TI 
+“Quality Benchmark*” OR AB “Quality Benchmark*” OR TI “Quality Metric*” OR AB “Quality Metric*” 
+OR TI “Quality Index” OR AB “Quality Index” OR TI “Quality Indices” OR AB “Quality Indices” OR TI 
+“Capacity Indicator*” OR AB “Capacity Indicator*” OR TI “Capacity Benchmark*” OR AB “Capacity 
+Benchmark*” OR TI “Capacity Metric*” OR AB “Capacity Metric*” OR TI “Capacity Index” OR AB 
+“Capacity Index” OR TI “Capacity Indices” OR AB “Capacity Indices” OR TI “Governance Indicator*” 
+OR AB “Governance Indicator*” OR TI “Governance Benchmark*” OR AB “Governance Benchmark*” 
+OR TI “Governance Metric*” OR AB “Governance Metric*” OR TI “Governance Index” OR AB 
+“Governance Index” OR TI “Governance Indices” OR AB “Governance Indices” OR TI “Availability 
+Indicator*” OR AB “Availability Indicator*” OR TI “Availability Benchmark*” OR AB “Availability 
+Benchmark*” OR TI “Availability Metric*” OR AB “Availability Metric*” OR TI “Availability Index” OR 
+AB “Availability Index” OR TI “Availability Indices” OR AB “Availability Indices” OR TI “Affordability 
+Indicator*” OR AB “Affordability Indicator*” OR TI “Affordability Benchmark*” OR AB “Affordability 
+Benchmark*” OR TI “Affordability Metric*” OR AB “Affordability Metric*” OR TI “Affordability 
+Index” OR AB “Affordability Index” OR TI “Affordability Indices” OR AB “Affordability Indices” OR 
+TI “Risk Management Indicator*” OR AB “Risk Management Indicator*” OR TI “Risk Management 
+Benchmark*” OR AB “Risk Management Benchmark*” OR TI “Risk Management Metric*” OR AB 
+“Risk Management Metric*” OR TI “Risk Management Index” OR AB “Risk Management Index” OR TI 
+“Risk Management Indices” OR AB “Risk Management Indices” OR TI “Service Delivery Indicator*” 
+OR AB “Service Delivery Indicator*” OR TI “Service Delivery Benchmark*” OR AB “Service Delivery 
+Benchmark*” OR TI “Service Delivery Metric*” OR AB “Service Delivery Metric*” OR TI “Service 
+Delivery Index” OR AB “Service Delivery Index” OR TI “Service Delivery Indices” OR AB “Service 
+Delivery Indices” OR TI “Impact Indicator*” OR AB “Impact Indicator*” OR TI “Impact Benchmark*” 
+OR AB “Impact Benchmark*” OR TI “Impact Metric*” OR AB “Impact Metric*” OR TI “Impact Index” 
+OR AB “Impact Index” OR TI “Impact Indices” OR AB “Impact Indices” OR TI “Care Indicator*” OR AB 
+“Care Indicator*” OR TI “Care Benchmark*” OR AB “Care Benchmark*” OR TI “Care Metric*” OR AB 
+“Care Metric*” OR TI “Care Index” OR AB “Care Index” OR TI “Care Indices” OR AB “Care Indices” OR 
+TI “Health System Indicator*” OR AB “Health System Indicator*” OR TI “Health System Benchmark*” 
+OR AB “Health System Benchmark*” OR TI “Health System Metric*” OR AB “Health System Metric*” 
+OR TI “Health System Index” OR AB “Health System Index” OR TI “Health System Indices”

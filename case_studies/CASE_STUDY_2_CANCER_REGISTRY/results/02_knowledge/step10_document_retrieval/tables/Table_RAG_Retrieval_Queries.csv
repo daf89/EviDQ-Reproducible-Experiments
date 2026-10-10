@@ -1,0 +1,6 @@
+﻿feature,semantic_status,semantic_description,retrieval_query,query_source,normalized_query
+registry_stage_code,DOCUMENTED,registry stage,registry stage code registry stage,FEATURE_NAME+MINIMAL_DICTIONARY,registry stage code registry stage
+icdo3_m_code,NOT_DOCUMENTED,,icdo3 m code,FEATURE_NAME_ONLY,icdo3 m code
+age_diag,DOCUMENTED,age at diagnosis (years),age diag age at diagnosis (years),FEATURE_NAME+MINIMAL_DICTIONARY,age diag age at diagnosis years
+administr_unit,NOT_DOCUMENTED,,administr unit,FEATURE_NAME_ONLY,administr unit
+mkb10_code,DOCUMENTED,ICD-10 topography code,mkb10 code ICD-10 topography code,FEATURE_NAME+MINIMAL_DICTIONARY,mkb10 code icd 10 topography code

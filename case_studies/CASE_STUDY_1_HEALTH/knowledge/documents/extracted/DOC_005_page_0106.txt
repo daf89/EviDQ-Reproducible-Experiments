@@ -1,0 +1,59 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+106
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-04 Les équipes respectent les bonnes 
+pratiques d’administration des médicaments
+L’administration du médicament est la dernière étape du circuit du médicament. Toute erreur survenant à 
+cette étape et toute erreur préalable non récupérée à cette étape peuvent engendrer une erreur médica- 
+menteuse potentiellement source de dommage au patient. Il convient de garantir la qualité et la sécurité de 
+l’administration des médicaments en tenant compte de l’autonomie du patient, en tenant informés les autres 
+professionnels de santé des conditions d’exécution d’administration des prescriptions et en garantissant 
+l’identification du médicament et du patient jusqu’à la prise.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient, dont l’autonomie dans la prise de son traitement 
+est confirmée et tracée, est informé des médicaments qu'il 
+prend et des consignes d'administration.
+Patient 
+traceur
+ Professionnels 
+• Le médicament est systématiquement identifiable jusqu’à 
+son administration et l’équipe dispose d’étiquettes 
+respectant les recommandations pour tous les produits 
+injectables.
+• La concordance entre le produit, le patient et la prescription 
+est systématiquement réalisée avant l’administration.
+• L’administration ou le motif de non-administration du 
+médicament au patient est tracé dans son dossier. 
+Traceur ciblé
+Fiche pédagogique
+Évaluation de la prise en charge 
+médicamenteuse.
+Références HAS
+Interruption de tâche lors de
+l’administration des médicaments, 2016.
+Outils de sécurisation et d’auto-évaluation
+de l’administration des médicaments, 2013.
+Flash Sécurité « Calcul de doses 
+médicamenteuses - La règle de trois doit 
+rester la règle », 2022.
+Flash Sécurité « Dispositifs médicaux - 
+Bien s’en servir... pour éviter le pire », 2021.
+Guide sur l’auto-administration, 2022. 
+Le patient en auto-administration de ses 
+médicaments en cours d’hospitalisation.
+Références légales 
+et réglementaires
+• Art. R. 4311-7 du CSP.
+• Art. R. 4312-38 et R. 4312-42 du CSP.
+• Art. R. 6111-10 du CSP.
+Autres références
+• Inter diag médicaments en établissements 
+de santé V2 – ANAP, 2014.
+• Déclarations européennes de 
+la pharmacie hospitalière – EAHP, 2019.

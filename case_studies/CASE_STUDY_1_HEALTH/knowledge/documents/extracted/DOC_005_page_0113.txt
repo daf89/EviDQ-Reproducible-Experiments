@@ -1,0 +1,68 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+113
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-09 Les équipes maîtrisent la sécurité 
+transfusionnelle
+La prescription des produits sanguins labiles (concentré de globules rouges, plasma, concentrés plaquet
+taires) nécessite une traçabilité sanitaire pour assurer la qualité et la sécurité des soins, identifier les lots 
+administrés et évaluer la pertinence des prescriptions. La sécurité transfusionnelle a pour objectif d’identifier 
+les incidents ou effets indésirables potentiels liés à une transfusion qui menacent la santé des patients. 
+Les modalités de recueil, de conservation et d’accessibilité des informations de traçabilité sanitaire en lien 
+avec les produits sanguins labiles (PSL) doivent être définies et les informations transmises au patient. La 
+surveillance post transfusionnelle est assurée, notamment la prévention des complications (œdème aigu 
+pulmonaire – OAP Transfusion Associated Circulatory Overload, TACO, Transfusion Related Acute Lung 
+Injury – TRALI…).
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• L’équipe assure la traçabilité dans le dossier du patient 
+(dossier transfusionnel et dossier clinique) :
+– de la prescription ;
+– de l’administration ;
+– des facteurs de risque et de surveillance (constantes, 
+fréquence de mesure, durée de la surveillance) ;
+– de la transfusion.
+• L’équipe connaît les protocoles de prise en charge des 
+précautions standards liés aux complications graves 
+d’œdèmes aigus de surcharge posttransfusionnelle (OAP, 
+TRALI et TACO).
+• Le taux de destruction est mesuré.
+Traceur ciblé
+Fiche pédagogique
+Évaluation de la gestion des risques et des 
+vigilances. 
+Références HAS
+Gestion du capital sanguin en pré, per et 
+post opératoire et en obstétrique, 2022.
+Transfusions de globules rouges
+homologues : produits, indications,
+alternatives, 2014.
+Transfusion de plaquettes : produits,
+indications, 2015.
+Transfusion de plasma thérapeutique :
+produits, indications, 2012.
+Références légales 
+et réglementaires
+• Art. R. 1221-40 du CSP.
+• Art. R. 1221-45 du CSP.
+• Décret n° 2014-1042 du 12 septembre 
+2014 relatif au sang humain.
+• Note d’information DGS/PP4/ DGOS/PF2 
+du 18 avril 2019 relative à la prévention 
+des oedèmes pulmonaires de surcharge 
+post-transfusionnels (TACO – Transfusion 
+Associated Circulatory Overload).
+Autres références
+• FDA. Fatalities reported to FDA following 
+blood collection and transfusion. Annual 
+summary for fiscal year 2010. 
+• Ozier Y, Mertes PM. Trali et Taco : 
+diagnostic et prise en charge clinique des 
+patients. Transfus Clin Biol 2009 ; 16:152-8. 
+• Les œdèmes aigus de surcharge 
+post-transfusionnels – ANSM, 
+septembre 2013.

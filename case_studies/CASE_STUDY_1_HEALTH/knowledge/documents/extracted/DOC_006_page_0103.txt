@@ -1,0 +1,11 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+Exhibit 47: Generic Example of a CQM Run Chart 
+Exhibits 48 and 49 illustrate a more complex use of a time-oriented visualization from the MHS Diabetes 
+Case Study presented in Section 6. Exhibit 48 shows how a composite performance measure was used to 
+plot changes in the quality of diabetes care. Not only is the trend easyto see, but the difference in 
+performance between MD-centric measures (process) and Patient-centric (outcomes) raises some 
+intriguing questions. Exhibit 49 yields even more information by combining a time series, performance 
+rates for five different CQMs, and highlights the timing of eight specific EHR interventions. 
+Health IT Advisor Handbook 
+Page 98

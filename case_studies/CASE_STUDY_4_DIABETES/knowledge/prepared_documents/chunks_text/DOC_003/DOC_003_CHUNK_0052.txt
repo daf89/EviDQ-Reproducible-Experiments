@@ -1,0 +1,186 @@
+
+
+===== PDF PAGE 103 =====
+
+Choosing the Sample Design, Continued 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-16 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Multi-stage 
+Cluster 
+Sampling 
+Terminology 
+The table below describes some key terminology for multi-stage cluster 
+sampling. 
+ 
+Term 
+Definition 
+Primary Sampling Unit (PSU) 
+These are the clusters that are selected 
+first. Most often the PSUs are 
+enumeration areas (EAs) from a recent 
+census. 
+Secondary Sampling Unit (SSU) 
+The clusters that are selected  second, 
+separately  within each selected PSU. 
+Tertiary Sampling Unit (TSU) 
+The clusters that are selected third, 
+separately within each selected SSU. 
+ 
+The list of terms could be extended to describe more levels of sampling as 
+needed. 
+ 
+ 
+ 
+Example 1 
+In the following example, there are three stages of sampling. EAs are serving 
+as the PSUs.  For each selected PSU,  a  sampling frame  was created 
+comprised of a list of households in the EA. Households were then selected 
+within each PSU and then one participant  was selected  within  each 
+household. 
+ 
+Shaded boxes indicate that the cluster or participant was selected. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Continued on next page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+
+
+===== PDF PAGE 104 =====
+
+Choosing the Sample Design, Continued 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-17 
+WHO STEPS Surveillance 
+ 
+ 
+Example 2 
+In this example, there are four stages of sampling. Districts are serving as the 
+PSUs. For each selected PSU, a sampling frame was created comprised of a  
+list of all villages (the SSUs) with the target population of each village. For 
+each selected village, a sampling frame was also created, comprised of a list   
+of all households in the village.  If a detailed list of all eligible individuals  
+were available for any selected village, this list could be used in place of the 
+household list and selection could proceed directly from the village level to   
+the participant level. 
+Shaded boxes indicate that the cluster or participant was selected. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Qualities of a 
+Good Multi- 
+stage Cluster 
+Design 
+One very important check to perform on the multi-stage cluster design is that 
+every individual in the target population is included in only one sampling unit 
+per stage.  This means that the clusters at each level of sampling must cover  
+the entire target population and be mutually exclusive (non-overlapping). 
+Additionally, it is important to check the characteristics of the PSUs. The 
+first two items in the table below can be used to check the SSUs, TSUs, etc. 
+as well, but given the nature of multi-stage cluster designs, these checks are 
+most critical for the PSUs. 
+ 
+If … 
+Then … 
+PSUs exist that are very small. 
+Combine these PSUs with a 
+neighboring PSU before selecting the 
+sample. 
+PSUs exist that are very large. 
+Split these PSUs into two or more 
+smaller PSUs that are more similar in 
+size to other PSUs. 
+Total number of PSUs is small 
+(i.e. <100). 
+Begin sampling at the SSU level (the 
+SSUs would then become PSUs) or 
+subdivide the existing PSUs to ensure 
+that at least 50-100 PSUs can be 
+selected. 
+ 
+Continued on next page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 
+Participant 

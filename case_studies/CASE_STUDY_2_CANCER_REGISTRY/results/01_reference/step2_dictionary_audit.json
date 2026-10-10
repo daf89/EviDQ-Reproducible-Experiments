@@ -1,0 +1,42 @@
+{
+    "framework": "DEMARCHE_ENCAD3",
+    "case_study": "Cancer Registry simulated dataset",
+    "phase": "01_REFERENCE",
+    "step": "02_MINIMAL_SEMANTIC_DICTIONARY_FINAL",
+    "timestamp": "2026-09-20T21:12:04.827712",
+    "source_file": "metadata_original.xlsx",
+    "source_sheet": "variable_catalogue",
+    "selected_dataset_id": "LUNG_SURV_DEMO_v1",
+    "authorized_columns": [
+        "variable",
+        "description",
+        "type",
+        "role",
+        "coding_values"
+    ],
+    "dataset_ref_features": 27,
+    "documented_features": 10,
+    "undocumented_features": [
+        "registration_number",
+        "disease_id",
+        "sex_name",
+        "birth_date",
+        "vital_status_code",
+        "vital_status_name",
+        "diag_date_valid_name",
+        "mkb10_name",
+        "icdo3_m_code",
+        "icdo3_m_name",
+        "registry_stage_name",
+        "stage_definition_name",
+        "diagnosis_method_code",
+        "diagnosis_method_name",
+        "finding_code",
+        "finding_name",
+        "administr_unit"
+    ],
+    "reference_rules_used": false,
+    "rule_parameters_used": false,
+    "correction_information_used": false,
+    "dataset_modified": false
+}

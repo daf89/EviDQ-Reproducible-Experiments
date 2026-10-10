@@ -1,0 +1,51 @@
+{
+    "case_study": "Cancer Registry simulated dataset",
+    "framework": "DEMARCHE_ENCAD3",
+    "phase": "01_REFERENCE",
+    "step": "Dataset_REF audit",
+    "audit_timestamp": "2026-09-20T21:00:09.528882",
+    "dataset_file": "simulated_registry_data.csv",
+    "n_rows": 1902,
+    "n_columns": 27,
+    "duplicate_rows": 12,
+    "numeric_columns": [
+        "sex_code",
+        "age_diag",
+        "vital_status_code",
+        "diag_year",
+        "registry_stage_code",
+        "diagnosis_method_code",
+        "finding_code"
+    ],
+    "non_numeric_columns": [
+        "registration_number",
+        "disease_id",
+        "sex_name",
+        "birth_date",
+        "vital_status_name",
+        "death_date",
+        "diag_date",
+        "diag_date_valid_name",
+        "mkb10_code",
+        "mkb10_name",
+        "mkb10_3char",
+        "histology_code",
+        "icdo3_m_code",
+        "icdo3_m_name",
+        "registry_stage_name",
+        "stage_definition_code",
+        "stage_definition_name",
+        "diagnosis_method_name",
+        "finding_name",
+        "administr_unit"
+    ],
+    "constant_features": [
+        "diag_date_valid_name"
+    ],
+    "python_version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "pandas_version": "2.3.3",
+    "numpy_version": "2.3.5",
+    "data_modified": false,
+    "reference_rules_used": false
+}

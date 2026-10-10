@@ -1,0 +1,103 @@
+Out-of-office BP measurement is recommended for diagnostic purposes, particularly because it can detect both white-coat hypertension and 
+masked hypertension. Where out-of-office measurements are not logistically and/or economically feasible, then it is recommended that the 
+diagnosis be confirmed with a repeat office BP measurement using the correct standardized measurement technique. 
+I 
+B 
+It is recommended that office BP should be measured in both arms at least at the first visit, because a between-arm systolic BP difference of 
+>10 mmHg is associated with an increased CVD risk and may indicate arterial stenosis. 
+I 
+B 
+If a between-arm difference of >10 mmHg in systolic BP is recorded, then it is recommended that all subsequent BP readings use the arm with 
+the higher BP reading. 
+I 
+B 
+Out-of-office BP measurement is recommended for ongoing management to quantify the effects of treatment and guide BP-lowering 
+medication titration, and/or identify possible causes of side effects (e.g. symptomatic hypotension). Where out-of-office measurements are 
+not logistically and/or economically feasible then ongoing management is recommended to be based on repeated office BP measurements 
+using the correct standardized measurement technique. 
+I 
+B 
+It is recommended that all patients undergoing BP measurement also undergo pulse palpation at rest to determine heart rate and arrhythmias 
+such as AF. 
+I 
+C 
+6. Definition and classification of elevated blood pressure and hypertension 
+It is recommended that BP be categorized as non-elevated BP, elevated BP, and hypertension to aid treatment decisions. 
+I 
+B 
+It is recommended to use a risk-based approach in the treatment of elevated BP, and individuals with moderate or severe CKD, established 
+CVD, HMOD, diabetes mellitus, or familial hypercholesterolaemia are considered at increased risk for CVD events. 
+I 
+B 
+SCORE2 is recommended for assessing 10-year risk of fatal and non-fatal CVD among individuals aged 40–69 years with elevated BP who are 
+not already considered at increased risk due to moderate or severe CKD, established CVD, HMOD, diabetes mellitus, or familial 
+hypercholesterolaemia. 
+I 
+B 
+SCORE2-OP is recommended for assessing the 10-year risk of fatal and non-fatal CVD among individuals aged ≥70 years with elevated BP 
+who are not already considered at increased risk due to moderate or severe CKD, established CVD, HMOD, diabetes mellitus, or familial 
+hypercholesterolaemia. 
+I 
+B 
+It is recommended that, irrespective of age, individuals with elevated BP and a SCORE2 or SCORE2-OP CVD risk of ≥10% be considered at 
+increased risk for CVD for the purposes of risk-based management of their elevated BP. 
+I 
+B 
+7. Diagnosing hypertension and investigating underlying causes 
+In individuals with increased CVD risk where their screening office BP is 120–139/70–89 mmHg, it is recommended to measure BP 
+out-of-office, using ABPM and/or HBPM or, if not logistically feasible, make repeated office BP measurements on more than one visit. 
+I 
+B 
+Where screening office BP is 140–159/90–99 mmHg, it is recommended that the diagnosis of hypertension should be based on out-of-office 
+BP measurement with ABPM and/or HBPM. If these measurements are not logistically or economically feasible, then diagnosis can be made on 
+repeated office BP measurements on more than one visit. 
+I 
+B 
+Where screening BP is ≥160/100 mmHg: 
+• It is recommended that BP 160–179/100–109 mmHg is confirmed as soon as possible (e.g. within 1 month) preferably by either home or 
+ambulatory BP measurements. 
+• It is recommended when BP is ≥180/110 mmHg that hypertensive emergency be excluded. 
+I 
+C 
+It is recommended to measure serum creatinine, eGFR, and urine ACR in all patients with hypertension. 
+I 
+A 
+If moderate-to-severe CKD is diagnosed, it is recommended to repeat measurements of serum creatinine, eGFR, and urine ACR at least 
+annually. 
+I 
+C 
+A 12-lead ECG is recommended for all patients with hypertension. 
+I 
+B 
+Echocardiography is recommended in patients with hypertension and ECG abnormalities, or signs or symptoms of cardiac disease. 
+I 
+B 
+Fundoscopy is recommended if BP >180/110 mmHg in the work-up of hypertensive emergency and malignant hypertension, as well as in 
+hypertensive patients with diabetes. 
+I 
+C 
+Routine genetic testing for patients with hypertension is not recommended. 
+III 
+C 
+It is recommended that patients with hypertension presenting with suggestive signs, symptoms, or medical history of secondary hypertension 
+are appropriately screened for secondary hypertension. 
+I 
+B 
+8. Preventing and treating elevated blood pressure 
+Restriction of sodium to approximately 2 g per day is recommended where possible in all adults with elevated BP and hypertension [this is 
+equivalent to about 5 g of salt (sodium chloride) per day or about a teaspoon or less]. 
+I 
+A 
+Moderate-intensity aerobic exercise of ≥150 min/week [moderate aerobic exercise (≥30 min, 5–7 days/week) or alternatively 75 min of 
+vigorous exercise per week over 3 days] is recommended and should be complemented with low- or moderate-intensity dynamic or 
+isometric resistance training (2–3 times/week) to reduce BP and CVD risk. 
+I 
+A 
+It is recommended to aim for a stable and healthy BMI (20–25 kg/m2) and waist circumference values (<94 cm in men and <80 cm in women) 
+to reduce BP and CVD risk. 
+I 
+A 
+Continued 
+3990 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

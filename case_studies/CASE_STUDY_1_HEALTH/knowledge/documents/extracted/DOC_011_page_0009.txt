@@ -1,0 +1,32 @@
+6 
+limited to: drug stores, grocery stores, discount stores, mail order pharmacies, online pharmacies, 
+clinics, HMOs, and hospitals. 
+Long-term Health Care Facilities (Nursing Homes, Assisted Living Facilities, etc.) 
+Long-term health care facilities, which included nursing homes, assisted living facilities, 
+rehabilitation facilities, as well as other health care facilities providing long-term health care to a 
+sample person (who, for periods of time during calendar year 2016, also resided in the 
+community), were considered in scope for MPC collection. Expenditures from long term care 
+facilities, while collected in the MPC for methodological purposes of tracking and evaluating full-
+year expenses for persons who were institutionalized part of the year, were not included in final 
+MEPS expenditure data. 
+MPC Instruments and Data Collection Procedures 
+MPC samples are fielded on an ongoing basis as health care provider data are collected in the 
+MEPS HC. More specifically, the MPC fielding is done in waves, as sample sizes from the HC 
+become large enough to be fielded efficiently. The 2016 data year provider sample was fielded in 
+multiple waves during calendar year 2017 and early 2018. Hospitals, long-term health care 
+facilities, office-based providers, home care providers, and HMO providers were all fielded as 
+one group. The first wave of this group was fielded in February 2017 and the last wave was 
+fielded in August 2017. Pharmacy providers were the second group, with the first wave fielded in 
+February 2017 and the last wave fielded in July 2017. Separately billing doctors were the last 
+provider group fielded, with the first SBD wave released in August 2017 and the last SBD wave 
+fielded in November 2017. 
+All providers fielded for the MPC were contacted via telephone by a data collection specialist 
+(DCS). To facilitate efficient navigation through the provider’s organization, the DCS followed a 
+scripted contact guide. A separate contact guide was designed for each provider type (hospital, 
+office-based provider, home care, pharmacy, SBD). The contact guides used for the MPC 2016 
+data year collection can be found at the following link: 
+https://meps.ahrq.gov/mepsweb/survey_comp/survey_results_MPC_CG_ques.jsp?MPC_CG=All
+&MPC_CGYr=2016&Submit5=Search. 
+Following the contact guide, the DCS identified the appropriate respondent (source of data) with 
+release of information authority, explained the nature of the study, gained cooperation, and 
+determined the mode of data collection.

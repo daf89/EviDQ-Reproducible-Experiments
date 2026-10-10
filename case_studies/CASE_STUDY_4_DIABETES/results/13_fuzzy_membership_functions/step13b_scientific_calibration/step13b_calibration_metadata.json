@@ -1,0 +1,25 @@
+{
+  "step": "STEP13B",
+  "name": "SCIENTIFIC_CALIBRATION_OF_FUZZY_MEMBERSHIP_FUNCTIONS",
+  "timestamp_utc": "2026-10-03T00:03:03.530777+00:00",
+  "baseline": "DQ",
+  "reference_dataset_used_in_fuzzy": false,
+  "test_accessed": false,
+  "new_model": false,
+  "new_shap": false,
+  "fuzzy_inference_performed": false,
+  "recommendation_generated": false,
+  "action_values_used_for_membership_calibration": false,
+  "number_of_fuzzy_variables": 4,
+  "membership_parameters_frozen": false,
+  "freeze_policy": [
+    "MATHEMATICALLY_VALID",
+    "SCIENTIFICALLY_JUSTIFIED",
+    "REFERENCE_DOCUMENTED",
+    "SENSITIVITY_DEFINED",
+    "NOT_ACTION_FITTED"
+  ],
+  "calibration_registry_sha256": "195ddeb28ff9caff3b9a88713045bca3c0b7590ac23406e0f0d8171c6df83cb8",
+  "parameter_register_sha256": "81dfd4ab5afa71c30b08dbe9bd436ad26e5da240cc7be117b78929d54c648064",
+  "status": "PASS_CALIBRATION_STRUCTURE_ONLY"
+}

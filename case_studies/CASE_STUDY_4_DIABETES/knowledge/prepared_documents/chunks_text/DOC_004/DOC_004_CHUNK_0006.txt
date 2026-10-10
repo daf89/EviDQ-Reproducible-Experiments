@@ -1,0 +1,281 @@
+
+
+===== PDF PAGE 11 =====
+
+Stage of validation
+Description
+Stage 0: Data
+confirmation
+Team gives data contributor a catalog of required data domains to confirm and describe. The MENDS Coordinating Center reviews the results, and
+any anomalies are discussed with the data contributor so that missing data are identified before an extract, transform, and load (ETL) script is built.
+This stage was added after multiple partner sites completed initial data loads with missing critical data. Stage 0 was completed by only 1 data
+contributor.
+Stage 1: Extract,
+transform, and load (ETL)
+script
+SQL (structured query language) scripts are run on the MENDS database to summarize the total counts of patients, encounters, vital signs,
+laboratories, and prescriptions over time. The MENDS Coordinating Center reviews the results. When issues are identified, the source data and ETL
+are reexamined, fixes are made as appropriate and feasible to source data or ETL, and data are reextracted and loaded into the MENDS database.
+Stage 2: Data
+characterization
+SQL scripts are run on the MENDS database to characterize the distribution of critical data, including calculating minimum, maximum, mean, and
+median values. The MENDS Coordinating Center reviews the results. Characterization ensures that the MENDS database is providing valid indicators
+of clinically meaningful population parameters for epidemiology.
+Stage 3: Algorithm
+Randomly selected patient identifiers are provided to a data contributor to confirm, in their source data, that the algorithm code is correctly
+identifying conditions as specified. The MENDS Coordinating Center reviews the results. If indicators do not pass at 90%, updates are made to the
+ETL, source data, or MENDS database, and replacement identifiers are provided.
+Stage 4: External
+indicator algorithm
+Partner sites compare MENDS surveillance estimates with surveillance information from alternative comparable data sources such as the Behavioral
+Risk Factor Surveillance System (BRFSS), National Health and Nutrition Examination Survey (NHANES), or claims-based estimates.
+ Stage 0 was introduced later in the project as a quality improvement effort to alleviate issues later in the validation pathway. Only 1 partner site joined MENDS after Stage 0 was
+established.
+ Source data validation steps may occur 1 time, while subsequent validation steps are repeated for each surveillance indicator.
+ MENDS validation is a 5-stage process. Stages 0 through 3 are internal validation steps to confirm that the data flows and algorithms work effectively before indicator calculation.
+Stage 4 is an external validation step that compares indicators with estimates from other data sources. This study focused on internal validations steps and findings, but Stage 4 is
+included in this table for completeness.
+Table 2. Counts of Planned and Completed Stage 3 Validation Reviews by Condition and Outcome in Multi-
+State EHR-Based Network for Disease Surveillance (MENDS)
+Condition
+Outcome
+Planned
+Completed
+Hypertension
+All
+100
+100
+Clinical hypertension
+20
+20
+Diagnosed hypertension, controlled
+20
+20
+Diagnosed hypertension, uncontrolled
+20
+20
+Diagnosed hypertension, unknown control
+20
+20
+No hypertension
+20
+20
+Smoking
+All
+80
+20
+Never smoker
+20
+5
+Current smoker
+20
+5
+Former smoker
+20
+5
+Status unknown
+20
+5
+Cholesterol
+All
+84
+20
+HDL, elevated
+7
+2
+HDL, healthy
+7
+2
+HDL, no results in the last year
+7
+1
+LDL, elevated
+7
+2
+LDL, healthy
+7
+2
+LDL, no results in the last year
+7
+1
+Total cholesterol, elevated
+7
+2
+Total cholesterol, healthy
+7
+2
+Total cholesterol, no results in the last year
+7
+1
+Triglycerides, elevated
+7
+2
+Triglycerides, healthy
+7
+2
+Triglycerides, no results in the last year
+7
+1
+Diabetes
+All
+67
+20
+Prediabetes
+5
+0
+Type 1 diabetes, controlled
+7
+4
+Type 1 diabetes, poor control status
+7
+3
+Type 1 diabetes, unknown control status
+7
+3
+Type 2 diabetes, controlled
+7
+4
+Type 2 diabetes, poor control status
+7
+3
+Type 2 diabetes, unknown control status
+7
+3
+Gestational diabetes
+20
+0
+Obesity
+All
+41
+20
+Obesity
+7
+4
+Overweight
+7
+3
+Healthy weight
+7
+3
+Height and weight for children
+20
+10
+Total
+All
+372
+180
+Abbreviations: HLD, high-density lipoprotein; LDL, low-density lipoprotein.
+a,b
+b
+c
+a
+b
+c
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+11/12
+
+
+===== PDF PAGE 12 =====
+
+  Was this page helpful?
+Yes 
+Partly 
+No
+Top
+Table 3. Description and Resolution of Representative Data Quality Issues Identified During Validation of
+Multi-State EHR-Based Network for Disease Surveillance (MENDS)
+Data quality issue
+Description
+Process modified
+Resolution
+Missing data, low
+volume
+Source data had incomplete historical laboratory
+data
+Source data
+corrected
+Data contributor updated source data and reloaded data in MENDS, which
+increased laboratory result data volume from 4 million to 69 million events.
+No specific errors were identified
+No actions needed
+No actions taken.
+Change in pharmacy vendor resulted in storage of
+prescription orders in a second location in the
+source data
+ETL updated
+Data contributor modified ETL to pull prescription orders from both locations
+and refreshed data in MENDS to increase prescription volume.
+Some health systems were not providing vital
+sign data to the data contributor
+ETL updated to
+exclude affected
+systems
+Data contributor could not directly resolve this issue; health systems without
+substantial vital sign data were excluded from MENDS database.
+Missing data,
+incomplete records
+Missing data accurately reflected data received
+from health systems.
+Unresolved
+Issue was noted, and no further action could be taken to correct this issue in
+the MENDS database.
+Zip codes were collected by health systems but
+not consistently shared with the data contributor.
+Source data
+corrected
+Data contributor corrected data feeds from its health systems and refreshed
+data in MENDS, which reduced missingness from nearly half to only 4% of
+patients.
+Missing patients
+MENDS patient identifiers did not match a patient
+in source data, so diagnosis could not be
+confirmed.
+No actions needed
+This error results from routine updates of patient identifiers, duplicate removal,
+and health system or patient offboarding; patient list for review was revised to
+replace missing patients to complete validation.
+Orphan observations
+Heights, weights, and blood pressures were
+submitted without association with an encounter.
+ETL updated
+To retain these observations for selective use in some algorithms, MENDS
+database vendor developed a process to create a generic encounter based on
+available information.
+Additional clinical
+data terminologies
+Diagnostic codes were stored using SNOMED
+instead of ICD-10-CM terminology.
+Algorithms updated
+MENDS used available terminology mapping tool to convert SNOMED codes to
+ICD-10-CM when data were loaded into ESP.
+Source data
+processing, mapping
+Higher-than-expected proportion of patients were
+found in low-frequency class of race and ethnicity
+due to mapping error.
+ETL updated
+Mapping assignments for race and ethnicity were corrected in the MENDS
+database.
+Incorrect zero values
+High frequency of zero values were found in
+height and weight fields.
+Source data
+corrected
+To correct source data, data contributor corrected processing error affecting
+incoming health system data.
+Source data
+processing,
+extraction
+Weight and height were rounded incorrectly
+before extraction.
+ETL updated
+Extraction was updated to correct rounding error.
+Abbreviations: ESP, Electronic Medical Record Support for Public Health; ETL, extract, transform, and load; ICD-10-CM, International Classification of Diseases, 10th Revision,
+Clinical Modification ; SNOMED, Systematized Nomenclature of Medicine.
+Last Reviewed: June 13, 2024
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+12/12

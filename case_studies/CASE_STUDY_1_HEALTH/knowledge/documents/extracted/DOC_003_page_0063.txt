@@ -1,0 +1,128 @@
+systolic hypertension studies used systolic BP treatment targets of 160 or 
+150 mmHg.718 However, results from the SPRINT and the Strategy of 
+Blood Pressure Intervention in Elderly Hypertensive Patients (STEP) trials 
+(mean BP at study entry of 140/78 mmHg and 146/82 mmHg, respective-
+ly, indicating that many of the patients had isolated systolic hypertension) 
+confirm that lower systolic BP targets are effective in reducing CVD 
+events 
+in 
+patients 
+with 
+isolated 
+systolic 
+hypertension 
+(see 
+Supplementary data online).135,136 
+Since relative risk reduction by BP-lowering treatment is homoge-
+neous in any age group, whereas absolute risk reduction is larger 
+with advancing age,131 therapeutic inertia in older patients with isolated 
+systolic hypertension should be avoided (see Section 9.3). As noted earl-
+ier, beta-blockers should be avoided in patients with isolated systolic 
+hypertension or more generally with arterial stiffness, as they increase 
+stroke volume (given the lower heart rate).218 
+9.4.3. Isolated systolic hypertension in young adults 
+In young adults (<40 years old), the presence of isolated systolic hyper-
+tension poses different pathophysiological and clinical considerations. In 
+young patients with isolated systolic hypertension, arterial stiffness713 
+and relative risk of CVD events624 appear to be similar to those without 
+isolated systolic hypertension and lower than young adults with com-
+bined systolic-diastolic hypertension and isolated diastolic hypertension. 
+Indeed, younger patients with isolated systolic hypertension appear to 
+comprise a heterogeneous group.719 For these reasons, it might be rea-
+sonable to assess central BP and arterial stiffness in these individuals, as 
+recommended by other scientific societies.720,721 Out-of-office BP meas-
+urement is recommended to exclude white-coat hypertension, which is 
+often associated with isolated systolic hypertension in the young.634 
+9.4.4. Isolated diastolic hypertension 
+Isolated diastolic hypertension is defined as a systolic BP of <140 mmHg 
+with a diastolic BP of ≥90 mmHg. The isolated diastolic hypertension 
+phenotype is more commonly seen in younger adults and, particularly, 
+younger adults with obesity or other metabolic derangements.722,723 In 
+older adults with this phenotype, consideration should be given to 
+whether the diastolic BP was accurately measured.724 
+Patients with isolated diastolic hypertension appear to have a slightly 
+increased relative risk for CVD of 5%–30%.548,723,725 However, be-
+cause patients with isolated diastolic hypertension are younger, they 
+tend to have few events, and very large samples are required to 
+show this association. Furthermore, because the absolute risk for 
+CVD among these individuals is low (typically <10% over 10 years), it 
+is less clear if isolated diastolic hypertension should prompt initiation 
+of BP-lowering medication, particularly among persons in whom base-
+line systolic BP is already at the target of 120–129 mmHg.723 
+Irrespective, patients with isolated diastolic hypertension should be fol-
+lowed up, as they are at increased risk for systolic hypertension.723 
+Finally, it is also worth noting that when a patient achieves a target 
+systolic BP of 120–129 mmHg with BP-lowering treatment, there is lit-
+tle to no high-quality trial evidence that further intensifying BP-lowering 
+medication to achieve both systolic BP of <120 mmHg and also diastol-
+ic BP of <70 mmHg improves CVD prognosis.547,723 
+9.5. Orthostatic hypotension with supine 
+hypertension 
+Patients with orthostatic hypotension need not be hypotensive and in-
+deed, many have supine elevated BP or supine hypertension. 
+Furthermore, many patients with orthostatic hypotension are asymp-
+tomatic. Orthostatic hypotension is present in around 10% of all adults 
+with hypertension and is defined as a drop in BP of ≥20/10 mmHg after 
+rising from either a sitting or lying position to a standing position (see 
+Section 5.5.3).97,99 Assessment for orthostatic hypotension should be 
+timed to occur at 1 and/or 3 min after standing. Because seated to 
+standing assessment can lead to under-detection of orthostatic hypo-
+tension, it is preferable, where possible, to test for orthostatic hypoten-
+sion using a supine (lying) to standing assessment (see Section 5).56,98,726 
+Assessing for orthostatic hypotension is important in managing adults 
+with elevated BP or hypertension for several reasons. First, findings of trials 
+linking more intensive BP control to improved outcomes may not gener-
+alize to patients with orthostatic hypotension, particularly when it is severe 
+in magnitude (standing systolic BP < 110 mmHg97) and/or symptomatic. 
+Second, orthostatic hypotension may be associated with symptoms that 
+may limit the patient’s tolerability of more intensive BP-lowering 
+approaches. Third, orthostatic hypotension may be associated with an in-
+creased risk of adverse effects commonly co-attributed to pharmacological 
+BP lowering (such as hospitalizations for hypotension).727 Fourth, ortho-
+static hypotension is associated with increased risk for CVD.728 
+However, the frequency of orthostatic hypotension is not increased 
+in the more intensive BP-lowering arms of randomized trials compared 
+with the less intensive BP-lowering arms.726,727,729,730 As such, and in 
+contrast to common belief, it does not appear that more intensive 
+treatment of BP (which almost always requires more BP-lowering 
+medication) worsens orthostatic hypotension. In contrast, there is 
+some evidence that more intensive treatment of hypertension may ac-
+tually reduce the risk of orthostatic hypotension.730,731 
+The aetiology of orthostatic hypotension may be considered as 
+neurogenic or non-neurogenic, with the latter being far more com-
+mon.99 Patients with orthostatic hypotension may have underlying neu-
+rodegenerative diseases, diabetes, B12 deficiency,732 renal failure, 
+dehydration, prolonged recumbency, deconditioning, and triggering 
+medications (like alpha-blockers, beta-blockers, diuretics, nitrates, anti-
+depressants, and antipsychotics). Of note, ACE inhibitors, ARBs, and 
+dihydropyridine CCBs are examples of BP-lowering medications that 
+appear to have less impact on orthostatic hypotension, and their ad-
+verse impact, if any, on orthostatic hypotension typically occurs in 
+the first 2 weeks or so after starting or intensifying treatment.733 
+Managing patients with supine hypertension and orthostatic hypoten-
+sion is a common clinical conundrum. More detailed reviews on this topic 
+are available elsewhere.98,99 The approach to managing orthostatic hypo-
+tension should be non-pharmacological at first. Patients with orthostatic 
+hypotension should be asked to change position slowly, maintain ad-
+equate hydration, and avoid alcohol and large meals. Compression stock-
+ings, crossing legs while standing, and abdominal binders may also help and 
+should be trialled.734,735 Abdominal heating pads and a head-up bed pos-
+ition can reduce supine (typically nocturnal) hypertension, which may re-
+duce nocturnal diuresis and daytime orthostatic hypotension.736 
+The treatment of orthostatic hypotension among those with supine 
+hypertension is not to automatically down-titrate BP-lowering medica-
+tions. Rather, reversible causes should be sought and treated (including 
+discontinuation of offending medications), and patients requiring 
+BP-lowering medication should be switched to BP-lowering medications 
+that are less likely to cause orthostatic hypotension. When symptoms are 
+disabling and the above interventions do not help, particularly in neuro-
+genic orthostatic hypotension, the best evidence exists for midodrine 
+to reverse orthostatic hypotension, and this may be given in conjunction 
+with ongoing BP-lowering medications when supine hypertension ex-
+ists.99 An alternative option to midodrine is droxidopa, though this is 
+less readily available. Specialist referral is prudent when persons with su-
+pine hypertension are prescribed these orthostatic hypotension treat-
+ments, as these agents can increase supine BP more than standing BP. 
+3974 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

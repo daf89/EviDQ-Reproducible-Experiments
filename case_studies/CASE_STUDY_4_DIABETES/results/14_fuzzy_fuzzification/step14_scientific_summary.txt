@@ -1,0 +1,52 @@
+DEMARCHE_ENCAD3 — STEP 14
+FREEZE DES MF NOMINALES ET FUZZIFICATION
+
+SCIENTIFIC PURPOSE
+------------------
+Transform the four frozen quantitative evaluation metrics into fuzzy membership degrees without performing fuzzy inference or recommendation.
+
+BASELINE AND DATA POLICY
+------------------------
+Baseline: Dataset_DQ
+Dataset_REF used: FALSE
+TEST accessed: FALSE
+New model trained: FALSE
+New SHAP computed: FALSE
+New DQ action applied: FALSE
+
+FUZZY INPUTS
+------------
+1. Delta Balanced Accuracy vs DQ
+2. Relative Age SHAP change vs DQ
+3. Stability Cosine Mean
+4. Operational Coverage
+
+MF POLICY
+---------
+Membership functions are frozen for the nominal analysis before fuzzy rule construction.
+Action results were NOT used to fit or optimize MF parameters.
+Sensitivity analysis remains mandatory after nominal fuzzy inference.
+
+DOMINANT TERMS — DESCRIPTIVE ONLY
+---------------------------------
+   Action     FuzzyVariable  NumericValue      DominantTerm  DominantMembership
+      DOC          COVERAGE      0.902597          MODERATE            0.967538
+      DOC EXPLANATION_SHIFT      0.183793          MODERATE            0.418965
+      DOC       PERFORMANCE      0.000000         PRESERVED            1.000000
+      DOC         STABILITY      0.999171              HIGH            1.000000
+ITERATIVE          COVERAGE      1.000000 FULL_OR_NEAR_FULL            1.000000
+ITERATIVE EXPLANATION_SHIFT      0.075821               LOW            1.000000
+ITERATIVE       PERFORMANCE      0.000000         PRESERVED            1.000000
+ITERATIVE         STABILITY      0.998935              HIGH            1.000000
+      KNN          COVERAGE      1.000000 FULL_OR_NEAR_FULL            1.000000
+      KNN EXPLANATION_SHIFT      0.572249              HIGH            1.000000
+      KNN       PERFORMANCE     -0.016073          DEGRADED            0.510862
+      KNN         STABILITY      0.999048              HIGH            1.000000
+   MEDIAN          COVERAGE      1.000000 FULL_OR_NEAR_FULL            1.000000
+   MEDIAN EXPLANATION_SHIFT      0.494695              HIGH            0.973477
+   MEDIAN       PERFORMANCE      0.000000         PRESERVED            1.000000
+   MEDIAN         STABILITY      0.998716              HIGH            1.000000
+
+No score, ranking or recommendation was generated in STEP 14.
+
+STATUS: PASS_FUZZIFICATION_ONLY

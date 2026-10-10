@@ -1,0 +1,75 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+EHR Element 
+Description 
+• 
+Imaging results from different providers may have unique names in the 
+EHR (Mammogram versus Mammogram, Screening) or incorrect test code 
+mapping (LOINC, CPT). 
+• 
+Diagnostic imaging results may be received as unstructured text (scans, 
+faxes). 
+Encounter 
+Information 
+• 
+Screening tests are often requested for annual wellness visits as part of 
+standing order protocol. 
+• 
+Assessment and billing codes applied to an encounter may indicate 
+services and tests provided for screening and preventive care 
+Health Concerns 
+• 
+It may be difficult to distinguish tests and services ordered for diagnostic, 
+treatment, and management purposes from “true” preventive care 
+(mammograms, Pap tests, colonoscopy). 
+• 
+Self-reported assessments on substance use and depression may not be 
+recorded as unstructured data (scans, faxes). 
+• 
+A validated screening tool must be used for gathering patient substance 
+use data. 
+Immunizations 
+• 
+Immunization data in an EHR may not include vaccinations delivered 
+outside of the clinic (see Alternative Data Sources). 
+• 
+Immunizations can be confirmed with state immunization registries and 
+some practices have a link to their state immunization registry on their 
+website. 
+Laboratory 
+• 
+Results for screening tests may be recorded as unstructured data (scan, 
+fax). 
+• 
+Results from outside labs or providers may not be recorded in the EHR (see 
+Alternative Data Sources). 
+• 
+Results from different labs may have unique names in the EHR (HbA1c 
+versus Hemoglobin A1c) or incorrect test code mapping (LOINC). 
+• 
+Pathology and cytology results (Pap tests) may be received as unstructured 
+text (scans, faxes). 
+Medications 
+• 
+Rarely used for preventive care QI. 
+Patient 
+Demographics 
+• 
+Used to identify individuals eligible for recommended preventive care 
+services. 
+• 
+Patient demographics information can drive further assessment of health-
+related social needs regarding preventive care. 
+Problems 
+• 
+Used to exclude individuals with an established diagnosis who are in 
+treatment or management and no are longer eligible for screening. 
+Procedures 
+• 
+Procedure notes and summaries from outside providers may be recorded 
+as unstructured data (scan, fax). 
+• 
+Procedure notes and summaries from outside providers may not be 
+recorded in the EHR (see Alternative Data Sources). 
+Health IT Advisor Handbook 
+Page 75

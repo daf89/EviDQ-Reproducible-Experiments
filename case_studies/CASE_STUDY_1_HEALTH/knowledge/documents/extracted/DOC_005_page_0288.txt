@@ -1,0 +1,73 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+288
+Libellé
+Définition
+Consultation avancée
+Activité de consultation externe réalisée par des praticiens d’un établissement de santé dans un autre 
+établissement de santé, ces consultations peuvent permettre d’élargir l’accès aux consultations médicales 
+de spécialité à l’hôpital dans des territoires périphériques ou isolés et d’opérer une gradation de la prise en 
+charge en établissement en fonction de la complexité de la situation du patient et des soins qui lui sont 
+apportés.
+Contention mécanique
+Utilisation de tous moyens, méthodes, matériels ou vêtements empêchant ou limitant les capacités 
+de mobilisation volontaire de tout ou partie du corps dans un but de sécurité pour un patient dont 
+le comportement présente un risque grave pour son intégrité ou celle d’autrui.
+Check-list « Sécurité 
+du patient »
+Outil d’amélioration des pratiques visant à améliorer le partage des informations et à réaliser une vérification 
+croisée de tous les éléments considérés comme essentiels avant, pendant et après un acte interventionnel.
+Conciliation 
+des traitements 
+médicamenteux
+Processus formalisé qui prend en compte, lors d’une nouvelle prescription, tous les médicaments pris et à 
+prendre par le patient. Elle associe le patient et repose sur le partage d’informations et sur une coordination 
+pluriprofessionnelle. Elle prévient ou corrige les erreurs médicamenteuses en favorisant la transmission 
+d’informations complètes et exactes sur les médicaments du patient, entre professionnels de santé aux points 
+de transition que sont l’admission, la sortie et les transferts.
+Crise sanitaire
+Situation sanitaire exceptionnelle englobant toutes les situations conjoncturelles susceptibles d’engendrer 
+de façon immédiate et imprévisible une augmentation sensible de la demande de soins (événement à 
+cinétique rapide de type attentat, ou accident grave) ou une perturbation de l’organisation de l’offre de soins. 
+Le ministre chargé de la santé est responsable de l’organisation et de la préparation du système de santé 
+et des moyens sanitaires nécessaires à la connaissance des menaces sanitaires graves, à leur prévention, 
+à la protection de la population contre ces dernières, ainsi qu’à la prise en charge des victimes.
+Démarche palliative
+Prise en charge des patients dont l’affection ne répond pas au traitement curatif et permettant de délivrer 
+« des soins actifs et continus pratiqués par une équipe interdisciplinaire en institution ou à domicile. Ils visent 
+à soulager la douleur, à apaiser la souffrance psychique, à sauvegarder la dignité de la personne malade 
+et à soutenir son entourage ».
+Démarche qualité
+Ensemble des actions que mène l’établissement pour développer la satisfaction de ses clients.
+La démarche qualité repose sur différents facteurs : prise en compte des besoins ; implication de la direction 
+pour associer l’ensemble du personnel à cette démarche ; réflexion collective sur les ressources nécessaires ; 
+adhésion du personnel à la mise en œuvre des actions qualité ; mise à disposition d’outils de mesure de 
+la qualité. Les décisions s’appuient sur des faits, des informations précises et objectives.
+Développement durable
+Développement répondant aux besoins actuels sans compromettre la capacité des générations futures 
+à répondre à leurs propres besoins.
+Dépendance iatrogène
+Perte de capacité fonctionnelle que vont présenter les personnes âgées hospitalisées à la suite de cette 
+hospitalisation. Elle est due en partie au terrain du patient, à la pathologie qui le mène à l’hospitalisation et 
+surtout aux soins qui lui sont apportés pendant cette hospitalisation. Les soins qu’on apporte aux personnes 
+âgées pendant leur séjour peuvent être plus délétères que bénéfiques.
+Directives anticipées
+Toute personne majeure peut rédiger des directives anticipées pour le cas où elle serait un jour hors d’état 
+d’exprimer sa volonté. Ces directives anticipées expriment la volonté de la personne relative à sa fin de vie 
+en ce qui concerne les conditions de la poursuite, de la limitation, de l’arrêt ou du refus de traitement ou 
+d’acte médicaux. 
+Dispositif médical
+Tout instrument, appareil, équipement, matière, produit, à l’exception des produits d’origine humaine, 
+ou autre article utilisé seul ou en association, y compris les accessoires et logiciels nécessaires au bon 
+fonctionnement de celui-ci, destiné par le fabricant à être utilisé chez l’homme à des fins médicales et dont 
+l’action principale voulue n’est pas obtenue par des moyens pharmacologiques ou immunologiques ni par 
+métabolisme, mais dont la fonction peut être assistée par de tels moyens. Constitue également un dispositif 
+médical le logiciel destiné par le fabricant à être utilisé spécifiquement à des fins diagnostiques ou 
+thérapeutiques.
+Dossier médical de 
+Mon espace santé
+(DMP)
+Dossier médical numérique destiné à favoriser la prévention, la qualité, la continuité et la prise en charge 
+coordonnée des soins des patients… Le dossier médical de Mon espace santé peut être créé pour tout 
+bénéficiaire de l’Assurance maladie après recueil de son consentement exprès ou de celui de son 
+représentant légal. Une fois son dossier créé, le bénéficiaire de l’Assurance maladie en devient le titulaire.

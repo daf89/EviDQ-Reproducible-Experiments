@@ -1,0 +1,228 @@
+
+
+===== PDF PAGE 253 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-7 
+ 
+ 
+ 
+CORE: Alcohol Consumption, continued 
+I have just asked you about your consumption of alcohol during the past 7 days. The questions were about alcohol in general, while the next 
+questions refer to your consumption of homebrewed alcohol, alcohol brought over the border/from another country, any alcohol not intended 
+for drinking or other untaxed alcohol. Please only think about these types of alcohol when answering the next questions. 
+Question 
+Response 
+Code 
+During the past 7 days, did you consume any homebrewed 
+alcohol, any alcohol brought over the border/from another 
+country, any alcohol not intended for drinking or other 
+untaxed alcohol? 
+[AMEND ACCORDING TO LOCAL CONTEXT] 
+(USE SHOWCARD) 
+Yes 
+1 
+No 
+2 If No, go to A13 
+A11 
+On average, how many standard drinks of the following did 
+you consume during the past 7 days? 
+[INSERT COUNTRY-SPECIFIC EXAMPLES] 
+(USE SHOWCARD) 
+Don't Know 77 
+Homebrewed spirits, e.g. 
+moonshine 
+└─┴─┘ 
+A12a 
+Homebrewed beer or wine, 
+e.g. beer, palm or fruit wine 
+└─┴─┘ 
+A12b 
+Alcohol brought over the 
+border/from another country 
+└─┴─┘ 
+A12c 
+Alcohol not intended for drinking, 
+e.g. alcohol-based medicines, 
+perfumes, after shaves 
+└─┴─┘ 
+A12d 
+Other untaxed alcohol in the 
+country 
+└─┴─┘ 
+A12e 
+ 
+EXPANDED: Alcohol Consumption 
+Daily or almost daily 
+1 
+During the past 12 months, how often have you found that you 
+were not able to stop drinking once you had started? 
+Weekly 
+Monthly 
+Less than monthly 
+2 
+3 
+4 
+A13 
+Never 
+5 
+Daily or almost daily 
+1 
+During the past 12 months, how often have you failed to do 
+what was normally expected from you because of drinking? 
+Weekly 
+Monthly 
+Less than monthly 
+2 
+3 
+4 
+A14 
+Never 
+5 
+Daily or almost daily 
+1 
+During the past 12 months, how often have you needed a first 
+drink in the morning to get yourself going after a heavy drinking 
+session? 
+Weekly 
+Monthly 
+Less than monthly 
+2 
+3 
+4 
+A15 
+Never 
+5 
+During the past 12 months, have you had family problems or 
+problems with your partner due to someone else’s drinking? 
+Yes, more than monthly 
+Yes, monthly 
+Yes, several times but less than 
+monthly   
+Yes, once or twice 
+No 
+1 
+2 
+3 
+4 
+5 
+A16 
+
+
+===== PDF PAGE 254 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-8 
+ 
+ 
+ 
+CORE: Diet 
+The next questions ask about the fruits and vegetables that you usually eat. I have a nutrition card here that shows you some examples of 
+local fruits and vegetables. Each picture represents the size of a serving. As you answer these questions please think of a typical week in the 
+last year. 
+Question 
+Response 
+Code 
+In a typical week, on how many days do you eat fruit? 
+(USE SHOWCARD) 
+Number of days 
+Don't Know 77 
+└─┴─┘ 
+If Zero days, go to D3 
+D1 
+How many servings of fruit do you eat on one of those days? 
+(USE SHOWCARD) 
+Number of servings 
+Don't Know 77 
+└─┴─┘ 
+D2 
+In a typical week, on how many days do you eat vegetables? 
+(USE SHOWCARD) 
+Number of days 
+Don't Know 77 
+└─┴─┘ 
+If Zero days, go to D5 
+D3 
+How many servings of vegetables do you eat on one of those 
+days? (USE SHOWCARD) 
+Number of servings 
+Don’t know 77 
+└─┴─┘ 
+D4 
+Dietary salt 
+With the next questions, we would like to learn more about salt in your diet. Dietary salt includes ordinary table salt, unrefined salt such as sea 
+salt, iodized salt, salty stock cubes and powders, and salty sauces such as soy sauce or fish sauce (see showcard). The following questions 
+are on adding salt to the food right before you eat it, on how food is prepared in your home, on eating processed foods that are high in salt 
+such as [insert country specific examples], and questions on controlling your salt intake. Please answer the questions even if you consider 
+yourself to eat a diet low in salt. 
+How often do you add salt or a salty sauce such as soy sauce 
+to your food right before you eat it or as you are eating it? 
+Always 
+Often 
+1 
+2 
+(SELECT ONLY ONE) 
+Sometimes 
+Rarely 
+3 
+4 
+D5 
+(USE SHOWCARD) 
+Never 
+Don't know 
+5 
+77 
+Always 
+1 
+Often 
+2 
+How often is salt, salty seasoning or a salty sauce added in 
+cooking or preparing foods in your household? 
+Sometimes 
+Rarely 
+3 
+4 
+D6 
+Never 
+5 
+Don't know 
+77 
+How often do you eat processed food high in salt? By 
+Always 
+Often 
+Sometimes 
+Rarely 
+Never 
+Don't know 
+1 
+2 
+3 
+4 
+5 
+77 
+processed food high in salt, I mean foods that have been altered 
+from their natural state, such as packaged salty snacks, canned 
+salty food including pickles and preserves, salty food prepared at a 
+fast food restaurant, cheese, bacon and processed meat [add 
+D7 
+country specific examples]. 
+[INSERT EXAMPLES] 
+(USE SHOWCARD) 
+Far too much 
+1 
+Too much 
+2 
+How much salt or salty sauce do you think you consume? 
+Just the right amount 
+Too little 
+3 
+4 
+D8 
+Far too little 
+5 
+Don't know 
+77 

@@ -1,0 +1,76 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+T A B L E O F A C R O N Y M N S 
+Table of Acronyms 
+Acronym 
+Full Name or Term 
+AAFP 
+American Academy of Family Physicians 
+ACG 
+Adjusted clinical groups 
+ACO 
+Accountable Care Organization 
+ADT 
+Admission, discharge, transfer 
+AHIMA 
+American Health Information Managers Association 
+AHRQ 
+Agency for Healthcare Research and Quality 
+AI 
+Artificial intelligence 
+AMD 
+Age-related macular degeneration 
+AMIA 
+American Medical Informatics Association 
+API 
+Application programming interface 
+ARRA 
+American Recovery and Reinvestment Act 
+AUDIT 
+Alcohol Use Disorders Identification Test 
+AUDIT-C 
+Alcohol Use Disorders Identification Test – Consumption 
+BAA 
+Business associate agreement 
+BMI 
+Body mass index 
+BP 
+Blood pressure 
+CCC 
+Chronic comorbidity count 
+CCD 
+Continuity of care documents 
+CCPA 
+California Consumer Privacy Act 
+CDC-REC 
+Centers for Disease Control - Race and ethnicity code set 
+CDS 
+Clinical decision support 
+CDSS 
+Clinical decision support system 
+CEHRT 
+Certified electronic health record technology 
+CFR 
+Code of federal regulations 
+CHPL 
+Certified health IT products list 
+CMS 
+Centers for Medicare & Medicaid Services 
+COPD 
+Chronic obstructive pulmonary disease 
+CPC+ 
+Comprehensive Primary Care Plus 
+CPOE 
+Computerized provider order entry 
+CPT 
+Current procedural terminology 
+CQM 
+Clinical quality measure 
+CSV 
+Comma separated value 
+DHHS 
+Department of Health and Human Services 
+DOB 
+Date of birth 
+Health IT Advisor Handbook 
+Page 138

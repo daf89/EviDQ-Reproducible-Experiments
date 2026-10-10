@@ -1,0 +1,135 @@
+intermediate CKD progression outcome, 3 recent publica-
+tions present models for people with or without diabetes,
+using both regression and machine learning–based methods,
+with or without biomarkers (Table 20).8,424,425 Given the
+potential utility of these new models to identify high-risk
+people for early intervention, they should be used to predict
+disease progression in people with CKD G1–G2 and may
+supplement established risk equations among people with
+CKD G3. People with CKD identiﬁed as intermediate risk
+(e.g., >1% per year) with these tools may beneﬁt from the
+earlier initiation of therapy and closer follow-up, and those
+identiﬁed as high risk (e.g., >5% per year) may have the
+largest beneﬁt from multidrug therapy to slow progression.
+Practice Point 2.2.5: Use disease-speciﬁc, externally vali-
+dated prediction equations in people with immunoglobulin
+A nephropathy (IgAN) and autosomal dominant polycystic
+kidney disease (ADPKD).
+Risk prediction models for speciﬁc etiologies of CKD have
+also been developed, are externally validated, and used in
+healthcare settings to guide clinical care. For autosomal domi-
+nant polycystic kidney disease (ADPKD), 2 equations can be
+useful in determining the longer-term risk of kidney failure and
+may guide therapy with tolvaptan—the Mayo Clinic Classiﬁ-
+cation tool and the Predicting Renal Outcome in Polycystic
+Kidney Disease (PROPKD) score,426,427 which incorporates
+genetic data. Of these, the Mayo Clinic Classiﬁcation tool has
+been shown to be accurate in external validation.
+In people with IgAN, 2 externally validated prediction
+tools (clinical or clinical þ histology) have been developed
+using large international cohort studies. Models that included
+the mesangial hypercellularity (M), endocapillary hyper-
+cellularity, segmental glomerulosclerosis (S), and tubular at-
+rophy/interstitial ﬁbrosis (T) (MEST) histological score were
+more accurate (C-statistic: 0.81–0.82 vs. 0.78) and showed
+improved reclassiﬁcation in development and external vali-
+dation datasets.428,429 Given the availability of accurate
+externally validated models, these should be preferentially
+used over more general CKD models in people with an
+established diagnosis of IgAN or ADPKD. It is important to
+note that the clinical presentation of IgAN can include
+rapidly
+progressive
+disease,
+and
+people
+with
+rapidly
+progressive GN may not have been well represented in the
+cohorts used to develop existing prediction tools.
+2.3 Prediction of cardiovascular risk in people with
+CKD
+Practice Point 2.3.1: For cardiovascular risk prediction to
+guidepreventive therapiesinpeople withCKD,useexternally
+validated models that are either developed within CKD
+populations or that incorporate eGFR and albuminuria.
+Cardiovascular morbidity and mortality disproportion-
+ately affect people with CKD, and risk prediction tools
+developed in the general (non-CKD) population may un-
+derestimate the risk of atherosclerotic CVD (ASCVD) or
+heart failure in CKD populations. Absolute risk is used to
+determine eligibility for disease-modifying pharmacological
+therapy in CVD guidelines, and underestimation of risk may
+lead to suboptimal treatment of people with CKD, perpetu-
+ating biases (“renalism”) that have existed for more than 2
+decades. New models that have been developed speciﬁcally in
+adults with CKD (QRISK3430) and severe CKD (ckdpc.org),6
+and modiﬁcations to existing CVD models (pooled cohort
+equations
+[PCE]/Systematic
+COronary
+Risk
+Evaluation
+[SCORE]431) that include eGFR and albuminuria should be
+used to predict cardiovascular events in individuals with
+CKD.390–393,427,428,430,431,432 In the case of the PCE, the
+CKD patch signiﬁcantly improves the calibration of ASCVD
+risk, and the eGFR patch improves the prediction of CVD
+mortality using SCORE. Recently, the American Heart
+Association Predicting Risk of CVD EVENTs (PREVENT,
+pending) equations were developed in over 6 million US
+adults
+aged
+30–79
+years
+without
+known
+CVD
+with
+outcomes of incident ASCVD and HF (combined and
+separately).433,434 These equations included eGFR in the
+primary model and included ACR in an add-on model, so
+they may be particularly appropriate for people with CKD.
+Practice Point 2.3.2: For mortality risk prediction to guide
+discussions about goals of care, use externally validated
+models that predict all-cause mortality speciﬁcally devel-
+oped in the CKD population.
+People with CKD are at high risk of all-cause mortality,
+and the competing risk of death can affect clinical decision-
+making, particularly for older adults with CKD G4, who may
+simultaneously be at high risk of kidney failure requiring
+dialysis. All-cause mortality can be challenging to predict due
+to the multiple biological pathways and differences in
+Table 20| Externally validated risk models for predicting a 40% decline in GFR
+Variables
+Population/events
+Time
+horizon (yr)
+Discrimination
+and calibration
+CKD-PC424
+16 variables including demography, CVD
+risk factors, clinical and laboratory variable
+1.6 million adults with or at
+risk for CKD
+5
+0.74–0.77
+Klinrisk8
+20 laboratory variables derived from CBC,
+chemistry panel, and urine
+177,196 adults with CKD G1–G4
+or at risk for CKD
+1–5
+0.84–0.88
+KidneyIntelx425
+3 proprietary biomarkers, 5 additional
+clinical variables including albuminuria, BP
+1146 adults with CKD G1–G3
+and diabetes
+5
+0.77
+BP, blood pressure; CBC, complete blood count; CKD, chronic kidney disease; CKD-PC, Chronic Kidney Disease Prognosis Consortium; GFR, glomerular ﬁltration rate.
+www.kidney-international.org
+chapter 2
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S203

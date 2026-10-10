@@ -1,0 +1,16 @@
+Rank,Feature,Mean absolute SHAP,Relative importance (%),Cumulative importance (%),Selected at 90% threshold
+1,PM2.5,42.8451,59.06,59.06,Yes
+2,PM10,10.2018,14.06,73.12,Yes
+3,WSPM,3.9633,5.46,78.58,Yes
+4,DEWP,3.7216,5.13,83.71,Yes
+5,CO,2.3234,3.2,86.92,Yes
+6,month,1.8661,2.57,89.49,Yes
+7,hour,1.8172,2.5,91.99,Yes
+8,TEMP,1.6896,2.33,94.32,No
+9,wd,1.5018,2.07,96.39,No
+10,NO2,1.0493,1.45,97.84,No
+11,SO2,0.5004,0.69,98.53,No
+12,RAIN,0.4494,0.62,99.15,No
+13,O3,0.3366,0.46,99.61,No
+14,station,0.1458,0.2,99.81,No
+15,PRES,0.1349,0.19,100.0,No

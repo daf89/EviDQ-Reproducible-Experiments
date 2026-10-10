@@ -1,0 +1,45 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+251
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique opératoire_V2 
+Comment compléter et valider le calendrier de la visite ?
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche permet de guider l’établissement pour la validation du calendrier de la visite élaboré par le coordonnateur 
+de la visite et le chef de projet. Elle présente aussi les modalités logistiques de la visite.
+ Pour bien commencer
+Le calendrier de la visite découle du programme de visite, c'est-à-dire du nombre de méthodes à réaliser pendant 
+la visite.
+Le calendrier se compose de séquences dites organisationnelles dont le positionnement est fixe et de séquences 
+d’investigation qui correspondent aux méthodes définies dans le programme de visite. Chaque séquence « méthode » 
+est attribuée à un seul expert-visiteur.
+ En pratique
+Le coordonnateur de la visite propose un planning de visite en attribuant chacune des méthodes à un expert-visiteur 
+en fonction de l’expertise et de l’habilitation de chacun. 
+À la notification de CALISTA, l’administrateur de la démarche prend connaissance du calendrier proposé. La validation 
+de l’établissement porte sur le positionnement des séquences « méthode », en s’assurant de la faisabilité au regard 
+des contraintes des services. Il peut également compléter le planning en ajoutant par exemple les noms et fonctions 
+des personnes qui seront rencontrées ou les salles de réunion prévues. Dans le document, une zone de commentaire 
+permet de transmettre toutes les remarques et demandes éventuelles de modification.
+Une fois le calendrier complété, l’administrateur de la démarche le dépose dans CALISTA pour étude par le 
+coordonnateur et le chef de projet. La version définitive du calendrier sera arrêtée lors de la conférence téléphonique 
+tripartie organisée avant la visite.
+Le calendrier validé avant la visite peut être ajusté au décours de la visite par le coordonnateur pour répondre 
+aux besoins de l’établissement ou pour réaliser des investigations complémentaires.
+Processus de gestion du calendrier
+CP HAS et Coordonnateur
+Programme de visite
+Transmis à l’ES
+6 semaines au plus tard avant 
+la visite, via CALISTA
+Calendrier Coordonnateur
+Répartition des séquences d’évaluation selon les temps/homme disponibles.
+Ajustements éventuels
+Calendrier ES
+L’établissement propose d’éventuels ajustements.
+Dépôt dans CALISTA
+Calendrier VD

@@ -1,0 +1,75 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+EHR Workflow 
+Data Considerations 
+• 
+Are EHR workflows for referrals and transitions consistently used, 
+or are there other ways the clinic requests and tracks them outside 
+of the EHR (fax, an HIE)? 
+Providing immunization data • 
+Does the clinic routinely update immunizations from outside 
+to regional registries 
+sources (state registry, pharmacies, other providers)? 
+• 
+Are immunizations mapped to standard codes (CVX, MVX), or can 
+free text vaccines be entered? 
+Providing surveillance data 
+to public health agencies 
+[Registries] 
+• 
+Can the clinic identify and report a list of patients with specific 
+conditions based on diagnosis, lab results, symptoms, or other 
+criteria? 
+• 
+Does the EHR provide demographic, disease, or condition-specific 
+patient lists, or registries, that can be used for targeted QI 
+interventions? 
+Using patient reminders for 
+• 
+Has the clinic implemented CDS rules for preventive care 
+prevention/chronic care 
+reminders or other alerts that could inform or support a QI 
+[Clinical Decision Support] 
+intervention? 
+• 
+Are there prompts and reminders for routine and follow-up 
+appointment scheduling? 
+• 
+What other forms of CDS could be used to deliver quality 
+interventions (templates, online resources, etc.). 
+Providing patient access to 
+lab results, problem and 
+medication lists, and allergy 
+information 
+• 
+What options do patients or caregivers have for accessing their 
+own clinical information in the EHR? 
+• 
+What information can patients or caregivers access using the 
+clinic’s portal? 
+• 
+Do portals or other patient engagement tools (voice and text 
+messages, email, mailings) provide options for targeted QI 
+interventions? 
+Performing drug formulary 
+check 
+• 
+Do prescribers have access to payer-specific drug lists (or 
+formularies) when they select medications in the EHR? 
+Entering lab results into EHR 
+• 
+Do workflows for entering or receiving lab and imaging results 
+populate structured (discrete) or unstructured (text) data 
+elements? 
+• 
+Are lab values mapped to standard LOINC (logical observation 
+identifiers, names, and codes) or SNOMED codes by sending labs 
+or in the EHR? 
+Source: The 23 EHR workflows described in this table are from a Bodenheimer communication cited in Module 26 of the AHRQ 
+Primary Care Practice Facilitation Curriculum.[39] 
+Workflow Analysis as a Tool for EHR Data Exploration 
+Health IT Advisors must know how to observe, document, analyze, and improve clinical workflows to 
+fully understandhow data from an EHR can be used in their projects. 
+Health IT Advisor Handbook 
+Page 34

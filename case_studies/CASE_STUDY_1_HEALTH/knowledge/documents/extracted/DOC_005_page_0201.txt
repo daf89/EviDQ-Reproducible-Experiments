@@ -1,0 +1,38 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+201
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Comment faire une demande de modification de mes données administratives non modifiables ?
+Les données administratives non modifiables sont :
+• • l’intitulé de l’entité juridique ;
+• • l’ajout ou la suppression d’un site géographique ;
+• • un changement de n° de FINESS.
+Pour effectuer une demande de modification auprès de la HAS, dans « Ma démarche » puis dans la zone
+« Créer », cliquer sur « Actualisation de la démarche » 5 .
+Votre demande doit formuler les éléments suivants :
+• • la rédaction d’un commentaire très précis sur votre demande de modification, d’ajout ou de suppression avec 
+rappel de l’intitulé exact de l’établissement juridique ou géographique concerné et n° FINESS associé 6  ;
+• • une pièce justificative par demande de modification (exemple : arrêté de l’agence régionale de santé pour 
+l’entité juridique, copie du site FINESS pour le n° FINESS…) en cliquant sur 
+7 . Il est 
+possible de déposer plusieurs fois le même document à condition de modifier son nom.
+Puis pour transmettre votre message à la HAS, vous devez cliquer sur 
+8 .
+Il est conseillé de toujours cliquer sur TERMINER ou TRANSMETTRE A LA HAS pour ne pas maintenir une demande 
+en cours ce qui génèrerait des relances de la part de CALISTA. Il est possible de retrouver les demandes en cours 
+de saisie depuis les Tâches assignées et Tâches d’équipe dans le menu CALISTA.
+La décision motivée de la HAS sur la demande d’ajout/modification est adressée à l’établissement dans un 
+délai de 15 jours à compter de la réception de la demande de l’établissement. Pendant ce délai, l’établissement 
+poursuit les étapes de sa procédure. Si les modifications sont acceptées, la HAS procède aux modifications 
+dans CALISTA. 
+Pour aller plus loin
+Les informations sur les données administratives de votre démarche sont pré-renseignées. L’entité juridique et les 
+sites géographiques sont importés de la SAE (statistiques annuelles des établissements de santé validées en vigueur).
+ Fiche pratique opératoire_E2 
+5
+6
+7
+8

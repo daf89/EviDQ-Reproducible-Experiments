@@ -1,0 +1,139 @@
+
+
+===== PDF PAGE 57 =====
+
+45
+Annex 4. Procedures for laboratory and accuracy testing
+100, 80, 60, 40 and 0 mm Hg. At a minimum, take readings at 300, 250, 200, 150, 100, 60 and 0 mm 
+Hg. Ensure that the pointer returns to the 0 mark.
+6. 	Compare the gauge readings with the correct value indicated by the reference manometer. If the gauge is 
+accurate to within ± 3 mm Hg, the aneroid sphygmomanometer is of the required accuracy and acceptable 
+for clinical use.
+7. 	If one or more of the readings exceeds ± 3 mm Hg, determine whether the error is linear or nonlinear. 
+An error is linear when the readings are consistently above or below the correct reading; an error is non-
+linear when the readings deviate by different amounts. Examples are given in Table A1.1. It is important 
+to determine whether the error is linear or non-linear, as the method used to re-calibrate the instrument 
+depends on the type of error.
+Source: The table was based on data from reference (42).
+Table A4.1. Examples of linear and non-linear errors
+Example of linear error
+Reference 
+manometer 
+reading
+Reading of 
+aneroid guage 
+being tested
+Difference
+40
+46
++ 6
+60
+66
++ 6
+80
+86
++ 6
+100
+106
++ 6
+120
+126
++ 6
+160
+166
++ 6
+200
+206
++ 6
+250
+256
++ 6
+300
+306
++ 6
+Example of non-linear error
+Reference 
+manometer 
+reading
+Reading of 
+aneroid guage 
+being tested
+Difference
+40
+31
+-9
+60
+54
+-6
+80
+77
+-3
+100
+100
+0
+120
+123
+3
+160
+166
+6
+200
+203
+3
+250
+251
+1
+300
+298
+-2
+8. 	Follow the manufacturer’s instructions to re-calibrate the instrument. Examples of typical re-calibration 
+procedures for aneroid gauge dials are given below.
+Example 1: Remove the retaining ring and glass from the gauge. Carefully remove the needle and dial face 
+to reveal the bellows. Locate the concave triangle with a pin at its centre. To correct a linear error, move the 
+pin towards the sides of the triangle, right or left. To correct a non-linear error, move the pin linearly within 
+the triangle, up or down, with very small adjustments. Replace the dial face, needle, glass and retaining ring. 
+Repeat the test to determine whether the accuracy is within ± 3 mm Hg as compared with the reference 
+manometer. Repeat the adjustments until the required accuracy is achieved.
+Example 2: Remove the glass, pointer and dial until you see the triangle with concave sides, on one side of 
+which is a pin. To correct a linear error, bend the pin very slightly along the line of the triangle side. To correct 
+a non-linear error, bend the pin very slightly away or towards the triangle. Replace the dial face, needle and 
+glass. Repeat the test above to determine whether the accuracy is within ± 3 mm Hg as compared with the 
+reference manometer. Repeat the adjustments until the required accuracy is achieved.
+Example 3: Unscrew the bezel and remove the crystal, pointer and dial. Place a test dial and test pointer 
+on the pinion and connect the gauge to the test set-up. Apply 320 mm Hg pressure to the gauge, and then 
+release the pressure to 300 mm Hg. Place the calibration tool supplied by the manufacturer into the radius 
+plate slot. If the reading is < 300 mm Hg, rotate the tool counter-clockwise until the gauge reaches 300. If the 
+reading is > 300 mm Hg, rotate the tool clockwise until the gauge reaches 300 mm Hg. Release the pressure, 
+and test for the 0 point. Rotate the dial if the pointer is off the 0 mark. Repeat the test at 300 mm Hg until 
+the range is set. Replace the crystal and bezel and repeat the calibration test at different pressure intervals 
+to ensure that the required accuracy is achieved.
+
+
+===== PDF PAGE 58 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+46
+Accuracy-checking electronic (digital, automated or semi-automated) 
+sphygmomanometers with auscultative or calibration check modes
+Most fully automated electronic sphygmomanometers cannot be tested or calibrated by the user but must be 
+sent to the manufacturer or an approved service centre.
+The procedures below are for electronic sphygmomanometers with a calibration check or test mode, whereby 
+the pressure can be set manually or provided by an external source. This test can be used to compare the 
+readings from the device against a reference manometer.
+To test the accuracy of an electronic monitor, the devices required are a reference manometer (preferably an 
+electronic manometer traceable to a national standard), one or two Y or T connectors with tubing and Luer 
+fittings and an inflation bulb with a valve or an adjustable manual syringe pump, unless the pressure can be 
+selected manually.
+Fig. A4.3 shows an accuracy test set-up for a digital auscultatory sphygmomanometer in calibration check or 
+test mode. The procedures for testing digital auscultatory sphygmomanometers with inflation bulbs, as shown 
+below, are similar to those for mechanical aneroid sphygmomanometers described above.
+Fig. A4.3. Set-up for testing the accuracy of a digital auscultatory sphygmomanometer
+Digital sphygmomanometer being tested 
+(in calibration check or test mode)
+Reference electronic 
+manometer
+T (or Y) 
+connector
+Rigid cylinder
+Cuff
+Inflation bulb

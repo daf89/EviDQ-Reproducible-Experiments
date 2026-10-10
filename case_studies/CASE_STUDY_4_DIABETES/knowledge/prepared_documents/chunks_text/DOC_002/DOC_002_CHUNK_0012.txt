@@ -1,0 +1,211 @@
+
+
+===== PDF PAGE 23 =====
+
+The global framework for diabetes prevention and control  ﻿
+11
+Table 1.	
+Key data sources for reporting diabetes indicators
+3	 For indicators that can be generated from multiple data sources, the preferred data source icon is listed first (e.g. vu Availability 
+of plasma glucose testing, the preferred source is health facility survey and if that is unavailable, the alternative is routine facility 
+reporting system).
+m NCD country capacity survey, country reports, other surveys
+v Health facility survey
+u Routine facility reporting system
+l Population-based survey
+ª	 CRVS
+Key data 
+sources
+Indicators3
+General population
+Population with diabetes
+m NCD country 
+capacity 
+survey, 
+country 
+reports, 
+other 
+surveys
+m 
+Existence and implementation of 
+national diabetes prevention and 
+control plan
+m 
+Existence and implementation of 
+policies and legislation for diabetes 
+prevention
+m 
+Existence and enforcement of tax on 
+alcoholic beverages, tobacco, sugar-
+sweetened beverages, foods high in 
+saturated fats, trans fats, free sugars 
+and/or salt
+m 
+Existence of national guidelines for diabetes 
+management
+m 
+Referral and back-referral system for diabetes 
+management 
+m 
+Insulin, insulin delivery devices and blood glucoses 
+self-monitoring included in health benefits 
+package
+m 
+Insulin, insulin delivery devices and blood glucose 
+self-monitoring affordability
+v Health 
+facility 
+survey
+vu Availability of plasma glucose testing
+vu Availability of trained health care staff for diabetes 
+management	
+vu Availability of diabetes, cardiovascular disease and 
+hypertension core medicines
+vu Availability of glycated haemoglobin (HbA1c) 
+testing
+u Routine 
+facility 
+reporting 
+system
+vu Availability of plasma glucose testing
+u 
+Overweight and obesity assessment
+u 
+Tobacco use assessment
+u 
+Cardiovascular disease risk 
+assessment
+u 
+Hypertension screening
+vu Availability of trained health care staff for diabetes 
+management	
+vu Availability of diabetes, cardiovascular disease and 
+hypertension core medicines
+vu Availability of glycated haemoglobin (HbA1c) testing
+u 
+Diabetic ketoacidosis at diagnosis
+u 
+Blood glucose measurement
+u 
+Retinopathy assessment	
+u 
+Chronic kidney disease assessment	
+u 
+Diabetic foot assessment
+lu Treatment with glucose-lowering	 medication
+lu Insulin treatment 
+lu Statin treatment
+lu Treatment with blood pressure-lowering 
+medication
+u 
+Retinopathy treatment
+u 
+Diabetic foot treatment
+lu Glycaemic control based on glycated 
+haemoglobin (HbA1c)
+lu Glycaemic control based on fasting plasma 
+glucose
+lu Blood pressure control
+u 
+Hospitalization for diabetes
+u 
+Cardiovascular disease
+u 
+Blindness
+u 
+End-stage kidney disease
+u 
+Lower-extremity amputation
+
+
+===== PDF PAGE 24 =====
+
+12
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Key data 
+sources
+Indicators3
+General population
+Population with diabetes
+l Population-
+based survey
+l 
+Physical inactivity prevalence
+l 
+Obesity and overweight	prevalence
+l 
+Tobacco use prevalence
+l 
+Hypertension prevalence
+l 
+Diabetes prevalence
+l 
+Diabetes diagnosis
+lu Treatment with glucose-lowering medication
+lu Insulin treatment 
+lu Statin treatment
+lu Treatment with blood pressure-lowering 
+medication
+lu Glycaemic control based on glycated 
+haemoglobin (HbA1c)
+lu Glycaemic control based on fasting plasma glucose
+lu Blood pressure control
+ª	 CRVS
+ª	
+Cardiovascular disease mortality rate
+ª	
+Diabetes mortality rate
+ª	
+Probability of premature mortality 
+from NCDs
+Table 2.	
+Data collection frequency of key data sources
+Key data source
+Data collection frequency
+NCD country capacity survey and other surveys
+Every 2 years
+Health facility survey
+Every 3 to 5 years
+Routine facility reporting system
+Continuous
+Population-based survey
+Every 3 to 5 years
+CRVS
+Continuous
+NCD country capacity survey 
+The NCD country capacity survey (26) is a global 
+survey on national capacity for NCD prevention 
+and control that is conducted regularly by 
+WHO. This enables Member States and the 
+global community to monitor progress and 
+achievements in improving their capacities in 
+responding to the epidemic of NCDs including 
+diabetes. NCD country focal points respond 
+to a standard online questionnaire depicting 
+various aspects on health system infrastructure, 
+financing, governance, surveillance, primary 
+health care, partnerships and collaborations, 
+specific to NCDs. It has been conducted in 2001, 
+2005, 2010 and biennially since 2013 and with 
+193 countries participating in the most recently 
+conducted survey in 2023 (31).
+Health facility survey
+Periodic health facility surveys are used for 
+monitoring service availability and readiness 
+for diabetes care including availability of trained 
+resources, medicines and technologies that 
+are essential for providing quality and effective 
+care. Approximately 50% of countries (32) have 
+a moderate to sustainable capacity to monitor 
+service availability, quality and effectiveness. 
+The WHO Harmonized health facility 
+assessment (HHFA) (28) is a comprehensive 
+survey to assess the availability of health facility 
+services and assess capacities of facilities to 
+provide services at required standards of care. 
+The HHFA questionnaire includes questions on 
+NCDs including diabetes service availability and 
+readiness. Alternatively, a health facility survey 
+for NCDs including diabetes, can be conducted 
+if resources are limited.
+Table 1. Key data sources for reporting diabetes indicators (con't)

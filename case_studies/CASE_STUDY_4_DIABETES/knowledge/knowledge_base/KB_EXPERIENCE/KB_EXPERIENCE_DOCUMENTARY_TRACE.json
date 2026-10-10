@@ -1,0 +1,58 @@
+[
+  {
+    "knowledge_id": "KBDOC_001",
+    "candidate_id": "DOC_003_CHUNK_0112_CAND_02",
+    "document_id": "DOC_003",
+    "chunk_id": "DOC_003_CHUNK_0112",
+    "evidence_page": 224,
+    "feature": "Age",
+    "dq_problem": "MISSING_VALUE",
+    "final_rule_role": "ACTION",
+    "evidence": "Records with either age or sex missing or age out of the age range of the survey receive a value of 2.",
+    "condition": "Age is missing.",
+    "final_action": "FLAG",
+    "epistemic_status": "DOCUMENTARY_KNOWLEDGE_VALIDATED"
+  },
+  {
+    "knowledge_id": "KBDOC_002",
+    "candidate_id": "DOC_003_CHUNK_0112_CAND_01",
+    "document_id": "DOC_003",
+    "chunk_id": "DOC_003_CHUNK_0112",
+    "evidence_page": 224,
+    "feature": "Age",
+    "dq_problem": "MISSING_VALUE",
+    "final_rule_role": "DETECTION",
+    "evidence": "Records with either age or sex missing or age out of the age range of the survey receive a value of 2.",
+    "condition": "Age is missing (the sentence jointly covers missing age or sex; retained here only for the explicit age case).",
+    "final_action": null,
+    "epistemic_status": "DOCUMENTARY_KNOWLEDGE_VALIDATED"
+  },
+  {
+    "knowledge_id": "KBDOC_003",
+    "candidate_id": "DOC_003_CHUNK_0133_CAND_01",
+    "document_id": "DOC_003",
+    "chunk_id": "DOC_003_CHUNK_0133",
+    "evidence_page": 266,
+    "feature": "Age",
+    "dq_problem": "MISSING_VALUE",
+    "final_rule_role": "ACTION",
+    "evidence": "If the age is unknown, help participant estimate their age by interviewing them about their recollection of widely known major events.",
+    "condition": "The participant’s age is unknown.",
+    "final_action": "RECOVER",
+    "epistemic_status": "DOCUMENTARY_KNOWLEDGE_VALIDATED_WITH_RESTRICTION"
+  },
+  {
+    "knowledge_id": "KBDOC_004",
+    "candidate_id": "DOC_004_CHUNK_0002_CAND_01",
+    "document_id": "DOC_004",
+    "chunk_id": "DOC_004_CHUNK_0002",
+    "evidence_page": 3,
+    "feature": "Age",
+    "dq_problem": "MISSING_VALUE",
+    "final_rule_role": "DETECTION",
+    "evidence": "In this stage, the MENDS Coordinating Center examined data completeness, including total numbers of patients, demographic variables (age, sex and gender, race and ethnicity), state, 5-digit zip codes, and total volume of encounters, vital signs, laboratories, and prescriptions over time.",
+    "condition": "Stage 1 ETL validation of demographic-variable completeness.",
+    "final_action": null,
+    "epistemic_status": "DOCUMENTARY_KNOWLEDGE_VALIDATED_WITH_RESTRICTION"
+  }
+]

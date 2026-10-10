@@ -1,0 +1,132 @@
+
+
+===== PDF PAGE 313 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4J-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+On most days during that same 2-week period, did others notice you were moving or 
+speaking more slowly than is normal for you, OR the opposite — did others notice you 
+were fidgeting or pacing around a lot?  
+Yes 
+1 
+MH12 
+No 
+2  
+Refused 
+88 
+If less than five of the following symptoms are coded Yes: [MH1], [MH2], [MH4], [MH5 OR MH6], [MH7], [MH8], [MH9], [MH10], [MH11], [MH12], go to next 
+module 
+ 
+ 
+During this time when you experienced [LIST ALL ENDORSED SYMPTOMS], did these 
+difficulties affect your ability to function in daily life (for example your work or school, your 
+social life, your relationships)? 
+Yes, some difficulty 
+in daily life 
+1  
+MH13 
+Yes, considerable 
+difficulty in multiple 
+aspects of daily life 
+2 
+Yes, serious difficulty 
+continuing to function 
+in most aspects of 
+daily life 
+3 
+No 
+4 Go to next module  
+Refused 
+88 
+Treatment coverage 
+In the past 12 months, have you taken anti-depressant medication prescribed by a 
+doctor or other health worker? 
+Yes, for less than 3 months 
+1     
+MH14 
+Yes, for 3 months or more 
+2 
+No 
+3 
+Refused 
+88 
+In the past 12 months, have you received psychological therapy/counselling sessions 
+for at least 30 minutes by a doctor or other health worker for the difficulties we’ve just 
+talked about? 
+Yes: 1 to 3 sessions 
+1     
+MH15 
+Yes, 4 sessions or more 
+2 
+No 
+3 
+Refused 
+88 
+ 
+
+
+===== PDF PAGE 314 =====
+
+HPart 5: The STEPS Instrument 
+ 
+5-4K-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Chronic Respiratory Diseases 
+ 
+Chronic Respiratory Diseases   
+The next questions ask about chronic lung diseases and difficulty breathing. Firstly, I will ask questions about asthma 
+and chronic obstructive pulmonary disease (COPD) and any treatment that you may have received for asthma and 
+COPD.    
+ 
+Question 
+Response 
+Code 
+Have you ever been told by a doctor or other health 
+worker that you have asthma? 
+ 
+ 
+ 
+Yes 1  
+CRD1 
+No 2 If No, go to CRD3 
+Refused 88 
+In the past two weeks, have you taken any drugs 
+(medication, including inhalers) for asthma prescribed 
+by a doctor or other health worker? 
+ 
+Yes 1 
+CRD2 
+No 2 
+Have you ever been told by a doctor or other health 
+worker that you have chronic obstructive pulmonary 
+disease (COPD) or chronic bronchitis or emphysema? 
+ 
+Yes 1 
+CRD3 
+No 2 If No, go to CRD5 
+Refused 88 
+In the past two weeks, have you taken any drugs 
+(medication, including inhalers) for chronic 
+obstructive pulmonary disease (COPD) or chronic 
+bronchitis or emphysema prescribed by a doctor or 
+other health worker? 
+ 
+Yes 1  
+CRD4 
+No 2  

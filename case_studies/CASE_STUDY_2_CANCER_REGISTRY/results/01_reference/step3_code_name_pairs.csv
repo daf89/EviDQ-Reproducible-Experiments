@@ -1,0 +1,9 @@
+﻿code_feature,name_feature,one_to_one_mapping,max_names_per_code,max_codes_per_name
+sex_code,sex_name,True,1,1
+vital_status_code,vital_status_name,True,1,1
+mkb10_code,mkb10_name,True,1,1
+icdo3_m_code,icdo3_m_name,True,1,1
+registry_stage_code,registry_stage_name,True,1,1
+stage_definition_code,stage_definition_name,True,1,1
+diagnosis_method_code,diagnosis_method_name,True,1,1
+finding_code,finding_name,True,1,1

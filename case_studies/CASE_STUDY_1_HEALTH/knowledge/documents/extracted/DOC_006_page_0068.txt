@@ -1,0 +1,32 @@
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R
+Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R 
+Q U A L I T Y I M P R O V E M E N T 
+appointments, or admissions since their last encounter. This self-reported information is then entered 
+into the EHR. 
+Exhibit 30 below demonstrates how health-provider-generateddata can be transmittedtoa patient and 
+how patients can self-report information that can be transmittedbackto their healthprovider through a 
+patient portal. 
+Exhibit 30: Integrating Patient-Generated Data Directly into Primary Care Providers’ EHR Workflow[57] 
+Graphic adapted with permission. 
+Providers with registry capabilities or affiliations with hospital networks may have access to emergency 
+room and inpatient admission data. Unfortunately, though, many independent and rural primary care 
+practices do not have this kind of direct access to inpatient utilization data. (A clinical registry is an 
+ancillary computer database that collects secondary information about patients. Information can include 
+prescriptions, immunizations, diagnosis, conditions, and procedures.) 
+HealthIT Advisorscanworkwithproviderstoassess available sourcesofexternaldatafortheirparticular 
+practice,andhelpdetermine thecostsandbenefitsofintegratingwithexistingdatasourcesorsetting up 
+new internal processes for collectingdatafrom patients. 
+5.3 
+Technical Issues/Privacy & Security/Barriers 
+Technical Issues 
+Technical and data standards are vital to the effective use of PGHD. Patients may need to be taught how 
+to measure data accurately, track changes in health, and transmit data in a standardized manner. The 
+information must be collected and submitted in standardized ways that ensure that the information can 
+be received, understood, and integratedinto the EHR if desired.[53] 
+User-friendlydatadictionaries willbe requiredtoenablestandardizeddataentryandintegrate patient 
+activityintopatient portals,electronichealthtools,andplatformstocreateusefulhealthinformation.(A 
+goodresource regardingdatadictionaries canbe foundat: Whatis a Data Dictionary?|JournalOf AHIMA.) 
+Ina dynamicconsumer electronichealthenvironment, it willbe criticaltoincorporate PGHD intothe EHR. 
+Health IT Advisor Handbook 
+Page 63

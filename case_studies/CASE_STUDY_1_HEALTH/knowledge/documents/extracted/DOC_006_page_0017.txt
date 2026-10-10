@@ -1,0 +1,35 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+1.7 
+Developing Shared Goals and Action Plans 
+Relating closely to the development of a practice support or implementation plan regarding the core 
+content of a particular project, the Health IT Advisor should assist in developing a data quality 
+improvement plan to guide the recording, extraction, cleaning, and reporting of key data related to the 
+project. A simple template for documenting these plans is shown in Exhibit 4, and a template that can be 
+filled in and printed can be found online here. A data quality improvement plan can be developed and 
+monitored: 
+• 
+With the practice’s QI team during regular meetings that include key data personnel from the 
+practice and the Health IT Advisor 
+• 
+In special meetings with data personnel and other key people from the practice, led by the 
+Health IT Advisor 
+o This especially tends to be the case in system practices, where key data personnel may 
+be centralized and not available for regular meetings in the practice. In this case, 
+communications with the Health IT Advisor and the practice QI team are critical to 
+maintaining alignment of plans and expectations. 
+Key elements of a data quality improvement plan consist of goals that are SMART (SMART Goal Setting): 
+Specific, Measurable, Achievable, Realistic, and Timely. Useful areas of focus for an initial data quality 
+improvement plan include: 
+• 
+Accurate and consistent capture of core data elements in discrete fields 
+• 
+Validation of reports and registries, and 
+• 
+Communicating metrics of success toleadership and care teammembers. 
+Data quality improvement plans often contain longer-term ambitions. It is important to help break these 
+plans into smaller, more actionable SMART goals that can be achieved in 1-3 months. SMART goals are 
+good touchpoints to bring up and adjust periodically to keep teams on track with both short-term 
+progress and long-term aims. 
+Health IT Advisor Handbook 
+Page 12

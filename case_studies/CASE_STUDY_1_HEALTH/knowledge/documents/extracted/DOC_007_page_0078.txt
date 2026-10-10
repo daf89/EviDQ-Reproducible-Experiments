@@ -1,0 +1,122 @@
+better
+characterize
+proteinuria.
+Signiﬁcant
+albuminuria
+generally reﬂects glomerular damage.304 Importantly, in the
+context of screening
+for children with diabetes, ACR
+remains the standard, in line with adult guidelines.
+The same considerations of using ﬁrst morning samples
+(because of orthostatic proteinuria) and considering tran-
+siently increased proteinuria during intercurrent illness or
+after exercise apply to children as well as adults. Orthostatic
+proteinuria is estimated to affect 2%–5% of adolescents.305
+Age and body size are important for interpreting proteinuria
+and albuminuria. In term and preterm neonates, PCR is high
+(PCR 1000–3000 mg/g [100–300 mg/mmol]) in the ﬁrst days
+and weeks of life, and is related to glomerular and tubular losses
+of protein from immature nephrons, as well as very low creati-
+nine from low muscle mass. Recent studies outline proteinuria
+ranges for neonates, including for preterm and low-birth-weight
+neonates. As the tubules mature, proteinuria slowly declines. In
+general, a PCR of <500 mg/g (<50 mg/mmol) (or a 24-hour
+protein of <150 mg/m2/d) is considered normal for infants aged
+6 months to 2 years. For children over 2 years, a ﬁrst morning
+urine PCR of <200 mg/g (<20 mg/mmol) protein, or <150 mg/
+m2/d, or a ﬁrst morning urine ACR <30 mg/g (<3 mg/mmol) is
+usually considered normal.83,306–309 More comprehensive values
+can be found in Pediatric Nephrology.310
+1.3.2 Guidance to clinical laboratories
+The following comments are focused on the laboratory
+assessment of albuminuria, rather than total proteinuria, given
+albumin measurement is the preferred approach to proteinuria
+evaluation (Section 1.3.1.) However, some of these practice
+points (sample type and storage, reporting as a PCR) would
+apply equally to total protein measurement practices.
+Practice Point 1.3.2.1: Implement the laboratory reporting
+and handling standards outlined in Table 17 to ensure
+accuracy and reliability of the ﬁndings when assessing
+urine samples.
+Practice Point 1.3.2.2: Implementation of an external
+quality assessment scheme/program for urine albumin and
+creatinine, including calculation of the ACR, is a preferred
+practice for laboratories.
+Adoption of the reporting and handling standards for
+assessment of urine samples is of paramount importance to
+ensure that healthcare providers receive urine ACR reports in
+a consistent style and with assurance regarding the accuracy
+and reliability of the result.
+Measurement of urine albumin for the detection of kidney
+disease as with any analyte should be with methodology
+traceable to international standards using a standard reference
+material. This is currently not the case, and results may vary
+by greater than 40% between laboratories depending on the
+methodology used with attendant impact on the interpreta-
+tion of reported results.
+The type of urine collection and the analytical method
+inﬂuence result interpretation. Twenty-four-hour urine col-
+lections present problems in terms of completeness of
+collection, specimen storage, and timing accuracy. Therefore,
+the assessment of ACR from a single void is a common and
+convenient clinical practice. The ACR accounts for hydration
+and has similar diagnostic performance to 24-hour urine
+AER. The collection method should remain consistent, pref-
+erably using the ﬁrst morning void specimen.
+If specimens are being stored for future analysis, careful
+attention must be paid to the storage conditions to avoid
+degradation of albumin leading to quantiﬁcation error. The re-
+ported effects of frozen storage on urine albumin are somewhat
+inconsistent.Albuminisgenerallystableinurinestoredat2 C–8
+C for 7 days. However, losses of albumin have been reported
+when urine is stored frozen at temperatures higher than 80 C.
+Precipitates often form when urine is stored refrigerated or
+frozen but can be redissolved on warming: samples should be
+warmed to room temperature and mixed before analysis.290
+Albumin losses may be affected by factors including period of
+storage,
+sample
+albumin
+concentration,
+and
+individual
+variation.311 It should be possible to provide refrigerated
+storage and process samples for albumin measurement in a
+laboratory within 7 days in most healthcare settings.
+The internationally accepted laboratory quality standards
+are variably met worldwide, and laboratories are at different
+levels with respect to quality. However, the Work Group placed
+a high value on the accuracy and reliability of quantiﬁcation of
+albuminuria and judged that people with CKD, their healthcare
+providers, and policy makers would want laboratories to ach-
+ieve these reporting and handling standards.
+The direct costs of total protein measurement in urine are
+lower than those of urine albumin. However, total protein
+measurement lacks sensitivity for the detection of low but
+clinically signiﬁcant levels of albuminuria. For this, and other
+reasons discussed in Section 1.3.1, the measurement of ACR is
+preferred to that of PCR.
+Urine albumin should be measured using immunological
+assays capable of speciﬁcally and precisely quantifying albu-
+min at low concentrations and of producing quantitative re-
+sults over the clinically relevant range. The biological
+variation of urine albumin exceeds 60%. Target analytical
+variation (CV) should be based on an optimal level of <0.25
+biological variation, approximately 15%. This is in keeping
+with good practice recommendations from the National
+Academy of Clinical Biochemistry.312
+Table 17| Implementation standards to ensure accuracy and
+reliability of urine samples
+ Samples for albumin measurement analyzed fresh or stored at 4 C for
+up to 7 days
+ Samples for albumin measurement should not be stored frozen
+at 20 C
+ Report ACR in untimed urine samples in addition to urine albumin
+concentration rather than the concentrations alone
+ Reporting to 1 decimal place for ACR whether mg/mmol or mg/g
+ Analytical CV of methods to measure urine albumin should be <15%.
+ACR, albumin-to-creatinine ratio; CV, coefﬁcient of variation.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S193

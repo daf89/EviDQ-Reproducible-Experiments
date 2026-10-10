@@ -1,0 +1,156 @@
+
+
+===== PDF PAGE 45 =====
+
+Statistical Adviser 
+Part 1: Introduction and Roles 
+Section 2: Roles and Responsibilities 
+Last Updated: 26 January 2017 
+1-2-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+The statistical adviser plays a key role in the sampling and data analysis 
+process. The statistical adviser should be part of the STEPS Coordinating 
+Committee and/or may serve as the data analyst. If this expertise is not 
+available within the MOH, experts from a country’s national statistics agency 
+or organization may be recruited. If a statistical adviser cannot be identified 
+within a country, then the WHO Geneva STEPS team or the WHO Regional 
+Office focal point will be able to advise and assist with this role. 
+ 
+ 
+Objectives 
+The statistical adviser provides an integral role in the sampling and weighting 
+of the survey data. The objective of the adviser is to ensure that a proper 
+sample is selected and that the sample can be weighted to make the results 
+nationally representative. 
+ 
+ 
+Expertise of 
+statistical 
+adviser 
+The statistical adviser should have: 
+ 
+• an advanced degree in statistics 
+• a special interest in survey statistics 
+• experience with sampling and weighting data 
+• an interest in population health statistics 
+• an ability to discuss concerns and convey advice clearly to the data analyst. 
+ 
+ 
+ 
+Statistical 
+adviser’s roles 
+The statistical adviser, under the guidance of the STEPS Coordinating 
+Committee, will be responsible for: 
+ 
+Role 
+Description 
+1 
+Collecting the sample frame 
+2 
+Drawing the survey sample and documenting the sampling strategy 
+3 
+Reviewing available tracking material and adapting it to the 
+country-specific sample 
+4 
+Applying weights to survey data 
+5 
+Providing statistical advice during the analysis and reporting 
+process 
+ 
+Note: The tracking material is the Interview Tracking Form, available in Part 
+6, Section 2. The statistical adviser or the supervisor should advise the data 
+collection team on the importance of properly tracking the sample and the 
+impact it has on making the data representative of the target population. 
+ 
+ 
+
+
+===== PDF PAGE 46 =====
+
+Part 1: Introduction and Roles 
+Section 2: Roles and Responsibilities 
+Last Updated: 26 January 2017 
+1-2-11 
+WHO STEPS Surveillance 
+IT Specialist/Data Manager and Analysis Team 
+ 
+ 
+ 
+Introduction 
+The IT specialist/data manager and analysis team should work closely with  
+the STEPS Survey Coordinator and the statistical adviser to produce results 
+for inclusion in various STEPS country reports. They should also assist with 
+any issues related to the Android devices used for electronic data collection. 
+ 
+ 
+Roles of the IT 
+Specialist/data 
+manager 
+The IT specialist/data manager is someone who has been assigned to provide 
+support related to set up and use of the Android devices, and to oversee the 
+data download from the Android devices, the compilation of the final dataset 
+and the analysis process. 
+ 
+The core roles of the data manager are listed in the table below. 
+ 
+Role 
+Description 
+1 
+Assisting with set-up of Android devices for training and data 
+collection 
+2 
+Providing support during the data collectors training on issues 
+related to the Android devices 
+3 
+Providing support to the field teams during the field work on issues 
+related to the Android devices 
+4 
+Downloading completed records from the Android devices 
+5 
+Compiling all completed records into one dataset 
+6 
+Pre-cleaning of the survey data 
+7 
+Weighting of the survey data in collaboration with the statistical 
+adviser 
+8 
+Ensuring security of all survey data* 
+9 
+Overseeing the data analysis process 
+ 
+* It is common that the data manager becomes the de-facto guardian of the 
+survey data and files. 
+ 
+ 
+ 
+Roles of the 
+data analysis 
+team 
+The analysis team is assigned to undertake the descriptive and statistical 
+analysis of data gathered using the STEPS Instrument. 
+ 
+The core roles of the data analysis team are listed in the table below. 
+ 
+Role 
+Description 
+1 
+Performing any needed cleaning of the dataset 
+2 
+Generating derived variables 
+3 
+Undertaking exploratory data analysis 
+4 
+Undertaking descriptive analyses (e.g. means and proportions) 
+5 
+Undertaking additional analyses if needed, under the guidance of 
+the data manager 
+6 
+Producing tables and graphs for reports 
+7 
+Assisting in report preparation 
+ 
+Continued on next page 

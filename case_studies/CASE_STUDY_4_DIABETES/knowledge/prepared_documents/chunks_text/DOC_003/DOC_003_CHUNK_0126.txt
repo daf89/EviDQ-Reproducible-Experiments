@@ -1,0 +1,229 @@
+
+
+===== PDF PAGE 251 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-5 
+ 
+ 
+ 
+EXPANDED: Tobacco Use 
+Question 
+Response 
+Code 
+How old were you when you stopped smoking? 
+Age (years) 
+Don’t Know 77 
+└─┴─┘ If Known, go to T12 
+T10 
+How long ago did you stop smoking? 
+(RECORD ONLY 1, NOT ALL 3) 
+Don’t Know 77 
+Years ago 
+└─┴─┘ If Known, go to T12 
+T11a 
+OR 
+Months ago 
+└─┴─┘ If Known, go to T12 
+T11b 
+OR 
+Weeks ago 
+└─┴─┘ 
+T11c 
+Do you currently use any smokeless tobacco products 
+such as [snuff, chewing tobacco, betel]? (USE 
+SHOWCARD) 
+Yes 
+No 
+1 
+2 
+If No, go to T15 
+T12 
+Do you currently use smokeless tobacco products daily? 
+Yes 
+No 
+1 
+2 
+If No, go to T14aw 
+T13 
+DAILY↓ 
+WEEKLY↓ 
+Snuff, by mouth 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T14a/ 
+T14aw 
+Snuff, by nose 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T14b/ 
+T14bw 
+On average, how many times a day/week do you use …. 
+Chewing tobacco 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T14c/ 
+(IF LESS THAN DAILY, RECORD WEEKLY) 
+T14cw 
+Betel, quid 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T14d/ 
+(RECORD FOR EACH TYPE, USE SHOWCARD) 
+T14dw 
+Other 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+If Other, go to T14other, if T13=No, go 
+to T16, else go to T17 
+Don’t Know 7777 
+T14e/ 
+T14ew 
+Other (please specify): 
+└─┴─┴─┴─┴─┴─┘ 
+If T13=No, go to T16, else go to T17 
+T14other/ 
+T14otherw 
+In the past, did you ever use smokeless tobacco products 
+Yes 
+1 
+T15 
+such as [snuff, chewing tobacco, or betel]? 
+No 
+2 
+If No, go to T17 
+In the past, did you ever use smokeless tobacco products 
+Yes 
+1 
+T16 
+such as [snuff, chewing tobacco, or betel] daily? 
+No 
+2 
+During the past 30 days, did someone smoke in your 
+Yes 
+1 
+T17 
+home? 
+No 
+2 
+During the past 30 days, did someone smoke in closed 
+areas in your workplace (in the building, in a work area or 
+a specific office)? 
+Yes 
+No 
+Don't work in a closed area 
+1 
+2 
+3 
+T18 
+
+
+===== PDF PAGE 252 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-6 
+ 
+ 
+ 
+CORE: Alcohol Consumption 
+The next questions ask about the consumption of alcohol. 
+Question 
+Response 
+Code 
+Have you ever consumed any alcohol such as beer, wine, spirits 
+or [add other local examples]? 
+(USE SHOWCARD OR SHOW EXAMPLES) 
+Yes 
+1 
+No 
+2 If No, go to A16 
+A1 
+Have you consumed any alcohol within the past 12 months? 
+Yes 
+1 If Yes, go to A4 
+No 
+2 
+A2 
+Have you stopped drinking due to health reasons, such as a 
+negative impact on your health or on the advice of your doctor or 
+other health worker? 
+Yes 
+1 If Yes, go to A16 
+No 
+2 If No, go to A16 
+A3 
+During the past 12 months, how frequently have you had at 
+least one standard alcoholic drink? 
+(READ RESPONSES, USE SHOWCARD) 
+Daily 
+1 
+5-6 days per week 
+2 
+3-4 days per week 
+3 
+1-2 days per week 
+4 
+1-3 days per month 
+5 
+Less than once a month 
+6 
+Never 
+7 
+A4 
+Have you consumed any alcohol within the past 30 days? 
+Yes 
+1 
+No 
+2 If No, go to A13 
+A5 
+During the past 30 days, on how many occasions did you have 
+at least one standard alcoholic drink? 
+Number 
+Don't know 77 
+└─┴─┘ If Zero, go to A13 
+A6 
+During the past 30 days, when you drank alcohol, how many 
+standard drinks on average did you have during one drinking 
+occasion? 
+(USE SHOWCARD) 
+Number 
+Don't know 77 
+└─┴─┘ 
+A7 
+During the past 30 days, what was the largest number of 
+standard drinks you had on a single occasion, counting all types 
+of alcoholic drinks together? 
+Largest number 
+Don't Know 77 
+└─┴─┘ 
+A8 
+During the past 30 days, how many times did you have 
+six or more standard drinks in a single drinking occasion? 
+Number of times 
+Don't Know 77 
+└─┴─┘ 
+A9 
+During each of the past 7 days, how many standard drinks did 
+you have each day? 
+(USE SHOWCARD) 
+Don't Know 77 
+Monday 
+└─┴─┘ 
+A10a 
+Tuesday 
+└─┴─┘ 
+A10b 
+Wednesday 
+└─┴─┘ 
+A10c 
+Thursday 
+└─┴─┘ 
+A10d 
+Friday 
+└─┴─┘ 
+A10e 
+Saturday 
+└─┴─┘ 
+A10f 
+Sunday 
+└─┴─┘ 
+A10g 

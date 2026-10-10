@@ -1,0 +1,262 @@
+
+
+===== PDF PAGE 1 =====
+
+10. CARDIOVASCULAR DISEASE AND RISK MANAGEMENT
+10. Cardiovascular Disease and
+Risk Management: Standards of
+Care in Diabetes—2026
+Diabetes Care 2026;49(Suppl. 1):S216–S245 | https://doi.org/10.2337/dc26-S010
+American Diabetes Association 
+Professional Practice Committee for 
+Diabetes*
+*A complete list of members of the American 
+Diabetes Association Professional Practice Committee 
+for Diabetes can be found at https://doi.org/ 
+10.2337/dc26-SINT.
+This section has received endorsement from the 
+American College of Cardiology.
+Duality of interest information for each contributor 
+is available at https://doi.org/10.2337/dc26-SDIS.
+Suggested citation: American Diabetes Association 
+Professional Practice Committee for Diabetes. 10. 
+Cardiovascular disease and risk management: 
+Standards of Care in Diabetes—2026. Diabetes 
+Care 2026;49(Suppl. 1):S216–S245
+© 2025 by the American Diabetes Association. 
+Readers may use this work for educational, 
+noncommercial purposes if properly cited and 
+unaltered. The version of record may be linked 
+at https://diabetesjournals.org/care, but ADA 
+permission is required to post this work on any 
+third-party site or platform. This publication and its 
+contents may not be reproduced, distributed, or 
+used for text or data mining, machine learning, 
+or similar technologies without prior written 
+permission. Requests to reuse, adapt, or distribute 
+this work may be sent to permissions@diabetes 
+.org. More information is available at https:// 
+diabetesjournals.org/journals/pages/license.
+The American Diabetes Association (ADA) “Standards of Care in Diabetes” includes the 
+ADA’s current clinical practice recommendations and is intended to provide the compo­
+nents of diabetes care, general treatment goals and guidelines, and tools to evaluate 
+quality of care. Members of the ADA Professional Practice Committee for Diabetes, an 
+interprofessional expert committee, are responsible for updating the Standards of Care 
+annually, or more frequently as warranted. For a detailed description of ADA standards, 
+statements, and reports, as well as the evidence-grading system for ADA’s clinical prac­
+tice recommendations and a full list of Professional Practice Committee members, 
+please refer to Introduction and Methodology. Readers who wish to comment on the 
+Standards of Care are invited to do so at professional.diabetes.org/SOC.
+For prevention and management of diabetes complications in children and adoles­
+cents, please refer to section 14, “Children and Adolescents.” 
+Cardiovascular disease (CVD) is a broad term that includes atherosclerotic cardiovas­
+cular disease (ASCVD) and heart failure, two CVDs common among people with dia­
+betes. ASCVD broadly refers to a history of acute coronary syndrome, myocardial 
+infarction (MI), stable or unstable angina or coronary or other arterial revasculariza­
+tion, stroke, or peripheral artery disease (PAD) including aortic aneurysm and is the 
+leading cause of morbidity and mortality in people with diabetes (1). Diabetes itself 
+confers independent ASCVD risk, and among people with diabetes, all major cardio­
+vascular risk factors, including hypertension, hyperlipidemia, and obesity, are clustered 
+and common (2). Numerous studies have shown the efficacy of managing individual 
+cardiovascular risk factors in preventing or slowing ASCVD in people with diabetes. 
+Furthermore, large benefits are seen when multiple cardiovascular risk factors (glyce­
+mic, blood pressure, and lipid management) are addressed simultaneously, with evi­
+dence for long-lasting benefits (3–5). Notably, most of the evidence supporting 
+interventions to reduce cardiovascular risk in diabetes comes from trials of people 
+with type 2 diabetes. No randomized trials have been specifically designed to assess 
+the impact of cardiovascular risk reduction strategies in people with type 1 diabetes. 
+Therefore, the recommendations for cardiovascular risk factor modification for people 
+with type 1 diabetes are extrapolated from data obtained in people with type 2 dia­
+betes and are similar to those for people with type 2 diabetes.
+Under the current paradigm of comprehensive risk factor modification, cardio­
+vascular morbidity and mortality have notably decreased in people with both type 1 
+and type 2 diabetes (1). Indeed, when all major cardiovascular risk factors are 
+treated to within the target ranges, people with type 2 diabetes have risk of death, 
+MI, or stroke similar to that of the general population (6). Despite these encourag­
+ing opportunities to reduce morbidity and mortality, only a minority of people with 
+S216
+Diabetes Care Volume 49, Supplement 1, January 2026
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 2 =====
+
+type 2 diabetes achieve recommended 
+risk factor goals and are treated with 
+guideline-recommended therapy (7–9). 
+Therefore, continued focus on deliver­
+ing high-quality comprehensive cardio­
+vascular care and on addressing barriers 
+to risk factor management are required 
+to implement the treatment recommen­
+dations (1,10) outlined in this section.
+CVD also includes heart failure, and 
+diabetes is a risk factor for incident 
+heart failure, which is at least twofold 
+more prevalent in people with diabetes 
+compared with those without diabetes 
+and is a major cause of morbidity and 
+mortality (11). People with diabetes may 
+present with a wide spectrum of heart 
+failure, including heart failure with pre­
+served ejection fraction (HFpEF), heart 
+failure with mildly reduced ejection frac­
+tion (HFmrEF), or heart failure with re­
+duced ejection fraction (HFrEF) (12,13). 
+Comorbid conditions including overweight 
+and obesity and hypertension often pre­
+cede the development of HFpEF and have 
+been implicated in the pathophysiology of 
+HFpEF (14). Coronary artery disease is a 
+major risk factor and a cause of myocar­
+dial injury in ischemic heart disease leading 
+to HFrEF. In addition, people with diabetes 
+are at risk for developing structural heart 
+disease and HFrEF in the absence of ob­
+structive coronary artery disease (15). The 
+pathophysiology of heart failure in people 
+with diabetes and further details of screen­
+ing, diagnosis, and treatment of people with 
+heart failure and diabetes are also outlined 
+in a previous consensus statement by the 
+American Diabetes Association (ADA) (16).
+There is an increasing appreciation of 
+the common pathophysiology and interre­
+lationship of cardiometabolic risk factors 
+leading to both adverse cardiovascular and 
+adverse kidney outcomes in people with di­
+abetes, including ASCVD, heart failure, and 
+chronic kidney disease (CKD) (17,18). These 
+three comorbidities are frequently caused 
+by metabolic risk, which is frequently driven 
+by obesity and its associated risk factors, 
+and the incidence of all three conditions 
+rises with increasing A1C levels (19). Collec­
+tively, this combination of comorbidities 
+has been termed cardiorenal metabolic 
+disease or cardiovascular-kidney-metabolic 
+health (20–22). Reasons to concurrently 
+consider cardiovascular and kidney comor­
+bidities in the management of people with 
+diabetes include not only the common 
+metabolic risk but also the major benefit 
+observed across the spectrum of CVD, 
+heart failure, and kidney outcomes in 
+people with type 2 diabetes treated with 
+sodium–glucose cotransporter (SGLT) in­
+hibitors or glucagon-like peptide 1 recep­
+tor agonists (GLP-1 RAs). Therefore, in 
+addition to the management of hyper­
+glycemia, hypertension, and hyperlipid­
+emia, treatment with SGLT inhibitors 
+and/or GLP-1 RAs that have demon­
+strated cardiovascular and kidney bene­
+fit is considered a fundamental element 
+of risk reduction and a core pharmaco­
+logical strategy to improve cardiovascu­
+lar and kidney outcomes in people with 
+type 2 diabetes (Fig. 10.1). In addition to 
+the standards of care for the prevention 
+and treatment of CVD outlined below, 
+the reader is referred to section 9, 
+“Pharmacologic Approaches to Glycemic 
+Treatment,” and section 11, “Chronic 
+Kidney Disease and Risk Management,” for 
+a comprehensive review of pharmacologi­
+cal management of hyperglycemia and kid­
+ney benefit from SGLT2 inhibitors, SGLT1/2 
+inhibitors, and GLP-1 RAs.
+HYPERTENSION AND BLOOD 
+PRESSURE MANAGEMENT
+An elevated blood pressure is defined as a 
+systolic blood pressure 120–129 mmHg 
+with a diastolic blood pressure <80 mmHg 
+(23). Hypertension is defined as a systolic 
+blood pressure ≥130 mmHg or a diastolic 
+blood pressure ≥80 mmHg (23). This is in 
+agreement with the definition of hyperten­
+sion by the American College of Cardiology 
+and American Heart Association (23). Hy­
+pertension is common among people with 
+type 1 and type 2 diabetes. Hypertension is 
+a major risk factor for ASCVD, heart failure, 
+and microvascular complications. More­
+over, numerous studies have shown that 
+antihypertensive therapy reduces ASCVD 
+events, heart failure, and microvascular 
+complications. Please refer to the ADA 
+position statement “Diabetes and Hyper­
+tension” for a detailed review of the epi­
+demiology, diagnosis, and treatment 
+of hypertension (24) and hypertension 
+guideline recommendations (25–28). For 
+blood pressure goals and management 
+in individuals with diabetes who are 
+pregnant, see section 15, “Management 
+of Diabetes in Pregnancy” for details.
+Screening and Diagnosis
+Recommendations
+10.1 Blood pressure should be mea­
+sured at every routine clinical visit, or at 
+least every 6 months. Individuals found 
+to have elevated blood pressure with­
+out a diagnosis of hypertension (systolic 
+blood pressure 120–129 mmHg and 
+diastolic blood pressure <80 mmHg) 
+should have blood pressure confirmed 
+using multiple readings, including meas­
+urements on a separate day, to diag­
+nose hypertension. A Hypertension is 
+defined as a systolic blood pressure 
+≥130 mmHg or a diastolic blood pres­
+sure ≥80 mmHg based on an average 
+of two or more measurements obtained 
+on two or more occasions. A Individuals 
+with blood pressure ≥180/110 mmHg 
+and cardiovascular disease could be di­
+agnosed with hypertension at a single 
+visit. E
+10.2 Counsel all people with hyper­
+tension and diabetes to monitor their 
+blood pressure at home after appro­
+priate education. A
+Blood pressure should be measured at 
+every routine clinical visit or at least ev­
+ery 6 months by a trained individual who 
+should follow the guidelines established 
+for the general population: measurement 
+in the seated position, with feet on the 
+floor and arm supported at heart level, 
+after 5 min of rest. Cuff size should be 
+appropriate for the upper-arm circum­
+ference (29). Individuals identified to 
+have elevated blood pressure or hy­
+pertension should have blood pressure 
+confirmed using multiple readings, in­
+cluding measurements on a separate 
+day, to diagnose hypertension. How­
+ever, in individuals with CVD and blood 
+pressure ≥180/110 mmHg, it is reason­
+able to diagnose hypertension at a sin­
+gle visit (25). Postural changes in blood 
+pressure and pulse may be evidence of 
+autonomic neuropathy and therefore re­
+quire adjustment of blood pressure goals. 
+Lying, sitting, and standing blood pres­
+sure measurements should be checked 
+on initial visit and as indicated.
+Home blood pressure self-monitoring 
+and 24-h ambulatory blood pressure mon­
+itoring may provide evidence of white 
+coat hypertension, masked hypertension, 
+or other discrepancies between office and 
+true blood pressure (30,31). In addition 
+to confirming or refuting a diagnosis of 
+hypertension, home blood pressure as­
+sessment may be useful to monitor anti­
+hypertensive treatment. A systematic 
+review and meta-analysis of prospective 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S217 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

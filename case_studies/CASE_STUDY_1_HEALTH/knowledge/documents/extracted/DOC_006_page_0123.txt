@@ -1,0 +1,37 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+SuccessfulProjects Startwith DataEvaluation 
+Simply having an EHR, even with coded data, will not ensure that the data elements captured are in the 
+vocabularies required by the measure standards. Previously, we mentioned the idea of code mapping 
+where we potentially have a system-specific value for something like a medication ID or even a vital 
+sign. When engaging in an initiative where you intend to use nationalstandards for data exchange or 
+measurement, anticipate that the effort should start withseveralinitial “data assessment” tasks: 
+• 
+Are thedatain the EHR captured in discretecodedforms? If the medical record system or care 
+teams make liberal use of text strings ortext notes, then it will be more difficult and time
+consuming to extract coded forms required for electronic exchange or measurement. To do so 
+will certainly require extensive technology investment and may, in some cases, violate 
+requirements for regulatory reporting. 
+• 
+Are thecoded forms directly accessiblein thepreferred nationalvocabulary standards? If 
+there are discrete coded elements captured through medication systems, flow sheets, or other 
+aspects of required data, they need to be accessible in the required vocabulary standards as 
+defined by either policy or the measure (which are, hopefully, “harmonized”). Eachindividual 
+data point must be able to be expressed (either directly or indirectly) through vocabulary 
+standards like ICD-10, SNOMED CT, LOINC, RxNorm,etc. as required. 
+• 
+Over which time periods are various codesystemsaccessible? In some cases, as vocabulary 
+standards are introduced to organizations and EHRs, they will be available for more recent data, 
+but possibly not historical data. This is a common situation to encounter. If you are doing longer 
+term longitudinal reporting, be sure to evaluate how far back in time any coded data exist. 
+When engaging on an electronic measurement effort it is helpful to first evaluate which measures you 
+intend on calculating, gathering information on each major domain of information (labs, medications, 
+patient demographics, etc.) are involved, and then performing an assessment on the availability and 
+quality of any required data elements. By performing an assessment on data quality in advance, you can 
+help ensure proper project planning and set expectations on what is possible early on. If there are gaps 
+in mapping and coding, those should be identified at the initiation of an effort so you can engage the 
+required subject matter expert. 
+Health IT Advisor Handbook 
+Page 118

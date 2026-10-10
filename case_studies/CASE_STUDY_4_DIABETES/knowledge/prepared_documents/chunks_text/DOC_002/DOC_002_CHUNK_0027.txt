@@ -1,0 +1,105 @@
+
+
+===== PDF PAGE 53 =====
+
+Indicators and metadata  ﻿
+41
+21. 	Chronic kidney disease assessment among people with diabetes
+Indicator name
+Chronic kidney disease assessment among people with diabetes
+Purpose
+To assess the level of chronic kidney disease assessment among people with 
+diabetes in health facilities. 
+Definition
+The proportion of people with diabetes registered in health facilities who were 
+assessed for diabetic kidney disease based on the following criteria:
+	
+●
+Presence of an estimated glomerular filtration rate (eGFR) of <60mL/min 
+per 1.73m2 on at least two occasions, 1 to 3 months apart; and/or
+	
+●
+Presence of albuminuria in at least two urine samples, 1 to 3 
+months apart.
+Urinary albumin excretion can be estimated in a spot urine sample using several 
+tests (from most preferred to least preferred): 
+	
+●
+ urine albumin-to-creatinine ratio (ACR) 
+	
+●
+ urine protein-to-creatinine ratio (PCR)
+	
+●
+ reagent strip (“dipstick”) urine analysis for albumin or total protein with 
+automated reading 
+	
+●
+reagent strip (“dipstick”) urine analysis for albumin or total protein with 
+manual reading.
+Numerator
+Number of people with diabetes registered in health facilities who were assessed 
+for diabetic chronic kidney disease during the reporting period.
+Denominator
+Total number of people with diabetes registered in health facilities. 
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records 
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186).
+
+
+===== PDF PAGE 54 =====
+
+42
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+22. 	Assessment for diabetic foot among people with diabetes
+Indicator name
+Assessment for diabetic foot among people with diabetes
+Purpose
+To assess the level of diabetic foot assessment among people with diabetes in 
+health facilities. 
+Definition
+Proportion of people with diabetes registered in health facilities who were 
+clinically assessed for diabetic foot using foot assessment methods according to 
+WHO or national guidelines during the reporting period.
+Numerator
+Number of people with diabetes registered in health facilities who were clinically 
+assessed for diabetic foot during the reporting period.
+Denominator
+Total number of people with diabetes registered in health facilities.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186). `

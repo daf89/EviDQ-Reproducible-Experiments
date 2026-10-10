@@ -1,0 +1,126 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+19
+Les critères
+Légendes 
+N° critère Description 
+Niveau d’exigence standard 
+N° critère Description 
+Niveau d’exigence avancé
+N° critère Description 
+Niveau d’exigence impératif 
+Critère avec IQSS
+Chapitres
+Objectifs
+Critères
+Champs 
+d’application
+Page
+1. Le patient
+1.1
+Le patient est 
+informé et son 
+implication 
+est recherchée
+1.1-01 Le patient reçoit une information claire et adaptée à son degré 
+de discernement sur son état de santé, les hypothèses et 
+confirmations diagnostiques 
+Tout l’établissement
+26
+1.1-03 Le patient exprime son consentement libre et éclairé sur son 
+projet de soins et ses modalités
+Tout l’établissement
+28
+1.1-04 L’enfant ou l’adolescent est invité à exprimer son avis sur le 
+projet de soins
+Enfant et adolescent
+30
+1.1-05 Le patient bénéficie de messages renforçant sa capacité à 
+agir pour sa santé
+Tout l’établissement
+31
+1.1-06 Le patient bénéficie d’actions pour devenir acteur de sa prise 
+en charge 
+Tout l’établissement
+32
+1.1-07 Les futurs parents discutent d’un projet de naissance avec 
+l’équipe soignante dès le début de la grossesse
+Maternité
+34
+1.1-08 Le patient a pu désigner la personne à prévenir et la personne 
+de confiance de son choix
+Tout l’établissement
+35
+1.1-09 Le patient, en prévision de sa sortie, est informé des 
+consignes de suivi pour sa prise en charge
+Tout l’établissement
+36
+1.1-10 Le patient est informé des dispositifs médicaux qui lui sont 
+implantés durant son séjour et reçoit les consignes de suivi 
+appropriées
+Chirurgie et 
+interventionnel
+37
+1.1-11 Le patient est informé des produits sanguins labiles qui lui sont 
+administrés
+Tout l’établissement
+38
+1.1-12 En ambulatoire, le patient reçoit les informations spécifiques 
+aux modalités de sa prise en charge
+Ambulatoire
+39
+1.1-13 En HAD, le patient sait qui contacter à tout moment
+Hospitalisation à 
+domicile
+40
+1.1-14 Le patient est informé de façon adaptée sur son droit à rédiger 
+ses directives anticipées
+Tout l’établissement
+41
+1.1-15 Le patient a la possibilité, en situation de fin de vie, de faire 
+valoir au plus tôt sa décision d’accéder aux soins palliatifs
+Tout l’établissement
+42
+1.1-16 Le patient est informé sur les représentants des usagers et/ou 
+associations de bénévoles qui peuvent l’accompagner et sur les 
+aides techniques et humaines adaptées à ses besoins nécessaires 
+pour son retour à domicile
+Tout l’établissement
+43
+1.1-17 Le patient est invité à faire part de son expérience et à 
+exprimer sa satisfaction
+Tout l’établissement
+44
+1.1-18 Le patient reçoit une information claire et adaptée à son degré 
+de discernement sur les modalités de sa prise en charge
+Tout l’établissement
+45
+1.2 
+Le patient est 
+respecté
+1.2-01 Le patient bénéficie du respect de son intimité et de sa dignité
+Tout l’établissement
+47
+1.2-02 Le patient mineur bénéficie d’un environnement adapté
+Enfant et adolescent
+48
+1.2-03 Le patient vivant avec un handicap bénéficie du maintien de 
+son autonomie tout au long de son séjour
+Patient vivant avec 
+un handicap
+49
+1.2-04 Le patient âgé dépendant bénéficie du maintien de son 
+autonomie tout au long de son séjour
+Patient âgé
+50
+1.2-05 Le patient bénéficie du respect de la confidentialité des 
+informations le concernant
+Tout l’établissement
+51
+1.2-06 Le recours à la contention mécanique relève d’une décision 
+médicale
+Tout l’établissement
+52
+1.2-07 Le patient reçoit une aide pour ses besoins élémentaires, 
+même en situation de tension d’activité
+Tout l’établissement
+54

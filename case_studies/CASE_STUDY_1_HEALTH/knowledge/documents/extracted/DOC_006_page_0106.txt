@@ -1,0 +1,16 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+8.7 Conclusion 
+CQMs are important tools for measuring and tracking the quality of healthcare services. They can range 
+from simple individual metrics devised by a clinician to curated and broadly applicable collections of 
+related measures. It is also important to keep in mind the fact that CQMs have directionality, which 
+varies among measures: i.e., a “good” score on one CQM will be a high number, while a “good” score on 
+another CQM will be a low number. Also keep in mind that CQMs can change, so be sure when 
+presenting time series data that the same version of the measure is being used. EHR updates may 
+automatically include the most recent version of eCQMs. Choosing the best way to visualize CQM data is 
+an art. Experienced data analysts work from a large palette of techniques and always target data 
+presentations to the audience. For example, a chart created to show providers how they compare to 
+each other would be very different from one created for a scientific publication. We have included a 
+primer for creating data visualizations in Appendix D of this handbook. 
+Health IT Advisor Handbook 
+Page 101

@@ -1,0 +1,103 @@
+the BP guideline (the previous guideline suggested a target
+<90th percentile). Although ofﬁce BP may be higher than
+BP measured by ABPM, this is not universally the case.
+Given the evidence that intensive BP control may slow CKD
+progression together with the very low risk of adverse
+effects of intensive BP lowering in children,228 we consider
+that more intensive BP lowering targeting around the 50th
+percentile is reasonable. However, a target even lower than
+the 50th percentile has not been shown to offer additional
+beneﬁts. Recent trial data found that using a target of ofﬁce
+auscultatory SBP at 50th to 75th percentile versus intensive
+control to below the 40th percentile did not result in
+signiﬁcant differences in left ventricular mass index.229
+3.5 Glycemic control
+Please refer to the KDIGO 2022 Clinical Practice Guideline
+for Diabetes Management in Chronic Kidney Disease for
+speciﬁc recommendations, practice points, and research
+recommendations.
+3.6 Renin-angiotensin system inhibitors
+The Work Group highlights recommendations from the
+KDIGO 2021 Clinical Practice Guideline for the Management
+of Blood Pressure in Chronic Kidney Disease and selected
+practice points for treatment with RASi from the KDIGO 2021
+Clinical Practice Guideline for the Management of Blood
+Pressure in Chronic Kidney Disease21 and the KDIGO 2022
+Clinical Practice Guideline for Diabetes Management in
+Chronic Kidney Disease.23 The Work Group considers
+several recommendations to apply even in the absence of
+high BP and has adapted the recommendations from the BP
+guideline to remove this requirement. Key recommendations
+and practice points are highlighted:
+Recommendation 3.6.1: We recommend starting
+renin-angiotensin-system inhibitors (RASi) (angio-
+tensin-converting enzyme inhibitor [ACEi] or
+angiotensin II receptor blocker [ARB]) for people
+with CKD and severely increased albuminuria (G1–
+G4, A3) without diabetes (1B).
+Recommendation 3.6.2:We suggeststartingRASi (ACEi
+or ARB) for people with CKD and moderately increased
+albuminuria (G1–G4, A2) without diabetes (2C).
+Recommendation 3.6.3: We recommend starting
+RASi (ACEi or ARB) for people with CKD and
+moderately-to-severely increased albuminuria
+(G1–G4, A2 and A3) with diabetes (1B).
+Recommendation 3.6.4: We recommend avoiding
+any combination of ACEi, ARB, and direct renin in-
+hibitor (DRI) therapy in people with CKD, with or
+without diabetes (1B).
+Practice Point 3.6.1: RASi (ACEi or ARB) should be
+administered using the highest approved dose that is
+tolerated to achieve the beneﬁts described because the
+proven beneﬁts were achieved in trials using these doses.
+Practice Point 3.6.2: Changes in BP, serum creatinine,
+and serum potassium should be checked within 2–4
+weeks of initiation or increase in the dose of a RASi,
+depending on the current GFR and serum potassium.
+Practice Point 3.6.3: Hyperkalemia associated with use
+of RASi can often be managed by measures to reduce the
+serum potassium levels rather than decreasing the dose
+or stopping RASi.
+Practice Point 3.6.4: Continue ACEi or ARB therapy
+unless serum creatinine rises by more than 30% within
+4 weeks following initiation of treatment or an increase
+in dose.
+Practice Point 3.6.5: Consider reducing the dose or dis-
+continuing ACEi or ARB in the setting of either symp-
+tomatic hypotension or uncontrolled hyperkalemia
+despite medical treatment, or to reduce uremic symptoms
+while treating kidney failure (estimated glomerular ﬁltra-
+tion rate [eGFR] <15 ml/min per 1.73 m2).
+Practice Point 3.6.6: Consider starting people with CKD
+with normal to mildly increased albuminuria (A1) on RASi
+(ACEi or ARB) for speciﬁc indications (e.g., to treat hyper-
+tension or heart failure with low ejection fraction).
+The role of RASi (speciﬁcally ACEi or ARB) in the manage-
+ment of BPand people with CKD, diabetes, and/or high BP have
+been speciﬁcally considered in recent KDIGO guidelines.21,23
+Although temporarily stopping RASi may be a valid treatment
+strategy for emergent hyperkalemia, we advise to ensure the
+reinitiation of treatments once the adverse event is resolved, so
+that people are not deprived of a needed medication (Practice
+Point 4.3.3).502–506 The Work Group offers the new Practice
+Point 3.6.6 and a revised algorithm for initiation of RASi
+(Figure 21).23 The algorithm has been updated to suggest a
+$30% decrease in eGFR (rather than increase in creatinine)
+should be a trigger to investigate for an underlying other
+condition. This represents a threshold above which the eGFR
+change is greater than would be expected from natural
+variation. Lastly, it should be noted that restricting salt intake
+may help ensure maximal effects of RASi.
+Practice Point 3.6.7: Continue ACEi or ARB in people
+with CKD even when the eGFR falls below 30 ml/min per
+1.73 m2.
+In a recent STOP-ACEi trial of 411 participants with mean
+eGFR of 13 ml/min per 1.73 m2, a policy of discontinuing
+RASi in CKD G4–G5 did not result in any kidney or car-
+diovascular beneﬁts.507 Two observational studies have also
+found that associations suggesting outcomes were worse
+among participants who stopped RASi after reaching an
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S213

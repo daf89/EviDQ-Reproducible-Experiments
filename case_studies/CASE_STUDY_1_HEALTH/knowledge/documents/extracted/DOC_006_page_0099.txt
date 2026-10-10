@@ -1,0 +1,23 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+specific characteristicsofinterest. The CQMperformance rate is representedas a percentage from the 
+simple calculation below. 
+Performance rate (%) = (Numerator)/ (Initial Population - (Exceptions + Exclusions)) 
+Note: A worked-through example of a CQM calculation is shown below in section 8.5. 
+Exhibit 44: Illustration of the Components of a CQM calculation[96] 
+8.4 Clinical Quality Measure Specifications 
+CQM developers (and there are many) are responsible for clearly and unambiguously defining which 
+individuals fall into each circle by creating detailed specifications. Before choosing a CQM for a QI 
+project, Health IT Advisors should clearly understand what a final performance rate is (and is not) telling 
+you about actual quality by carefully reading through the specifications. 
+Detailed specifications, lists of code values (value sets), and logic diagrams can be found online in many 
+places, including the NQF Quality Positioning System (described above) and the online eCQM 
+Clearinghouse for the measures usedby CMS for MIPS and other programs. 
+For example, Exhibit 45 shows an excerpt of the CMS specification CQM for Controlling High Blood 
+Pressure (CMS 165v9, NQF0018). This measure could be summarized as follows: “Percentage of patients 
+18 - 85 years of age who had a diagnosis of hypertension and whose blood pressure was adequately 
+controlled (< 140/90 mmHg)during the measurement period.” It will be important to understand 
+denominator exclusions here (e.g., patients whohave not been seenin the last year)to be able to 
+accurately interpret final results. 
+Health IT Advisor Handbook 
+Page 94

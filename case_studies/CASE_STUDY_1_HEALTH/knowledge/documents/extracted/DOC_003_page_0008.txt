@@ -1,0 +1,80 @@
+The ESC Clinical Practice Guidelines (CPG) Committee supervises 
+and co-ordinates the preparation of new guidelines and is responsible 
+for the approval process. In addition to review by the CPG 
+Committee, ESC Guidelines undergo multiple rounds of double-blind 
+peer review by external experts, including members from across the 
+whole of the ESC region, all National Cardiac Societies of the ESC 
+and from relevant ESC Subspecialty Communities. After appropriate 
+revisions, the guidelines are signed off by all the experts in the task 
+force. The finalized document is signed off by the CPG Committee 
+for publication in the European Heart Journal. 
+ESC Guidelines are based on analyses of published evidence, chiefly 
+on clinical trials and meta-analyses of trials, but potentially including 
+other types of studies. Evidence tables summarizing key information 
+from relevant studies are generated early in the guideline development 
+process to facilitate the formulation of recommendations, to enhance 
+comprehension of recommendations after publication, and reinforce 
+transparency in the guidelines development process. The tables are 
+published in their own section of ESC Guidelines and reference specific 
+recommendation tables. 
+Off-label use of medication may be presented in these guidelines if a 
+sufficient level of evidence shows that it can be considered medically ap-
+propriate for a given condition. However, the final decisions concerning 
+an individual patient must be made by the responsible health profes-
+sional giving special consideration to: 
+• The specific situation of the patient. Unless otherwise provided for 
+by national regulations, off-label use of medication should be limited 
+to situations where it is in the patient’s interest with regard to the 
+quality, safety, and efficacy of care, and only after the patient has 
+been informed and has provided consent; 
+• Country-specific health regulations, indications by governmental 
+drug regulatory agencies, and the ethical rules to which health profes-
+sionals are subject, where applicable. 
+2. Introduction 
+This 2024 document updates the 2018 ESC/European Society of 
+Hypertension (ESH) Guidelines on the management of arterial hyper-
+tension.1 While the current document builds on prior guidelines, it 
+also incorporates important updates and new recommendations based 
+on current evidence. For example: 
+(1) The title has changed from ‘Guidelines on the management of ar-
+terial hypertension’ to ‘Guidelines on the management of elevated 
+blood pressure and hypertension’. This is based on evidence that 
+the risk for cardiovascular disease (CVD) attributable to blood 
+pressure (BP) is on a continuous exposure scale, not a binary scale 
+of normotension vs. hypertension.2,3 Updated evidence also in-
+creasingly demonstrates the benefit on CVD outcomes of 
+BP-lowering medications among persons with high CVD risk and 
+BP levels that are elevated but that do not meet traditional thresh-
+olds used to define hypertension. The term ‘arterial’ is removed 
+from the title of the 2024 Guidelines, as arterial hypertension can 
+also occur in the pulmonary arteries, which is not a focus here. 
+(2) The 2024 Guidelines continue to define hypertension as office sys-
+tolic BP of ≥140 mmHg or diastolic BP of ≥90 mmHg. However, a 
+new BP category called ‘Elevated BP’ is introduced. Elevated BP is 
+defined as an office systolic BP of 120–139 mmHg or diastolic BP 
+of 70–89 mmHg. 
+(3) A major, evidence-based change in the 2024 Guidelines is the rec-
+ommendation to pursue a target systolic BP of 120–129 mmHg 
+among adults receiving BP-lowering medications. There are several 
+important caveats to this recommendation, including: (i) the re-
+quirement that treatment to this BP target is well tolerated by 
+the patient, (ii) the fact that more lenient BP targets can be consid-
+ered in persons with symptomatic orthostatic hypotension, those 
+aged 85 years or over, or those with moderate-to-severe frailty 
+Table 2 Levels of evidence 
+Level of
+evidence A
+Level of
+evidence B
+Level of
+evidence C
+Data derived from multiple randomized clinical trials
+or meta-analyses.
+Data derived from a single randomized clinical trial
+or large non-randomized studies.
+Consensus of opinion of the experts and/or small studies,
+retrospective studies, registries.
+©ESC 2024
+© ESC 2024 
+ESC Guidelines 3919 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

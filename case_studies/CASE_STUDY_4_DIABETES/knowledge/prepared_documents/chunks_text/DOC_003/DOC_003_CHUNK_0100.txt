@@ -1,0 +1,119 @@
+
+
+===== PDF PAGE 199 =====
+
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-1 
+WHO STEPS Surveillance 
+ 
+ 
+Section 6: Collecting Step 3 data: Biochemical 
+Measurements 
+ 
+Overview 
+ 
+ 
+ 
+Introduction 
+This section provides information on taking biochemical measures required 
+under Step 3 of the STEPS Instrument. 
+ 
+ 
+Intended 
+audience 
+This section is designed for use by those fulfilling the following roles: 
+ 
+• Field team supervisors 
+• Step 3 data collectors 
+• STEPS Survey Coordinator. 
+ 
+ 
+ 
+In this section 
+This section covers the following topics: 
+ 
+Topic 
+See Page 
+Biochemical Measurements Overview 
+3-6-2 
+Urine Collection 
+3-6-4 
+Urinary Sodium and Creatinine Measurement 
+3-6-6 
+Blood Collection 
+3-6-7 
+Measurement of Blood Glucose and Lipids 
+3-6-9 
+Completing the Participant Feedback Form (Step 3) 
+3-6-11 
+ 
+
+
+===== PDF PAGE 200 =====
+
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-2 
+WHO STEPS Surveillance 
+Biochemical Measurements Overview 
+ 
+ 
+ 
+Introduction 
+Step 3 includes selected biochemical measurements that require taking urine 
+and blood samples. 
+ 
+Step 3 blood testing is usually conducted jointly for all the participants who 
+have completed Step 1 and 2 the day before and had given consent for Step 3. 
+This is usually done at a convenient community setting, closer to the homes    
+of the participants. Step 3 urine samples are usually collected by the 
+participants the evening before the blood testing, and the samples are brought 
+to the Step 3 site the next day. 
+ 
+ 
+What you will 
+learn 
+In this module, you will learn: 
+ 
+• what the biochemical measures are and what they mean 
+• the process of urine collection and instructions for participants 
+• the fasting process and instructions for participants 
+• what equipment will be needed 
+• how to take biochemical measurements 
+• how to record the results. 
+ 
+ 
+ 
+Learning 
+outcome 
+The learning outcome of this section is to understand what the biochemical 
+measures are and how to accurately prepare participants, take the 
+measurements and record results. 
+ 
+ 
+ 
+Recording 
+results and field 
+logistics 
+Since results for Steps 1 and 2 and results for Step 3 will have to be recorded   
+at different times and places (Step 1 and 2 usually in the household, Step 3 
+usually at the Step 3 site), Step 1 and 2 data will need to be linked to Step 3  
+data at a later point in time.  The participant identification number (PID) plays  
+a crucial role here, since it is the variable used for matching the data. 
+Additionally, it is recommended to use stickers with a unique bar or QR codes 
+for each participant. 
+ 
+The Step 3 Appointment Card (Part 6, Section 2) is an important form in this 
+process: the PID (either automatically or manually generated for Step 1 and 2) 
+should be written on the form, and the participant should bring the form with 
+her/him to the appointment for the Step 3 measurements. The same PID will 
+then be used to record the Step 3 information of the participant.   The bar or  
+QR code should be printed on a sticker that is placed on the Step 3  
+Appointment Card.  This code should be scanned with the Android device 
+twice: once by the  interviewer before Step 1  and  2 data are collected, and 
+once by the Step 3 data collector before recording Step 3 results. 
+ 
+Continued on next page 

@@ -1,0 +1,113 @@
+
+
+===== PDF PAGE 223 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-2 
+WHO STEPS Surveillance 
+Overview, Continued 
+ 
+ 
+ 
+Tasks and 
+timeframes 
+Data analysis cannot begin until the data has been cleaned and weighted (see 
+Part 4, Section 1). Once that task it complete, the data analysis can be 
+completed with the standard STEPS tools within the span of a week. 
+Additional time would be needed if more complex analyses are going to be 
+done. Note this does not include time to write the survey report (see Part 4, 
+Section 3). 
+ 
+ 
+ 
+In this section 
+This section covers the following topics: 
+Topic 
+See Page 
+Preparing the Dataset 
+4-2-3 
+Epi Info Overview 
+4-2-5 
+Completing the Fact Sheet 
+4-2-8 
+Completing the Data Book 
+4-2-9 
+ 
+
+
+===== PDF PAGE 224 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-3 
+WHO STEPS Surveillance 
+Preparing the Dataset 
+ 
+ 
+ 
+Introduction 
+Once the dataset has been cleaned and weighted (see Part 4, Section 1), it 
+must be prepared for analysis in Epi Info in order to use the standard STEPS 
+analysis tools. 
+ 
+ 
+Epi Info 
+Analysis 
+Programs 
+The standardized analysis programs provided by the STEPS team are 
+encapsulated in an Access file containing a table of all the Epi Info analysis 
+programs. This Access file is available on the STEPS website. 
+ 
+ 
+ 
+Preparing files 
+and folders 
+Once you have downloaded the Epi Info analysis programs, you must rename 
+the file “STEPS.mdb”. This file must be located in the following location on 
+your computer in order for the analysis programs to work: 
+ 
+C:\STEPS\EpiInfo 
+ 
+Additionally, you should create a folder called “Output Tables” and place it in 
+this folder as well.  This is  where  Epi Info will save  all of  your analysis 
+output when you perform your analysis in Epi Info using the provided 
+programs. 
+ 
+ 
+ 
+Create 
+mandatory 
+variables 
+In order to use the Epi Info analysis programs the following variables must be 
+in your dataset. These variables are included in most, if not all, of the data 
+analysis programs and therefore the programs will not be able to run if they   
+are missing.   For the last 5 variables in the list, please refer to Part 4, Section   
+1 for more information about the development of these variables. 
+ 
+Variable 
+Description 
+Age 
+Age of the participant, calculated from date of interview and 
+date of birth (if available, otherwise taken from the question 
+on age of the participant). 
+Agerange 
+The age range into which the participant falls (e.g. “18-29”, 
+“30-44”). This is a text variable. 
+Sex 
+A text variable containing the values “Men” and “Women”, 
+generated from the variable C1 (sex) in the dataset. 
+Valid 
+A flag variable used to indicate which records should be 
+included in all analyses. Records with either age or sex 
+missing or age out of the age range of the survey receive a 
+value of 2. Records with neither age or sex missing and age 
+within the age range of the survey receive a value of 1. 
+WStep1 
+The complete analysis weight for Step 1 variables. 
+WStep2 
+The complete analysis weight for Step 2 variables. 
+ 
+Continued on next page 

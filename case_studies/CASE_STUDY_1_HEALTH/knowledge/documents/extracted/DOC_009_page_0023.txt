@@ -1,0 +1,265 @@
+n/a
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Office‑based physician
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+18,445
+19,382
+18,256
+21,458
+20,355
+19,810
+19,819
+17,991
+17,417
+Final in‑scope sample
+16,927
+17,370
+16,166
+19,527
+17,983
+17,470
+17,088
+15,546
+14,824
+SBD
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+42,951
+23,603
+22,775
+91,283
+20,299
+20,158
+16,723
+18,768
+16,982
+Final in‑scope sample
+27,490
+14,437
+13,313
+14,091
+14,379
+14,760
+10,953
+12,415
+12,203
+Pharmacy
+Initial Sample
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+Sample after subsampling
+20,218
+19,262
+20,872
+18,263
+16,858
+21,106
+16,566
+14,395
+14,673
+Final in‑scope sample
+17,366
+16,735
+17,744
+15,917
+14,607
+17,698
+13,940
+12,137
+12,488
+Table B‑3. MPC Data Collection Results, Provider Level, 1996‑2024
+Initial Sample
+Sub‑sample
+Eligible Sample
+Completion Rate
+Refusal Rate
+Other Nonresponse Rate
+1996 Providers
+Hospitals
+3,301
+3,301
+3,224
+0.951
+0.021
+0.028
+Office‑based providers
+10,118
+10,118
+7,530
+0.881
+0.069
+0.051
+HMOs
+296
+296
+601
+0.805
+0.085
+0.110
+Home care providers
+415
+415
+353
+0.875
+0.062
+0.062
+Institutions
+59
+59
+50
+0.960
+0.040
+‑
+SBDs
+10,323
+10,323
+7,223
+0.949
+0.042
+0.009
+Pharmacies
+6,109
+6,109
+5,321
+0.722
+0.061
+0.217
+Total
+30,621
+30,621
+24,302
+1997 Providers
+Hospitals
+4,768
+4,065
+4,163
+0.894
+0.058
+0.048
+Office‑based providers
+10,095
+9,666
+7,047
+0.871
+0.053
+0.069
+HMOs
+350
+350
+467
+0.717
+0.090
+0.193
+Home care providers
+653
+653
+579
+0.834
+0.090
+0.076
+Institutions
+80
+80
+75
+0.827
+0.107
+0.067
+SBDs
+14,730
+14,730
+5,026
+0.885
+0.104
+0.012
+Pharmacies
+8,574
+8,574
+7,335
+0.700
+0.068
+0.232
+Total
+39,250
+38,118
+24,692
+1998 Providers
+Hospitals
+3,468
+3,468
+3,247
+0.939
+0.025
+0.037
+Office‑based providers
+10,483
+8,403
+7,356
+0.861
+0.043
+0.096
+HMOs
+228
+171
+155
+0.871
+0.103
+0.026
+Home care providers
+456
+420
+384
+0.820
+0.089
+0.091
+Institutions
+63
+69
+65
+0.754
+0.169
+0.077
+SBDs
+10,711
+10,711
+7,707
+0.862
+0.063
+0.075
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+23/40

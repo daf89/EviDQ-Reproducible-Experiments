@@ -1,0 +1,6 @@
+﻿document_id,short_title,n_pages,pages_with_text,pages_without_text,total_characters,median_characters_per_page
+DOC01_ENCR_DQ_CHECKS,Cancer Data Quality Checks v1.1,104,102,2,114112,821.5
+DOC02_IARC_SP95,Cancer Registration: Principles and Methods,294,293,1,689433,2575.0
+DOC03_ENCR_STANDARD_2023,ENCR Standard Dataset 2023,6,6,0,8648,1312.5
+DOC04_WHO_ICDO3,ICD-O-3 First Revision,252,249,3,634339,2542.0
+DOC05_JRC_ENCR_QCS,JRC-ENCR Quality Check Software User Manual,24,24,0,27275,862.0

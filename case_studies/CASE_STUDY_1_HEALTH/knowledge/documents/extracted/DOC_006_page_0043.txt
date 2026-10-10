@@ -1,0 +1,51 @@
+2. Correctness: Are the data accurate? 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Correct data are not only accurate (truly reflecting a real-world patient attribute or finding) but are also 
+captured in the expected data structure and format (see home blood pressure example above). 
+Incorrect data might result from the following: 
+• 
+Users forget to clear or change default selections from documentation templates or 
+questionnaires. 
+• 
+Users recorddata in notes or clinical narratives insteadof available structureddata. Example: A 
+medical assistant types the result of a depression screening in the notes instead of the screening 
+form. 
+• 
+Expected numeric data, units of measure, or free text are entered with an incorrect format. 
+Example: A medical assistant types “Left arm140over 80” insteadof the expected “140/80” for 
+a blood pressure reading. 
+3. Concordance: Are the data consistent and in the proper context? 
+Discordant data can be difficult to detect when looking at raw data in a spreadsheet. Correlating 
+suspicious data might require a manual chart check for corresponding records or to comparing project 
+data with related clinical information. Examples of discordant data include the following. 
+• 
+Missing or conflicting documentation of key data elements: Example: No colonoscopy report 
+exists despite a structured data field indicating that one was done. 
+• 
+Laboratory values from different sources with different units or analytical methods: Example: 
+Lab A reports an A1c .075 versus Lab B that provides the percentage 7.5%. 
+4. Currency: Are the data in the EHR the most current? 
+Data currency is usually determined by the dates and times (or “timestamps”) attached toa data 
+element. For example, a laboratory result might include when a sample was collected, when a result was 
+reported, and even when a clinician reviewed the result. Here are some examples where data currency 
+may not be obvious. 
+• 
+Key data elements are pulled forward from previous visits or history. Example: The EHR pulls 
+data in the social history section forward to the current record, but the previous data were not 
+confirmed during the visit. 
+• 
+The EHR data reflects when the element was entered and not when it was first identified. 
+Example: When a new diagnosis is added to the problem list, the timestampreflects today’s visit 
+and not when the problem first began (“added date” versus “onset date”). 
+• 
+There may be more recent data available outside of the clinic EHR. Example: Tests, referrals, 
+hospital visits, procedures, and referrals may all be missing from the clinic’s EHR unless 
+workflows exist to retrieve and incorporate them. 
+5. Plausibility: Do the data make sense? 
+A subjective “gut check” can often identify troublesome data. For example, laboratory values outside of 
+the range of human life are an obvious clue that there is an issue with the EHR process for receiving, 
+recording, or reviewing test results. Additional examples of implausible data include the following: 
+Health IT Advisor Handbook 
+Page 38

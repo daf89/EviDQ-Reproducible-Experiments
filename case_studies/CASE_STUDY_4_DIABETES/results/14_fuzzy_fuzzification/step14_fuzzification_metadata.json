@@ -1,0 +1,48 @@
+{
+  "step": "STEP14",
+  "title": "Freeze nominal membership functions and fuzzification",
+  "timestamp": "2026-10-03T13:19:08.492596",
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "baseline": "Dataset_DQ",
+  "common_validation_n": 139,
+  "common_validation_positive": 47,
+  "common_validation_negative": 92,
+  "REF_used_for_action_comparison": false,
+  "REF_used_for_XAI_comparison": false,
+  "REF_used_for_fuzzy": false,
+  "TEST_accessed": false,
+  "new_model_trained": false,
+  "new_SHAP_computed": false,
+  "new_DQ_action_applied": false,
+  "fuzzy_rules_constructed": false,
+  "fuzzy_inference_performed": false,
+  "recommendation_generated": false,
+  "ranking_generated": false,
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "fuzzy_input_variables": {
+    "PERFORMANCE": "Delta_BalancedAccuracy_vs_DQ",
+    "EXPLANATION_SHIFT": "Relative_Age_SHAP_Change_vs_DQ",
+    "STABILITY": "Stability_Cosine_Mean",
+    "COVERAGE": "Coverage"
+  },
+  "Age_SHAP_DQ": 0.226309,
+  "delta_BA": 0.010638297872340425,
+  "delta_BA_formula": "max_c(1/(2*N_c))",
+  "membership_functions_status": "FROZEN_FOR_NOMINAL_ANALYSIS",
+  "action_values_used_to_calibrate_MF": false,
+  "sensitivity_analysis_required": true,
+  "sensitivity_analysis_performed": false,
+  "status": "PASS_FUZZIFICATION_ONLY",
+  "hashes": {
+    "STEP14_FUZZY_INPUT_VALUES.csv": "cf3401764a561e0f9fe5dde1b1219118a0f1959e9799cacdb7c5cb1f0cca7462",
+    "STEP14_FROZEN_MEMBERSHIP_FUNCTIONS.csv": "ceddc1abb4811e990cb8e45734f633eba909f43ed628cb560d6992345bcdfd4c",
+    "STEP14_FUZZY_MEMBERSHIP_DEGREES_LONG.csv": "62b993e9b1cf40cf1a9a50733fd163483f920c4f2e65f186e167212c7aea0bcd",
+    "STEP14_FUZZY_MEMBERSHIP_DEGREES_WIDE.csv": "2e7d090494a87a9b564f212056ca5e1244b50db97385d31cca5a1ff828197d1d",
+    "STEP14_FUZZY_DOMINANT_TERMS.csv": "e000ce8d02e9b6ba9c5d2ce42a99a7b10bfc99217482861730f6827e1b97013d"
+  }
+}

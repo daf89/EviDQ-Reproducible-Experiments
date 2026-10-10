@@ -1,0 +1,109 @@
+ﬁbrillation. They offer beneﬁts in terms of ease of monitoring.
+CKD does not appear to importantly modify these beneﬁts, at
+least down to G4.
+Practice Point 3.16.2: NOAC dose adjustment for GFR is
+required, with caution needed at CKD G4–G5.
+Doses of NOACs may need to be modiﬁed in people with
+decreased GFR taking into consideration the age, weight, and
+GFR of a person with CKD (Figure 43710). Consult the
+relevant summaries of product characteristics for the latest
+information on dosing (Chapter 4).
+Practice Point 3.16.3: Duration of NOAC discontinuation
+before elective procedures needs to consider procedural
+bleeding
+risk,
+NOAC
+prescribed,
+and
+level
+of
+GFR
+(Figure 44).710,724
+eCrCl (ml/min)a
+Warfarin
+Apixabanb
+Dabigatran
+Edoxabanc
+Rivaroxaban
+>95
+Adjusted dose (INR 2–3)
+5 mg b.i.d.
+150 mg b.i.d.
+60 mg QDd
+20 mg QD
+51–95
+Adjusted dose (INR 2–3)
+5 mg b.i.d.
+150 mg b.i.d.
+60 mg QD
+20 mg QD
+31–50
+Adjusted dose (INR 2–3)
+5 mg b.i.d.
+150 mg b.i.d. or
+110 mg b.i.d.e
+30 mg QD
+15 mg QD
+a
+eCrCl (ml/min)a
+Warfarin
+Apixabanb
+Dabigatran
+Edoxaban
+Rivaroxaban
+15–30
+Adjusted dose for INR
+2–3 could be considered
+2.5 mg PO b.i.d.
+could be considered
+Unknown
+(75 mg PO b.i.d.)f,g
+30 mg QDh
+could be considered
+15 mg QD
+could be considered
+<15 not on dialysis
+Equipoise based on
+observational data
+and meta-analysis
+Unknown
+(2.5 mg PO b.i.d.)f
+Not recommended
+Not recommended
+Unknown
+(15 mg QD)f
+<15 on dialysis
+Equipoise based on
+observational data
+and meta-analysis
+Unknown
+(2.5 mg PO b.i.d.)f
+Not recommended
+Not recommended
+Unknown
+(15 mg QD)f
+b
+Figure 43 | Evidence from (a) randomized controlled trials (RCTs) regarding therapeutic anticoagulation dose by glomerular ﬁltration
+rate (GFR) and (b) in areas where RCTs are lacking. Dosing of non–vitamin K antagonist oral anticoagulants (NOACs) based solely on
+limited pharmacokinetic and pharmacodynamic data (i.e., there are no randomized efﬁcacy or safety trial data assessing clinical outcomes
+for stroke thromboprophylaxis in atrial ﬁbrillation at chronic kidney disease [CKD] G4–G5). aCockcroft-Gault estimated creatinine clearance
+(eCrCl). bApixaban dose modiﬁcation from 5 mg twice per day (b.i.d.) to 2.5 mg b.i.d. if a person has any 2 of the following: serum
+creatinine $1.5 mg/dl (133 mmol/l), age $80 years, or body weight #60 kg. cIn the Effective Anticoagulation With Factor Xa Next Generation
+in Atrial Fibrillation–Thrombolysis in Myocardial Infarction 48 (ENGAGE-AF TIMI 48) study, the dose was halved if any of the following: eCrCl
+of 30–50 ml/min, body weight #60 kg, or concomitant use of verapamil or quinidine (potent P-glycoprotein inhibitors). dThis dose has not
+been approved for use by the US Food and Drug Administration (FDA) in this category of GFR. eIn countries where 110 mg b.i.d. is approved,
+healthcare providers may prefer this dose after clinical assessment of thromboembolic versus bleeding risk. This dose has not been
+approved for use by the US FDA. fNOAC doses listed in parenthesis are doses that do not currently have any clinical or efﬁcacy data. The
+doses of NOACs apixaban 5 mg b.i.d.,b rivaroxaban 15 mg every day, and dabigatran 75 mg b.i.d. are included in the US FDA–approved
+labeling based on limited dose pharmacokinetic and pharmacodynamics data with no clinical safety data. We suggest consideration of the
+lower dose of apixaban 2.5 mg oral b.i.d. in CKD G5 and G5D to reduce bleeding risk until clinical safety data are available. gDabigatran 75
+mg available only in the United States. hThe dose was halved if any of the following: estimated CrCl of 30–50 ml/min, body weight of #60 kg,
+or concomitant use of verapamil or quinidine (potent P-glycoprotein inhibitors). INR, international normalized ratio; QD, every day.
+Reproduced from Turakhia MP, Blankestijn PJ, Carrero JJ, et al. Chronic kidney disease and arrhythmias: conclusions from a Kidney Disease:
+Improving Global Outcomes (KDIGO) Controversies Conference. Eur Heart J. 2018;39:2314–2325.710 ª The Author(s) 2018. Published by
+Oxford University Press on behalf of the European Society of Cardiology. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/).
+chapter 3
+www.kidney-international.org
+S244
+Kidney International (2024) 105 (Suppl 4S), S117–S314

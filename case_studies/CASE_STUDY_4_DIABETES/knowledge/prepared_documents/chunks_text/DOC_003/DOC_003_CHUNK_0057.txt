@@ -1,0 +1,141 @@
+
+
+===== PDF PAGE 113 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-26 
+WHO STEPS Surveillance 
+Preparing Data Collection Forms, Continued 
+ 
+ 
+ 
+Variable 
+Description 
+Interviewer ID 
+Every interviewer should be assigned a unique ID number. 
+Device ID 
+Every Android should be assigned a unique ID number. If a 
+device stops working during data collection, do not re-assign its 
+Device ID to another device. It is recommended to assign the 
+device the same ID as the interviewer using it. 
+Cluster ID 
+A unique number should be assigned to all selected sampling 
+units from which households and/or individuals will be selected. 
+Often these sampling units are villages, but could instead be city 
+blocks, city districts, etc., depending on the sample design. 
+Note: If household or individual selection is the first or only 
+stage of sampling, it is not necessary to use Cluster IDs. 
+Household ID 
+All households to be visited should be assigned a unique ID. 
+The Android STEPS app will automatically generate a unique 
+household ID for each household visited based on a combination 
+of the device ID and a unique number. If the app is not used and 
+household IDs are generated manually, these numbers should be 
+consecutive from 1 through the total number of households to be 
+visited. 
+If no interview is conducted at a selected household, the 
+Household ID assigned to it is simply not used. 
+Participant ID 
+All participants should be assigned a unique ID. The Android 
+STEPS app will automatically generate a unique participant ID 
+for each participant based on the Household ID plus a unique 
+number. If the app is not used and participant IDs are generated 
+manually, these need not be consecutive and can be grouped by 
+Cluster ID, where a sequence of participant IDs is associated 
+with each Cluster ID (e.g. Participant IDs 101-120 are assigned 
+to Cluster ID 1, Participant IDs 201-220 are assigned to Cluster 
+ID 2, etc.). 
+Note: In countries where no oversampling is done and IDs are 
+generated manually, Participant and Household IDs can be the 
+same. 
+QR code 
+In addition to the Participant ID, QR codes can be used to avoid 
+errors, and to ensure easy matching of data collected for Step 1 
+and 2 with data collected for Step 3. The QR codes must be 
+unique for each survey participant and are scanned using the 
+Android device. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 114 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-27 
+WHO STEPS Surveillance 
+Preparing Data Collection Forms, Continued 
+ 
+ 
+ 
+Assigning 
+Unique 
+Identifiers 
+(cont.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interview 
+Tracking Form 
+The following identifiers will also need to be assigned and made available to 
+the data collection team as needed: 
+ 
+Variable 
+Description 
+Technician ID 
+If Step 2 and/or Step 3 will be implemented by someone 
+other than the interviewer (e.g. specific Step 2 and/or 3 
+data collectors), these individuals should be assigned a 
+Technician ID. 
+Device ID 
+Any equipment used for Step 2 and 3 should be assigned 
+a unique Device ID. 
+ 
+ 
+All countries should use the Interview Tracking Form (see template in Part 6, 
+Section 2) regardless of their sample design. This information is used for 
+calculating the weights and response proportions for Step 1, Step 2, and Step  
+3. 
+ 
+Before data collection begins, Interview Tracking Forms should be completed 
+for each Cluster and each interviewer who will conduct interviews in that 
+Cluster. 
+ 
+Before data collection begins, the following should be completed on each 
+Interview Tracking Form: 
+ 
+• Cluster ID 
+• Interviewer ID 
+• Household IDs (if not using auto-generated IDs from STEPS app) 
+• Participant IDs (if not using auto-generated IDs from STEPS app). 
+ 
+Note: If household or individual selection is the first stage of sampling (i.e. 
+Cluster IDs are not used), then prepare the Interview Tracking Forms for each 
+interviewer without assigning Cluster IDs. 
+ 
+ 
+ 
+Step 3 
+Appointment 
+Card 
+The Step 3 Appointment Card (see template in Part 6, Section 2) that serves 
+for arranging appointments at the Step 3 location should be partly filled in 
+before the interviewers start data collection: 
+ 
+• Participant ID (if not using auto-generated IDs from STEPS app) 
+• Centre name 
+ 
+If the stickers with the QR codes for each participant are not put on the 
+containers for urine samples, these can alternatively be put on the Step 3 
+Appointment Card. 
+ 
+ 

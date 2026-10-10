@@ -1,0 +1,58 @@
+CONVERSION FACTORS OF CONVENTIONAL UNITS TO SI UNITS
+Conventional unit
+Conversion factor
+SI unit
+Albumin-to-creatinine ratio (ACR)
+mg/g
+0.113
+mg/mmol
+Calcium
+mg/dl
+0.2495
+mmol/l
+Creatinine
+mg/dl
+88.4
+mmol/l
+Protein-to-creatinine ratio (PCR)
+mg/g
+0.113
+mg/mmol
+Phosphate
+mg/dl
+0.3229
+mmol/l
+Urate
+mg/dl
+59.48
+mmol/l
+SI, International System of Units.
+Note: Conventional unit  conversion factor ¼ SI unit.
+EQUIVALENT ALBUMINURIA CATEGORIES IN CKD
+Category
+AER (mg/24 h)
+ACR (approximate equivalent)
+Terms
+(mg/mmol)
+(mg/g)
+A1
+<30
+<3
+<30
+Normal to mildly increased
+A2
+30–300
+3–30
+30–300
+Moderately increaseda
+A3
+>300
+>30
+>300
+Severely increased
+ACR, albumin-creatinine ratio; AER, albumin excretion rate; CKD, chronic kidney disease.
+aRelative to the young adult level.
+www.kidney-international.org
+conversion factors
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S127

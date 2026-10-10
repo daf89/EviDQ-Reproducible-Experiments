@@ -1,0 +1,99 @@
+thromboembolic events, with an annual rate of 2.9%
+compared with 0.2% in people without CKD.711
+Including GFR into atrial ﬁbrillation risk scores has not
+shown important incremental beneﬁt to its introduction (e.g.,
+adding 2 points for CrCl <60 ml/min to CHADS2—referred
+to as Renal Dysfunction, Congestive Heart Failure, Hyper-
+tension, Age, Diabetes, Stroke/Transient Ischemic Attack
+[R2CHADS2])—improved net reclassiﬁcation index but not
+the C-statistic.710 However, as decreased GFR is associated
+with age, diabetes, CVD, and so on, the incremental
+predictive advantage by adding a CKD parameter to the
+CHA2DS2-VASc
+score,
+which
+already
+includes
+these
+parameters, would be expected to have little effect. There is
+considerable scope to improve the predictive performance
+of thromboprophylaxis risk scores for use in CKD.713
+Recommendation 3.16.1: We recommend use of
+non–vitamin K antagonist oral anticoagulants
+(NOACs) in preference to vitamin K antagonists (e.g.,
+warfarin) for thromboprophylaxis in atrial ﬁbrilla-
+tion in people with CKD G1–G4 (1C).
+This recommendation puts high value on the use of NOACs, also
+referred to as direct-acting oral anticoagulants or DOACs, in
+people with CKD due to their simpler pharmacokinetic proﬁle,
+dosing, and monitoring than vitamin K antagonists and due to
+their improved efﬁcacy and relatively similar safety proﬁle.
+Although people with CKD G4–G5 have been understudied in
+RCTs, implementation in such groups can be achieved after
+considering choice of NOAC and dosing.
+Key information
+Balance of beneﬁts and harms. Beneﬁts. Data from 42,411
+participants who received NOACs and 29,272 participants
+who received warfarin in 4 phase III trials were meta-analyzed
+in 2014. Such trials largely excluded people with CKD G4–G5
+but did include large numbers of participants with earlier
+stages of CKD. Overall, NOACs signiﬁcantly reduced the risk
+of stroke or systemic embolic events by 19% compared with
+warfarin (RR: 0.81; 95% CI: 0.73–0.91). This beneﬁt was a
+result largely from reduced risk of hemorrhagic strokes (RR:
+0.49; 95% CI: 0.38–0.64). There were large amounts of data
+on stroke in those with a CrCl of <50 ml/min, and the
+relative beneﬁts were consistent and clearly evident in people
+with CKD. There were also consistent effects in subgroup
+analyses by age, sex, prior diabetes, prior stroke, and CHADS2
+score.714 A more recent meta-analysis published in 2021 only
+focused on subgroups with CKD and included data from 7
+trials of NOACs versus warfarin in atrial ﬁbrillation. It also
+reported a 19% reduced risk of stroke/thromboembolic
+complications in the NOAC group (HR: 0.81; 95% CI:
+0.69–0.97).715 Data in CKD G5 on dialysis were limited to
+observational studies.715 Our evidence review aimed to
+collect information on subtypes of outcome from subgroup
+analyses reporting results speciﬁcally in people with CKD.
+Evidence of efﬁcacy in the large trials is mainly for the
+outcomes of stroke and hemorrhagic stroke, but our review
+only found data from 3 trials for these outcomes resulting
+in
+imprecise
+estimates
+of
+effect.
+The
+ﬁndings
+were
+qualitatively consistent with the totality of the evidence
+(Figure 41, Supplementary Table S14716–721).
+ Step 1
+Diagnosis
+• In people with CKD, use opportunistic pulse-based screening (e.g., taking at when measuring BP), followed by a
+ wearable device or Holter ECG testing
+Step 2
+Prophylaxis against
+stroke and systemic
+thromboembolism
+ (they are likely to have an increased CHA2DS2-VASc risk factor for stroke and are at high risk even with a score of 0–1)
+ managed (e.g., alcohol advice, use of a proton pump inhibitor) 
+Step 3
+Rate/rhythm control
+†
+• Use medical therapy (e.g., beta blockade) to control ventricular rate to less than about 90 bpm at rest to decrease
+ symptoms and related complications
+• For people with persistent symptoms despite adequate rate control, consider rhythm control with cardioversion,
+ antiarrhythmic therapy and/or catheter ablation 
+Figure 40 | Strategies for the diagnosis and management of atrial ﬁbrillation. *Consider dose adjustments necessary in people with
+chronic kidney disease (CKD). †The following has been recommended as a standard package for diagnostic evaluation of new atrial ﬁbrillation:
+(i) a 12-lead electrocardiogram (ECG) to establish the diagnosis, assess ventricular rate, and check for the presence of conduction defects,
+ischemia, or structural heart disease; (ii) laboratory testing for thyroid and kidney function, serum electrolytes, and full blood count; and (iii)
+transthoracic echocardiography to assess left ventricular size and function, left atrial size, for valvular disease, and right heart size and function.
+BP, blood pressure; CHA2DS2-VASc, Congestive heart failure, Hypertension, Age $75 (doubled), Diabetes, Stroke (doubled), Vascular disease,
+Age 65 to 74, and Sex category (female); HAS-BLED, Hypertension, Abnormal liver/kidney function, Stroke history, Bleeding history or
+predisposition, Labile international normalized ratio (INR), Elderly, Drug/alcohol usage.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S241

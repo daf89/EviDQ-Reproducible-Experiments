@@ -1,0 +1,180 @@
+
+
+===== PDF PAGE 121 =====
+
+Continued on next page 
+3-1-4 
+WHO STEPS Surveillance 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+Creating the electronic STEPS Instrument, Continued 
+ 
+ 
+ 
+Survey 
+Worksheet 
+(cont.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Choices 
+worksheet 
+The image below shows a segment from an example choices worksheet. 
+ 
+Column 
+Description 
+name 
+Contains the question ID for each question (e.g. I1, I2) as well 
+as the short-hand names of any question groups. The question 
+IDs will serve as variable labels in the final dataset. Note that 
+question groups are not visible in the final dataset. 
+label 
+Contains the question text. The text entered here is what the 
+interviewer will see on the question screen on the Android 
+device. If multiple languages in the questionnaire are desired, 
+label columns that are named accordingly can be used, e.g. 
+label::English, label::Spanish, label::French. Also contains 
+the long names of any question groups. 
+constraint 
+Contains the limitations for the questions, such as minimum 
+or maximum values or error code values. 
+constraint_ 
+message 
+Contains the error message that will appear on the screen 
+when data is entered that does not comply with the constraint 
+logic. 
+hint 
+Contains any additional explanatory text to accompany the 
+question text. The text entered here will appear below the 
+question text and will be italicized. 
+required 
+Enter “yes” in this column if the question is required. Leave 
+blank if the question is not required. 
+required_ 
+message 
+For required questions: contains the error message that will 
+appear on the screen if the data collector tries to proceed to 
+the next question without entering any data. 
+relevant 
+Contains the skip logic indicating under what conditions the 
+question should be shown. For example, questions to be 
+asked only of females would have a relevant check of 
+${C1}=’2’ (i.e. sex is female). 
+appearance 
+Forces grouped questions to appear on the same screen. Enter 
+the text "field-list” on the row containing “Begin  group”  in 
+the type column to make all questions in the group appear on 
+the same screen. 
+
+
+===== PDF PAGE 122 =====
+
+Creating the electronic STEPS Instrument, Continued 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-5 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Choices 
+worksheet 
+(cont.) 
+As shown in the image, the worksheet contains a list of response options, 
+grouped together by question. These response options can be used as many 
+times as needed throughout the instrument. For example the Yes/No response 
+options can be used for all Yes/No questions throughout the instrument. A 
+description of each column is provided in the table below. 
+ 
+Column 
+Description 
+list name 
+Contains the name of the list of response options. 
+name 
+Contains the numeric value for each response option in the 
+list. 
+label 
+Contains the text that will appear for each response options 
+(numeric values in the name column do not appear on the 
+question screen). 
+If the country-specific instrument has multiple languages, be 
+sure to include a label column for each language, as shown in 
+the example image. 
+ 
+ 
+Question types 
+The table below describes the question types used in the standard STEPS 
+Instrument. This is not an exhaustive list of all possible question types in 
+XLSForms. Refer to the website xlsform.org for a complete list of all 
+question types. 
+ 
+Type 
+Description 
+integer 
+whole number (non-decimal) input 
+decimal 
+decimal input 
+text 
+text input 
+select_one [option name] 
+multiple choice (drop-down list) allowing 
+only one option can be picked; “[option 
+name]” must be replaced with the name of 
+the response option list from the choices 
+worksheet 
+note 
+text screen or image 
+date 
+date input (can be viewed as calendar) 
+time 
+time input 
+barcode 
+scan a barcode or QR code 
+ 
+ 
+Images 
+It is possible to insert country-specific show cards directly into the instrument 
+file so that they will appear on the screen of the device. 
+ 
+To insert an image into the country-specific instrument add a new line to the 
+XLSForm where the image should appear (e.g. insert the tobacco show card 
+at the beginning of the tobacco module). Complete the line as described in  
+the following table. 
+ 
+Continued on next page 

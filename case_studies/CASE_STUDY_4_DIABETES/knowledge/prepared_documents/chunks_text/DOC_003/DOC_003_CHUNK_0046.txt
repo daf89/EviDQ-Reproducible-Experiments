@@ -1,0 +1,102 @@
+
+
+===== PDF PAGE 91 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-6 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+ 
+Summary of 
+sample size 
+calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sample Size 
+Calculation 
+Example 1 
+The table below provides a summary of the above steps to calculate sample 
+size. 
+Step 
+Description 
+1 
+Determine the value of all variables needed to calculate sample 
+size. 
+2 
+Use the level of confidence, margin of error, and baseline level of 
+the indicators in the above equation to get an initial estimate for n 
+(sample size). 
+3 
+Multiply n by the design effect and by the number of age-sex 
+estimates. 
+4 
+Divide the result from step 3 by the anticipated response rate to 
+attain the final sample size. 
+ 
+ 
+In this example, the recommended values for all parameters of the sample 
+size equation will be used. Thus, the initial calculation proceeds as follows: 
+0.5 (1-0.5) 
+(4 age groups) 
+n = 1.962 * 
+0.052 
+= 384 
+This initial n is then multiplied by the design effect of 1.5 and, for example, 8 
+age-sex estimates desired for the survey results: 
+n = 384 * 1.5 * 8 = 4,608 
+Finally, n is divided by 0.80 to adjust for the anticipated 20% non-response 
+rate: 
+n = 4,608 ÷ 0.80 = 5,760 
+5,760 is the final sample size. 
+ 
+ 
+Sample Size 
+Calculation 
+Example 2 
+(3 age groups) 
+In this example, the recommended values for all parameters of the sample 
+size equation will be used and the initial calculation proceeds just as in the 
+previous example: 
+0.5 (1-0.5) 
+n = 1.962 * 
+0.052 
+= 384 
+However, in this example the estimates will only be reported for 2 age groups 
+for each sex as the sample size required for 4 age groups per sex is too large  
+for the resources available. Thus, the initial n is then multiplied by the design 
+effect of 1.5 and 3 age-sex estimates desired for the survey results: 
+n = 384 * 1.5 * 6 = 3,456 
+ 
+Finally, n is divided by 0.80 to adjust for the anticipated 20% non-response 
+rate: 
+n = 3,456 ÷ 0.80 = 4,320 
+ 
+4,320 is the final sample size. 
+ 
+
+
+===== PDF PAGE 92 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-7 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+Continued on next page 

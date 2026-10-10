@@ -1,0 +1,72 @@
+Chapter 5: Optimal models of care
+5.1 Referral to specialist kidney care services
+Practice Point 5.1.1: Refer adults with CKD to specialist kidney care services in the circumstances listed in Figure 48.
+Special considerations
+Pediatric considerations.
+Practice Point 5.1.2: Refer children and adolescents to specialist kidney care services in the following circumstances:
+ an ACR of 30 mg/g (3 mg/mmol) or a PCR of 200 mg/g (20 mg/mmol) or more, conﬁrmed on a
+repeat ﬁrst morning void sample, when well and not during menstruation,
+ persistent hematuria,
+ any sustained decrease in eGFR,
+ hypertension,
+ kidney outﬂow obstruction or anomalies of the kidney and urinary tract,
+ known or suspected CKD, or
+ recurrent urinary tract infection.
+5.2 Symptoms in CKD
+5.2.1 Prevalence and severity of symptoms
+[No recommendations and practice points]
+5.2.2 Identiﬁcation and assessment of symptoms
+Practice Point 5.2.2.1: Ask people with progressive CKD about uremic symptoms (e.g., reduced appetite, nausea, and level
+of fatigue/lethargy) at each consultation using a standardized validated assessment of uremic
+symptoms tool.
+Further evaluation and
+specialist management
+based on diagnosis
+Causes
+Circumstances category
+Circumstance examples
+Actions
+Diagnosis of CKD
+eGFR/risk of KRT
+Planning and preparation
+for kidney replacement
+therapy 
+Albuminuria
+and microscopic
+hematuria
+Further evaluation
+and management
+Others
+Management of CKD
+complications
+• Cause of CKD is uncertain
+• Hereditary kidney disease
+• Recurrent extensive nephrolithiasis
+• A >3%–5% 5-year risk of requiring KRT measured
+using a validated risk equation
+• eGFR <30 ml/min per 1.73 m2
+• A sustained fall in GFR of >20% or >30% in those
+people initiating hemodynamically active therapies
+• Consistent finding of significant albuminuria
+(ACR ≥300 mg/g [≥30 mg/mmol] or AER ≥300 mg/24 hours, 
+approximately equivalent to PCR ≥500 mg/g [≥50 mg/mmol] 
+or PER ≥500 mg/24 h) in combination with hematuria
+• ≥2-fold increase in albuminuria in people with significant 
+albuminuria undergoing monitoring
+• A consistent finding of ACR >700 mg/g [>70 mg/mmol]
+• Urinary red cell casts, RBC >20 per high power field 
+sustained and not readily explained
+• CKD and hypertension refractory to treatment
+≥4 antihypertensive agents
+• Persistent abnormalities of serum potassium
+• Acidosis
+• Anemia
+• Bone disease
+• Malnutrition
+Figure 48 | Circumstances for referral to specialist kidney care services and goals of the referral. ACR, albumin-to-creatinine ratio; AER,
+albumin excretion rate; CKD, chronic kidney disease; eGFR, estimated glomerular ﬁltration rate; KRT, kidney replacement therapy; PCR, protein-
+creatinine ratio; PER, protein excretion rate; RBC, red blood cells.
+summary of recommendation statements and practice points
+www.kidney-international.org
+S166
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,8 @@
+Feature,Observed values,Missing values,Missing rate (%),Missingness observed
+CO,294333,14931,4.828,Yes
+PM2.5,307344,1920,0.621,Yes
+PM10,307793,1471,0.476,Yes
+DEWP,309082,182,0.059,Yes
+WSPM,309089,175,0.057,Yes
+month,309264,0,0.0,No
+hour,309264,0,0.0,No

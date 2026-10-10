@@ -1,0 +1,53 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+103
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-02 Les équipes maîtrisent la mise 
+en application des vigilances sanitaires
+Les événements indésirables liés à l’administration ou à la consommation d’un produit, à un dysfonctionne- 
+ment d’un dispositif médical, ou à une erreur d’identification du patient sont encore nombreux. Leur survenue 
+appelle une série d’actions d’information (signalement) et de mesures, mises en œuvre par l’établissement, 
+visant à traiter la situation immédiate, à prévenir de nouveaux épisodes du même type ou à en diminuer 
+les conséquences (gestion des risques). Ce dispositif de veille sanitaire a pour objectif la détection, dans 
+les plus brefs délais, de tout événement de santé inhabituel et la réponse aux alertes sanitaires. Les 
+vigilances concernées dans ce référentiel sont tout particulièrement la pharmacovigilance (médicament), 
+l’hémovigilance (produits sanguins labiles), la matériovigilance (dispositifs médicaux), l’infectiovigilance 
+(infections nosocomiales). Elles s’articulent avec le réseau régional d’évaluation, de vigilance et d’appui 
+(RREVA). Les vigilances sanitaires s’appuient sur la participation des professionnels de santé concernés, via 
+leurs déclarations, et sur l’implication active de ceux d’entre eux désignés pour exercer des responsabilités 
+particulières au sein des réseaux de vigilance : correspondants de terrain et correspondants vigilants. Les 
+alertes déclaratives ont fait l’objet d’un retour au déclarant et les actions sont évaluées.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• Le plan d’action de toutes les alertes de vigilances 
+ascendantes et descendantes et de tous les signalements, 
+est piloté : 
+– les responsabilités sont identifiées ;
+– les modalités de réception sont définies ;
+– les modalités de transmission sont définies ;
+– il existe une permanence du dispositif 24 heures 
+sur 24.
+ Gouvernance 
+• La coordination avec les structures régionales et natio
+nales de vigilance est effective.
+Audit système
+Fiches pédagogiques
+Évaluation de la gestion des risques et des 
+vigilances. 
+Évaluation de l'activité Greffe par 
+prélèvement d'organes et de tissus sur 
+donneur décédé.
+Références HAS
+Mettre en œuvre la gestion des risques
+associés aux soins en établissement
+de santé. Des concepts à la pratique, 2012.
+Références légales 
+et réglementaires
+• Art. L. 6111-2 du CSP.
+• Décret n°2021-125 du 5 février 2021 sur 
+les vigilances relatives aux produits de 
+santé.

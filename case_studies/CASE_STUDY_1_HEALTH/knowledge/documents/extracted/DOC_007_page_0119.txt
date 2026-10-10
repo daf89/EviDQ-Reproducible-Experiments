@@ -1,0 +1,167 @@
+consideration in people with CKD.659,660 For example, exercise
+electrocardiography may be limited through inability to
+exercise to a diagnostic workload, or presence of microvascular
+disease. Perceived risks of contrast agents may limit the use of
+diagnostic imaging, thus impacting treatment choices; the risks
+of contrast agents may limit the use of imaging. In addition, a
+strain pattern may mask diagnostic ST depression, and acute
+coronary syndrome is less likely to present with classical
+ischemic symptoms and electrocardiographic changes than in
+the general population, instead often manifesting as heart
+failure symptoms or syncope.659,660 In people with GFR <60
+ml/min per 1.73 m2 (GFR categories G3a–G5), KDIGO has
+previously
+recommended
+that
+serum
+concentrations
+of
+troponin be interpreted with caution with respect to diagnosis
+of acute coronary syndrome.1 More sensitive troponin assays
+maintain high diagnostic accuracy in people with CKD, but
+higher
+assay-speciﬁc
+optimal
+cutoff
+levels
+may
+be
+considered.661 Regardless of assay, careful attention to trends in
+troponin concentration over time is required through serial
+measurement.662
+Management. In people with CKD, the same principles
+should be used to manage atherosclerotic risk as in people
+without CKD. The level of care for CVD offered to people
+with CKD should not be prejudiced by their GFR. Data
+suggest the underuse of proven effective treatment in
+people
+with
+CKD
+presenting
+with
+acute
+coronary
+syndrome.663
+Prevention of ASCVD should consider pharmaceutical,
+dietary, and lifestyle intervention, which target traditional
+cardiovascular risk factors (e.g., BP and dyslipidemias), as
+well as CKD-MBD, which accelerates vascular calciﬁcation
+resulting in both vascular intima (resulting in increased
+amounts of calcium in atherosclerotic plaques664) and
+vascular media calciﬁcation (leading to increased vascular
+stiffness).604
+3.15.1 Lipid management
+Dyslipidemia in CKD is frequently characterized by high tri-
+glycerides, low HDL cholesterol, and an increased proportion
+of low-density lipoprotein (LDL) particles, which are small and
+oxidized.665 In adults with newly identiﬁed CKD, it has been
+recommended to evaluate their lipid proﬁle (total cholesterol,
+LDL cholesterol, HDL cholesterol, and triglycerides), but
+follow-up lipid measurements are not required for the
+majority
+of
+people
+(i.e.,
+a
+ﬁre-and-forget
+policy
+is
+recommended).19 This is because treatment initiation is
+based on risk, and the beneﬁts of statin-based therapy have
+been shown to be independent of the level of cholesterol. For
+those with a total cholesterol >7.5 mmol/l (290 mg/dl) and
+a personal or family history of premature ischemic heart
+disease (e.g., an event before the age of 60 years in an
+individual or ﬁrst-degree relative), it is important to consider
+familial disease and specialist referral.666
+The beneﬁts of lowering LDL cholesterol using statin-
+based therapies on the risk of ASCVD are well established in
+people
+with
+and
+without
+CKD.
+There
+are
+clear
+recommendations on when to initiate such therapies set out
+in
+the
+KDIGO
+Clinical
+Practice
+Guideline
+for
+Lipid
+Management
+in
+Chronic
+Kidney
+Disease.19
+The
+Work
+Group concurs with all the recommendations in this
+guideline. In particular, we draw attention to:
+Recommendation 3.15.1.1: In adults aged ‡50 years
+with eGFR <60 ml/min per 1.73 m2 but not treated
+with chronic dialysis or kidney transplantation (GFR
+categories G3a–G5), we recommend treatment with
+a statin or statin/ezetimibe combination (1A).
+Recommendation 3.15.1.2: In adults aged ‡50 years
+with CKD and eGFR ‡60 ml/min per 1.73 m2 (GFR
+categories G1–G2), we recommend treatment with a
+statin (1B).
+Recommendation 3.15.1.3: In adults aged 18–49 years
+with CKD but not treated with chronic dialysis or kid-
+ney transplantation, we suggest statin treatment in
+people with one or more of the following (2A):
+ known coronary disease (myocardial infarction or
+coronary revascularization),
+ diabetes mellitus,
+ prior ischemic stroke, or
+ estimated 10-year incidence of coronary death or
+nonfatal myocardial infarction >10%.
+The Work Group offers the following practice points to
+support implementation of the recommendations above.
+Practice Point 3.15.1.1 Estimate 10-year cardiovascular risk
+using a validated risk tool.
+Details of the Work Group recommendations on how to
+estimate risk are provided in Chapter 2, Section 2.3. Currently,
+the CKD patch for the Systematic Coronary Risk Evaluation
+(SCORE)
+tool
+and
+the
+American
+Heart
+Association
+PREVENT,pending equations are the only ones validated.
+Practice Point 3.15.1.2: In people with CKD, choose statin-
+based regimens to maximize the absolute reduction in low-
+density lipoprotein (LDL) cholesterol to achieve the largest
+treatment beneﬁts.
+Since 2013, published literature has continued to demon-
+strate the general safety of statin-based therapies.667 This
+includes individual participant-level data meta-analysis by the
+Cholesterol Treatment Trialists’ collaboration, showing that
+statin therapy causes only a small excess of mild muscle pain,
+and most (>90%) of all reports of muscle symptoms among
+users are not due to their statins.668 In CKD, the Study of
+Heart and Renal Protection (SHARP) demonstrated that an
+intensive statin-based regimen was safe and not associated
+with any serious nonvascular hazard.669,670 A Cholesterol
+Treatment Trialists’ collaboration meta-analysis combining
+SHARP with the other large trials took into account the
+smaller reductions in LDL cholesterol achieved with statin-
+based
+therapy
+in
+people
+with
+CKD
+G3–G5.
+After
+chapter 3
+www.kidney-international.org
+S234
+Kidney International (2024) 105 (Suppl 4S), S117–S314

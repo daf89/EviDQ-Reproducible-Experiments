@@ -1,0 +1,56 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+296
+Libellé
+Définition
+Soins palliatifs
+Soins actifs délivrés par une équipe multidisciplinaire dans une approche globale de la personne atteinte 
+d’une maladie grave, évolutive ou terminale. Ils ont pour but de préserver la meilleure qualité de vie possible 
+jusqu’à la mort et doivent notamment permettre de soulager les douleurs physiques et les autres symptômes, 
+mais aussi de prendre en compte la souffrance psychologique, sociale et spirituelle, sauvegarder la dignité 
+de la personne malade et soutenir son entourage. Les soins palliatifs et l’accompagnement sont 
+interdisciplinaires. Ils s’adressent au malade en tant que personne, à sa famille et à ses proches, à domicile 
+ou en institution.
+Système d’information
+Employé dès que l’information fait l’objet d’une organisation spécifique : saisie, traitement, diffusion, stockage. 
+Le système d’information peut être défini comme l’ensemble des informations, de leurs règles de circulation, 
+de mémorisation et de traitement, nécessaires à l’accomplissement des missions de l’établissement en 
+relation avec ses activités métier et son environnement. Ces informations sont échangées entre des acteurs. 
+Ces échanges nécessitent une collaboration et une coordination étroite entre l’ensemble des partenaires.
+Tableau de bord
+Rassemble une sélection d’indicateurs clés renseignant périodiquement, sur plusieurs dimensions, une 
+politique ou un programme. Son objectif est de pouvoir suivre le déploiement ou l’état d’avancement de cette 
+politique ou de ce programme et d’évaluer la pertinence de cette politique ou de l’efficacité de ce programme. 
+Outils de pilotage, les tableaux de bord ont pour objet de regrouper et synthétiser les indicateurs pour 
+les présenter de façon exploitable par l’encadrement et faciliter la prise de décision.
+Tension hospitalière
+Résulte d’une inadéquation entre le flux entrant de patients et les capacités immédiates de prise en charge 
+de l’établissement. Elle peut être générée par un problème structurel et/ou conjoncturel.
+Traçabilité
+Possibilité de retrouver, dans un système, une liste d’informations déterminées attachées à un ou plusieurs 
+éléments du système pour expliquer ses défaillances.
+Traceur ciblé
+Méthode d’évaluation consistant à investiguer sur le terrain la mise en œuvre réelle d’un processus et à 
+s’assurer de sa maitrise et de sa capacité à atteindre les objectifs. Elle se différencie de l’audit système du fait 
+qu’elle est conduite en partant du terrain pour remonter éventuellement, en cas de dysfonctionnements 
+récurrents, vers l’organisation du processus. Pour ce faire, l’évaluateur rencontre les équipes impliquées, 
+consulte les documents nécessaires et réalise les observations associées.
+Télésanté-télémédecine 
+Forme de pratique médicale à distance fondée sur l’utilisation des technologies de l’information et 
+de la communication. Elle a pour objectif d’améliorer l’accessibilité à l’offre de soins (notamment dans 
+les territoires fragiles) et la qualité de vie des patients en permettant une prise en charge et un suivi sur 
+leur lieu de vie. Cinq catégories d’actes font partie de la télémédecine : la téléconsultation, la téléexpertise, 
+la télésurveillance, la téléassistance et la régulation médicale.
+Vigilances sanitaires 
+réglementaires
+Concernent l’utilisation des produits de santé (pharmaco-, addicto-, hémo-, matério, bio-, cosméto-, 
+réactovigilances), l’assistance médicale à la procréation, le signalement externe obligatoire des événements 
+indésirables graves liés aux soins dont les infections associées aux soins et les événements significatifs 
+en radioprotection.
+Les vigilances sont organisées autour de processus continus de recueil, d’analyse et de diffusion 
+standardisées de données portant sur des événements sanitaires, indésirables. Elles ont une finalité d’alerte, 
+de gestion et de prévention des risques.
+Urgences vitales
+Situation où la vie du patient est en danger et où il risque de décéder faute de soins rapides et adaptés. 
+Le terme peut correspondre à celui d’urgence absolue en triage médical. 
+Toute pathologie mettant en jeu le pronostic vital immédiatement rentre dans ce cadre.

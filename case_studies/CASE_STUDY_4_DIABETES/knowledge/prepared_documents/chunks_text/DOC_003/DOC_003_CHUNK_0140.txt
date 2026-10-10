@@ -1,0 +1,270 @@
+
+
+===== PDF PAGE 279 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-15 
+ 
+ 
+ 
+ 
+ 
+CORE: Blood Pressure 
+Interviewer ID 
+Record interviewer ID (in most cases interviewer would be the same 
+as for behavioural measurements). 
+└─┴─┴─┘ 
+M1 
+Device ID for blood pressure 
+Record device ID. 
+└─┴─┘ 
+M2 
+Cuff size used 
+Select cuff size used. 
+Small 
+Medium 
+Large 
+1 
+2 
+3 
+M3 
+Reading 1 
+Record first measurement after the participant has rested for 15 
+minutes. Wait 3 minutes before taking second measurement. 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M4a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M4b 
+Reading 2 
+Record second measurement. Ask the participant to rest for 
+another 3 minutes before taking the third measurement. 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M5a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M5b 
+Reading 3 
+Record third measurement. 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M6a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M6b 
+During the past two weeks, have you been treated for raised blood 
+pressure with drugs (medication) prescribed by a doctor or other 
+health worker? 
+Select appropriate response. 
+Yes 
+No 
+1 
+2 
+M7 
+CORE: Height and Weight 
+Question 
+Response 
+Code 
+For women: Are you pregnant? 
+Pregnant women skip over height, weight, waist and hip 
+measurements. 
+Yes 
+No 
+1 If Yes, go to M16 
+2 
+M8 
+Interviewer ID 
+Record interviewer ID (in most cases interviewer would be the same 
+as for behavioural and blood pressure measurements). 
+└─┴─┴─┘ 
+M9 
+Device IDs for height and weight 
+Record device IDs. 
+Height 
+Weight 
+└─┴─┘ 
+└─┴─┘ 
+M10a 
+M10b 
+Height 
+Record participant's height in cm with one decimal point. 
+in Centimetres (cm) 
+└─┴─┴─┘. └─┘ 
+M11 
+Weight 
+If too large for scale 666.6 
+Record participant's weight in kg with one decimal point. 
+in Kilograms (kg) 
+└─┴─┴─┘.└─┘ 
+M12 
+CORE: Waist 
+Device ID for waist 
+Record device ID. 
+└─┴─┘ 
+M13 
+Waist circumference 
+Record participant's waist circumference in centimetres with one 
+decimal point. 
+in Centimetres (cm) 
+└─┴─┴─┘.└─┘ 
+M14 
+ 
+EXPANDED: Hip Circumference and Heart Rate 
+Hip circumference 
+Record participant's hip circumference in centimetres with one 
+decimal point. 
+in Centimeters (cm) 
+└─┴─┴─┘.└─┘ 
+M15 
+Heart Rate 
+Record the three heart rate readings. 
+M16a 
+Reading 1 
+Beats per minute 
+└─┴─┴─┘ 
+Reading 2 
+Beats per minute 
+└─┴─┴─┘ 
+M16b 
+Reading 3 
+Beats per minute 
+└─┴─┴─┘ 
+M16c 
+Step 2 
+Physical Measurements 
+
+
+===== PDF PAGE 280 =====
+
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-16 
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+Step 3 
+Biochemical Measurements 
+ 
+ 
+ 
+CORE: Blood Glucose 
+Question 
+Response 
+Code 
+During the past 12 hours have you had anything to eat or drink, 
+Yes 
+No 
+1 
+2 
+B1 
+other than water? 
+It is essential that the participant has fasted. 
+Technician ID 
+Record ID of the person taking the measurement. 
+└─┴─┴─┘ 
+B2 
+Device ID 
+Record device ID. 
+└─┴─┘ 
+B3 
+Time of day blood specimen taken (24 hour clock) 
+Enter time measurement started. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+B4 
+Fasting blood glucose 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+Double check that the participant has fasted. 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B5 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+Today, have you taken insulin or other drugs (medication) that 
+Yes 
+No 
+1 
+2 
+have been prescribed by a doctor or other health worker for 
+raised blood glucose? 
+B6 
+Select appropriate response. 
+CORE: Blood Lipids 
+Device ID 
+Record device ID. 
+└─┴─┘ 
+B7 
+Total cholesterol 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+Record value for total cholesterol. 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B8 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+During the past two weeks, have you been treated for raised 
+Yes 
+No 
+1 
+2 
+cholesterol with drugs (medication) prescribed by a doctor or 
+other health worker? 
+B9 
+Select appropriate response. 
+CORE: Urinary sodium and creatinine 
+Had you been fasting prior to the urine collection? 
+Yes 
+1 
+B10 
+It is essential that the participant did not fast prior to urine 
+collection. 
+No 
+2 
+Technician ID 
+Record technician ID. 
+└─┴─┴─┘ 
+B11 
+Device ID 
+Record device ID. 
+└─┴─┘ 
+B12 
+Time of day urine sample taken (24 hour clock) 
+Record time of day urine sample taken as reported by the 
+participant. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+B13 
+Urinary sodium 
+Record value for urinary sodium. 
+mmol/l 
+└─┴─┴─┘.└─┘ 
+B14 
+Urinary creatinine 
+Record value for urinary creatinine. 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B15 
+ 
+EXPANDED: Triglycerides and HDL Cholesterol 
+Triglycerides 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+Record value for triglycerides. 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B16 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+HDL Cholesterol 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+Record value for HDL cholesterol. 
+mmol/l 
+└─┘. └─┴─┘ 
+B17 
+mg/dl 
+└─┴─┴─┘.└─┘ 

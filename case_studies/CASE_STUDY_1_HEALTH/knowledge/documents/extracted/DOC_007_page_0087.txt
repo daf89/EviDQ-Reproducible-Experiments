@@ -1,0 +1,132 @@
+referral wait times, particularly for high-risk individuals. In
+other
+clinical
+settings
+with
+relatively
+scarce
+access
+to
+nephrology care, these thresholds should be adjusted to
+ensure that wait times are acceptable for local standards.421
+Discussion of risk should also consider the individual
+person, their comorbidities, and their risk of death from
+other causes.
+Practice Point 2.2.2: A 2-year kidney failure risk of >10%
+can be used to determine the timing of multidisciplinary
+care in addition to eGFR-based criteria and other clinical
+considerations.
+People with CKD G4–G5 are more likely to develop con-
+current complications of CKD including anemia, hyper-
+kalemia, bone mineral disorders, and/or metabolic acidosis
+and protein-energy wasting. In addition, they remain at high
+risk for adverse events including AKI, emergency department
+visits, and hospitalizations. As such, in many countries and
+healthcare settings, these people may be enrolled in inter-
+disciplinary care clinics or receive care management resources
+to reduce morbidity and healthcare costs, and to avoid un-
+planned dialysis initiation.
+A risk threshold risk of >10% over 2 years has been
+studied and implemented in some jurisdictions in Canada as
+the key eligibility criteria for access to interdisciplinary care
+that includes a nurse, pharmacist, renal dietitian or accredited
+nutrition provider, and other allied health support. This
+practice point is based on results from these studies, which
+demonstrate acceptance and preference of a risk-based
+criteria
+by
+patients
+and
+providers.422
+Given the
+costs
+associated with delivery of care management resources and
+interdisciplinary models, risk-based thresholds offer a useful
+guide to the selection of the ideal target patient population
+to derive most beneﬁt from the highly specialized team. It
+is important to note that people with CKD at earlier stages
+or those at lower risk of progression may beneﬁt from an
+individual
+allied
+health
+resource
+(e.g.,
+pharmacist
+or
+dietitian); however, risk-based thresholds provide a guide to
+identify people with CKD who beneﬁt most from an entire
+multidisciplinary team.
+Practice Point 2.2.3: A 2-year kidney failure risk threshold
+of >40% can be used to determine the modality education,
+timing of preparation for kidney replacement therapy
+(KRT) including vascular access planning or referral for
+transplantation, in addition to eGFR-based criteria and
+other clinical considerations.
+The appropriate timing for modality education, timing of
+vascular access planning, or referral for transplantation in a
+person with low or declining GFR can be difﬁcult to predict.
+Vascular access planning in all adults with CKD G4 would
+lead to the unnecessary placement of ﬁstulae, whereas waiting
+until eGFR falls below 15 ml/min per 1.73 m2 may lead to
+inappropriate overuse of central venous catheters at dialysis
+initiation. Studies have described the potential utility of risk-
+based thresholds in planning for dialysis access speciﬁcally
+and found acceptable speciﬁcity and positive predictive values
+for the risk-based threshold criteria as compared with eGFR
+alone. The Work Group noted that the KDOQI vascular ac-
+cess guideline (2019) currently recommend a risk-based
+threshold >50% or eGFR <15 ml/min per 1.73 m2 for
+initiation of vascular access planning, while acknowledging
+that access to surgeons and primary failure to maturation
+rates may vary by patient and by center.423
+Based on current evidence, a threshold of >40% risk or an
+eGFR of 15 ml/min per 1.73 m2 is acceptable to use for
+initiating vascular access referral. Lower risk thresholds, such
+as >20%, can optimize sensitivity, can be used to initiate
+modality education, and may be appropriate for presurgical
+vascular access planning or referral for transplantation in
+centers with longer wait times.
+Practice Point 2.2.4: Note that risk prediction equations
+developed for use in people with CKD G3–G5, may not be
+valid for use in those with CKD G1–G2.
+The Work Group recognizes that the progression of CKD
+can occur at all severities, and that in earlier stages of disease
+(G1–G3), large declines in eGFR can occur in 2- to 5-year
+time frames without reaching kidney failure (Figure 16424).
+Risk prediction models developed in populations with later
+stages of CKD are not accurate in CKD G1–G2, whereas
+alternative, accurate, externally validated risk prediction
+equations have been developed for predicting 40% decline in
+eGFR or kidney failure at all stages of CKD. For this
+Patient profile:
+50-year-old male with diabetes, eGFR 80 ml/min per 1.73 m2, urine ACR 1 g/g 
+Kidney failure risk: 0.07% over 2 years, 0.23% over 5 years
+CKD progression risk: 10.4% over 3 years
+0
+2
+4
+6
+8
+10
+12
+Risk (%)
+2 years
+3 years
+Kidney failure*
+0.07%
+CKD progression*
+10.4%
+Figure 16 | Comparison of risk of chronic kidney disease (CKD)
+progression (5-year probability of estimated glomerular ﬁltration
+rate [eGFR] <60 ml/min per 1.73 m2) versus kidney failure in
+adults with CKD G1–G2 calculated from the risk equation
+available at https://www.ckdpc.org/risk-models.html. *Kidney
+failure risk calculated from Kidney Failure Risk Equation (KFRE). ACR,
+albumin-to-creatinine ratio. CKD progression risk from Grams ME,
+Brunskill NJ, Ballew SH, et al. Development and validation of
+prediction models of adverse kidney outcomes in the population with
+and without diabetes. Diabetes Care. 2022;45:2055–2063.424
+chapter 2
+www.kidney-international.org
+S202
+Kidney International (2024) 105 (Suppl 4S), S117–S314

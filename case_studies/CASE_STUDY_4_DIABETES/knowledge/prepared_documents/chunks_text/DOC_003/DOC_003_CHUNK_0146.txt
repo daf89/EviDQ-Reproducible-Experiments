@@ -1,0 +1,160 @@
+
+
+===== PDF PAGE 291 =====
+
+Part 5: The STEPS Instrument 
+ 
+5-4-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+Section 4: Optional Modules 
+Overview 
+ 
+ 
+Introduction 
+There are optional modules available that cover specific topics that can be 
+assessed in STEPS surveys. These modules can be used if a country wishes 
+to go beyond the core and expanded STEPS Instrument, and to describe 
+population level indicators for these specific topics. 
+ 
+Data Books, a full tabulation of all the results from the questions specific to 
+these modules, are available on the STEPS website: Noncommunicable 
+Disease Surveillance, Monitoring and Reporting (who.int) 
+ 
+Optional 
+Modules 
+ 
+ 
+ 
+ 
+This section contains the following optional module
+Topic 
+See Page 
+Optional Module: Cervical Cancer 
+5-4A-1 
+Optional Module: Mental Health / Suicide 
+5-4B-1 
+Optional Module: Oral Health 
+5-4C-1 
+Optional Module: Tobacco Policy 
+5-4D-1 
+Optional Module: Violence and Injury 
+5-4E-1 
+Optional Module: Objective Measurement of Physical 
+Activity 
+5-4F-1 
+Optional Module: Household Energy Use 
+5-4G-1 
+Optional Module: Sensory Function 
+5-4H-1 
+Optional Module: Disability  
+5-4I-1 
+Optional Module: Mental Health-Depression 
+5-4J-1 
+Optional Module: Chronic Respiratory Diseases 
+5-4K-1 
+
+
+===== PDF PAGE 292 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4A-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+ 
+CORE and EXPANDED: Cervical cancer (expanded questions are shaded) 
+The next questions ask about cervical cancer prevention. Screening tests for cervical cancer prevention can be done in different ways, 
+including Visual Inspection with Acetic Acid/vinegar (VIA), pap smear and Human Papillomavirus (HPV) test. VIA is an inspection of the 
+surface of the uterine cervix after acetic acid (or vinegar) has been applied to it. For both pap smear and HPV test, a doctor or nurse uses 
+a swab to wipe from inside your vagina, take a sample and send it to a laboratory. It is even possible that you were given the swab 
+yourself and asked to swab the inside of your vagina. The laboratory checks for abnormal cell changes if a pap smear is done, and for the 
+HP virus if an HPV test is done. 
+Question 
+Response 
+Code 
+The next questions CX2 – CX10 are administered only to those that ever had a screening test for cervical cancer (CX1=1). If CX1=2, go to 
+CX11. 
+At what age were you first tested for cervical cancer? 
+Age 
+└─┴─┘ 
+Don't know 
+77 
+Refused 
+88 
+CX2 
+When was your last (most recent) test for cervical 
+cancer? 
+Less than 1 year ago 
+1 
+1-2 years ago 
+2 
+3-5 years ago 
+3 
+More than 5 years ago 
+4 
+Don't know 
+77 
+Refused 
+88 
+CX3 
+What is the main reason you had your last test for 
+cervical cancer? 
+Part of a routine exam 
+1 
+Following up on abnormal or 
+2 
+inconclusive result 
+Recommended by healthcare 
+3 
+provider 
+Recommended by other source 
+4 
+Experiencing pain or other 
+5 
+symptoms 
+Other 
+6 
+Don't know 
+77 
+Refused 
+88 
+CX4 
+Where did you receive your last test for cervical cancer? 
+[INSERT COUNTRY-SPECIFIC CATEGORIES] 
+Doctor’s office 
+1 
+Mobile clinic    2 
+Community clinic    3 
+Hospital    4 
+Other 
+5 
+Don't know 
+77 
+Refused 
+88 
+CX5 
+What was the result of your last (most recent) test for 
+cervical cancer? 
+Did not receive result 1 If CC6=1, go to next section 
+Normal / Negative 2 If CC6=2, go to next section 
+Abnormal /Positive 3 
+Suspect cancer 
+4 
+Inconclusive 
+5 
+Don’t know 
+77 
+Refused 
+88 
+CX6 
+Cervical Cancer 

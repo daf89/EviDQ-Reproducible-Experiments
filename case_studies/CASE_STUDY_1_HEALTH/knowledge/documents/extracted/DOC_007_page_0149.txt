@@ -1,0 +1,135 @@
+Telehealth
+has
+been
+used
+increasingly
+in
+medicine,
+including nephrology, during the COVID-19 pandemic.
+Telehealth has the potential to augment patient care in CKD
+in many aspects such as improving access to CKD care in
+outreach patients, increasing patient monitoring ability,
+helping with healthcare provider shortage, and improving
+patient
+satisfaction.
+Telehealth
+in
+nephrology
+(“Tele-
+nephrology”) can be categorized into 3 main areas: (i) remote
+monitoring, (ii) providing education, and (iii) delivery of
+care. These have been implemented in 4 main platforms
+including
+internet
+web-based,
+smartphone
+applications,
+interactive video conferencing, and wearable technology.
+Remote monitoring technology has been designed to
+promote self-care management through oversight of clinical
+parameters so people with CKD can monitor changes at
+home, such as BP, body weight, or abnormal symptoms.884,885
+This may encourage people with CKD to participate in the
+management of CKD.
+Telehealth technologies that enhance education in people
+with CKD have been reported in various forms. Web-based
+applications are probably the most popular platform used to
+provide education for people with CKD and their families.886
+Systematic reviews suggest that web-based CKD materials are
+mostly adequate but not written at a suitable literacy level for
+most people with CKD.887,888
+Smart phone applications have been increasingly adopted
+for patient education in CKD. Educational material can be
+installed into smartphone applications as a tool for on-de-
+mand knowledge. Moreover, smartphones applications that
+provide self-care management support for people with CKD
+were reported in a pilot study.889 The application targeted 4
+key
+self-care
+management
+parameters:
+monitoring
+BP,
+medication
+management,
+symptom
+assessment,
+and
+tracking
+laboratory
+results.
+Lastly,
+interactive
+video
+conferencing can provide patient education simultaneously
+with a virtual visit.890,891 This strategy should not be
+intended to replace the clinic visit but would be helpful for
+dealing with any event that happens between follow-up
+face-to-face visits, such as follow-up of clinical symptoms
+after
+starting
+or
+adjusting
+medication.
+Examples
+of
+telehealth technologies that were studied in people with
+CKD are shown in Figure 54.
+Standardized and culturally appropriate protocols should
+be considered. Although it is recognized that resources may
+vary across and within jurisdictions, the recommendations
+here are based on principles of care, which should be relevant
+across the globe.
+CKD is a complex condition that coexists with many other
+conditions. Therefore, models of care should be developed
+that integrate the complexity of the clinical conditions
+involved, patient-centered philosophies, and the healthcare
+environment. The principles of care are universal, but
+implementation may be customized to speciﬁc circumstances.
+Special considerations
+Pediatric considerations.
+5.3.1 Transition from pediatric to adult care
+5.3.1.1 Pediatric providers
+Practice Point 5.3.1.1.1: Prepare adolescents and their
+families for transfer to adult-oriented care starting at 11–14
+years of age by using checklists to assess readiness and
+guide preparation, and by conducting part of each visit
+without the parent/guardian present (Figure 55).
+Practice Point 5.3.1.1.2: Provide a comprehensive written
+transfer summary, and ideally an oral handover, to the
+receiving healthcare providers including all relevant med-
+ical information as well as information about the young
+person’s cognitive abilities and social support (Figure 55).
+Practice Point 5.3.1.1.3: Transfer young people to adult care
+during times of medical and social stability where possible.
+Although several organizations have made recommendations
+about transition from pediatric to adult care, there have been no
+randomized trials to test the effectiveness of speciﬁc ap-
+proaches.892–894 Nevertheless, there is general agreement that
+preparation for transfer to adult care should start as early as 11
+yearsofageandcertainlyby14yearswhenpossible.895Anumber
+of tools are available to guide preparation. Checklists to assess
+CKD care aspects
+Domains
+Platforms
+Remote monitoring
+Education strategies
+Delivery of care
+Asynchronous
+Synchronous
+Asynchronous
+Synchronous
+Asynchronous
+Synchronous
+Wearable technology
+Web-based with interactive application 
+Web-based and smartphone applications 
+Interactive video conferencing 
+Smartphone applications 
+Interactive video conferencing 
+Telehealth
+Figure 54 | Telehealth technologies for people with chronic kidney disease (CKD).
+chapter 5
+www.kidney-international.org
+S264
+Kidney International (2024) 105 (Suppl 4S), S117–S314

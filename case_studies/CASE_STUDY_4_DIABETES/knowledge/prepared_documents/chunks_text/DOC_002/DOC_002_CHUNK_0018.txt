@@ -1,0 +1,103 @@
+
+
+===== PDF PAGE 35 =====
+
+Indicators and metadata  ﻿
+23
+6. 	 Inclusion of insulin, insulin delivery devices and blood glucose self-
+monitoring in national health benefit package
+Indicator name
+Inclusion of insulin, insulin delivery devices and blood glucose self-
+monitoring in national health benefit package 
+Purpose
+To assess integration of insulin, insulin delivery devices and blood glucose self-
+monitoring into national health benefit packages.
+Definition
+Country has a national health benefit package that includes insulin, insulin 
+delivery devices and blood glucose self-monitoring.
+Health benefit packages define the high priority services in a country that should 
+be made available to all citizens from public funds.
+Numerator
+Not applicable
+Denominator
+Not applicable
+Method of estimation
+Country can respond “Yes” to the question “Does the country have a national 
+health benefit package that includes insulin, insulin delivery devices and blood 
+glucose self-monitoring?” and needs to provide a copy of the national health 
+benefit package.
+Inclusion of insulin and insulin delivery devices in the national health benefit 
+package is validated by examining the national health benefit package document 
+for insulin, insulin delivery devices and blood glucose self-monitoring coverage.
+The indicator is considered “Yes” if the country has a national health benefit 
+package that includes insulin, insulin delivery devices and blood glucose 
+self-monitoring.
+The indicator is considered “Partially yes” if the country has a national health 
+benefit package that includes either insulin or insulin delivery devices or blood 
+glucose self-monitoring but not all.
+The indicator is considered “No” if the country has a national health benefit 
+package, but it does not include insulin, insulin delivery devices or blood glucose 
+self-monitoring.
+Disaggregation
+Component of the indicator (insulin or insulin delivery devices or blood glucose 
+self-monitoring), type of diabetes, type of insulin, level of reimbursement (fully 
+reimbursed or partially reimbursed), age group of people who are included in the 
+benefit package, administrative level (national provincial/state/region or district).
+Sources of data
+NCD country capacity survey, other survey, country report (national health 
+benefit package list) 
+Limitations/comments
+None
+Related links
+Keeping the 100-year-old promise: making insulin access universal. 
+Geneva: World Health Organization; 2021 (https://apps.who.int/iris/
+handle/10665/348384).
+Principles of health benefit packages. Geneva: World Health Organization; 
+2021 (https://iris.who.int/handle/10665/340723).
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+
+
+===== PDF PAGE 36 =====
+
+24
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+7. 	 Insulin, insulin delivery devices and blood glucose self-monitoring 
+affordability 
+Indicator name
+Insulin, its delivery devices, and blood glucose self-monitoring affordability
+Purpose
+To assess the affordability of insulin, insulin delivery devices and blood glucose 
+self-monitoring.
+Definition
+Country has affordable insulin, insulin delivery devices and blood glucose self-
+monitoring for people with diabetes. Affordability means that the monthly 
+expenses for people living with diabetes or their families, including expenditures 
+on basic needs represented by national poverty line (NPL), do not exceed the 
+minimum wage for the lowest paid government sector worker (LPGW).
+Numerator
+Not applicable
+Denominator
+Not applicable
+Method of estimation
+The indicator is considered “Yes”, that is, affordable, if:
+[(NPL +monthly cost for insulin, insulin devices and blood glucose self-
+monitoring to person with diabetes) /LPGW wage] ≤1
+Disaggregation
+Type of diabetes, type of insulin, type of insulin delivery device, type of blood 
+glucose self-monitoring.
+Sources of data
+Country report, survey, national health insurance claims database
+Limitations/comments
+A population-weighted average can be used to address differences in prices, 
+wages and size of population at sub-national levels.
+When estimated expenses and wages are derived from different years, general 
+inflation rate and health care inflation rate must be included in the calculation.
+Related links
+Keeping the 100-year-old promise: making insulin access universal. 
+Geneva: World Health Organization; 2021 (https://apps.who.int/iris/
+handle/10665/348384).
+SDG indicator metadata. New York: United Nations; 2019 (https://unstats.un.org/
+sdgs/metadata/files/Metadata-03-0B-03.pdf, accessed 26 May 2024).

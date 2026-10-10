@@ -1,0 +1,76 @@
+
+
+===== PDF PAGE 61 =====
+
+49
+Risk factors 
+Subdomain
+Indicator
+Risk factors for diabetes
+29.	Physical inactivity prevalence
+30.	Overweight and obesity prevalence
+31.	Tobacco use prevalence
+32.	Hypertension prevalence
+Risk factors for diabetes 
+complications
+33.	Glycaemic control based on glycated haemoglobin (HbA1c)
+34.	Glycaemic control based on fasting plasma glucose
+35.	Blood pressure control
+General population. Population with diabetes.
+
+
+===== PDF PAGE 62 =====
+
+50
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+29. 	Physical inactivity prevalence 
+Indicator name
+Physical inactivity prevalence
+Purpose
+To measure the prevalence of physical inactivity among people aged 18 
+years and over.
+Definition
+Proportion of people aged 18 years and over who are insufficiently physically 
+active (i.e. not meeting WHO recommendation on physical activity for health, 
+which is equivalent to at least 150 minutes of moderate-intensity physical activity 
+per week or equivalent).
+Throughout a week, including activity for work, during transport and leisure time, 
+adults should do at least: 
+	
+●
+150 minutes of moderate-intensity physical activity; or
+	
+●
+75 minutes of vigorous-intensity physical activity; or
+	
+●
+an equivalent combination of moderate- and vigorous-intensity physical 
+activity achieving at least 600 metabolic equivalents (MET)-minutes.
+Physical inactivity can be measured using the Global physical activity 
+questionnaire. 
+Numerator
+Number of respondents aged 18 years and over, who were insufficiently 
+physically active.
+Denominator
+Total number of respondents aged 18 years and over.
+Method of calculation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by individual characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys with data 
+on physical activity using standard measurement tool.
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardization is needed.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+Physical activity surveillance [website]. Geneva: World Health Organization; 
+2024 (https://www.who.int/teams/noncommunicable-diseases/surveillance/
+systems-tools/physical-activity-surveillance, accessed 26 May 2024).

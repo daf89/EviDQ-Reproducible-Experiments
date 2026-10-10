@@ -1,0 +1,43 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+196
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Comment octroyer les droits d’usage de CALISTA ?
+Cibles prioritaires ES – EV 
+ Objectifs de la fiche
+Cette fiche décrit les types d’usage et le process d’attribution des droits d’accès à CALISTA pour l’établissement.
+ Pour bien commencer
+Par défaut, la HAS a désigné comme administrateur de la démarche le représentant légal de l’établissement. 
+ En pratique
+Quels sont les rôles possibles d’accès dans CALISTA ?
+Trois types de profils sont définis : administrateur de la démarche, collaborateur et lecteur.
+Quels droits sont accordés à ces profils ?
+Types de profils
+Droits attribués au profil
+Administrateur 
+de la démarche
+À le droit :
+• de mettre à jour les données de l’établissement ;
+• de mettre à jour le profil de l’établissement ;
+• de gérer l’évaluation interne (création, suppression, attribution de grilles d’évaluation) ;
+• de sélectionner les grilles et les transmettre pour l’évaluation interne à la HAS ;
+• de créer des comptes collaborateur et lecteur ;
+• de créer un seul autre compte administrateur ; 
+• de demander le report de la démarche ;
+• de formuler et d’adresser les observations et commentaires à la HAS suite au rapport de visite ;
+• de formuler le recours gracieux suite à la réception du rapport de certification ;
+• d’être destinataire de l’ensemble des notifications via la plateforme CALISTA.
+Collaborateur
+À le droit :
+• de mettre à jour les données de l’établissement ;
+• de mettre à jour le profil de l’établissement sans pouvoir transmettre la demande de modification ; 
+• de créer des comptes lecteur ;
+• de gérer l’évaluation interne (création, suppression, attribution de grilles d’évaluation).
+Lecteur
+À le droit :
+• de rechercher une grille d’évaluation ;
+• de lire l’ensemble des données présentes dans CALISTA.
+ Fiche pratique opératoire_E1

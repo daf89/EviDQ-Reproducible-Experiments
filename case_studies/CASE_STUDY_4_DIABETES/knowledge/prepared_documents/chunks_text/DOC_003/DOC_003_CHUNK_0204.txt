@@ -1,0 +1,188 @@
+
+
+===== PDF PAGE 407 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-48 
+WHO STEPS Surveillance 
+ 
+ 
+Frequency 
+of morning 
+drinking 
+Description: Frequency of needing a first drink in the morning to get going after a 
+heavy drinking session during the past 12 months among past 12 month drinkers. 
+ 
+Instrument questions: 
+• Have you consumed any alcohol within the past 12 months? 
+• How often during the past 12 months have you needed a first drink in the 
+morning to get yourself going after a heavy drinking session? 
+ 
+Frequency of needing a first drink in the morning to get going during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Men 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of needing a first drink in the morning to get going during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Women 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of needing a first drink in the morning to get going during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Both Sexes 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A15 
+• Epi Info program name: Amorningdrink (unweighted); AmorningdrinkWT (weighted) 
+
+
+===== PDF PAGE 408 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-49 
+WHO STEPS Surveillance 
+ 
+ 
+Frequency of 
+problems with 
+family/ partner 
+due to someone 
+else’s drinking 
+Description: Frequency of having had problems with family or partner due to 
+someone else’s drinking in the past 12 months among all respondents. 
+ 
+Instrument question: 
+• Have you had family problems or problems with your partner due to 
+someone else’s drinking within the past 12 months? 
+ 
+Frequency of family/partner problems due to someone else’s drinking during the past 12 months among 
+all respondents 
+Age Group 
+(years) 
+Men 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of family/partner problems due to someone else’s drinking during the past 12 months among 
+all respondents 
+Age Group 
+(years) 
+Women 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of family/partner problems due to someone else’s drinking during the past 12 months among 
+all respondents 
+Age Group 
+(years) 
+Both Sexes 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: A16 
+• Epi Info program name: Afamproblem (unweighted); AfamproblemWT (weighted) 
+ 

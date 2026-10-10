@@ -1,0 +1,8 @@
+feature,decision,reason
+birth_date,REVIEW,Très liée à age_diag et diag_date ; décision finale après contrôle.
+diag_date,REVIEW,Détermine diag_year et intervient dans la définition temporelle de Y.
+diag_year,REVIEW,Représentation temporelle plus compacte que diag_date.
+mkb10_code,REVIEW,Comparer avec mkb10_3char avant de conserver les deux.
+mkb10_3char,REVIEW,Potentiellement dérivable de mkb10_code.
+histology_code,REVIEW,Comparer avec icdo3_m_code.
+icdo3_m_code,REVIEW,Comparer avec histology_code.

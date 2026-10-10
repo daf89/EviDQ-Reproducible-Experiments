@@ -1,0 +1,73 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Exhibit 21: Advantages and Challenges of Using Built-In EHR Reports and Audits 
+Advantages 
+Challenges 
+• 
+Leverages existing EHR capabilities 
+• 
+Available with little or no configuration 
+• 
+Output can often be exported to Excel or CSV 
+• 
+Standard reports can be compared across 
+clinics 
+• 
+The vendor defines the format and contents 
+• 
+Access may be restricted 
+• 
+Vendors may charge extra for specialty reports 
+• 
+Not all reports work “out of the box” 
+• 
+May include more data than is needed 
+• 
+Need to validate data in reports 
+Using EHR Registry Searches and Patient Lists 
+Many EHRs provide powerful search tools to pull lists of patients who meet specific criteria for 
+diagnoses, encounter history, results of screening or laboratory tests, medications, provider panels, 
+patients attributed to payers, and many other parameters. Examples of the names vendors use for this 
+feature includes “Registry” (eClinicalWorks), “Report Builder” (Athena Health), and “Report Workbench” 
+(Epic). Note that registries external to EHRs are addressed in Section 7 and can also be a valuable source 
+of data. 
+Pulling filtered patient lists from a registry can be a powerful tool for QI. Not only can subpopulations of 
+patients be found meeting very specific parameters, but EHRs often integrate patient lists with features 
+to view the chart, launch patient messaging, create alerts, or identify patients with special needs or 
+chronic illness for targeted care management. 
+EXAMPLE: 
+You want to pull a list of all of the clinic’s adult patients with diabetes seen within the last six 
+months for a targeted intervention. After reviewing the EHR’s registry feature, you find that a 
+search can be created for the needed age range, specific diabetes diagnoses, a visit date within 
+your project’s time range, and whether they have already received the intervention (assuming 
+this is recorded in the EHR). 
+Exhibit 22: Advantages and Challenges of Using EHR Registry Searches and Patient Lists 
+Advantages 
+Challenges 
+• 
+Leverages existing EHR capabilities 
+• 
+Available with little or no configuration 
+• 
+Offers flexible search and filter options 
+• 
+Output can often be exported to Excel or CSV 
+• 
+Registries are used by clinics for population 
+health 
+• 
+Access may be restricted 
+• 
+Creating a search may take some training 
+• 
+Not all vendors provide these tools 
+• 
+Vendors may charge for advanced reporting 
+• 
+Need to validate data in reports 
+Using EHR Dashboards 
+Dashboards are a form of built-in report designed to calculate and display a variety of clinical, process, 
+and financial metrics. Because many EHR incentive programs (MIPS, UDS) require reporting of EHR-
+Health IT Advisor Handbook 
+Page 46

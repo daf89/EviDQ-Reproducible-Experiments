@@ -1,0 +1,221 @@
+
+
+===== PDF PAGE 377 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-18 
+WHO STEPS Surveillance 
+ 
+ 
+Amount 
+of 
+tobacco 
+used 
+among 
+daily 
+smokers 
+by type 
+Description: Mean amount of tobacco used by daily smokers per day, by type. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• On average, how many of the following products do you smoke each day? 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Men 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+manufactured 
+95% CI 
+ 
+n 
+hand- 
+95% CI  
+n 
+pipes of 
+95% CI 
+cig. 
+ 
+ 
+rolled cig. 
+ 
+ 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Men 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+cigars, 
+95% CI 
+ n 
+shisha 
+95% CI 
+ 
+n 
+other type 
+95% CI 
+cheerots,  
+ 
+sessions  
+ 
+of tobacco 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Women 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+manufactured 
+95% CI 
+ 
+n 
+hand- 
+95% CI  
+n 
+pipes of 
+95% CI 
+cig. 
+ 
+ 
+rolled cig. 
+ 
+ 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+
+
+===== PDF PAGE 378 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-19 
+WHO STEPS Surveillance 
+ 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Women 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+cigars, 
+95% CI 
+ n 
+shisha 
+95% CI 
+ 
+n 
+other type 
+95% CI 
+cheerots,  
+ 
+sessions  
+ 
+of tobacco 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Both Sexes 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+manufactured 
+95% CI 
+ 
+n 
+hand- 
+95% CI  
+n 
+pipes of 
+95% CI 
+cig. 
+ 
+ 
+rolled cig. 
+ 
+ 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean amount of tobacco used by daily smokers by type 
+Age 
+Group 
+(years) 
+Both Sexes 
+Mean # of 
+Mean # of 
+Mean # of 
+n 
+cigars, 
+95% CI 
+ n 
+shisha 
+95% CI 
+ 
+n 
+other type 
+95% CI 
+cheerots,  
+ 
+sessions  
+ 
+of tobacco 
+cigarillos 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T5a-T5f 
+• Epi Info program name: Tsmoketype (unweighted); TsmoketypeWT (weighted) 
+ 

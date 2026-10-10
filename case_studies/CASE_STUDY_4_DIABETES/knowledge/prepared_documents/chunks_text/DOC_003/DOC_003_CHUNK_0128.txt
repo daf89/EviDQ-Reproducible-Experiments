@@ -1,0 +1,169 @@
+
+
+===== PDF PAGE 255 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-9 
+ 
+ 
+ 
+EXPANDED: Diet 
+Question 
+Response 
+Code 
+How important to you is lowering the salt in your diet? 
+Very important 
+Somewhat important 
+Not at all important 
+Don't know 
+1 
+2 
+3 
+77 
+D9 
+Do you think that too much salt or salty sauce in your diet could 
+cause a health problem? 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+D10 
+Do you do any of the following on a regular basis to control your salt intake? 
+(RECORD FOR EACH) 
+Limit consumption of processed foods 
+Yes 
+No 
+1 
+2 
+D11a 
+Look at the salt or sodium content on food labels 
+Yes 
+No 
+1 
+2 
+D11b 
+Buy low salt/sodium alternatives 
+Yes 
+No 
+1 
+2 
+D11c 
+Use spices other than salt when cooking 
+Yes 
+No 
+1 
+2 
+D11d 
+Avoid eating foods prepared outside of a home 
+Yes 
+No 
+1 
+2 
+D11e 
+Do other things specifically to control your salt intake 
+Yes 
+No 
+1 
+2 
+If Yes, go to D11other 
+D11f 
+Other (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+D11other 
+
+
+===== PDF PAGE 256 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-10 
+ 
+ 
+ 
+CORE: Physical Activity 
+Next I am going to ask you about the time you spend doing different types of physical activity in a typical week. Please answer these questions 
+even if you do not consider yourself to be a physically active person. 
+Think first about the time you spend doing work. Think of work as the things that you have to do such as paid or unpaid work, study/training, 
+household chores, harvesting food/crops, fishing or hunting for food, seeking employment. [Insert other examples if needed]. In answering the 
+following questions 'vigorous-intensity activities' are activities that require hard physical effort and cause large increases in breathing or heart 
+rate, 'moderate-intensity activities' are activities that require moderate physical effort and cause small increases in breathing or heart rate. 
+Question 
+Response 
+Code 
+Work 
+Does your work involve vigorous-intensity activity that causes 
+Yes 
+No 
+1 
+2 
+large increases in breathing or heart rate like [carrying or lifting 
+heavy loads, digging or construction work]? 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+If No, go to P 4 
+P1 
+In a typical week, on how many days do you do vigorous- 
+intensity activities as part of your work? 
+Number of days 
+└─┘ 
+P2 
+How much time do you spend doing vigorous-intensity activities 
+at work on a typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P3 
+(a-b) 
+Does your work involve moderate-intensity activity, that causes 
+small increases in breathing or heart rate such as brisk walking 
+[or carrying light loads? 
+Yes 
+1 
+P4 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+No 
+2 
+If No, go to P 7 
+In a typical week, on how many days do you do moderate- 
+intensity activities as part of your work? 
+Number of days 
+└─┘ 
+P5 
+How much time do you spend doing moderate-intensity activities 
+at work on a typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P6 
+(a-b) 
+Travel to and from places 
+The next questions exclude the physical activities at work that you have already mentioned. 
+Now I would like to ask you about the usual way you travel to and from places. For example to work, for shopping, to market, to place of 
+worship. [Insert other examples if needed] 
+Do you walk or use a bicycle (pedal cycle) to get to and from 
+places? 
+Yes 
+No 
+1 
+2 
+If No, go to P 10 
+P7 
+In a typical week, on how many days do you walk or bicycle to 
+get to and from places? 
+Number of days 
+└─┘ 
+P8 
+How much time do you spend walking or bicycling for travel on a 
+typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P9 
+(a-b) 

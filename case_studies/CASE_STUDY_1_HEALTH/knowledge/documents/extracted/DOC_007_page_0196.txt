@@ -1,0 +1,224 @@
+768.
+Khanal A, Castelino RL, Peterson GM, et al. Dose adjustment guidelines
+for medications in patients with renal impairment: how consistent are
+drug information sources? Intern Med J. 2014;44:77–85.
+769.
+Butrovich MA, Reaves AC, Heyward J, et al. Inclusion of participants with
+CKD and other kidney-related considerations during clinical drug
+development: landscape analysis of anticancer agents approved from
+2015 to 2019. Clin J Am Soc Nephrol. 2023;18:455–464.
+770.
+U.S. Department of Health and Human Services. Food and Drug
+Administration. Center for Drug Evaluation and Research (CDER).
+Guidance for Industry Pharmacokinetics in Patients with Impaired Renal
+Function—Study Design, Data Analysis, and Impact on Dosing. Draft
+Guidance (Revision 2). U.S. Government Printing Ofﬁce; 2020.
+771.
+European Medicines Agency. Guideline on the evaluation of the
+pharmacokinetics of medicinal products in patients with decreased renal
+function. 2017. Accessed May 29, 2023. https://www.ema.europa.eu/en/
+documents/scientiﬁc-guideline/guideline-evaluation-pharmacokinetics-
+medicinal-products-patients-decreased-renal-function_en.pdf
+772.
+Titan S, Miao S, Tighiouart H, et al. Performance of indexed and
+nonindexed estimated GFR. Am J Kidney Dis. 2020;76:446–449.
+773.
+Levey AS, Kramer H. Obesity, glomerular hyperﬁltration, and the surface
+area correction. Am J Kidney Dis. 2010;56:255–258.
+774.
+Waikar SS, Bonventre JV. Creatinine kinetics and the deﬁnition of acute
+kidney injury. J Am Soc Nephrol. 2009;20:672–679.
+775.
+Casal MA, Nolin TD, Beumer JH. Estimation of kidney function in
+oncology: implications for anticancer drug selection and dosing. Clin J
+Am Soc Nephrol. 2019;14:587–595.
+776.
+Claudel SE, Gandhi M, Patel AB, et al. Estimating kidney function in
+patients with cancer: a narrative review. Acta Physiol (Oxf). 2023;238:
+e13977.
+777.
+Cardone KE, Bacchus S, Assimon MM, et al. Medication-related problems
+in CKD. Adv Chronic Kidney Dis. 2010;17:404–412.
+778.
+Roberts DM, Sevastos J, Carland JE, et al. Clinical pharmacokinetics in
+kidney disease: application to rational design of dosing regimens. Clin
+J Am Soc Nephrol. 2018;13:1254–1263.
+779.
+Rochon PA, Gurwitz JH. Optimising drug treatment for elderly people:
+the prescribing cascade. BMJ. 1997;315:1096–1099.
+780.
+Watson KE, Dhaliwal K, McMurtry E, et al. Sick day medication guidance
+for people with diabetes, kidney disease, or cardiovascular disease: a
+systematic scoping review. Kidney Med. 2022;4:100491.
+781.
+Duong H, Tesfaye W, Van C, et al. Sick day management in people with
+chronic kidney disease: a scoping review. J Nephrol. 2023;36:1293–1306.
+782.
+Fink JC, Maguire RM, Blakeman T, et al. Medication holds in CKD during
+acute volume-depleting illnesses: a randomized controlled trial of a
+"sick-day" protocol. Kidney Med. 2022;4:100527.
+783.
+Humphrey TJL, James G, Wittbrodt ET, et al. Adverse clinical outcomes
+associated with RAAS inhibitor discontinuation: analysis of over 400
+000 patients from the UK Clinical Practice Research Datalink (CPRD).
+Clin Kidney J. 2021;14:2203–2212.
+784.
+Morris RL, Ashcroft D, Phipps D, et al. Preventing acute kidney injury: a
+qualitative study exploring ’sick day rules’ implementation in primary
+care. BMC Fam Pract. 2016;17:91.
+785.
+Perazella MA. Onco-nephrology: renal toxicities of chemotherapeutic
+agents. Clin J Am Soc Nephrol. 2012;7:1713–1721.
+786.
+Perazella MA, Markowitz GS. Bisphosphonate nephrotoxicity. Kidney Int.
+2008;74:1385–1393.
+787.
+Fountoulakis KN, Grunze H, Vieta E, et al. The International College of
+Neuro-Psychopharmacology (CINP) Treatment Guidelines for Bipolar
+Disorder in Adults (CINP-BD-2017), Part 3: the Clinical Guidelines. Int J
+Neuropsychopharmacol. 2017;20:180–195.
+788.
+Goodwin GM, Haddad PM, Ferrier IN, et al. Evidence-based guidelines for
+treating bipolar disorder: revised third edition recommendations from
+the British Association for Psychopharmacology. J Psychopharmacol.
+2016;30:495–553.
+789.
+Ng F, Mammen OK, Wilting I, et al. The International Society for Bipolar
+Disorders (ISBD) consensus guidelines for the safety monitoring of
+bipolar disorder treatments. Bipolar Disord. 2009;11:559–595.
+790.
+Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA
+Guideline for the management of heart failure: executive summary: a
+report
+of
+the
+American
+College
+of
+Cardiology/American
+Heart
+Association Joint Committee on Clinical Practice Guidelines. J Am Coll
+Cardiol. 2022;79:1757–1780.
+791.
+Martinez YV, Benett I, Lewington AJP, et al. Chronic kidney disease:
+summary of updated NICE guidance. BMJ. 2021;374:n1992.
+792.
+Bidulka P, Fu EL, Leyrat C, et al. Stopping renin-angiotensin system
+blockers after acute kidney injury and risk of adverse outcomes:
+parallel population-based cohort studies in English and Swedish
+routine care. BMC Med. 2020;18:195.
+793.
+Bowman C, Lunyera J, Alkon A, et al. A patient safety educational tool for
+patients with chronic kidney disease: development and usability study.
+JMIR Form Res. 2020;4:e16137.
+794.
+Justad H, Askfors Y, Shemeikka T, et al. Patients’ use and perceptions of a
+drug-drug interaction database: a survey of Janusmed interactions.
+Pharmacy (Basel). 2021;9:23.
+795.
+Lopez-Vargas PA, Tong A, Howell M, et al. Educational interventions for
+patients with CKD: a systematic review. Am J Kidney Dis. 2016;68:353–
+370.
+796.
+Michel
+G,
+Levy
+B,
+Chauvet
+MT,
+et
+al.
+Non-mammalian
+"big"
+neurophysins—complete amino acid sequence of a two-domain
+MSEL-neurophysin from goose. Int J Pept Protein Res. 1990;36:
+302–307.
+797.
+Tuot DS, Crowley ST, Katz LA, et al. Usability testing of the kidney score
+platform to enhance communication about kidney disease in primary
+care settings: qualitative think-aloud study. JMIR Form Res. 2022;6:
+e40001.
+798.
+Al Hamarneh YN, Tsuyuki RT, Jones CA, et al. Effectiveness of pharmacist
+interventions on cardiovascular risk in patients with CKD: a subgroup
+analysis of the randomized controlled RxEACH trial. Am J Kidney Dis.
+2018;71:42–51.
+799.
+Al Raiisi F, Stewart D, Fernandez-Llimos F, et al. Clinical pharmacy
+practice in the care of chronic kidney disease patients: a systematic
+review. Int J Clin Pharm. 2019;41:630–666.
+800.
+Song YK, Jeong S, Han N, et al. Effectiveness of clinical pharmacist
+service
+on
+drug-related
+problems
+and
+patient
+outcomes
+for
+hospitalized patients with chronic kidney disease: a randomized
+controlled trial. J Clin Med. 2021;10:1788.
+801.
+Awdishu L, Coates CR, Lyddane A, et al. The impact of real-time alerting
+on appropriate prescribing in kidney disease: a cluster randomized
+controlled trial. J Am Med Inform Assoc. 2016;23:609–616.
+802.
+Bhardwaja B, Carroll NM, Raebel MA, et al. Improving prescribing
+safety in patients with renal insufﬁciency in the ambulatory setting:
+the Drug Renal Alert Pharmacy (DRAP) program. Pharmacotherapy.
+2011;31:346–356.
+803.
+Chertow GM, Lee J, Kuperman GJ, et al. Guided medication dosing for
+inpatients with renal insufﬁciency. JAMA. 2001;286:2839–2844.
+804.
+Erler A, Beyer M, Petersen JJ, et al. How to improve drug dosing for
+patients with renal impairment in primary care—a cluster-randomized
+controlled trial. BMC Fam Pract. 2012;13:91.
+805.
+Sonoda A, Kondo Y, Iwashita Y, et al. In-hospital prescription checking
+system for hospitalized patients with decreased glomerular ﬁltration
+rate. Kidney360. 2022;3:1730–1737.
+806.
+Such Diaz A, Saez de la Fuente J, Esteva L, et al. Drug prescribing in
+patients with renal impairment optimized by a computer-based, semi-
+automated system. Int J Clin Pharm. 2013;35:1170–1177.
+807.
+Goldfarb S, McCullough PA, McDermott J, et al. Contrast-induced acute
+kidney injury: specialty-speciﬁc protocols for interventional radiology,
+diagnostic
+computed
+tomography
+radiology,
+and
+interventional
+cardiology. Mayo Clin Proc. 2009;84:170–179.
+808.
+Lee CD, Hinson J, Davenport MS. Avoiding contrast-enhanced imaging
+to prevent contrast-induced acute kidney injury. N Engl J Med.
+2022;387:1809–1812.
+809.
+Lee YC, Hsieh CC, Chang TT, et al. Contrast-induced acute kidney injury
+among patients with chronic kidney disease undergoing imaging
+studies: a meta-analysis. AJR Am J Roentgenol. 2019;213:728–735.
+810.
+Davenport MS, Perazella MA, Yee J, et al. Use of intravenous iodinated
+contrast media in patients with kidney disease: consensus statements
+from the American College of Radiology and the National Kidney
+Foundation. Radiology. 2020;294:660–668.
+811.
+Weisbord SD, Mor MK, Hochheiser H, et al. Utilization and outcomes of
+clinically indicated invasive cardiac care in veterans with acute coronary
+syndrome and chronic kidney disease. J Am Soc Nephrol. 2023;34:694–
+705.
+812.
+Chertow GM, Normand SL, McNeil BJ. “Renalism”: inappropriately low
+rates of coronary angiography in elderly individuals with renal
+insufﬁciency. J Am Soc Nephrol. 2004;15:2462–2468.
+813.
+Cashion W, Weisbord SD. Radiographic contrast media and the kidney.
+Clin J Am Soc Nephrol. 2022;17:1234–1242.
+www.kidney-international.org
+references
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S311

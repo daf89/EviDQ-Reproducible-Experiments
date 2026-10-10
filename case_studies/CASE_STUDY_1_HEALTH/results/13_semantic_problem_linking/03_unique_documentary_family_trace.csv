@@ -1,0 +1,33 @@
+﻿knowledge_role,family_id,knowledge,document_name,page_start,page_end,used_in_supported_chain
+ERROR,ERR_FAM_01,An assigned provider type may be incorrect when the household respondent misunderstands the provider's status.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,3.0,4.0,False
+ERROR,ERR_FAM_02,An inconsistency identified in an Event Form item is an explicitly documented data-quality problem.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,5.0,6.0,True
+ERROR,ERR_FAM_03,Events with missing critical items are explicitly distinguished from full-complete events.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,37.0,38.0,False
+ERROR,ERR_FAM_04,"A 'don't know', refusal, or missing entry on one critical item is explicitly treated as a critical-item-missing condition.",MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,39.0,40.0,False
+ERROR,ERR_FAM_05,Absence of payment information from both components is the documented missing-data condition triggering completion.,mr19.pdf,1.0,2.0,True
+ERROR,ERR_FAM_06,Missing expenditure data are the documented condition addressed by the procedure.,mr19.pdf,7.0,8.0,True
+ERROR,ERR_FAM_07,Remaining missing expenditure information after source integration is the documented incompleteness condition.,mr19.pdf,9.0,10.0,True
+ERROR,ERR_FAM_08,Missing payment and charge data are explicitly documented missing-data conditions.,mr19.pdf,11.0,12.0,False
+ERROR,ERR_FAM_09,Household-reported expenditure information is documented as potentially incomplete and prone to reporting errors.,mr32.pdf,5.0,6.0,True
+ERROR,ERR_FAM_10,An event missing a critical item is explicitly used to characterize a partial-complete provider/pair.,mr32.pdf,15.0,16.0,False
+ERROR,ERR_FAM_11,Household respondents are explicitly described as unable to accurately provide some medical-event information.,mr32.pdf,23.0,24.0,True
+ERROR,ERR_FAM_12,Unavailable patient profiles or profiles lacking required data constitute an explicitly documented information gap.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,7.0,8.0,True
+DETECTION,DET_FAM_01,Programmed edit checks and alerts are used to identify inconsistencies in Event Form items.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,5.0,6.0,True
+DETECTION,DET_FAM_02,Manual review and verification by the abstractor are documented validation procedures for abstracted data.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,9.0,10.0,False
+DETECTION,DET_FAM_03,"The documented criterion is the presence of 'don't know', refusal, or missing entry in a critical item.",MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,39.0,40.0,False
+DETECTION,DET_FAM_04,The trigger is absence of payment information from either component.,mr19.pdf,1.0,2.0,True
+DETECTION,DET_FAM_05,The hierarchy identifies missing information remaining after checking MPC and HC expenditure sources.,mr19.pdf,9.0,10.0,True
+DETECTION,DET_FAM_06,Provider data are used to validate the accuracy and completeness of household-reported data.,mr32.pdf,5.0,6.0,True
+DETECTION,DET_FAM_07,Completion status is determined by checking whether events contain missing critical items.,mr32.pdf,15.0,16.0,False
+DETECTION,DET_FAM_08,The documented condition is that patient profiles are unavailable or do not contain all required data.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,7.0,8.0,True
+DETECTION,DET_FAM_09,Quality control for creatinine measurement must include the lowest end of the expected range for infants or small children.,KDIGO-2024-CKD-Guideline.pdf,71.0,72.0,False
+DETECTION,DET_FAM_10,Monitor serum creatinine and potassium within 2–4 weeks after starting or changing dose; the algorithm distinguishes eGFR decrease below versus at least 30%.,KDIGO-2024-CKD-Guideline.pdf,99.0,100.0,False
+DETECTION,DET_FAM_11,"Measurement bias, limit of detection, and coefficient of variation are documented assessment criteria for creatinine-test accuracy/reproducibility.",KDIGO-2024-CKD-Guideline.pdf,159.0,160.0,False
+CORRECTION,COR_FAM_01,Detected inconsistencies may be resolved with telephone respondents or by further investigation in records.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,5.0,6.0,True
+CORRECTION,COR_FAM_02,Complete expenditure data using weighted hot-deck imputation procedures.,mr19.pdf,1.0,2.0,True
+CORRECTION,COR_FAM_03,Use a weighted hot-deck approach to impute missing expenditure data.,mr19.pdf,7.0,8.0,True
+CORRECTION,COR_FAM_04,"Start with household events, use MPC expense data where available, use HC expense data when MPC data are unavailable, then impute remaining missing information.",mr19.pdf,9.0,10.0,True
+CORRECTION,COR_FAM_05,Use MPC information to impute item nonresponse and to supplement or replace household-reported expenditure information where documented.,mr32.pdf,5.0,6.0,True
+CORRECTION,COR_FAM_06,Obtain the information from sampled medical providers by telephone after participant permission.,mr32.pdf,23.0,24.0,True
+CORRECTION,COR_FAM_07,Use the Medical Provider Component to supplement and/or replace household-reported expenditure information.,mr32.pdf,25.0,25.0,False
+CORRECTION,COR_FAM_08,Collect the information by telephone or request supplemental reports from the pharmacist.,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,7.0,8.0,True
+CORRECTION,COR_FAM_09,"For an eGFR decrease of at least 30%, review causes of AKI, correct volume depletion, reassess concomitant medications, and consider renal artery stenosis as documented.",KDIGO-2024-CKD-Guideline.pdf,99.0,100.0,False

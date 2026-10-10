@@ -1,0 +1,43 @@
+Introduction 
+I N T R O D U C T I O N
+I N T R O D U C T I O N 
+Over the past two decades primarycare practices have been encouragedto implement new, evidence
+based approaches and advanced models of care to close the quality “chasm” in healthcare.[1] 
+Increasingly, value-based payment programs also tie practice reimbursement to the implementation of 
+processes that are designedto improve quality.[2-4] 
+External support, particularly practice facilitation, has emerged as a successful method to help practices 
+implement new approaches to improving quality of care [5-10] and advanced primary care models.[11
+22] Practice facilitators – also called practice coaches – draw on their skills in engaging and motivating 
+change and improving work processes tohelp practices improve the quality of care they provide. [23] 
+Agency for Healthcare Research and Quality (AHRQ)-funded EvidenceNOW initiatives have provided 
+evidence of the effectiveness of practice facilitation as well as an increased understanding of the 
+importance of high-quality data for the practice improvement process. 
+However, practice facilitation is implemented by a variety of different types of organizations, and 
+practice facilitators vary in their background and skills in clinical health information technology (IT). This 
+has led some practice transformation and quality improvement (QI) organizations to develop the role of 
+a health IT-focused coach (or a “HealthIT Advisor”) as a complementaryresource to support practices in 
+their QI and practice transformation efforts.[8, 24] HealthIT Advisors are essentiallypractice coaches 
+who focus on healthcare information technology. For example, they may help a practice look at their 
+EHR reports and data to determine their baseline results around the quality of care they are providing. 
+Or, Health IT Advisors may help practices with data validation around specific quality measures. [25] 
+While some health systems andpractices have internal staffthat can serve in this role, there is value to 
+having an external health IT coach share the best practices they have learned from working across many 
+practices, with different electronic health records (EHRs) and other health IT platforms, and from 
+addressing a wide variety of issues. 
+AHRQ has developed extensive resources to support primary care practice facilitation, including a 
+Primary Care Practice Facilitation Curriculum and related Practice Facilitation Training Modules (and the 
+precursor to these materials, the Practice Facilitation Handbook). These resources include information 
+regarding the use of data for QI; however, they contain only limited information about the use of EHRs 
+and other health IT as sources of data for practice improvement and transformation. The current 
+handbook was developed to provide the more in-depth information Health IT Advisors need to 
+effectively support the IT needs of primary care practices as they increasingly engage in QI and practice 
+transformation efforts. 
+About This Handbook 
+The authors designed Obtaining and Using Data in Practice Improvement: A Handbook for Health IT 
+Advisors and Practice Facilitators to be a resource for the coaches who provide health IT-related 
+assistance forprimarycare practices to support theirQI and practice transformationefforts. The 
+audience for this handbook includes both the health IT-focused coaches who support QI work (who we 
+refer to as “HealthIT Advisors”) as well as the practice facilitators/coaches who have the necessary 
+background, interest, and skills to provide clinical health IT support. Although the handbook is primarily 
+Health IT Advisor Handbook 
+Page 1

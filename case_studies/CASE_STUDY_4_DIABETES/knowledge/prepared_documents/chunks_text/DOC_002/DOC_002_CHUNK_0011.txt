@@ -1,0 +1,170 @@
+
+
+===== PDF PAGE 21 =====
+
+The global framework for diabetes prevention and control  ﻿
+9
+Global targets
+The framework comprehensively addresses 
+various facets of diabetes prevention and 
+control through an integrative approach that 
+encompasses health system determinants and 
+population health-related indicators. It is aligned 
+with the NCD global targets endorsed by the 
+World Health Assembly in 2013 (9), which are 
+aimed at halting the rise in diabetes, reducing 
+diabetes risk factors, expanding access to NCD 
+medicines and technologies, and decreasing 
+premature mortality from NCDs, including 
+diabetes. These targets provide a broad 
+agenda for improving health outcomes globally, 
+reflecting a commitment to tackling the growing 
+burden of diabetes and other NCDs through 
+concerted and coordinated efforts.
+In addition to aligning with broader NCD targets, 
+the framework incorporates the five global 
+coverage targets for diabetes that Member States 
+recently adopted in 2022 (7). These targets are 
+part of the recommendations to strengthen and 
+monitor diabetes responses within national 
+NCD programmes, ensuring that specific 
+measures are in place to address diabetes more 
+effectively. The global coverage targets focus on 
+critical areas such as improving the diagnosis 
+and treatment of diabetes, increasing the 
+accessibility of essential medicines and health 
+products, addressing relevant risk factors, and 
+reducing morbidity and mortality associated 
+with diabetes. 
+The framework provides a structured and 
+detailed approach to address diabetes burden 
+and includes important indicators that are 
+designed to contribute to the achievement of 
+the following global targets:
+Global NCD targets relevant to global diabetes 
+monitoring framework
+	
+●
+25% reduction in premature 
+mortality from NCDs.
+	
+●
+Halt the rise in diabetes and obesity.
+	
+●
+25% reduction in raised blood 
+pressure.
+	
+●
+15% reduction in physical inactivity, 
+updated 2018 (30).
+	
+●
+30% reduction in tobacco use.
+	
+●
+80% coverage of essential NCD 
+medicines and technologies.
+Global coverage targets for diabetes
+	
+●
+80% of people with diabetes are 
+diagnosed.
+	
+●
+80% of people with diagnosed 
+diabetes have good control of 
+glycaemia.
+	
+●
+80% of people with diagnosed 
+diabetes have good control of blood 
+pressure.
+	
+●
+60% of people with diabetes of 40 
+years or older receive statins. 
+	
+●
+100% of people with type 1 diabetes 
+have access to affordable insulin 
+treatment and blood glucose self-
+monitoring.
+
+
+===== PDF PAGE 22 =====
+
+10
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Framework domains 
+Health system determinants
+This domain underscores the essential 
+components needed for effective diabetes 
+prevention and control. It includes governance, 
+finance, health workforce, medicine and 
+technology availability, and establishment of 
+health information systems, with a focus on the 
+level of health care facilities. 
+Service delivery 
+This domain highlights the execution of health 
+care services for prevention, detection and 
+management of diabetes, including detection 
+and prevention strategies for diabetes and 
+its risk factors, such as hypertension and 
+cardiovascular disease risk assessment, 
+complication assessment, preventive 
+measures and monitoring for diabetes-related 
+complications (e.g. retinopathy, chronic kidney 
+disease, and diabetic foot), and processes of care. 
+This emphasizes integration of comprehensive 
+care processes, from diagnosis to treatment, 
+including glucose-lowering interventions.
+Risk factors
+Focusing on reducing the prevalence of 
+modifiable risk factors for diabetes and diabetes 
+complications, this domain includes monitoring 
+of physical inactivity, obesity and overweight, 
+tobacco use and hypertension in the general 
+population as well as glycaemic control and 
+having good control of blood pressure and lipid 
+levels  among people with diabetes.
+Outcomes and impacts
+This domain assesses the results of interventions 
+and the overall performance of the health 
+system in the prevention and control of 
+diabetes, including morbidity, hospitalization 
+and mortality associated with diabetes and 
+complications such as cardiovascular diseases. 
+The aim is to assess the effectiveness of health 
+care interventions and policy actions.
+Data sources
+The sources specified for each indicator (Table 1) 
+are based on existing global and national data 
+systems, as well as feasible data collection 
+mechanisms with standardized measurements. 
+Governance, financing, and health information 
+indicators can be collected through NCD country 
+capacity surveys, other related surveys or country 
+reports. Indicators related to health workforce, 
+medicines and health technologies can be 
+generated from routine health facility reporting 
+systems or health facility surveys. Service 
+delivery, risk factors for diabetes complications 
+and morbidity indicators can be extracted from 
+routine facility reporting systems or population-
+based surveys. Risk factor prevalence can be 
+estimated from population-based surveys, 
+while mortality indicators can be derived from 
+civil registration and vital statistics  (CRVS) 
+systems with cause-of-death certification. For 
+indicators that can be generated from various 
+sources, the data source that can produce the 
+most reliable estimates that can meet reporting 
+requirements is the preferred source. Moreover, 
+while frequency of data collection differs by 
+source (Table 2) – being continuous or periodic 
+– the frequency of reporting should align with 
+monitoring objectives. The frequency of each 
+indicator can be determined by the country in 
+accordance with their reporting requirements 
+and integrated into their regular reviews.

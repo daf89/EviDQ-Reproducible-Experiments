@@ -1,0 +1,214 @@
+Initial Sample
+Sub‑sample
+Eligible Sample
+Completion Rate
+Refusal Rate
+Other Nonresponse Rate
+Home care providers
+n/a
+1,069
+965
+0.730
+0.042
+0.228
+Institutions
+n/a
+121
+119
+0.849
+0.025
+0.126
+SBDs
+n/a
+20,158
+14,760
+0.495
+0.053
+0.451
+Pharmacies
+n/a
+21,106
+17,698
+0.812
+0.112
+0.076
+Total
+n/a
+76,118
+63,624
+2022 Pairs
+Hospitals
+n/a
+10,134
+8,869
+0.700
+0.046
+0.254
+Office‑based providers
+n/a
+19,819
+17,088
+0.642
+0.051
+0.306
+HMOs
+n/a
+681
+538
+0.578
+0.022
+0.400
+Home care providers
+n/a
+859
+794
+0.773
+0.050
+0.176
+Institutions
+n/a
+109
+102
+0.882
+0.029
+0.078
+SBDs
+n/a
+16,723
+10,953
+0.634
+0.033
+0.332
+Pharmacies
+n/a
+16,566
+13,940
+0.842
+0.097
+0.060
+Total
+n/a
+64,891
+52,284
+2023 Pairs
+Hospitals
+n/a
+9,399
+8,146
+0.730
+0.063
+0.207
+Office‑based providers
+n/a
+17,991
+15,456
+0.667
+0.050
+0.283
+HMOs
+n/a
+563
+433
+0.868
+0.002
+0.129
+Home care providers
+n/a
+741
+670
+0.797
+0.049
+0.154
+Institutions
+n/a
+124
+121
+0.876
+0.025
+0.099
+SBDs
+n/a
+18,768
+12,415
+0.602
+0.080
+0.319
+Pharmacies
+n/a
+14,395
+12,137
+0.892
+0.051
+0.057
+Total
+n/a
+61,981
+49,378
+2024 Pairs
+Hospital
+n/a
+9,758
+8,555
+0.668
+0.059
+0.273
+Office‑based
+n/a
+17,417
+14,824
+0.668
+0.038
+0.295
+HMOs
+n/a
+501
+422
+0.886
+0.076
+0.038
+Home care providers
+n/a
+791
+689
+0.776
+0.083
+0.141
+Institutions
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+SBDs
+n/a
+16,982
+12,203
+0.521
+‑
+0.479
+Pharmacies
+n/a
+14,673
+12,488
+0.889
+0.046
+0.065
+Total
+n/a
+60,122
+49,181
+Return to Table of Contents
+Appendix C: Critical Items
+Event level
+Answers are required for the following in order to be a full complete event:
+Event month and year for outpatient
+Event days, months, year for inpatient or “somewhere else”
+Global fee months and years
+At least one CPT code
+Surgical codes
+Was it FFS or Capitated
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+36/40

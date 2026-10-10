@@ -1,0 +1,27 @@
+iii 
+Table of Contents
+DESIGN, METHODS, AND FIELD RESULTS OF THE MEDICAL EXPENDITURE 
+PANEL SURVEY MEDICAL PROVIDER COMPONENT (MEPS MPC) INCLUDING 
+THE MEDICAL ORGANIZATIONS SURVEY (MOS)—2016 DATA YEAR 
+Introduction ................................................................................................................................... 1 
+Relationship of the Household Component to the Medical Provider Component .................. 1 
+Objectives of the MPC .................................................................................................................. 2 
+Objective of the MOS .................................................................................................................... 2 
+Sample Selection: Design and Implementation........................................................................... 3 
+MPC Instruments and Data Collection Procedures ................................................................... 6 
+Table 1: MPC Data Elements Collected by Provider Component ............................................ 9 
+MOS Instrument and Data Collection Procedures .................................................................. 10 
+MPC Sample Size and Completion Rates.................................................................................. 10 
+Table 2: 2016 Sample Sizes and Completion Rates in the Medical Provider Component 
+Sample by Provider Type – Provider Level ............................................................................ 11 
+Table 3: 2016 Sample Sizes and Completion Rates in the Medical Provider Component 
+Sample by Provider Type – Pair Level ................................................................................... 12 
+MOS Sample Size and Completion Rates ................................................................................. 12 
+Table 4: 2016 Sample Sizes and Completion Rates in the Medical Organizations Survey ... 12 
+MPC Changes Over Time ........................................................................................................... 13 
+MOS Changes Over Time ........................................................................................................... 15 
+Use of MPC Data in Expenditure Estimation ........................................................................... 15 
+Summary ...................................................................................................................................... 17 
+For More Information ................................................................................................................. 18 
+References .................................................................................................................................... 19 
+Additional Background on MEPS HC, MEPS MPC, and MEPS MOS ................................. 21

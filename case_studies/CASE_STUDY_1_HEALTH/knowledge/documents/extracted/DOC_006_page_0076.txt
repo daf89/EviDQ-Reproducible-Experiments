@@ -1,0 +1,33 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+Exhibit 33: Example of a CQM Dashboard[67] 
+Graphic included with permission from The American Board of Family Medicine. 
+Data and Workflow Considerations 
+You are not limited to using certified MIPS measures for QI projects. A clinic’s EHR may offer many 
+additional quality measures found in the NQF database for preventive care guidelines, specialty care, 
+federally qualified health centers (FQHCs, called the Uniform Data System, or UDS), and special CQMs 
+for use in value-based payment models (see Section 8 for a primer on CQMs and where to find them). 
+When standardCQMs are needed for a project, the built-in CQMs provided in an EHR can save time and 
+resources. However, there are some things Health IT Advisors should consider (also see Section 2): 
+• 
+Standardized CQMs require rigid conformance to specifications and timely updates to measure 
+logic and code values used for inclusion/exclusion criteria. The inner workings of the CQM 
+provided by a vendor may not be clear, making troubleshooting and data validation difficult. 
+• 
+Vendors may be slow to make changes to the CQM programming when errors or outdated 
+codes are found (not all CQMs require certification with ONC). 
+• 
+The selection of CQMs provided by a given vendor is limited and may depend on the target 
+specialty for the EHR. For example, a specialty EHR for gastroenterology may not include CQMs 
+useful for primary care, pediatric medicine, or other specialties. 
+• 
+Most CQM dashboards canprovide both aggregate (numerator, denominator, exclusions, and 
+performance rate) and patient-level data. Unfortunately, clinics often must purchase more 
+robust population health software to access advanced features for segmenting a CQM by 
+additional patient demographics, attribution models, or other criteria. 
+• 
+Some of the limitations of using built-in CQMs can be overcome by exporting the EHR data and 
+combining it with other sources using desktop or analytics software. Example: An all-payer CQM 
+for Depression Screening and Follow-up (CMS 2, NQF 0418) could be combined with a 
+Health IT Advisor Handbook 
+Page 71

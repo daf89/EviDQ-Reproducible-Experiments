@@ -1,0 +1,256 @@
+
+
+===== PDF PAGE 293 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4A-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+CORE and EXPANDED: Cervical cancer 
+Question 
+Response 
+Code 
+Yes 
+1 
+Did you have any follow-up visits because of your 
+test results? 
+No 
+Don't know 
+2 
+77 
+CX7 
+Refused 
+88 
+Yes 
+1 
+No 
+2 
+If No, go to CC10 
+Did you receive any treatment to your cervix 
+because of your test result? 
+Don't know 
+77 
+If Don’t know, go to 
+next section 
+CX8 
+Refused 
+88 
+If Refused, go to 
+next section 
+Yes 
+1 
+If Yes, go to next section 
+Did you receive treatment during the same visit 
+as your last test for cervical cancer? 
+No 
+Don't know 
+Refused 
+2 
+77 
+88 
+If No, go to next section 
+If Don’t know, go to 
+next section 
+If Refused, go to 
+next section 
+CX9 
+Was not told I needed treatment 
+1 
+Did not know how/where to get treatment 
+2 
+Embarrassment 
+3 
+Too expensive 
+4 
+Didn’t have time 
+5 
+Clinic too far away 
+6 
+What is the main reason you did not receive 
+treatment? 
+Poor service quality 
+Fear (afraid of procedure; afraid of social 
+stigma) 
+7 
+8 
+CX10 
+Cultural beliefs 
+9 
+Family member would not allow it 
+10 If CC10=10, go to C10Spec, 
+else go to next section 
+Don’t know 
+77 
+Refused 
+88 
+Family member (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+CX10Spec 
+Did not know how/where to get treatment 
+1 
+If CC11=9, go to C11Spec, 
+else go to next section 
+Embarrassment 
+2 
+Too expensive 
+3 
+Didn’t have time 
+4 
+Clinic too far away 
+5 
+Poor service quality 
+6 
+What is the main reason you have never had a 
+cervical cancer test? 
+Fear (afraid of procedure; afraid of social 
+stigma) 
+7 
+CX11 
+Cultural beliefs 
+8 
+Family member would not allow it 
+9 
+Don’t know 
+77 
+Refused 
+88 
+Family member (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+CX11Spec 
+
+
+===== PDF PAGE 294 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4B-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+Mental health / Suicide 
+The next questions ask about thoughts, plans, and attempts of suicide. Please answer the questions even if no one usually talks about 
+these issues. 
+Question 
+Response 
+Code 
+Yes 
+1 
+During the past 12 months, have you seriously 
+considered attempting suicide? 
+No 
+Refused 
+2 
+88 
+If No, go to MH3 
+MH1 
+Yes 
+1 
+Did you seek professional help for these thoughts? 
+No 
+2 
+MH2 
+Refused 
+88 
+Yes 
+1 
+During the past 12 months, have you made a plan 
+about how you would attempt suicide? 
+No 
+Refused 
+2 
+88 
+MH3 
+Yes 
+1 
+Have you ever attempted suicide? 
+No 
+2 
+If No, go to MH9 
+MH4 
+Refused 
+88 
+Yes 
+1 
+During the past 12 months, have you attempted 
+suicide? 
+No 
+Refused 
+2 
+88 
+MH5 
+Razor, knife or other sharp instrument 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+88 
+Overdose of medication (e. g. prescribed, over- 
+the-counter) 
+Overdose of other substance (e.g. heroin, 
+crack, alcohol) 
+Poisoning with pesticides (e.g. rat poison, 
+What was the main method you used the last time 
+you attempted suicide? 
+insecticide, weed-killer) 
+Other poisoning (e.g. plant/seed, household 
+MH6 
+(SELECT ONLY ONE) 
+product) 
+Poisonous gases from charcoal 
+Other 
+If Other, go to MH6other 
+Refused 
+Other (specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+MH6ot 
+her 
+Yes 
+1 
+Did you seek medical care for this attempt? 
+No 
+2 
+If No, go to MH9 
+MH7 
+Refused 
+88 
+Yes 
+1 
+Were you admitted to hospital overnight because of 
+this attempt? 
+No 
+Refused 
+2 
+88 
+MH8 
+Yes 
+1 
+Has anyone in your close family (mother, father, 
+brother, sister or children) ever attempted suicide? 
+No 
+Refused 
+2 
+88 
+MH9 
+Yes 
+1 
+Has anyone in your close family (mother, father, 
+brother, sister or children) ever died from suicide? 
+No 
+Refused 
+2 
+88 
+MH10 
+Mental health / Suicide 

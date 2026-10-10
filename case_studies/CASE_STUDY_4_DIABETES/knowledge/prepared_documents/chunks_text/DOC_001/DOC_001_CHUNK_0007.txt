@@ -1,0 +1,364 @@
+
+
+===== PDF PAGE 13 =====
+
+changes, including weight loss and absti­
+nence from alcohol (144). Severe hypertrigly­
+ceridemia (fasting triglycerides ≥500 mg/dL 
+[≥5.7 mmol/L] and especially >1,000 mg/dL 
+[>11.3 mmol/L]) may warrant pharma­
+cologic therapy (fibric acid derivatives 
+and/or fish oil) and reduction in fat intake 
+to reduce the risk of acute pancreatitis 
+(145). Moderate- or high-intensity statin 
+therapy should also be used as indicated 
+to reduce risk of cardiovascular events 
+(see STATIN TREATMENT, above) (144,146). In 
+people with hypertriglyceridemia (fasting 
+triglycerides >150 mg/dL [>1.7 mmol/L] 
+or nonfasting triglycerides >175 mg/dL 
+[>2.0 mmol/L]), lifestyle interventions, 
+treatment of secondary factors, and 
+avoidance of medications that might raise 
+triglycerides are recommended.
+For individuals with established CVD or 
+with risk factors for CVD with elevated trigly­
+cerides (150–499 mg/dL [1.7–5.6 mmol/L]) 
+after maximizing statin therapy, icosapent 
+ethyl may be added to reduce cardiovas­
+cular risk. The Reduction of Cardiovascular 
+Events with Icosapent Ethyl-Intervention 
+Trial (REDUCE-IT) showed that the addition 
+of icosapent ethyl to statin therapy in this 
+population resulted in a 25% relative risk 
+reduction (P < 0.001) for the primary end 
+point composite of cardiovascular death, 
+nonfatal MI, nonfatal stroke, coronary re­
+vascularization, or unstable angina com­
+pared with placebo. This risk reduction 
+was seen in individuals with or without di­
+abetes at baseline. The composite of car­
+diovascular death, nonfatal MI, or nonfatal 
+stroke was reduced by 26% (P < 0.001). 
+Additional ischemic end points were signif­
+icantly lower in the icosapent ethyl group 
+than in the placebo group, including car­
+diovascular death, which was reduced by 
+20% (P = 0.03). The proportions of individ­
+uals experiencing adverse events and seri­
+ous adverse events were similar between 
+the active and placebo treatment groups. 
+Current evidence from randomized trials 
+does not support cardiovascular risk re­
+duction for other n-3 fatty acids, and re­
+sults of the REDUCE-IT trial should not be 
+extrapolated to other products (147). As 
+an example, the addition of 4 g per day of 
+a carboxylic acid formulation of the n-3 
+fatty acids eicosapentaenoic acid (EPA) 
+and docosahexaenoic acid (DHA) (n-3 car­
+boxylic acid) to statin therapy in individuals 
+with atherogenic dyslipidemia and high 
+cardiovascular risk, 70% of whom had dia­
+betes, did not reduce the risk of major 
+adverse cardiovascular events compared 
+with the inert comparator of corn oil (148).
+Low levels of HDL cholesterol, often as­
+sociated with elevated triglyceride levels, 
+are the most prevalent pattern of dyslipi­
+demia in people with type 2 diabetes. 
+However, the evidence for the use of 
+drugs that target these lipid fractions is 
+substantially less robust than that for 
+statin therapy (149). Neither the ACCORD- 
+lipid trial nor the Pemafibrate to Reduce 
+Cardiovascular Outcomes by Reducing 
+Triglycerides in Patients with Diabetes 
+(PROMINENT) trial, both conducted in 
+people with type 2 diabetes on statin 
+therapy, found that the fibrate fenofi­
+brate or pemafibrate improved cardio­
+vascular outcomes (150,151).
+Statin and Fibrate Combination Therapy
+Combination therapy (statin and fibrate) 
+is associated with an increased risk for ab­
+normal transaminase levels, myositis, and 
+rhabdomyolysis. The risk of rhabdomyoly­
+sis is more common with higher doses of 
+statins and renal insufficiency and ap­
+pears to be higher when statins are com­
+bined with gemfibrozil (compared with 
+fenofibrate) (152).
+In the ACCORD study, in people with 
+type 2 diabetes who were at high risk for 
+ASCVD, the combination of fenofibrate 
+and simvastatin did not reduce the rate 
+of fatal cardiovascular events, nonfatal 
+MI, or nonfatal stroke compared with 
+simvastatin alone (153). In the PROMI­
+NENT trial, in people with type 2 diabetes 
+and elevated triglycerides (≥200 mg/dL 
+and low HDL [≤40 mg/dL]), pemafibrate 
+0.2 mg twice daily reduced triglycerides 
+by 26% but did not reduce the risk of the 
+primary outcome of nonfatal MI, nonfatal 
+stroke, hospitalization for unplanned cor­
+onary revascularization, or cardiovascular 
+death (151). Therefore, combination ther­
+apy with statin and fibrate is not recom­
+mended for cardiovascular risk reduction.
+Statin and Niacin Combination Therapy
+Combination therapy with a statin and ni­
+acin is not recommended, given the lack 
+of efficacy on major ASCVD outcomes 
+and increased side effects. Monotherapy 
+with niacin is also not recommended. 
+Large clinical trials, including the Athero­
+thrombosis Intervention in Metabolic Syn­
+drome With Low HDL/High Triglycerides: 
+Impact on Global Health Outcomes 
+(AIM-HIGH) and Heart Protection Study 
+2–Treatment of HDL to Reduce the Inci­
+dence of Vascular Events (HPS2-THRIVE) 
+trials, failed to demonstrate a benefit of 
+adding niacin to individuals on appropri­
+ate statin therapy. In fact, there was a 
+possible increased risk of ischemic stroke 
+in the AIM-HIGH trial (154) and an in­
+creased incidence of new-onset diabetes 
+(absolute excess, 1.3 percentage points; 
+P < 0.001) and disturbances in diabetes 
+management among those with diabetes 
+in the HPS2-THRIVE trial in those on com­
+bination therapy (155).
+Other Combination Therapy
+Recommendations
+10.32 In individuals receiving statin 
+therapy, the addition of fibrate, niacin, 
+or dietary supplements containing n-3 
+fatty acids is not recommended as 
+they do not provide additional cardio­
+vascular risk reduction. A
+Diabetes Risk With Statin Use
+Several studies have reported a modestly 
+increased risk of incident type 2 diabetes 
+with statin use (156,157), which may be 
+limited to those with diabetes risk factors 
+and/or impaired glucose tolerance. An 
+analysis of one of the initial studies 
+suggested that although statin use was 
+associated with diabetes risk, the car­
+diovascular event rate reduction with 
+statins far outweighed the risk of inci­
+dent diabetes, even for individuals at 
+highest risk for diabetes (158). The ab­
+solute risk increase was small (over 
+5 years of follow-up, 1.2% of participants 
+on placebo developed diabetes and 
+1.5% on rosuvastatin developed diabetes) 
+(158). A meta-analysis of 13 randomized 
+statin trials with 91,140 participants 
+showed an odds ratio of 1.09 for a new 
+diagnosis of diabetes, so that (on aver­
+age) treatment of 255 individuals with 
+statins for 4 years resulted in one additional 
+case of diabetes while simultaneously 
+preventing 5.4 vascular events among 
+those 255 individuals (157).
+Lipid-Lowering Agents and Cognitive 
+Function
+Although concerns regarding a potential 
+adverse impact of lipid-lowering agents 
+on cognitive function have been raised, 
+several lines of evidence argue against 
+this association, as detailed in a 2018 Eu­
+ropean Atherosclerosis Society Consensus 
+S228 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 14 =====
+
+Panel statement (159). First, there are 
+three large, randomized trials of statin 
+versus placebo where specific cognitive 
+tests were performed, and no differences 
+were seen between statin and placebo 
+(160–163). In addition, no change in cog­
+nitive function has been reported in stud­
+ies with the addition of ezetimibe (112) 
+or PCSK9 monoclonal antibodies (115,164) 
+to statin therapy, including among individ­
+uals treated to very low LDL cholesterol 
+levels. In addition, systematic reviews of 
+randomized controlled trials and prospec­
+tive cohort studies evaluating cognition in 
+individuals receiving statins found that 
+published data do not reveal an adverse 
+effect of statins on cognition (165,166). 
+Therefore, a concern that statins or other 
+lipid-lowering agents might cause cogni­
+tive dysfunction or dementia is not cur­
+rently supported by evidence and should 
+not deter their use in individuals with dia­
+betes at high risk for ASCVD (167).
+ANTIPLATELET AGENTS
+Recommendations
+10.33 Use aspirin therapy (75–162 mg/day) 
+as a secondary prevention strategy in 
+those with diabetes and a history of 
+ASCVD. A
+10.34a For individuals with ASCVD 
+and documented aspirin allergy, clopi­
+dogrel (75 mg/day) should be used. B
+10.34b The length of treatment 
+with dual antiplatelet therapy using 
+low-dose aspirin and a P2Y12 inhibi­
+tor in individuals with diabetes after 
+an acute coronary syndrome, acute 
+ischemic stroke, or transient ischemic 
+attack should be determined by an 
+interprofessional team approach that 
+includes a cardiovascular or neurolog­
+ical specialist, respectively. E
+10.35 Combination therapy with 81 mg 
+aspirin daily plus 2.5 mg rivaroxa­
+ban twice daily should be considered 
+for individuals with stable coronary 
+and/or peripheral artery disease (PAD) 
+and low bleeding risk to prevent ma­
+jor adverse limb and cardiovascular 
+events. A
+10.36 Aspirin therapy (75–162 mg/day) 
+may be considered as a primary pre­
+vention strategy in those with diabetes 
+who are at increased cardiovascular 
+risk after a comprehensive discussion 
+with the individual on the benefits 
+versus the comparable increased risk 
+of bleeding. A
+Risk Reduction
+Aspirin has been shown to be effective 
+in reducing cardiovascular morbidity and 
+mortality in high-risk individuals with pre­
+vious MI or stroke (secondary prevention) 
+and is strongly recommended. In primary 
+prevention, however, among individuals 
+with no previous cardiovascular events, its 
+net benefit is more controversial (156,168).
+Previous randomized controlled trials of 
+aspirin, specifically in people with diabetes, 
+failed to consistently show a significant re­
+duction in overall ASCVD end points, raising 
+questions about the efficacy of aspirin for 
+primary prevention in people with diabe­
+tes, although some sex differences were 
+suggested (169–171).
+The Antithrombotic Trialists’ Collabora­
+tion published an individual participant–
+level meta-analysis (172) of six large trials 
+of aspirin for primary prevention in the 
+general population. These trials collec­
+tively enrolled over 95,000 participants, 
+including almost 4,000 with diabetes. Over­
+all, they found that aspirin reduced the risk 
+of serious vascular events by 12% (relative 
+risk 0.88 [95% CI 0.82–0.94]). The largest 
+reduction was for nonfatal MI, with little 
+effect on CHD death (relative risk 0.95 
+[95% CI 0.78–1.15]) or total stroke.
+Most recently, the ASCEND (A Study of 
+Cardiovascular Events iN Diabetes) trial 
+randomized 15,480 people with diabetes 
+but no evident CVD to aspirin 100 mg 
+daily or placebo (173). The primary effi­
+cacy end point was vascular death, MI, 
+stroke, or transient ischemic attack. The 
+primary safety outcome was major bleeding 
+(i.e., intracranial hemorrhage, sight- 
+threatening bleeding in the eye, gastroin­
+testinal bleeding, or other serious bleed­
+ing). During a mean follow-up of 7.4 years, 
+there was a significant 12% reduction in 
+the primary efficacy end point (8.5% vs. 
+9.6%; P = 0.01). In contrast, major bleeding 
+was significantly increased from 3.2 to 
+4.1% in the aspirin group (rate ratio 1.29; 
+P = 0.003), with most of the excess being 
+gastrointestinal bleeding and other extra­
+cranial bleeding. There were no significant 
+differences by sex, weight, or duration of 
+diabetes or other baseline factors, includ­
+ing ASCVD risk score.
+Two other large, randomized trials of 
+aspirin for primary prevention, in people 
+without diabetes (ARRIVE [Aspirin to Re­
+duce Risk of Initial Vascular Events]) (174) 
+and in the elderly (ASPREE [Aspirin in Re­
+ducing Events in the Elderly]) (175), in 
+which 11% of participants had diabetes, 
+found no benefit of aspirin on the pri­
+mary efficacy end point and an increased 
+risk of bleeding. In ARRIVE, with 12,546 
+individuals over a period of 60 months of 
+follow-up, the primary end point occurred 
+in 4.29% vs. 4.48% of individuals in the 
+aspirin versus placebo groups (HR 0.96 
+[95% CI 0.81–1.13]; P = 0.60). Gastroin­
+testinal bleeding events (characterized as 
+mild) occurred in 0.97% of individuals in 
+the aspirin group vs. 0.46% in the placebo 
+group (HR 2.11 [95% CI 1.36–3.28]; P = 
+0.0007). In ASPREE, which included 19,114 
+individuals, for CVD (fatal CHD, MI, stroke, 
+or hospitalization for heart failure) after a 
+median of 4.7 years of follow-up, the rates 
+per 1,000 person-years were 10.7 vs. 11.3 
+events in aspirin vs. placebo groups (HR 
+0.95 [95% CI 0.83–1.08]). The rate of major 
+hemorrhage per 1,000 person-years was 
+8.6 events versus 6.2 events, respectively 
+(HR 1.38 [95% CI 1.18–1.62]; P < 0.001).
+Thus, aspirin appears to have a modest 
+effect on ischemic vascular events, with 
+the absolute decrease in events depend­
+ing on the underlying ASCVD risk. The 
+main adverse effect is an increased risk of 
+gastrointestinal bleeding. The excess risk 
+may be as high as 5 per 1,000 per year in 
+real-world settings. However, for adults 
+with ASCVD risk >1% per year, the num­
+ber of ASCVD events prevented will be 
+similar to the number of episodes of 
+bleeding induced, although these compli­
+cations do not have equal effects on long- 
+term health (176).
+Recommendations for using aspirin as 
+primary prevention include both men 
+and women aged ≥50 years with diabe­
+tes and at least one additional major risk 
+factor (hypertension, dyslipidemia, smok­
+ing, obesity, or CKD) who are not at in­
+creased risk of bleeding (e.g., older age, 
+anemia, or kidney disease) (177–180). 
+Noninvasive imaging techniques such as 
+coronary calcium scoring may help fur­
+ther tailor aspirin therapy, particularly in 
+those at low risk (181,182). For people 
+>70 years of age (with or without diabe­
+tes), the balance appears to have greater 
+risk than benefit (173,175). Thus, for pri­
+mary prevention, the use of aspirin needs 
+to be carefully considered and generally 
+may not be recommended. Aspirin may 
+be considered in the context of high car­
+diovascular risk with low bleeding risk 
+but generally not in older adults. Aspi­
+rin therapy for primary prevention may 
+be considered in the context of shared 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S229 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

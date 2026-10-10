@@ -1,0 +1,99 @@
+
+STEP 13B — SCIENTIFIC CALIBRATION OF FUZZY MEMBERSHIP FUNCTIONS
+
+Baseline: DQ
+
+REF used in fuzzy:
+FALSE
+
+TEST accessed:
+FALSE
+
+New model:
+FALSE
+
+New SHAP:
+FALSE
+
+Fuzzy inference:
+FALSE
+
+Recommendation:
+FALSE
+
+Action values used for calibration:
+FALSE
+
+
+CALIBRATION PRINCIPLES
+----------------------
+
+PERFORMANCE
+Metric:
+Delta_BalancedAccuracy_vs_DQ
+
+Natural anchor:
+0 = no predictive change
+
+Principle:
+practical equivalence around zero
+
+
+EXPLANATION SHIFT
+Metric:
+Abs_Delta_Age_SHAP_vs_DQ
+
+Natural anchor:
+0 = no explanation change
+
+Principle:
+magnitude of explanation change
+
+
+STABILITY
+Metric:
+Stability_Cosine_Mean
+
+Natural anchor:
+1 = perfect explanation stability
+
+Principle:
+perturbation-based explanation reliability
+
+
+COVERAGE
+Metric:
+Coverage
+
+Natural anchor:
+1 = complete data retention
+
+Principle:
+operational data retention
+
+
+FREEZE POLICY
+-------------
+
+A membership function cannot be frozen unless:
+
+1. its numerical parameters are defined;
+2. its shape is mathematically valid;
+3. its scientific rationale is documented;
+4. its reference is documented;
+5. its sensitivity protocol is defined;
+6. its calibration is independent of the
+   DOC/MEDIAN/KNN/ITERATIVE observed values.
+
+
+CURRENT STATUS
+--------------
+
+Membership parameters:
+NOT YET FROZEN
+
+Fuzzy inference:
+NOT AUTHORIZED
+
+STATUS:
+PASS_CALIBRATION_STRUCTURE_ONLY

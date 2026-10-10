@@ -1,0 +1,13 @@
+﻿feature,has_document_knowledge,has_statistical_profile,has_statistical_observation,has_statistical_condition,n_document_knowledge,n_statistical_observations,n_statistical_conditions
+cost_emergency_tm1,True,True,True,True,45,2,1
+cost_home_health_tm1,True,True,True,True,45,2,1
+cost_ip_medical_tm1,True,True,True,True,45,2,1
+cost_laboratory_tm1,True,True,True,True,45,3,2
+cost_op_specialists_tm1,True,True,True,True,45,2,1
+cost_op_surgery_tm1,True,True,True,True,45,2,1
+cost_other_tm1,True,True,True,True,42,2,1
+cost_pharmacy_tm1,True,True,True,True,46,3,3
+cre_tests_tm1,True,True,True,True,10,2,1
+dem_age_band_65-74_tm1,False,True,True,False,0,1,0
+dem_age_band_75+_tm1,False,True,True,False,0,1,0
+gagne_sum_tm1,False,True,True,True,0,2,1

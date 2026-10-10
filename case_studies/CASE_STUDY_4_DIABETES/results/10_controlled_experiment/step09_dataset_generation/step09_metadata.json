@@ -1,0 +1,78 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_09_CONTROLLED_DQ_AND_ACTIONS",
+  "feature": "Age",
+  "dq_problem": "MISSING_VALUE",
+  "missingness_mechanism": "MCAR",
+  "missing_rate_target": 0.1,
+  "random_state": 42,
+  "split_source": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\01_reference\\step02_split_assignment.csv",
+  "split_label_normalization": {
+    "VALIDATION": "VAL"
+  },
+  "split_regenerated": false,
+  "injection_scope": [
+    "TRAIN",
+    "VAL"
+  ],
+  "test_injection": false,
+  "train_missing_injected": 46,
+  "val_missing_injected": 15,
+  "total_missing_injected": 61,
+  "same_missingness_mask_for_actions": true,
+  "median_train_value": 30.0,
+  "knn_parameters": {
+    "n_neighbors": 5,
+    "weights": "uniform"
+  },
+  "iterative_parameters": {
+    "max_iter": 10,
+    "random_state": 42,
+    "initial_strategy": "median",
+    "sample_posterior": false
+  },
+  "target_used_for_imputation": false,
+  "rules_fired": [
+    "R_DOC_001",
+    "R_STAT_001",
+    "R_STAT_002",
+    "R_STAT_003"
+  ],
+  "actions_applied": [
+    "EXCLUDE_FROM_ANALYSIS",
+    "IMPUTE_MEDIAN",
+    "IMPUTE_KNN",
+    "IMPUTE_ITERATIVE"
+  ],
+  "coverage_doc_train_val": 0.9006514657980456,
+  "datasets": {
+    "REF": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_REF_EXPERIMENT.csv",
+      "sha256": "f8ee27d760ebd13363fa0de7c134cd65527f3f6db3a32234a91edf60bdd5d65d"
+    },
+    "DQ": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_DQ.csv",
+      "sha256": "8f721d808d311c659bfe6a41df684c72cd9b92c35de8ebe23714a56c379027cf"
+    },
+    "DOC": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_DOC.csv",
+      "sha256": "66942ee6f90c31409adb8cf1be5b7879a101909ae2473c06615d979ebb76aaf0"
+    },
+    "MEDIAN": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_MEDIAN.csv",
+      "sha256": "8d70916b15916027715c45c062cbcd493959d590d15db86bf2da8c7a82479615"
+    },
+    "KNN": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_KNN.csv",
+      "sha256": "8f1447b9ab44eb2923fa717e6cfb44f16ae25cc3934c3b8e8bc762885a0474b0"
+    },
+    "ITERATIVE": {
+      "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\experimental\\Dataset_ITERATIVE.csv",
+      "sha256": "2bf0af98580ed92913e6c7a15d17550117b9db51adfc9da11f3a1071c4fd274f"
+    }
+  },
+  "predictive_model_trained": false,
+  "xai_computed": false,
+  "test_modified": false,
+  "created_utc": "2026-09-28T17:10:15.490928+00:00"
+}

@@ -1,0 +1,9 @@
+﻿document_id,document_name,relative_path,n_pages,sha256
+DOC_001,Cardiovascular Disease.pdf,knowledge\documents\official_clinical\Cardiovascular Disease.pdf,30,016c1012a4c04ce318bc85438731cab7292189573cc0e86fdd3159f39cc789be
+DOC_002,guidance-on-global-monitoring-for-diabetes.pdf,knowledge\documents\official_clinical\guidance-on-global-monitoring-for-diabetes.pdf,94,53eed6bf50d31a7bbc5a96d7f1e34bc5efbc9405d39afc32128a0390ba9cb1f5
+DOC_003,steps-manual.pdf,knowledge\documents\official_clinical\steps-manual.pdf,489,13862afbca091940e5154cf63b714ec39039641e75125493b57e7a6aaaee2dd8
+DOC_004,Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS).pdf,knowledge\documents\official_clinical\Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS).pdf,12,cdaa7b3a9d127613bac7f8df14daea3725371ff531dfce164c17d13f5b5ebdbf
+DOC_005,WHO TECHNICAL blood.pdf,knowledge\documents\official_clinical\WHO TECHNICAL blood.pdf,72,33ab60db98b392f77a56243230b821176572dbdc07568547270d16eacd79f34b
+DOC_006,WHO-NMH-NVI-18.2-eng.pdf,knowledge\documents\official_clinical\WHO-NMH-NVI-18.2-eng.pdf,43,c3f4d4f6d6309a0ad629621225b4f7152929fcdb4a9a302676bc6d5b97e4104b
+DOC_007,WHO-NMH-NVI-19.8-eng.pdf,knowledge\documents\official_clinical\WHO-NMH-NVI-19.8-eng.pdf,12,4b0f4729628863dafb958903e2f5821d58e689785cf2875bd9eab2d290a30f50
+DOC_008,WHO-UCN-NCD-20.1-eng.pdf,knowledge\documents\official_clinical\WHO-UCN-NCD-20.1-eng.pdf,35,71b216b19a227e73e0e624274974571a3530e30a0db37a3d10b6d179eefac008

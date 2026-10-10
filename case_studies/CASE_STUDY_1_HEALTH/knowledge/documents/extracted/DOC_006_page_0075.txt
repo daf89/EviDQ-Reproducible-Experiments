@@ -1,0 +1,31 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+Importantdataconsiderations forfinding andusingEHRdata usethe terminologyframeworkintroducedin 
+Section 2(USCDI 3.0), but rememberthat differentEHRsmayhave unique ways of naming andorganizing 
+the same information. 
+EHR Use Case 1: Reporting Clinical Quality Metrics from an EHR 
+Obtaining and using clinical performance data is a core function of practice facilitation and health IT 
+advising. Extracting performance data from an EHR can be done in many ways (see Section 2), but the 
+built-in quality measures provided in an EHR are a good place to start when custom measures are not 
+required. 
+The need for EHRs to generate standardizedCQMs has beenpart of federalEHR incentive programs 
+beginning with the original Meaningful Use objectives released in 2009. The current Quality Payment 
+Program(QPP) under MIPS attributes 30% of a provider or group’s overall performance score basedon a 
+peer comparison of specific quality measures.[66] 
+While the Medicare programs have had the most influence on what measures a given EHR vendor will 
+provide, Health IT Advisors will quickly find there is a vast selection of CQMs to choose from (also see 
+Section 8) and not all will be found in a clinic’s EHR; Section 7 discusses alternatives to the EHR. 
+Finding CQMs provided by a specific EHR 
+Most clinics report at least some quality data to incentive programs [MIPS, Comprehensive Primary Care 
+Plus (CPC+)]or payers using EHR-generatedCQMs. CMSmaintains a searchable library of current eCQMs 
+along with detailedspecifications and logic diagrams. 
+Vendors must completea certificationprocessforanyCQMstheircustomerswillsubmittoCMSthroughthe 
+MIPSQualityPerformanceProgram. HealthIT Advisorscantake advantage ofthis requirementbysearching 
+the ONC’s CertifiedHealthITProductList(CHPL) for any certified EHRby vendor and version. 
+Accessing EHR CQM reports and dashboards 
+Finding an EHR’s CQM reporting module may require some searching. Most vendors will provide a 
+special dashboard, subsystem, or third-party registry to access CQMs used for MIPS and other quality 
+incentive programs [CPC+, HEDIS (Healthcare Effectiveness Data andInformationSet), UDS]. Exhibit 33 
+shows a typical dashboard for measures used by the Medicare value-based payment program for ACOs. 
+Health IT Advisor Handbook 
+Page 70

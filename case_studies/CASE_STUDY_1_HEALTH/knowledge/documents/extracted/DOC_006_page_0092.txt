@@ -1,0 +1,35 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+Exhibit 40: Numerator Quality Data Codes Options for the AMD Measure 
+Takeaway: Whether or not a practice is using claims data for QI, it is likely their payers are doing so. 
+Health IT Advisors equipped with an understanding of the mechanisms used in existing programs such as 
+HEDISand MIPS canoffer educationalresources and guidance on proactive engagement withpayers on 
+value-based care initiatives.[91] 
+Facilitating Claims-Based QI Projects 
+Claims-based performance feedback can provide valuable opportunities for QI, but leveraging claims 
+data effectively in QI candemand significant time and resource investments.[92] Designing an 
+appropriately scoped project depends on assessing questions such as:[92] 
+• 
+What quality performance metrics are most important to our practice/payers? 
+• 
+Can the data needed to measure performance be collected on claims? 
+• 
+Are these data collected reliably and consistently? If not, what changes are required to do so? 
+• 
+Are these data available internally? If not, are external data accessible (e.g., provided by 
+payers)? 
+• 
+In what format and by what means can we retrieve claims data? 
+• 
+Do we have the technical expertise to organize and analyze claims data? 
+• 
+How will our practice use these data for continuous improvement? 
+• 
+Is the project focused at the population or individual level? 
+Health IT Advisors should connect with the claims/coding specialist at the clinic, as possible, before 
+trying to answer the above questions on their own. Health IT Advisors with an understanding of the 
+limitations and potentialuses of claims data can more effectively support practices seeking toanswer 
+these questions and use the answers to implement successful QI initiatives. 
+Health IT Advisor Handbook 
+Page 87

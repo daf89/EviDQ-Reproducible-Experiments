@@ -1,0 +1,82 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Exhibit 16: Data Considerations for 23 Key EHR Workflows 
+EHR Workflow 
+Data Considerations 
+Recording patient 
+demographics 
+• 
+Are key patient demographics (age, gender, language, race, 
+ethnicity, etc.) recorded consistently and using a standard 
+vocabulary? 
+Recording vital signs 
+• 
+Do providers and staff consistently record blood pressure and 
+other vital signs; especially when repeat values or alternate 
+postures are used (sitting, standing, supine BP readings)? 
+Maintaining an up-to-date 
+problem list 
+• 
+Are clinicians diligent about maintaining a current problem list by 
+adding, updating, or removing codes when indicated? 
+• 
+Is the problem list a reliable source for assessing current and 
+historical acute or chronic conditions? 
+• 
+Does the problem list use a standard vocabulary for documented 
+diagnoses [international classification of diseases (ICD), 
+systematized nomenclature of medicine (SNOMED)]? 
+Maintaining an active 
+• 
+Who in the clinic is responsible for their routine medication 
+medication list 
+reconciliation process to ensure medications are current in the 
+EHR? 
+• 
+Are medications mapped to standard drug codes [national drug 
+code (NDC), RxNorm] or can free text or custom 
+medications/supplements be prescribed? 
+• 
+Is there a consistent process for electronically prescribing 
+medications including: phone orders, refill requests, and controlled 
+substances? 
+• 
+Are paper prescriptions ever used? 
+Maintaining an active allergy 
+list 
+• 
+Are patient allergies for food or drugs consistently recorded using 
+a standard vocabulary? 
+Recording smoking status 
+[and other health screening 
+assessments] 
+• 
+When and how are screening questions for health risk (smoking), 
+preventive care (depression screening), behavior (alcohol use) and 
+social needs recorded in the EHR? 
+• 
+Are individual questions from health screening assessments 
+captured in the EHR as structured data versus scanning a 
+questionnaire? 
+• 
+Are billing codes used to determine when screening services are 
+delivered or may be overdue? 
+Providing patients with 
+• 
+Can patient summaries produced by the EHR provide context or 
+clinical summaries for each 
+detailed data to patients for a QI intervention? 
+office visit 
+• 
+Can paper or electronic care summaries deliver education or self-
+care interventions? 
+• 
+Do patients have full access to office notes online? 
+E-prescribing 
+• 
+Are medications mapped to standard drug codes (NDC, RxNorm)? 
+• 
+Can free text or custom medications/supplements be prescribed? 
+Health IT Advisor Handbook 
+Page 32

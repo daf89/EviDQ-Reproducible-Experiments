@@ -1,0 +1,58 @@
+45
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Éléments d’évaluation
+ Patient 
+• Le patient a reçu toutes les informations utiles en amont 
+de son hospitalisation : horaire d’arrivée, rappel des 
+consignes préopératoires ou préthérapeutiques, éléments 
+administratifs...
+• Le patient a reçu un livret d’accueil à son arrivée.
+• Le patient connaît les mesures nécessaires à sa bonne 
+identification régulière tout au long de sa prise en charge.
+• Le patient sait que son équipe de soin va alimenter et 
+pourra consulter son dossier médical de Mon espace 
+santé (DMP) dans le cadre de sa prise en charge sauf 
+en cas d’opposition de celui-ci.
+• Le patient sait qu'il ne doit pas échanger avec l'équipe 
+médicale via une messagerie non sécurisée.
+ Professionnels 
+• L’équipe a remis au patient toutes les informations utiles : 
+en amont de son hospitalisation : horaire d’arrivée, rappel 
+des consignes préopératoires ou préthérapeutiques, 
+éléments administratifs…
+Patient traceur
+Critère 1.1-18 Le patient reçoit une information claire 
+et adaptée à son degré de discernement sur les 
+modalités de sa prise en charge
+En complément de l’information sur son état de santé, ses traitements, ses soins, l’information sur la 
+préparation du séjour ou les conditions de sa mise en œuvre est tout aussi nécessaire. L’ouverture de 
+Mon espace santé pour tous donnant la possibilité de disposer du dossier médical de Mon espace santé 
+(DMP) consultable à tout moment par les personnes habilitées et l’indispensable besoin de protéger les 
+données de santé appellent des informations à partager avec le patient. Le livret d’accueil intègre les 
+attendus réglementaires et précise que pour toute question relative à la protection des données ou en cas 
+de difficulté sur l’exercice de ses droits, le patient peut contacter le délégué à la protection des données 
+(DPO) de son établissement de santé.
+ Tout l’établissement Standard 
+Fiches pédagogiques 
+Évaluation de l’accès aux données de 
+santé : dossier patient & « Mon espace 
+santé ».
+Évaluation de la gestion des risques 
+numériques dans les pratiques de soins.
+Références légales 
+et réglementaires
+• Art. L. 1111-1 à L. 1111-9 du CSP, 
+information des usagers du système de 
+santé et expression de leur volonté
+• Art. L. 1112-1 à L. 1112-6 du CSP.
+• Arrêté du 15 avril 2008 relatif au contenu 
+du livret d’accueil des établissements de 
+santé.

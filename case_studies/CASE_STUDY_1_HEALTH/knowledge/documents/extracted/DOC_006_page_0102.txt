@@ -1,0 +1,19 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+Finally, you should include a benchmark or target performance rate if it is relevant. 
+“This compares with the project goal of 60% over the same time period.” 
+Option 2: Presenting CQM data in a table 
+Using text to summarize complex data rapidly becomes cumbersome for both the author and the 
+reader. A second option uses a simple data table to present CQM data like the one shown below. 
+Exhibit 46: Simple Example of a Data Table Showing CQM Performance 
+Tables are easy to create and allow for some visual flourishes to aid the viewer like ranking the data, 
+color coding, and even links to the raw data files (be careful that these links do not expose PHI). 
+Option 3: Using graphs and other data visualizations 
+Graphs and other data visualizations are often the best way to present CQM data when you want to 
+highlight change over time, differences between groups, or comparison to a benchmark or target 
+performance rate. 
+The most basic visualization for CQM data is the classic run chart, showing performance over time. 
+Exhibit 47 shows a generic example of a run chart. Note that the timing of specific interventions is 
+highlighted on the timescale showing a possible relationship to improved performance. 
+Health IT Advisor Handbook 
+Page 97

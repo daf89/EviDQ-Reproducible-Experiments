@@ -1,0 +1,12 @@
+document_id,document_name,document_sha256,pages,pages_with_text,pages_without_text,extracted_characters,chunks
+DOC_001,"Anemia - Diagnosis _ NHLBI, NIH.pdf",5ec81f4d4d5347285216f5c2fa525617da1e5973723dcb401b1713a19a865027,3,3,0,5322,5
+DOC_002,dc26s002.pdf,f962a225bd8ba1dd5daf0635e67c877916420cac0125f2c0ba29c9b75d1f4f44,23,23,0,160385,116
+DOC_003,ehae178.pdf,f4be06f8f72ccd6782afd0b4d36cf564a47e35459ea64b4cac25a4edb246ebdc,107,107,0,712766,514
+DOC_004,ehr-data-assessment-worksheet.pdf,2638dd0b88f3604d4d49d1cb00e81a395a1be88f511a1163a3e398ebc2deeb03,1,1,0,1134,1
+DOC_005,Has 2024 santé.pdf,9917b8d29f53701ef90a3bae0e6c161b2019fa3402245a8f152f318824e3e2ad,327,327,0,769504,615
+DOC_006,healthit-advisor-handbook.pdf,e72c916fbf7efb996d887d6a80cf62c0882e13328775eafdcf881ecab887af29,153,153,0,384212,305
+DOC_007,KDIGO-2024-CKD-Guideline.pdf,b18db280f7dc889a1a99447b779c0312cd536f939a5180b38894a5d68e4410c0,199,199,0,979339,719
+DOC_008,LDL and HDL Cholesterol and Triglycerides _ Cholesterol _ CDC.pdf,17b61e76519891d1c7781b48eed19f1009d78b3f359cbfb115084f3470c68ad7,3,3,0,3685,3
+DOC_009,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,d85381e6c95ad9fee74ac8d4e93932cf5c80e8b643680370d72f1a0f85cb63d1,40,40,0,123957,102
+DOC_010,mr19.pdf,293e5591997c5571c7d7443593d4ae913edfc1274d284f07c29cd840fb554e82,13,13,0,30915,24
+DOC_011,mr32.pdf,4e8c7b41ee40f93d94228ea7e0b4d316c42af56c72d7cf5b4599b4cf3e8cfb47,25,25,0,52147,44

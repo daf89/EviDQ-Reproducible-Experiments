@@ -1,0 +1,20 @@
+item,value
+Global phase,2/5 - KNOWLEDGE
+Dataset_REF valid,True
+Dataset unchanged,True
+Prediction-relevant features,12
+Official PDF documents,11
+PDF pages,894
+Pages with extractable text,894
+Pages without extractable text,0
+Document chunks,2448
+Duplicate chunk IDs,0
+Empty chunks,0
+Extraction failures,0
+Semantic retrieval performed,False
+Feature-chunk relevance decided,False
+Knowledge extracted,False
+Knowledge Base created,False
+Candidate corrections created,False
+Errors injected,False
+Corrections applied,False

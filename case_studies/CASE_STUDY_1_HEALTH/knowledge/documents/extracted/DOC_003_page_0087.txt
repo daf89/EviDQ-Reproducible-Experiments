@@ -1,0 +1,155 @@
+139. Leening MJ, Ferket BS, Steyerberg EW, Kavousi M, Deckers JW, Nieboer D, et al. Sex dif-
+ferences in lifetime risk and first manifestation of cardiovascular disease: prospective 
+population based cohort study. BMJ 2014;349:g5992. https://doi.org/10.1136/bmj.g5992 
+140. Ference BA, Bhatt DL, Catapano AL, Packard CJ, Graham I, Kaptoge S, et al. 
+Association of genetic variants related to combined exposure to lower low-density li-
+poproteins and lower systolic blood pressure with lifetime risk of cardiovascular dis-
+ease. JAMA 2019;322:1381–91. https://doi.org/10.1001/jama.2019.14120 
+141. Kannel WB. Risk stratification in hypertension: new insights from the Framingham 
+study. Am J Hypertens 2000;13:S3–10. https://doi.org/10.1016/s0895-7061(99)00252-6 
+142. Weycker D, Nichols GA, O’Keeffe-Rosetti M, Edelsberg J, Khan Z, Kaura S, et al. 
+Risk-factor clustering and cardiovascular disease risk in hypertensive patients. Am J 
+Hypertens 2007;20:599–607. https://doi.org/10.1016/j.amjhyper.2006.10.013 
+143. Constanti M, Floyd CN, Glover M, Boffa R, Wierzbicki AS, McManus RJ. 
+Cost-effectiveness of initiating pharmacological treatment in stage one hypertension 
+based on 10-year cardiovascular disease risk: a Markov modeling study. Hypertension 
+2021;77:682–91. https://doi.org/10.1161/hypertensionaha.120.14913 
+144. Forouzanfar MH, Liu P, Roth GA, Ng M, Biryukov S, Marczak L, et al. Global burden of 
+hypertension and systolic blood pressure of at least 110 to 115 mm Hg, 1990–2015. 
+JAMA 2017;317:165–82. https://doi.org/10.1001/jama.2016.19043 
+145. Karmali KN, Ning H, Goff DC, Lloyd-Jones DM. Identifying individuals at risk for car-
+diovascular events across the spectrum of blood pressure levels. J Am Heart Assoc 
+2015;4:e002126. https://doi.org/10.1161/jaha.115.002126 
+146. Liu J, Li Y, Ge J, Yan X, Zhang H, Zheng X, et al. Lowering systolic blood pressure to 
+less than 120 mm Hg versus less than 140 mm Hg in patients with high cardiovascular 
+risk with and without diabetes or previous stroke: an open-label, blinded-outcome, 
+randomised trial. Lancet 2024;404:245–55. https://doi.org/10.1016/S0140-6736(24) 
+01028-6 
+147. Wilson PW, D’Agostino RB, Levy D, Belanger AM, Silbershatz H, Kannel WB. 
+Prediction of coronary heart disease using risk factor categories. Circulation 1998; 
+97:1837–47. https://doi.org/10.1161/01.cir.97.18.1837 
+148. Sussman J, Vijan S, Hayward R. Using benefit-based tailored treatment to improve the 
+use of antihypertensive medications. Circulation 2013;128:2309–17. https://doi.org/10. 
+1161/circulationaha.113.002290 
+149. Karmali KN, Lloyd-Jones DM, van der Leeuw J, Goff DC, Yusuf S, Zanchetti A, et al. 
+Blood pressure-lowering treatment strategies based on cardiovascular risk versus 
+blood pressure: a meta-analysis of individual participant data. PLoS Med 2018;15: 
+e1002538. https://doi.org/10.1371/journal.pmed.1002538 
+150. Gaziano TA, Steyn K, Cohen DJ, Weinstein MC, Opie LH. Cost-effectiveness analysis 
+of hypertension guidelines in South Africa: absolute risk versus blood pressure level. 
+Circulation 2005;112:3569–76. https://doi.org/10.1161/circulationaha.105.535922 
+151. Basu S, Sussman JB, Hayward RA. Black-white cardiovascular disease disparities 
+after target-based versus personalized benefit-based lipid and blood pressure 
+treatment. MDM Policy Pract 2017;2:2381468317725741. https://doi.org/10. 
+1177/2381468317725741 
+152. Go AS, Chertow GM, Fan D, McCulloch CE, Hsu CY. Chronic kidney disease and the 
+risks of death, cardiovascular events, and hospitalization. N Engl J Med 2004;351: 
+1296–305. https://doi.org/10.1056/NEJMoa041031 
+153. Klooster CCV, Bhatt DL, Steg PG, Massaro JM, Dorresteijn JAN, Westerink J, et al. 
+Predicting 10-year risk of recurrent cardiovascular events andcardiovascular interven-
+tions in patients with established cardiovascular disease: results from UCC-SMART 
+and REACH. Int J Cardiol 2021;325:140–8. https://doi.org/10.1016/j.ijcard.2020.09.053 
+154. Kaasenbrood L, Boekholdt SM, van der Graaf Y, Ray KK, Peters RJG, Kastelein JJP, et al. 
+Distribution of estimated 10-year risk of recurrent vascular events and residual risk in a 
+secondary prevention population. Circulation 2016;134:1419–29. https://doi.org/10. 
+1161/circulationaha.116.021314 
+155. Eisen A, Bhatt DL, Steg PG, Eagle KA, Goto S, Guo J, et al. Angina and future cardio-
+vascular events in stable patients with coronary artery disease: insights from the 
+Reduction of Atherothrombosis for Continued Health (REACH) registry. J Am 
+Heart Assoc 2016;5:e004080. https://doi.org/10.1161/jaha.116.004080 
+156. Taylor CJ, Roalfe AK, Iles R, Hobbs FD. Ten-year prognosis of heart failure in the com-
+munity: follow-up data from the Echocardiographic Heart of England Screening 
+(ECHOES) study. Eur J Heart Fail 2012;14:176–84. https://doi.org/10.1093/eurjhf/hfr170 
+157. Shah KS, Xu H, Matsouaka RA, Bhatt DL, Heidenreich PA, Hernandez AF, et al. Heart 
+failure with preserved, borderline, and reduced ejection fraction: 5–year outcomes. 
+J Am Coll Cardiol 2017;70:2476–86. https://doi.org/10.1016/j.jacc.2017.08.074 
+158. Benjamin EJ, Wolf PA, D’Agostino RB, Silbershatz H, Kannel WB, Levy D. Impact of 
+atrial fibrillation on the risk of death: the Framingham heart study. Circulation 1998; 
+98:946–52. https://doi.org/10.1161/01.cir.98.10.946 
+159. Pandey A, Patel KV, Vongpatanasin W, Ayers C, Berry JD, Mentz RJ, et al. Incorporation 
+of biomarkers into risk assessment for allocation of antihypertensive medication ac-
+cording to the 2017 ACC/AHA high blood pressure guideline: a pooled cohort analysis. 
+Circulation 2019;140:2076–88. https://doi.org/10.1161/circulationaha.119.043337 
+160. Mulnier HE, Seaman HE, Raleigh VS, Soedamah-Muthu SS, Colhoun HM, Lawrenson 
+RA, et al. Risk of myocardial infarction in men and women with type 2 diabetes in 
+the UK: a cohort study using the general practice research database. Diabetologia 
+2008;51:1639–45. https://doi.org/10.1007/s00125-008-1076-y 
+161. Soedamah-Muthu SS, Fuller JH, Mulnier HE, Raleigh VS, Lawrenson RA, Colhoun HM. 
+High risk of cardiovascular disease in patients with type 1 diabetes in the U.K.: a cohort 
+study using the general practice research database. Diabetes Care 2006;29:798–804. 
+https://doi.org/10.2337/diacare.29.04.06.dc05-1433 
+162. Wong ND, Glovaci D, Wong K, Malik S, Franklin SS, Wygant G, et al. Global cardio-
+vascular disease risk assessment in United States adults with diabetes. Diab Vasc Dis 
+Res 2012;9:146–52. https://doi.org/10.1177/1479164112436403 
+163. Paquette M, Bernard S, Cariou B, Hegele RA, Genest J, Trinder M, et al. Familial 
+hypercholesterolemia-risk-score: a new score predicting cardiovascular events and 
+cardiovascular mortality in familial hypercholesterolemia. Arterioscler Thromb Vasc 
+Biol 2021;41:2632–40. https://doi.org/10.1161/atvbaha.121.316106 
+164. SCORE2-Diabetes Working Group and the ESC Cardiovascular Risk Collaboration. 
+SCORE2-Diabetes: 10-year cardiovascular risk estimation in type 2 diabetes 
+in Europe. Eur Heart J 2023;44:2544–56. https://doi.org/10.1093/eurheartj/ 
+ehad260 
+165. SCORE Working Group and the ESC Cardiovascular Risk Collaboration. SCORE2 risk 
+prediction algorithms: new models to estimate 10-year risk of cardiovascular disease in 
+Europe. Eur Heart J 2021;42:2439–54. https://doi.org/10.1093/eurheartj/ehab309 
+166. SCORE OP working group and ESC Cardiovascular Risk Collaboration. SCORE2-OP 
+risk prediction algorithms: estimating incident cardiovascular event risk in older per-
+sons in four geographical risk regions. Eur Heart J 2021;42:2455–67. https://doi.org/ 
+10.1093/eurheartj/ehab312 
+167. Pignone M, Phillips CJ, Elasy TA, Fernandez A. Physicians’ ability to predict the risk of 
+coronary heart disease. BMC Health Serv Res 2003;3:13. https://doi.org/10.1186/1472- 
+6963-3-13 
+168. Grover SA, Lowensteyn I, Esrey KL, Steinert Y, Joseph L, Abrahamowicz M. Do doc-
+tors accurately assess coronary risk in their patients? Preliminary results of the coron-
+ary health assessment study. BMJ 1995;310:975–8. https://doi.org/10.1136/bmj.310. 
+6985.975 
+169. Friedmann PD, Brett AS, Mayo-Smith MF. Differences in generalists’ and cardiologists’ 
+perceptions of cardiovascular risk and the outcomes of preventive therapy in cardio-
+vascular disease. Ann Intern Med 1996;124:414–21. https://doi.org/10.7326/0003- 
+4819-124-4-199602150-00005 
+170. Visseren FLJ, Mach F, Smulders YM, Carballo D, Koskinas KC, Bäck M, et al. ESC guide-
+lines on cardiovascular disease prevention in clinical practice. Eur Heart J 2021;42: 
+3227–337. https://doi.org/10.1093/eurheartj/ehab484 
+171. Xie X, Atkins E, Lv J, Bennett A, Neal B, Ninomiya T, et al. Effects of intensive blood 
+pressure lowering on cardiovascular and renal outcomes: updated systematic review 
+and meta-analysis. Lancet 2016;387:435–43. https://doi.org/10.1016/s0140-6736(15) 
+00805-3 
+172. Herrett E, Gadd S, Jackson R, Bhaskaran K, Williamson E, van Staa T, et al. Eligibility and 
+subsequent burden of cardiovascular disease of four strategies for blood pressure- 
+lowering treatment: a retrospective cohort study. Lancet 2019;394:663–71. https:// 
+doi.org/10.1016/s0140-6736(19)31359-5 
+173. Matsushita K, Kaptoge S, Hageman SHJ, Sang Y, Ballew SH, Grams ME, et al. Including 
+measures of chronic kidney disease to improve cardiovascular risk prediction by 
+SCORE2 and SCORE2-OP. Eur J Prev Cardiol 2023;30:8–16. https://doi.org/10.1093/ 
+eurjpc/zwac176 
+174. Gerdts E, Sudano I, Brouwers S, Borghi C, Bruno RM, Ceconi C, et al. Sex differences in 
+arterial hypertension. Eur Heart J 2022;43:4777–88. https://doi.org/10.1093/eurheartj/ 
+ehac470 
+175. Brown MC, Best KE, Pearce MS, Waugh J, Robson SC, Bell R. Cardiovascular disease 
+risk in women with pre-eclampsia: systematic review and meta-analysis. Eur J Epidemiol 
+2013;28:1–19. https://doi.org/10.1007/s10654-013-9762-6 
+176. Honigberg MC, Zekavat SM, Aragam K, Klarin D, Bhatt DL, Scott NS, et al. Long-term 
+cardiovascular risk in women with hypertension during pregnancy. J Am Coll Cardiol 
+2019;74:2743–54. https://doi.org/10.1016/j.jacc.2019.09.052 
+177. Leon LJ, McCarthy FP, Direk K, Gonzalez-Izquierdo A, Prieto-Merino D, Casas JP, et al. 
+Preeclampsia and cardiovascular disease in a large UK pregnancy cohort of linked elec-
+tronic health records: a CALIBER study. Circulation 2019;140:1050–60. https://doi.org/ 
+10.1161/circulationaha.118.038080 
+178. Haug EB, Horn J, Markovitz AR, Fraser A, Klykken B, Dalen H, et al. Association of con-
+ventional cardiovascular risk factors with cardiovascular disease after hypertensive dis-
+orders of pregnancy: analysis of the Nord-Trøndelag health study. JAMA Cardiol 2019; 
+4:628–35. https://doi.org/10.1001/jamacardio.2019.1746 
+179. Wu P, Haththotuwa R, Kwok CS, Babu A, Kotronias RA, Rushton C, et al. 
+Preeclampsia and future cardiovascular health: a systematic review and 
+meta-analysis. Circ Cardiovasc Qual Outcomes 2017;10:e003497. https://doi.org/10. 
+1161/circoutcomes.116.003497 
+180. Kramer CK, Campbell S, Retnakaran R. Gestational diabetes and the risk of cardiovas-
+cular disease in women: a systematic review and meta-analysis. Diabetologia 2019;62: 
+905–14. https://doi.org/10.1007/s00125-019-4840-2 
+181. Kyriacou H, Al-Mohammad A, Muehlschlegel C, Foster-Davies L, Bruco MEF, Legard 
+C, et al. The risk of cardiovascular diseases after miscarriage, stillbirth, and induced 
+abortion: a systematic review and meta-analysis. Eur Heart J Open 2022;2:oeac065. 
+https://doi.org/10.1093/ehjopen/oeac065 
+3998 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

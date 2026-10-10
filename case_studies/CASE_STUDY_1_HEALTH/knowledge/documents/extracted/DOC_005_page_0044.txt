@@ -1,0 +1,62 @@
+44
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-17 Le patient est invité à faire part de 
+son expérience et à exprimer sa satisfaction
+La prise en compte du point de vue du patient permet d’améliorer la qualité de la prise en charge. Pour ce 
+faire, un système de recueil et d’analyse de l’expérience du patient et de sa satisfaction est mis en place. 
+En fonction des modes et des durées de prise en charge, les modalités de recueil et d’exploitation de 
+l’expression des patients peuvent prendre des formes différentes allant du questionnaire à la tenue de réu- 
+nions régulières entre patients et professionnels. Les patients peuvent déclarer tout événement indésirable 
+associé à leurs soins (EIAS). Ils doivent être informés de cette possibilité et des modalités de déclaration.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient peut s’exprimer sur son expérience quant à sa 
+maladie. Son point de vue est pris en compte.
+• Le patient est informé des modalités pour exprimer sa 
+satisfaction et/ou son expérience durant et après son 
+séjour (e-Satis, questionnaires de satisfaction).
+• Le patient est informé des modalités pour soumettre une 
+réclamation durant et après son séjour.
+• Le patient est informé des modalités pour déclarer tout 
+événement indésirable associé à ses soins (EIAS).
+ Professionnels 
+• L’équipe sollicite le patient sur son expérience quant à sa 
+prise en charge. Son point de vue est pris en compte.
+Patient traceur
+Fiches pédagogiques 
+Évaluation de l’engagement des usagers 
+et de l’expérience patients.
+Évaluation de la médecine et de la 
+chirurgie ambulatoire.
+Références HAS
+Mesure de la satisfaction et de
+l’expérience des patients hospitalisés
++ 48 h en MCO (e-Satis +48h MCO), 2019.
+Mesure de la satisfaction et
+de l’expérience des patients hospitalisés 
+pour une chirurgie ambulatoire
+(e-Satis MCOCA), 2019.
+Faire dire, 2016.
+Implication des représentants
+des usagers dans la certification, 2015.
+Références légales 
+et réglementaires
+• Art. L. 1112-3 et R. 1112-91 du CSP.
+• Circulaire DHOS/E1/DGS/SD1B/SD1C/S.
+D4A/2006/90 du 2 mars 2006 relative 
+aux droits des personnes hospitalisées 
+et comportant une charte de la personne 
+hospitalisée.
+• Décret du 1er juin 2016 relatif à 
+la Commission des usagers.
+Autre référence
+• Stratégie nationale santé, 2021/2026.

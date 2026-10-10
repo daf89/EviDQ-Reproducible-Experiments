@@ -1,0 +1,122 @@
+
+
+===== PDF PAGE 63 =====
+
+Indicators and metadata  ﻿
+51
+30. 	Overweight and obesity prevalence
+Indicator name
+Overweight and obesity prevalence
+Purpose
+To measure the prevalence of overweight and obesity.
+Definition
+Proportion of people overweight or obese.
+	
+●
+Criteria for people aged 18 years and over:
+	
+●
+overweight if body mass index (BMI)=25 to <30; obese if BMI>=30.4
+	
+●
+Criteria for school-aged children and adolescents using WHO Growth 
+reference: overweight if BMI-for-age is greater than 1 standard 
+deviation (SD) above the median; obese if BMI-for-age is greater than 2 
+SDs above the median.
+	
+●
+Criterion for children under 5 years of age using WHO Child growth 
+standards: overweight if weight for height is above 2 SDs from the median.
+Numerator
+Number of respondents who were classified with overweight or obesity.
+Denominator
+Total number of respondents
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify individuals with or without diabetes, 
+by obesity or overweight, individual characteristics such as age, sex, race/
+ethnicity, comorbidity status, high-risk groups, socioeconomic status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys with height 
+and weight measurement.
+Limitations/comments
+For any comparison over time or with other populations, age standardization is 
+needed. Method of assessment of overweight and obesity may vary in countries.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+WHO Global Health Observatory: Prevalence of overweight among children 
+and adolescents, BMI>+1 standard deviations above the median (crude 
+estimate) (%) [website]. Geneva: World Health Organization; 2024 (https://
+www.who.int/data/gho/data/indicators/indicator-details/GHO/
+prevalence-of-overweight-among-children-and-adolescents-bmi-1-standard-
+deviations-above-the-median-(crude-estimate)-(-), accessed 26 May 2024).
+WHO Global Health Observatory: Prevalence of obesity among children 
+and adolescents, BMI>+2 standard deviations above the median (crude 
+estimate) (%) [website]. Geneva: World Health Organization; 2024 (https://
+www.who.int/data/gho/data/indicators/indicator-details/GHO/
+prevalence-of-obesity-among-children-and-adolescents-bmi-2-standard-
+deviations-above-the-median-(crude-estimate)-(-), accessed 26 May 2024).
+WHO Global Health Observatory: Overweight prevalence among children 
+under 5 years of age (% weight-for-height>+2SD) [website. Geneva: World 
+Health Organization; 2024 (https://www.who.int/data/gho/data/indicators/
+indicator-details/GHO/gho-jme-country-children-aged-5-years-overweight-(-
+weight-for-height-2-sd), accessed 26 May 2024).
+4	 BMI = weight (kg)/height (m)2.
+
+
+===== PDF PAGE 64 =====
+
+52
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+31. 	Tobacco use prevalence 
+Indicator name
+Tobacco use prevalence
+Purpose
+To measure the prevalence of current tobacco use among individuals aged 18 
+years and over.
+Definition
+Proportion of people aged 18 years and over who are currently using tobacco 
+products, including cigarettes, pipes, cigars, cigarillos, waterpipes (hookah, 
+shisha), bidis, kretek, heated tobacco products, and all forms of smokeless (oral 
+and nasal) tobacco.
+	
+●
+Tobacco products exclude products that do not contain tobacco, such 
+as electronic nicotine delivery system (ENDS) of which e-cigarettes are a 
+common type, as well as ‘e-cigars’, ‘e-hookahs’, JUUL and ‘e-pipes’. 
+	
+●
+Currently using means either daily or non-daily (occasional) use at the 
+time of visit.
+Numerator
+Number of respondents aged 18 years and over who were current tobacco users.
+Denominator
+Total number of respondents aged 18 years and over. 
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by individuals with or without diabetes, 
+type of tobacco products, individual characteristics such as age, sex, race/
+ethnicity, comorbidity status, high-risk groups, socioeconomic status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys with a 
+question regarding current tobacco use. 
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardization is needed.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+Global Adult Tobacco Survey [website]. Geneva: World Health Organization; 
+2024 (https://www.who.int/teams/noncommunicable-diseases/surveillance/
+systems-tools/global-adult-tobacco-survey, accessed 13 August 2024).

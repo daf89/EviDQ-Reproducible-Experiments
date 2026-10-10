@@ -1,0 +1,34 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+2.2 
+The Impact of EHR Workflows on Data for Quality Improvement 
+EXAMPLE 2: 
+In addition to looking at A1c values, you also want to collect the measure for Diabetic Eye Exam 
+(CMS 131, NQF 0055). After being told initially that “these reports are in the EHR,” you learn 
+that the practice has been scanning faxed reports into the EHR and not using structured data. 
+You will find this is a recurring issue. The best option for retrieving data “hidden” in documents 
+or scans is usually to perform a chart audit as discussed below. 
+For the long term, you will want to encourage and support changes in data-entry workflows to 
+address the problem more directly. In doing this, you will be using an opportunity to improve 
+data practices overall as part of building more robust QI capabilities. 
+Exhibit 13 is a list of EHR data groupings commonly used in QI projects. Health IT Advisors must 
+understand how local clinic workflows, design of EHRs, and availability of high-quality data will affect a 
+QI project. 
+EXAMPLE: 
+You plan to use the CQM for Poor Hemoglobin A1c Control (CMS 122, NQF 0059) built into a 
+clinic’s EHR for a project looking at the quality of diabetes care. After pulling data from the 
+EHR’s dashboard, you find that the A1c values received as scanned laboratory reports are 
+missing, making the performance rate look worse than it is. 
+The historical A1c values from the scans may not be available without resorting to a chart audit. 
+However, it is not unusual for a QI project to explicitly include the development of new EHR workflows 
+to improve structured data capture. For example, you might find out if external A1c values can be 
+entered into the EHR to correctly update the quality measure and how much additional work that would 
+be for staff. 
+Reasonsfor EHR Workflow Variation 
+We have seen that EHR workflows can vary widely among clinics and users. Even practices using the 
+same EHR vendor and software version might have significant differences in how they capture, enter, 
+and store patient information. Health IT Advisors will encounter severalreasons forthis, summarizedin 
+Exhibit 15. 
+Health IT Advisor Handbook 
+Page 30

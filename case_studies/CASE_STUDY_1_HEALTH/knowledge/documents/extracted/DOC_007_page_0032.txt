@@ -1,0 +1,114 @@
+higher risk for all 10 outcomes, and this cell was no longer
+labeled green for any of the complications (Figure 6). The
+distinction in these risk relationships was further explored
+using spline analyses to depict the risk relationships of
+eGFRcr and eGFRcr-cys with all the 10 complications. For
+the 8 outcomes that are not inﬂuenced by changes in
+creatinine (all except kidney failure and AKI), eGFRcr
+exhibited a J-shaped association such that risk increased
+with
+eGFR
+values
+over
+105
+ml/min
+per
+1.73
+m2
+(Figure 712). In contrast, eGFRcr-cys demonstrated much
+more linear associations with each of these complications
+throughout its distribution.
+Based upon the risk relationships of eGFRcr-cys and
+ACR categories with all complications, the existing CKD
+staging is appropriate among both younger and older
+adults.
+Some authors have suggested that the GFR threshold for
+CKD of 60 ml/min per 1.73 m2 should be raised to 75 ml/min
+per 1.73 m2 for younger adults and lowered to 45 ml/min per
+1.73 m2 for older adults.55 In younger adults, the purpose of a
+higher GFR threshold reﬂects the longer risk horizon for
+younger people, which could lead to higher lifetime CKD
+progression risks for a given GFR stage. However, the
+higher lifetime progression risks in younger adults with
+GFR 60–89 ml/min per 1.73 m2 can be addressed in their
+management without changing the deﬁnition of CKD.
+Efforts should be directed at people with higher risk with
+GFR levels >60 ml/min per 1.73 m2 to prevent the
+incidence of CKD or further reductions in GFR.
+Among older adults, the ﬁndings of consistently elevated
+RR for older adults with CKD G3a, A1, as deﬁned by eGFRcr-
+cys, support the inclusion of this large group in the CKD
+population. These elevated RRs tell us how much more likely
+the outcome is compared with the reference group (eGFR 90–
+104 ml/min per 1.73 m2 and ACR <10 mg/g [<1 mg/
+mmol]). Crucially, they do not tell us what the overall like-
+lihood of the outcome, the absolute risk, is. The absolute risk
+for important CKD complications is higher among older than
+younger adults at nearly every stage, particularly for CVD,
+heart failure, and mortality. Therefore, this population is also
+likely to beneﬁt from having their CKD diagnosed, staged,
+and treated.
+Rationale for using cystatin C containing equations for CKD
+staging
+The rationale for using cystatin C versus SCr, or a combi-
+nation of both, in eGFR equations is that creatinine, which is
+directly linked to muscle mass, may be misleading at extremes
+of body habitus, or in speciﬁc conditions (spinal cord injuries
+and sarcopenia), and that cystatin C is impacted by different
+variables (steroid use, thyroid disease, and cancer). Thus,
+because neither is a perfect marker to use for estimating
+0.7
+1
+1.5
+2
+3
+4
+Hazard ratio
+0.7
+1
+1.5
+2
+3
+4
+Hazard ratio
+15
+30
+45
+60
+75
+90
+105
+120
+eGFRcr, ml/min/1.73 m2
+eGFRcr-cys, ml/min/1.73 m2
+15
+30
+45
+60
+75
+90
+105
+120
+All-cause mortality, 721394 participants; 102910 events
+Cardiovascular mortality, 719987 participants; 27051 events
+All-cause hospitalization, 676519 participants; 7862 events
+Myocardial infarction, 711478 participants; 18659 events
+Stroke, 711293 participants; 17609 events
+Heart failure, 674255 participants; 28530 events
+Peripheral artery disease, 660412 participants; 4458 events
+Kidney failure with replacement therapy, 637387 participants; 24342 events
+Acute kidney injury, 632452 participants; 466201 events
+b
+a
+Figure 7 | Hazard ratios for adverse outcomes using the continuous model of estimated glomerular ﬁltration rate (eGFR), comparison
+of the shape of associations between creatinine-based eGFR (eGFRcr) and creatinine and cystatin C–based eGFR (eGFRcr-cys) in the
+population with cystatin C (eGFRcr-cys population). (a) Associations of eGFR based on creatinine alone with all-cause mortality,
+cardiovascular mortality, all-cause hospitalizations, myocardial infarction, stroke, heart failure, atrial ﬁbrillation, and peripheral artery disease; (b)
+Associations of eGFR based on creatinine and cystatin C with all-cause mortality, cardiovascular mortality, all-cause hospitalizations, myocardial
+infarction, stroke, heart failure, atrial ﬁbrillation, and peripheral artery disease. Reproduced with permission from JAMA, Writing Group for the
+CKD Prognosis Consortium; Grams ME, Coresh J, Matsushita K, et al. Estimated glomerular ﬁltration rate, albuminuria, and adverse outcomes: an
+individual-participant data meta-analysis. JAMA. 2023;330(13):1266–1277.12 Copyright ª 2023 American Medical Association. All rights reserved.
+www.kidney-international.org
+relative and absolute risks associated with CKD
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S147

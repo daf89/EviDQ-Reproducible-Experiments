@@ -1,0 +1,68 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+54. 
+The George Washington University Milken Institute School of Public Health, Legal and Ethical 
+Architecture for PCOR Data. Chapter 2: Legal and Ethical Significance of Data for PCOR. 2018, 
+Office of the NationalCoordinator for HealthInformation Technology. Available from: 
+https://www.healthit.gov/sites/default/files/page/2018
+02/PCOR%20Architecture_Chapter%202_S_ONC%20FINAL.pdf. 
+55. 
+Deering, M.J., Issue Brief: Patient-Generated Health Data and Health IT. 2013, Office of the 
+National Coordinator for Health Information Technology. Available from: 
+https://www.healthit.gov/sites/default/files/pghd_brief_final122013.pdf. 
+56. 
+Jim, H.S.L., et al., Innovationsin researchand clinical care using patient-generatedhealthdata. 
+CA: A Cancer Journal for Clinicians, 2020. 70(3): p. 182-199. 
+57. 
+Ethington, J.D., J. Shi, and S. Nelson, Online Patient Center: Expanding Patient Portals by 
+Integrating Patient-GeneratedDataDirectlyintoa Primary Care Provider’sEHR Workflow. 2014. 
+1654-8. 
+58. 
+Snyder, C. and A.W. Wu, eds., Users’ Guide to Integrating Patient-Reported Outcomesin 
+Electronic Health Records. 2017, Johns Hopkins University. Funded by Patient-Centered 
+Outcomes Research Institute (PCORI). Available from: 
+https://www.pcori.org/sites/default/files/PCORI-JHU-Users-Guide-To-Integrating-Patient
+Reported-Outcomes-in-Electronic-Health-Records.pdf. 
+59. 
+Cleeland, C.S., Symptom Burden: Multiple Symptoms and Their Impact as Patient-Reported 
+Outcomes. JNCI Monographs, 2007. 2007(37): p. 16-21. 
+60. 
+Rodriguez, S., K. Hwang, and J. Wang, Connecting Home-Based Self-Monitoring of Blood Pressure 
+Data Into Electronic Health Records for Hypertension Care: A Qualitative Inquiry With Primary 
+Care Providers. JMIR formative research, 2019. 3(2): p. e10388-e10388. 
+61. 
+Nittas, V., et al., Electronic Patient-Generated Health Data to Facilitate Disease Prevention and 
+Health Promotion: Scoping Review. Journal of medical Internet research, 2019. 21(10): p. 
+e13320-e13320. 
+62. 
+Fung, C.H. and R.D. Hays, Prospectsandchallenges in using patient-reportedoutcomesin clinical 
+practice. Quality of life research : an international journal of quality of life aspects of treatment, 
+care and rehabilitation, 2008. 17(10): p. 1297-1302. 
+63. 
+Squitieri, L., K.J. Bozic, and A.L. Pusic, The Role of Patient-ReportedOutcome Measuresin Value-
+Based Payment Reform. Value in health : the journal of the International Society for 
+Pharmacoeconomics and Outcomes Research, 2017. 20(6): p. 834-836. 
+64. 
+Healthcare Information and Management Systems Society, The MetroHealth System (Cleveland 
+Ohio) DiabetesDaviesAward Case Study. 2021. Available from: 
+https://www.himss.org/sites/hde/files/media/file/2021/01/20/metrohealth-davies-diabetes
+management-case.pdf. 
+65. 
+Cebul, R.D., et al., Electronic HealthRecordsandQuality of DiabetesCare. New England Journal 
+of Medicine, 2011. 365(9): p. 825-833. 
+66. 
+Centers for Medicare & Medicaid Services. Quality Performance Category: Traditional MIPS 
+Requirements. Available from: https://qpp.cms.gov/mips/quality-requirements. 
+67. 
+American Board of Family Medicine Quality Performance Dashboard User Guide. 2019. 
+68. 
+U.S. Department of Health & Human Services. Preventive Care. Available from: 
+https://health.gov/healthypeople/objectives-and-data/browse-objectives/preventive-care#cit1. 
+69. 
+Borsky, A., et al., Few Americans Receive All High-Priority, Appropriate Clinical Preventive 
+Services. Health Affairs, 2018. 37(6): p. 925-928. 
+70. 
+U.S. Department of Health & Human Services. Social Determinants of Health. Available from: 
+https://health.gov/healthypeople/objectives-and-data/social-determinants-health 
+Health IT Advisor Handbook 
+Page 145

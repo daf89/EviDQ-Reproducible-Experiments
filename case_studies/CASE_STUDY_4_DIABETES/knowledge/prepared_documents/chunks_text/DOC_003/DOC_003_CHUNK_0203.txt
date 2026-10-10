@@ -1,0 +1,194 @@
+
+
+===== PDF PAGE 405 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-46 
+WHO STEPS Surveillance 
+ 
+ 
+Frequency 
+of 
+impaired 
+control 
+over 
+drinking 
+Description: Frequency of not being able to stop drinking once started during the 
+past 12 months among past 12 month drinkers. 
+ 
+Instrument questions: 
+• Have you consumed any alcohol within the past 12 months? 
+• How often during the past 12 months have you found that you were not able to 
+stop drinking once you had started? 
+ 
+Frequency of not being able to stop drinking once started during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Men 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of not being able to stop drinking once started during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Women 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of not being able to stop drinking once started during the past 12 months among past 12 
+month drinkers 
+Age Group 
+(years) 
+Both Sexes 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A13 
+• Epi Info program name: Anotabletostop (unweighted); AnotabletostopWT (weighted) 
+
+
+===== PDF PAGE 406 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-47 
+WHO STEPS Surveillance 
+ 
+ 
+Frequency 
+of failing to 
+do what 
+was 
+normally 
+expected 
+because of 
+drinking 
+Description: Frequency of failing to do what was normally expected from you 
+because of drinking during the past 12 months among past 12 month drinkers. 
+ 
+Instrument questions: 
+• Have you consumed any alcohol within the past 12 months? 
+• How often during the past 12 months have you failed to do what was normally 
+expected from you because of drinking? 
+ 
+Frequency of failing to do what was normally expected from you during the past 12 months among past 
+12 month drinkers 
+Age Group 
+(years) 
+Men 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of failing to do what was normally expected from you during the past 12 months among past 
+12 month drinkers 
+Age Group 
+(years) 
+Women 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of failing to do what was normally expected from you during the past 12 months among past 
+12 month drinkers 
+Age Group 
+(years) 
+Both Sexes 
+% 
+n 
+monthly 
+95% CI 
+% less than 
+95% CI 
+% never 
+95% CI 
+or more 
+ 
+ monthly 
+frequently 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A14 
+• Epi Info program name: Afailexpected (unweighted); AfailexpectedWT (weighted) 

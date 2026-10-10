@@ -1,0 +1,149 @@
+
+
+===== PDF PAGE 37 =====
+
+Indicators and metadata  ﻿
+25
+8. 	 Availability of trained health care staff for diabetes management
+Indicator name
+Availability of trained health care staff for diabetes management
+Purpose
+To assess the availability of high-quality services for diabetes management.
+Definition
+Proportion of health facilities in which staff have been trained in the latest WHO 
+or national guidelines on diabetes clinical management.
+Numerator
+Number of health facilities in which staff have been trained in the latest 
+WHO or national guidelines on diabetes clinical management during the 
+reporting period.
+“Staff” refers to physicians or other nationally authorized health professionals for 
+diabetes management. A multidisciplinary care team for diabetes management 
+may include the following:
+	
+●
+cardiologist 
+	
+●
+diabetes nurse
+	
+●
+endocrinologist
+	
+●
+general practitioner 
+	
+●
+homecare nurse
+	
+●
+nephrologist
+	
+●
+nutritionist
+	
+●
+ophthalmologist
+	
+●
+physiotherapist
+	
+●
+podiatrist
+Denominator
+Total number of health facilities
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Facility level of care type, provider ownership type (public/private), facility 
+location type (urban/rural), training topic, type of health professional
+Sources of data
+Health facility report, health workforce information system or survey
+Limitations/comments
+Frequency of training depends on the date of the last version of WHO or national 
+guidelines, as well as the staff turnover at the health care facility.
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186).
+Harmonized health facility assessment (HHFA): core questions. Geneva: 
+World Health Organization; 2021 (https://www.who.int/publications/i/item/
+harmonized-health-facility-assessment-(hhfa), accessed 26 May 2024).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+Service availability and readiness assessment (SARA): an annual monitoring 
+system for service delivery (reference manual, Version 2.2). Geneva: World 
+Health Organization; 2014 (Revised July 2015) (https://apps.who.int/iris/
+handle/10665/149025).
+
+
+===== PDF PAGE 38 =====
+
+26
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+9. 	 Availability of diabetes, cardiovascular disease and hypertension 
+core medicines
+Indicator name
+Availability of diabetes, cardiovascular disease and hypertension 
+core medicines
+Purpose
+To monitor supply of essential medicines for diabetes management.
+Definition
+Proportion of health facilities that have diabetes, cardiovascular disease, and 
+hypertension core medicines based on WHO or national treatment guidelines.
+Diabetes core medicines include:
+	
+●
+metformin
+	
+●
+sulfonylurea
+	
+●
+insulin
+Cardiovascular disease core medicines include:
+	
+●
+aspirin
+	
+●
+beta blockers
+	
+●
+statins
+Hypertension core medicines include the following classes of medications:
+	
+●
+angiotensin-converting enzyme inhibitors
+	
+●
+angiotensin-receptor blockers
+	
+●
+long-acting dihydropyridine calcium channel blockers
+	
+●
+thiazide and thiazide-like agents
+Other core medicines may be added to the list as WHO and national guidelines 
+are updated. 
+Numerator
+Number of health facilities reporting “no stock-out” of diabetes, cardiovascular 
+disease and hypertension core medicines during the reporting period.
+Denominator
+Total number of health facilities
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Type of medicine, type of insulin (short-acting human, intermediate acting 
+human, long-acting analogue), facility level of care type, provider ownership 
+type (public/private), facility location type (urban/rural).
+Sources of data
+Health facility medicine stock register, health facility report, logistics information 
+system or survey
+Limitations/comments
+In some settings, health facilities do not dispense medicines so the reporting 
+units may be community medicine dispensaries/pharmacies.
+The preferred data source among the sources listed for this indicator depends on 
+the data source quality in the local context.

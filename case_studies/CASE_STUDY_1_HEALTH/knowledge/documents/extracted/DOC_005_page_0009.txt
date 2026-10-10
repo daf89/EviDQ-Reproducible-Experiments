@@ -1,0 +1,55 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+9
+• • de modes de prise en charge : ambulatoire, hospitalisation à domicile (HAD), 
+SAMU-SMUR, urgences, soins critiques (catégorie regroupant les soins continus, 
+les soins intensifs et la réanimation) ;
+• • de secteurs d’activité : chirurgie et interventionnel, maternité, psychiatrie et santé 
+mentale, soins médicaux de réadaptation (SMR), unité de soins de longue durée 
+(USLD).
+Chaque établissement de santé est ainsi évalué sur les critères génériques, s’appliquant 
+à tout l’établissement, ainsi que sur les critères spécifiques qui lui sont applicables.
+Un référentiel comprenant des critères 
+à trois niveaux d’exigence :
+• • 110 critères standard qui correspondent aux attendus de la certification ;
+• • 17 critères impératifs qui correspondent à ce que l’on ne veut plus voir au sein 
+d’un établissement de santé. Si une évaluation de l’un de ces critères est négative, 
+la HAS se réserve le droit de ne pas accorder la certification à l’établissement ;
+• • 5 critères avancés qui correspondent à des exigences souhaitées mais non 
+exigibles à ce jour. Ils constituent les potentiels critères standard de demain.
+Un référentiel composé de critères précisés 
+sous forme de fiches descriptives
+Les critères sont présentés sous forme de fiches qui contiennent les éléments utiles à la 
+compréhension et à l’évaluation du critère.
+Section
+Description
+Arborescence
+Rappel du chapitre et de l’objectif auquel appartient le critère
+Critère
+Intitulé du critère
+Description du critère
+Paragraphe descriptif identifiant les enjeux qui sont liés au critère
+Champ d’application
+Rappel du champ d’application générique ou spécifique
+Niveau d’exigence du critère
+• Standard • Impératif • Avancé
+Éléments d’évaluation
+Résultats attendus, lesquels seront évalués pour apprécier si 
+l’établissement de santé répond ou non au critère
+Cibles
+• Patients • Gouvernance
+• Professionnels • Représentants des usagers
+Méthodes d’évaluation 
+• Patient traceur • Audit système
+• Parcours traceur • Observation
+• Traceur ciblé
+IQSS
+Les indicateurs qualité et sécurité des soins, marqueur 
+complémentaire à l’évaluation du critère
+Références
+• Références HAS
+• Références légales et réglementaires
+• Autres
+Les références sont données à titre indicatif et ne sauraient consti
+tuer l’ensemble des références ou obligations auxquelles les orga
+nismes soumis à la procédure de certification doivent se conformer. 
+Elles sont par ailleurs susceptibles d’évoluer à tout moment.

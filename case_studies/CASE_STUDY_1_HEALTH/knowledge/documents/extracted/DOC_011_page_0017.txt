@@ -1,0 +1,33 @@
+14 
+information supplied often includes the name of the physician but may not include the group’s 
+practice name, name of the hospital, or the name of the health care system that owns the 
+hospital. Poor information about the linkages among providers and their institutional 
+affiliations can result in errors as providers are sorted into contact groups for the purposes of 
+MPC data collection. Errors can result in multiple contacts to the same contact group because it 
+was not identified that two physicians belonged to the same group. Errors can also result from 
+“overgrouping,” where physicians are mistakenly added to a contact group. Overgrouping can 
+result in erroneous disavowals. 
+These experiences have led the MPC team to be careful about the sorting of events and pairs into 
+contact groups for initial contacts to physician offices, hospitals, and health care systems. A stage of 
+this sorting occurs during sample preparation. The MPC team has also introduced various 
+automated approaches to matching providers and improving accuracy in the formation of contact 
+groups. Adoption of the National Provider Identifier (NPI) in the 2010 MPC has helped to mitigate 
+the problem, but has not completely solved it. A single provider may bill through any of several 
+NPIs and provider facilities often have separate NPIs for different units within the facility. And, 
+despite the best efforts of the field interviewers in the HC, a portion of providers identified by 
+household respondents are not matched to NPIs in the directory available on the field laptops. To 
+address this situation, the MPC team has developed matching algorithms based on address, 
+telephone numbers, and other data elements that might indicate that providers belong in the same 
+contact group. 
+File Transfer Protocol and Other Secure Data Transfer Options 
+In addition to accepting hardcopy records, the MEPS MPC now offers several electronic options 
+to POCs to reduce the burden of data transfers. The MPC provides the option to deliver data via 
+CDs containing PDFs of records. Other data transfer choices have also been made available: 
+During the 2013 cycle, the MEPS MPC team developed documented procedures and instructions 
+for providers to use a secure File Transfer Protocol (FTP) site and secure email. During the 2016 
+data year collection cycle, we continued to offer both FTP and secure email routinely to our 
+largest providers. Requests from other POCs for FTP or secure email were also accommodated. 
+The MEPS MPC also accepts electronic data files that contain the requested data fields. In the 
+2009 through 2014 data year collections, two pharmacy contact groups provided data 
+electronically, and one hospital/office-based provider POC provided electronic records. With 
+the more widespread adoption of electronic health records, we anticipate the frequency of

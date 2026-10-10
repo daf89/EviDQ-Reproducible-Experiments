@@ -1,0 +1,92 @@
+
+
+===== PDF PAGE 33 =====
+
+Indicators and metadata  ﻿
+21
+4. 	 Existence of national guidelines for diabetes management 
+Indicator name
+Existence of national guidelines for diabetes management 
+Purpose
+To assess the availability of governance mechanisms for diabetes management.
+Definition
+The country has evidence-based national guidelines, protocols, standards, or 
+technical guidance for diabetes management in primary health care settings, 
+developed/updated within the past 5 years.
+	
+●
+National guidelines, protocols, standards or technical guidance are 
+information products endorsed by the ministry of health containing 
+recommendations for clinical management/practice.
+Numerator
+Not applicable
+Denominator
+Not applicable 
+Method of estimation
+Country can respond “Yes” to the question “Does the country have evidence-
+based national guidelines, protocols, standards, or technical guidance for 
+diabetes management in primary health care settings?” and needs to provide 
+a copy of the national guidelines and the latest report on enforcement of 
+health taxes.
+Existence of evidence-based national guidelines, protocols, standards or 
+technical guidance is validated by examining documents that outline the 
+scientific steps that were taken to develop the national guidelines, protocol, 
+standards or technical guidance. 
+Disaggregation
+Type of diabetes, type of services (e.g. diagnosis, treatment, diabetic foot 
+management, retinopathy management), type of diabetes complications
+Sources of data
+NCD country capacity survey, other survey, country report 
+Limitations/comments
+None
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+
+
+===== PDF PAGE 34 =====
+
+22
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+5. 	 Referral system for diabetes management 
+Indicator name
+Referral system for diabetes management  
+Purpose
+To assess the availability of referral and back-referral systems for clinical services 
+for advanced diabetes.
+Definition
+The country has a clearly defined and well-established functional referral 
+and back-referral system for diabetes management, facilitating the seamless 
+transition between primary care, secondary and tertiary care. 
+Numerator
+Not applicable
+Denominator
+Not applicable
+Method of estimation
+Country can respond “Yes” to the question “Does the country have a clearly 
+defined and well-established referral system between primary care, secondary 
+and tertiary care for diabetes management?” and needs to provide a copy of 
+relevant documents about the referral system.
+Existence of a clearly defined, well-established functional referral system is 
+validated by examining documents that outline mechanisms for referral from 
+primary care to secondary and tertiary care, as well as feedback mechanisms 
+from higher to lower levels of care.
+Disaggregation
+Type of diabetes
+Sources of data
+NCD country capacity survey, other survey, country report 
+Limitations/comments
+None
+Related links
+Continuity and coordination of care: a practice brief to support implementation 
+of the WHO Framework on integrated people-centred health services. Geneva: 
+World Health Organization; 2018 (https://iris.who.int/handle/10665/274628).
+WHO Framework on integrated, people-centred health services: report by the 
+Secretariat. Geneva: World Health Organization; 2016 (https://iris.who.int/
+handle/10665/252698).
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).

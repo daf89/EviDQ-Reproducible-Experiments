@@ -1,0 +1,74 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+demographic report that includes the patient’s payer(s) and/or that is stratified by age or 
+gender. 
+And most important: 
+• 
+The logic and data used by an EHR to calculate a CQM depends entirely on the completeness, 
+accuracy, format, and code mapping of the underlying data elements. An EHR-generated 
+performance metric should only be used if it has been validated and found to be reliable. Tips on 
+assessing data quality are discussed in Section 2. 
+Exhibit 34: EHR Data Considerations - Using Clinical Quality Measures from an EHR 
+EHR Element 
+Description 
+Assessment and Plan 
+of Treatment 
+• 
+Diagnosis codes entered as encounter assessments are often used as 
+inclusion/exclusion criteria for EHR-generated CQMs. 
+Clinical Notes 
+• 
+Information in unstructured notes, scans, or faxes cannot be used to 
+generate CQM denominators, numerators, exclusions, or exceptions. 
+• 
+Some EHRs can incorporate structured data into clinical narrative and may be 
+able to capture key elements for CQM calculations. 
+Clinical Tests 
+• 
+Tests and procedures performed in the clinic must be properly documented 
+and coded to be used in a CQM calculation. 
+Diagnostic Imaging 
+• 
+Orders for diagnostic imaging must be properly documented and coded to be 
+used in a CQM calculation. 
+• 
+Results for diagnostic imaging must be recorded as structured data to be 
+used in a CQM calculation. 
+Encounter 
+Information 
+• 
+Encounter coding is frequently used as inclusion criteria for CQM 
+denominators, numerators, or exclusions (CPT, ICD, SNOMED). 
+• 
+Some encounter types may be explicitly excluded from a CQM by local 
+configuration or vendor specification. 
+• 
+Encounter dates for eligible visits are frequently used when calculating the 
+measurement period for a CQM. 
+Health Concerns 
+• 
+Self-reported data and assessments must be recorded as structured data to 
+be used in a CQM calculation. 
+• 
+Specific questions and responses for questionnaires may need to be explicitly 
+coded to correctly calculate denominators, numerators, and exclusions 
+(LOINC, SNOMED). 
+Immunizations 
+• 
+Vaccines must be mapped to the correct NDC and/or CVX code to be used in 
+a CQM calculation. 
+Laboratory 
+• 
+Laboratory tests and results must be mapped to the correct LOINC code to be 
+used in a CQM calculation. 
+Medications 
+• 
+Medications and therapeutic injections must be mapped to the correct NDC 
+and/or RXNORM code to be used in a CQM calculation. 
+Patient 
+Demographics 
+• 
+Missing or incorrect data for age, gender, and other demographic fields will 
+affect CQM calculations that use them. 
+Health IT Advisor Handbook 
+Page 72

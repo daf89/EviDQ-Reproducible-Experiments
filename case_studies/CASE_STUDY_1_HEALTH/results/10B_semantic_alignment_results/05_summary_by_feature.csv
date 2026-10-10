@@ -1,0 +1,17 @@
+﻿feature,semantic_alignment_status,n_pairs
+cost_emergency_tm1,NOT_SUPPORTED,134
+cost_emergency_tm1,SUPPORTED_CONTEXT,1
+cost_home_health_tm1,NOT_SUPPORTED,134
+cost_home_health_tm1,SUPPORTED_CONTEXT,1
+cost_ip_medical_tm1,NOT_SUPPORTED,134
+cost_ip_medical_tm1,SUPPORTED_CONTEXT,1
+cost_laboratory_tm1,NOT_SUPPORTED,224
+cost_laboratory_tm1,SUPPORTED_CONTEXT,1
+cost_op_specialists_tm1,NOT_SUPPORTED,134
+cost_op_specialists_tm1,SUPPORTED_CONTEXT,1
+cost_op_surgery_tm1,NOT_SUPPORTED,134
+cost_op_surgery_tm1,SUPPORTED_CONTEXT,1
+cost_other_tm1,NOT_SUPPORTED,125
+cost_other_tm1,SUPPORTED_CONTEXT,1
+cost_pharmacy_tm1,NOT_SUPPORTED,276
+cre_tests_tm1,NOT_SUPPORTED,30

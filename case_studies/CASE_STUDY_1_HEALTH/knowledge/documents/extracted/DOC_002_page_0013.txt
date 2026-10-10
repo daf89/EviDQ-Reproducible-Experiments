@@ -1,0 +1,173 @@
+regarding ICIs, PD-1 (e.g., nivolumab) and 
+PDL-1 inhibitors (e.g., durvalumab) and, 
+to a lesser extent, anti-CTLA-4 antibodies 
+(e.g., ipilimumab), are associated with 
+new-onset autoimmune diabetes in addi
+tion to other immune-related adverse 
+events. ICI-induced autoimmune diabetes 
+occurs in 0.6–1.4% of treated people, of
+ten presents as DKA, and almost invari
+ably requires lifelong insulin therapy 
+(129). Despite a peak of incidence within 
+2–3 months from the initiation of treat
+ment (67,130), new onset of ICI-induced 
+diabetes can occur anytime during treat
+ment and has been reported even after 
+discontinuation of ICIs (65,130). Similar 
+to people with newly diagnosed type 1 
+diabetes, people who develop ICI- 
+induced diabetes should be promptly re
+ferred to an endocrinologist and receive 
+appropriate diabetes self-management 
+education. Thus, testing either fasting or 
+random plasma glucose before initiating 
+treatment and at each visit (or for inter
+vening symptoms of hyperglycemia) is a 
+reasonable approach to increase health 
+care professionals’ awareness of the 
+metabolic risk of ICIs and reduce the 
+risk of presentation with DKA. Further 
+epidemiological insight and validation 
+of HLA-based risk prediction scores 
+may guide future targeted screening 
+strategies.
+Inhibitors targeting the α isoform of 
+PI3K have been approved (e.g., alpelisib, 
+inavolisib) for the treatment of advanced 
+or metastatic breast cancer. Pivotal trials 
+demonstrated that PI3Kα inhibitors, when 
+added to standard of care treatment, pro
+vided survival benefits but were also asso
+ciated with the emergence of grade 3 or 
+4 hyperglycemia in up to 36% of partici
+pants, which was the most common rea
+son for drug discontinuation (131,132). A 
+retrospective analysis of adverse events 
+accrued in a phase 3 randomized controlled 
+trial (RCT) showed that the median time 
+to onset for alpelisib-induced hyperglyce
+mia was 13 days, with a range extending 
+to approximately 1 year (133). The cur
+rent data inform the recommendation to 
+check fasting and random plasma glucose 
+before initiating treatment and to moni
+tor random plasma glucose weekly for 
+the first 2 weeks of therapy and then ev
+ery 4 weeks or sooner if symptoms of 
+hyperglycemia develop in the interim. 
+Testing A1C every 3 months can also be 
+considered, while recognizing that alone 
+A1C may not capture the early peak of 
+hyperglycemia noted with PI3Kα inhibi
+tors. Inhibitors of mTOR (e.g., everoli
+mus) are associated with hyperglycemia 
+of variable severity but without a defini
+tive peak of onset. In a large meta-analysis 
+that included 3,900 participants treated 
+with everolimus across nine RCTs, the inci
+dence of all-grade hyperglycemia was as 
+high as 27%, whereas grades 3 and 4 
+were reported in 2.5% of participants 
+(134). In a single-center retrospective co
+hort study in people with cancer treated 
+with everolimus, the estimated median 
+time to onset of hyperglycemia was 5–6 
+months, but the incidence distribution 
+extended from a few weeks to several 
+years after the initiation of treatment (135). 
+In the absence of a clear-cut temporal pat
+tern for the onset of hyperglycemia, fasting 
+or random plasma glucose should be 
+checked before treatment initiation and 
+at each visit during treatment with 
+mTOR inhibitors, or sooner if symptoms 
+of hyperglycemia develop in the in
+terim, while monitoring A1C every 3 
+months can also be considered.
+Finally, hyperglycemia is also a rela
+tively frequent complication of Akt in
+hibitors (e.g., capivasertib) and antibody 
+drug conjugates (e.g., enfortumab vedotin), 
+which will not be reviewed.
+PANCREATIC DIABETES OR 
+DIABETES IN THE CONTEXT OF 
+DISEASE OF THE EXOCRINE 
+PANCREAS
+Pancreatic diabetes (also termed pan
+creatogenic diabetes or type 3c diabetes) 
+includes both structural (e.g., destruction 
+or removal of normal pancreatic tissue) 
+and functional loss of insulin secretion in 
+the context of exocrine pancreatic insuffi
+ciency and is commonly misdiagnosed as 
+type 2 diabetes. The diverse set of etiolo
+gies includes pancreatitis (acute and chronic 
+pancreatic inflammation and associated 
+fibrosis leading to loss of functional exo
+crine and endocrine pancreatic function), 
+trauma or pancreatectomy, neoplasia, 
+cystic fibrosis (addressed later in this 
+section), hemochromatosis, fibrocalculous 
+pancreatopathy, rare genetic disorders, 
+and idiopathic forms (2); as such, pan
+creatic diabetes is the preferred umbrella 
+term (136).
+Acute (even a single bout) and chronic 
+pancreatitis can lead to postpancreatitis 
+diabetes mellitus (137). A distinguishing 
+feature is concurrent pancreatic exocrine 
+insufficiency (consider screening individu
+als with acute and chronic pancreatitis for 
+exocrine pancreatic insufficiency by mea
+suring fecal elastase), pathological pancre
+atic imaging (endoscopic ultrasound, MRI, 
+and computed tomography), and absence 
+of type 1 diabetes–associated autoimmu
+nity (138–141). Risk for microvascular 
+complications appears to be similar to 
+that of other forms of diabetes.
+For people with pancreatitis and diabe
+tes, glucose-lowering therapies potentially 
+associated with increased risk of pancrea
+titis (i.e., incretin-based therapies) should 
+be avoided. Early initiation of insulin ther
+apy should be considered. In the context 
+of pancreatectomy, islet autotransplanta
+tion can be considered for selected indi
+viduals with medically refractory chronic 
+pancreatitis in specialized centers to pre
+serve, fully or partially, endogenous islet 
+function and insulin secretion (142,143).
+Recommendation
+2.23 Screen people for diabetes within 
+3–6 months following an episode of 
+acute pancreatitis and annually there
+after. Screening for diabetes is rec
+ommended annually for people with 
+chronic pancreatitis. E
+Cystic Fibrosis–Related Diabetes
+Recommendations
+2.24a Annual screening for cystic 
+fibrosis–related diabetes (CFRD) should 
+begin by age 10 years in all people 
+with cystic fibrosis, preferably using 
+OGTT. B
+2.24b If an OGTT is not feasible, A1C 
+can be used as an alternative method 
+as part of a two-step screening strategy. 
+Individuals with A1C values between 
+5.5% and 6.4% (37 and 47 mmol/mol, 
+respectively) should undergo an OGTT 
+within 3 months. C An A1C value of 
+≥6.5% (≥48 mmol/mol) is consistent 
+with a diagnosis of CFRD. B
+2.25 Beginning 5 years after the di
+agnosis of CFRD, annual monitoring 
+for complications of diabetes is rec
+ommended. E
+Cystic fibrosis is an autosomal reces
+sive multisystem condition arising from 
+diabetesjournals.org/care 
+Diagnosis and Classification of Diabetes
+S39 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

@@ -1,0 +1,31 @@
+{
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "feature": "icdo3_m_code",
+  "current_statistical_type": "UNKNOWN",
+  "problem_type": "MISSING_VALUE",
+  "observed_problem": {
+    "n_rows": 1865,
+    "n_missing": 62,
+    "missing_rate": 0.03324396782841823
+  },
+  "validation_question": "Using an authoritative source describing this registry variable or its coding standard, determine whether the semantic/statistical nature of 'icdo3_m_code' can be explicitly established. Do not infer the type from the column name, pandas dtype, numerical appearance, or observed values.",
+  "allowed_type_taxonomy": [
+    "NUMERIC_CONTINUOUS",
+    "NUMERIC_DISCRETE",
+    "CATEGORICAL_NOMINAL",
+    "CATEGORICAL_ORDINAL",
+    "BINARY",
+    "DATE_TIME",
+    "IDENTIFIER",
+    "UNKNOWN"
+  ],
+  "required_evidence": "Authoritative documentary evidence explicitly supporting the semantic nature/coding of the variable.",
+  "fallback_if_insufficient_evidence": "UNKNOWN",
+  "prohibited_inferences": [
+    "infer type from feature name",
+    "infer type from pandas dtype",
+    "infer type from numeric-looking codes",
+    "infer MCAR/MAR/MNAR from missing rate alone",
+    "select an imputation method before type validation"
+  ]
+}

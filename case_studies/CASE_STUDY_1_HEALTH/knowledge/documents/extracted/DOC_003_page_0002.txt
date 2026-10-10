@@ -1,0 +1,83 @@
+Document Reviewers: Ana Abreu, (CPG Review Co-ordinator) (Portugal), Michael Hecht Olsen, (CPG Review 
+Co-ordinator) (Denmark), Marco Ambrosetti (Italy), Emmanuel Androulakis (United Kingdom), Lia Evi Bang 
+(Denmark), Jesper Nørgaard Bech (Denmark), Michael A. Borger (Germany), Pierre Boutouyrie (France), 
+Luís Bronze (Portugal), Sergio Buccheri (Sweden), Regina Dalmau (Spain), Maria Carmen De Pablo Zarzosa (Spain), 
+Christian Delles (United Kingdom), Maria Manuela Fiuza (Portugal), Rahima Gabulova (Azerbaijan), 
+Bjørn Olav Haugen (Norway), Christian Heiss (United Kingdom), Borja Ibanez (Spain), Stefan James (Sweden), 
+Vikas Kapil (United Kingdom), Meral Kayikçioglu (Turkey), Lars Køber (Denmark), Konstantinos C. Koskinas 
+(Switzerland), Emanuela Teresa Locati (Italy), Sharon MacDonald (United Kingdom), Anastasia S. Mihailidou 
+(Australia), Borislava Mihaylova (United Kingdom), Richard Mindham (United Kingdom), 
+Martin Bodtker Mortensen (Denmark), Sandor Nardai (Hungary), Lis Neubeck (United Kingdom), 
+Jens Cosedis Nielsen (Denmark), Peter M. Nilsson (Sweden), Agnes A. Pasquet (Belgium), Mónica Mendes Pedro 
+(Portugal), Eva Prescott (Denmark), Amina Rakisheva (Kazakhstan), Ernst Rietzschel (Belgium), Bianca Rocca 
+(Italy), Xavier Rossello (Spain), Jean-Paul Schmid (Switzerland), Eduard Shantsila (United Kingdom), 
+Isabella Sudano (Switzerland), Ana Teresa Timóteo (Portugal), Georgios Tsivgoulis3 (Greece), Andrea Ungar4 
+(Italy), Ilonca Vaartjes (Netherlands), Frank Visseren (Netherlands), Heinz Voeller (Germany), 
+Christiaan Vrints (Belgium), Adam Witkowski (Poland), Maria-Christina Zennaro2 (France), 
+and Katja Zeppenfeld (Netherlands) 
+All experts involved in the development of these guidelines have submitted declarations of interest, 
+which are reported in a supplementary document to the guidelines. See the European Heart Journal online or 
+www.escardio.org/Guidelines for supplementary documents, as well as evidence tables. 
+Click here to access the corresponding ESC CardioMed chapters. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Keywords 
+Guidelines • Blood pressure • Hypertension • Hypertension-mediated organ damage • Blood pressure measurement 
+• Ambulatory blood pressure monitoring • Home blood pressure monitoring • Antihypertensive medication • 
+Hypertension treatment • Hypertension targets • Secondary hypertension • Cardiovascular disease risk estimation • 
+Cardiovascular disease prevention • Resistant hypertension • Hypertension screening 
+Table of contents 
+1. Preamble .............................................................................................................. 3918 
+2. Introduction ....................................................................................................... 3919 
+2.1. What is new .............................................................................................
+3920 
+3. Pathophysiology of elevated blood pressure and hypertension .. 3928 
+4. Clinical consequences of elevated blood pressure 
+and hypertension ................................................................................................... 3928 
+5. Measuring blood pressure ............................................................................ 3929 
+5.1. Introduction and pertinent definitions ..........................................
+3929 
+5.2. Practical recommendations for measuring blood pressure .
+3930 
+5.2.1. Clinical validation of equipment for measuring blood 
+pressure .......................................................................................................... 3930 
+5.2.2. Office blood pressure measurement ..................................... 3930 
+5.2.3. Home blood pressure measurement ..................................... 3931 
+5.2.4. Ambulatory blood pressure measurement ......................... 3933 
+5.2.5. Comparison of home and ambulatory blood pressure 
+monitoring ...................................................................................................... 3934 
+5.3. What is the best method for measuring blood pressure to 
+diagnose hypertension? ................................................................................
+3934 
+5.3.1. Blood pressure measurement for hypertension 
+screening ......................................................................................................... 3934 
+5.3.2. Blood pressure measurement for diagnosing 
+hypertension ................................................................................................. 3934 
+5.4. What is the best method for measuring blood pressure for 
+long-term management of hypertension? ............................................
+3934 
+5.4.1. Home monitoring ........................................................................... 3934 
+5.4.2. Ambulatory monitoring ............................................................... 3934 
+5.5. Measuring blood pressure in selected groups ...........................
+3935 
+5.5.1. Pregnancy ........................................................................................... 3935 
+5.5.2. Atrial fibrillation ............................................................................... 3935 
+5.5.3. Orthostatic hypotension ............................................................. 3935 
+5.6. Novel methods of measuring blood pressure ...........................
+3935 
+6. Definition and classification of elevated blood pressure and 
+hypertension, and cardiovascular disease risk assessment .................. 3936 
+6.1. Definition and classification of elevated blood pressure and 
+hypertension .....................................................................................................
+3936 
+6.2. Principles of a risk-based approach for managing blood 
+pressure and preventing cardiovascular disease ................................
+3936 
+6.2.1. Role of cardiovascular disease risk assessment ................. 3936 
+6.3. Predicting cardiovascular disease risk ............................................
+3937 
+6.3.1. 10-year cardiovascular disease risk-prediction models .. 3938 
+6.4. Refining cardiovascular disease risk estimation beyond risk 
+models .................................................................................................................
+3939 
+ESC Guidelines 3913 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

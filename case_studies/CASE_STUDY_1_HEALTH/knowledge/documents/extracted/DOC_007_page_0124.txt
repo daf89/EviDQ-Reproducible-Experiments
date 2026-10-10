@@ -1,0 +1,146 @@
+This recommendation places high value on the ﬁnding from
+recent, large trials in both general and CKD populations that
+have suggested that intensive medical therapy is a suitable initial
+strategy for the management of stable stress-test conﬁrmed
+ischemic heart disease. It places value on the need for in-
+terventions, which carry risk to people with CKD and sub-
+stantial
+healthcare
+costs
+to
+demonstrate
+beneﬁts
+on
+cardiovascular outcomes before they are considered a standard of
+care. Importantly, this recommendation should not apply to
+those with severe angina symptoms, left ventricular dysfunction
+(e.g., ejection fraction <35%), or left main stem disease as they
+were excluded from the deﬁnitive trials. It should be noted that
+trials in CKD have not ruled out antianginal beneﬁts in people
+with CKD (despite negative ﬁndings).
+Key information
+Balance of beneﬁts and harm. Beneﬁts. Beneﬁts should be
+considered in the context of the totality of evidence in people
+with and without CKD regarding interventions. Comparisons
+between aggressive medical therapy alone and invasive in-
+terventions do not support invasive strategies to reduce death
+or prevent myocardial infarction.707,707a However, those with
+frequent
+angina
+symptoms
+(at
+least
+weekly)
+gained
+improvement with the invasive strategy707; thus, the beneﬁt
+of an invasive strategy might be restricted to those with
+angina. The reason for a lack of clear antianginal effect of an
+invasive strategy in International Study of Comparative
+Health Effectiveness with Medical and Invasive Approaches—
+Chronic Kidney Disease (ISCHEMIA-CKD) needs some
+consideration, and key reasons relating to insufﬁcient power
+due to protocol differences have been proposed.698 Although
+low power to detect an effect on angina is a key potential
+explanation for differences in ﬁndings between the 2 trials,
+CKD-MBD and coronary calciﬁcation in CKD, which makes
+microvascular disease more common and increases the
+technical challenge of revascularization, may also have partly
+contributed to these differences.699
+The ERT assessed the effects of angiography or coronary
+intervention in people with CKD and ischemic heart disease
+identiﬁed 4 other trials, but excluded mixed populations,
+including ISCHEMIA-CKD, which recruited some people on
+dialysis and some people who have received a kidney trans-
+plant. The review found no clear beneﬁts on cardiovascular
+outcomes in 3 other trials and raised a hypothesis about
+beneﬁcial effects on mortality overall (Supplementary Table
+S13700–704). Such an effect has not been observed in the
+larger general population trials.
+Harms. The harms of invasive strategies include the risk of
+dialysis initiation, death, and stroke risk (stroke was inter-
+estingly not periprocedural).707
+Certainty of evidence. The ERT review was limited to trials
+only recruiting people with CKD (and did not include the
+ISCHEMIA-CKD trial discussed above due to the inclusion of
+some people on dialysis and some people who have received a
+kidney transplant). The overall certainty of the evidence
+comparing coronary revascularization with optimal medical
+therapy among people with CKD not undergoing KRT and
+ischemic heart disease is very low (Supplementary Table
+S13700–704). Most of the RCTs reporting on the critical
+outcomes (all-cause mortality, CVD mortality, CVD events,
+kidney failure, and AKI) had some concerns regarding the
+risk of bias, particularly with lack of blinding for the
+outcome assessors, participants crossing over to the other
+treatment
+group, and
+the
+selection
+of
+reporting.
+The
+certainty of the evidence was downgraded for all outcomes
+because of imprecision. The certainty of the evidence for
+cardiovascular
+mortality
+was
+downgraded
+because
+publication bias was strongly suspected.
+Values and preferences. Although this was not conﬁrmed
+by ISCHEMIA-CKD, antianginal beneﬁts of an invasive
+strategy are apparent in general populations, and people with
+symptoms may still elect for an initially invasive approach to
+manage stable stress-test conﬁrmed coronary artery disease
+after being counseled about the risks.
+Resource use and costs. It is not possible to formally assess
+the cost-effectiveness of intensive medical therapy versus an
+initial invasive strategy due to mixed ﬁndings from the evi-
+dence in people with stable ischemic heart disease. However,
+invasive strategies will have higher cost implications to
+healthcare systems, people with CKD, or both.
+Considerations for implementation. Access and availability
+of invasive therapies will vary in different healthcare sys-
+tems, as might the availability of medications for maximal
+medical therapy. The key to implementation is to encourage
+the understanding of the value of full therapy as compared
+with invasive therapy so that healthcare providers and
+people with CKD understand the risks and beneﬁts of
+invasive strategies. Given the costs of invasive strategies,
+there may be additional value to implementing this
+recommendation.
+Rationale
+Evidence suggests that the key indication for an initial invasive
+strategy to manage stable ischemic heart disease is based on
+symptoms, and intensive medical therapy is a suitable
+approach if symptom control is satisfactory in people with or
+without CKD. In CKD, the antianginal beneﬁts of an initially
+invasive approach have not been demonstrated.
+Practice Point 3.15.3.1: Initial management with an inva-
+sive strategy may still be preferable for people with CKD
+with acute or unstable coronary disease, unacceptable levels
+of angina (e.g., patient dissatisfaction), left ventricular
+systolic dysfunction attributable to ischemia, or left main
+disease.
+The ISCHEMIA trial has been described as deeply dis-
+rupting prior attitudes regarding management strategies for
+people with stable coronary artery disease,705 and clinical
+practice guidelines that predate the trial need updating.706
+Despite the International Study of Comparative Health
+Effectiveness
+with
+Medical
+and
+Invasive
+Approaches
+(ISCHEMIA)
+and
+ISCHEMIA-CKD
+trial
+results,
+it
+is
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S239

@@ -1,0 +1,102 @@
+
+
+===== PDF PAGE 101 =====
+
+Choosing the Sample Design, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-15 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Why use multi- 
+stage cluster 
+sampling? 
+(cont.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preparing a 
+Multi-stage 
+Cluster Sample 
+In order to implement multi-stage cluster sampling, the population must be 
+divided into clusters, each of which contain either a number of smaller 
+clusters or, at the final stage, households or individuals. 
+ 
+The flowchart to the right is one example of the 
+multiple sampling stages that could be defined for 
+a country. 
+ 
+Most often the first stage uses enumeration areas 
+(EAs) from census information. The intermediary 
+stages, if any, may be comprised of existing 
+geopolitical units (e.g. villages) or artificially- 
+created units (e.g. a specified collection of city 
+blocks). 
+Population 
+District 
+Village 
+Household 
+Individual 
+Important: The number of sampling units at the initial stage must be fairly 
+numerous (i.e. >100) so at least 50-100 of them can be selected. Selecting a 
+smaller number of sampling units at the initial stage of sampling results in 
+more clustered data and a loss of precision in survey estimates. 
+ 
+A sampling frame will need to be constructed for all clusters in the first stage 
+of sampling. At minimum these sampling frames must contain the total 
+number of households or total number of target individuals in the cluster. 
+ 
+Sampling frames will only be needed for selected clusters at all subsequent 
+stages of sampling, with detailed information (i.e. lists of households or 
+Problem 
+Solution 
+The survey area is too large 
+and/or travel costs are too high 
+to draw a sample from the 
+entire country or all regions of 
+interest. 
+Because the sample is only drawn from 
+selected clusters, multi-stage cluster 
+sampling allows for a reduced area to be 
+surveyed while maintaining a sample that 
+is nationally (or subnationally) 
+representative. 
+Note: Using multi-stage cluster sampling 
+does not guarantee a representative 
+sample. If done incorrectly, it will not 
+result in a representative sample. The 
+design of the clusters and the selection of 
+clusters at every stage must be done 
+carefully and consistently and must be 
+documented in detail. 
+
+
+===== PDF PAGE 102 =====
+
+Choosing the Sample Design, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-16 
+WHO STEPS Surveillance 
+ 
+ 
+eligible individuals) only needed for the sampling frames for the last stage of 
+sampling. 

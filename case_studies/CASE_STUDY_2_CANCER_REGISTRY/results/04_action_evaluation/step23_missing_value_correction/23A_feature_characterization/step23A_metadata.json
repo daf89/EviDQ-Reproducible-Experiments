@@ -1,0 +1,33 @@
+{
+  "step": "23A",
+  "name": "Target Feature / Missingness Characterization",
+  "timestamp_utc": "2026-09-23T18:31:43.523373+00:00",
+  "dataset": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\data\\reference\\dataset_new.csv",
+  "dataset_sha256": "33b4f47288907c69835e16f39deafade2028b03337c4f47395ffb7fc39cc9369",
+  "target_feature": "icdo3_m_code",
+  "target_problem": "MISSING_VALUE",
+  "n_rows": 1865,
+  "n_missing": 62,
+  "missing_rate": 0.03324396782841823,
+  "frozen_step18_type": "UNKNOWN",
+  "type_changed": false,
+  "type_validation": "PENDING_DOCUMENTARY_EVIDENCE",
+  "missingness_mechanism": "NOT_ESTABLISHED",
+  "correction_applied": false,
+  "dataset_modified": false,
+  "hidden_reference_used": false,
+  "methodological_constraints": [
+    "No correction at Step23A",
+    "No imputation method selection",
+    "No semantic inference from feature name",
+    "No semantic inference from stored values",
+    "No type inference from pandas dtype",
+    "No MCAR/MAR/MNAR inference",
+    "No hidden-reference access"
+  ],
+  "outputs": {
+    "characterization": "Table_Target_Feature_Problem_Characterization.csv",
+    "stored_value_profile": "Table_Target_Feature_Stored_Value_Profile.csv",
+    "type_validation_input": "GPT56_Feature_Type_Validation_Input.json"
+  }
+}

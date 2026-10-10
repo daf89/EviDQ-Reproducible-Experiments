@@ -1,0 +1,123 @@
+
+
+===== PDF PAGE 237 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 3: Reporting and Disseminating Results 
+Last Updated: 26 January 2017 
+4-3-5 
+WHO STEPS Surveillance 
+Interpretation of Results 
+ 
+ 
+ 
+Introduction 
+In order to deliver a meaningful message, results need to be interpreted 
+carefully. A variety of factors such as response rates, season of data 
+collection or potential biases need to be thought through and taken into 
+account when interpreting results. Below are a few points to consider when 
+interpreting the results of your survey. 
+ 
+ 
+Represen- 
+tativeness of 
+results 
+Results should only be applied to the surveyed target population, and not be 
+generalized to a broader population. In addition to taking into consideration 
+the coverage of the survey (both geographically and demographically), it is 
+important to look at the response rate of your survey and ask if there is any 
+pattern in the non-response, i.e. do certain regions have very low response 
+rates?, is there a particular age-sex group severely under-represented in the 
+sample? 
+ 
+ 
+ 
+Uncertainty of 
+results 
+Confidence intervals help to determine the uncertainty of the estimates. The 
+smaller the interval, the better. Large intervals are generally due to small 
+sample size (either overall or for particular age-sex groups) or poor sampling 
+design (e.g. highly clustered sample). 
+ 
+ 
+ 
+Influence on 
+results 
+Think through carefully what could have influenced the results when 
+interpreting them. Potential influence factors include: 
+ 
+• sample sizes (Are they high enough to have produced robust results for all 
+subgroups?); 
+• response rates (Are they high or low? Are they the same for all subgroups, 
+or have some subgroups lower response rates than others? If so, why?); 
+• social pressure (May people have answered in a specific way to certain 
+questions because of social desirability?); 
+• survey methodology (Could flaws/problems in survey methods have 
+influenced results, e.g. problems in reaching working population during data 
+collection?); 
+• participant comprehension (Are there specific questions in the questionnaire 
+that seemed not to be understood by respondents?); 
+• season of data collection (Do certain behaviors, such as diet or physical 
+activity patterns, vary with the season?). 
+ 
+ 
+ 
+Results in a 
+context 
+When interpreting results, it is useful to put results in a context. As an 
+example, you may want to find out about the amount of cigarettes being sold 
+when looking into results for prevalence of cigarette smokers in a country. 
+Additionally, you should seek out comparable results from other surveys of 
+the same population. 
+ 
+ 
+
+
+===== PDF PAGE 238 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 3: Reporting and Disseminating Results 
+Last Updated: 26 January 2017 
+4-3-6 
+WHO STEPS Surveillance 
+Preparing and Distributing the Country Report 
+ 
+ 
+ 
+Introduction 
+The country report is the main comprehensive report for the whole STEPS 
+NCD risk factor survey and must be produced at the end  of  the  STEPS 
+survey. The STEPS Fact Sheet and STEPS Data Book should be completed 
+prior to beginning work on the country report. Use these documents to guide  
+the development of the country report. Additionally, be sure to have the latest 
+copy of the implementation plan for your survey as much of the plan can re- 
+used in the country report. 
+A template that helps preparing the STEPS country report is in Part 6, Section 
+3D. 
+ 
+ 
+Purpose 
+Use the country report to present the following information: 
+• the overall rationale; 
+• scope of the survey; 
+• the sampling design used; 
+• detailed methods of data collection; 
+• detailed results of the survey; 
+• implications for future health and planning; 
+• appendices including the country-specific instrument, show cards and data 
+book. 
+ 
+ 
+Intended 
+audience 
+It is recommended that you distribute the country report widely. Consider 
+sending copies to: 
+• relevant government bodies and sponsoring organizations; 
+• agencies and organizations that are likely to use the information to promote 
+NCD prevention and control; 
+• public, governmental and institutional (university) libraries; 
+• press and other media (newspapers, radio and television); 
+• websites of any sponsoring bodies; 
+• WHO STEPS Regional Office and the WHO Geneva STEPS team. 
+ 
+ 

@@ -1,0 +1,164 @@
+cardiovascular beneﬁt that do not require dose adjustment in
+CKD
+include
+liraglutide,
+semaglutide
+(injectable),
+and
+dulaglutide.23
+3.10 Metabolic acidosis
+As GFR decreases, the kidney’s ability to excrete hydrogen
+ions and generate bicarbonate decreases, resulting in the
+development
+of
+chronic
+metabolic
+acidosis.
+Metabolic
+acidosis is observationally associated with increased risk of
+protein catabolism, muscle wasting, inﬂammation, and other
+complications such as impaired cardiac function and mor-
+tality that are also associated with decreased eGFR.539,540 The
+causality of such associations remains to be demonstrated.
+Deﬁnition and prevalence. Serum bicarbonate concentration
+begins to fall progressively once eGFR falls below 60 ml/min
+per 1.73 m2 with reductions most evident in CKD stages G4–
+G5 (Figure 28,541 Table 23). The adjusted adult prevalence of
+serum bicarbonate <22 mmol/l was 7.7% and 6.7% in those
+with and without diabetes at stage G3, A1, respectively,
+increasing to 38.3% and 35.9% by CKD stage G5, A3.
+Practice Point 3.10.1: In people with CKD, consider use of
+pharmacological treatment with or without dietary inter-
+vention to prevent development of acidosis with potential
+clinical implications (e.g., serum bicarbonate <18 mmol/l
+in adults).
+Practice Point 3.10.2: Monitor treatment for metabolic
+acidosis to ensure it does not result in serum bicarbonate
+concentrations exceeding the upper limit of normal and
+does not adversely affect BP control, serum potassium, or
+ﬂuid status.
+The Work Group has not provided a graded recommen-
+dation for the treatment of acidosis due to a lack of large-scale
+RCTs supporting its use. In 2012, a 2B recommendation was
+justiﬁed because alkali supplementation may be a promising
+low-cost, high-beneﬁt adjunct treatment for people with CKD
+and may be accessible to all populations. This was based on an
+RCT that had suggested potential kidney disease progression
+and nutritional beneﬁts with no important increase in BP or
+heart failure complications.1 However, since 2012, a number
+of trials testing the hypothesis that sodium bicarbonate
+therapy would slow kidney disease progression have been
+reported, including several employing placebo control. A
+2021 systematic review identiﬁed 15 trials with $3 months
+of follow-up in people with CKD (eGFR <60 ml/min per
+1.73 m2 and/or proteinuria) comparing the effects of oral
+sodium bicarbonate versus placebo or versus no study
+medication on kidney outcomes. Of the 15 trials (2445
+participants,
+median
+follow-up
+12
+months),
+11
+were
+published since 2012. The totality of the evidence remains
+limited by a low number of outcomes, and meta-analysis
+restricted to the placebo-controlled trials does not conﬁrm
+any important modifying effect of oral sodium bicarbonate
+versus placebo on risk of kidney failure (HR: 0.81; 95% CI:
+0.54–1.22).542 The largest placebo-controlled trial of oral
+sodium bicarbonate was conducted by the Clinical and
+cost-effectiveness of oral sodium bicarbonate therapy for
+–5
+–4
+–3
+–2
+–1
+1
+0
+15
+30
+45
+60
+75
+90
+105
+120
+eGFR, ml/min/1.73 m2
+Serum bicarbonate, mmol/l
+A1
+A2
+A3
+Figure 28 | Association between estimated glomerular ﬁltration
+rate (eGFR) with serum bicarbonate concentration in general
+population and high-risk cohorts from the Chronic Kidney
+Disease Prognosis Consortium, by level of albuminuria (A1–A3).
+The y axis represents the meta-analyzed absolute difference from the
+mean adjusted value at an eGFR of 80 ml/min per 1.73 m2 and
+albumin excretion <30 mg/g (<3 mg/mmol). Reproduced from
+American Journal of Kidney Diseases, volume 73, issue 2, Inker LA,
+Grams ME, Levey AS, et al. Relationship of estimated GFR and
+albuminuria to concurrent laboratory abnormalities: an individual
+participant data meta-analysis in a Global Consortium, pages 206–
+217, Copyright ª 2018, with permission from the National Kidney
+Foundation, Inc.541
+Table 23| Variation of laboratory values in a large population databasea by age group, sex, and eGFR; bicarbonate, mmol/l,
+mean (SD), and n [ 3,990,898
+Measure, mean (SD)
+Age (yr)
+Sex
+GFR category (ml/min per 1.73 m2)
+105D
+90–104
+75–89
+60–74
+45–59
+30–44
+15–29
+0–14
+Serum bicarbonate
+$65
+Female
+27.4 (4.1)
+27.1 (2.9)
+26.9 (2.9)
+26.8 (2.9)
+26.5 (3.1)
+25.9 (3.5)
+24.8 (4.0)
+24.0 (4.8)
+Male
+27.1 (3.9)
+26.6 (2.9)
+26.7 (2.9)
+26.5 (2.9)
+26.1 (3.1)
+25.3 (3.8)
+24.1 (4.0)
+24.2 (4.8)
+<65
+Female
+25.2 (2.8)
+26.1 (2.8)
+26.3 (2.8)
+26.4 (2.9)
+26.2 (3.2)
+25.1 (3.6)
+23.6 (4.2)
+24.0 (5.0)
+Male
+26.4 (2.8)
+26.5 (3.0)
+26.6 (2.7)
+26.5 (2.9)
+25.9 (3.2)
+24.8 (4.4)
+23.5 (4.1)
+24.4 (4.7)
+eGFR, estimated glomerular ﬁltration rate; GFR, glomerular ﬁltration rate.
+aData from the Optum Labs Data Warehouse, a longitudinal, real-world data asset with deidentiﬁed administrative claims and electronic health record data. The database
+contains longitudinal health information on enrollees and patients, representing the diversity of geographical regions across the United States.
+chapter 3
+www.kidney-international.org
+S222
+Kidney International (2024) 105 (Suppl 4S), S117–S314

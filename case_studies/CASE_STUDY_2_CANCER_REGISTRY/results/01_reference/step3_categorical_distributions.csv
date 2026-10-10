@@ -1,0 +1,124 @@
+﻿feature,value,count,percent
+sex_code,1,1129,59.358569926393265
+sex_code,2,773,40.641430073606735
+sex_name,Male,1129,59.358569926393265
+sex_name,Female,773,40.641430073606735
+vital_status_code,9,1672,87.90746582544689
+vital_status_code,1,187,9.831756046267087
+vital_status_code,0,24,1.2618296529968454
+vital_status_code,8,19,0.9989484752891693
+vital_status_name,Dead,1672,87.90746582544689
+vital_status_name,Alive,187,9.831756046267087
+vital_status_name,Lost to follow-up,24,1.2618296529968454
+vital_status_name,Temporary record / unknown,19,0.9989484752891693
+diag_year,2020,224,11.77707676130389
+diag_year,2019,201,10.56782334384858
+diag_year,2013,194,10.199789695057834
+diag_year,2015,190,9.989484752891693
+diag_year,2014,190,9.989484752891693
+diag_year,2012,188,9.884332281808621
+diag_year,2011,186,9.779179810725552
+diag_year,2016,183,9.621451104100947
+diag_year,2017,178,9.35856992639327
+diag_year,2018,168,8.832807570977918
+diag_date_valid_name,FULL DATE VALID,1902,100.0
+mkb10_code,C34.1,579,30.441640378548897
+mkb10_code,C34.3,494,25.9726603575184
+mkb10_code,C34.9,450,23.65930599369085
+mkb10_code,C34.2,145,7.6235541535226075
+mkb10_code,C34.0,109,5.7308096740273395
+mkb10_code,C34.8,84,4.416403785488959
+mkb10_code,C33,41,2.155625657202944
+mkb10_name,"Upper lobe, bronchus or lung",579,30.441640378548897
+mkb10_name,"Lower lobe, bronchus or lung",494,25.9726603575184
+mkb10_name,"Bronchus or lung, unspecified",450,23.65930599369085
+mkb10_name,"Middle lobe, bronchus or lung",145,7.6235541535226075
+mkb10_name,Main bronchus,109,5.7308096740273395
+mkb10_name,Overlapping lesion of bronchus and lung,84,4.416403785488959
+mkb10_name,Malignant neoplasm of trachea,41,2.155625657202944
+mkb10_3char,C34,1861,97.84437434279705
+mkb10_3char,C33,41,2.155625657202944
+histology_code,8250/3,277,14.56361724500526
+histology_code,8041/3,264,13.880126182965299
+histology_code,8140/3,251,13.196635120925343
+histology_code,8260/3,242,12.723449001051526
+histology_code,8072/3,168,8.832807570977918
+histology_code,8070/3,159,8.3596214511041
+histology_code,8071/3,132,6.940063091482649
+histology_code,8000/3,74,3.890641430073607
+histology_code,8010/3,71,3.732912723449001
+histology_code,nan,62,3.2597266035751837
+histology_code,8020/3,60,3.1545741324921135
+histology_code,8012/3,54,2.8391167192429023
+histology_code,8240/3,34,1.7875920084121977
+histology_code,8430/3,29,1.5247108307045216
+histology_code,8560/3,25,1.3144058885383807
+icdo3_m_code,8250/3,277,14.56361724500526
+icdo3_m_code,8041/3,264,13.880126182965299
+icdo3_m_code,8140/3,251,13.196635120925343
+icdo3_m_code,8260/3,242,12.723449001051526
+icdo3_m_code,8072/3,168,8.832807570977918
+icdo3_m_code,8070/3,159,8.3596214511041
+icdo3_m_code,8071/3,132,6.940063091482649
+icdo3_m_code,8000/3,74,3.890641430073607
+icdo3_m_code,8010/3,71,3.732912723449001
+icdo3_m_code,nan,62,3.2597266035751837
+icdo3_m_code,8020/3,60,3.1545741324921135
+icdo3_m_code,8012/3,54,2.8391167192429023
+icdo3_m_code,8240/3,34,1.7875920084121977
+icdo3_m_code,8430/3,29,1.5247108307045216
+icdo3_m_code,8560/3,25,1.3144058885383807
+icdo3_m_name,Lepidic adenocarcinoma,277,14.56361724500526
+icdo3_m_name,"Small cell carcinoma, NOS",264,13.880126182965299
+icdo3_m_name,"Adenocarcinoma, NOS",251,13.196635120925343
+icdo3_m_name,"Papillary adenocarcinoma, NOS",242,12.723449001051526
+icdo3_m_name,"Squamous cell carcinoma, nonkeratinizing, NOS",168,8.832807570977918
+icdo3_m_name,"Squamous cell carcinoma, NOS",159,8.3596214511041
+icdo3_m_name,"Squamous cell carcinoma, keratinizing, NOS",132,6.940063091482649
+icdo3_m_name,"Neoplasm, malignant",74,3.890641430073607
+icdo3_m_name,"Carcinoma, NOS",71,3.732912723449001
+icdo3_m_name,nan,62,3.2597266035751837
+icdo3_m_name,"Carcinoma, undifferentiated, NOS",60,3.1545741324921135
+icdo3_m_name,"Large cell carcinoma, NOS",54,2.8391167192429023
+icdo3_m_name,"Neuroendocrine tumour, NOS",34,1.7875920084121977
+icdo3_m_name,Mucoepidermoid carcinoma,29,1.5247108307045216
+icdo3_m_name,Adenosquamous carcinoma,25,1.3144058885383807
+registry_stage_code,3,638,33.543638275499475
+registry_stage_code,1,552,29.02208201892745
+registry_stage_code,2,531,27.917981072555204
+registry_stage_code,9,181,9.516298633017877
+registry_stage_name,Metastatic,638,33.543638275499475
+registry_stage_name,Localized,552,29.02208201892745
+registry_stage_name,Regional,531,27.917981072555204
+registry_stage_name,No data,181,9.516298633017877
+stage_definition_code,SCR_STAGE_V1,1332,70.03154574132492
+stage_definition_code,SCR_STAGE_V2,570,29.96845425867508
+stage_definition_name,"Registry stage definition, earlier period",1332,70.03154574132492
+stage_definition_name,"Registry stage definition, later period",570,29.96845425867508
+diagnosis_method_code,7,1301,68.40168243953732
+diagnosis_method_code,5,234,12.302839116719243
+diagnosis_method_code,6,158,8.307045215562566
+diagnosis_method_code,2,132,6.940063091482649
+diagnosis_method_code,1,77,4.048370136698212
+diagnosis_method_name,Histological examination of primary tumour,1301,68.40168243953732
+diagnosis_method_name,Cytological examination,234,12.302839116719243
+diagnosis_method_name,Histological examination of metastasis,158,8.307045215562566
+diagnosis_method_name,Other diagnostic examinations,132,6.940063091482649
+diagnosis_method_name,Clinical,77,4.048370136698212
+finding_code,1,1590,83.59621451104101
+finding_code,3,160,8.412197686645637
+finding_code,2,57,2.996845425867508
+finding_code,9,53,2.786540483701367
+finding_code,8,42,2.2082018927444795
+finding_name,Clinical signs,1590,83.59621451104101
+finding_name,Other,160,8.412197686645637
+finding_name,Autopsy,57,2.996845425867508
+finding_name,Unknown,53,2.786540483701367
+finding_name,Cause-of-death report,42,2.2082018927444795
+administr_unit,Ljubljana,294,15.457413249211358
+administr_unit,Murska Sobota,285,14.98422712933754
+administr_unit,Celje,275,14.458464773922186
+administr_unit,Novo mesto,270,14.195583596214512
+administr_unit,Kranj,266,13.985278654048368
+administr_unit,Maribor,265,13.932702418506834
+administr_unit,Koper,247,12.9863301787592

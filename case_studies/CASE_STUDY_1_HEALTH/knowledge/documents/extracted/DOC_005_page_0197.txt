@@ -1,0 +1,61 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+197
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Le tableau ci-après résume les droits de chaque profil :
+Profils et droits attribués
+Administrateur demarche
+Collaborateur
+Lecteur
+Mise à jour des données 
+de l’établissement et de la 
+démarche
+Saisie
+•
+•
+Validation
+•
+Consultation
+•
+•
+•
+Évaluation interne
+Création/suppression 
+de grilles
+•
+•
+Attribution de grilles
+•
+•
+Rechercher une grille
+•
+•
+•
+Sélection de grilles 
+et transmission HAS
+•
+Rapport de visite pour 
+observation
+Formulation
+•
+Formulation et transmission
+•
+Rapport de certification
+Formulation 
+et transmission 
+du recours gracieux
+•
+Utilisateur
+Création de compte 
+(un seul administrateur, 
+collaborateur, lecteur)
+•
+Comment créer ou modifier un compte utilisateur ?
+L’administrateur de la démarche peut créer des comptes utilisateur dans « Mon équipe ».
+Pour vous aider dans cette opération, des vidéos, accessibles directement dans CALISTA, sont à votre disposition :
+Il n’est pas recommandé de créer plusieurs comptes avec plusieurs profils. En cas de départ d’un collaborateur 
+il est obligatoire de désactiver le compte dans CALISTA.
+ Fiche pratique opératoire_E1

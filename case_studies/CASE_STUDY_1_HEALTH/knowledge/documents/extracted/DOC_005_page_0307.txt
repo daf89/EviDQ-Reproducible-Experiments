@@ -1,0 +1,52 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+307
+Ajustements
+Critère 2.3-22
+Ajustement de l’évaluation en visite, en renforçant l’implication de la gouvernance sur le pilotage de 
+l’activité transport.
+Le transport des patients en intrahospitalier est maîtrisé
+Les délais de transports intrahospitalier sont adaptés au rythme de l’activité et au confort du patient.
+Changement de méthode d’investigation : méthode audit système.
+Les conditions de sécurité et de confort du patient lors de son transport intrahospitalier sont respectées 
+(matériel fonctionnel, protections adéquates...).
+Changement de méthode d’investigation : méthode observation.
+Libellé 2023 : Les professionnels sont formés.
+Suppression de l’élément d’évaluation car redondance avec le critère 3.4-04.
+Création d’un élément d’évaluation : Les délais de transports sont adaptés aux besoins.
+Critère 2.4-04
+Renforcement de l’exigence du critère. 
+Les équipes améliorent leurs pratiques en analysant les événements indésirables associés aux 
+soins qu’elles ont déclarés
+Création d’un élément d’évaluation : Les médecins et les équipes éligibles connaissent le dispositif 
+d’accréditation et les moyens mis à leur disposition par l’établissement pour développer une culture 
+sécurité à leur niveau.
+Critère 2.4-06
+Renforcement de l’exigence du critère. 
+Les équipes du bloc opératoire et des secteurs interventionnels améliorent leurs pratiques en 
+analysant les modalités de réalisation de la check-list
+Changement du niveau d’exigence avec passage en impératif par permutation avec le critère 2.2-12.
+Libellé 2023 : Des indicateurs de suivi de la mise en œuvre des check-lists sont définis par l’équipe (en 
+particulier le suivi des GO/NO GO) et leurs résultats sont exploités collectivement.
+Libellé 2024 : Des indicateurs de suivi des modalités de réalisation de la check-list sont suivis par les 
+équipes des blocs opératoires et des secteurs interventionnels (en particulier, le suivi des Go/No Go).
+Critère 3.1-07
+Ajustement lié au numérique en santé.
+Les modalités de communication permettent aux usagers et aux médecins de ville de contacter 
+l’établissement aisément
+Création d’un élément d’évaluation : L’établissement a cartographié les usages non sécurisés d'échange 
+des données de santé avec un plan d'actions de transfert sur l'usage de la messagerie sécurisée 
+citoyenne de Mon espace santé.
+Création d’un élément d’évaluation : L'établissement a mis en œuvre un plan d'action lui permettant 
+d'améliorer son taux d'alimentation du dossier médical de Mon espace santé (DMP).
+Libellé 2023 : L’alimentation du dossier médical de Mon espace santé (DMP) et du dossier pharma-
+ceutique est promue et suivie.
+Libellé 2024 : Les professionnels connaissent les types de documents du dossier médical de Mon espace 
+santé (DMP) reversés au dossier médical partage et au dossier pharmaceutique.
+Critère 3.2-09
+Ajustement lié au numérique en santé.
+L’établissement est organisé pour permettre au patient d’accéder à son dossier
+Création d’un élément d’évaluation : L’établissement met à disposition du patient l'information sur les 
+modalités d'accès à son profil Mon espace santé et à son usage. 
+Création d’un élément d'évaluation : L'établissement informe le patient que son équipe de soin va 
+alimenter et pourra consulter son dossier médical de Mon espace santé (DMP) dans le cadre de sa prise 
+en charge sauf en cas d'opposition de celui-ci.

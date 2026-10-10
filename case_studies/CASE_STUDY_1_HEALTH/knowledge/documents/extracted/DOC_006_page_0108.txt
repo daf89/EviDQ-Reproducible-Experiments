@@ -1,0 +1,45 @@
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N P R I M A R Y
+C A R E
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N 
+P R I M A R Y C A R E 
+9.2 Health and Social Factors (Social Determinants of Health) 
+As discussed in Section 6, having clinics seek to manage behavioral and social needs in their EHRs is a 
+relatively new, but growing, part of primary care. Health IT Advisors can assist clinics in creating new 
+workflow processes andhelping with EHR configuration to ensure that necessarydata are being 
+captured in structured data fields. 
+Integration of SDOH data into EHRs offers great potential for improved care and health. This includes a 
+better understanding of the influence of community-driven characteristics on health (i.e., the conditions 
+in which people live, learn, work, and play, noted above); improved connections between providers of 
+medical care and community services; anda chance to treat the “whole patient.”[99] Individual health 
+status is affected by inherited diseases and conditions that require medical care, and the prevalence of 
+such conditions may differ by sex, age, race and ethnicity, employment status, and other factors .[99] 
+Increased utilization of healthcare services may not always correlate to a greater need for care. Many 
+factors affect healthcare utilization independently of need and reflect differences among population 
+groups. Some of these factors relate to biologic or environmental differences among groups, suchas 
+disproportionate residence in polluted environments, access tohealthful food and adequate housing, 
+and education associated with effective use of healthcare.[100] Others are related to differences in 
+access, such as health insurance coverage or income needed to obtain services, ease of obtaining 
+services, and discriminatory practices of providers.[100] 
+SDOH mayinclude health literacy, education, employment, functional status (i.e., abilitytocomplete 
+activities of daily living), and even quality of sleep. Sleep deficiency can lead to physical and mental 
+health problems, injuries, loss of productivity, and even a greater risk of death. In practice, it is vital to 
+assess determinants that may help to understand socioeconomic status (and in turn health status). 
+These include transportation availability, medication and food insecurity.[101] Screenings for smoking, 
+depression, substance use, and anxiety are also included in this category. The Health IT Advisor can help 
+practices develop and implement methods and workflows for capturing this important information, and 
+then for utilizing it to improve quality of care. 
+9.3 Diseases and Risk-Stratification 
+Chronic diseases that influence resource allocation, healthcare costs, and overall outcomes may include 
+cancers, heart disease, chronic obstructive pulmonary disease (COPD), asthma, diabetes, hypertension, 
+obesity, depression, and other mental healthconditions. When a patient has more than one disease 
+(multiple comorbidities), risk for adverse health outcomes and elevated costs increases substantially. 
+A patient’s risklevel is in part determined by the number of conditions they have. While practices can 
+have slightly different “cut-offs” for different risk groups, in general, the highly complex group will 
+include patients with six or more chronic conditions. The high-risk group will include patients with 
+condition counts in the range of four-five. The rising-risk group will include those with two-three 
+conditions. Patients with either zero or one selected conditions will comprise the low-risk 
+group[102] (seeExhibit 53). Once the number of patients in eachcategoryis calculated, this data can be 
+used to re-allocate patients toother providers to help maintainequitable distribution of higher risk 
+patients in a practice, and/or to help patients in need access higher levels of or more specialized care. 
+Health IT Advisor Handbook 
+Page 103

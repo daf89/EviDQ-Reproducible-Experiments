@@ -1,0 +1,49 @@
+EHR Data Assessment Worksheet 
+Data captured in 
+discrete fields 
+accurately and 
+consistently on all 
+patients 
+Data captured in 
+discrete fields with 
+accuracy and/or 
+consistency 
+concerns 
+Data not captured 
+in discrete fields 
+Patient Linking Number 
+Date of Birth 
+Gender 
+Ethnicity 
+Race 
+Medications 
+Height 
+Weight 
+Body Mass Index (BMI) 
+BMI percentiles (for children) 
+BMI follow up plan (for children) – 
+Exercise counseling 
+BMI follow up plan (for children) – 
+Nutrition 
+Blood pressure – Diastolic 
+Blood pressure – Systolic 
+Substance abuse screening 
+Substance abuse follow up plan 
+Anxiety Screening results 
+Depression screening for patients 
+12+ years old 
+Maternal depression screening 
+Depression follow up plan 
+Standardized way to assess risk for 
+child developmental, behavioral, 
+and social delays 
+Immunizations 
+Colon cancer screening results 
+Mammogram results 
+Hemoglobin A1C results 
+Green 
+Data captured in discrete fields accurately and consistently on all patients 
+Yellow 
+Data captured in discrete fields with accuracy and/or consistency concerns 
+Red 
+Data elements not captured in discrete fields

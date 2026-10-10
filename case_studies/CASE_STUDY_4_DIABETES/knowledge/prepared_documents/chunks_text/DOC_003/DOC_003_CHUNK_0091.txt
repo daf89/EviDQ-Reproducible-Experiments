@@ -1,0 +1,75 @@
+
+
+===== PDF PAGE 181 =====
+
+Behavioural Measurements (Step 1), Continued 
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-21 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Core 
+questions on 
+history of 
+raised total 
+cholesterol 
+The STEPS questions on history of raised total cholesterol include: 
+ 
+• whether a person has ever had his/her total cholesterol measured 
+• diagnosis of raised total  cholesterol 
+• treatment of  raised total cholesterol 
+• traditional treatment of raised total cholesterol. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• H12: If a person's total cholesterol has never been measured, the rest of the 
+history of raised total cholesterol questions can be skipped; 
+• H13a: If a person has never been told that he/she has raised total cholesterol, 
+the rest of the history of raised total cholesterol questions can be skipped. 
+ 
+ 
+ 
+Core questions 
+on history of 
+cardiovascular 
+diseases 
+The STEPS questions on history of cardiovascular diseases include: 
+ 
+• whether a person has ever had a heart attack, chest pain from heart disease or  
+a stroke; 
+• prevention and treatment of heart disease. 
+ 
+ 
+ 
+Core questions 
+on lifestyle 
+advice 
+The STEPS questions on lifestyle advice are around six areas of potential 
+advice from a doctor or other health worker to prevent NCDs. 
+ 
+ 
+ 
+Core question 
+on cervical 
+cancer 
+screening 
+The STEPS question on cervical cancer screening asks female respondents 
+whether they have ever had a screening test for cervical cancer. 
+ 
+ 
+
+
+===== PDF PAGE 182 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-22 
+WHO STEPS Surveillance 
+ 
+ 
+ 

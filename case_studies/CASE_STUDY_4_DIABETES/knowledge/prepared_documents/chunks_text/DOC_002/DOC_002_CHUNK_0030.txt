@@ -1,0 +1,77 @@
+
+
+===== PDF PAGE 59 =====
+
+Indicators and metadata  ﻿
+47
+27. 	Retinopathy treatment among people with diabetes
+Indicator name
+Retinopathy treatment among people with diabetes
+Purpose
+To assess the level of retinopathy treatment among people with diabetes in 
+health facilities.
+Definition
+Proportion of people with diabetes and retinopathy who received retinopathy 
+treatment based on guidelines.
+Numerator
+Number of people with diabetes and retinopathy registered in health facilities 
+who received retinopathy treatment according to guidelines during the 
+reporting period.
+Denominator
+Total number of people with diabetes and retinopathy registered in health 
+facilities during the reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+WHO package of essential noncommunicable (PEN) disease interventions for 
+primary health care. Geneva: World Health Organization; 2020 (https://iris.who.
+int/handle/10665/334186).
+
+
+===== PDF PAGE 60 =====
+
+48
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+28. 	Diabetic foot treatment 
+Indicator name
+Diabetic foot treatment 
+Purpose
+To assess the level of diabetic foot treatment in health facilities.
+Definition
+Proportion of people with diabetes who developed diabetic foot and received 
+clinical treatment for diabetic foot according to WHO or national guidelines.
+Numerator
+Number of people with diabetes registered in health facilities who developed 
+diabetic foot and received clinical treatment for diabetic foot according to 
+guidelines during the reporting period.
+Denominator
+Total number of people with diabetes registered in health facilities who 
+developed diabetic foot during the reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes.  Geneva: World 
+Health Organization; 2020 (https://iris.who.int/handle/10665/331710). WHO 
+package of essential noncommunicable (PEN) disease interventions for primary 
+health care. Geneva: World Health Organization; 2020 (https://iris.who.int/
+handle/10665/334186).

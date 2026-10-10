@@ -1,0 +1,47 @@
+Practice Point 3.6.1: RASi (ACEi or ARB) should be administered using the highest approved dose that is tolerated to
+achieve the beneﬁts described because the proven beneﬁts were achieved in trials using these doses.
+Practice Point 3.6.2: Changes in BP, serum creatinine, and serum potassium should be checked within 2–4 weeks of
+initiation or increase in the dose of a RASi, depending on the current GFR and serum potassium.
+Practice Point 3.6.3: Hyperkalemia associated with use of RASi can often be managed by measures to reduce the serum
+potassium levels rather than decreasing the dose or stopping RASi.
+Practice Point 3.6.4: Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks
+following initiation of treatment or an increase in dose.
+Practice Point 3.6.5: Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hy-
+potension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms
+while treating kidney failure (estimated glomerular ﬁltration rate [eGFR] <15 ml/min per 1.73 m2).
+Practice Point 3.6.6: Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or
+ARB) for speciﬁc indications (e.g., to treat hypertension or heart failure with low ejection fraction).
+Practice Point 3.6.7: Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m2.
+3.7 Sodium-glucose cotransporter-2 inhibitors (SGLT2i)
+The Work Group concurs with the KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney
+Disease, which stated: “We recommend treating patients with type 2 diabetes (T2D), CKD, and an eGFR $20 ml/min per
+1.73 m2 with an SGLT2i (1A).”23 However, in the present guideline, we offer a more general 1A recommendation for adults with
+CKD. We also highlight practice points from the KDIGO Diabetes guideline for diabetes management in CKD, which are also
+relevant for people with CKD without diabetes:
+Recommendation 3.7.1: We recommend treating patients with type 2 diabetes (T2D), CKD, and an eGFR ‡20 ml/
+min per 1.73 m2 with an SGLT2i (1A).
+Practice Point 3.7.1: Once an SGLT2i is initiated, it is reasonable to continue an SGLT2i even if the eGFR falls below
+20 ml/min per 1.73 m2, unless it is not tolerated or KRT is initiated.
+Practice Point 3.7.2: It is reasonable to withhold SGLT2i during times of prolonged fasting, surgery, or critical medical
+illness (when people may be at greater risk for ketosis).
+Recommendation 3.7.2: We recommend treating adults with CKD with an SGLT2i for the following (1A):
+ eGFR ‡20 ml/min per 1.73 m2 with urine ACR ‡200 mg/g (‡20 mg/mmol), or
+ heart failure, irrespective of level of albuminuria.
+Practice Point 3.7.3: SGLT2i initiation or use does not necessitate alteration of frequency of CKD monitoring and the
+reversible decrease in eGFR on initiation is generally not an indication to discontinue therapy.
+Recommendation 3.7.3: We suggest treating adults with eGFR 20 to 45 ml/min per 1.73 m2 with urine ACR
+<200 mg/g (<20 mg/mmol) with an SGLT2i (2B).
+3.8 Mineralocorticoid receptor antagonists (MRA)
+The Work Group highlights a key recommendation and practice points from the KDIGO 2022 Clinical Practice Guideline for
+Diabetes Management in Chronic Kidney Disease.23
+Recommendation 3.8.1: We suggest a nonsteroidal mineralocorticoid receptor antagonist with proven kidney
+or cardiovascular beneﬁt for adults with T2D, an eGFR >25 ml/min per 1.73 m2, normal
+serum potassium concentration, and albuminuria (>30 mg/g [>3 mg/mmol]) despite
+maximum tolerated dose of RAS inhibitor (RASi) (2A).
+Practice Point 3.8.1: Nonsteroidal MRA are most appropriate for adults with T2D who are at high risk of CKD progression
+and cardiovascular events, as demonstrated by persistent albuminuria despite other standard-of-care
+therapies.
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S159

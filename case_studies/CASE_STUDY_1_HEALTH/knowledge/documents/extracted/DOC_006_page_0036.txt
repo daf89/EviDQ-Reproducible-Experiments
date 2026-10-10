@@ -1,0 +1,46 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Exhibit 15: Common Reasons for EHR Workflow Variation 
+Reason for EHR Workflow Variation 
+Example 
+Individual workflow preferences of clinicians and 
+staff 
+“The checkbox is too many clicks; I prefer to type 
+my notes.” 
+Deeply embedded habits carried over to the EHR 
+“We’ve always done it this way.” 
+Poorly configured EHR settings or hidden features “I didn’t know it did that!” 
+Inadequate training during and after 
+implementation 
+“This is how I was taught to do it.” 
+Unique circumstances 
+“The laboratory only sends us results by fax.” 
+Regulatory or payer requirements for 
+documentation 
+“XYZ insurance will only pay for X if we do this.” 
+Alternate workflows to “workaround” a bug or 
+missing feature 
+“The screen crashes if I try to enter numbers.” 
+Using data systems outside the EHR 
+“We view our patients’ discharge summaries in 
+the hospital’s EHR using their portal.” 
+There may be good reasons for a clinic to choose workflows that adversely impact data quality to use for 
+QI. While addressing themmay be out of scope for your project, you can mitigate the impact of 
+“alternative” workflows by identifying any data limitations early and incorporating them into the design 
+of the project. 
+EXAMPLE: 
+Dr. Smith is one of ten clinicians who are part of a QI project that requires them to enter 
+structured data by clicking a new template in their notes. He refuses to change his workflow. 
+Asking providers to change their workflows, especially if it means more time navigating the 
+EHR (“more clicks”) can be difficult. An option is to find a way to deal with the missing data, or 
+negotiate a workflow where staff handles data entry on behalf of the provider. 
+We will discuss the importance of data governance and quality assessment later in this section of the 
+handbook. 
+Data Implications for Key EHR workflows 
+Thomas Bodenheimer identified 23 EHR workflows that Health IT Advisors frequently target for 
+improvement, as shown in Figure 26.7 in Module 26: An Introduction to Electronic Health Records and 
+Meaningful Use of the Primary Care Practice Facilitation Curriculum.[38] Exhibit 16, below, lists how EHR 
+workflows may impact data important to QI work. 
+Health IT Advisor Handbook 
+Page 31

@@ -1,0 +1,28 @@
+{
+  "notebooks": [
+    {
+      "case": "CASE_STUDY_1_HEALTH",
+      "cells": 20,
+      "outputs": 34
+    },
+    {
+      "case": "CASE_STUDY_2_CANCER_REGISTRY",
+      "cells": 39,
+      "outputs": 51
+    },
+    {
+      "case": "CASE_STUDY_3_BEIJING",
+      "cells": 10,
+      "outputs": 25
+    },
+    {
+      "case": "CASE_STUDY_4_DIABETES",
+      "cells": 38,
+      "outputs": 46
+    }
+  ],
+  "copied_artifacts": 1799,
+  "excluded_artifacts": 915,
+  "remaining_path_matches": [],
+  "review_note": "Comments were translated using a terminology-based pass and should receive a final editorial review; notebooks were not re-executed."
+}

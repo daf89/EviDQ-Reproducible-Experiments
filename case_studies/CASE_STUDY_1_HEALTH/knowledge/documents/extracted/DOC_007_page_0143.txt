@@ -1,0 +1,133 @@
+those with CKD, and patient reports of their HRQoL are still
+rarely routinely recorded, despite increasing recognition of
+their importance.841–843 In addition, many of the assessments
+developed have been for people on dialysis, with little vali-
+dation in CKD populations not on KRT. In 2019, Verberne
+et al.841 described an international standard set of outcome
+measures for people with CKD, developed in conjunction
+with people with very high–risk CKD G3–G5. Within this
+standardized set of outcome measures, there are 4 domains,
+with one of the domains targeting 6 patient-reported
+outcomes
+for
+HRQoL
+(fatigue,
+pain,
+general
+HRQoL,
+physical function, depression, and daily activity). To date,
+there is no consensus on a single preferred patient-reported
+outcome measure (PROM) instrument to be used to assess
+these symptoms. However, 3 generic tools have been
+recommended by the International Consortium for Health
+Outcomes Measurement (ICHOM) (Table 37).
+The Patient-Reported Outcomes Measurement Informa-
+tion System (PROMIS) tool has been evaluated in adults and
+children
+with
+CKD,
+evidencing
+sufﬁcient
+validity
+and
+reliability.844–846 Further study is still needed to investigate its
+optimal use in routine nephrology care.
+5.2.3 Management of common symptoms for people with CKD
+Practice Point 5.2.3.1: Use evidence-informed management
+strategies to support people to live well with CKD and
+improve their health-related quality of life.
+The goal of effective symptom management in people
+with CKD is to assist them to live better with kidney disease,
+regardless of life expectancy, within a supportive care
+framework.838
+Unpleasant
+symptoms,
+such
+as
+CKD-
+associated
+pruritis
+and
+emotional/psychological
+distress,
+often occur within symptom clusters and treating one
+symptom
+may
+potentially
+alleviate
+other
+symptoms.835
+Developing treatment strategies can be challenging given
+the complexities of managing CKD in different populations
+and the variation in levels of evidence for managing the
+different
+symptoms
+experienced,
+with
+many
+strategies
+extrapolated from studies of treatments in the general
+Decreased appetite
+Prevalence 42%
+Severity score: 19.8
+Leg swelling
+Prevalence 45%
+Severity score: no data
+Fatigue
+Prevalence 70%
+Severity score: 22.8
+Shortness of breath
+Prevalence 42%
+Severity score: 15
+Muscle cramps
+Prevalence 46%
+Severity score: no data
+Heartburn
+Prevalence 46%
+Severity score: no data
+Drowsiness
+Prevalence 53%
+Severity score: 22.5
+Pain
+Prevalence 53%
+Severity score: 22.5
+Poor mobility
+Prevalence 56%
+Severity score: 19
+Bone/joint pain
+Prevalence 55%
+Severity score: no data
+Poor sleep
+Prevalence 49%
+Severity score: 23.8
+Sexual dysfunction
+Prevalence 48%
+Severity score: 56.4
+Itching
+Prevalence 46%
+Severity score: 25
+Figure 49| Common symptoms, prevalence, and severity in people with chronic kidney disease. To aid comparison of symptom severity
+scores across different outcome measures, all mean severity scores were converted to a 0–100 scale, where a higher score indicates greater
+severity. Adapted from Fletcher BR, Damery S, Aiyegbusi OL, et al. Symptom burden and health-related quality of life in chronic kidney disease:
+a global systematic review and meta-analysis. PLoS Med. 2022;19:e1003954.839 Copyright ª 2022 Fletcher et al. This is an open access article
+distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/).
+Table 37| Recommended patient-reported outcome measurement tools for use in people with CKD
+PROM tool
+Comments
+SF-36 version 2
+Widely used and well validated in many populations. Requires a license fee.
+RAND-36
+Older version of the SF-36. Does not require a license fee. Only available in English and Arabic.
+PROMIS and
+PROMIS-29
+Both short forms are based on extensive item banks. Available in paper and electronic versions. Well validated in general
+population with validation in people with CKD showing good reliability and sufﬁcient validity in both adults and pediatric
+populations.
+CKD, chronic kidney disease; PROM, Patient-Reported Outcomes; PROMIS, Patient-Reported Outcomes Measurement Information; SF-36, 36-item Short Form Health Survey.
+Table developed with data from Verberne et al.,841 Selewski et al.,844 and van der Willik EM, van Breda F, van Jaarsveld BC, et al. Validity and reliability of Patient-Reported
+Outcomes Measurement Information System (PROMIS) using computerized adaptive testing (CAT) in patients with advanced chronic kidney disease. Nephrol Dial Transplant.
+2022;38:1158–1169.845
+chapter 5
+www.kidney-international.org
+S258
+Kidney International (2024) 105 (Suppl 4S), S117–S314

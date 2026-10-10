@@ -1,0 +1,76 @@
+Example 1. Complete imputation 
+Payment source Donor Recipient (pre-imputation) 
+Recipient (post-imputation) 
+Medicare 
+$1,840 
+Missing 
+$1,840 
+Private insurance 
+$792 
+Missing 
+$792 
+Total expenses 
+$2,632 
+-- 
+$2,632 
+In Example 1, it was reported that a sample person had a hospital inpatient stay and was 
+covered by Medicare and private insurance but the respondent did not know the amount 
+paid by either source for that stay. The donor record that was selected for this recipient 
+in the hot-deck procedure was an inpatient stay where the hospital was paid a total of 
+$2,632, of which $1,840 was from Medicare and $792 was from a supplemental private 
+insurance policy. These identical values were imputed to the recipient record. 
+Example 2. Partial imputation 
+Payment source Donor Recipient (pre-imputation) 
+Recipient (post-imputation) 
+Out of pocket 
+$26 
+$5 
+$5 
+Private insurance 
+$971 
+Missing 
+$992 
+Total expenses 
+$997 
+-- 
+$997 
+In Example 2, it was reported that a sample person had an inpatient hospitalization, was 
+covered by private insurance, and that $5 was paid out of pocket but the respondent did 
+not know the amount paid to the hospital by private insurance. The donor record that 
+was selected for this recipient in the hot-deck procedure was an inpatient stay where the 
+hospital was paid a total of $997, of which $26 was paid out of pocket and $971 was 
+from private insurance. In this situation, the total amount paid for the event from the 
+donor ($997) was imputed to the recipient record, the reported out-of-pocket amount 
+($5) was retained, and the difference ($992) was imputed to the recipient record as a 
+private insurance payment. 
+Example 3. Imputation using total charge 
+Payment source Donor Recipient (pre-imputation) 
+Recipient (post-imputation) 
+Total charges 
+$5,171 
+$4,173 
+$4,173 
+Total expenses 
+$4,248 
+missing 
+$3,421 
+Medicare 
+$3,411 
+missing 
+$2,737 
+Private insurance 
+$837 
+missing 
+$684 
+As described earlier (see section on MEPS Expenditures Defined), charges are not 
+identical to but are highly correlated with expenditures (payments) made for health care. 
+In most instances, when there are missing data on payments for a health event reported 
+in the survey there are also missing data on charges. However, in situations where the 
+respondent reports the total charge for an event but does not know the actual payments, 
+the reported information on charges is used to improve the accuracy of the imputation. 
+To illustrate the use of total charge information when available, in Example 3 the 
+respondent reported there was $4,173 in hospital facility charges for the reported 
+inpatient stay. The donor record selected for the imputation in the hot-deck procedure 
+showed $5,171 in total charges and $4,248 in total expenses. The first step imputes total 
+expenses to the recipient record by applying the ratio of total expenses to total charges 
+5

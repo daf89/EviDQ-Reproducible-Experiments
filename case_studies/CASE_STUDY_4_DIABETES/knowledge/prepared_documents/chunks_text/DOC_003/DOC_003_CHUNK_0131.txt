@@ -1,0 +1,231 @@
+
+
+===== PDF PAGE 261 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-15 
+ 
+ 
+ 
+ 
+ 
+CORE: Blood Pressure 
+Question 
+Response 
+Code 
+Interviewer ID 
+└─┴─┴─┘ 
+M1 
+Device ID for blood pressure 
+└─┴─┘ 
+M2 
+Small 
+1 
+Cuff size used 
+Medium 
+2 
+M3 
+Large 
+3 
+Reading 1 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M4a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M4b 
+Reading 2 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M5a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M5b 
+Reading 3 
+Systolic ( mmHg) 
+└─┴─┴─┘ 
+M6a 
+Diastolic (mmHg) 
+└─┴─┴─┘ 
+M6b 
+During the past two weeks, have you been treated for raised 
+Yes 
+No 
+1 
+2 
+M7 
+blood pressure with drugs (medication) prescribed by a doctor or 
+other health worker? 
+CORE: Height and Weight 
+For women: Are you pregnant? 
+Yes 
+No 
+1 If Yes, go to M 16 
+2 
+M8 
+Interviewer ID 
+└─┴─┴─┘ 
+M9 
+Device IDs for height and weight 
+Height 
+Weight 
+└─┴─┘ 
+└─┴─┘ 
+M10a 
+M10b 
+Height 
+in Centimetres (cm) 
+└─┴─┴─┘. └─┘ 
+M11 
+Weight 
+If too large for scale 666.6 
+in Kilograms (kg) 
+└─┴─┴─┘.└─┘ 
+M12 
+CORE: Waist 
+Device ID for waist 
+└─┴─┘ 
+M13 
+Waist circumference 
+in Centimetres (cm) 
+└─┴─┴─┘.└─┘ 
+M14 
+ 
+EXPANDED: Hip Circumference and Heart Rate 
+Hip circumference 
+in Centimeters (cm) 
+└─┴─┴─┘.└─┘ 
+M15 
+Heart Rate 
+M16a 
+Reading 1 
+Beats per minute 
+└─┴─┴─┘ 
+Reading 2 
+Beats per minute 
+└─┴─┴─┘ 
+M16b 
+Reading 3 
+Beats per minute 
+└─┴─┴─┘ 
+M16c 
+Step 2 
+Physical Measurements 
+
+
+===== PDF PAGE 262 =====
+
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-16 
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+Step 3 
+Biochemical Measurements 
+ 
+ 
+ 
+CORE: Blood Glucose 
+Question 
+Response 
+Code 
+During the past 12 hours have you had anything to eat or drink, 
+Yes 
+1 
+B1 
+other than water? 
+No 
+2 
+Technician ID 
+└─┴─┴─┘ 
+B2 
+Device ID 
+└─┴─┘ 
+B3 
+Time of day blood specimen taken (24 hour clock) 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+B4 
+Fasting blood glucose 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B5 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+Today, have you taken insulin or other drugs (medication) that 
+Yes 
+No 
+1 
+2 
+B6 
+have been prescribed by a doctor or other health worker for 
+raised blood glucose? 
+CORE: Blood Lipids 
+Device ID 
+└─┴─┘ 
+B7 
+Total cholesterol 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B8 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+During the past two weeks, have you been treated for raised 
+Yes 
+No 
+1 
+2 
+B9 
+cholesterol with drugs (medication) prescribed by a doctor or 
+other health worker? 
+CORE: Urinary sodium and creatinine 
+Had you been fasting prior to the urine collection? 
+Yes 
+No 
+1 
+2 
+B10 
+Technician ID 
+└─┴─┴─┘ 
+B11 
+Device ID 
+└─┴─┘ 
+B12 
+Time of day urine sample taken (24 hour clock) 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+B13 
+Urinary sodium 
+mmol/l 
+└─┴─┴─┘.└─┘ 
+B14 
+Urinary creatinine 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B15 
+ 
+EXPANDED: Triglycerides and HDL Cholesterol 
+Question 
+Response 
+Code 
+Triglycerides 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+mmol/l 
+└─┴─┘. └─┴─┘ 
+B16 
+mg/dl 
+└─┴─┴─┘.└─┘ 
+HDL Cholesterol 
+[CHOOSE ACCORDINGLY: MMOL/L OR MG/DL] 
+mmol/l 
+└─┘. └─┴─┘ 
+B17 
+mg/dl 
+└─┴─┴─┘.└─┘ 

@@ -1,0 +1,179 @@
+recessive mutations in the gene encod
+ing the cystic fibrosis transmembrane 
+conductance regulator (CFTR) protein. 
+Cystic fibrosis–related diabetes (CFRD) is 
+a common comorbidity in people living 
+with cystic fibrosis that is distinct from 
+type 1 or type 2 diabetes and is often 
+accompanied by pancreatic exocrine in
+sufficiency (144). CFRD occurs in about 
+20% of adolescents and 50% of adults 
+(145) and is associated with worse nu
+tritional status and increased morbidity 
+and mortality (146). Although insuffi
+cient insulin secretion is the primary de
+fect in CFRD, insulin resistance can also 
+occur in the setting of intervening ill
+nesses and treatment with glucocorti
+coids. Current guidelines recommend 
+screening for CFRD in people living with 
+cystic fibrosis starting at age 10 years. 
+Although screening for diabetes before 
+the age of 10 years can identify risk for 
+progression to CFRD in those with IGT, 
+no benefit has been established with re
+spect to weight, height, BMI, or lung 
+function (145). Based on its elevated 
+predictive value (147), OGTT is the rec
+ommended screening test for CFRD in 
+all people living with cystic fibrosis, if 
+feasible, and should be repeated annu
+ally. However, engagement in current 
+CFRD screening guidelines is poor, with 
+only 30–40% of adults with cystic fibrosis 
+having annual OGTTs (148,149).
+In this context, other professional or
+ganizations have advocated for the use 
+of A1C as part of a two-step screening 
+strategy as an alternative to OGTT and 
+to maximize the diagnostic yield of OGTT 
+(150). Specifically, a retrospective study 
+investigating the diagnostic performance 
+of OGTT vis-à-vis A1C in 256 community- 
+dwelling people living with cystic fibrosis, 
+age 10–18 years, showed that A1C of 
+5.5% and 5.8% provided a sensitivity of 
+91% and 95%, respectively, to detect 
+CFRD by OGTT (151). A1C 5.5% also af
+forded a negative predictive value for 
+CFRD of approximately 98%, thus making 
+A1C an effective first-line screening tool 
+to identify people living with cystic fi
+brosis who should not undergo further 
+testing with OGTT. In this framework al
+ternative to the annual OGTT, only peo
+ple living with cystic fibrosis with A1C 
+5.5–6.4% would proceed with OGTT. 
+A1C ≥6.5% (≥48 mmol/mol) is consis
+tent with a diagnosis of CFRD (152–154) 
+and should be followed by a confirma
+tory test (preferably a repeat A1C or an 
+OGTT, as the sensitivity of FPG is lower in 
+people living with cystic fibrosis). Regard
+less of age, weight loss or failure of ex
+pected weight gain is a risk for CFRD and 
+should prompt screening (152,153). In 
+the Cystic Fibrosis Foundation Patient 
+Registry (155) that evaluated 3,553 peo
+ple living with cystic fibrosis, of whom 
+13% had CFRD, early diagnosis and treat
+ment of CFRD was associated with pres
+ervation of lung function. While CGM 
+(156) may be more sensitive than OGTT 
+for capturing early phases of dysglycemia, 
+the lack of validated CGM thresholds or 
+metrics to diagnose CFRD precludes, for 
+now, recommending the use of CGM as 
+a screening tool outside the research set
+ting (145). There is inadequate evidence 
+presently to alter CFRD screening based 
+on use of highly effective CFTR modula
+tor therapy, which uses small-molecule 
+compounds that directly correct the basic 
+defect of the CFTR channel and restore 
+channel function (145).
+Limited clinical trial data exist to in
+form optimal therapy for CFRD. People 
+with CFRD should be treated with insulin 
+to attain individualized glycemic goals. 
+See section 9, “Pharmacologic Approaches 
+to Glycemic Treatment,” for further 
+information.
+POSTTRANSPLANTATION 
+DIABETES MELLITUS
+Recommendations
+2.26 After organ transplantation, 
+screening for hyperglycemia should 
+be done. A formal diagnosis of post
+transplantation diabetes mellitus (PTDM) 
+is best made once the individual is 
+stable on an immunosuppressive plan 
+and in the absence of an acute infec
+tion. B
+2.27 The OGTT is the preferred test 
+to make a diagnosis of PTDM. B
+2.28 Immunosuppressive plans shown 
+to provide the best outcomes for indi
+viduals and graft survival should be 
+used, irrespective of PTDM risk. E
+Several terms are used in the literature 
+to describe the presence of diabetes fol
+lowing organ transplantation (157). New- 
+onset diabetes after transplantation 
+(NODAT) is one such designation that de
+scribes individuals who develop new-onset 
+diabetes following transplant. NODAT 
+excludes people with pretransplant dia
+betes who were undiagnosed as well as 
+posttransplant hyperglycemia that resolves 
+by the time of discharge (158). Another 
+term, posttransplantation diabetes melli
+tus (PTDM) (158,159), describes the pres
+ence of diabetes in the posttransplant 
+setting irrespective of the timing of dia
+betes onset. The clinical importance of 
+PTDM lies in its impact as a significant 
+risk factor for cardiovascular disease and 
+chronic kidney disease in solid-organ 
+transplantation (157).
+Hyperglycemia is very common dur
+ing the early posttransplant period, with 
+∼90% of kidney allograft recipients ex
+hibiting hyperglycemia in the first few 
+weeks following transplant (158–161). In 
+most cases, such stress- or glucocorticoid- 
+induced hyperglycemia resolves by the 
+time of discharge (161,162). Although 
+the use of immunosuppressive therapies 
+is a major contributor to the develop
+ment of PTDM, the risks of transplant re
+jection outweigh the risks of PTDM, and 
+the role of the diabetes health care 
+professional is to treat hyperglycemia 
+appropriately regardless of the type of im
+munosuppression (158). Risk factors for 
+PTDM include both general diabetes risks 
+(such as age, family history of diabetes, 
+and obesity) and transplant-specific fac
+tors, such as use of immunosuppressant 
+agents (163–165). Whereas hyperglycemia 
+in the early period after transplantation is 
+an important risk factor for subsequent 
+PTDM, a formal diagnosis of PTDM is opti
+mally made once the individual is stable 
+on maintenance immunosuppression (usu
+ally 3 months) and in the absence of 
+acute infection (158,161–163,166).
+OGTT is the recommended test for the 
+diagnosis of PTDM as early as 3 months 
+posttransplant (158). However, screening 
+people with FPG and/or A1C can identify 
+high-risk individuals who require further 
+assessment and may reduce the number 
+of overall OGTTs required.
+Few RCTs have reported on the short- 
+and long-term use of glucose-lowering 
+medications in the setting of PTDM 
+(163,167,168). Most studies have re
+ported that transplant individuals with 
+hyperglycemia and PTDM after trans
+plantation have higher rates of rejec
+tion, infection, and rehospitalization 
+(161,163,169). Insulin therapy is the 
+agent of choice for the management 
+of hyperglycemia and diabetes in the 
+hospital setting and can be continued 
+S40 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

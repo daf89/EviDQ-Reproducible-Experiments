@@ -1,0 +1,74 @@
+{
+  "knowledge_base": "KB_DOCUMENT",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "version": "KB_DOCUMENT_CASE2_v1",
+  "created_at_utc": "2026-09-22T16:18:21.279453+00:00",
+  "finalization_processor": "Python / Jupyter",
+  "semantic_processor": "GPT-5.6 Sol",
+  "knowledge_source": "DOCUMENT",
+  "official_documents_only": true,
+  "step12_established_items": 81,
+  "step13_exact_groups": 23,
+  "step13_semantic_groups": 23,
+  "final_knowledge_items": 23,
+  "semantic_merges": 0,
+  "all_original_knowledge_items_traceable": true,
+  "knowledge_types": [
+    "SEMANTICS",
+    "DOMAIN_CONSTRAINT",
+    "ERROR",
+    "DETECTION",
+    "CORRECTION"
+  ],
+  "final_distribution_by_type": {
+    "SEMANTICS": 13,
+    "DOMAIN_CONSTRAINT": 5,
+    "ERROR": 1,
+    "DETECTION": 3,
+    "CORRECTION": 1
+  },
+  "final_distribution_by_feature": {
+    "registry_stage_code": 11,
+    "age_diag": 9,
+    "mkb10_code": 3
+  },
+  "controls": {
+    "step12_81_items_valid": true,
+    "exact_23_groups_valid": true,
+    "semantic_23_groups_valid": true,
+    "no_missing_exact_groups": true,
+    "no_missing_semantic_groups": true,
+    "no_cross_feature_merging": true,
+    "no_cross_knowledge_type_merging": true,
+    "no_knowledge_type_conversion": true,
+    "no_new_knowledge_created": true,
+    "provenance_preserved": true,
+    "all_81_source_items_traceable": true,
+    "semantic_reasoning_during_finalization": false,
+    "external_knowledge_used": false,
+    "hidden_reference_used": false,
+    "dataset_used": false,
+    "dataset_diagnosis": false,
+    "correction_application": false,
+    "tfidf_used": false,
+    "cosine_similarity_used": false,
+    "embeddings_used": false,
+    "bm25_used": false,
+    "top_k_used": false
+  },
+  "inputs": {
+    "step12_established_knowledge": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\llmb_output\\Table_LLMB_Established_Knowledge.csv",
+    "exact_provenance": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\tables\\Table_Exact_Knowledge_Provenance.csv",
+    "semantic_mapping": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\consolidation_output\\Table_Semantic_Consolidation_Mapping.csv",
+    "semantic_candidates": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\consolidation_output\\Table_KB_DOCUMENT_Consolidated_Candidates.csv",
+    "semantic_metadata": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step13_kb_document_construction\\consolidation_output\\step13_semantic_consolidation_metadata.json"
+  },
+  "outputs": {
+    "csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\KB_DOCUMENT.csv",
+    "jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\KB_DOCUMENT.jsonl"
+  },
+  "sha256": {
+    "KB_DOCUMENT.csv": "c0721cb465db0e337c652170c140c428e760f3d7f3f34bf5e5d104769981d994",
+    "KB_DOCUMENT.jsonl": "67f010e35077ef9bae958eb774a57450230739f2c311f79fabb940bb8a52637a"
+  }
+}

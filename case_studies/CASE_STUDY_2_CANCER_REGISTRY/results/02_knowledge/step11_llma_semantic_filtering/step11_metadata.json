@@ -1,0 +1,81 @@
+{
+  "step": "STEP11_LLMA_SEMANTIC_FILTERING",
+  "processor": "GPT-5.6 Sol",
+  "semantic_prefilter": false,
+  "tfidf": false,
+  "cosine_similarity": false,
+  "embedding_prefilter": false,
+  "keyword_prefilter": false,
+  "top_k": false,
+  "all_feature_chunk_pairs_evaluated": true,
+  "expected_pairs": 1700,
+  "expected_chunks_per_feature": 340,
+  "external_knowledge_used": false,
+  "hidden_reference_used": false,
+  "scientific_articles_added": false,
+  "error_extraction": false,
+  "detection_extraction": false,
+  "correction_extraction": false,
+  "decision_policy": "Conservative semantic filtering; uncertainty => NOT_RELEVANT. Evidence is the smallest exact passage identified inside chunk_text that directly supports material relevance.",
+  "not_documented_policy": "No meaning inferred from technical feature names; without supplied semantics, decisions are NOT_RELEVANT with semantic link NOT_ESTABLISHED.",
+  "controls": {
+    "input_pairs": 1700,
+    "decisions_produced": 1700,
+    "duplicate_pair_id_count": 0,
+    "missing_pair_id_count": 0,
+    "decisions_per_feature": {
+      "administr_unit": 340,
+      "age_diag": 340,
+      "icdo3_m_code": 340,
+      "mkb10_code": 340,
+      "registry_stage_code": 340
+    },
+    "valid_decisions": true,
+    "relevant_evidence_exact_substring": true,
+    "not_relevant_evidence_empty": true,
+    "not_documented_semantics_invented": false,
+    "documentary_preselection_performed": false,
+    "all_feature_chunk_pairs_evaluated": true
+  },
+  "counts": {
+    "RELEVANT": 63,
+    "NOT_RELEVANT": 1637
+  },
+  "summary_by_feature": [
+    {
+      "feature": "registry_stage_code",
+      "total_chunks": 340,
+      "RELEVANT": 39,
+      "NOT_RELEVANT": 301,
+      "percent_RELEVANT": 11.47
+    },
+    {
+      "feature": "icdo3_m_code",
+      "total_chunks": 340,
+      "RELEVANT": 0,
+      "NOT_RELEVANT": 340,
+      "percent_RELEVANT": 0.0
+    },
+    {
+      "feature": "age_diag",
+      "total_chunks": 340,
+      "RELEVANT": 11,
+      "NOT_RELEVANT": 329,
+      "percent_RELEVANT": 3.24
+    },
+    {
+      "feature": "administr_unit",
+      "total_chunks": 340,
+      "RELEVANT": 0,
+      "NOT_RELEVANT": 340,
+      "percent_RELEVANT": 0.0
+    },
+    {
+      "feature": "mkb10_code",
+      "total_chunks": 340,
+      "RELEVANT": 13,
+      "NOT_RELEVANT": 327,
+      "percent_RELEVANT": 3.82
+    }
+  ]
+}

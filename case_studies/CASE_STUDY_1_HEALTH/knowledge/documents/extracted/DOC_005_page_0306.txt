@@ -1,0 +1,61 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+306
+Ajustements
+Critère 2.2-14
+Suppression d’une redondance.
+En HAD, la capacité d’intervention soignante à domicile 24 heures sur 24 et 7 jours sur 7 est 
+assurée
+Libellé 2023 : Le patient et son entourage savent qui appeler en cas d’urgence.
+Suppression de l’élément d’évaluation car redondance avec le critère 1.1-13.
+Libellé 2023 : La réhospitalisation des patients en urgence est organisée avec le SAMU et l’établissement 
+de recours.
+Libellé 2024 : La réhospitalisation des patients en urgence est organisée avec le SAMU.
+Libellé 2023 : Une organisation est en place pour assurer la prise en charge des urgences vitales au 
+domicile du patient 24 heures sur 24.
+Suppression de l’élément d’évaluation en cas d’urgence vitale, le patient et/ou sa famille doit appeler le 15.
+Critère 2.2-20
+Libellé 2023 : Une lettre de liaison à la sortie est remise au patient et adressée au médecin traitant.
+Libellé 2024 : Une lettre de liaison à la sortie est remise au patient et permet la continuité du parcours de 
+soin.
+Critère 2.3-01
+Ajustement lié au numérique en santé.
+Les équipes respectent les bonnes pratiques d’identification du patient à toutes les étapes de sa 
+prise en charge
+Libellé 2023 : Les lieux où s’effectue l’identification des patients, ainsi que les acteurs impliqués dans 
+l’identification, sont connus.
+Libellé 2024 : Les lieux où s’effectue l’identification des patients, ainsi que les acteurs impliqués dans la 
+qualification de l’identification, sont connus.
+Création d’un élément d’évaluation : Les équipes savent contacter les référents de la cellule 
+d'identitovigilance en cas de doute de l'unicité d'un dossier patient.
+Libellé 2023 : L’ensemble des documents du dossier du patient sont identifiés.
+Libellé 2024 : S'il persiste des documents papier du dossier du patient, la bonne identification du patient 
+est reportée sur tous les éléments du dossier papier.
+Critère 2.3-03
+Les équipes respectent les bonnes pratiques de prescription et de dispensation des 
+médicaments
+Libellé 2023 : Dans le cas d’une non-utilisation du dossier informatisé pharmaceutique, la prescription 
+mentionne clairement l’identification et la signature du prescripteur, la date et l’heure, la dénomination des 
+molécules en DCI, la posologie, la durée du traitement.
+Libellé 2024 : La prescription mentionne clairement l’identification et la signature du prescripteur, la date 
+et l’heure, la dénomination des molécules en DCI, la posologie, la durée du traitement.
+Critère 2.3-06
+Ajustement de l’évaluation en visite.
+Les équipes maîtrisent l’utilisation des médicaments à risque
+La liste des médicaments à risque est adaptée et connue.
+Changement de méthode d’investigation pour l'élément d’évaluation : méthode traceur ciblé.
+Critère 2.3-07
+Suppression d’une redondance.
+L’approvisionnement, le stockage et l’accès aux produits de santé sont réalisés conformément 
+aux recommandations de bonnes pratiques
+Libellé 2023 : Le stockage des produits de santé est sécurisé, notamment pour les produits à risque.
+Suppression de l’élément d’évaluation car redondance avec le critère 2.3-06.
+Libellé 2023 : Les conditions de stockage des produits thermosensibles sont respectées.
+Suppression de l’élément d’évaluation car redondance avec le critère 2.3-06.
+Critère 2.3-17
+Ajustement des recommandations vaccinales.
+Les équipes respectent les recommandations et obligations vaccinales pour les professionnels 
+de santé
+Libellé 2023 : L’établissement assure la promotion des vaccinations recommandées (coqueluche, 
+rougeole, varicelle et grippe saisonnière) et obligatoires (hépatite B et COVID-19).
+Libellé 2024 : L’établissement assure la promotion des vaccinations recommandées (coqueluche, 
+rougeole, varicelle, grippe saisonnière et COVID-19) et obligatoires (hépatite B).

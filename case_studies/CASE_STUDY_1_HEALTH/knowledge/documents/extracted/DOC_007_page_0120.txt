@@ -1,0 +1,167 @@
+standardization to a 1.0 mmol/l (38.7 mg/dl) LDL cholesterol
+difference, the RR reductions in major vascular events
+observed with statin-based treatment in the large statin trials
+were shown to become progressively smaller as eGFR
+declines, with little evidence of beneﬁt in people on dialysis
+(Figure 37).671 The corollary of this observation is that in
+people with CKD, statin-based regimens should be chosen to
+maximize the absolute reduction in LDL cholesterol to
+achieve the largest treatment beneﬁts. Large trials have shown
+the following once-daily intensive statin-based regimens are
+safe in CKD (including people on dialysis): atorvastatin
+20 mg,672 rosuvastatin 10 mg,673 and simvastatin 20 mg
+combined with ezetimibe 10 mg.669,670
+Practice Point 3.15.1.3: In adults with CKD aged 18–49, a
+lower (i.e., <10%) estimated 10-year incidence of coronary
+death or nonfatal myocardial infarction may also be
+appropriate
+thresholds
+for
+initiation
+of
+statin-based
+therapy.
+The Work Group deems it appropriate to consider lower
+thresholds for the initiation of statin-based therapy in adults
+with
+CKD
+than
+suggested
+in
+the
+KDIGO
+2013
+Major coronary event
+eGFR ≥60 m min per 1.73 m2
+eGFR 45 to <60 m /min per 1.73 m2
+eGFR 30 to <45 m /min per 1.73 m2
+eGFR <30 m /min per 1.73 m2 not on dialysis
+On dialysis
+Total
+Coronary revascularisation
+eGFR ≥60 m /min per 1.73 m2
+eGFR 45 to <60 m /min per 1.73 m2
+eGFR 30 to <45 m /min per 1.73 m2
+eGFR <30 m /min per 1.73 m2 not on dialysis
+On dialysis
+Total
+Stroke
+eGFR ≥60 m /min per 1.73 m2
+eGFR 45 to <60 m /min per 1.73 m2
+eGF 30 to <45 m /min per 1.73 m2
+eGFR <30 m min per 1.73 m2 not on dialysis
+On dialysis
+Total
+Major vascular event
+eGFR ≥60 m /min per 1.73 m2
+eGFR 45 to <60 m /min per 1.73 m2
+eGFR 30 to <45 m /min per 1.73 m2
+eGFR <30 m /min per 1.73 m2 not on dialysis
+On dialysis
+Total
+RR (CI) per 1.0 mmol/ 
+reduction in LDL 
+cholesterol
+P for 
+trend
+Statin or more
+intensive regimen
+Control or less
+intensive regimen
+Number of events (% per annum)
+3200 (1.2%)
+1157 (1.7%)
+457 (2.3%)
+163 (1.5%)
+264 (2.1%)
+5303 (1.4%)
+3943 (1.5%)
+1039 (1.5%)
+265 (1.3%)
+99 (0.9%)
+183 (1.5%)
+5618 (1.5%)
+1408 (0.5%)
+575 (0.8%)
+263 (1.3%)
+116 (1.1%)
+213 (1.7%)
+2591 (0.7%)
+7348 (2.9%)
+2377 (3.6%)
+863 (4.5%)
+320 (3.0%)
+571 (4.7%)
+11,617 (3.2%)
+4178 (1.6%)
+1479 (2.2%)
+567 (2.8%)
+179 (1.7%)
+287 (2.3%)
+6761 (1.8%)
+4963 (1.9%)
+1387 (2.1%)
+328 (1.6%)
+123 (1.2%)
+224 (1.8%)
+7113 (1.9%)
+1661 (0.6%)
+708 (1.0%)
+284 (1.4%)
+137 (1.3%)
+199 (1.6%)
+3019 (0.8%)
+8933 (3.6%)
+3013 (4.6%)
+1014 (5.2%)
+364 (3.5%)
+599 (5.0%)
+14,079 (3.9%)
+0.74 (0.70–0.79)
+0.76 (0.69–0.84)
+0.80 (0.68–0.95)
+0.87 (0.68–1.12)
+0.89 (0.70–1.14)
+0.76 (0.73−0.79)
+0.76 (0.71–0.80)
+0.71 (0.64–0.80)
+0.81 (0.64–1.02)
+0.78 (0.57–1.05)
+0.78 (0.58–1.05)
+0.75 (0.73−0.78)
+0.83 (0.76–0.92)
+0.81 (0.70–0.93)
+0.91 (0.73–1.13)
+0.83 (0.63–1.10)
+1.09 (0.82–1.44)
+0.84 (0.80−0.89)
+0.78 (0.75–0.82)
+0.76 (0.70–0.81)
+0.85 (0.75–0.96)
+0.85 (0.71–1.02)
+0.94 (0.79–1.11)
+0.79 (0.77−0.81)
+0.01
+0.9
+0.07
+0.008
+LDL cholesterol
+lowering worse
+LDL cholesterol
+lowering better
+99% or 
+95% CI
+0.75
+0.5
+1.00
+1.50
+Figure 37 | Effect of lowering low-density lipoprotein (LDL) cholesterol per 1.0 mmol/l on risk of major vascular events by level of
+estimated glomerular ﬁltration rate (eGFR) at recruitment. Meta-analysis of 28 large trials of statin-based therapy using individual
+participant level data. The black squares and horizontal lines represent 99% conﬁdence intervals (CIs), with diamonds representing 95% CI. RR,
+relative risk. Reproduced from Herrington WG, Emberson J, Mihaylova B, et al. Impact of renal function on the effects of LDL cholesterol
+lowering with statin-based regimens: a meta-analysis of individual participant data from 28 randomised trials. Lancet Diabetes Endocrinol.
+2016;4:829–839.671 ª The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY license.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S235

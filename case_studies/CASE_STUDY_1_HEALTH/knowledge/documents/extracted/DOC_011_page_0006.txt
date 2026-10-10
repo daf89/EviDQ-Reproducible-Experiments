@@ -1,0 +1,36 @@
+3 
+for MEPS sample persons with linked MOS responses to enable nationally representative 
+analyses of the MOS target population. The derivation of the MOS weight accounted for several 
+factors including the probability of selection for MEPS, nonresponse to MEPS, non-authorization 
+for the MPC, and nonresponse to the MOS. The MOS target population in 2016 reflects an 
+estimated 146,956,636 persons (the sum of MOS analytic weights) who visited their usual source 
+of care (USC) provider in an office-based setting at least once during the year. 
+Sample Selection: Design and Implementation 
+The MPC sample for the 2016 data year was derived from providers identified during HC 
+interviews as having provided health care for reported medical events during calendar year 2016. 
+Only providers for whom a signed permission form was obtained from the household authorizing 
+contact were eligible for data collection in the MPC. In 2016, permission was granted to contact 
+nearly three-quarters of providers who were eligible for the MPC. 
+The categories of providers included: 
+ 
+Office-Based Physicians: Office-based medical doctors (MDs), doctors of osteopathy 
+(DOs), and other medical providers under the supervision of MDs and DOs 
+ 
+Hospitals: Hospital facilities providing inpatient, outpatient, and emergency room care 
+ 
+Separately Billing Doctors (SBDs): All individually identified physicians who treated the 
+patient at the hospital, but who billed separately from the hospital facility 
+ 
+Home Care Agencies 
+ 
+Pharmacies 
+ 
+Long-term Health Care Facilities (“Institution”) 
+The MPC sample did not include dentists, optometrists, psychologists, podiatrists, chiropractors, 
+and others not providing care under the supervision of an MD or DO. These types of providers 
+were considered out of scope. Jails, prisons, and medical facilities or pharmacies outside the 
+United States were also considered out of scope. 
+Office-Based Physicians 
+MPC 
+The MPC office-based physician eligible sample included MDs and DOs as well as providers 
+practicing under the direction or supervision of an MD or DO (e.g., physician assistants and

@@ -1,0 +1,5 @@
+﻿feature,control_family,status,reason,anomaly_status
+age_diag,LOW_VARIANCE,NOT_EVALUATED,A low-variance rule requires an established criterion or threshold. No such criterion is available.,NOT_ESTABLISHED
+age_diag,STATISTICAL_OUTLIER,NOT_EVALUATED,An operational outlier rule requires an established detection method and/or parameters. These are not available in the current statistical knowledge.,NOT_ESTABLISHED
+mkb10_code,RARE_CATEGORY,NOT_EVALUATED,A rare-category rule requires an established rarity criterion or threshold. No such criterion is available.,NOT_ESTABLISHED
+registry_stage_code,RARE_CATEGORY,NOT_EVALUATED,A rare-category rule requires an established rarity criterion or threshold. No such criterion is available.,NOT_ESTABLISHED

@@ -1,0 +1,178 @@
+
+
+===== PDF PAGE 357 =====
+
+WHO STEPS noncommunicable disease risk factor surveillance 
+www.who.int/chp/steps 
+6-3A-1 
+fact sheet 
+ 
+ 
+ 
+ 
+Results for adults aged 18-69 years (incl. 95% CI) (adjust if necessary) 
+Both Sexes 
+Males 
+Females 
+Step 1 Cervical Cancer Screening 
+Percentage of women aged 30-49 years who have ever had a screening 
+test for cervical cancer 
+Step 2 
+Physical Measurements 
+Mean body mass index - BMI (kg/m2) 
+Percentage who are overweight (BMI ≥ 25 kg/m2) 
+Percentage who are obese (BMI ≥ 30 kg/m2) 
+Average waist circumference (cm) 
+Mean systolic blood pressure - SBP (mmHg), including those currently on 
+medication for raised BP 
+Mean diastolic blood pressure - DBP (mmHg), including those currently on 
+medication for raised BP 
+Percentage with raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg or 
+currently on medication for raised BP) 
+Percentage with raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg) who are 
+not currently on medication for raised BP 
+Step 3 Biochemical Measurement 
+Mean fasting blood glucose, including those currently on medication for 
+raised blood glucose [choose accordingly: mmol/L or mg/dl] 
+Percentage with impaired fasting glycaemia as defined below 
+• plasma venous value ≥6.1 mmol/L (110 mg/dl) and <7.0 mmol/L (126 mg/dl) 
+• capillary whole blood value ≥5.6 mmol/L (100 mg/dl) and <6.1 mmol/L (110 mg/dl) 
+Percentage with raised fasting blood glucose as defined below or currently 
+on medication for raised blood glucose 
+• plasma venous value ≥ 7.0 mmol/L (126 mg/dl) 
+• capillary whole blood value ≥ 6.1 mmol/L (110 mg/dl) 
+Mean total blood cholesterol, including those currently on medication for 
+raised cholesterol [choose accordingly: mmol/L or mg/dl] 
+Percentage with raised total cholesterol (≥ 5.0 mmol/L or ≥ 190 mg/dl or 
+currently on medication for raised cholesterol) 
+Mean intake of salt per day (in grams) 
+Cardiovascular disease (CVD) risk 
+Percentage aged 40-69 years with a 10-year CVD risk ≥ 30%, or with 
+existing CVD** 
+Summary of combined risk factors 
+• 
+current daily smokers 
+• 
+overweight (BMI ≥ 25 kg/m2) 
+• 
+less than 5 servings of fruits & vegetables per day 
+• 
+raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg or 
+• 
+insufficient physical activity 
+currently on medication for raised BP) 
+Percentage with none of the above risk factors 
+Percentage with three or more of the above risk factors, 
+aged 18 to 44 years 
+Percentage with three or more of the above risk factors, 
+aged 45 to 69 years 
+Percentage with three or more of the above risk factors, 
+aged 18 to 69 years 
+** A 10-year CVD risk of ≥30% is defined according to age, sex, blood pressure, smoking status (current smokers OR those who quit smoking 
+less than 1 year before the assessment), total cholesterol, and diabetes (previously diagnosed OR a fasting plasma glucose concentration >7.0 
+mmol/l (126 mg/dl). 
+For additional information, please contact: 
+STEPS Survey Coordinator [name, email addresses] 
+<Country> STEPS Survey <year > 
+Fact Sheet 
+
+
+===== PDF PAGE 358 =====
+
+WHO STEPS chronic disease risk factor surveillance 
+www.who.int/chp/steps 
+6-3B-1 
+ 
+ 
+ 
+ 
+ 
+ 
+Please use this as a guide when you are altering your instrument as it will provide you with a guideline for which questions are 
+needed in order to calculate these basic indicators. 
+ 
+To calculate the basic indicators that are presented on the Fact Sheet refer to the Data Analysis section of the user manual (Part 
+4, Section 3) 
+ 
+Results for adults aged 18-69 years (incl. 95% CI) (adjust if necessary) 
+Questions required to 
+calculate result (based 
+on coding column) 
+Epi Info Program Name 
+Step 1 Tobacco Use 
+Percentage who currently smoke tobacco 
+T1, T2, T8 
+TsmokestatusWT 
+Percentage who currently smoke tobacco daily 
+T1, T2, T8 
+TsmokestatusWT 
+For those who smoke tobacco daily 
+Average age started smoking (years) 
+T1, T2, T3, T4a-c 
+TsmokeagetimeWT 
+Percentage of daily smokers smoking manufactured cigarettes 
+T1, T2, T5a 
+TsmokemanWT 
+Mean number of manufactured cigarettes smoked per day (by smokers of 
+manufactured cigarettes) 
+T1, T2, T5a 
+TsmoketypeWT 
+Step 1 Alcohol Consumption 
+Percentage who are lifetime abstainers 
+A1, A2, A5 
+AconsumptionWT 
+Percentage who are past 12 month abstainers 
+A1, A2, A5 
+AconsumptionWT 
+Percentage who currently drink (drank alcohol in the past 30 days) 
+A1, A2, A5 
+AconsumptionWT 
+Percentage who engage in heavy episodic drinking (6 or more drinks on 
+any occasion in the past 30 days) 
+A1, A2, A5, A9 
+AepisodicWT 
+Step 1 Diet 
+Mean number of days fruit consumed in a typical week 
+D1, D3 
+DdaysWT 
+Mean number of servings of fruit consumed on average per day 
+D1, D2, D3, D4 
+DservingsWT 
+Mean number of days vegetables consumed in a typical week 
+D1, D3 
+DdaysWT 
+Mean number of servings of vegetables consumed on average per day 
+D1, D2, D3, D4 
+DservingsWT 
+Percentage who ate less than 5 servings of fruit and/or vegetables on 
+average per day 
+D1, D2, D3, D4 
+DfiveormoreWT 
+Percentage who always or often add salt or salty sauce to their food before 
+eating or as they are eating 
+D5 
+DaddsaltWT 
+Percentage who always or often eat processed foods high in salt 
+D7 
+DprocessedWT 
+Step 1 Physical Activity 
+Percentage with insufficient physical activity (defined as < 150 minutes of 
+moderate-intensity activity per week, or equivalent)* 
+P1-P15b 
+PnotmeetingrecsWT 
+Median time spent in physical activity on average per day (minutes) 
+P1-P15b 
+PtotalmedianWT 
+Percentage not engaging in vigorous activity 
+P1-P15b 
+PnovigorousWT 
+Step 1 Cervical Cancer Screening 
+Percentage of women aged 30-49 years who have ever had a screening 
+test for cervical cancer 
+CX1 
+HcervcancerWT 
+ 
+* For complete definitions of low and high levels of physical activity, other conditions are specified in the GPAQ Analysis Guide, available at: 
+http://www.who.int/chp/steps/GPAQ/en/index.html 
+Country STEPS Survey <year> 
+Fact Sheet Analysis Guide 

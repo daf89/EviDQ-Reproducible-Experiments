@@ -1,0 +1,132 @@
+Chapter 4: Medication management and drug
+stewardship in CKD
+Medication management is an important component of the
+care of people with CKD. Medications can be highly beneﬁ-
+cial, but some may be toxic, are excreted by the kidney, may
+have narrow therapeutic windows, or may have no proven
+clear evidence of beneﬁt or indication in people with CKD.
+Drug stewardship refers to the effective, safe, and sus-
+tainable use of medications by all staff and physicians,
+encompassing the whole cycle of medication use. Medica-
+tions need to be prescribed responsibly, monitored for efﬁ-
+cacy and safety, and when they do not or no longer serve
+their intended purpose, discontinued. This chapter discusses
+key concepts in the processes of drug stewardship in people
+with CKD. It is beyond the scope of this guideline to list all
+the medications that may have altered risks/beneﬁts in
+people with CKD. Such information is widely available in
+documents that may exist at local, regional, or national
+bodies (e.g., British National Formulary: www.bnf.org) and
+in textbooks of pharmacology. However, we describe case
+examples to highlight the key classes of commonly pre-
+scribed medications in people with CKD. This guidance is
+based on knowledge of pharmacology that has universal
+relevance. In many cases, knowledge of altered risks/beneﬁts
+of medications comes, however, from observational studies
+and case reports from routine care.
+4.1 Medication choices and monitoring for safety
+Abnormal kidney function results in alteration in pharma-
+cokinetics and pharmacodynamics, and for people with CKD,
+as the GFR worsens, so does the prevalence of polypharmacy
+and comorbidities.725 People with CKD are at increased risk
+of medication errors and inappropriate prescribing (noted
+to be up to 37% in ambulatory outpatient studies and up
+to 43% in long-term care studies726,727). Thus, improved
+understanding
+and
+collaboration
+with
+pharmacists
+in
+developing care plans and medication review is strongly
+recommended.
+People with CKD have reduced ability to excrete medica-
+tions and/or their metabolites (which may increase adverse
+event risk or exaggerate/diminish efﬁcacy) and increased
+sensitivity to medications (e.g., those bound to albumin in
+hypoalbuminemic
+states
+such
+as
+nephrotic
+syndrome).
+Additional issues include nephrotoxicity, diminished toler-
+ance of side effects in the context of coexisting comorbidities
+or older age, and lack of adequate evidence for either beneﬁt
+or harm of speciﬁc compounds, due to historical exclusion of
+people with (advanced) CKD from most clinical trials.727,728
+As in all medical decision-making, healthcare providers
+should consider the indication, beneﬁt-risk proﬁle, and po-
+tential nephrotoxicity while balancing accessibility, availabil-
+ity, local health policies, cultural practices, affordability, and
+patient
+preferences.
+Where
+available,
+consultation
+with
+pharmacists as part of the multidisciplinary team is encour-
+aged to assure optimized comprehensive medication man-
+agement and to improve pharmacoequity.
+Practice Point 4.1.1: People with CKD may be more sus-
+ceptible to the nephrotoxic effects of medications. When
+prescribing such medications to people with CKD, always
+consider the beneﬁts versus potential harms.
+Between 18%–20% of people with CKD G3–G5 receive at
+least one potentially inappropriate nephrotoxic medication
+annually, primarily NSAIDs, nephrotoxic antivirals, and
+bisphosphonates.729
+Nephrotoxic
+medications
+may
+be
+indicated in people with CKD if expected beneﬁts exceed
+potential harms.730 However, whenever possible, healthcare
+providers should strive to use non-nephrotoxic alternatives.
+Common nephrotoxic medications to be aware of and
+potential alternatives that could be prescribed instead are
+listed in Table 31.725,731–738 Although some nephrotoxic
+medications have viable alternatives, the alternatives may be
+less potent or there is limited comparison data on clinical
+outcomes, safety, and cost-effectiveness.
+Practice Point 4.1.2: Monitor eGFR, electrolytes, and ther-
+apeutic medication levels, when indicated, in people with
+CKD receiving medications with narrow therapeutic win-
+dows, potential adverse effects, or nephrotoxicity, both in
+outpatient practice and in hospital settings.
+Ensuring a safe use of medication requires careful moni-
+toring for adverse effects and efﬁcacy. A key example includes
+the need to monitor potassium and creatinine during the
+initial weeks of treatment with ACEi and ARBs (Figure 21).23
+Medications such as gentamicin and vancomycin have a
+narrow
+therapeutic
+range,
+with
+higher
+trough
+levels
+commonly associated with AKI, and so require close
+monitoring of GFR and medication levels during prolonged
+treatment.731
+Other
+medications,
+such
+as
+lithium
+or
+methotrexate,
+require
+at
+least
+annual
+monitoring
+of
+creatinine to evaluate potential risks of nephrotoxicity.
+Practice Point 4.1.3: Review and limit the use of over-the-
+counter medicines and dietary or herbal remedies that may
+be harmful for people with CKD.
+chapter 4
+www.kidney-international.org
+S246
+Kidney International (2024) 105 (Suppl 4S), S117–S314

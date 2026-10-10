@@ -1,0 +1,46 @@
+{
+  "step": "STEP12_DOCUMENT_KNOWLEDGE_EXTRACTION",
+  "processor": "GPT-5.6 Sol",
+  "role": "LLM-B",
+  "input_pairs": 63,
+  "all_input_pairs_evaluated": true,
+  "knowledge_types": [
+    "SEMANTICS",
+    "DOMAIN_CONSTRAINT",
+    "ERROR",
+    "DETECTION",
+    "CORRECTION"
+  ],
+  "external_knowledge_used": false,
+  "internet_used": false,
+  "hidden_reference_used": false,
+  "dataset_used": false,
+  "shap_used_for_extraction": false,
+  "cross_chunk_fusion": false,
+  "dataset_diagnosis": false,
+  "correction_application": false,
+  "total_established_knowledge": 81,
+  "established_by_knowledge_type": {
+    "SEMANTICS": 42,
+    "DOMAIN_CONSTRAINT": 34,
+    "ERROR": 1,
+    "DETECTION": 3,
+    "CORRECTION": 1
+  },
+  "established_by_feature": {
+    "age_diag": 9,
+    "mkb10_code": 7,
+    "registry_stage_code": 65
+  },
+  "chunks_without_established_knowledge": 19,
+  "exact_evidence_validation": true,
+  "missing_pair_ids": 0,
+  "duplicate_pair_ids": 0,
+  "input_count_valid": true,
+  "output_count_valid": true,
+  "all_status_values_valid": true,
+  "not_established_fields_empty": true,
+  "no_external_knowledge_added": true,
+  "no_invented_correction": true,
+  "no_cross_chunk_knowledge_fusion": true
+}

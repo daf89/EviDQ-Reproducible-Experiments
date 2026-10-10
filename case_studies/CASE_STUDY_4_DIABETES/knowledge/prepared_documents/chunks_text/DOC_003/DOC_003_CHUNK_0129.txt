@@ -1,0 +1,189 @@
+
+
+===== PDF PAGE 257 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-11 
+ 
+ 
+ 
+CORE: Physical Activity, Continued 
+Question 
+Response 
+Code 
+Recreational activities 
+The next questions exclude the work and transport activities that you have already mentioned. 
+Now I would like to ask you about sports, fitness and recreational activities (leisure), [Insert relevant terms]. 
+Do you do any vigorous-intensity sports, fitness or recreational 
+(leisure) activities that cause large increases in breathing or 
+heart rate like [running or football]? 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+Yes 
+No 
+1 
+2 
+If No, go to P 13 
+P10 
+In a typical week, on how many days do you do vigorous- 
+intensity sports, fitness or recreational (leisure) activities? 
+Number of days 
+└─┘ 
+P11 
+How much time do you spend doing vigorous-intensity sports, 
+fitness or recreational activities on a typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P12 
+(a-b) 
+Do you do any moderate-intensity sports, fitness or recreational 
+(leisure) activities that cause a small increase in breathing or 
+heart rate such as brisk walking, [cycling, swimming, volleyball] 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+Yes 
+No 
+1 
+2 
+If No, go to P16 
+P13 
+In a typical week, on how many days do you do moderate- 
+intensity sports, fitness or recreational (leisure) activities? 
+Number of days 
+└─┘ 
+P14 
+How much time do you spend doing moderate-intensity sports, 
+fitness or recreational (leisure) activities on a typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P15 
+(a-b) 
+ 
+EXPANDED: Physical Activity 
+Sedentary behaviour 
+The following question is about sitting or reclining at work, at home, getting to and from places, or with friends including time spent sitting at a 
+desk, sitting with friends, traveling in car, bus, train, reading, playing cards or watching television, but do not include time spent sleeping. 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+How much time do you usually spend sitting or reclining on a 
+typical day? 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P16 
+(a-b) 
+
+
+===== PDF PAGE 258 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-12 
+ 
+ 
+ 
+CORE: History of Raised Blood Pressure 
+Question 
+Response 
+Code 
+Have you ever had your blood pressure measured by a doctor 
+or other health worker? 
+Yes 
+No 
+1 
+2 
+If No, go to H6 
+H1 
+Have you ever been told by a doctor or other health worker that 
+Yes 
+1 
+H2a 
+you have raised blood pressure or hypertension? 
+No 
+2 
+If No, go to H6 
+Were you first told in the past 12 months? 
+Yes 
+No 
+1 
+2 
+H2b 
+In the past two weeks, have you taken any drugs (medication) 
+for raised blood pressure prescribed by a doctor or other health 
+worker? 
+Yes 
+No 
+1 
+2 
+H3 
+Have you ever seen a traditional healer for raised blood 
+Yes 
+1 
+H4 
+pressure or hypertension? 
+No 
+2 
+Are you currently taking any herbal or traditional remedy for your 
+raised blood pressure? 
+Yes 
+No 
+1 
+2 
+H5 
+ 
+CORE: History of Diabetes 
+Have you ever had your blood sugar measured by a doctor or 
+other health worker? 
+Yes 
+1 
+No 
+2 
+If No, go to H12 
+H6 
+Have you ever been told by a doctor or other health worker that 
+you have raised blood sugar or diabetes? 
+Yes 
+1 
+No 
+2 
+If No, go to H12 
+H7a 
+Were you first told in the past 12 months? 
+Yes 
+1 
+No 
+2 
+H7b 
+In the past two weeks, have you taken any drugs (medication) 
+for diabetes prescribed by a doctor or other health worker? 
+Yes 
+1 
+No 
+2 
+H8 
+Are you currently taking insulin for diabetes prescribed by a 
+doctor or other health worker? 
+Yes 
+1 
+No 
+2 
+H9 
+Have you ever seen a traditional healer for diabetes or raised 
+blood sugar? 
+Yes 
+1 
+No 
+2 
+H10 
+Are you currently taking any herbal or traditional remedy for your 
+diabetes? 
+Yes 
+1 
+No 
+2 
+H11 

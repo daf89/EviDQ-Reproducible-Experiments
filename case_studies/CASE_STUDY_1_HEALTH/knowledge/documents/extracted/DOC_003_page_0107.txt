@@ -1,0 +1,97 @@
+995. Glaser E, Richard C, Lussier MT. The impact of a patient web communication interven-
+tion on reaching treatment suggested guidelines for chronic diseases: a randomized 
+controlled trial. Patient Educ Couns 2017;100:2062–70. https://doi.org/10.1016/j.pec. 
+2017.05.022 
+996. Richard AA, Shea K. Delineation of self-care and associated concepts. J Nurs Scholarsh 
+2011;43:255–64. https://doi.org/10.1111/j.1547-5069.2011.01404.x 
+997. Wilkinson A, Whitehead L. Evolution of the concept of self-care and implications for 
+nurses: a literature review. Int J Nurs Stud 2009;46:1143–7. https://doi.org/10.1016/j. 
+ijnurstu.2008.12.011 
+998. Bodenheimer T, Lorig K, Holman H, Grumbach K. Patient self-management of 
+chronic disease in primary care. JAMA 2002;288:2469–75. https://doi.org/10.1001/ 
+jama.288.19.2469 
+999. Barlow J, Wright C, Sheasby J, Turner A, Hainsworth J. Self-management approaches 
+for people with chronic conditions: a review. Patient Educ Couns 2002;48:177–87. 
+https://doi.org/10.1016/s0738-3991(02)00032-0 
+1000. Hallberg I, Ranerup A, Kjellgren K. Supporting the self-management of hypertension: 
+patients’ experiences of using a mobile phone-based system. J Hum Hypertens 2016; 
+30:141–6. https://doi.org/10.1038/jhh.2015.37 
+1001. Almeida GO, Aidar FJ, Matos DG, Almeida-Neto PF, Melo EV, Barreto Filho JAS, et al. 
+Non-targeted self-measurement of blood pressure: association with self-medication, 
+unscheduled emergency visits and anxiety. Medicina (Kaunas) 2021;57:75. https://doi. 
+org/10.3390/medicina57010075 
+1002. Greaves F, Joshi I, Campbell M, Roberts S, Patel N, Powell J, et al. What is an appro-
+priate level of evidence for a digital health intervention? Lancet 2019;392:2665–7. 
+https://doi.org/10.1016/s0140-6736(18)33129-5 
+1003. Morton K, Dennison L, May C, Murray E, Little P, McManus RJ, et al. Using digital in-
+terventions for self-management of chronic physical health conditions: a 
+meta-ethnography review of published studies. Patient Educ Couns 2017;100: 
+616–35. https://doi.org/10.1016/j.pec.2016.10.019 
+1004. McKinstry B, Hanley J, Wild S, Pagliari C, Paterson M, Lewis S, et al. Telemonitoring 
+based service redesign for the management of uncontrolled hypertension: multicentre 
+randomised controlled trial. BMJ 2013;346:f3030. https://doi.org/10.1136/bmj.f3030 
+1005. Persell SD, Peprah YA, Lipiszko D, Lee JY, Li JJ, Ciolino JD, et al. Effect of home 
+blood pressure monitoring via a smartphone hypertension coaching application 
+or tracking application on adults with uncontrolled hypertension: a randomized 
+clinical trial. JAMA Netw Open 2020;3:e200255. https://doi.org/10.1001/ 
+jamanetworkopen.2020.0255 
+1006. Andersson U, Nilsson PM, Kjellgren K, Hoffmann M, Wennersten A, Midlöv P, et al. 
+PERson-centredness in Hypertension management using Information Technology: a 
+randomized controlled trial in primary care. J Hypertens 2023;41:246–53. https://doi. 
+org/10.1097/hjh.0000000000003322 
+1007. Bergland OU, Halvorsen LV, Søraas CL, Hjørnholm U, Kjær VN, Rognstad S, et al. 
+Detection of nonadherence to antihypertensive treatment by measurements of ser-
+um drug concentrations. Hypertension 2021;78:617–28. https://doi.org/10.1161/ 
+hypertensionaha.121.17514 
+1008. Durand H, Hayes P, Morrissey EC, Newell J, Casey M, Murphy AW, et al. Medication 
+adherence among patients with apparent treatment-resistant hypertension: 
+systematic review and meta-analysis. J Hypertens 2017;35:2346–57. https://doi.org/ 
+10.1097/hjh.0000000000001502 
+1009. Kronish IM, Thorpe CT, Voils CI. Measuring the multiple domains of medication non-
+adherence: findings from a Delphi survey of adherence experts. Transl Behav Med 
+2021;11:104–13. https://doi.org/10.1093/tbm/ibz133 
+1010. DiMatteo MR. Social support and patient adherence to medical treatment: a 
+meta-analysis. Health Psychol 2004;23:207–18. https://doi.org/10.1037/0278- 
+6133.23.2.207 
+1011. Houle SK, Chatterley T, Tsuyuki RT. Multidisciplinary approaches to the management 
+of high blood pressure. Curr Opin Cardiol 2014;29:344–53. https://doi.org/10.1097/ 
+hco.0000000000000071 
+1012. Woodham NS, Taneepanichskul S, Somrongthong R, Kitsanapun A, Sompakdee B. 
+Effectiveness of a multidisciplinary approach intervention to improve blood pressure 
+control among elderly hypertensive patients in rural Thailand: a quasi-experimental 
+study. J Multidiscip Healthc 2020;13:571–80. https://doi.org/10.2147/jmdh.S254286 
+1013. Mattei da Silva ÂT, de Fátima Mantovani M, Castanho Moreira R, Perez Arthur J, 
+Molina de Souza R. Nursing case management for people with hypertension in pri-
+mary health care: a randomized controlled trial. Res Nurs Health 2020;43:68–78. 
+https://doi.org/10.1002/nur.21994 
+1014. He J, Ouyang N, Guo X, Sun G, Li Z, Mu J, et al. Effectiveness of a non-physician 
+community health-care provider-led intensive blood pressure intervention versus 
+usual care on cardiovascular disease (CRHCP): an open-label, blinded-endpoint, 
+cluster-randomised trial. Lancet 2023;401:928–38. https://doi.org/10.1016/ 
+s0140-6736(22)02603-4 
+1015. Creegan D, McEvoy JW. Selected highlights in the updated treatment of hyperten-
+sion. Trends Cardiovasc Med https://doi.org/10.1016/j.tcm.2023.11.001 
+1016. Jaffe MG, Lee GA, Young JD, Sidney S, Go AS. Improved blood pressure control as-
+sociated with a large-scale hypertension program. JAMA 2013;310:699–705. https:// 
+doi.org/10.1001/jama.2013.108769 
+1017. Hänsel M, Steigmiller K, Luft AR, Gebhard C, Held U, Wegener S, et al. Neurovascular 
+disease in Switzerland: 10-year trends show non-traditional risk factors on the rise 
+and higher exposure in women. Eur J Neurol 2022;29:2851–60. https://doi.org/10. 
+1111/ene.15434 
+1018. de Ruiter SC, Schmidt AF, Grobbee DE, den Ruijter HM, Peters SAE. Sex-specific 
+Mendelian randomisation to assess the causality of sex differences in the effects of 
+risk factors and treatment: spotlight on hypertension. J Hum Hypertens 2023;37: 
+602–8. https://doi.org/10.1038/s41371-023-00821-1 
+1019. Chapman N, Ching SM, Konradi AO, Nuyt AM, Khan T, Twumasi-Ankrah B, et al. 
+Arterial hypertension in women: state of the art and knowledge gaps. Hypertension 
+2023;80:1140–9. https://doi.org/10.1161/hypertensionaha.122.20448 
+1020. Tamargo J, Caballero R, Mosquera ED. Sex and gender differences in the treatment of 
+arterial hypertension. Expert Rev Clin Pharmacol 2023;16:329–47. https://doi.org/10. 
+1080/17512433.2023.2189585 
+1021. Olsen MH, Angell SY, Asma S, Boutouyrie P, Burger D, Chirinos JA, et al. A call to 
+action and a lifecourse strategy to address the global burden of raised blood pressure 
+on current and future generations: the Lancet Commission on hypertension. Lancet 
+2016;388:2665–712. https://doi.org/10.1016/s0140-6736(16)31134-5 
+4018 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

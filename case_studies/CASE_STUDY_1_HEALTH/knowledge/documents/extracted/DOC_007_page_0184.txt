@@ -1,0 +1,232 @@
+diseases: a report from the Chronic Kidney Disease in Children (CKiD)
+study. Am J Kidney Dis. 2022;80:174–185.e1.
+196.
+Luna-Zaizar H, Virgen-Montelongo M, Cortez-Alvarez CR, et al. In vitro
+interference by acetaminophen, aspirin, and metamizole in serum
+measurements of glucose, urea, and creatinine. Clin Biochem. 2015;48:
+538–541.
+197.
+Greenberg N, Roberts WL, Bachmann LM, et al. Speciﬁcity characteristics
+of 7 commercial creatinine measurement procedures by enzymatic and
+Jaffe method principles. Clin Chem. 2012;58:391–401.
+198.
+Dilena BA. Bacterial interference with measurement of creatinine in
+stored plasma. Clin Chem. 1988;34:1007–1008.
+199.
+Nah H, Lee SG, Lee KS, et al. Evaluation of bilirubin interference and
+accuracy of six creatinine assays compared with isotope dilution-liquid
+chromatography mass spectrometry. Clin Biochem. 2016;49:274–281.
+200.
+Owen LJ, Keevil BG. Does bilirubin cause interference in Roche creatinine
+methods? Clin Chem. 2007;53:370–371.
+201.
+Ali AC, Mihas CC, Campbell JA. Interferences of o-rafﬁnose cross-linked
+hemoglobin in three methods for serum creatinine. Clin Chem.
+1997;43:1738–1743.
+202.
+Green AJ, Halloran SP, Mould GP, et al. Interference by newer
+cephalosporins in current methods for measuring creatinine. Clin
+Chem. 1990;36:2139–2140.
+203.
+Swain RR, Briggs SL. Positive interference with the Jaffe reaction by
+cephalosporin antibiotics. Clin Chem. 1977;23:1340–1342.
+204.
+Dick JB, Bartlett WA, Ibrahim U, et al. Interference of ﬂuorescein with
+creatinine assays. Ann Clin Biochem. 1991;28(Pt 3):311–313.
+205.
+Myers GL, Miller WG, Coresh J, et al. Recommendations for improving
+serum creatinine measurement: a report from the Laboratory Working
+Group of the National Kidney Disease Education Program. Clin Chem.
+2006;52:5–18.
+206.
+Cobbaert CM, Baadenhuijsen H, Weykamp CW. Prime time for enzymatic
+creatinine methods in pediatrics. Clin Chem. 2009;55:549–558.
+207.
+Weatherburn MW, Trotman RB, Jackson SH. Speciﬁc method for serum
+creatinine determination based on ion exchange chromatography and
+an
+automated
+alkaline
+picrate
+reaction—a
+proposed
+reference
+method. Clin Biochem. 1978;11:159–166.
+208.
+Hortin GL, Goolsby K. Lipemia interference with a rate-blanked
+creatinine method. Clin Chem. 1997;43:408–410.
+209.
+Carobene A, Ferrero C, Ceriotti F, et al. Creatinine measurement
+proﬁciency testing: assignment of matrix-adjusted ID GC-MS target
+values. Clin Chem. 1997;43:1342–1347.
+210.
+Syal K, Srinivasan A, Banerjee D. Streptomycin interference in Jaffe
+reaction—possible false positive creatinine estimation in excessive
+dose exposure. Clin Biochem. 2013;46:177–179.
+211.
+Schoenmakers CH, Kuller T, Lindemans J, et al. Automated enzymatic
+methods
+for
+creatinine
+measurement
+with
+special
+attention
+to
+bilirubin interference. Eur J Clin Chem Clin Biochem. 1993;31:861–868.
+212.
+Sena SF, Syed D, Romeo R, et al. Lidocaine metabolite and creatinine
+measurements in the Ektachem 700: steps to minimize its impact on
+patient care. Clin Chem. 1988;34:2144–2148.
+213.
+Huang JW, Lahey B, Clarkin OJ, et al. A systematic review of the effect of
+N-acetylcysteine on serum creatinine and cystatin C measurements.
+Kidney Int Rep. 2021;6:396–403.
+214.
+Knezevic CE, Ness MA, Kratz LE, et al. Elevated creatinine in a patient on
+IVIG-therapy. Clin Chim Acta. 2018;486:94–97.
+215.
+Natarajan B, Hart T, Smith S, et al. Phenindione interference in enzymatic
+creatinine assay—a case report. Clin Nephrol. 2015;83:121–123.
+216.
+Zhang Q, Feng Z, Zhou J, et al. The effect of rheumatoid factor on three
+commercial immunoassays for serum cystatin C. Scand J Clin Lab Invest.
+2021;81:112–115.
+217.
+Ismail AA, Walker PL, Cawood ML, et al. Interference in immunoassay is
+an underestimated problem. Ann Clin Biochem. 2002;39(Pt 4):366–373.
+218.
+Wauthier L, Plebani M, Favresse J. Interferences in immunoassays: review
+and practical algorithm. Clin Chem Lab Med. 2022;60:808–820.
+219.
+Ford L, Berg J. Delay in separating blood samples affects creatinine
+measurement using the Roche kinetic Jaffe method. Ann Clin Biochem.
+2008;45:83–87.
+220.
+Miller WG. Estimating glomerular ﬁltration rate. Clin Chem Lab Med.
+2009;47:1017–1019.
+221.
+Grubb A, Blirup-Jensen S, Lindström V, et al. First certiﬁed reference
+material for cystatin C in human serum ERM-DA471/IFCC. Clin Chem
+Lab Med. 2010;48:1619–1621.
+222.
+Fraser CG, Harris EK. Generation and application of data on biological
+variation in clinical chemistry. Crit Rev Clin Lab Sci. 1989;27:409–437.
+223.
+Miller WG, Kaufman HW, Levey AS, et al. National Kidney Foundation
+Laboratory
+Engagement
+Working
+Group
+Recommendations
+for
+Implementing the CKD-EPI 2021 Race-Free Equations for Estimated
+Glomerular Filtration Rate: Practical Guidance for Clinical Laboratories.
+Clin Chem. 2022;68:511–520.
+224.
+Ardissino G, Testa S, Dacco V, et al. Puberty is associated with increased
+deterioration of renal function in patients with CKD: data from the ItalKid
+Project. Arch Dis Child. 2012;97:885–888.
+225.
+Gluck CA, Forrest CB, Davies AG, et al. Evaluating kidney function decline
+in children with chronic kidney disease using a multi-institutional
+electronic health record database. Clin J Am Soc Nephrol. 2023;18:173–182.
+226.
+Drube J, Wan M, Bonthuis M, et al. Clinical practice recommendations for
+growth hormone treatment in children with chronic kidney disease. Nat
+Rev Nephrol. 2019;15:577–589.
+227.
+Schmitt CP, Shroff RC. Disorders of bone mineral metabolism in chronic
+kidney disease. In: Schaefer F, Greenbaum LA, eds. Pediatric Kidney
+Disease. Cham: Springer International Publishing; 2023:1631–1668.
+228.
+ESCAPE Trial Group. Strict Blood-Pressure Control and Progression of
+Renal Failure in Children. N Engl J Med. 2009;361:1639–1650.
+229.
+Sinha MD, Gu H, Douiri A, et al. Intensive compared with less intensive
+blood pressure control to prevent adverse cardiac remodelling in
+children with chronic kidney disease (HOT-KID): a parallel-group, open-
+label, multicentre, randomised, controlled trial. Lancet Child Adolesc
+Health. 2023;7:26–36.
+230.
+Atkinson MA, Ng DK, Warady BA, et al. The CKiD study: overview and
+summary of ﬁndings related to kidney disease progression. Pediatr
+Nephrol. 2021;36:527–538.
+231.
+Kang HG, Choi HJ, Han KH, et al. KNOW-Ped CKD (KoreaN cohort study
+for outcomes in patients with pediatric CKD): design and methods. BMC
+Nephrol. 2016;17:35.
+232.
+Francis A, Didsbury MS, van Zwieten A, et al. Quality of life of children
+and adolescents with chronic kidney disease: a cross-sectional study.
+Arch Dis Child. 2019;104:134–140.
+233.
+Stevens LA, Manzi J, Levey AS, et al. Impact of creatinine calibration on
+performance of GFR estimating equations in a pooled individual patient
+database. Am J Kidney Dis. 2007;50:21–35.
+234.
+Fabian J, George JA, Etheredge HR, et al. Methods and reporting of
+kidney function: a systematic review of studies from sub-Saharan
+Africa. Clin Kidney J. 2019;12:778–787.
+235.
+Jessani S, Levey AS, Bux R, et al. Estimation of GFR in South Asians: a
+study from the general population in Pakistan. Am J Kidney Dis.
+2014;63:49–58.
+236.
+Delanaye P, Schaeffner E, Cozzolino M, et al. The new, race-free, Chronic
+Kidney
+Disease
+Epidemiology
+Consortium
+(CKD-EPI)
+equation
+to
+estimate glomerular ﬁltration rate: is it applicable in Europe? A
+position statement by the European Federation of Clinical Chemistry
+and Laboratory Medicine (EFLM). Clin Chem Lab Med. 2022;61:44–47.
+237.
+Delgado C, Baweja M, Crews DC, et al. A unifying approach for GFR
+estimation:
+recommendations
+of
+the
+NKF-ASN
+Task
+Force
+on
+reassessing the inclusion of race in diagnosing kidney disease. J Am
+Soc Nephrol. 2021;32:2994–3015.
+238.
+Levey AS, Stevens LA, Schmid CH, et al. A new equation to estimate
+glomerular ﬁltration rate. Ann Intern Med. 2009;150:604–612.
+239.
+Pierce CB, Munoz A, Ng DK, et al. Age- and sex-dependent clinical
+equations to estimate glomerular ﬁltration rates in children and young
+adults with chronic kidney disease. Kidney Int. 2021;99:948–956.
+240.
+Pottel H, Björk J, Courbebaisse M, et al. Development and validation of a
+modiﬁed full age spectrum creatinine-based equation to estimate
+glomerular ﬁltration rate: a cross-sectional analysis of pooled data. Ann
+Intern Med. 2021;174:183–191.
+241.
+Nyman U, Grubb A, Larsson A, et al. The revised Lund-Malmo GFR
+estimating equation outperforms MDRD and CKD-EPI across GFR, age
+and BMI intervals in a large Swedish population. Clin Chem Lab Med.
+2014;52:815–824.
+242.
+Liu X, Gan X, Chen J, et al. A new modiﬁed CKD-EPI equation for Chinese
+patients with type 2 diabetes. PLoS One. 2014;9:e109743.
+243.
+Grubb A, Horio M, Hansson LO, et al. Generation of a new cystatin C-
+based estimating equation for glomerular ﬁltration rate by use of 7
+assays standardized to the international calibrator. Clin Chem. 2014;60:
+974–986.
+244.
+Zhao L, Li HL, Liu HJ, et al. Validation of the EKFC equation for glomerular
+ﬁltration rate estimation and comparison with the Asian-modiﬁed CKD-
+EPI equation in Chinese chronic kidney disease patients in an external
+study. Renal Fail. 2023;45:2150217.
+www.kidney-international.org
+references
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S299

@@ -1,0 +1,88 @@
+on-treatment systolic BP of 135 mmHg (office) may be considered 
+reasonable when reviewing the 2021 ESC Guidelines on cardiovascu-
+lar disease prevention in clinical practice but, we hope, will not be 
+considered reasonable to those who follow the updated 2024 ESC 
+Guidelines presented here. Specifically, it is well established that an 
+on-treatment systolic BP of 135 mmHg is not optimal relative to 
+more intensive control.116,131,135,136,445,542,543,545 
+• We acknowledge that the results from RCTs cannot always be extra-
+polated to routine clinical care. In addition, we recognize the increased 
+risk of side effects among patients receiving more intensive BP-lowering 
+treatments, compared with traditional BP targets.545,550 Accordingly, an 
+important caveat to our treatment target of 120–129/70–79 mmHg is 
+the recommendation to pursue this target only when treatment is well 
+tolerated. In cases where BP-lowering treatment is not well tolerated 
+and a target of 120–129/70–79 mmHg is not possible, it is recom-
+mended to follow the ‘as low as reasonably achievable’ (ALARA) prin-
+ciple, by targeting treatment to a BP that is as low as reasonably 
+achievable. 
+• In addition to adults with significant frailty and/or who are ≥85 
+years of age, the evidence for a BP-lowering treatment target of 
+120–129/70–79 mmHg may also not generalize to patients with: 
+(i) pre-treatment symptomatic orthostatic hypotension, (ii) limited 
+predicted lifespan (e.g. <3 years),527 and/or (iii) high levels of 
+competing risk for non-CVD death including CKD with eGFR 
+< 30 mL/min/1.73 m2) (see Section 9). 
+Finally, as outlined in Section 5, these guidelines endorse a ‘trust but 
+verify’ approach to office BP measurements, and, where possible, con-
+firming BP with accurate out-of-office BP measurements (ABPM, 
+HBPM) is recommended prior to starting treatment, to monitor the 
+treatment effect of BP-lowering medication. 
+8.5.3. Personalizing treatment strategies 
+Though promising, there is little to no evidence to date from 
+CVD outcome trials to use novel biomarkers for individualizing 
+BP-lowering treatment.551,552 Nonetheless, different patient groups 
+SBP 120 mmHg 
+is the optimal
+point in this
+range if tolerated
+SBP target range
+120–129 mmHg 
+(Class I)
+Target SBP as low as
+reasonably achievable
+(preferably <140)
+if 120–129 mmHg
+target not tolerated
+or in these settings: 
+Pre-treatment
+symptomatic
+orthostatic
+hypotension and/or
+age ≥85 years 
+(Class IIa)
+Clinically significant
+moderate-to-severe
+frailty at any age 
+and/or limited
+predicted lifespan
+(<3 years)
+(Class IIb)
+Exclude hypertensive
+emergency
+Assess for symptoms
+or signs of hypotension
+Non-elevated SBP
+(<120 mmHg)
+Elevated SBP
+(120–139 mmHg)
+20
+40
+60
+80
+120 130 140
+160
+180
+200
+220
+240
+100
+110
+260
+280
+mmHg
+Systolic hypertension
+(≥140 mmHg)
+Figure 20 Systolic blood pressure categories and treatment target range. BP, blood pressure; SBP, systolic blood pressure. 
+ESC Guidelines 3965 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

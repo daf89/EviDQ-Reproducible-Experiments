@@ -1,0 +1,121 @@
+treating resistant hypertension but one that acknowledges some uncer-
+tainty of outcomes benefit. Future outcome trials of MRAs, perhaps in-
+cluding finerenone,460–462 are encouraged in patients with hypertension. 
+Clinical outcome evidence from trials for other BP-lowering drug 
+classes, such as alpha-blockers, hydralazine, minoxidil, other potassium- 
+sparing diuretics, and centrally acting agents, is less compelling and caution 
+regarding adverse effects is warranted. However, they may be a final add-
+ition if all other therapeutic efforts are insufficient to decrease BP. Of note, 
+in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart 
+Attack (ALLHAT) trial, the alpha-blocker arm was stopped early due to 
+futility of benefit for the CVD outcome.463 
+8.3.3. New therapies with blood pressure-lowering 
+properties that await supportive evidence from 
+cardiovascular outcomes trials prior to guideline 
+endorsement and routine use in hypertension 
+A few other drug classes with indication in heart failure have emerged 
+that also have BP-lowering properties. For example, the angiotensin 
+receptor–neprilysin inhibitor (ARNi) sacubitril/valsartan, which was ini-
+tially developed for hypertension,464 reduces CVD mortality and 
+morbidity in patients with heart failure, an effect that may have been 
+mediated, in part, by superior BP lowering compared with enalapril 
+alone.465,466 In a post hoc subgroup analysis, sacubitril/valsartan lowered 
+BP in adults with both heart failure with preserved ejection fraction 
+(HFpEF) and resistant hypertension.467 In the context of research stud-
+ies, sacubitril/valsartan has been used in higher doses (200 mg or 
+400 mg once daily) for treating hypertension.464,466,468,469 
+SGLT2 inhibitors have shown favourable effects on CVD events and 
+renal haemodynamics in patients with and without type 2 diabetes, and 
+in heart failure trials.470 In these trials, SGLT2 inhibitors did lower BP, 
+though only modestly.471 Small trials among adults with hypertension 
+have confirmed the potential for BP lowering with this drug class.472,473 
+Other new drugs with preliminary data include GLP-1 agonists and 
+the new non-steroidal MRAs, e.g. finerenone, in managing hyperten-
+sion.415,460,461 In addition, novel aldosterone synthase inhibitors (bax-
+drostat and lorundrostat) have significantly lowered BP in patients 
+with uncontrolled hypertension in phase 2 trials.474,475 
+The dual endothelin-A and -B receptor antagonist aprocitentan also 
+reduced office and 24 h BP compared with placebo at 4 weeks in pa-
+tients with resistant hypertension in a phase 3 trial.476 Zilebesiran, an 
+investigational RNA interference agent administered subcutaneously, 
+inhibits hepatic angiotensinogen synthesis and a single dose reduced 
+24 h BP over approximately 6 months.477 
+8.3.4. Drug combinations and up-titrating strategies 
+To treat hypertension, many patients will require more than one 
+BP-lowering medication. Combining drugs from different drug classes 
+can have additive or synergistic effects and lead to greater BP reduction 
+than increasing the dose of one drug.478–483 The superior BP-lowering 
+efficacy of combination therapy is mediated, at least in part, by the po-
+tential of combination therapy to target multiple pathophysiological 
+pathways contributing to perturbed BP in each patient.484 A further 
+benefit of combination therapy is the potential to use lower doses of 
+each individual BP-lowering agent, which may reduce side effects and 
+improve adherence and persistence,485 though the evidence for this hy-
+pothesis has been questioned.486 
+Upfront low-dose combination therapy is therefore recommended 
+in persons with hypertension, with the potential advantages of fewer 
+side effects and swifter BP control being important for long-term ad-
+herence.487–489 If combination BP-lowering therapy is pursued, single- 
+pill combinations are preferred. For those with elevated BP who have 
+an indication for BP-lowering treatment, monotherapy is recom-
+mended in the first instance. 
+One caveat to combination therapy in hypertension is that patient-level 
+response to individual BP-lowering drug classes can be heterogeneous (sug-
+gesting some patients may benefit from more personalized treatment com-
+pared with routine combinations).490 This is relevant also with respect to 
+race/ethnicity (see Section 9). Another caveat is that the evidence for re-
+duced CVD outcomes with BP-lowering drugs in combination therapy is 
+based on observational studies.491–493 There are no outcomes data from 
+prospective trials that prove superiority of upfront combination therapy (ei-
+ther as single-pill combinations or as separate pills) over upfront monother-
+apy in the isolated treatment of hypertension.486 Therefore, we considered 
+giving upfront combination therapy (either as separate pills or as single-pill 
+combinations) a Class IIa recommendation in these guidelines. However, gi-
+ven the totality of evidence for outcomes benefit in observational studies, 
+randomized trial data for better BP control and adherence, and importantly, 
+also given CVD outcomes benefit for polypills (a form of single-pill combin-
+ation) in randomized trials,494–496 we chose to provide a Class I recommen-
+dation for upfront combination therapy in adults with confirmed 
+hypertension, in agreement with 2018 ESC recommendations. 
+The major four drug classes (ACE inhibitors, ARBs, dihydropyridine 
+CCBs, and thiazide or thiazide-like diuretics) are recommended as first- 
+line BP-lowering medications, either alone or in combination.122,447,484,497 
+An exception is the combination of two RAS blockers, which is not re-
+commended.498–500 For most hypertensive patients, a single-pill com-
+bination, initially containing two of these major drug classes, and 
+initially at low dose, is recommended.489,501,502 Doses of BP-lowering 
+drugs are presented in the Supplementary data online, Tables S7 and S8. 
+When BP is still uncontrolled under maximally tolerated triple- 
+combination (RAS blocker, CCB, and diuretic) therapy, and after adher-
+ence is assessed, the patient should be considered resistant and 
+referred to an expert centre for appropriate work-up (see Section 
+7.5). At the same time, the addition of spironolactone should be consid-
+ered.459 If spironolactone is not tolerated, eplerenone or other MRA, 
+or beta-blockers (if not already indicated), should be considered. 
+Eplerenone may need to be dosed higher (50–200 mg) for effective BP 
+lowering. In a meta-analysis, eplerenone 25 mg did not lower BP.503 Due 
+to the shorter time of action than spironolactone, eplerenone may need 
+to be administered twice daily for treating hypertension. An alternative 
+to MRA as fourth-line treatment for BP lowering is the use of beta-blockers 
+for persons who do not already have a compelling indication. A vasodilating 
+beta-blocker (e.g. labetalol, carvedilol, or nebivolol) is preferred when a 
+beta-blocker is chosen.504 However, we note that the BP-lowering effects 
+of beta-blockade appears to be less potent than spironolactone in the set-
+ting of resistant hypertension.459 
+Only thereafter should hydralazine, other potassium-sparing diuretics 
+(amiloride and triamterene), centrally acting BP-lowering medications, 
+or alpha-blockers be considered. Given multiple side-effects, minoxidil 
+should only be considered if all other pharmacological agents prove inef-
+fective in resistant hypertension.505 
+As noted above, polypills combining fixed doses of BP-lowering 
+treatment, lipid-lowering therapy and, if indicated, aspirin are effective 
+in more general CVD prevention.496,506–509 However, the polypill is not 
+available for routine clinical use in many European countries. 
+8.3.5. A practical algorithm for intensive, effective, 
+and tolerable blood pressure lowering with drug 
+therapy, including considerations around single-pill 
+combinations 
+The aim of the algorithm in Figure 18 is to introduce a low-dose double- 
+and then triple-combination strategy while monitoring tolerance 
+ESC Guidelines 3959 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

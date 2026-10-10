@@ -1,0 +1,112 @@
+Chapter 1: Evaluation of CKD
+1.1 Detection and evaluation of CKD
+Both decreased GFR and increased albuminuria or other
+markers of kidney damage are often silent and not apparent to
+the person at risk of CKD or the healthcare provider unless
+laboratory tests are performed. The cause of the decreased GFR
+or increased albuminuria may also not be apparent. In the
+decade since the publication of the previous KDIGO Clinical
+Practice Guideline for the Evaluation and Management of
+Chronic Kidney Disease,1 there have been substantial advances
+in treatment for CKD of all causes (Chapter 3), targeted
+therapies for speciﬁc causes of CKD (e.g., KDIGO 2021
+Clinical
+Practice
+Guideline
+for
+the
+Management
+of
+Glomerular Diseases22), as well as understanding of and
+methods to determine the etiology of CKD. All together, these
+advances have the potential to slow and possibly prevent the
+progression of kidney disease. Thus, in this section of Chapter
+1, we emphasize the importance of detecting CKD, and
+considerations for the optimal methods for staging of CKD,
+and how to establish chronicity and etiology.
+1.1.1 Detection of CKD
+Practice Point 1.1.1.1: Test people at risk for and with chronic
+kidney disease (CKD) using bothurinealbumin measurement
+and assessment of glomerular ﬁltration rate (GFR).
+Early detection of any chronic disease, including CKD,
+provides greater opportunities to reduce morbidity as treat-
+ments can be initiated earlier in the disease course. Because
+treatments for CKD provide beneﬁts in reducing risk for both
+CVD and CKD progression, strategies that promote early
+detection of CKD should improve kidney and non–kidney-
+related outcomes. Even if medical treatments are not available
+or indicated for an individual, there are recommended lifestyle
+changes that could be implemented after the diagnosis of CKD
+(Chapter 3). Interviews with people who have CKD have pro-
+vided evidence that many would alter their lifestyle if they
+received a diagnosis of CKD.17 Knowledge of level of
+albuminuria and GFR also helps guide clinical decisions
+beyond initiating treatments speciﬁcally for CKD (Table 4).
+Each of these is considered in greater depth in the subsequent
+chapters. Finally, if a familial form of kidney disease is
+suspected, the diagnosis of the disease in one person may
+allow detection in other family members. Thus, initial testing
+of blood and urine to detect CKD is important, with
+conﬁrmatory testing if initial ﬁndings indicate the presence of
+abnormalities of creatinine/eGFR or albuminuria.
+From a societal perspective, early identiﬁcation of and
+intervention for CKD could have a positive impact on health
+disparities.Inmanycountries,thereisahigher incidenceofCKD
+among people with lower SES, and these people are more likely
+to progress to kidney failure and have less access to KRT (dialysis
+Table 4| Use of GFR and albuminuria
+Clinical decisions
+Current level
+Change in the level of GFR
+GFR
+Albuminuria
+Diagnosis and
+staging
+ Detection of CKD
+ Evaluation for kidney donation
+ Detection of CKD
+ Detection of AKI and AKD
+ Detection of CKD progression
+Treatment
+ Referral to nephrologists
+ Patient and family education about CKD
+and beneﬁt of lifestyle changes
+ Monitor progression of GFR decline
+ Referral for kidney transplantation
+ Placement of dialysis access
+ Dosage and monitoring for medications
+cleared by the kidney
+ Determine safety of diagnostic tests or procedures
+ Eligibility for clinical trials
+ Referral to nephrologists
+ Patient and family education about
+CKD and beneﬁt of lifestyle changes
+ Monitor progression of GFR decline
+ Eligibility for clinical trials
+ Treatment of AKI
+ Monitoring drug toxicity
+ Re-evaluate CKD treatment
+strategies
+Risk assessment
+ Risk of CKD complications
+ Risk for CKD progression
+ Risk of CVD
+ Risk for medication errors
+ Risk for perioperative complications
+ Risk for mortality
+ Fertility and risk of complications
+of pregnancy
+ Risk for CKD progression
+ Risk for CVD
+ Risk for mortality
+ Fertility and risk of complications
+of pregnancy
+ Risk for kidney failure
+ Risk for CVD, HF, and mortality
+ Risk for adverse pregnancy
+outcome
+AKD, acute kidney disease; AKI, acute kidney injury; CKD, chronic kidney disease; CVD, cardiovascular disease; GFR, glomerular ﬁltration rate; HF, heart failure.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S169

@@ -1,0 +1,191 @@
+
+
+===== PDF PAGE 393 =====
+
+Part 6: Templates and Forms 
+Section 3D: Data Book Template 
+6-3D-34 
+WHO STEPS Surveillance 
+ 
+ 
+Alcohol Consumption 
+ 
+ 
+Alcohol 
+consumption 
+status 
+Description: Alcohol consumption status of all respondents. 
+ 
+Instrument questions: 
+• Have you ever consumed any alcohol such as …? 
+• Have you consumed any alcohol in the past 12 months? 
+• Have you consumed any alcohol in the past 30 days? 
+ 
+Alcohol consumption status 
+Age Group 
+(years) 
+Men 
+% Current 
+% Drank in 
+% Past 
+% 
+n 
+ drinker 
+95% CI 
+past 12 
+95% CI 
+ 
+12 
+95% CI 
+ Lifetime 
+95% CI 
+(past 30 
+ 
+months, 
+ 
+months 
+ 
+abstainer 
+days) 
+not current 
+abstainer 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Alcohol consumption status 
+Age Group 
+(years) 
+Women 
+% Current 
+% Drank in 
+% Past 
+% 
+n 
+ drinker 
+95% CI 
+past 12 
+95% CI 
+ 
+12 
+95% CI 
+ Lifetime 
+95% CI 
+(past 30 
+ 
+months, 
+ 
+months 
+ 
+abstainer 
+days) 
+not current 
+abstainer 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Alcohol consumption status 
+Age Group 
+(years) 
+Both Sexes 
+% Current 
+% Drank in 
+% Past 
+% 
+n 
+ drinker 
+95% CI 
+past 12 
+95% CI 
+ 
+12 
+95% CI 
+ Lifetime 
+95% CI 
+(past 30 
+ 
+months, 
+ 
+months 
+ 
+abstainer 
+days) 
+not current 
+abstainer 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5 
+• Epi Info program name: Aconsumption (unweighted); AconsumptionWT (weighted) 
+ 
+
+
+===== PDF PAGE 394 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-35 
+WHO STEPS Surveillance 
+ 
+ 
+Stopping 
+drinking 
+due to 
+health 
+reasons 
+Description: Percentage of former drinkers (those who did not drink during the past  
+12 months) who stopped drinking due to health reasons, such as a negative impact of 
+drinking on your health or as per advice of a doctor or other health worker among 
+those respondents who drank in their lifetime, but not in the last 12 months. 
+ 
+Instrument questions: 
+• Have you consumed any alcohol in the past 12 months? 
+• Did you stop drinking due to health reasons, such as a negative impact of drinking 
+on your health or as per advice of your doctor or other health worker? 
+ 
+Stopping drinking due to health reasons 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+stopping 
+n 
+due to 
+95% CI 
+health 
+reasons 
+% 
+stopping 
+n 
+due to 
+95% CI 
+health 
+reasons 
+% 
+stopping 
+n 
+due to 
+95% CI 
+health 
+reasons 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A3 
+• Epi Info program name: Astopdrink (unweighted); AstopdrinkWT (weighted) 
+ 

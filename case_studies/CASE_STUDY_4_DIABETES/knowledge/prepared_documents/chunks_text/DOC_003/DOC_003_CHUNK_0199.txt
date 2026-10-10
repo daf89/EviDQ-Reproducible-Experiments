@@ -1,0 +1,198 @@
+
+
+===== PDF PAGE 397 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-38 
+WHO STEPS Surveillance 
+ 
+ 
+Average 
+volume 
+drinking 
+levels 
+among all 
+respondents 
+Description: Percentage of respondents with different drinking levels. 
+A standard drink contains approximately 10g of pure alcohol. 
+Instrument questions: 
+• During the past 30 days, when you drank alcohol, on average, how many 
+standard alcoholic drinks did you have during one occasion? 
+ 
+Drinking at high-end level among all respondents (≥60g of pure alcohol on average per occasion among men 
+and ≥40g of pure alcohol on average per occasion among women) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% ≥60g 
+95% CI 
+n 
+% ≥40g 
+95% CI 
+n 
+% high- 
+95% CI 
+end level 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Drinking at intermediate level among all respondents (40-59.9g of pure alcohol on average per occasion among 
+men and 20-39.9g of pure alcohol on average per occasion among women) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 40- 
+95% CI 
+59.9g 
+n 
+% 20- 
+95% CI 
+39.9g 
+% 
+n 
+intermediate 
+95% CI 
+level 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Drinking at lower-end level among all respondents (<40g of pure alcohol on average per occasion among men 
+and <20g of pure alcohol on average per occasion among women) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% <40g 
+95% CI 
+n 
+% <20g 
+95% CI 
+n 
+% lower- 
+95% CI 
+end level 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A7 
+• Epi Info program name: Acategories (unweighted); AcategoriesWT (weighted) 
+
+
+===== PDF PAGE 398 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-39 
+WHO STEPS Surveillance 
+ 
+ 
+Average 
+volume 
+drinking 
+levels 
+among 
+current 
+(past 30 
+days) 
+drinkers 
+Description: Percentage of current (past 30 days) drinkers with different drinking 
+levels. 
+A standard drink contains approximately 10g of pure alcohol. 
+ 
+Instrument questions: 
+• During the past 30 days, when you drank alcohol, on average, how many 
+standard alcoholic drinks did you have during one occasion? 
+ 
+High-end, intermediate, and lower-end level drinking among current (past 30 days) drinkers 
+Age Group 
+(years) 
+Men 
+n 
+% high- 
+% 
+end 
+95% CI 
+intermediate 
+(≥60g) 
+(40-59.9g) 
+95% CI 
+% lower- 
+end 
+(<40g) 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+High-end, intermediate, and lower-end level drinking among current (past 30 days) drinkers 
+Age Group 
+(years) 
+Women 
+n 
+% high- 
+% 
+end 
+95% CI 
+intermediate 
+(≥40g) 
+(20-39.9g) 
+95% CI 
+% lower- 
+end 
+(<20g) 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+High-end, intermediate, and lower-end level drinking among current (past 30 days) drinkers 
+Age Group 
+(years) 
+Both sexes 
+n 
+% high- 
+95% CI 
+ 
+% 
+95% CI 
+% lower- 
+95% CI 
+end 
+ 
+intermediate 
+ 
+ 
+end 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A7 
+• Epi Info program name: Acategories (unweighted); AcategoriesWT (weighted) 
+ 

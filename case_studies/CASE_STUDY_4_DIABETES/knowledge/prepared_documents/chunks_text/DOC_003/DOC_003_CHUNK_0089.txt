@@ -1,0 +1,128 @@
+
+
+===== PDF PAGE 177 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-17 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1), Continued 
+ 
+ 
+ 
+Core questions 
+on alcohol 
+consumption 
+The consumption of alcohol varies a lot within and across countries, and 
+different patterns of alcohol consumption are associated with different levels 
+of risk. Alcohol consumption can be episodic, and asking individuals about 
+their average (daily) consumption can be problematic.  In addition, while 
+some communities abstain from alcohol entirely or may use alcohol on very 
+rare and specific occasions, others usually consume it rather regularly. Even 
+though in some countries, it is mostly men who may consume alcohol,  
+women as well as men must be asked these alcohol-related questions. 
+ 
+Due to the above mentioned reasons, surveys of alcohol consumption should 
+attempt to capture amount and frequency as well as patterns of drinking. 
+ 
+The questions in the STEPS Instrument ask about: 
+ 
+• lifetime consumption of alcohol; 
+• past 12 month consumption of alcohol and it's frequency; 
+• reasons for stopping drinking; 
+• general consumption of alcohol in past 30 days; 
+• number of occasions of alcohol consumption in the past 30 days; 
+• average number of drinks per drinking occasion; 
+• largest number of drinks per drinking occasion; 
+• number of occasions with six or more drinks in one occasion; 
+• past 7 days drinking; 
+• unrecorded alcohol consumption and number of standard drinks of 
+unrecorded alcohol during the past 7 days. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• A1: If a person has never drunk, all other core alcohol questions can be 
+skipped; 
+• A2: If a respondent has drunk alcohol during the past 12 months, the 
+question on stopping drinking can be skipped (A3); 
+• A3: This question only applies to respondents that have drunk alcohol in 
+their lifetime, but not in the past 12 months. After answering this question, 
+these respondents can skip over the rest of the core alcohol questions; 
+• A5: If a person has not drunk within the past 30 days, all other core alcohol 
+questions can be skipped; 
+•  A11: If a respondent has not drunk any unrecorded alcohol during the past  
+7 days, A12 can be skipped. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 178 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-18 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1), Continued 
+ 
+ 
+ 
+Expanded 
+questions on 
+alcohol 
+consumption 
+The expanded alcohol questions have been adopted from the Alcohol Use 
+Disorders Identification Test (AUDIT) and focus on early signs of hazardous 
+and harmful drinking and on identifying mild dependence. 
+ 
+ 
+ 
+Alcohol 
+consumption 
+show card 
+The definition of a "standard drink" will have to be reviewed and potentially 
+modified by each country on the show cards, included in Part 5, Section 3, to 
+reflect local types of alcohol. This will include: 
+ 
+• types and strengths of products 
+• common measures 
+• local terms used for both. 
+ 
+If domestic manufacture of beer, wine or spirits is common, information on 
+the usual ethanol content of such products should also be available to help 
+determine the volume of absolute alcohol that makes a "standard drink". 
+ 
+ 
+ 
+Core questions 
+on diet 
+The STEPS questions on diet include: 
+ 
+• the number of days fruit is eaten in a typical week 
+• the number of servings on one of these days 
+• the number of days vegetables are eaten in a typical week 
+• the number of servings on one of those days 
+• adding of salt or salty sauce to the food 
+• consumption of processed food high  in salt 
+• perception of  the amount of  salt consumed. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• D1: If a person reports 0 days of fruit consumption, go to D3 
+• D3: If a person reports 0 days of vegetables consumption, go to D5. 
+ 
+ 
+ 
+Expanded 
+questions on 
+diet 
+The expanded diet questions ask about lowering and controlling salt intake: 
+ 
+• importance of lowering salt intake 
+• knowledge of health effects of consumption of too much salt 
+• measures to control salt intake. 
+ 
+Continued on next page 

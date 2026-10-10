@@ -1,0 +1,48 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+• 
+Policy: Governance of the allowable use and methods of interacting with systems and data are 
+defined and agreed-upon. There need to be defined policies that “legislate” the safe, accurate 
+exchange of your data across organizational and even national boundaries. 
+Semantic Interoperability 
+When data are recorded in or communicated between medical records systems, there is an assumption 
+that a given medical concept is portable. When you record a specific medication, diagnosis, or result, in 
+one system it would seem to be natural that the information be retrievable in another and retain the 
+intended meaning. Ifa patient has theirdata recorded in their primarycare provider’s EHR, they should 
+be able to be referred to a specialist who has access to that same data and can review it in their own 
+EHR. 
+In practice, this has been a difficult proposition. Allowing for communication between one medical 
+record system and another is highly complex. Most systems record and store data in their own native, 
+proprietary formats. Each is effectively an isolated container – an island. To exchange data between two 
+systems, each must translate between the sender and receiver of the communication. 
+Each specific domain of information like laboratory data, pharmacology information, etc. can be very 
+complex and require specialized knowledge. For a large academic medical center with potentially 
+hundreds of systems that is a great deal of coordination and management. If you attempt to integrate 
+that information on a system-by-system basis, the result will be extremely complex and require constant 
+ongoing support as each system changes. 
+What we need is standardized semantic interoperability. A simple way to describe semantic 
+interoperability is: “Say the same thing, mean the same thing.” When a discrete fact is stored within an 
+electronic medical record system, it is most typically represented in some codified form that is intended 
+to help reduce this potential confusion. This codified form represents a concept and all of its attributes. 
+When you enter diagnosis, record an active medication, or order a lab, the human-readable description 
+you see on the front-end of the EHR is probably not what is recorded on the computer. Instead, that 
+order for a “glucose lab test” you seeon screenis storedas something like “123ABC,” a coded value that 
+means “glucose lab test.” The phrase “glucose lab test” is not what is typically recorded on the chart 
+itself. 
+Exhibit 54: Visual Example of Standardized Semantic Interoperability 
+Primary EMR
+Lab Provider
+Blood Glucose = 123ABC
+Blood Glucose = 15074-8
+“I’d like to order a glucose in 
+blood lab test”
+Translate
+123ABC = 15074-8
+Why not just store “glucose lab test?” There are severalreasons, but tojust highlight a few: 
+• 
+Descriptions can change.If there is a general label change to improve the readability or even to 
+correct a spelling error, every single chart would have to be updated to reflect the revised label. 
+Health IT Advisor Handbook 
+Page 109

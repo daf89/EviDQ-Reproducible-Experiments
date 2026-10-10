@@ -1,0 +1,155 @@
+911. Nagai M, Hoshide S, Ishikawa J, Shimada K, Kario K. Ambulatory blood pressure as an 
+independent determinant of brain atrophy and cognitive function in elderly hyperten-
+sion. J Hypertens 2008;26:1636–41. https://doi.org/10.1097/HJH.0b013e3283018333 
+912. Staessen JA, Thijs L, Ohkubo T, Kikuya M, Richart T, Boggia J, et al. Thirty years of 
+research on diagnostic and therapeutic thresholds for the self-measured blood 
+pressure at home. Blood Press Monit 2008;13:352–65. https://doi.org/10.1097/ 
+MBP.0b013e3283108f93 
+913. Kario K, Shimada K. Risers and extreme-dippers of nocturnal blood pressure in hyper-
+tension: antihypertensive strategy for nocturnal blood pressure. Clin Exp Hypertens 
+2004;26:177–89. https://doi.org/10.1081/ceh-120028556 
+914. Tan X, Sundström J, Lind L, Franzon K, Kilander L, Benedict C, et al. Reverse dipping of 
+systolic blood pressure is associated with increased dementia risk in older men: a lon-
+gitudinal study over 24 years. Hypertension 2021;77:1383–90. https://doi.org/10.1161/ 
+hypertensionaha.120.16711 
+915. Judd E, Calhoun DA. Apparent and true resistant hypertension: definition, prevalence 
+and outcomes. J Hum Hypertens 2014;28:463–8. https://doi.org/10.1038/jhh.2013.140 
+916. Denker MG, Haddad DB, Townsend RR, Cohen DL. Blood pressure control 1 year 
+after referral to a hypertension specialist. J Clin Hypertens (Greenwich) 2013;15: 
+624–9. https://doi.org/10.1111/jch.12146 
+917. Blumenthal JA, Hinderliter AL, Smith PJ, Mabe S, Watkins LL, Craighead L, et al. Effects 
+of lifestyle modification on patients with resistant hypertension: results of the 
+TRIUMPH randomized clinical trial. Circulation 2021;144:1212–26. https://doi.org/10. 
+1161/circulationaha.121.055329 
+918. Hung SC, Kuo KL, Peng CH, Wu C-H, Lien Y-C, Wang Y-C, et al. Volume overload 
+correlates with cardiovascular risk factors in patients with chronic kidney disease. 
+Kidney Int 2014;85:703–9. https://doi.org/10.1038/ki.2013.336 
+919. Taler SJ, Textor SC, Augustine JE. Resistant hypertension: comparing hemodynamic 
+management to specialist care. Hypertension 2002;39:982–8. https://doi.org/10.1161/ 
+01.hyp.0000016176.16042.2f 
+920. Gaddam KK, Nishizaka MK, Pratt-Ubunama MN, Pimenta E, Aban I, Oparil S, et al. 
+Characterization of resistant hypertension: association between resistant hyperten-
+sion, aldosterone, and persistent intravascular volume expansion. Arch Intern Med 
+2008;168:1159–64. https://doi.org/10.1001/archinte.168.11.1159 
+921. Roush GC, Ernst ME, Kostis JB, Tandon S, Sica DA. Head-to-head comparisons of 
+hydrochlorothiazide with indapamide and chlorthalidone: antihypertensive and meta-
+bolic effects. Hypertension 2015;65:1041–6. https://doi.org/10.1161/hypertensionaha. 
+114.05021 
+922. Peterzan MA, Hardy R, Chaturvedi N, Hughes AD. Meta-analysis of dose-response re-
+lationships for hydrochlorothiazide, chlorthalidone, and bendroflumethiazide on blood 
+pressure, serum potassium, and urate. Hypertension 2012;59:1104–9. https://doi.org/ 
+10.1161/hypertensionaha.111.190637 
+923. Chen C, Zhu XY, Li D, Lin Q, Zhou K. Clinical efficacy and safety of spironolactone in 
+patients with resistant hypertension: a systematic review and meta-analysis. Medicine 
+(Baltimore) 2020;99:e21694. https://doi.org/10.1097/md.0000000000021694 
+924. Zhao D, Liu H, Dong P, Zhao J. A meta-analysis of add-on use of spironolactone in 
+patients with resistant hypertension. Int J Cardiol 2017;233:113–7. https://doi.org/10. 
+1016/j.ijcard.2016.12.158 
+925. Bazoukis G, Thomopoulos C, Tsioufis C. Effect of mineralocorticoid antagonists on 
+blood pressure lowering: overview and meta-analysis of randomized controlled 
+trials in hypertension. J Hypertens 2018;36:987–94. https://doi.org/10.1097/hjh. 
+0000000000001671 
+926. Oxlund CS, Henriksen JE, Tarnow L, Schousboe K, Gram J, Jacobsen IA. Low dose spir-
+onolactone reduces blood pressure in patients with resistant hypertension and type 2 
+diabetes mellitus: a double blind randomized clinical trial. J Hypertens 2013;31: 
+2094–102. https://doi.org/10.1097/HJH.0b013e3283638b1a 
+927. Desai R, Park H, Brown JD, Mohandas R, Pepine CJ, Smith SM. Comparative safety and 
+effectiveness of aldosterone antagonists versus beta-blockers as fourth agents in pa-
+tients with apparent resistant hypertension. Hypertension 2022;79:2305–15. https:// 
+doi.org/10.1161/hypertensionaha.122.19280 
+928. Juurlink DN, Mamdani MM, Lee DS, Kopp A, Austin PC, Laupacis A, et al. Rates of hy-
+perkalemia after publication of the randomized aldactone evaluation study. N Engl J 
+Med 2004;351:543–51. https://doi.org/10.1056/NEJMoa040135 
+929. Agarwal R, Rossignol P, Romero A, Garza D, Mayo MR, Warren S, et al. Patiromer 
+versus placebo to enable spironolactone use in patients with resistant hypertension 
+and chronic kidney disease (AMBER): a phase 2, randomised, double-blind, placebo- 
+controlled trial. Lancet 2019;394:1540–50. https://doi.org/10.1016/s0140-6736(19) 
+32135-x 
+930. Burton TJ, Mackenzie IS, Balan K, Koo B, Bird N, Soloviev DV, et al. Evaluation of the 
+sensitivity and specificity of (11)C-metomidate positron emission tomography 
+(PET)-CT for lateralizing aldosterone secretion by Conn’s adenomas. J Clin Endocrinol 
+Metab 2012;97:100–9. https://doi.org/10.1210/jc.2011-1537 
+931. Rossi GP, Maiolino G, Seccia TM. Adrenal venous sampling: where do we stand? 
+Endocrinol Metab Clin North Am 2019;48:843–58. https://doi.org/10.1016/j.ecl. 
+2019.08.012 
+932. Wu X, Senanayake R, Goodchild E, Bashari WA, Salsbury J, Cabrera CP, et al. [(11)C] 
+metomidate PET-CT versus adrenal vein sampling for diagnosing surgically curable 
+primary aldosteronism: a prospective, within-patient trial. Nat Med 2023;29: 
+190–202. https://doi.org/10.1038/s41591-022-02114-5 
+933. Lenzini L, Prisco S, Caroccia B, Rossi GP. Saga of familial hyperaldosteronism: yet a 
+new channel. Hypertension 2018;71:1010–4. https://doi.org/10.1161/hypertensionaha. 
+118.11150 
+934. Parthasarathy HK, Ménard J, White WB, Young WF, Williams GH, Williams B, et al. A 
+double-blind, randomized study comparing the antihypertensive effect of eplerenone 
+and spironolactone in patients with hypertension and evidence of primary aldosteron-
+ism. J Hypertens 2011;29:980–90. https://doi.org/10.1097/HJH.0b013e3283455ca5 
+935. Shagjaa T, Sanga V, Rossi GP. Skin hyperpigmentation due to post-surgical adrenal in-
+sufficiency regressed with the dexamethasone treatment. J Clin Med 2022;11:5379. 
+https://doi.org/10.3390/jcm11185379 
+936. Sanga V, Lenzini L, Seccia TM, Rossi GP. Familial hyperaldosteronism type 1 and preg-
+nancy: successful treatment with low dose dexamethasone. Blood Press 2021;30: 
+133–7. https://doi.org/10.1080/08037051.2020.1863771 
+937. Persu A, Touzé E, Mousseaux E, Barral X, Joffre F, Plouin P-F. Diagnosis and manage-
+ment of fibromuscular dysplasia: an expert consensus. Eur J Clin Invest 2012;42:338–47. 
+https://doi.org/10.1111/j.1365-2362.2011.02577.x 
+938. Wheatley K, Ives N, Gray R, Kalra PA, Moss JG, Baigent C, et al. Revascularization ver-
+sus medical therapy for renal-artery stenosis. N Engl J Med 2009;361:1953–62. https:// 
+doi.org/10.1056/NEJMoa0905368 
+939. Cooper CJ, Murphy TP, Cutlip DE, Jamerson K, Henrich W, Reid DM, et al. Stenting 
+and medical therapy for atherosclerotic renal-artery stenosis. N Engl J Med 2014;370: 
+13–22. https://doi.org/10.1056/NEJMoa1310753 
+940. Bailey SR, Beckman JA, Dao TD, Misra S, Sobieszczyk PS, White CJ, et al. ACC/AHA/ 
+SCAI/SIR/SVM 2018 appropriate use criteria for peripheral artery intervention: a re-
+port of the American College of Cardiology Appropriate Use Criteria Task Force, 
+American Heart Association, Society for Cardiovascular Angiography and 
+Interventions, Society of Interventional Radiology, and Society for Vascular 
+Medicine. J Am Coll Cardiol 2019;73:214–37. https://doi.org/10.1016/j.jacc.2018.10.002 
+941. Trinquart L, Mounier-Vehier C, Sapoval M, Gagnon N, Plouin PF. Efficacy of revascu-
+larization for renal artery stenosis caused by fibromuscular dysplasia: a systematic re-
+view and meta-analysis. Hypertension 2010;56:525–32. https://doi.org/10.1161/ 
+hypertensionaha.110.152918 
+942. Sanga V, Bertoli E, Crimì F, Barbiero G, Battistel M, Teresa Seccia M, et al. Pickering 
+syndrome: an overlooked renovascular cause of recurrent heart failure. J Am Heart 
+Assoc 2023;12:e030474. https://doi.org/10.1161/jaha.123.030474 
+943. Bhalla V, Textor SC, Beckman JA, Casanegra AI, Cooper CJ, Kim ESH, et al. 
+Revascularization for renovascular disease: a scientific statement from the 
+American Heart Association. Hypertension 2022;79:e128–43. https://doi.org/10. 
+1161/hyp.0000000000000217 
+944. Bravo E, Fouad-Tarazi F, Rossi G, Imamura M, Lin WW, Madkour MA, et al. A re-
+evaluation of the hemodynamics of pheochromocytoma. Hypertension 1990;15: 
+I128–131. https://doi.org/10.1161/01.hyp.15.2_suppl.i128 
+945. Cohen JB, Brown NJ, Brown SA, Dent S, van Dorst DCH, Herrmann SM, et al. 
+Cancer therapy-related hypertension: a scientific statement from the American 
+Heart Association. Hypertension 2023;80:e46–57. https://doi.org/10.1161/hyp. 
+0000000000000224 
+946. Lyon AR, López-Fernández T, Couch LS, Asteggiano R, Aznar MC, Bergler-Klein J, et al. 
+ESC guidelines on cardio-oncology developed in collaboration with the European 
+Hematology Association (EHA), the European Society for Therapeutic Radiology 
+and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS). Eur 
+Heart J 2022;43:4229–361. https://doi.org/10.1093/eurheartj/ehac244 
+947. Boulestreau R, van den Born BH, Lip GYH, Gupta A. Malignant hypertension: current 
+perspectives and challenges. J Am Heart Assoc 2022;11:e023397. https://doi.org/10. 
+1161/jaha.121.023397 
+948. Ma L, Hu X, Song L, Chen X, Ouyang M, Billot L, et al. The third intensive care bundle 
+with blood pressure reduction in acute cerebral haemorrhage trial (INTERACT3): an 
+international, stepped wedge cluster randomised controlled trial. Lancet 2023;402: 
+27–40. https://doi.org/10.1016/s0140-6736(23)00806-1 
+949. Moullaali TJ, Wang X, Sandset EC, Woodhouse LJ, Law ZK, Arima H, et al. Early low-
+ering of blood pressure after acute intracerebral haemorrhage: a systematic review 
+and meta-analysis of individual patient data. J Neurol Neurosurg Psychiatry 2022;93: 
+6–13. https://doi.org/10.1136/jnnp-2021-327195 
+950. Wang X, Di Tanna GL, Moullaali TJ, Martin R’ H, Shipes VB, Robinson TG, et al. J-shape 
+relation of blood pressure reduction and outcome in acute intracerebral hemorrhage: 
+a pooled analysis of INTERACT2 and ATACH-II individual participant data. Int J Stroke 
+2022;17:1129–36. https://doi.org/10.1177/17474930211064076 
+951. Qureshi AI, Huang W, Lobanova I, Barsan WG, Hanley DF, Hsu CY, et al. Outcomes 
+of intensive systolic blood pressure reduction in patients with intracerebral hemor-
+rhage and excessively high initial systolic blood pressure: post hoc analysis of a ran-
+domized clinical trial. JAMA Neurol 2020;77:1355–65. https://doi.org/10.1001/ 
+jamaneurol.2020.3075 
+952. Bath PM, Krishnan K. Interventions for deliberately altering blood pressure in acute 
+stroke. Cochrane Database Syst Rev 2014;2014:CD000039. https://doi.org/10.1002/ 
+14651858.CD000039.pub3 
+4016 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

@@ -1,0 +1,190 @@
+
+
+===== PDF PAGE 441 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-82 
+WHO STEPS Surveillance 
+ 
+ 
+Prevention 
+and 
+treatment 
+of heart 
+disease 
+Description: Percentage of respondents who are currently taking aspirin or statins 
+regularly to prevent or treat heart disease. 
+ 
+Instrument questions: 
+• Are you currently taking aspirin regularly to prevent or treat heart disease? 
+• Are you currently taking statins (Lovostatin/Simvastatin/Atorvastatin or any 
+other statin) regularly to prevent or treat heart disease? 
+ 
+Currently taking aspirin regularly to prevent or treat heart disease 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+aspirin 
+n 
+% taking 
+95% CI 
+aspirin 
+n 
+% taking 
+95% CI 
+aspirin 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Currently taking statins regularly to prevent or treat heart disease 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+statins 
+n 
+% taking 
+95% CI 
+statins 
+n 
+% taking 
+95% CI 
+statins 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H18, H19 
+• Epi Info program name: Hcvdmeds (unweighted); HcvdmedsWT (weighted) 
+ 
+
+
+===== PDF PAGE 442 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-83 
+WHO STEPS Surveillance 
+ 
+ 
+Lifestyle Advice 
+ 
+Lifestyle 
+advice 
+Description: Percentage of respondents who received lifestyle advice from a doctor 
+or health worker during the past three years among all respondents. 
+Instrument question: 
+• During the past three years, has a doctor or other health worker advised you to do 
+any of the following? 
+ 
+Advised by doctor or health worker to quit using tobacco or don’t start 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Advised by doctor or health worker to reduce salt in the diet 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Advised by doctor or health worker to eat at least five servings of fruit and/or vegetables each day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Advised by doctor or health worker to reduce fat in the diet 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 

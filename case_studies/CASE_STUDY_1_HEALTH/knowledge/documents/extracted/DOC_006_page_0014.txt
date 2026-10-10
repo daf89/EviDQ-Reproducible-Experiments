@@ -1,0 +1,47 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+EXAMPLE: 
+Practice B participatedin a project to increase the prescribing of statins for patients with 
+diabetes. To increase attention to the project and inform conversations aboutpotential 
+interventions, the Health ITAdvisorhelped updatea monthly run chartshowing theproportion 
+of diabetic patients prescribed a statin aggregated atthe clinic level and atthe provider level. 
+The Health IT Advisor reserved agendatimeat the practice’sleadership meetingeach month to 
+review the data. The team was ableto show leadership success in increasing statin 
+prescriptions for this patient population. 
+Highlighting success: Busy leaders rarely carve out time to celebrate successes in QI projects. Teams do 
+better when they see they are making progress. Rather than waiting until a practice meets their larger 
+goals, Health IT Advisors can support leaders by pointing out positive trends and important data 
+milestones to bolster the sense of accomplishment for the team 
+EXAMPLE: 
+As a part of a broader project to integrate behavioral health into primary care,Practice C’s 
+leadership team set a goal to screen over 90% of their new mothers for postpartum 
+depression. They spent the first3 months of the projectcreatinga new documentation module 
+within their EHR tocapturethisdatawithin the newborn’schart.The HealthIT Advisormade a 
+point to congratulatethe full clinic teamafter the first time a screening was properly 
+documented using their new EHRworkflowand included leadership in celebrating this 
+achievement. 
+1.5 
+Collaborating with Practice Quality Improvement Staff 
+To be successful in QI and practice transformation efforts, you need buy-in from other staff beyond 
+leaders and health-IT-focused employees. This requires a team effort. Health IT Advisors can collaborate 
+with practice staff members and assist in developing a practice support plan that connects the practice’s 
+vision for advanced patient care with how they will benefit from multiple projects over time. If a practice 
+has a well-developed QI process already in place, engagement of that team and its leaders will make any 
+efforts easier and more streamlined. If the practice does not have an existing quality improvement team 
+or effort, identification and engagement of potential clinician and staff leaders interested in change and 
+QI will be an important initial part of the effort for the Health IT Advisor. 
+Once the appropriate practice members have been identified and engaged, work proceeds according to 
+basic QI and change management processes.Throughout, ongoing collaboration with a varietyof 
+practice clinicians and staff members will be needed, either through regular team meetings, interactions 
+with individuals, or, generally, both. As an example, to track patents screened positive for unhealthy 
+alcohol use, the Health IT Advisor will need to: 
+• 
+Learnthe clinic’s current workflow/process for incorporating a screening tool (this may be in 
+place of other validated tools, or may not yet exist) 
+• 
+Work with clinicians and staff to select a screening tool 
+• 
+Coordinate with clinical and operationalstaffto ensure they are using the screening tool and 
+documenting data in the proper location within the EHR so that it can be counted 
+Health IT Advisor Handbook 
+Page 9

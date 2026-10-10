@@ -1,8 +1,13 @@
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+
 .env
 .env.*
 *.key
 *.pem
 *.token
+
 .DS_Store

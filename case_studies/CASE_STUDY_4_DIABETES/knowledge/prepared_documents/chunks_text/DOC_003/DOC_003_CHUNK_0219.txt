@@ -1,0 +1,177 @@
+
+
+===== PDF PAGE 437 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-78 
+WHO STEPS Surveillance 
+ 
+ 
+History of Raised Total Cholesterol 
+ 
+ 
+Cholesterol 
+measurement 
+and 
+diagnosis 
+Description: Total cholesterol measurement and diagnosis among all respondents. 
+Instrument questions: 
+• Have you ever had your cholesterol (fat levels in your blood) measured by a 
+doctor or other health worker? 
+• Have you ever been told by a doctor or other health worker that you have 
+raised cholesterol? 
+• Have you been told in the past 12 months? 
+ 
+Total cholesterol measurement and diagnosis 
+Age 
+Group 
+(years) 
+Men 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Total cholesterol measurement and diagnosis 
+Age 
+Group 
+(years) 
+Women 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Total cholesterol measurement and diagnosis 
+Age 
+Group 
+(years) 
+Both sexes 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H12, H13a, H13b 
+• Epi Info program name: Hchol (unweighted); HcholWT (weighted) 
+ 
+
+
+===== PDF PAGE 438 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-79 
+WHO STEPS Surveillance 
+ 
+ 
+Cholesterol 
+treatment 
+among 
+those 
+diagnosed 
+Description: Cholesterol treatment results among those previously diagnosed with 
+raised cholesterol. 
+ 
+Instrument questions: 
+• Have you ever had your cholesterol (fat levels in your blood) measured by a 
+doctor or other health worker? 
+• Have you ever been told by a doctor or other health worker that you have raised 
+cholesterol? 
+• In the past two weeks, have you taken oral treatment (medication) for raised 
+total cholesterol prescribed by a doctor or other health worker? 
+ 
+Currently taking oral treatment (medication) prescribed for raised total cholesterol among those previously 
+diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H12, H13a, H14 
+• Epi Info program name: Hchol (unweighted); HcholWT (weighted) 
+ 

@@ -1,0 +1,70 @@
+S248
+Figure 45. Selected herbal remedies and dietary supplements with evidence of potential nephrotoxicity, grouped
+by the continent from where the reports ﬁrst came
+S250
+Figure 46. Suggested steps in the process of medication review and reconciliation
+S251
+Figure 47. Essential steps for appropriate sick day rule implementation
+S255
+Figure 48. Circumstances for referral to specialist kidney care services and goals of the referral
+S258
+Figure 49. Common symptoms, prevalence, and severity in people with chronic kidney disease
+S261
+Figure 50. Optimal care model by increasing severity of chronic kidney disease (CKD)
+S262
+Figure 51. The chronic care model
+S262
+Figure 52. Speciﬁc components of the chronic kidney disease model of care
+S263
+Figure 53. Strategy for effective patient education programs for people with chronic kidney disease (CKD)
+S264
+Figure 54. Telehealth technologies for people with chronic kidney disease (CKD)
+S265
+Figure 55. The process of transition from pediatric to adult care in chronic kidney disease (CKD)
+S269
+Figure 56. Relationship between supportive care, comprehensive conservative care, and end-of-life care
+S279
+Figure 57. Search yield and study ﬂow diagram
+SUPPLEMENTARY MATERIAL
+Supplementary File (PDF)
+Appendix A. Search strategies
+Table S1. Search strategies for systematic review topics
+Appendix B. Concurrence with Institute of Medicine (IOM) standards for guideline development
+Table S2. Guideline development checklist – IOM standards for development of trustworthy clinical practice
+guidelines
+Appendix C. Data supplement - Summary of ﬁndings (SoF) tables cited in the guideline text
+Chapter 1. Evaluation of CKD
+Table S3. Adults and children with or without CKD, estimated GFR (eGFR) based on measurements of cystatin C
+(eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys) versus measured GFR (mGFR;
+using urinary or plasma clearance of exogenous ﬁltration marker)
+Table S4. Adults and children with suspected or diagnosed CKD, native kidney biopsy versus clinical or standard
+diagnosis or prognosis for studies evaluating diagnostic or prognostic beneﬁt; no comparator for
+studies evaluating safety
+Table S5. Adults and children, machine-read quantitative or semiquantitative protein or albumin urine dipstick
+tests versus laboratory-based methods for measuring urinary protein or albumin (e.g., 24-hour urinary
+sample, spot urine protein-to-creatinine ratio [PCR], or albumin-to-creatinine ratio [ACR])
+Chapter 2. Risk assessment in people with CKD
+Table S6. Adults, children, and young people with CKD G1–G5, C-statistics of kidney failure risk equations for
+predicting progression (e.g., Tangri equation [KFRE])
+Table S7. Adults, children, and young people with CKD G1–G5, Brier scores of kidney failure risk equations for
+predicting progression (e.g., Tangri equation [KFRE])
+Table S8. Adults, children, and young people with CKD G1–G5, R2 statistics of kidney failure risk equations for
+predicting progression (e.g., Tangri equation [KFRE])
+Table S9. Adults, children, and young people with CKD G1–G5, sensitivity and speciﬁcity to start kidney
+replacement therapy (KRT) for kidney failure risk equations for predicting progression (e.g., Tangri
+equation [KFRE])
+Chapter 3. Delaying CKD progression and managing its complications
+Table S10. Adults and children with CKD, sodium-glucose cotransporter-2 inhibitors (SGLT2i) versus placebo or
+usual care; active comparator (e.g., another glucose-lowering agent)
+Table S11. Adults and children with CKD and symptomatic hyperuricemia, uric acid–lowering therapy (ULT;
+allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, topiroxostat,
+rasburicase, sulﬁnpyrazone, lesinurad) versus active comparator, placebo, or usual care
+Table S12. Adults and children with CKD and asymptomatic hyperuricemia, uric acid–lowering therapy (ULT;
+allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, topiroxostat,
+rasburicase, sulﬁnpyrazone, lesinurad) versus active comparator, placebo, or usual care
+Table S13. Adults and children with CKD and ischemic heart disease, angiography or coronary revascularization
+versus medical treatment
+contents
+www.kidney-international.org
+S122
+Kidney International (2024) 105 (Suppl 4S), S117–S314

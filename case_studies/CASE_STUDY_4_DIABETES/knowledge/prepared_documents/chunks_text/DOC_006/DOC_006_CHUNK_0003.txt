@@ -1,0 +1,93 @@
+
+
+===== PDF PAGE 5 =====
+
+	
+Contents
+Acknowledgements	
+5
+HEARTS Technical Package	
+6
+Introduction	
+9
+Use of module	
+9
+1	
+Hypertension detection and treatment	
+10
+When to measure blood pressure	
+10
+How to measure blood pressure	
+10
+Diagnosing hypertension	
+11
+Hypertension treatment	
+11
+Sample hypertension treatment protocols	
+13
+2	
+Diabetes detection and treatment	
+32
+Diabetes risk factors and symptoms	
+32
+Diagnostic testing for diabetes	
+32
+Drug therapy	
+33
+Monitoring glycaemic control	
+33
+Treatment adherence	
+34
+3	
+Identifying emergencies and need for referral	
+36
+Annex: Example of essential CVD medications	
+38
+References	
+40
+
+
+===== PDF PAGE 6 =====
+
+Hypertension protocols
+Hypertension protocol 1: Diuretic as first-line treatment 	
+15
+Hypertension protocol 2: CCB as first-line treatment	
+17
+Hypertension protocol 3: ACE-I or ARB as first-line treatment	
+19
+Hypertension protocol 4: ACE-I or ARB + CCB as first-line treatment	
+21
+Hypertension protocol 5: CCB + diuretic as first-line of treatment	
+23
+Hypertension protocol 6: ACE-I or ARB + diuretic as first-line treatment	
+25
+Hypertension protocol 7: Use of BP-lowering drugs in patients 
+with ischaemic CVD	
+27
+Hypertension protocol 8: Adapted example: CCB as first-line treatment 	
+29
+Hypertension protocol 9: Adapted example: telmisartan 40 mg/
+amlodipine 5 mg single-pill combination regimen	
+31
+Diabetes protocol: Type 2 diabetes management protocol 
+derived from WHO-PEN	
+35
+Boxes
+Box 1:	Advantages and disadvantages of diuretics	
+14
+Box 2:	Advantages and disadvantages of CCBs	
+16
+Box 3:	Advantages and disadvantages of ACE inhibitors	
+18
+Box 4:	Advantages and disadvantages of ACE inhibitors plus CCBs 	
+20
+Box 5:	Advantages and disadvantages of CCBs and diuretics	
+22
+Box 6:	Advantages and disadvantages of ACE inhibitor plus diuretic	
+24
+Box 7:	Advantages and disadvantages of CCB as first-line treatment	
+28
+Box 8:	Advantages and disadvantages of telmisartan 40 mg/
+amlodipine 5 mg single-pill combination regimen as first-line treatment	
+30

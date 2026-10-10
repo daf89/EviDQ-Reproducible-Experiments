@@ -1,0 +1,153 @@
+
+
+===== PDF PAGE 25 =====
+
+The global framework for diabetes prevention and control  ﻿
+13
+Routine facility reporting system
+A key source of health services data is the routine 
+facility reporting system that regularly collects 
+data on health care resources, health service use, 
+health outcomes and patterns that can generate 
+aggregated statistics at different levels of the 
+health system (33). Based on the 2020 SCORE 
+global report (32), about 80 countries possess 
+a moderate to sustainable capacity for routine 
+facility reporting with patient monitoring. 
+Patient monitoring systems are important for 
+capturing aggregate facility-based statistics 
+for NCDs. In the 2021 NCD country capacity 
+survey (31), about 55% of countries reported 
+collecting individual-level data on NCDs in 
+primary health centres, using paper-based, 
+electronic or mixed systems, with the majority 
+of electronic systems more prevalent in high-
+income countries. The Noncommunicable 
+disease facility-based monitoring guidance (16) 
+provides indicator standards and an approach 
+for improving routine facility reporting systems 
+with person-level monitoring, for assessing 
+service delivery for NCDs including diabetes in 
+primary care settings.   
+Population-based survey
+Population-based surveys are important for 
+measuring disease risk factors and other social 
+determinants that cannot be generated reliably 
+from routine facility reporting systems (34). At 
+least 120 countries have conducted population-
+based surveys to measure risk factors for NCDs 
+using the WHO STEPwise approach to NCD risk 
+factor surveillance (STEPS) (27). STEPS is a simple 
+standardized method for collecting, analysing 
+and disseminating data on key NCD risk factors 
+in countries. The STEPS questionnaire includes 
+assessment of behavioural and biological risk 
+factors relevant to diabetes such as tobacco 
+use, physical inactivity, overweight and obesity, 
+raised blood pressure and raised blood glucose. 
+It can also be used to generate estimates on 
+the care cascade for people with diabetes 
+from diagnosis and treatment to achieving 
+glycaemic control.
+Civil registration and vital statistics 
+system
+Generation of reliable estimates of mortality 
+burden for diabetes is possible with a well-
+functioning CRVS system with standardized 
+medical certification of cause of death (35) and 
+coding based on the International Classification 
+of Diseases  (ICD)  (36). The WHO mortality 
+database contains data on registered deaths 
+including cause of death, disaggregated by 
+age, sex and ICD code submitted by over 120 
+countries (37). The quality of mortality data varies 
+by country and year, with some country-reported 
+deaths unregistered, and/or with incomplete or 
+incorrect cause-of-death information, making 
+the data unreliable. Deaths due to diabetes 
+are often recorded as cardiovascular deaths 
+as the underlying cause of death, particularly 
+when diabetes contributes alongside multiple 
+other causes (38).
+WHO Global health estimates of mortality by 
+cause (39) provide comparable estimates across 
+countries and time, adjusting for completeness 
+and quality of cause-of-death data from 
+CRVS, and using data from multiple sources, 
+including WHO technical programmes, United 
+Nations partners and inter-agency data and 
+scientific studies, and well-established data 
+estimation methods.
+Other sources
+Some indicators may be generated from 
+other sources, such as medicines and health 
+products price survey (40), logistics information 
+system, health workforce information system, 
+national health insurance claims database, 
+poverty assessments (national statistics office 
+reports) (41), and population census. 
+
+
+===== PDF PAGE 26 =====
+
+14
+4.	 Application of the Guidance on 
+global monitoring for diabetes 
+prevention and control in countries
+The Guidance on global monitoring for diabetes 
+prevention and control provides a structured 
+approach to tackle diabetes across the globe, 
+focusing on improving health outcomes 
+through effective prevention, management, 
+and control strategies. Its successful application 
+within national contexts necessitates a tailored 
+approach, aligning the framework with existing 
+health care infrastructures, policies, and 
+priorities. Countries can develop a roadmap 
+for the adaptation of the framework, through 
+integrating diabetes indicators into their existing 
+national monitoring framework, adopting 
+innovative methods and digital solutions to 
+improve data quality and access, and conducting 
+regular data quality audits, supervisory visits, 
+and based on feedback and audit outcomes, 
+adapting data improvement and indicator 
+integration strategies to address emerging needs 
+and challenges.
+Adopting/aligning the framework with national diabetes 
+programmes and review processes
+Countries should start by aligning the framework 
+with their national diabetes programmes, 
+ensuring that the framework complements 
+and enhances existing efforts. This involves 
+integrating goals and targets into national 
+health strategies and plans, making necessary 
+adjustments to accommodate local contexts and 
+health care systems. Regular review processes, 
+involving stakeholders from various sectors, can 
+ensure alignment remains relevant and effective 
+over time.
+Selecting indicators according to priorities and capacities
+Each country has unique health priorities 
+and capacities. Selecting indicators from the 
+framework should thus reflect national priorities 
+for diabetes control and the available resources. 
+Countries might prioritize different aspects of 
+diabetes care based on their epidemiological 
+profile, health care system capabilities, and 
+other health determinants. The selection 
+process should be inclusive, leveraging input 
+from health care professionals, policy-makers, 
+patients and community leaders to ensure it 
+meets the country’s specific needs.
+Countries should initially assess the quality and 
+accessibility of their existing data sources. This 
+assessment can help identify which indicators 
+from the framework can be immediately 
+adopted and reliably measured. Prioritization 
+should align with national health priorities, 
+focusing on indicators that can drive significant 
+improvements in diabetes prevention and 
+control. Indicators with readily available data 
+enable immediate action and monitoring, setting 
+a foundation for the framework’s application.

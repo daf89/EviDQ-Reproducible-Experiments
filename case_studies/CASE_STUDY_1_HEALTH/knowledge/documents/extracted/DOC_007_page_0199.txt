@@ -1,0 +1,114 @@
+910.
+Rosansky SJ, Eggers P, Jackson K, et al. Early start of hemodialysis may be
+harmful. Arch Intern Med. 2011;171:396–403.
+911.
+Preka E, Bonthuis M, Harambat J, et al. Association between timing of
+dialysis initiation and clinical outcomes in the paediatric population:
+an ESPN/ERA-EDTA registry study. Nephrol Dial Transplant. 2019;34:
+1932–1940.
+912.
+Winnicki E, Johansen KL, Cabana MD, et al. Higher eGFR at dialysis
+initiation is not associated with a survival beneﬁt in children. J Am Soc
+Nephrol. 2019;30:1505–1513.
+913.
+Larkins NG, Lim W, Goh C, et al. Timing of kidney replacement therapy
+among children and young adults. Clin J Am Soc Nephrol. 2023;18:1041–
+1050.
+914.
+Okuda Y, Soohoo M, Tang Y, et al. Estimated GFR at dialysis initiation and
+mortality in children and adolescents. Am J Kidney Dis. 2019;73:797–805.
+915.
+Hole B, Hemmelgarn B, Brown E, et al. Supportive care for end-stage
+kidney disease: an integral part of kidney services across a range of
+income settings around the world. Kidney Int Suppl (2011). 2020;10:
+e86–e94.
+916.
+Institute of Medicine. Finding What Works in Health Care: Standards for
+Systematic Reviews. The National Academies Press; 2011.
+917.
+Institute of Medicine (US). Committee on standards for developing
+trustworthy clinical practice guidelines. In: Graham R, Mancher M,
+Miller Wolman DW, et al., eds. Clinical Practice Guidelines We Can Trust.
+National Academies Press; 2011.
+918.
+Brouwers MC, Kho ME, Browman GP, et al. AGREE II: advancing guideline
+development, reporting and evaluation in health care. J Clin Epidemiol.
+2010;63:1308–1311.
+919.
+Higgins JPT, Thomas J, Chandler J, et al., eds. Cochrane Handbook for
+Systematic Reviews of Interventions. 2nd ed. Wiley; 2019.
+920.
+Poggio ED, McClelland RL, Blank KN, et al. Systematic review and meta-
+analysis of native kidney biopsy complications. Clin J Am Soc Nephrol.
+2020;15:1595–1602.
+921.
+National Institute for Health and Care Excellence (NICE). Evidence
+review for the accuracy of albumin:creatinine ratio versus protein
+creatinine ratio measurements to quantify proteinuria in children and
+young people with CKD: Chronic kidney disease: Evidence review B.
+London: NICE; 2021.
+922.
+Corbett M, Duarte A, Llewellyn A, et al. Point-of-care creatinine tests to
+assess kidney function for outpatients requiring contrast-enhanced CT
+imaging: systematic reviews and economic evaluation. Health Technol
+Assess. 2020;24:1–248.
+923.
+Chung EY, Ruospo M, Natale P, et al. Aldosterone antagonists in addition
+to renin angiotensin system antagonists for preventing the progression
+of chronic kidney disease. Cochrane Database Syst Rev. 2020;10:
+Cd007004.
+924.
+Kamdar A, Sykes R, Morrow A, et al. Cardiovascular outcomes of glucose
+lowering therapy in chronic kidney disease patients: a systematic review
+with meta-analysis. Rev Cardiovasc Med. 2021;22:1479–1490.
+925.
+Pallikadavath S, Ashton L, Brunskill NJ, et al. Aspirin for the primary
+prevention of cardiovascular disease in individuals with chronic kidney
+disease: a systematic review and meta-analysis. Eur J Prev Cardiol.
+2022;28:1953–1960.
+926.
+Kimachi M, Furukawa TA, Kimachi K, et al. Direct oral anticoagulants
+versus warfarin for preventing stroke and systemic embolic events
+among atrial ﬁbrillation patients with chronic kidney disease. Cochrane
+Database Syst Rev. 2017;11:CD011373.
+927.
+Sterne JAC, Savovic J, Page MJ, et al. RoB 2: a revised tool for assessing
+risk of bias in randomised trials. BMJ. 2019;366:l4898.
+928.
+Whiting PF, Rutjes AW, Westwood ME, et al. QUADAS-2: a revised tool for
+the quality assessment of diagnostic accuracy studies. Ann Intern Med.
+2011;155:529–536.
+929.
+Whiting P, Savovic J, Higgins JP, et al. ROBIS: a new tool to assess risk of bias
+in systematic reviews was developed. J Clin Epidemiol. 2016;69:225–234.
+930.
+DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials.
+1986;7:177–188.
+931.
+Freeman MF, Tukey J. Transformations related to the angular and the
+square root. Ann Math Stat. 1950;21:601–611.
+932.
+Newcombe RG. Two-sided conﬁdence intervals for the single proportion:
+comparison of seven methods. Stat Med. 1998;17:857–872.
+933.
+Higgins JP, Thompson SG, Deeks JJ, et al. Measuring inconsistency in
+meta-analyses. BMJ. 2003;327:557–560.
+934.
+Guyatt G, Oxman AD, Sultan S, et al. GRADE guidelines: 11. Making an
+overall rating of conﬁdence in effect estimates for a single outcome
+and for all outcomes. J Clin Epidemiol. 2013;66:151–157.
+935.
+Schünemann H, Bro_zek J, Guyatt G, et al. GRADE handbook for grading
+quality of evidence and strength of recommendations. Updated October
+2013. The GRADE Working Group; 2013.
+936.
+Guyatt GH, Oxman AD, Kunz R, et al. GRADE guidelines 6. Rating the
+quality of evidence–imprecision. J Clin Epidemiol. 2011;64:1283–1293.
+937.
+Brunetti M, Shemilt I, Pregno S, et al. GRADE guidelines: 10. Considering
+resource use and rating the quality of economic evidence. J Clin
+Epidemiol. 2013;66:140–150.
+references
+www.kidney-international.org
+S314
+Kidney International (2024) 105 (Suppl 4S), S117–S314

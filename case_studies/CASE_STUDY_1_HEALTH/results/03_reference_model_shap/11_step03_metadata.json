@@ -1,0 +1,66 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_03_MODEL_REF_PERFORMANCE_SHAP_REF",
+    "timestamp": "2026-09-17T17:10:40.734055",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "unchanged": true
+    },
+    "prediction_task": {
+        "target": "risk_score_t",
+        "model_features": 150,
+        "train_rows": 39027,
+        "test_rows": 9757
+    },
+    "preprocessing": {
+        "fit_population": "TRAIN_ONLY",
+        "numerical": "PASSTHROUGH",
+        "categorical": "ONE_HOT_ENCODER",
+        "imputation": false,
+        "scaling": false,
+        "original_feature_count": 150,
+        "transformed_feature_count": 151
+    },
+    "model_ref": {
+        "algorithm": "GradientBoostingRegressor",
+        "n_estimators": 200,
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "random_state": 42
+    },
+    "performance_REF": {
+        "train": {
+            "MAE": 1.5940964160195092,
+            "MSE": 8.27931563051447,
+            "RMSE": 2.8773799941117386,
+            "R2": 0.7329469387693637
+        },
+        "test": {
+            "MAE": 1.656465647453706,
+            "MSE": 9.503046910213945,
+            "RMSE": 3.082701235963995,
+            "R2": 0.6643850524546406
+        }
+    },
+    "SHAP_REF": {
+        "explainer": "TreeExplainer",
+        "population": "FIXED_TEST_SAMPLE",
+        "sample_size": 5000,
+        "random_state": 42,
+        "original_feature_aggregation": true,
+        "cumulative_threshold": 0.8,
+        "selected_feature_count": 12
+    },
+    "safety": {
+        "dataset_modified": false,
+        "split_recomputed": false,
+        "model_trained": true,
+        "shap_calculated": true,
+        "prediction_relevant_scope_created": true,
+        "rag_used": false,
+        "knowledge_base_created": false,
+        "errors_injected": false,
+        "corrections_applied": false
+    }
+}

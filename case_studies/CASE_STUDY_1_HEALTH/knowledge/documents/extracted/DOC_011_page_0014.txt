@@ -1,0 +1,64 @@
+11 
+office-based providers participated in the survey. Furthermore, 83 percent of the 323 eligible 
+HMOs, which can be a hospital or an office-based provider, participated in the survey. Fifty-
+five percent of SBD providers, 91 percent of pharmacy providers, and 85 percent of home care 
+providers also participated in the survey. Overall refusal rates ranged from 0 percent for HMOs, 
+institutions, and pharmacy providers to 3.6 percent for SBD providers. Refusals are categorized 
+based on speaking with the POCs and having a definitive response on their desire to not 
+participate. Providers classified as “other nonresponse” were primarily those who could not be 
+located, who could be located, but had no record of providing care to the sampled patient, or no 
+definitive contact was made before the end of the data collection period. Overall, non-
+participation rates ranged from 9 percent for pharmacies and institutions to 42 percent for 
+SBDs. Note that when comparing the original sample with the final eligible sample, the original 
+sample includes providers that were later determined to be out of scope for the MEPS MPC, or 
+providers that eventually were merged or split. 
+Table 2: 2016 Sample Sizes and Completion Rates in the Medical Provider Component 
+Sample by Provider Type – Provider Level 
+Provider Type 
+Final Eligible 
+Sample 
+Completion 
+Rate 
+Refusal Rate 
+Other Non-
+participation 
+Rate 
+Hospital 
+6,170 
+0.861 
+0.023 
+0.116 
+Office-based 
+12,903 
+0.869 
+0.020 
+0.111 
+HMO 
+323 
+0.833 
+0.000 
+0.167 
+Home care 
+763 
+0.847 
+0.007 
+0.146 
+Institution 
+128 
+0.906 
+0.000 
+0.094 
+SBD 
+22,573 
+0.549 
+0.036 
+0.415 
+Pharmacy* 
+7,637 
+0.906 
+0.000 
+0.094 
+Table 3 presents sample sizes and completion rates by provider type at the pair level. Completion 
+rates at the pair level were mostly similar to or lower than the provider level: 85 percent for 
+hospitals, 86 percent for office–based physicians, 77 percent for HMOs, 54 percent for SBDs, 85 
+percent for pharmacies, and 84 percent for home care agencies.

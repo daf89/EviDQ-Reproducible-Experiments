@@ -1,0 +1,66 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+Exhibit 9: Empanelment VersusAttribution 
+Features of Empanelment 
+Features of Attribution 
+• 
+Process a practice uses to identify their 
+• 
+Process insurance companies and other 
+“active patients” and to assign those patients 
+purchasers of group healthcare use to assign 
+to a single provider or care team panel 
+patients to a particular provider, practice, or 
+• 
+Foundation for establishing continuity 
+health system; determines payment 
+between patient and provider/care teams 
+• 
+Contractual agreement where assigned 
+• 
+Managing panel size is an important step in 
+providers can receive incentives to provide a 
+balancing access to and demand for services 
+certain set of services or achieve certain 
+• 
+Requires ongoing monitoring as patients 
+aggregate outcomes 
+change primary care providers, move, or die, 
+• 
+Understanding attribution is a core element 
+and as providers leave practices 
+of value-based payment programs in which 
+• 
+Helps define the inclusion criteria of many QI 
+many practices are participating 
+metrics 
+• 
+Changes as people gain and lose insurance, 
+methodologies adjust, and health plan 
+• 
+Used to credit quality outcomes to individual 
+options evolve 
+providers and care teams and for programs 
+like CMS Medicare Merit-based Improvement 
+Payment System (MIPS) 
+Traditionally, the definition of “active patients” includes patients who have sought care at the practice 
+within the last 24 to 36 months, allowing inclusion of some patients who have minimal preventive or 
+chronic healthcare needs. In practices who also have attributed patients, empanelment should also 
+include those patients assignedtothe practice by a health plan, even if those patients have never 
+sought care with them. 
+Health IT Advisors can take certain steps to help practices with traditional empanelment as well as 
+attribution, including: 
+• 
+Help the team determine an empanelment methodology and workflow and document agreed-
+upon procedures with key clinicians and staff 
+• 
+Ensure all active patients are assigned to a provider panel 
+• 
+Monitor concordance between internal empaneled patients and payer attribution reports 
+• 
+Help practices follow payer methodologies to reconcile any discrepancies, and 
+• 
+Explain when CQMs include attributed patients in specifications to avoid confusion among care 
+teams. 
+Health IT Advisor Handbook 
+Page 21

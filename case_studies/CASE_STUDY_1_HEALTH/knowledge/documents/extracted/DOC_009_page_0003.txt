@@ -1,0 +1,124 @@
+Institutions—Long‑term care providers
+Pharmacies—Pharmacies (corporate and non‑corporate) where household respondents obtained or purchased
+prescription medicines
+Office‑Based Doctors (OBDs)—Physicians (MDs and DOs) associated with non‑Hospital care.
+Home Health—Providers associated with care provided in the home of the household respondent, including either
+healthcare (Health Agencies) or other services excluding healthcare (Non‑Health Agencies)
+Separately Billing Doctors (SBDs)—Providers added to the MPC sample during abstraction of medical and patient
+account records of Hospitals and Institutions. Charges and payments for their services are not included in the Hospital or
+Institution financial records and must be obtained by contacting the offices of the SBDs.
+Sample files in the 2024 MPC
+The HC contractor prepared pair data from the computer assisted personal interview (CAPI) survey instrument used in the
+HC. For Non‑Pharmacy pairs, the file includes pairs with eligible dates of utilization (that is, calendar year 2024). In the
+file for Pharmacy pairs, the events (prescriptions) are not dated. Files for all provider types include the AF signed by the
+household respondents. AHRQ subsampled OBDs at the HC Reporting Unit (RU) level and delivered the extracted MPC
+sample files to RTI. The 2024 MPC OBD subsampling rate was 58%. Table 2‑1 summarizes design features of the HC
+related to the MPC.
+Table 2‑1. Household Component Design Features related to the MPC
+Year
+2021
+2022
+2023
+2024
+Panel
+Panel 25
+Year 2
+(Round 5)
+Panel 26
+Year 1
+(Round 3)
+Panel 26
+Year 2
+(Round 5)
+Panel 27
+Year 1
+(Round 3)
+Panel 27
+Year 2
+(Round 5)
+Panel 28
+Year 1
+(Round 3)
+Panel 28
+Year 2
+(Round 5)
+Pan
+Ye
+(Ro
+No. of PSUs for Household Sample
+139
+150
+150
+150
+150
+139
+139
+n
+No. of Household Interviews
+3,712
+4,882
+na1
+5,434
+na1
+na1
+na1
+n
+Subsampling of Office‑Based Doctors in CAPI
+No
+No
+No
+No
+No
+No
+No
+Subsampling of Office‑Based Doctors after CAPI
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Y
+Sources: MEPS Household Component Annual Methodology Report (July 1, 2024) Westat, Inc, Table 1.1 and Table 4.3.
+1 The number of completed household interviews for these Panels/Rounds was not available in Table 4.3 of the July 1, 2024 Household Component Methodology R
+2 The number of PSUs for Household Sample was not available in Table 1.1 of the July 1, 2024 Household Component Methodology Report.
+Input to the MPC sample was provided in six separate files:
+1. Records in the main sample file were identified at the pair (PAIRID) level. All other files used to construct and load the
+sample were merged with this file. This file identified the MPC cases loaded into the Integrated Data Collection System
+(IDCS) Control System (CS) and tracked throughout the MPC data collection period. For the purposes of data collection
+in the MPC, the CS tracked at the event level, pair level, and provider level. During the matching process, the MPC data
+collected was linked back to the pairs from this original HC sample file.
+2. The person file contained identifying information for every household member associated with a pair in the main sample
+file. The file can be merged with the main sample using the person ID (PERSID).
+3. Provider contact information is contained in the NPI provider directory used by HC interviewers and the monthly
+non‑matched files delivered by Westat containing providers not found in the NPI directory. For providers identified in the
+NPI directory, the provider ID (PDDIRID) is the NPI ID (NPIPRVID) from the NPI directory. For providers not identified
+in the directory, the provider ID (PDDIRID) is the PROVID assigned by Westat in the monthly files of non‑matched
+providers. Both files contain provider name and contact information. For the non‑matched providers, the contact
+information is the provider name and address that was provided by the HC respondent. The contact information was then
+loaded into the control system as part of the MPC case.
+4. The Pharmacy directory file can be merged with the main sample file using PHADIRID (same as PDDIRID) so that the
+name and contact information of the Pharmacy can be loaded as part of the Pharmacy case.
+5. Beginning with the 2017 HC, a Pharmacy NPI directory was used by the HC interviewers to assign IDs to pharmacies.
+If a match was found, a pharmacy NPI ID was assigned to the pharmacy reported by the HC respondent. The pharmacy
+NPI directory was delivered with the sample files and was merged with the main sample file using the Pharmacy NPI ID
+(NPIPHAID).
+6. Beginning with the 2018 cycle, RTI developed code for assigning pharmacy chain codes by searching for text strings in
+the pharmacy names.
+MPC Sample Delivery from Household Component
+For the 2024 MPC, Westat extracted the sample files used for inclusion in the MPC sample in four waves. Westat
+delivered the Pharmacy sample files directly to RTI. The Non‑Pharmacy files were first delivered to AHRQ for OBD
+subsampling and then forwarded to RTI for processing. The waves of sample files were delivered to RTI in January (Wave
+1), April (Wave 2), June (Wave 3), and July (Wave 4). A total of 43,140 pairs were in the 2024 MPC sample files
+delivered to RTI: 31,794 (73.7%) in Wave 1 of sample delivery; 5,246 (12.2%) in Wave 2; 2,405 (5.6%) in Wave 3; and
+3,695 (8.6%) in Wave 4.
+Beginning with the 2020 cycle, pairs with Veterans Administration (VA) providers were held back from the MPC sample
+releases. The data for these pairs were extracted from agency databases by the Health Economics Resource Center
+(HERC). The 2024 MPC sample contained a total of 635 VA pairs across provider types. Because of this and other sample
+processing steps, the number of pairs in the sample files delivered to RTI in the paragraph above is not equal to the
+number of pairs fielded.
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+3/40

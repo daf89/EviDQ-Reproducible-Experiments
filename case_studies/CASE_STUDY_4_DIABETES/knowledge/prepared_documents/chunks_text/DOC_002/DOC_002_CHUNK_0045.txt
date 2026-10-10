@@ -1,0 +1,132 @@
+
+
+===== PDF PAGE 89 =====
+
+Annex  ﻿
+77
+Database
+Search
+OR AB “Health System Indices” OR TI “Health Facility Indicator*” OR AB “Health Facility Indicator*” 
+OR TI “Health Facility Benchmark*” OR AB “Health Facility Benchmark*” OR TI “Health Facility 
+Metric*” OR AB “Health Facility Metric*” OR TI “Health Facility Index” OR AB “Health Facility Index” 
+OR TI “Health Facility Indices” OR AB “Health Facility Indices” OR TI “Monitoring framework*” OR 
+AB “Monitoring framework*” OR TI “Clinical management guideline*” OR AB “Clinical management 
+guideline*” OR TI “Core outcome set*” OR AB “Core outcome set*” OR TI “Metric Selection 
+Process*” OR AB “Metric Selection Process*” OR TI “Clinical control parameter*” OR AB “Clinical 
+control parameter*” OR TI “National registr*” OR AB “National registr*” OR TI “National database*” 
+OR AB “National database*” OR TI “Diabetes audit*” OR AB “Diabetes audit*” OR TI “Access to 
+healthcare” OR AB “Access to healthcare” OR TI “Access to health care” OR AB “Access to health 
+care” OR TI “Healthcare service* availability” OR AB “Healthcare service* availability” OR TI “Health 
+care service* availability” OR AB “Health care service* availability” OR TI “Healthcare access” OR AB 
+“Healthcare access” OR TI “Health care access” OR AB “Health care access” OR TI “Health economic 
+indicator*” OR AB “Health economic indicator*” OR TI “Productivity loss” OR AB “Productivity 
+loss” OR TI “Budget impact” OR AB “Budget impact” OR TI “Absenteeism” OR AB “Absenteeism” 
+OR TI “Economic evaluation” OR AB “Economic evaluation” OR TI “Cost of diabetes” OR AB “Cost 
+of diabetes” OR TI “Socioeconomic disparit*” OR AB “Socioeconomic disparit*” OR TI “Health 
+equity” OR AB “Health equity” OR TI “Socioeconomic factor*” OR AB “Socioeconomic factor*” 
+OR TI “Socio-economic factor*” OR AB “Socio-economic factor*” OR TI “Social determinant* of 
+health” OR AB “Social determinant* of health” OR TI “Prevention strateg*” OR AB “Prevention 
+strateg*” OR TI “Risk management strateg*” OR AB “Risk management strateg*” OR TI “Risk factor 
+management” OR AB “Risk factor management” OR TI “Risk factor reduction” OR AB “Risk factor 
+reduction” OR TI “Self-management strateg*” OR AB “Self-management strateg*” OR TI “Modifiable 
+risk behavi*” OR AB “Modifiable risk behavi*” OR TI “Behavioral determinant*” OR AB “Behavioral 
+determinant*” OR TI “Behavioural determinant*” OR AB “Behavioural determinant*” OR TI 
+“Behavioral risk*” OR AB “Behavioral risk*” OR TI “Behavioural risk*” OR AB “Behavioural risk*” OR 
+TI “Healthcare professional engagement*” OR AB “Healthcare professional engagement*” OR TI 
+“Health professional engagement*” OR AB “Health professional engagement*” OR TI “Public health 
+impact*” OR AB “Public health impact*” OR TI “Health policy effectiveness” OR AB “Health policy 
+effectiveness” OR TI “Policy impact metric*” OR AB “Policy impact metric*” ) ) OR ( ( TI “Diabetes 
+Evaluation” OR AB “Diabetes Evaluation” OR TI “Diabetes Mellitus Evaluation” OR AB “Diabetes 
+Mellitus Evaluation” OR TI “Diabetes Surveillance” OR AB “Diabetes Surveillance” OR TI “Diabetes 
+Mellitus Surveillance” OR AB “Diabetes Mellitus Surveillance” OR TI “Diabetes Monitoring” OR AB 
+“Diabetes Monitoring” OR TI “Diabetes Mellitus Monitoring” OR AB “Diabetes Mellitus Monitoring” 
+) AND ( TI “Indicator*” OR AB “Indicator*” OR TI “Benchmark*” OR AB “Benchmark*” OR TI 
+“Metric*” OR AB “Metric*” OR TI “Index” OR AB “Index” OR TI “Indices” OR AB “Indices” ) ) ) AND ( TI 
+“Consensus” OR AB “Consensus” OR TI “Framework*” OR AB “Framework*” OR TI “Review*” OR AB 
+“Review*” OR TI “Delphi” OR AB “Delphi” )
+LILACS
+(n = 10)
+‘( ( (“Diabetes”) AND ( (ti:(“Evaluation Indicator”) OR ti:(“Evaluation Indicators”)) OR (ab:(“Evaluation 
+Indicator”) OR ab:(“Evaluation Indicators”)) OR (ti:(“Evaluation Benchmark”) OR ti:(“Evaluation 
+Benchmarks”)) OR (ab:(“Evaluation Benchmark”) OR ab:(“Evaluation Benchmarks”)) OR 
+(ti:(“Evaluation Metric”) OR ti:(“Evaluation Metrics”)) OR (ab:(“Evaluation Metric”) OR ab:(“Evaluation 
+Metrics”)) OR (ti:(“Evaluation Index”)) OR (ab:(“Evaluation Index”)) OR (ti:(“Evaluation Indices”)) 
+OR (ab:(“Evaluation Indices”)) OR (ti:(“Process Indicator”) OR ti:(“Process Indicators”)) OR 
+(ab:(“Process Indicator”) OR ab:(“Process Indicators”)) OR (ti:(“Process Benchmark”) OR 
+ti:(“Process Benchmarks”)) OR (ab:(“Process Benchmark”) OR ab:(“Process Benchmarks”)) OR 
+(ti:(“Process Metric”) OR ti:(“Process Metrics”)) OR (ab:(“Process Metric”) OR ab:(“Process Metrics”)) 
+OR (ti:(“Process Index”)) OR (ab:(“Process Index”)) OR (ti:(“Process Indices”)) OR (ab:(“Process 
+Indices”)) OR (ti:(“Outcome Indicator”) OR ti:(“Outcome Indicators”)) OR (ab:(“Outcome Indicator”) 
+OR ab:(“Outcome Indicators”)) OR (ti:(“Outcome Benchmark”) OR ti:(“Outcome Benchmarks”)) 
+OR (ab:(“Outcome Benchmark”) OR ab:(“Outcome Benchmarks”)) OR (ti:(“Outcome Metric”) OR 
+ti:(“Outcome Metrics”)) OR (ab:(“Outcome Metric”) OR ab:(“Outcome Metrics”)) OR (ti:(“Outcome 
+Index”)) OR (ab:(“Outcome Index”)) OR (ti:(“Outcome Indices”)) OR (ab:(“Outcome Indices”)) OR 
+(ti:(“Performance Indicator”) OR ti:(“Performance Indicators”)) OR (ab:(“Performance Indicator”) 
+OR ab:(“Performance Indicators”)) OR (ti:(“Performance Benchmark”) OR ti:(“Performance 
+Benchmarks”)) OR (ab:(“Performance Benchmark”) OR ab:(“Performance Benchmarks”)) OR 
+(ti:(“Performance Metric”) OR ti:(“Performance Metrics”)) OR (ab:(“Performance Metric”) OR
+
+
+===== PDF PAGE 90 =====
+
+78
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Database
+Search
+ab:(“Performance Metrics”)) OR (ti:(“Performance Index”)) OR (ab:(“Performance Index”)) OR 
+(ti:(“Performance Indices”)) OR (ab:(“Performance Indices”)) OR (ti:(“Surveillance Indicator”) 
+OR ti:(“Surveillance Indicators”)) OR (ab:(“Surveillance Indicator”) OR ab:(“Surveillance 
+Indicators”)) OR (ti:(“Surveillance Benchmark”) OR ti:(“Surveillance Benchmarks”)) OR 
+(ab:(“Surveillance Benchmark”) OR ab:(“Surveillance Benchmarks”)) OR (ti:(“Surveillance Metric”) 
+OR ti:(“Surveillance Metrics”)) OR (ab:(“Surveillance Metric”) OR ab:(“Surveillance Metrics”)) 
+OR (ti:(“Surveillance Index”)) OR (ab:(“Surveillance Index”)) OR (ti:(“Surveillance Indices”)) OR 
+(ab:(“Surveillance Indices”)) OR (ti:(“Monitoring Indicator”) OR ti:(“Monitoring Indicators”)) OR 
+(ab:(“Monitoring Indicator”) OR ab:(“Monitoring Indicators”)) OR (ti:(“Monitoring Benchmark”) 
+OR ti:(“Monitoring Benchmarks”)) OR (ab:(“Monitoring Benchmark”) OR ab:(“Monitoring 
+Benchmarks”)) OR (ti:(“Monitoring Metric”) OR ti:(“Monitoring Metrics”)) OR (ab:(“Monitoring 
+Metric”) OR ab:(“Monitoring Metrics”)) OR (ti:(“Monitoring Index”)) OR (ab:(“Monitoring Index”)) OR 
+(ti:(“Monitoring Indices”)) OR (ab:(“Monitoring Indices”)) OR (ti:(“Quality Indicator”) OR ti:(“Quality 
+Indicators”)) OR (ab:(“Quality Indicator”) OR ab:(“Quality Indicators”)) OR (ti:(“Quality Benchmark”) 
+OR ti:(“Quality Benchmarks”)) OR (ab:(“Quality Benchmark”) OR ab:(“Quality Benchmarks”)) OR 
+(ti:(“Quality Metric”) OR ti:(“Quality Metrics”)) OR (ab:(“Quality Metric”) OR ab:(“Quality Metrics”)) 
+OR (ti:(“Quality Index”)) OR (ab:(“Quality Index”)) OR (ti:(“Quality Indices”)) OR (ab:(“Quality 
+Indices”)) OR (ti:(“Capacity Indicator”) OR ti:(“Capacity Indicators”)) OR (ab:(“Capacity Indicator”) 
+OR ab:(“Capacity Indicators”)) OR (ti:(“Capacity Benchmark”) OR ti:(“Capacity Benchmarks”)) 
+OR (ab:(“Capacity Benchmark”) OR ab:(“Capacity Benchmarks”)) OR (ti:(“Capacity Metric”) OR 
+ti:(“Capacity Metrics”)) OR (ab:(“Capacity Metric”) OR ab:(“Capacity Metrics”)) OR (ti:(“Capacity 
+Index”)) OR (ab:(“Capacity Index”)) OR (ti:(“Capacity Indices”)) OR (ab:(“Capacity Indices”)) OR 
+(ti:(“Governance Indicator”) OR ti:(“Governance Indicators”)) OR (ab:(“Governance Indicator”) OR 
+ab:(“Governance Indicators”)) OR (ti:(“Governance Benchmark”) OR ti:(“Governance Benchmarks”)) 
+OR (ab:(“Governance Benchmark”) OR ab:(“Governance Benchmarks”)) OR (ti:(“Governance 
+Metric”) OR ti:(“Governance Metrics”)) OR (ab:(“Governance Metric”) OR ab:(“Governance Metrics”)) 
+OR (ti:(“Governance Index”)) OR (ab:(“Governance Index”)) OR (ti:(“Governance Indices”)) OR 
+(ab:(“Governance Indices”)) OR (ti:(“Availability Indicator”) OR ti:(“Availability Indicators”)) OR 
+(ab:(“Availability Indicator”) OR ab:(“Availability Indicators”)) OR (ti:(“Availability Benchmark”) 
+OR ti:(“Availability Benchmarks”)) OR (ab:(“Availability Benchmark”) OR ab:(“Availability 
+Benchmarks”)) OR (ti:(“Availability Metric”) OR ti:(“Availability Metrics”)) OR (ab:(“Availability 
+Metric”) OR ab:(“Availability Metrics”)) OR (ti:(“Availability Index”)) OR (ab:(“Availability Index”)) 
+OR (ti:(“Availability Indices”)) OR (ab:(“Availability Indices”)) OR (ti:(“Affordability Indicator”) OR 
+ti:(“Affordability Indicators”)) OR (ab:(“Affordability Indicator”) OR ab:(“Affordability Indicators”)) 
+OR (ti:(“Affordability Benchmark”) OR ti:(“Affordability Benchmarks”)) OR (ab:(“Affordability 
+Benchmark”) OR ab:(“Affordability Benchmarks”)) OR (ti:(“Affordability Metric”) OR ti:(“Affordability 
+Metrics”)) OR (ab:(“Affordability Metric”) OR ab:(“Affordability Metrics”)) OR (ti:(“Affordability Index”)) 
+OR (ab:(“Affordability Index”)) OR (ti:(“Affordability Indices”)) OR (ab:(“Affordability Indices”)) OR 
+(ti:(“Risk Management Indicator”) OR ti:(“Risk Management Indicators”)) OR (ab:(“Risk Management 
+Indicator”) OR ab:(“Risk Management Indicators”)) OR (ti:(“Risk Management Benchmark”) OR 
+ti:(“Risk Management Benchmarks”)) OR (ab:(“Risk Management Benchmark”) OR ab:(“Risk 
+Management Benchmarks”)) OR (ti:(“Risk Management Metric”) OR ti:(“Risk Management Metrics”)) 
+OR (ab:(“Risk Management Metric”) OR ab:(“Risk Management Metrics”)) OR (ti:(“Risk Management 
+Index”)) OR (ab:(“Risk Management Index”)) OR (ti:(“Risk Management Indices”)) OR (ab:(“Risk 
+Management Indices”)) OR (ti:(“Service Delivery Indicator”) OR ti:(“Service Delivery Indicators”)) 
+OR (ab:(“Service Delivery Indicator”) OR ab:(“Service Delivery Indicators”)) OR (ti:(“Service Delivery 
+Benchmark”) OR ti:(“Service Delivery Benchmarks”)) OR (ab:(“Service Delivery Benchmark”) OR
+ab:(“Service Delivery Benchmarks”)) OR (ti:(“Service Delivery Metric”) OR ti:(“Service Delivery 
+Metrics”)) OR (ab:(“Service Delivery Metric”) OR ab:(“Service Delivery Metrics”)) OR (ti:(“Service 
+Delivery Index”)) OR (ab:(“Service Delivery Index”)) OR (ti:(“Service Delivery Indices”)) OR 
+(ab:(“Service Delivery Indices”)) OR (ti:(“Impact Indicator”) OR ti:(“Impact Indicators”)) OR 
+(ab:(“Impact Indicator”) OR ab:(“Impact Indicators”)) OR (ti:(“Impact Benchmark”) OR ti:(“Impact 
+Benchmarks”)) OR (ab:(“Impact Benchmark”) OR ab:(“Impact Benchmarks”)) OR (ti:(“Impact 
+Metric”) OR ti:(“Impact Metrics”)) OR (ab:(“Impact Metric”) OR ab:(“Impact Metrics”)) OR (ti:(“Impact 
+Index”)) OR (ab:(“Impact Index”)) OR (ti:(“Impact Indices”)) OR (ab:(“Impact Indices”)) OR (ti:(“Care 
+Indicator”) OR ti:(“Care Indicators”)) OR (ab:(“Care Indicator”) OR ab:(“Care Indicators”)) OR 
+(ti:(“Care Benchmark”) OR ti:(“Care Benchmarks”)) OR (ab:(“Care Benchmark”) OR ab:(“Care

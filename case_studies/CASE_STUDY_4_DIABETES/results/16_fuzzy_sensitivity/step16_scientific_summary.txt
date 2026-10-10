@@ -1,0 +1,44 @@
+DEMARCHE_ENCAD3 — STEP 16
+FUZZY MEMBERSHIP FUNCTION SENSITIVITY ANALYSIS
+
+OBJECTIVE
+---------
+Assess whether the linguistic interpretation of the four fuzzy dimensions remains stable under small pre-specified variations of membership-function calibration.
+
+PROTOCOL
+--------
+Local sensitivity rate: 10%
+Scenarios: S_MINUS, S0, S_PLUS
+Action values were not used to tune the sensitivity scenarios.
+No model retraining.
+No SHAP recomputation.
+No dataset modification.
+No TEST access.
+No REF use.
+
+RESULTS
+-------
+Action-variable profiles: 16
+Stable profiles: 15
+Sensitive profiles: 1
+Descriptive stability proportion: 0.9375
+
+DOC | PERFORMANCE | Nominal=PRESERVED | Stable=True | Changed scenarios=NONE
+DOC | EXPLANATION_SHIFT | Nominal=MODERATE | Stable=True | Changed scenarios=NONE
+DOC | STABILITY | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+DOC | COVERAGE | Nominal=MODERATE | Stable=True | Changed scenarios=NONE
+MEDIAN | PERFORMANCE | Nominal=PRESERVED | Stable=True | Changed scenarios=NONE
+MEDIAN | EXPLANATION_SHIFT | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+MEDIAN | STABILITY | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+MEDIAN | COVERAGE | Nominal=FULL_OR_NEAR_FULL | Stable=True | Changed scenarios=NONE
+KNN | PERFORMANCE | Nominal=DEGRADED | Stable=False | Changed scenarios=S_PLUS
+KNN | EXPLANATION_SHIFT | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+KNN | STABILITY | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+KNN | COVERAGE | Nominal=FULL_OR_NEAR_FULL | Stable=True | Changed scenarios=NONE
+ITERATIVE | PERFORMANCE | Nominal=PRESERVED | Stable=True | Changed scenarios=NONE
+ITERATIVE | EXPLANATION_SHIFT | Nominal=LOW | Stable=True | Changed scenarios=NONE
+ITERATIVE | STABILITY | Nominal=HIGH | Stable=True | Changed scenarios=NONE
+ITERATIVE | COVERAGE | Nominal=FULL_OR_NEAR_FULL | Stable=True | Changed scenarios=NONE
+
+SENSITIVITY STATUS: SOME_LINGUISTIC_STATES_SENSITIVE
+STATUS: PASS_FUZZY_SENSITIVITY_ANALYSIS

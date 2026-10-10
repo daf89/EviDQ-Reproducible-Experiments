@@ -1,0 +1,50 @@
+DEMARCHE_ENCAD3 — STEP 17
+FINAL EVALUATION ON SEALED TEST
+
+PROTOCOL
+--------
+TEST was opened only after the experimental, XAI and fuzzy protocols had been frozen.
+The pre-injection reference data were used only to generate the controlled TEST_DQ condition.
+REF was not used as an action-comparison baseline.
+DQ was used as the observable baseline.
+No TEST-based hyperparameter tuning was performed.
+No fuzzy membership function was recalibrated on TEST.
+
+TEST DATA
+---------
+TEST rows: 154
+Injected Age missing values: 15
+Observed missing rate: 0.097403
+Common TEST support: 139
+
+FINAL TEST MATRIX
+-----------------
+   Action  ROC_AUC_TEST  Accuracy_TEST  BalancedAccuracy_TEST  Precision_TEST  Recall_TEST  F1_TEST  Delta_BalancedAccuracy_vs_DQ  Age_SHAP_DQ  Age_SHAP_Action  Delta_Age_SHAP_vs_DQ  Relative_Age_SHAP_Shift  Coverage  RankAgreement_Spearman_vs_DQ  Stability_Cosine_Mean  Stability_Cosine_SD  Stability_Spearman_Mean  Stability_Spearman_SD FidelityGate  MaxAdditivityError
+      DOC      0.921692       0.884892               0.864540        0.840909     0.804348 0.822222                     -0.016246     0.089507         0.107113              0.017606                 0.196701  0.902597                      0.952381               0.999494             0.000193                 0.998059               0.001071         PASS        1.332268e-15
+   MEDIAN      0.915381       0.892086               0.869916        0.860465     0.804348 0.831461                     -0.010870     0.089507         0.094801              0.005294                 0.059148  1.000000                      1.000000               0.999376             0.000489                 0.997739               0.000848         PASS        1.776357e-15
+      KNN      0.917719       0.899281               0.880785        0.863636     0.826087 0.844444                      0.000000     0.089507         0.113657              0.024150                 0.269811  1.000000                      0.976190               0.999390             0.000455                 0.996837               0.001243         PASS        1.332268e-15
+ITERATIVE      0.913745       0.899281               0.880785        0.863636     0.826087 0.844444                      0.000000     0.089507         0.133467              0.043960                 0.491136  1.000000                      0.952381               0.999340             0.000438                 0.997351               0.000945         PASS        1.776357e-15
+
+FINAL FUZZY INPUT VALUES
+------------------------
+   Action  FZ_PERFORMANCE_VALUE  FZ_EXPLANATION_SHIFT_VALUE  FZ_STABILITY_VALUE  FZ_COVERAGE_VALUE
+      DOC             -0.016246                    0.196701            0.999494           0.902597
+   MEDIAN             -0.010870                    0.059148            0.999376           1.000000
+      KNN              0.000000                    0.269811            0.999390           1.000000
+ITERATIVE              0.000000                    0.491136            0.999340           1.000000
+
+FIDELITY
+--------
+   Action  MeanAdditivityError  MedianAdditivityError  MaxAdditivityError    Tolerance FidelityGate
+      DOC         3.603732e-16           2.220446e-16        1.332268e-15 1.000000e-08         PASS
+   MEDIAN         3.430260e-16           2.220446e-16        1.776357e-15 1.000000e-08         PASS
+      KNN         3.798670e-16           2.220446e-16        1.332268e-15 1.000000e-08         PASS
+ITERATIVE         5.057405e-16           4.440892e-16        1.776357e-15 1.000000e-08         PASS
+
+POLICY
+------
+No global score.
+No action ranking.
+No recommendation.
+Frozen STEP14 membership functions must be applied unchanged next.
+STEP15B FUZZY_STATE_FIRST explanation policy must then be applied.

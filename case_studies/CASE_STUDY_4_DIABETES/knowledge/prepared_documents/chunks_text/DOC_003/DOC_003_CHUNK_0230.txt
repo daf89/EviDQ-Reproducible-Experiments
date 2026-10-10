@@ -1,0 +1,125 @@
+
+
+===== PDF PAGE 459 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-100 
+WHO STEPS Surveillance 
+ 
+ 
+Raised blood glucose diagnosis and treatment among all respondents 
+Age Group 
+(years) 
+Both Sexes 
+% with 
+% with 
+% with 
+raised 
+previously 
+previously 
+blood 
+diagnosed 
+diagnosed 
+n 
+glucose, 
+95% CI 
+raised 
+95% CI 
+raised 
+95% CI 
+not 
+ 
+blood 
+ 
+blood 
+previously 
+glucose, 
+glucose, 
+diagnosed 
+ not on 
+ 
+on 
+medication 
+medication 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H6, H7a, H8, H9, B1, B5, B6 
+• Epi Info program name: 
+• measurement in mmol/L: Bglucose (unweighted); BglucoseWT (weighted) 
+• measurement in mg/dl: BglucoseMg (unweighted); BglucoseMgWT (weighted) 
+ 
+
+
+===== PDF PAGE 460 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-101 
+WHO STEPS Surveillance 
+Total 
+Description: Mean total cholesterol among all respondents including those 
+ 
+ 
+cholesterol 
+currently on medication for raised cholesterol. 
+ 
+Instrument question: 
+• Total cholesterol measurement 
+ 
+ 
+ 
+ 
+Mean total cholesterol (mmol/L) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean total cholesterol (mg/dl) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: B8 
+• Epi Info program name: 
+• measurement in mmol/L: Btotallipids (unweighted); BtotallipidsWT (weighted) 
+• measurement in mg/dl: BtotallipidsMg (unweighted); BtotallipidsMgWT (weighted) 
+ 

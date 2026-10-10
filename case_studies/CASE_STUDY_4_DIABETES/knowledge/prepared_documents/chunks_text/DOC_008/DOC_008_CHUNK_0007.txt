@@ -1,0 +1,117 @@
+
+
+===== PDF PAGE 13 =====
+
+Diagnostic criteria for diabetes
+Diagnosis of diabetes is based on values of plasma glucose or glycated 
+haemoglobin (HbA1c). Diagnostic cut-off values are presented in Table 3. 
+Table 3 Diagnostic criteria for diabetes
+Measurement
+Diagnostic cut-off 
+value
+Comment
+Fasting venous or capillary** 
+plasma glucose
+≥7.0 mmol/L
+(126 mg/dL)
+Least costly but difficulties with ensuring 
+a fasting state
+2-hour post-load venous 
+plasma glucose
+≥11.1 mmol/L
+(200 mg/dL)
+Cumbersome and costly, difficulties with 
+ensuring a fasting state
+2-hour post-load capillary** 
+plasma glucose
+≥12.2 mmol/L
+(220 mg/dL)
+Cumbersome and costly, difficulties with 
+ensuring a fasting state
+Random plasma glucose
+≥11.1 mmol/L 
+(200 mg/dL)
+To be used only in the presence of 
+symptoms
+HbA1c***
+6.5%
+(48 mmol/mol)
+••
+Less intra-individual variability than 
+plasma glucose
+••
+Does not require the fasting state but 
+substantially more costly than glucose 
+measurements
+••
+Is an indirect method
+••
+Can be inaccurate in some conditions 
+(haemoglobinopathies, renal failure, 
+some anaemias, conditions with rapid 
+red blood cell turnover)
+* Overnight fast of 8–14 hours. 
+** If laboratory measurement is not available, point of care, (“finger stick”) devices can be used (they 
+report glucose values in capillary plasma). 
+*** Plasma glucose is preferred in people with symptoms who are suspected of having type 1 diabetes.
+Diagnostic tests 
+Venous plasma glucose is the standard method for measuring and reporting. 
+However, in recognition of the widespread use of capillary sampling, especially in 
+low-resource settings, values for capillary plasma glucose are provided for post-
+load glucose values. Fasting values for venous and capillary plasma glucose are 
+identical. 
+Glucose should be measured immediately after collection, otherwise the blood 
+sample should be collected into a container with glycolytic inhibitors, immediately 
+centrifuged to separate the plasma, and frozen until analysis.
+•• In asymptomatic people, repeat the test to confirm the diagnosis, preferably with 
+the same test, as soon as practicable on a subsequent day.
+•• If plasma glucose ≥18 mmol/L (325 mg/dL), or symptoms are present, measure 
+urine ketones to assess degree of metabolic disturbance.  
+•• If plasma glucose measurement is not possible, urine glucose testing can be 
+used to confirm suspicion of diabetes in people with symptoms. A negative urine 
+test does not exclude diabetes, but it excludes severe hyperglycaemia.
+13
+HEARTS – D  Diagnosis and management of Type 2 diabetes 
+
+
+===== PDF PAGE 14 =====
+
+2	 Management of diabetes
+Type 2 diabetes is a progressive illness, with insulin secretion decreasing over time. 
+Introduction of oral hypoglycaemic agents (OHA) will often be necessary in patients 
+treated with diet and physical activity only, and further intensification with insulin 
+might be needed as the illness progresses and OHAs are not sufficient to control 
+glycaemia. 
+Blood glucose management protocol 
+The blood glucose management protocol is recommended for patients with 
+established or newly diagnosed type 2 diabetes (see Fig. 1). A simplified blood 
+glucose management protocol and key actions on complications are presented 
+in Fig.2. 
+Non-pharmacological management
+A healthy diet to achieve or maintain normal body weight and regular physical 
+activity are the mainstay of diabetes management. 
+•• People with diabetes should be advised to eat a healthy balanced diet that is 
+applicable to the general population.
+•• Overweight patients should be advised to reduce weight by reducing their food 
+(calorie) intake.
+•• All patients should be advised to practise regular daily physical activity 
+appropriate for their physical capabilities (e.g walking). Most adults should 
+engage in at least 150 minutes of moderate or vigorous-intensity aerobic activity 
+per week, spread over at least 3 days.
+•• All patients should be advised on avoidance of tobacco use and harmful use of 
+alcohol.
+Pharmacological management
+Control of blood glucose levels (glycaemia)
+Initial treatment:
+•• Metformin does not cause weight gain or hypoglycaemia and is the 
+recommended initial treatment for people who do not achieve the desired 
+glycaemic control with diet and physical activity. Increase the dosage gradually 
+according to the diabetes protocol.
+•• A second-generation sulfonylurea (preferably gliclazide) can be used as initial 
+(first-line) treatment when metformin is contraindicated or not tolerated. 
+Sulfonylureas may cause weight gain or hypoglycemia.
+•• Other pharmacological agents have not been shown to be superior to metformin 
+or sulfonylurea for glycaemic control and long-term outcomes as initial 
+treatment. 
+14
+HEARTS – D  Diagnosis and management of Type 2 diabetes 

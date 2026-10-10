@@ -1,0 +1,11 @@
+﻿feature,description,type,role,coding_values
+sex_code,sex,categorical,stratification,"1=male, 2=female"
+age_diag,age at diagnosis (years),numeric,covariate,years
+death_date,date of death,date,event_time,YYYY-MM-DD
+diag_date,date of diagnosis,date,time_origin,YYYY-MM-DD
+diag_year,year of diagnosis,integer,stratification,2011–2020
+mkb10_code,ICD-10 topography code,categorical,disease_definition,"C33, C34, subcodes"
+mkb10_3char,ICD-10 3-character site,categorical,disease_definition,C33 / C34
+histology_code,morphology / histology code,categorical,tumour_characterisation,ICD-O morphology code
+registry_stage_code,registry stage,categorical,clinical_characterisation,registry-specific stage codes
+stage_definition_code,stage definition / staging system version indicator,categorical,versioning / interpretive metadata,registry-specific definition codes

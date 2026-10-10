@@ -1,0 +1,8 @@
+feature,n_missing_TRAIN,n_missing_VALIDATION,missing_rate_percent_TRAIN,missing_rate_percent_VALIDATION
+CO,13884.0,1047.0,6.741,1.014
+DEWP,179.0,3.0,0.087,0.003
+PM10,909.0,562.0,0.441,0.544
+PM2.5,1112.0,808.0,0.54,0.782
+WSPM,174.0,1.0,0.084,0.001
+hour,0.0,0.0,0.0,0.0
+month,0.0,0.0,0.0,0.0

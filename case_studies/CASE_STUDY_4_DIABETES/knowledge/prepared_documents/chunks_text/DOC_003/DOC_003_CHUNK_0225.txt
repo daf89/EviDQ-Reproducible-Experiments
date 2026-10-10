@@ -1,0 +1,230 @@
+
+
+===== PDF PAGE 449 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-90 
+WHO STEPS Surveillance 
+ 
+ 
+Blood 
+pressure 
+diagnosis, 
+treatment 
+and control 
+Description: Raised blood pressure diagnosis, treatment and control among all 
+respondents. 
+ 
+Instrument questions: 
+• Have you ever had your blood pressure measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have 
+raised blood pressure or hypertension? 
+• During the past two weeks, have you been treated for raised blood pressure 
+with drugs (medication) prescribed by a doctor or other health worker? 
+• Reading 1-3 systolic and diastolic blood pressure 
+ 
+Raised blood pressure diagnosis, treatment and control among all respondents 
+Age 
+Group 
+(years) 
+Men 
+n 
+% with 
+raised 
+blood 
+pressure, 
+not 
+previously 
+diagnosed 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+not on 
+medication 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+but not 
+controlled 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+and blood 
+pressure 
+controlled 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Raised blood pressure diagnosis, treatment and control among all respondents 
+Age 
+Group 
+(years) 
+Women 
+n 
+% with 
+raised 
+blood 
+pressure, 
+not 
+previously 
+diagnosed 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+not on 
+medication 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+but not 
+controlled 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+and blood 
+pressure 
+controlled 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+
+
+===== PDF PAGE 450 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-91 
+WHO STEPS Surveillance 
+ 
+ 
+Raised blood pressure diagnosis, treatment and control among all respondents 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% with 
+raised 
+blood 
+pressure, 
+not 
+previously 
+diagnosed 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+not on 
+medication 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+but not 
+controlled 
+95% CI 
+% with 
+previously 
+diagnosed 
+raised 
+blood 
+pressure, 
+on   
+medication 
+and blood 
+pressure 
+controlled 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H1, H2a, M4a, M4b, M5a, M5b, M6a, M6b, M7 
+• Epi Info program name: Mraisedbp (unweighted); MraisedbpWT (weighted) 
+ 
+ 
+ 
+Mean heart 
+rate 
+Description: Mean heart rate (beats per minute). 
+ 
+Instrument question: 
+• Reading 1-3 heart rate 
+ 
+Mean heart rate (beats per minute) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+mean 
+95% CI 
+n 
+mean 
+95% CI 
+n 
+mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M16a, M16b, M16c 
+• Epi Info program name: Mheartrate (unweighted); MheartrateWT (weighted) 
+ 

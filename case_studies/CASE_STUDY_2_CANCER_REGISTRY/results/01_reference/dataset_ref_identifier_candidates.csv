@@ -1,0 +1,4 @@
+feature,n_unique,uniqueness_ratio
+registration_number,1800,0.9464
+disease_id,1890,0.9937
+birth_date,1714,0.9012

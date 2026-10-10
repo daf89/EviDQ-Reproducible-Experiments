@@ -1,0 +1,51 @@
+{
+  "step": "STEP20B_STATISTICAL_CONTROL_OPERATIONALIZABILITY",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-23T15:53:33.725854+00:00",
+  "processor": "Python / Jupyter",
+  "input_items": 15,
+  "all_items_assessed": true,
+  "decision_principle": "A statistical control is operationalized only when it can be computed or tested without inventing an unsupported method, threshold, or parameter.",
+  "counts": {
+    "total_kb_statistical_items": 15,
+    "operationalizable_items": 11,
+    "detection_rule_ready_items": 6,
+    "measurement_only_items": 5,
+    "not_ready_items": 4
+  },
+  "coverage": {
+    "operationalization_coverage": 0.7333333333333333,
+    "detection_rule_coverage": 0.4
+  },
+  "controls": {
+    "dataset_ref_used": false,
+    "dataset_values_used": false,
+    "anomaly_detection_performed": false,
+    "missingness_measured": false,
+    "outlier_detection_performed": false,
+    "rarity_detection_performed": false,
+    "distribution_profiling_performed": false,
+    "unsupported_method_invented": false,
+    "unsupported_threshold_invented": false,
+    "unsupported_parameter_invented": false,
+    "final_if_then_rules_generated": false,
+    "error_established": false,
+    "correction_generated": false,
+    "dataset_modified": false,
+    "kb_document_used": false,
+    "rule_base_document_used": false,
+    "hidden_reference_used": false,
+    "external_knowledge_used": false,
+    "internet_used": false,
+    "gpt_used": false
+  },
+  "outputs": {
+    "operationalizability_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step20_statistical_method_specification\\operationalizability_output\\Table_Statistical_Control_Operationalizability.csv",
+    "status_summary": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step20_statistical_method_specification\\operationalizability_output\\tables\\Table_Operationalizability_Summary.csv",
+    "mode_summary": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step20_statistical_method_specification\\operationalizability_output\\tables\\Table_Operationalization_Mode_Summary.csv",
+    "control_summary": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step20_statistical_method_specification\\operationalizability_output\\tables\\Table_Operationalizability_By_Control.csv"
+  },
+  "sha256": {
+    "Table_Statistical_Control_Operationalizability.csv": "1b4c89dfaeb85bc4c8e62ccf11154185264cff668c6a04250681a275ecd10104"
+  }
+}

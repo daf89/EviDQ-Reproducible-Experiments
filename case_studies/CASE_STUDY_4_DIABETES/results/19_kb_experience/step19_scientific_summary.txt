@@ -1,0 +1,33 @@
+DEMARCHE_ENCAD3 — STEP 19
+CONSTRUCTION OF KB_EXPERIENCE
+
+PURPOSE
+-------
+Store the completed Diabetes DQ experiment as a structured, traceable experience for future case retrieval.
+
+CASE
+----
+Experience ID: EXP_CASE4_DIABETES_001
+Case ID: CASE4_DIABETES
+Feature: Age
+DQ problem: MISSING_VALUE
+Observable baseline: Dataset_DQ
+Final evaluation support: COMMON TEST SUPPORT
+
+ACTIONS STORED
+--------------
+- DOC
+- MEDIAN
+- KNN
+- ITERATIVE
+
+EPISTEMIC POLICY
+----------------
+The stored experience represents observed experimental evidence, not a recommendation.
+No action is globally ranked or selected.
+Similarity with a future case will not authorize automatic reuse of an action.
+Any future case requires new validation.
+
+STATUS
+------
+PASS_KB_EXPERIENCE_CONSTRUCTION

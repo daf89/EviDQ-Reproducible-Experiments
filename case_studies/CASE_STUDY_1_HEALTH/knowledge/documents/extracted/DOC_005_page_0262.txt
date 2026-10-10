@@ -1,0 +1,45 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+262
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique opératoire_V6 
+Comment est calculée la cotation des éléments 
+du référentiel ?
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche explique le système de cotation des critères, objectifs et chapitres du référentiel et d’attribution de la note 
+globale de satisfaction aux attendus du référentiel.
+ Pour bien commencer
+La mesure de l’atteinte des attendus du référentiel se fait par la mise en œuvre de séquences d’évaluation par type de 
+méthode et adaptées au profil du traceur selon les critères qui lui sont applicables. À chaque séquence correspond 
+une grille d’évaluation générée par CALISTA. Cette grille intègre, pour chaque méthode, les éléments d’évaluation 
+de tous les critères génériques et spécifiques à l’établissement.
+ Ce qu’il faut savoir
+Le dispositif de cotation se construit par étapes ; à partir de l’agrégation des résultats des éléments d’évaluation puis 
+par un calcul de moyenne successif de ceux-ci par critère, par objectif, dont résultera la note globale de satisfaction 
+au référentiel de l’établissement. Tous les résultats s’expriment en pourcentage.
+Étape 1 : l’intégration des résultats d’un élément d’évaluation d’un critère
+Pour chaque élément d’évaluation, dans une grille, l’évaluateur coche :
+• • « Oui » si l’élément d’évaluation est totalement satisfait ;
+• • « Non » si l’élément d’évaluation est non satisfait ; 
+• • « NA » lorsque l’élément d’évaluation est non applicable à la situation de l’évaluation ou que l’évaluateur n’est 
+pas en mesure de l’évaluer ;
+• • « RI » lorsque le patient donne une réponse inappropriée à l’évaluateur.
+Le résultat d’un élément d’évaluation est obtenu en agrégeant toutes les évaluations de cet élément pour toutes les 
+séquences réalisées. Il comptabilise le ratio rapporté à 100 : nb d’évaluations positives/nb d’évaluations. Les réponses 
+« Non applicable » ou « Réponse inadaptée » ne sont pas comptabilisées et donc n’affectent pas la note globale obtenue.
+Exemple : pour un élément d’évaluation, les évaluateurs réalisent 12 patients traceurs. Ils obtiennent donc 12 réponses : 
+huit « Oui » et deux « Non », une « non applicable », une « Réponse inadaptée ». Le résultat de l’élément d’évaluation 
+est donc de 80 % (huit « Oui » pour dix réponses valides : « Oui » ou « Non »).
+Étape 2 : la cotation d’un critère
+Elle est obtenue en calculant la moyenne des notes attribuées à ses éléments d’évaluation.
+Étape 3 : la cotation d’un objectif
+Elle est obtenue en calculant la moyenne des notes attribuées à ses critères standard et impératifs. Les notes des 
+critères avancés n’entrent pas dans cette cotation. Ils sont pris en compte pour attribuer une mention à l’établissement 
+certifié.
+Étape 4 : la cotation d’un chapitre
+Elle est obtenue en calculant la moyenne des notes attribuées à ses objectifs.
+Étape 5 : la note globale de l’établissement

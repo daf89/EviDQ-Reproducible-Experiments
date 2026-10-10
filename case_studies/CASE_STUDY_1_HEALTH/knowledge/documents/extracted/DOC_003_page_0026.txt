@@ -1,0 +1,82 @@
+hypertension diagnosis. As the efficacy of BP lowering on preventing 
+CVD events extends down to a systolic BP of 120 mmHg and a diastolic 
+BP of 70 mmHg,116,135,136,146 patients with elevated BP and increased 
+CVD risk can also derive benefit from BP-lowering treatment.124,145 
+The heterogeneity in CVD risk among adults with elevated BP is lar-
+ger than in those with hypertension, as such patients tend to be young-
+er, and their absolute CVD risk depends more on the prevalence of 
+concomitant CVD risk factors.123,147 Consequently, formally estimating 
+the patient’s CVD risk, encapsulating demographics and other CVD risk 
+factors, is recommended to guide BP-lowering treatment decisions 
+among patients with elevated BP.148–151 
+6.3. Predicting cardiovascular disease risk 
+Certain conditions on their own are associated with sufficient CVD risk 
+such that patients with elevated BP alongside these conditions can be 
+considered for BP-lowering therapy (Figure 7). These include moderate 
+or severe chronic kidney disease (CKD),152 established clinical CVD (cor-
+onary heart disease, cerebrovascular disease, peripheral arterial disease, 
+or heart failure)153–158 concomitant HMOD (see Figure 7; Section 7; 
+Supplementary data online, Table S1),31,159 diabetes mellitus, and familial 
+hypercholesterolaemia (probable or definite).160–163 Regarding diabetes, 
+some adults aged <60 years with type 2 diabetes and elevated BP have 
+10-year CVD risk of <10%. Accordingly, the diabetes-specific 
+Non-elevated
+blood pressure
+Office BP
+SBP <120 mmHg
+and
+DBP <70 mmHg
+HBPM
+SBP <120 mmHg
+and
+DBP <70 mmHg
+ABPM
+Daytime SBP <120 mmHg
+and
+Daytime DBP <70 mmHg
+Elevated
+blood pressure
+Office BP
+SBP 120–139 mmHg
+or
+DBP 70–89 mmHg
+HBPM
+SBP 120–134 mmHg
+or
+DBP 70–84 mmHg
+ABPM
+Daytime SBP 120–134 mmHg
+or
+Daytime DBP 70–84 mmHg
+Hypertension
+Office BP
+SBP ≥140 mmHg
+or
+DBP ≥90 mmHg
+HBPM
+SBP ≥135 mmHg
+or
+DBP ≥85 mmHg
+ABPM
+Daytime SBP ≥135 mmHg
+or 
+Daytime DBP ≥85 mmHg
+Insufficient evidence confirming
+the efficacy and safety of BP
+pharmacological treatment
+Risk stratify to identify
+individuals with high
+cardiovascular risk for BP
+pharmacological treatment
+Cardiovascular risk is
+sufficiently high to merit
+BP pharmacological
+treatment initiation
+Blood pressure classification
+The diagnosis of hypertension and elevated BP requires confirmation using out-of-office
+measurements (HBPM or ABPM) or at least one additional subsequent office measurement
+Figure 6 Blood pressure categories. ABPM, ambulatory blood pressure monitoring; BP, blood pressure; DBP, diastolic blood pressure; HBPM, home 
+blood pressure monitoring; SBP, systolic blood pressure. We note that the respective non-daytime ABPM thresholds for elevated BP and hypertension 
+diagnosis are listed in Section 5 (Table 5). 
+ESC Guidelines 3937 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

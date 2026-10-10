@@ -1,0 +1,137 @@
+Screening and Diagnosis of Diabetes
+FPG, 2-h PG during 75-g OGTT, and A1C 
+are appropriate for screening and diag
+nosis. It should be noted that detection 
+rates of different screening tests vary in 
+both populations and individuals. FPG, 2-h 
+PG, and A1C reflect different aspects 
+of glucose metabolism, and diagnostic 
+cut points for the different tests will 
+identify groups with incomplete con
+cordance (3). Compared with FPG and 
+A1C cut points, the 2-h PG value diag
+noses more people with prediabetes 
+and diabetes (4). Moreover, the efficacy 
+of interventions for primary prevention 
+of type 2 diabetes (i.e., preventing con
+version of prediabetes to type 2 diabetes) 
+has been demonstrated mainly among 
+individuals with prediabetes who have 
+impaired glucose tolerance (IGT) with 
+or without elevated fasting glucose, not 
+for individuals with isolated impaired 
+fasting glucose (IFG) or for those with 
+prediabetes defined by A1C criteria 
+(5–8).
+The same tests may be used to screen 
+for and diagnose diabetes and to detect 
+individuals with prediabetes (9) (Table 2.1
+and Table 2.2). Diabetes may be identified 
+anywhere along the spectrum of clinical 
+scenarios—in seemingly low-risk individ
+uals who coincidentally undergo glu
+cose monitoring, in individuals screened 
+based on diabetes risk assessment, and 
+in individuals with symptoms and signs 
+of hyperglycemia. There is presently in
+sufficient evidence to support the use of 
+continuous glucose monitoring (CGM) for 
+screening or diagnosis of prediabetes or 
+diabetes. For additional details on the ev
+idence used to establish the criteria for 
+the diagnosis of diabetes or prediabetes, 
+see the American Diabetes Association 
+(ADA) position statement “Diagnosis and 
+Classification of Diabetes Mellitus” (2) and 
+other reports (1,3,10,11).
+Table 2.1—Criteria for the diagnosis of diabetes in nonpregnant individuals
+A1C ≥6.5% (≥48 mmol/mol). The test should be performed in a laboratory using a method 
+that is NGSP certified and standardized to the DCCT assay.*
+OR
+FPG ≥126 mg/dL (≥7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h.*
+OR
+2-h PG ≥200 mg/dL (≥11.1 mmol/L) during OGTT. The test should be performed as 
+described by the WHO, using a glucose load containing the equivalent of 75 g anhydrous 
+glucose dissolved in water.*
+OR
+In an individual with classic symptoms of hyperglycemia or hyperglycemic crisis, a random 
+plasma glucose ≥200 mg/dL (≥11.1 mmol/L). Random is any time of the day without 
+regard to time since previous meal.
+DCCT, Diabetes Control and Complications Trial; FPG, fasting plasma glucose; OGTT, oral glu
+cose tolerance test; NGSP, National Glycohemoglobin Standardization Program; WHO, World 
+Health Organization; 2-h PG, 2-h plasma glucose. *In the absence of unequivocal hypergly
+cemia, diagnosis requires two abnormal results from different tests, which may be obtained 
+at the same time (e.g., A1C and FPG), or the same test at two different time points.
+Table 2.2—Criteria defining prediabetes in nonpregnant individuals
+A1C 5.7–6.4% (39–47 mmol/mol)
+OR
+FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)
+OR
+2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)
+For all three tests, risk is continuous, extending below the lower limit of the range and be
+coming disproportionately greater at the higher end of the range. FPG, fasting plasma glu
+cose; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; OGTT, oral glucose 
+tolerance test; 2-h PG, 2-h plasma glucose.
+Use of Fasting Plasma Glucose or 
+2-Hour Plasma Glucose for Screening 
+and Diagnosis of Diabetes
+In the clinical scenario where a person has 
+classic symptoms of hyperglycemia (e.g., 
+polyuria, polydipsia, unexplained weight 
+loss) or presents with hyperglycemic crisis, 
+measurement of random plasma glucose is 
+sufficient to diagnose diabetes (symptoms 
+of hyperglycemia or hyperglycemic crisis 
+plus random plasma glucose ≥200 mg/dL 
+[≥11.1 mmol/L]). In these cases, knowl
+edge of the plasma glucose level is critical 
+because, in addition to confirming that 
+symptoms are due to diabetes, it will in
+form management decisions. In this con
+text, testing A1C helps determine the 
+chronicity of hyperglycemia. However, in 
+an individual without symptoms, FPG or 
+2-h PG can be used for screening and di
+agnosis of diabetes. In nonpregnant indi
+viduals, FPG (or A1C) is typically preferred 
+for routine screening due to the ease of 
+administration (Table 2.3); however, the 
+2-h PG (OGTT) testing protocol is signifi
+cantly more sensitive than the other two 
+tests and is preferentially recommended 
+for screening for some conditions (e.g., 
+cystic fibrosis–related diabetes or post
+transplantation diabetes mellitus). In the 
+absence of classic symptoms of hypergly
+cemia, repeat testing is required to con
+firm the diagnosis regardless of the test 
+used (see CONFIRMING THE DIAGNOSIS, below).
+Major advantages of glucose monitor
+ing are its low cost and availability. Dis
+advantages include the high diurnal 
+variation in glucose and the 8-h fasting 
+requirements (Table 2.3). Recent physi
+cal activity, illness, or acute stress can 
+affect glucose concentrations. Glycolysis 
+is also an important and underrecognized 
+concern with glucose testing. Glucose 
+concentrations will be falsely low if sam
+ples are not processed and analyzed 
+promptly (1).
+People should follow a mixed eating 
+pattern with at least 150 g of carbohydrates 
+on the 3 days prior to OGTT (12–14). Ante
+cedent carbohydrate restriction in the days 
+prior to OGTT can falsely elevate postchal
+lenge glucose levels, potentially resulting in 
+a false-positive OGTT (12).
+Use of A1C for Screening and 
+Diagnosis of Diabetes
+Recommendations
+2.2a The A1C test should be per
+formed using a method that is certi
+fied by the National Glycohemoglobin 
+S28 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

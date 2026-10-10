@@ -1,0 +1,74 @@
+3. Section 3: Clinical Decision Support 
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T 
+Clinical Decision Support (CDS) is a broad term for a powerful set of health IT features that provide users 
+with context-sensitive guidance, information, warnings, and prompts for actions through the application 
+of pre-defined rules, algorithms, or clinical guidelines. 
+For QI projects, CDS in an EHR can be a source of data (e.g., a project to measure the frequency of user 
+overrides on medication alerts) or serve as a quality intervention (e.g., implementing a preventive care 
+guidance tool to improve colorectal cancer screening). 
+The term CDS can be used differently by clinics, vendors, and even informaticists. To help conceptualize 
+the types of CDS when preparing QI projects, we suggest the taxonomy developed by Wright, Sittig, Ash, 
+and colleagues shown in Exhibit 28. [50, 51] 
+Exhibit 28: Types of Clinical Decision Support Commonly Found in EHRs 
+Clinical Decision Support 
+CDS Type 
+Examples/Descriptions 
+Condition-specific order sets 
+Guidance 
+• 
+Evidence-based menu or picklist to guide 
+appropriate orders for tests, procedures, 
+medication, education, and treatment based on 
+specific conditions or risk factors. 
+Contextually relevant reference 
+information 
+Informational • 
+Provides access to context-specific medical 
+reference and patient education resources 
+tailored to the patient or situation. This can be 
+helpful in effectively engaging in shared decision 
+making and providing patient-centered care. 
+Diagnostic supportsuch as 
+differential diagnosis tools 
+Guidance 
+• 
+Uses data in the EHR and reference sources to aid
+in diagnosis using evidence-based probabilistic 
+algorithms (and more recently artificial 
+intelligence). 
+Documentation templates 
+Guidance 
+• 
+Provides pre-defined clinical content that can be 
+structured to guide documentation quality and 
+support decision making. 
+Drug-drug and drug-allergy 
+interaction checks 
+Alert or 
+Warning 
+• 
+There is a potential drug-drug interaction or the 
+patient is allergic to a medication being 
+prescribed. 
+Electronic presentation of clinical 
+guidelines 
+Informational • 
+Display of evidence-based care plans for patients 
+with specific conditions or risk factors. (Also 
+helpful in shared decision making/efforts to 
+center care on the patient.) 
+Focused patient-data reports and 
+summaries 
+Informational • 
+Reports or screen displays optimized for specific 
+tasks, clinical contexts, or conditions. Used to 
+focus attention by tailoring how information is 
+presented. 
+Health maintenance reminders 
+Prompt 
+• 
+Patient is overdue for colonoscopy, 
+mammogram, Pap, or other preventive care. 
+Health IT Advisor Handbook 
+Page 56

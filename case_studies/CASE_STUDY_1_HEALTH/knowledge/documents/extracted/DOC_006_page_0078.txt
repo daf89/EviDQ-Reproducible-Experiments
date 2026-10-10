@@ -1,0 +1,52 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+EHR Element 
+Description 
+Problems 
+• 
+Diagnosis codes entered in the problem list are often used as 
+inclusion/exclusion criteria for EHR-generated CQMs. 
+• 
+Diagnoses must be coded with SNOMED and/or ICD to be used in a CQM 
+calculation. 
+Procedures 
+• 
+Procedure codes must be coded with CPT to be used in a CQM calculation. 
+Vital Signs 
+• 
+Variation in how and when vital signs are recorded in the EHR may affect 
+CQM calculations (height, weight, blood pressure, BMI, BMI%). 
+• 
+Workflows for recording repeat readings can affect CQM calculations (the last 
+BP recorded in a visit is often the lowest). 
+• 
+Height and weight must be consistently recorded to produce accurate BMI 
+and BMI% if used in a CQM calculation. 
+EHR Use Case 2: Improving the Delivery of Preventive Care 
+Improving the delivery of preventive healthcare services in the U.S. is a public health priority.[68] 
+However, as Banksyet al. reported: “As of 2015, only 8 percent of US adults ages thirty-five and older 
+had received all of the high-priority, appropriate clinical preventive services recommended for them. 
+Nearly 5 percent of adults did not receive any such services.”[69] 
+The gap between evidence-based screening practices and actual care delivery makes preventive care an 
+important target for QI and practice transformation projects. Often, these data come from claims (see 
+Section 7), but EHRs are increasingly used to support preventive care by measuring clinical quality, 
+targeting interventions, and determining how much providers are paid under value-based payment 
+contracts. In the U.S., evidence-based guidelines for preventive healthcare are developed and 
+disseminated by the U.S. Preventive Services Task Force (USPSTF). EHR-driven QI projects frequently 
+target one or more of these recommendations. 
+EHR Data 
+• 
+Measuring the delivery of preventive care services: 
+Some of the first CQMs developed for EHRs calculate performance rates for delivering specific 
+preventive services. As a result of the federal EHR certification requirements under Meaningful 
+Use and the QPP, Health IT Advisors will find that most clinics can produce common CQMs 
+including performance rates for Screening for colorectal, breast, and cervical cancer; Screening 
+for depression; Recording of smoking status and delivery of cessation counseling; and Age-
+appropriate immunizations. 
+The completeness and accuracy of EHR-generated measures for preventive care is heavily 
+dependent on the quality of the underlying data. For example, depending on how long a clinic 
+has used their EHR, it may not be possible to determine whether the guideline for colorectal 
+cancer screening by colonoscopy was met without access to ten continuous years of structured 
+data (see CMS 130, NQF 0034). 
+Health IT Advisor Handbook 
+Page 73

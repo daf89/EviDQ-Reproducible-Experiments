@@ -1,0 +1,6 @@
+feature,SHAP_rank,relative_importance_pct,semantic_status,dictionary_description,dictionary_type,dictionary_role,dictionary_coding_values
+registry_stage_code,1,48.38022448720366,DOCUMENTED,registry stage,categorical,clinical_characterisation,registry-specific stage codes
+icdo3_m_code,2,10.075053159065018,NOT_DOCUMENTED,,,,
+age_diag,3,7.851284217466582,DOCUMENTED,age at diagnosis (years),numeric,covariate,years
+administr_unit,4,7.509713171030013,NOT_DOCUMENTED,,,,
+mkb10_code,5,6.559382000522194,DOCUMENTED,ICD-10 topography code,categorical,disease_definition,"C33, C34, subcodes"

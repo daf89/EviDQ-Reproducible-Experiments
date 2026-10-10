@@ -1,0 +1,109 @@
+6.4.3. Additional risk decision tests 
+Coronary artery calcium (CAC) scoring improves CVD risk prediction 
+and reclassifies risk when added to conventional CVD risk factor-based 
+estimation models.209,210 A CAC score of >100 Agatston units or 
+≥75th percentile for age, sex, and ethnicity favours up-classification 
+of CVD risk.127 Internal or external carotid plaque may also improve 
+CVD risk prediction.211 Similarly, femoral artery plaque detection 
+may improve CVD risk prediction.212–214 Arterial stiffness, as assessed 
+by pulse wave velocity (PWV), is associated with increased risk of CVD 
+events and improves CVD risk stratification.215–218 Common arterial 
+stiffness thresholds for increased risk include carotid–femoral PWV 
+of >10 m/s and brachial–ankle PWV of >14 m/s. After assessing 
+10-year predicted CVD risk and non-traditional risk factors, if a risk- 
+based treatment decision remains uncertain for patients with elevated 
+BP, it is reasonable to measure a CAC score or, alternatively, carotid or 
+femoral plaque, or arterial stiffness; most especially after shared 
+decision-making with the patient and after considering cost (see 
+Section 7 for more details on these tests). There is also evidence that 
+elevated cardiac biomarker levels (specifically high-sensitivity cardiac 
+troponin and B-type natriuretic peptide/N-terminus B-type natriuretic 
+peptide) are significant and effective risk modifiers,219,220 with further 
+supportive data from hypertensive participants.159,221,222 Of note, 
+these cardiac biomarkers can be considered markers of HMOD 
+(Section 7); however, we focus on them in this risk modifier section be-
+cause they may be elevated due to other reasons besides high BP (such 
+as atherosclerosis or heart rhythm disease). 
+6.5. Summary of the cardiovascular disease 
+risk stratification approach for allocating 
+blood pressure treatment 
+Measured BP combined with 10-year CVD risk-prediction models and 
+non-traditional risk modifiers should be used for stratifying risk when allo-
+cating BP-lowering treatment for persons with elevated BP (Figure 9). It is 
+important to stress here that patients with confirmed hypertension are re-
+commended to receive BP-lowering treatment and no further risk strati-
+fication is needed. 
+For patients with elevated BP, the presence of diabetes, familial 
+hypercholesterolaemia, established CVD (defined as prior acute or 
+chronic coronary syndrome, cerebrovascular disease, symptomatic 
+peripheral arterial disease, or heart failure), moderate or severe 
+CKD, or HMOD confers increased CVD risk. One caveat is that, spe-
+cifically for individuals with elevated BP and type 2 diabetes mellitus only 
+aged <60 years, SCORE2-Diabetes should be considered to identify 
+lower CVD risk individuals (<10% over 10 years). 
+Otherwise, for patients without these high-risk conditions, 10-year risk 
+of CVD should be calculated using SCORE2 (if aged 40–69 years) and 
+SCORE2-OP (if aged ≥70 years). Patients with elevated BP and a 
+10-year predicted risk of CVD events ≥10% are considered sufficiently 
+high risk to warrant BP-lowering treatment (either by lifestyle or drug 
+treatment, see Section 8). For patients with elevated BP and borderline in-
+creased predicted CVD risk by SCORE2/SCORE2-OP (5% to <10% over 
+10 years), up-classification of risk may be considered in the presence of 
+sex-specific or shared non-traditional risk modifiers. After considering 
+sex-specific and shared non-traditional risk modifiers, if a risk-based 
+BP-lowering treatment decision remains uncertain, it may be reasonable 
+to measure CAC score, carotid or femoral plaque, high-sensitivity cardiac 
+troponin or B-type natriuretic peptide biomarkers, or arterial stiffness. 
+Risk stratification for patients with non-elevated BP (systolic BP of 
+<120 mmHg and diastolic BP of <70 mmHg) is not required for the 
+purpose of allocating BP-lowering treatment, as the safety and efficacy 
+of commencing BP-lowering treatment below this threshold is uncer-
+tain. Risk assessment may nonetheless be needed in this setting when 
+considering other prevention therapies (e.g. lipid lowering). 
+Recommendation Table 4 — Recommendations for 
+refining cardiovascular disease risk (see Evidence 
+Tables 12–14) 
+Recommendation 
+Classa 
+Levelb 
+History of pregnancy complications (gestational 
+diabetes, gestational hypertension, pre-term 
+delivery, pre-eclampsia, one or more stillbirths, 
+and recurrent miscarriage) are sex-specific risk 
+modifiers that should be considered to up-classify 
+individuals with elevated BP and borderline 
+increased 10-year CVD risk (5% to <10% risk). 
+183,184,223,224 
+IIa 
+B 
+High-risk ethnicity (e.g. South Asian), family history of 
+premature onset atherosclerotic CVD, 
+socio-economic deprivation, auto-immune 
+inflammatory disorders, HIV, and severe mental 
+illness are risk modifiers shared by both sexes that 
+should be considered to up-classify individuals with 
+elevated BP and borderline increased 10-year CVD 
+risk (5% to <10% risk). 186–191,193,198,202,204,208 
+IIa 
+B 
+Continued 
+After assessing 10-year predicted CVD risk and 
+non-traditional CVD risk modifiers, if a risk-based 
+BP-lowering treatment decision remains uncertain for 
+individuals with elevated BP, measuring CAC score, 
+carotid or femoral plaque using ultrasound, 
+high-sensitivity cardiac troponin or B-type natriuretic 
+peptide biomarkers, or arterial stiffness using pulse wave 
+velocity, may be considered to improve risk stratification 
+among patients with borderline increased 10-year CVD 
+risk (5% to <10% risk) after shared decision-making and 
+considering costs.209–211,215,218,225,226 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure; CAC, coronary artery calcium; CVD, cardiovascular disease; HIV, 
+human immunodeficiency virus. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3941 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

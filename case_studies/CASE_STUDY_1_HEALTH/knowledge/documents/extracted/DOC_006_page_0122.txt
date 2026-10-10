@@ -1,0 +1,51 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+This set of values is exclusively what is used by the measure logic during calculation. That is important to 
+recognize for a few reasons: 
+• 
+Value sets represent thesingle, authoritativelist ofallowed codes for agiven portion of 
+measure logic. The value sets do not simply portray “categorized” labels or classes of 
+information. An eCQM needs a prescriptive definition of the precise medication list. This also 
+means all organizations and medical record systems implement identical evaluation based on a 
+single central list verses a variable mechanism that relies on the relative knowledge of the 
+person doing the evaluation. No variation of the individual codes within a value set are allowed 
+or encouraged for the purposes of uniform measurement. In fact, some widely used value sets 
+are copyrighted, require licenses for use, and have stringent restrictions onmodification. [118] 
+Value sets are maintained and accessible from the NLM Value Set Authority Center (VSAC) 
+repository. 
+• 
+Value sets are versioned and updatedwith themeasure. A value set is rarely “static.” The 
+expectation is that it is clinically relevant. As care protocols, medications, procedures, and even 
+vocabulary coding evolve, a value is updated to reflect those improvements. Value sets are most 
+often versioned annually with updates to the related measure. In the above example, should a 
+medication be taken off the market, it will be removed from the value set. Likewise, should a 
+new medication be introduced and deemed appropriate by the measure steward, it will be 
+added. The easiest example of this is the list of annual allowed influenza medications. Each year 
+these are versioned as the CDC choose the appropriate target formulation. The value sets are 
+updated to contain the new formulations and remove the older ones. 
+• 
+Mostly critically, the data in the patient record are expected to be coded in the vocabularies 
+used in the value sets. As we mentioned above, a value set is not simply a suggested list of 
+general categories of medications, encounter types, procedures, etc. It represents a finite, fixed 
+list in one or more coded vocabularies. That means that the target patient data being 
+evaluated must also be accessible in the coded vocabularies used in that value set. Even if the 
+data is visible in the chart through a note or some other screen, if it is not accessible in the 
+required coding standard, it will be ignored. 
+That last point is a critical departure from abstracted quality measurement and bears repeating – the 
+data being evaluated in the patient record must be accessible in the required vocabulary coding 
+standard or it will not be considered in the measure. This is the single largest challenge most 
+organizations face when transitioning to eCQMs and where a large portion of effort and expertise are 
+invested. The patient record may be data rich, but information poor. Items recorded in text notes, flow 
+sheets, or other areas of the chart may not be coded in a way that allows them to be exposed in the 
+vocabularies that a measure’s value sets use. 
+This is why policies are such an important part of the interoperability mission. Given the variety of 
+coding systems that exist, it would be difficult to have measures all use a random series of choices for 
+representation of key portions of the patient chart. Guiding the determination of which vocabularies are 
+appropriate for a given value set are policies that mandate the use of USCDI[35], which we mentioned in 
+the Interoperabilitysection. USCDI helps to align, or “harmonize” the choice of vocabulary coding 
+standards across measures and related value sets for a given class of data like an encounter, medication, 
+allergy, etc. Policy standards help to ensure semantic compatibility across measures. 
+Health IT Advisor Handbook 
+Page 117

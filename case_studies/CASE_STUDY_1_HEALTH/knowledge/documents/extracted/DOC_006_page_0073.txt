@@ -1,0 +1,53 @@
+“
+-
+”
+“
+-
+”
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+Exhibit 31: MHS’ Custom Developed Quality Measures 
+MD Centric EHR Measures 
+Patient centric EHR Measures 
+Delivery and documentation of diabetic eye and 
+foot exam 
+Smoking status documented 
+Pneumococcal vaccination 
+Body Mass Index (BMI) 
+Monitoring or treating kidney disease 
+Glycemic control (A1c) 
+Cholesterol level for patients taking a statin drug 
+(2005 to 2007) 
+Blood pressure 
+A1c test performed (2007 - 2014) 
+EHR-based Quality Interventions 
+The EHR was also used as a platform to deliver eight interventions between 2007 and 2014 specific to 
+diabetes care. These are listed below and summarized in Exhibit 32. 
+• 
+One (1) intervention was a form of CDS that provided contextual alerts and notifications 
+highlighting gaps in diabetes care (Epic calls these Best Practice Alerts, or BPAs). 
+• 
+Two (4 and 6) interventions used the EHR to improve documentation of care plans and to 
+capture eye and foot examinations as structured data. 
+• 
+Four (2, 3, 5, and 8) interventions used the EHR to present tailored data to providers (using a 
+specially developed summary screen) as a resource to engage patients with diabetes in their 
+care planning (EHR-generated letters). 
+• 
+One (5) intervention used EHR data to create comparative performance reports to spur 
+competition and to provide individual providers with detailed information on the patients in 
+their panel. 
+Exhibit 32: Introductionof EHR interventionsfor DiabetesCare at MHS (2007 to 2014)[64] 
+Quality Interventions at MHS: 
+1. Updated best-practice advisories (a CDS alert) in Epic EHR. 
+2. Developed comparative performance reports for selected measures. 
+3. Developed letter templates for diabetes care plans. 
+4. Enhanced EHR to capture structured documentation for diabetic eye and foot exams. 
+5. Used comparative performance reports to develop financial incentives. 
+6. Enhanced diabetic care plan templates to capture goals, barriers, and interventions. 
+7. Developed customized “synopsis” screen in the EHR to highlight data elements for diabetes care. 
+8. Updated provider-specific patient lists to improve clinicians’ awareness and accountability. 
+Chart adapted from: https://www.himss.org/sites/hde/files/media/file/2021/01/20/metrohealth -davies-diabetes
+management-case.pdf. 
+Health IT Advisor Handbook 
+Page 68

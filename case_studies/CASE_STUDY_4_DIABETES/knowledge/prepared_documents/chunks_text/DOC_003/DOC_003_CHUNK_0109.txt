@@ -1,0 +1,97 @@
+
+
+===== PDF PAGE 217 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 1: Creating the Final Dataset 
+Last Updated: 7 April 2017 
+4-1-4 
+WHO STEPS Surveillance 
+Cleaning the Data, Continued 
+ 
+ 
+ 
+Resolving 
+errors 
+If possible, try to correct any errors found in the dataset. You can use existing 
+survey documentation (e.g. sampling documentation,  interview tracking 
+forms) to double check location variables. For errors in questionnaire 
+responses, it is best to follow up with the field team supervisor(s) to see if the 
+relevant data collector can clarify. If possible, the participant can also be 
+contacted to clarify their response. 
+ 
+Do not make any corrections to the dataset until you are certain you have the 
+correct information. If you are unable to correct questionable data, it is 
+recommended the data is excluded from the dataset. It is ok to exclude only 
+part of an individual’s record if the rest of their response does not appear to 
+have any data entry errors. 
+ 
+ 
+
+
+===== PDF PAGE 218 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 1: Creating the Final Dataset 
+Last Updated: 7 April 2017 
+4-1-5 
+WHO STEPS Surveillance 
+Weighting the Data 
+ 
+ 
+ 
+Introduction 
+If the data from your STEPS survey is analysed unweighted, the results are 
+only representative of the sampled participants. In order to have results that 
+are representative of your entire target population, your data must be 
+weighted. 
+ 
+ 
+What is a 
+weight 
+A weight is a value given to a data record to adjust the importance given to it 
+in analysis. It may be thought of as the number of persons in the population 
+that are represented by each individual in the sample. Weights are calculated  
+to adjust for the following aspects of a survey: 
+ 
+• probability of selection (sample weight); 
+• non-response (non-response weight); 
+• differences between the sample population and target population 
+(population weight). 
+ 
+ 
+ 
+Sample weight 
+The sample weight is comprised of the inverse of the probability of selection. 
+For multi-stage sampling designs, this means calculating the probability of 
+selection at every stage of selection and multiplying them all together. It 
+requires knowledge of the probability of selection at all stages of sampling 
+and is therefore the most difficult weight to calculate due to the amount of 
+information needed. 
+ 
+While there are some tools available to help with the calculation of these 
+weights, it is not possible to automate the process entirely due to differences 
+in sample design between STEPS surveys. 
+ 
+If you used the STEPSsampling.xls file to draw your sample, you can use it to 
+partially calculate the sample weights for your dataset.  The worksheet "Info  
+for Weighting" within the STEPSsampling.xls file contains directions for 
+calculating the probability of selection up to the household or individual level 
+(if individuals were selected directly). 
+ 
+If you used another means to draw your sample, it is recommended to create a 
+summary table containing the  probability of selection for each sampling unit  
+in your sample.   Contact the WHO Geneva STEPS team for help in  
+developing a summary table. 
+ 
+For the probability of selection within the household (the final stage of 
+sampling in most STEPS survey), the STEPS app automatically includes 
+household size in the dataset. 
+ 
+ 
+Non-response 
+weight 
+The non-response weight is calculated by taking the inverse of the response 
+rate either for the overall survey or, more often, for each subset of the survey. 
+ 
+Continued on next page 

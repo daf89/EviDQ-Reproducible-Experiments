@@ -1,0 +1,78 @@
+Practice Point 1.1.4.2: Use tests to establish a cause based on resources available (Table 622,98-100).
+Recommendation 1.1.4.1: We suggest performing a kidney biopsy as an acceptable, safe, diagnostic test to
+evaluate cause and guide treatment decisions when clinically appropriate (2D).
+1.2 Evaluation of GFR
+1.2.1 Other functions of kidneys besides GFR
+Practice Point 1.2.1.1: Use the term “GFR” when referring to the speciﬁc kidney function of glomerular ﬁltration. Use the
+more general term “kidney function(s)” when dealing with the totality of functions of the kidney.
+Physical
+exam
+Nephrotoxic
+medications
+Symptoms and signs
+of urinary tract
+abnormalities
+Symptoms and signs
+of systemic diseases
+Laboratory tests, imaging, and tissue sample, such as:
+• Urinalysis and urine sediment
+• Urine albumin-to-creatinine ratio
+• Serologic tests
+• Ultrasound
+• Kidney biopsy
+• Genetic testing
+Medical
+history
+Social and
+environmental
+history
+Obtain careful family history
+for possible genetic causes,
+including family pedigree for CKD
+Figure 8 | Evaluation of cause of chronic kidney disease (CKD).
+Table 6| Guidance for the selection of additional tests for evaluation of cause
+Test category
+Examples
+Comment or key references
+Imaging
+Ultrasound, intravenous urography, CT kidneys
+ureters bladder, nuclear medicine studies, MRI
+Assess kidney structure (i.e., kidney shape, size, symmetry, and evidence of
+obstruction) for cystic disease and reﬂux disease.
+Evolving role of additional technologies (e.g., 3D ultrasound)
+Kidney biopsy
+Ultrasound-guided percutaneous
+Usually examined by light microscopy, immunoﬂuorescence, and electron
+microscopy, and, in some situations, may include molecular diagnostics
+Used for exact diagnosis, planning treatment, assessing activity and
+chronicity of disease, and likelihood of treatment response; may also be
+used to assess genetic disease
+Laboratory tests:
+serologic, urine
+tests
+Chemistry including acid-base and electrolytes,
+serologic tests such as anti-PLA2R, ANCA, anti-GBM
+antibodies
+Serum-free light chains, serum, and urine protein
+electrophoresis/immunoﬁxation
+Urinalysis and urine sediment examination
+Refer to KDIGO 2021 Clinical Practice Guideline for the Management of
+Glomerular Diseases22
+Increasing recognition of the role of light chains in kidney disease even in
+the absence of multiple myeloma (monoclonal gammopathy of renal
+signiﬁcance [MGRS])98
+Presence of persistent hematuria or albuminuria is critical in determining
+differential diagnosis
+Genetic testing
+APOL1, COL4A3, COL4A4, COL4A5, NPHS1, UMOD,
+HNF1B, PKD1, PKD2
+Evolving as a tool for diagnosis, increased utilization is expected.
+Recognition that genetic causes are more common and may present
+without classic family history99,100
+ANCA, antineutrophil cytoplasmic antibody; APOL1, apolipoprotein 1; COL4A, type IV collagen alpha chain; CT, computed tomography; GBM, glomerular basement membrane;
+HNF1B, hepatocyte nuclear factor 1B; MRI, magnetic resonance imaging; NPHS1, congenital nephrotic syndrome; PKD1, polycystic kidney disease-1; PKD2, polycystic kidney
+disease-2; PLA2R, M-type phospholipase A2 receptor; UMOD, uromodulin.
+summary of recommendation statements and practice points
+www.kidney-international.org
+S150
+Kidney International (2024) 105 (Suppl 4S), S117–S314

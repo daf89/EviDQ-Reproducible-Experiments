@@ -1,0 +1,37 @@
+{
+  "title": "Final visualization of four evaluation dimensions",
+  "timestamp": "2026-10-03T15:04:55.088961",
+  "source": "STEP17_FINAL_TEST_FUZZY_INPUT.csv",
+  "baseline": "Dataset_DQ",
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "figures": {
+    "FIG_FINAL_01": "Delta Balanced Accuracy vs DQ",
+    "FIG_FINAL_02": "Relative Age SHAP shift vs DQ",
+    "FIG_FINAL_03": "Local SHAP cosine stability",
+    "FIG_FINAL_04": "Operational coverage"
+  },
+  "REF_used": false,
+  "new_model_training": false,
+  "new_SHAP_computation": false,
+  "MF_recalibration": false,
+  "global_score": false,
+  "ranking": false,
+  "recommendation": false,
+  "purpose": "Publication-ready descriptive visualization only",
+  "hashes": {
+    "FIG_FINAL_01_PERFORMANCE_DELTA_BA.pdf": "e4582109d5d6033cdc9c5269d357306e4312a10624ab457a415f16f698cbb2ee",
+    "FIG_FINAL_01_PERFORMANCE_DELTA_BA.png": "a375f60c1b547ffe6ad27c12b0dbb790794716d8d1160ec078e9b1d12fbedde0",
+    "FIG_FINAL_02_RELATIVE_AGE_SHAP_SHIFT.pdf": "cb7078c6aba021685590e4cefe79157fe1d1676c7a6238ea6d82411a707ebbf3",
+    "FIG_FINAL_02_RELATIVE_AGE_SHAP_SHIFT.png": "84cdecd48b7db0612fe9649c5d23ae024ecda37ce99f9d97bfd6e48f243d1ba8",
+    "FIG_FINAL_03_SHAP_STABILITY.pdf": "7a158949bb9ced5f5806bddf86ac7331e1f68a54da4dc5beb3df628ee45d9672",
+    "FIG_FINAL_03_SHAP_STABILITY.png": "0f5aae78075f4b79eabbddc161fde7435ddc4cb7e7370d17e7d9eb1316fc24d1",
+    "FIG_FINAL_04_OPERATIONAL_COVERAGE.pdf": "c9262af56ae88793742a30d00a56dced709f443bdf83a7a2a95319270094780d",
+    "FIG_FINAL_04_OPERATIONAL_COVERAGE.png": "e7e4187b950dfa71f176b1e5f65b37e7af6096f6f67ff4a19bc980e9cc096e79",
+    "FINAL_FOUR_METRICS_FIGURE_SOURCE.csv": "5eeb139f5a12656e6e051b7620dee8212880df338fa410b7b78325c10aa06eb8"
+  }
+}

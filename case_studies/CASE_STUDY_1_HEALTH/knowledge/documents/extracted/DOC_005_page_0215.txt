@@ -1,0 +1,72 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+215
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_E8 
+Critères spécifiques du référentiel : 41 critères
+Mode de prise en charge : ambulatoire, HAD, SAMU-SMUR, urgences, soins critiques
+Champ d’applicabilité
+Sous-champ d’applicabilité
+Règles 
+Ambulatoire
+Chirurgie ambulatoire
+Table : filtre (select statut=INIT) - MCO
+Clef : FI
+If filtre.CHIRAMBU=1 and
+(MCO.PLA_CHI >0 or MCO.SEJHP_CHI>0)
+then SCA0002= true
+else SCA0002= false
+Médecine
+Table : filtre (select statut=INIT) - MCO
+Clef : FI
+If (filtre.HEBMED=1) and (MCO.PLA_MCO >0 or MCO.SEJHP_MCO>0)
+then SCA0001= true
+else SCA0001= false
+Obstétrique
+Table : MCO
+Clef : FI
+If MCO.PLA_OBS >0 or MCO.SEJHP_OBS > 0
+then SCA0003= true
+else SCA0003= false
+SSR (SMR) ambulatoire 
+Table : filtre (select statut=INIT) – SSR (select GDE=SSR_TOT)
+Clef : FI
+If filtre.SSR=1 and (SSR.PLA>0 or SSR.JOUHP>0)
+then SCA0004= true
+else SCA0004= false
+Psychiatrie ambulatoire
+Table : filtre (select statut=INIT) – PSY (select DIS=TOT)
+Clef : FI
+If filtre.PSY=1 and
+(PSY.CAP_HDJ>0 or
+ PSY.CAP_HDN>0 or
+PSY.VEN_HDJ>0 or
+PSY.VEN_HDN>0 or
+PSY.NB_CMP_SEUL_PA>0 or
+PSY.NB_CMP_SEUL_PL>0 or
+PSY.NB_CONSULT_SEUL>0 or
+PSY.NB_CATTP>0 or
+PSY.ACT_CMP_SEUL>0 or
+PSY.ACT_CONSULT_SEUL>0 or
+PSY.ACT_CATTP>0 or
+PSY.ACT_AD>0 or
+PSY.ACT_EMS>0 or
+PSY.ACT_UHS>0 or
+PSY.ACT_EME>0 or
+PSY.ACT_UCSA>0)
+then SCA0005= true
+else SCA0005= false
+HAD
+HAD MCO-SMR
+Table : filtre (select statut=INIT) – HAD (select AUTMED=1 + AUTSSR=1 
++ AUTCAN=1 + AUTOBS=1)
+Clef : FI
+If filtre.HAD =1 and
+[HAD.PLATOT>0 or
+HAD.JOU_HAD> 0 or
+HAD.SEJ_HAD>0]
+then SCA0015= true
+else SCA0015= false

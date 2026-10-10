@@ -1,0 +1,191 @@
+Deliverable OP4‑17 MPC Evaluation of 2024 Cycle Non‑SBD and SBD Data Collection Plan addresses key factors that
+likely contributed to the actual 2024 cycle completion rates.
+Return to Table of Contents
+Table 3‑3. Provider‑Level Completion Rates, MPC 2021‑2024
+Provider
+Initial sample after subsampling
+Final eligible sample
+Completion rate
+Refusal rate
+Other nonresponse rate1
+2021
+Hospitals
+8,630
+7,918
+0.613
+0.026
+0.361
+Office‑Based Doctors
+16,911
+14,950
+0.642
+0.033
+0.325
+HMOs
+418
+384
+0.516
+0.000
+0.484
+Home care providers
+979
+886
+0.719
+0.021
+0.260
+Institutions
+120
+118
+0.847
+0.000
+0.153
+SBDs
+17,162
+12,690
+0.491
+0.046
+0.462
+Pharmacies
+10,538
+9,079
+0.826
+0.020
+0.157
+Total
+54,758
+46,025
+2022
+Hospitals
+6,900
+6,080
+0.702
+0.027
+0.272
+Office‑Based Doctors
+16,772
+14,486
+0.637
+0.047
+0.316
+HMOs
+393
+339
+0.602
+0.000
+0.398
+Home care providers
+814
+752
+0.786
+0.015
+0.199
+Institutions
+109
+102
+0.892
+0.020
+0.088
+SBDs
+14,555
+9,524
+0.638
+0.020
+0.341
+Pharmacies
+8,610
+7,400
+0.869
+0.018
+0.113
+Total
+48,153
+38,683
+2023
+Hospitals
+6,167
+5,394
+0.731
+0.004
+0.265
+Office‑Based Doctors
+14,917
+12,871
+0.661
+0.002
+0.337
+HMOs
+342
+278
+0.863
+0.000
+0.137
+Home care providers
+698
+630
+0.802
+0.000
+0.198
+Institutions
+122
+119
+0.874
+0.000
+0.126
+SBDs
+16,364
+10,773
+0.609
+0.001
+0.390
+Pharmacies
+7,306
+6,305
+0.902
+0.030
+0.069
+Total
+45,916
+36,370
+2024
+Hospitals
+6,508
+5,732
+0.680
+0.020
+0.300
+Office‑Based Doctors
+14,799
+12,619
+0.667
+0.013
+0.319
+HMOs
+323
+284
+0.873
+0.000
+0.127
+Home care providers
+735
+641
+0.780
+0.006
+0.214
+Institutions
+0
+0
+‑
+‑
+‑
+SBDs
+14,655
+10,475
+0.523
+0.000
+0.477
+Notes:
+1 “Other nonresponse” includes unlocatable, type 1 disavowal, and other nonresponse.
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+12/40

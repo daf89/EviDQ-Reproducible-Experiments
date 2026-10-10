@@ -1,0 +1,15 @@
+item,value
+Global phase,2/5 - KNOWLEDGE
+Dataset_REF valid,True
+Dataset unchanged,True
+Prediction-relevant features,12
+Dictionary features found,12
+Dictionary features not found,0
+Knowledge sources planned,DOCUMENT | EXPERT | STATISTICAL
+Official documents read,False
+RAG used,False
+Knowledge Base created,False
+DQ problems confirmed,False
+Candidate corrections created,False
+Errors injected,False
+Corrections applied,False

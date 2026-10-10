@@ -1,0 +1,49 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+260
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique opératoire_V5 
+Comment investiguer et rédiger une fiche anomalie ?
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche définit une fiche anomalie et présente les modalités de son remplissage.
+ Pour bien commencer
+Pour rappel, chaque élément d’évaluation est coté « Oui », « Non », « Non applicable » ou, pour le patient traceur, 
+«  Réponse inappropriée ». Une fiche anomalie est générée dans CALISTA, si, l’ensemble des éléments d’évaluation 
+d’un critère impératif d’une grille obtient une réponse « Non ». Une fiche anomalie doit être renseignée impérativement.
+ En pratique
+Dans le cadre d’une évaluation
+Dans une fiche anomalie, des données sont automatiquement reprises : identité de l’évaluateur, le site géographique 
+où s’est déroulé l’évaluation, la méthode d’évaluation source de l’anomalie.
+L’évaluateur doit compléter d’autres parties :
+• • la description factuelle de l’anomalie qui doit être la plus précise et la plus détaillée possible afin de comprendre 
+la situation ; 
+• • la description des risques générés par l’anomalie sur le patient, les professionnels ou l’environnement ;
+• • la dynamique engagée par l’établissement autour de l’anomalie soulevée. Pour ce faire, l’évaluateur doit 
+répondre et argumenter plusieurs questions :
+• • l’établissement avait-il connaissance de cette anomalie avant la visite ? 
+- La connaissance de cette anomalie peut être le fruit d’une évaluation interne (audit, indicateur, déclaration 
+d’événement indésirable, plaintes, etc..) ou d’un autre dispositif d’évaluation externe (IQSS, inspection ARS, 
+rapport ASN, du Contrôleur Général des Lieux de Privation de Libertés, etc.).
+• • l’ES a-t-il analysé les causes de cette anomalie pour choisir la ou les actions d’amélioration le plus à 
+même d’agir efficacement sur la cause ? 
+- Si l’établissement avait connaissance de l’anomalie avant la visite, une analyse des causes a-t-elle été 
+réalisée avec pour objectif de comprendre la cause du dysfonctionnement et donc trouver les actions qui 
+sont les plus susceptibles d’être efficaces parce qu’elles agissent sur la cause.
+• • Existe-t-il des dispositifs de maîtrise du risque généré par l’anomalie (formation, sensibilisation, 
+procédure…) ?
+- Une anomalie peut trouver sa résolution dans un plan A, idéal, mais dont les échéances peuvent être 
+lointaines. Il est attendu ici que l’experts-visiteurs décrivent les actions (plan B) mises en place par 
+l’établissement pour réduire l’impact du risque. Par exemple, une anomalie concerne la dignité des patients. 
+Cette anomalie s’explique par la vétusté des locaux. Un projet immobilier prévoit la reconstruction du site 
+en 2026 (plan A). Pour autant, il existe des plans B : les professionnels sont sensibilisés, mettent en place 
+des pratiques et organisation de travail qui permettent de réduire l’impact des locaux sur le respect de la 
+dignité des patients. Par ailleurs, du mobilier a été acheté pour réduire l’impact de l’immobilier. Ce sont ces 
+éléments du plan A et du plan B qui doivent être décrit ici.
+• • L’ES a-t-il analysé les causes de cette anomalie pour choisir la ou les actions d’amélioration le plus à 
+même d’agir efficacement sur la cause ?
+• • Des actions sont-elles inscrites dans un programme d’action avec un pilote et des échéances ? 
+Si oui, lesquelles ? Les échéances sont-elles cohérentes au regard du risque généré par l’anomalie ?

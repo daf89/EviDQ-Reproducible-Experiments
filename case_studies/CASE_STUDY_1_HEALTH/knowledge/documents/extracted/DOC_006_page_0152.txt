@@ -1,0 +1,71 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+92. 
+Gerteis, M., et al., Usesand Limitations of Claims-based Performance Feedback Reports: Lessons 
+From the Comprehensive Primary Care Initiative. J Healthc Qual, 2018. 40(4): p. 187-193. 
+93. 
+Agency for Healthcare Research and Quality. Types of Health Care Quality Measures. July 2015; 
+Available from: https://www.ahrq.gov/talkingquality/measures/types.html. 
+94. 
+National Quality Forum, NQF CQM Database. Available from: 
+https://www.qualityforum.org/QPS/QPSTool.aspx. 
+95. 
+Office of the National Coordinator for Health Information Technology. Controlling High Blood 
+Pressure. Available from: https://ecqi.healthit.gov/ecqm/ep/2020/cms165v8 
+96. 
+Centers for Medicare & Medicaid Services Measure Calculations. 2021. 
+97. 
+Wagner, J., et al., Implementing Risk Stratification in Primary Care: Challenges and Strategies. J 
+Am Board Fam Med, 2019. 32(4): p. 585-595. 
+98. 
+Dom Dera, J., RiskStratification: A Two-StepProcess for Identifying Your Sickest Patients. Fam 
+Pract Manag, 2019. 26(3): p. 21-26. 
+99. 
+Lavallee, D.C., et al., Incorporating Patient-Reported Outcomes Into Health Care To Engage 
+Patients And Enhance Care. Health Aff (Millwood), 2016. 35(4): p. 575-82. 
+100. 
+Cantor, M.N. and L. Thorpe, IntegratingDataOn Social DeterminantsOfHealthInto Electronic 
+Health Records. Health Aff (Millwood), 2018. 37(4): p. 585-590. 
+101. 
+Xu, J., et al., A Practical Risk Stratification Approach for Implementing a Primary Care Chronic 
+Disease Management Program in an Underserved Community. J Health Care Poor Underserved, 
+2018. 29(1): p. 202-213. 
+102. 
+National Association of Community Health Centers, Population Health Management: Risk 
+Stratification Action Guide. 2021. Available from: https://www.nachc.org/wp
+content/uploads/2022/01/PHM_Risk-Stratification-AG-Jan-2022.pdf 
+103. 
+Health Resources and Services Administration, Uniform Data System 2021 Health Center Data 
+Reporting Tables. 2021. Available from: 
+https://bphc.hrsa.gov/sites/default/files/bphc/datareporting/pdf/2021-uds-manual-tables.pdf. 
+104. 
+Just, E., Understanding Risk Stratification, Comorbidities, and the Future of Healthcare 2016, 
+HealthCatalyst. Available from: https://studyres.com/doc/1492568/understanding-risk
+stratification--comorbidities. 
+105. 
+HL7 International. Introduction to HL7 Standards. Available from: 
+https://www.hl7.org/implement/standards/index.cfm?ref=nav 
+106. 
+Health Insurance Portability and Accountability Act of 1996, in 110 Stat. 1936. 1996. Available 
+from: https://www.govinfo.gov/content/pkg/PLAW-104publ191/pdf/PLAW-104publ191.pdf. 
+107. 
+Centers for Medicare & Medicaid Services Health Care Transactions Basics. 
+108. 
+U.S. Department of Health & Human Services. Summary of the HIPAA Privacy Rule. Available 
+from: https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html 
+109. 
+Office of the National Coordinator for Health Information Technology. Trusted Exchange 
+Framework and Common Agreement (TEFCA). Available from: 
+https://www.healthit.gov/topic/interoperability/trusted-exchange-framework-and-common
+agreement 
+110. 
+Office of the National Coordinator for Health Information Technology. About ONC's Cures Act 
+Final Rule. Available from: https://www.healthit.gov/curesrule/overview/about-oncs-cures-act
+final-rule 
+111. 
+Office of the National Coordinator for Health Information Technology, 21st Century Cures Act: 
+Interoperability, Information Blocking, and the ONC Health IT Certification Program Final Rule. 
+2020. Available from: https://www.healthit.gov/cures/sites/default/files/cures/2020
+05/ONC%2021st%20Century%20Cures%20Act%20Final%20Rule%20Overview%20031220.pdf 
+Health IT Advisor Handbook 
+Page 147

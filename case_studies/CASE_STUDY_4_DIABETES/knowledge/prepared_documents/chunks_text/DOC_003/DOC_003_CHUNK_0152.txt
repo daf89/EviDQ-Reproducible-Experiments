@@ -1,0 +1,212 @@
+
+
+===== PDF PAGE 303 =====
+
+Part 5: The STEPS Instrument 
+ 
+5-4G-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+Household energy use 
+ 
+CORE:  Household energy use 
+The next questions ask about household energy use.  They include questions on the main device used for cooking, heating and lighting. 
+COOKING 
+Question 
+Response 
+Code 
+Is any of the food or drink consumed by 
+household members cooked or prepared 
+(cooking food, making tea/coffee, boiling drinking 
+water) at the household dwelling using a 
+cookstove, fire or other cooking device? 
+Yes 
+1 
+HE 1 
+No 
+2 If No, Go to HE5 
+Don’t know 
+77 
+What does this household use for cooking most 
+of the time (including cooking food, making 
+tea/coffee, boiling drinking water)? Please tell me 
+the cookstove or device that is used for the most 
+time. 
+Solar cooker (thermal energy, not solar panels)  1 If Yes, go to HE5 
+HE 2 
+Electric stove  2 If Yes, go to HE5 
+Piped natural gas stove 
+3 If Yes, go to HE5 
+Biogas stove 
+4 If Yes, go to HE5 
+Liquified petroleum gas/cooking gas stove 
+5 If Yes, go to HE5 
+Manufactured solid fuel stove 
+6  
+Traditional solid fuel stove (non-manufactured) 
+7  
+Liquid fuel stove (ethanol, alcohol, kerosene) 
+8 If Yes, go to HE4 
+Moveable firepan/3 stone stove/open fire 
+9 If Yes, go to HE4 
+Other 
+10 If Yes, go to HE2other 
+Don’t know 
+77  
+Please specify other 
+└─┴─┴─┴─┴─┘ 
+HE2other 
+What is the brand of the stove/device? 
+[INSERT COUNTRY SPECIFIC EXAMPLES] 
+Brand name 
+└─┴─┴─┴─┴─┘ 
+HE 3 
+What type of fuel or energy sources does this 
+household use most of the time for cooking in 
+this cookstove or device? 
+Alcohol/ethanol 
+1          
+HE4 
+Gasoline/diesel (not in generator) 
+2          
+Kerosene/paraffin 
+3          
+Coal/lignite  4          
+Charcoal  5         
+Wood  6          
+Agricultural or crop residue/grass/straw/shrubs/corn 
+cobs/woodchips/sawdust  7          
+Animal waste/dung 
+8          
+Processed biomass pellets/briquettes 
+9          
+Garbage/plastic 
+10          
+Other 
+ 11 If Yes, go to HE4other    
+Don’t know 
+77 
+Please specify other 
+└─┴─┴─┴─┴─┘ 
+HE4other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF PAGE 304 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4G-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+ 
+ 
+HEATING 
+Question 
+Response 
+Code 
+Does this household use any heating device or fire to 
+keep the dwelling/living quarters warm at any time during 
+the year? 
+Yes 
+1 
+HE5 
+No  2     If No, go to HE9 
+Don't know  77 
+What does this household use to heat the home when 
+needed? For example, do you use a space heater(s), or 
+use your cookstove in the winter for warmth? Please tell 
+me the heater, cookstove or heat system used for the 
+most time. 
+Central heating 
+1  
+HE6 
+Manufactured space heater 
+2  
+Traditional space heater 
+3  
+Manufactured cookstove 
+4 
+Traditional cookstove (non-manufactured) 
+5 
+Moveable heating pan 
+6  
+Open fire/three-stone stove 
+7  
+Heat pump 
+8  
+Other 
+9 If Yes, go to HE6other 
+Don’t know 
+77 
+Other (please specify) 
+└─┴─┴─┴─┴─┘ 
+HE6other 
+What type of fuel or energy source does this household 
+use most of the time for heating in this heater, 
+cookstove or device? 
+Electricity (including solar panels) 
+1      
+ 
+Piped natural gas 
+2         
+ 
+Liquified Petroleum Gas/cooking gas 
+3         
+ 
+Biogas 
+4         
+HE 7 
+Alcohol / ethanol 
+5 
+Gasoline/diesel 
+6 
+ 
+Kerosene/paraffin 
+7 
+ 
+Coal/lignite  8         
+ 
+Charcoal  9         
+ 
+Wood 
+10         
+ 
+Processed biomass pellets/briquettes  11               
+Agricultural or crop 
+residue/grass/straw/shrubs/corncobs/woodchi
+ps/sawdust  
+12         
+ 
+Animal waste/dung  13         
+ 
+Garbage/plastic 
+14         
+ 
+Other 
+15 If yes, go to HE7other      
+ 
+Don’t know 
+77          
+ 
+ 
+Please specify other 
+└─┴─┴─┴─┴─┘ 
+HE7other 

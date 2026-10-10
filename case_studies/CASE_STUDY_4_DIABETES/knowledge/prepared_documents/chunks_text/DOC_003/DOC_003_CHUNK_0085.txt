@@ -1,0 +1,107 @@
+
+
+===== PDF PAGE 169 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-9 
+WHO STEPS Surveillance 
+Recording information on the Android devices, Continued 
+ 
+ 
+ 
+“Don't know” 
+responses 
+Many questions in the STEPS Instrument have a “don’t know” or “refused” 
+option. For numeric fields, a pre-defined error code is used (typically 77 or 
+777) and must be entered in the field to indicate “don’t know” or “refused”. 
+The on-screen hint will instruct the data collector as to which code to enter. 
+ 
+“Don’t know” or “refused” responses should be used rarely and only as an 
+absolute last resort. Refer to the topic on Interview Skills earlier in this 
+Section for guidance on how to avoid “don’t know” or “refused” response 
+options. 
+ 
+ 
+ 
+Skip 
+instructions 
+Skips are programmed into the electronic instrument and are performed 
+automatically, thus skip instructions are not included. 
+ 
+ 
+ 
+Comments 
+If an interviewer needs to record any comments pertaining to the interview, 
+(for example, if the right arm was used instead of the left arm to take a blood 
+pressure measurement) these should be inserted in the comments field at the 
+end of the instrument (if such a field is included in the country-specific 
+instrument) or in the comments for the household in the STEPS app. 
+ 
+ 
+Records 
+management 
+During the data collection process, it is very likely that selected participants 
+will not be immediately available to complete the interview following their 
+selection. Thus, most interviewers will see a listing of households on their 
+device showing interviews that have been completed, deferred or partially 
+completed, as shown in the image below. 
+ 
+ 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 170 =====
+
+Recording information on the Android devices, Continued 
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Records 
+management 
+(cont.) 
+Each of the icons is explained below: 
+ 
+ 
+ 
+Note that partially completed interviews (i.e. interviews that have been 
+interrupted) and deferred interviews are always listed at the top, followed by 
+households where the listing of eligible members has not yet been done, then 
+finally completed and refused interviews. 
+ 
+In order to start an interview that has been deferred, the data collector simply 
+needs to tap on the household in the household list on their screen and then  
+tap on the “Interview Now” button on the screen. Similarly, to continue an 
+interrupted interview, simply tap on the household in the household list and 
+then tap on “Continue Interview”. 
+ 
+ 
+ 
+Submitting 
+data 
+Whenever there is a wi-fi connection available, it is recommended to submit 
+all data on the Android device to the server.  It is recommended to submit 
+both the household listing data and completed questionnaires at the same 
+time, using the button “Submit Data” on the STEPS home screen. 
+ 
+You will get a pop-up window in which to confirm the export. Both boxes 
+should be left checked to send both household listing data and questionnaire 
+data. 
+ 
+To submit your completed questionnaires, the STEPS app will automatically 
+take you to the listing of all completed forms in the ODK collect app. 
+Records can be selected by tapping on “Toggle All” at the bottom of the  
+screen. Alternatively, records can be selected one by one by ticking the boxes  
+to the right.   Once all records to be submitted have been checked, tap on   
+“Send Selected” at the bottom of the screen. If there are no unsubmitted 
+records, no records will be listed and you will see the message “Nothing 
+available to display. Try finalizing forms before sending.” 
+ 
+ 

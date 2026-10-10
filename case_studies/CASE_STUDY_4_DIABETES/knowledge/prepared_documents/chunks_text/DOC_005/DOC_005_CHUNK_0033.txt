@@ -1,0 +1,128 @@
+
+
+===== PDF PAGE 65 =====
+
+53
+Annex 6. Technical specifications and use of aneroid manual blood pressure measuring devices with cuff 
+Table 8. Qualitative tasks to be performed according to the type of inspection 
+Manual non-invasive BP sphygmomanometers (aneroid or mercury)
+Qualitative tasks
+Acceptance inspection
+Scheduled inspection
+Both kinds of inspection
+Chassis and housing
+Mount and fasteners
+Casters and brakes
+AC plug (oscillometric and non-oscillometric units)
+Line cord (oscillometric and non-oscillometric units)
+Strain reliefs
+Circuit breaker and fuse (oscillometric and non-
+oscillometric units)
+Tubes, hoses and bulb
+Fittings and connectors
+Filters
+Bleed valve
+Indicators and displays
+Zero pressure setting
+Transducers (non-oscilometric units)
+Controls and switches
+Battery and charger (oscillometric and non-
+oscillometric units)
+Battery (oscillometric and non-oscillometric units)
+Labelling
+Alarms
+Cuffs
+Gauge and column
+Accessories
+Table 9. Quantitative tasks to be performed according to the type of inspection
+Quantitative task
+Acceptance inspection
+Scheduled inspection
+Both kinds of inspection
+Pressure leakage
+Pressure accuracy
+
+
+===== PDF PAGE 66 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+54
+TECHNICAL SPECIFICATIONS FOR MANUAL BLOOD PRESSURE MEASURING DEVICES
+(Including information on the following where relevant or appropriate)
+i
+Version No.
+2
+ii
+Date of initial version
+iii
+Date of last modification
+December 2019
+iv
+Date of publication
+April 2020
+v
+Completed / submitted by
+WHO working group
+Name, category or coding
+1
+WHO category or code
+ 
+2
+Generic name
+Sphygmomanometer
+3
+Specific type or variation 
+(optional)
+Aneroid
+4
+GMDN name ©
+Sphygmomanometer, aneroid, manual
+5
+GMDN code ©
+16156
+6
+GMDN category ©
+04 Electromechanical medical devices
+7
+UMDNS name ©
+Sphygmomanometers, aneroid 
+8
+UMDNS code ©
+16156
+9
+UNSPS code (optional) ©
+ 
+10
+Alternative names/s 
+(optional) 
+BP meters (sphygmomanometers); BP manometer; aneroid sphygmomanometer
+6.	Nomenclature
+The benefits of adopting a global or universal nomenclature system have been described for electronic BPMDs 
+(11,12). The classification and nomenclature of manual devices are presented in Table 10.
+Table 10. Classification and nomenclature of manual BPMDs
+Generic name
+Sphygmomanometer
+Specific type or variation (optional)
+Aneroid
+GMDN name ©
+Sphygmomanometer, aneroid
+GMDN code ©
+16156
+GMDN category ©
+04 Electro-mechanical medical devices
+UMDNS name ©
+Sphygmomanometers, aneroid 
+UMDNS code ©
+16156
+Alternative names/s (optional)
+BP meters (sphygmomanometers); BP manometer; aneroid sphygmomanometer
+Alternative code/s (optional)
+MS 30892; MS 43524; S 43839
+Keywords (optional)
+BP, non-invasive, BP set, non-invasive BP, auscultation
+Alternative code/s (optional)
+ 
+Keywords (optional)
+Automatic electronic sphygmomanometers non-invasively
+7.	Technical specifications for manual BPMDs
+Full description of technical specifications for manual BPMD procurement:

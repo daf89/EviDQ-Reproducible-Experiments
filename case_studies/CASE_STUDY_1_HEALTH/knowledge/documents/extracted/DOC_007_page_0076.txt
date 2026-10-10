@@ -1,0 +1,126 @@
+Practice Point 1.3.1.2: Use more accurate methods when
+albuminuria is detected using less accurate methods.
+ Conﬁrm reagent strip positive albuminuria and/or pro-
+teinuria by quantitative laboratory measurement and
+express as a ratio to urine creatinine wherever possible
+(i.e., quantify the ACR or PCR if initial semiquantitative
+tests are positive).
+ Conﬁrm ACR ‡30 mg/g (‡3 mg/mmol) on a random
+untimed urine with a subsequent ﬁrst morning void in
+the morning midstream urine sample.
+Practice Point 1.3.1.3: Understand factors that may affect
+interpretation of measurements of urine albumin and
+urine creatinine and order conﬁrmatory tests as indicated
+(Table 16).
+The practice point advocating for the use of spot samples
+measuring albumin or protein greatly facilitates its incorpo-
+ration into clinical practice by avoiding the need for timed
+urine collections. Such spot samples can over- or underesti-
+mate urine albumin due to variation in dilution. Use of ACR
+or protein-to-creatinine ratio (PCR) in spot urine samples
+can decrease this error. ACR is an estimate of total urine al-
+bumin loss. The creatinine excretion rate varies substantially
+between people. ACR or PCR will overestimate urine albumin
+loss in people with low creatinine excretion and will under-
+estimate urine albumin or protein loss in people with very
+high creatinine excretion.
+The decision by prior guideline Work Groups not to have a
+sex-speciﬁc threshold and to use easy-to-remember values
+regardless of units may also lead to some misclassiﬁcation. On
+balance, the current Work Group agrees with this approach
+given the continued underutilization of urine albumin in the
+assessment of CKD.
+It is possible that replacing urinary total protein measure-
+ment with albumin measurement may cause nonalbuminuric
+(effectively tubular and overproduction) proteinuria to be
+missed. The signiﬁcance of this issue is thought to be low in
+adults.258–261
+In health, relatively small amounts of albumin (<30 mg/24
+hours) are lost in the urine. Urine albumin measurement
+provides a more speciﬁc and sensitive measure of changes in
+glomerular permeability than urinary total protein.262–264
+There is evidence that urinary albumin is a more sensitive test
+to enable the detection of glomerular pathology associated
+with some other systemic diseases including diabetes, hy-
+pertension, and systemic sclerosis.265–268
+Total protein measurement is problematic in urine due to
+imprecision and insensitivity at low concentrations—relatively
+large increases in urine albumin loss can occur without causing a
+signiﬁcant measurable increase in urinary total protein,264 large
+sample-to-sample variation in the amount and composition of
+proteins, high and variable concentrations of non–protein
+interfering substances relative to the protein concentration,
+and high inorganic ion content. Most laboratories currently
+use either turbidimetry or colorimetry269 to measure total
+protein. These methods do not give equal analytical speciﬁcity
+and sensitivity for all proteins, with a tendency269–271 to react
+more strongly with albumin than with globulin and other
+non-albumin
+proteins,272–275
+and
+many
+have
+signiﬁcant
+interferences causing falsely high results.275–277 There is no
+reference
+measurement
+procedure
+and
+no
+standardized
+reference material for urinary total protein measurement
+(https://jctlm.org/). The variety of methods and calibrants in
+use means that there is inevitably signiﬁcant between-
+laboratory variation.278–280
+Studies examining the diagnostic accuracy of tests to
+quantify urine albumin and other proteins usually compare
+tests with laboratory quantiﬁcation from 24-hour urine col-
+lections. It is generally recognized that a 24-hour sample is the
+deﬁnitive
+means
+of
+demonstrating
+the
+presence
+of
+Table 16| Factors causing biological variation in urine albumin or urine protein
+Factor
+Falsely elevated ACR or PCR
+False decrease in ACR or PCR
+Variability in urine
+albumin or protein
+Hematuria
+Increases albumin and protein in the urine
+Menstruation
+Increases albumin and protein in the urine
+Exercise259
+Increases albumin and protein in the urine
+Infection260,261
+Symptomatic urinary infection can cause
+production of protein from the organism
+Nonalbumin proteins
+Other proteins may be missed by albumin reagent strips
+Variability in urinary
+creatinine concentration
+Biological sex
+Females have lower urinary creatinine excretion,
+therefore higher ACR and PCR
+Males have higher urinary creatinine excretion,
+therefore lower ACR and PCR
+Weight73,160
+Low urinary creatinine excretion consistent with low
+weight can cause high ACR or PCR relative to
+timed excretion
+High urinary creatinine excretion consistent with high weight
+can cause low ACR or PCR relative to timed excretion
+Changes in creatinine
+excretion
+Lower urinary creatinine excretion with AKI
+or low-protein intake
+High urinary creatinine excretion with high-protein intake
+or exercise
+ACR, albumin-to-creatinine ratio; AKI, acute kidney injury; PCR, protein-to-creatinine ratio.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S191

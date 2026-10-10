@@ -1,0 +1,151 @@
+
+
+===== PDF PAGE 225 =====
+
+Preparing the Dataset, Continued 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-4 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Create 
+mandatory 
+variables 
+(cont.) 
+ 
+Variable 
+Description 
+WStep3 
+The complete analysis weight for Step 3 variables. 
+PSU 
+Unique identifiers for sampling units above the household 
+level (e.g. villages or enumeration areas). 
+Stratum 
+Unique identifiers for sampling units above PSU (e.g. 
+districts, urban/rural). If not needed, simply set Stratum=1 for 
+all records. 
+ 
+Note that there are simple Epi Info programs included within the provided 
+analysis programs to generate the first 4 variables in the above table, if you 
+wish to create these within Epi Info.   You will need to run AgeRange 1869  
+and then MissingAgeSex. The next topic in this Section provides instructions 
+on how to run programs in Epi Info. 
+ 
+ 
+ 
+Import data 
+Once the necessary folders have been created and the STEPS.mdb file has 
+been placed in the correct location on your computer, you will need to import 
+your data file into the STEPS.mdb file. 
+ 
+Prior to importing the file, count the number of variables (columns) in your 
+dataset to confirm the number is not greater than 255 (the maximum  
+allowable in Microsoft Access).  If the number of variables is greater than 
+255, you will need to split your dataset into two data tables, each with 
+Participant ID. Please contact the WHO Geneva STEPS team for help with 
+splitting your dataset and making the necessary modifications to the analysis 
+programs. 
+ 
+To import your data from Excel to Access, follow the instructions in the table 
+below. 
+Step 
+Action 
+1 
+Open the STEPS.mdb file and go to the External Data tab. Click on 
+“Excel” under this tab. 
+2 
+In the pop-up window, locate your Excel file and tick the option 
+“Import the source data into a new table in the current database.” 
+Click “OK”. 
+3 
+Click “Next” on the first screen of the Import Spreadsheet Wizard 
+pop-up window. 
+4 
+Tick the option “First Row Contains Column Headings” and click 
+“Next”. 
+5 
+Click “Next” on the next screen of the pop-up window. Then pick 
+the option “No primary key” and click “Next”. 
+6 
+Enter “MasterDataSet” in the Import to Table field. Click “Finish”. 
+Contact the WHO STEPS team if your dataset is not already in Excel and you 
+need assistance converting it to Excel in order to import it into Access. 
+
+
+===== PDF PAGE 226 =====
+
+Epi Info Overview 
+Continued on next page 
+4-2-5 
+WHO STEPS Surveillance 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+ 
+ 
+ 
+Introduction 
+Epi Info is a free software package developed by the US Centers for Disease 
+Control (CDC). While Epi Info has a broad range of functions, we are only 
+referring to the Analysis module within this guide.  Epi Info was chosen over  
+a decade ago as the statistical software for which the STEPS tools were 
+designed given that it is free, easy to use, and can appropriately adjust for 
+complex sample designs. 
+ 
+This overview refers to Epi Info 3.5, which is freely available on US CDC 
+website and on the STEPS website. (Note that currently Epi Info 7 does not 
+support Microsoft Access project files containing analysis programs and 
+therefore cannot yet be used with the STEPS analysis tools.) 
+ 
+ 
+Additional 
+Resources 
+This overview will only cover the basic skills needed to run the analysis 
+programs and locate and interpret the results. There is a more in-depth Epi 
+Info Training Guide available on the STEPS website. 
+ 
+ 
+ 
+Analysis 
+settings 
+Prior to running any analysis programs, you will need to make a slight change 
+to the settings of the Epi Info Analysis module in order to have confidence 
+intervals appear with your weighted analyses. 
+ 
+In the Epi Info Analysis module, click on “Set” at the bottom of the list of 
+commands down the left-hand side of the screen. Change the Statistics option  
+to “Advanced” and then click “OK” to save the change.   You should only   
+have to make this change once on your machine. 
+ 
+ 
+ 
+Running 
+Analysis 
+Programs 
+Follow the instructions in the table below to run an analysis program located 
+within your STEPS.mdb file. 
+ 
+Step 
+Action 
+1 
+Open the Epi Info Analysis module. 
+2 
+Click on “Open” in the Program Editor at the bottom of the screen. 
+3 
+In the Read Program pop-up window, you must check that the 
+Project File is your STEPS.mdb file. If it is not, click on “Change 
+Project” and locate and select your STEPS.mdb file. You should 
+only have to make this change once on your computer until you 
+work with another data file. 
+4 
+Select the program you wish to run from the Program drop down list 
+and click “OK”. 
+5 
+You will now see the program code in the Program Editor. Click 
+“Run” to run the program. It should complete in a few seconds. 
+6 
+The output of the program will have the same name as the program 
+and be located in the C:\STEPS\EpiInfo\Output Tables folder. 

@@ -1,0 +1,123 @@
+Grading the strength of the recommendations. The strength
+of a recommendation was graded by the Work Group as Level
+1 or Level 2 (Table 47). The strength of a recommendation was
+determined by the balance of beneﬁts and harms across all
+critical and important outcomes, the grading of the overall
+certainty of the evidence, patient values and preferences,
+resource use and costs, and other considerations (Table 48).
+Balance of beneﬁts and harms. The Work Group determined
+the anticipated net health beneﬁt on the basis of expected
+beneﬁts and harms across all critical outcomes from the
+underlying evidence review.
+The overall certainty of the evidence. The overall certainty of
+the evidence for each recommendation is determined by the
+certainty of evidence for critical outcomes. In general, the
+overall certainty of evidence is dictated by the critical
+outcome with the lowest certainty of evidence.936 This could
+be modiﬁed based on the relative importance of each
+outcome to the population of interest. The overall certainty
+of the evidence was graded high (A), moderate (B), low
+(C), or very low (D) (Table 46).
+Patient values and preferences. The Work Group included 2
+people living with CKD. These members’ unique perspectives
+and lived experience, in addition to the Work Group under-
+standing of patient preferences and priorities, informed de-
+cisions about the strength of the recommendations. A
+systematic review of qualitative studies on patient priorities
+and preferences was not undertaken for this guideline.
+Resources and other costs. Healthcare and non–healthcare
+resources, including all inputs in the treatment management
+pathway, were considered in grading the strength of a
+recommendation.937
+The
+following
+resources
+were
+considered: direct healthcare costs, non–healthcare resources
+(such
+as
+transportation
+and
+social
+services),
+informal
+caregiver resources (e.g., time of family and caregivers), and
+changes in productivity. No formal economic evaluations,
+including cost-effectiveness analysis, were conducted.
+Practice points. In addition to graded recommendations,
+KDIGO guidelines now include “practice points” to help
+healthcare providers better evaluate and implement the guid-
+ance from the expert Work Group. Practice points are consensus
+statements about a speciﬁc aspect of care and supplement rec-
+ommendations. These were developed when no formal sys-
+tematic evidence review was undertaken or there was
+insufﬁcient evidence to provide a graded recommendation.
+Practice points represent the expert judgment of the guideline
+Work Group, and they may be based on limited evidence.
+Practice points were sometimes formatted as a table, a ﬁgure, or
+an algorithm to make them easier to use in clinical practice.
+Format
+for
+guideline
+recommendations. Each
+guideline
+recommendation provides an assessment of the strength of
+the recommendation (Level 1, “we recommend” or Level 2,
+“we suggest”) and the overall certainty of the evidence (A, B,
+C, D). The recommendation statements are followed by Key
+information (Balance of beneﬁts and harms, Certainty of the
+evidence, Values and preferences, Resource use and costs,
+Considerations for implementation), and Rationale. Each
+recommendation is linked to relevant SoF tables. An under-
+lying rationale may also support a practice point.
+Table 47| KDIGO nomenclature and description for grading recommendations
+Grade
+Implications
+Patients
+Clinicians
+Policy
+Level 1
+“We recommend”
+Most people in your situation would want
+the recommended course of action, and
+only a small proportion would not.
+Most patients should receive the
+recommended course of action.
+The recommendation can be evaluated
+as a candidate for developing a policy
+or a performance measure.
+Level 2
+“We suggest”
+The majority of people in your situation
+would want the recommended course
+of action, but many would not.
+Different choices will be appropriate for
+different patients. Each patient needs
+help to arrive at a management
+decision consistent with their values
+and preferences.
+The recommendation is likely to require
+substantial debate and involvement of
+stakeholders before policy can be
+determined.
+KDIGO, Kidney Disease: Improving Global Outcomes.
+Table 48| Determinants of the strength of recommendation
+Factors
+Comment
+Balance of beneﬁts and harms
+The larger the difference between the desirable and undesirable effects, the more likely a strong recommendation
+is provided. The narrower the gradient, the more likely a weak recommendation is warranted.
+Certainty of the evidence
+The higher the certainty of evidence, the more likely a strong recommendation is warranted. However, there are
+exceptions for which low- or very low-certainty evidence will warrant a strong recommendation.
+Values and preferences
+The more variability or the more uncertainty in values and preferences, the more likely a weak recommendation is
+warranted. Values and preferences were obtained from the literature, where possible, or were assessed by the
+judgment of the Work Group, when robust evidence was not identiﬁed.
+Resources and other costs
+The higher the costs of an intervention—that is, the more resources consumed—the less likely a strong
+recommendation is warranted.
+www.kidney-international.org
+methods for guideline development
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S281

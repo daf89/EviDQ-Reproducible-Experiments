@@ -1,0 +1,66 @@
+
+
+===== PDF PAGE 7 =====
+
+iii
+Acknowledgements
+Acknowledgements
+The document is part of the WHO Medical device technical series. The overall guidance was prepared jointly 
+by the WHO Management of Noncommunicable Diseases and the Medical Devices and in Vitro Diagnostics 
+teams under the coordination of Cherian Varghese and Adriana Velazquez. 
+The document updates WHO’s 2005 guidance on blood pressure measuring devices (BPMDs) (1). It also 
+responds to concern about the lack of accurate, good-quality devices, especially in low-and middle-income 
+countries (LMIC), which was expressed at a workshop on blood pressure (BP) measurement during the 4th 
+WHO Global Forum on Medical Devices held in India on 13–15 December 2018. 
+Laura Patricia López Meneses, a WHO consultant, drafted the document, which was discussed at an expert 
+consultation on technical specifications for automated non-invasive BPMDs with cuff, that took place in 
+Geneva, Switzerland, from 25–26 June 2019. The meeting further discussed the scope and content of this 
+publication and steps for implementation. The document then underwent external review. The technical 
+experts who participated in the consultation, and provided technical review to the document, were: Aletta E 
+Schutte (North-West University, South African Medical Research Council, South Africa; University of New South 
+Wales; The George Institute for Global Health, Australia; International Society of Hypertension), Tammy Brady 
+(Johns Hopkins University, USA), Margaret Farrell (Resolve to Save Lives an initiative of Vital Strategies, USA), 
+Norm Campbell (University of Calgary, Canada), Mulugeta Mideksa (Biomedical Engineer, Ethiopia), Marc 
+Jaffe (Resolve to Save Lives an initiative of Vital Strategies and Kaiser Permanente, USA), Oommen John (The 
+George Institute for Global Health, India), Mohammad Ameel (WHO Collaborating Centre for Priority Medical 
+Devices and Health Technology Policy, Ministry of Health and Family Welfare, India) and Laura Alejandra 
+Velez (WHO Operations Support and Logistics). All participants declared any conflicts of interest, which were 
+reviewed by the WHO compliance unit.
+After the expert consultation, a second draft was prepared with input from WHO consultants: George Schmidt, 
+Eunice Lorenzo and Jennifer de Francesco, with organizational support and compilation by Valeria Montant, 
+WHO intern.
+WHO also acknowledges the technical input of members of the team for Management of Noncommunicable 
+Diseases: Allison Goldstein, Taskeen Khan, and Hongyi Xu, as well as Sheila Nakpil, Sophie Schmitt and Joel 
+Tarel, who provided administrative support for the project.
+Special acknowledgment to Nicola Toffelmire, Laura Patricia Lopez Meneses and Valeria Montant who did 
+final compilation of comments. 
+WHO thanks Resolve to Save Lives, an initiative of Vital Strategies, for financially supporting the preparation 
+of this publication.
+The publication was edited by Elisabeth Heseltine. Designed by L’IV Com Sàrl.
+
+
+===== PDF PAGE 8 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+iv
+Acronyms and abbreviations 
+ANSI
+American National Standards Institute 
+BP
+Blood Pressure
+BPMD
+Blood Pressure Measuring Device
+IEC 
+International Electrotechnical Commission 
+ISO
+International Organization for Standardization
+LED
+light-emitting diode
+LMIC
+low- and middle-income countries
+MAP
+Mean Arterial Pressure
+UNDP
+United Nations Development Programme 
+WHO
+World Health Organization

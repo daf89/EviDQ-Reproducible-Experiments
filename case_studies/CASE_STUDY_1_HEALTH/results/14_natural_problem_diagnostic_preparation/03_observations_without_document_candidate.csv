@@ -1,0 +1,7 @@
+﻿diagnostic_candidate_id,statistical_observation_id,feature,observation_type,statistical_description,n_affected,n_reference,support,statistical_error_status,chain_id,documented_problem_family,documented_chain_rationale,structural_candidate,semantic_diagnostic_status,document_supports_observed_problem,error_established,correction_authorized
+DIAG_00001,STAT_OBS_0001,gagne_sum_tm1,ZERO_VALUES,21328 zero values observed in Dataset_REF.,21328,48784,0.437192522138406,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False
+DIAG_00002,STAT_OBS_0002,gagne_sum_tm1,IQR_EXTREME_OBSERVATIONS,"2557 observations fall outside the descriptive 1.5×IQR interval [-3.0, 5.0].",2557,48784,0.0524147261397179,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False
+DIAG_00069,STAT_OBS_0014,dem_age_band_65-74_tm1,ZERO_VALUES,41844 zero values observed in Dataset_REF.,41844,48784,0.8577402427025255,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False
+DIAG_00088,STAT_OBS_0018,cre_tests_tm1,ZERO_VALUES,24407 zero values observed in Dataset_REF.,24407,48784,0.500307477861594,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False
+DIAG_00089,STAT_OBS_0019,cre_tests_tm1,IQR_EXTREME_OBSERVATIONS,"5354 observations fall outside the descriptive 1.5×IQR interval [-1.5, 2.5].",5354,48784,0.1097490980649393,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False
+DIAG_00102,STAT_OBS_0022,dem_age_band_75+_tm1,ZERO_VALUES,45355 zero values observed in Dataset_REF.,45355,48784,0.9297105608396196,NOT_ESTABLISHED,,,,False,NOT_EVALUATED,False,False,False

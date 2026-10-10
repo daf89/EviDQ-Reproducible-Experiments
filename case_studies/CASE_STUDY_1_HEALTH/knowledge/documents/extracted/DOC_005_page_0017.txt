@@ -1,0 +1,30 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+17
+La décision
+La décision de la HAS est notifiée dans le rapport de certification qui contient les éléments 
+suivants :
+Préambule
+Rappelle de manière synthétique les éléments clés du dispositif de 
+certification des établissements de santé pour la qualité des soins, 
+ses objectifs et les méthodes de visite.
+Résultats de certification
+Affiche la décision de certification validée par le Collège de la HAS.
+Présentation de 
+l’établissement de santé
+Assure une présentation synthétique des principales 
+caractéristiques de l’établissement de santé.
+Présentation des résultats
+- Restitue la note globale de satisfaction aux attendus du référentiel 
+pour les décisions de certification.
+- Restitue par chapitre du référentiel les synthèses, les résultats 
+chiffrés par objectifs et leurs visualisations graphiques.
+La HAS base sa décision sur :
+• • l’écart entre les résultats attendus (cible = 100 %) et les résultats obtenus sur les 
+chapitres, objectifs et critères, particulièrement les critères impératifs ;
+• • l’existence de pratiques et/ou organisations à risque pour les patients ou les 
+professionnels ;
+• • la récurrence d’insuffisances évoquées lors des précédentes certifications ou 
+confirmées par la valeur des indicateurs qualité et sécurité des soins (IQSS) ;
+• • la criticité des anomalies éventuellement constatées sur les critères impératifs ; 
+• • les observations de l’établissement.
+La HAS prend sa décision selon 4 niveaux :

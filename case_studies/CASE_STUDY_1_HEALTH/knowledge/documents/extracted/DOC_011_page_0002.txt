@@ -1,0 +1,27 @@
+Abstract 
+This report focuses on the MEPS Medical Provider Component (MPC) data 
+collection effort that collected information from medical providers on health care 
+events that took place between January 1, 2016, and December 31, 2016. The 
+report describes the MPC sample design, survey methodology, procedures for data 
+collection, sample sizes and response rates as well as the relationship between the 
+MEPS Household Component (HC) survey and the MPC survey. Additionally, it 
+includes information on the Medical Organizations Survey (MOS), which was 
+new in the 2015 MPC data year collection and was fielded again in the 2016 MPC. 
+The MOS was funded in part by support from the Robert Wood Johnson 
+Foundation. 
+Suggested Citation 
+Stagnitti, M.N., Machlin, S.R., Zodet, M.W., Saleska, E. Design, Methods, and 
+Field Results of the Medical Expenditure Panel Survey Medical Provider 
+Component (MEPS MPC) including the Medical Organizations Survey (MOS)—
+2016 Data Year. Methodology Report #32. October 2018. Agency for Healthcare 
+Research and Quality, Rockville, MD. 
+https://meps.ahrq.gov/data_files/publications/mr32/mr32.pdf 
+∗ ∗ ∗ 
+Additional information on MEPS is available from the MEPS Project Director at 
+MEPSProjectDirector@ahrq.hhs.gov. 
+Center for Financing, Access, and Cost Trends 
+Agency for Healthcare Research and Quality 
+5600 Fishers Lane, Mailstop 07W41A 
+Rockville, MD 20857 
+http://www.meps.ahrq.gov 
+ii

@@ -1,0 +1,72 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+291
+Libellé
+Définition
+Identification des risques 
+Processus permettant de trouver, recenser et caractériser les éléments du risque. Les éléments peuvent 
+inclure les sources ou les phénomènes dangereux, les événements, les conséquences et la probabilité.
+Identification du patient
+Opération qui consiste à attribuer un identifiant ou à retrouver un ou plusieurs identifiants à partir des 
+caractéristiques (nom, prénom, sexe, date de naissance, etc.) d’un patient afin de retrouver les informations 
+liées à ce patient, notamment dans le cadre de l’identitovigilance.
+Identitovigilance
+Système de surveillance et de gestion des risques liés à l’identification des patients. Il vise à garantir 
+l’identification correcte des patients tout au long de leur prise en charge à l’hôpital et dans les échanges de 
+données médicales et administratives. L’objectif est de garantir la qualité et la sécurité des prises en charge 
+en fiabilisant les données.
+Indicateur
+Outil de mesure permettant de caractériser une situation évolutive, une action ou les conséquences 
+d’une action, de façon à les évaluer et à les comparer à intervalles définis. Les indicateurs doivent être 
+élaborés en relation avec les objectifs d’un projet.
+Interopérabilité (des 
+systèmes d’information)
+Capacité que possède un produit ou un système informatique à fonctionner avec d’autres produits ou 
+systèmes existants ou futurs. C’est, en d’autres mots, la possibilité qu’ont des systèmes à fonctionner 
+ensemble, à « communiquer » entre eux. Pour permettre cette communication, il est donc nécessaire d’utiliser 
+un langage commun. Rendre des systèmes interopérables, c’est en résumé leur permettre de parler 
+un langage commun pour travailler ensemble.
+Indicateur de qualité et 
+sécurité des soins (IQSS)
+Outils d’amélioration de la qualité des soins et de la sécurité des patients, de comparaison 
+inter-établissements et d’aide à la décision développés par la HAS. Ils sont aussi utilisés afin de répondre 
+à l’exigence de transparence portée par les usagers. 
+Leadership
+Processus par lequel une personne influence un groupe de personnes pour atteindre un objectif commun. 
+Un leadership approprié favorise la performance, la sécurité et le bien-être de l’équipe.
+Lettre de sortie 
+ou Lettre de liaison
+Élément essentiel de la sécurisation de la prise en charge, elle comprend les principaux éléments résumés 
+relatifs au séjour du patient ainsi que les éléments utiles à la continuité des soins hôpital ville (ou structure 
+d’aval). Elle est destinée au patient (« lettre de sortie », remis en main propre) et/ou aux professionnels 
+de santé amenés à prendre en charge le patient en aval du séjour que ce soit en ville ou dans un autre 
+établissement de santé = lettre de liaison.
+Maîtrise du risque 
+Actions de mise en œuvre des décisions de management du risque. La maîtrise du risque peut impliquer 
+la surveillance, la réévaluation et la mise en conformité avec les décisions.
+Maltraitance
+Il y a maltraitance d’une personne en situation de vulnérabilité lorsqu’un geste, une parole, une action ou un 
+défaut d’action, compromet ou porte atteinte à son éveloppement, à ses droits, à ses besoins fondamentaux, 
+et/ou à sa santé et que cette atteinte intervient dans une relation de confiance, de dépendance, de soin ou 
+d’accompagnement. Les situations de maltraitance peuvent être ponctuelles ou durables, intentionnelles ou 
+non; leur origine peut être individuelle, collective ou institutionnelle. Les violences et les négligences peuvent 
+revêtir des formes multiples et associées au sein de ces situations.
+Management de la qualité 
+Aptitude à satisfaire des besoins exprimés et implicites, par l’engagement de la structure hospitalière et des 
+professionnels dans des actions permanentes et systématiques d’amélioration du service rendu au patient. 
+Le concept de management de la qualité est lié à celui d’amélioration continue de la qualité. Il correspond à 
+un mode de gestion de l’établissement de santé qui, pour atteindre les objectifs stratégiques qu’il s’est fixés, 
+intègre une démarche d’amélioration continue de la qualité généralisée à tous les secteurs.
+Management des risques
+Démarche de gestion des risques qui a pour but d’assurer la sécurité du patient et des soins qui sont délivrés 
+et en particulier de diminuer le risque de survenue d’événements indésirables pour le patient et la gravité 
+de leurs conséquences. 
+Médicaments dérivés 
+du sang (MDS) 
+Les médicaments dérivés du sang sont des médicaments à base de sang ou de composants de sang 
+préparés industriellement. Il s’agit notamment de l’albumine, des facteurs de coagulation ou encore 
+des immunoglobulines d’origine humaine.
+Les médicaments dérivés du sang diffèrent des produits sanguins quant à la réglementation qui leur est 
+applicable.
+Préalablement à leur commercialisation, ces produits doivent obtenir une autorisation de mise sur le marché 
+ou encore de respecter des règles spécifiques concernant la publicité.

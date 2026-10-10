@@ -1,0 +1,144 @@
+
+
+===== PDF PAGE 439 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-80 
+WHO STEPS Surveillance 
+ 
+ 
+Cholesterol 
+advice by 
+traditional 
+healer 
+Description: Percentage of respondents who are have sought advice or treatment 
+from a traditional healer for raised cholesterol among those previously diagnosed. 
+ 
+Instrument questions: 
+• Have you ever had your cholesterol (fat levels in your blood) measured by a 
+doctor or other health worker? 
+• Have you ever been told by a doctor or other health worker that you have raised 
+cholesterol? 
+• Have you ever seen a traditional healer for raised cholesterol? 
+• Are you currently taking any herbal or traditional remedy for your raised 
+cholesterol? 
+ 
+Seen a traditional healer for raised cholesterol among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Currently taking herbal or traditional treatment for raised cholesterol among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H12, H13a, H15, H16 
+• Epi Info program name: Hcholtrad (unweighted); HcholtradWT (weighted) 
+ 
+
+
+===== PDF PAGE 440 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-81 
+WHO STEPS Surveillance 
+ 
+ 
+History of Cardiovascular Diseases 
+ 
+ 
+History of 
+cardio- 
+vascular 
+diseases 
+Description: Percentage of respondents who have ever had a heart attack or chest 
+pain from heart disease (angina) or a stroke among all respondents. 
+Instrument questions: 
+• Have you ever had a heart attack or chest pain from heart disease (angina) or a 
+stroke (cerebrovascular accident or incident)? 
+ 
+Having ever had a heart attack or chest pain from heart disease or a stroke 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+CVD 
+95% CI 
+history 
+% 
+n 
+CVD 
+95% CI 
+history 
+% 
+n 
+CVD 
+95% CI 
+history 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: H17 
+• Epi Info program name: Hcvd (unweighted); HcvdWT (weighted) 
+ 

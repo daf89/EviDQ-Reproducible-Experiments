@@ -1,0 +1,13 @@
+﻿feature,document_nodes,statistical_nodes,reference_profiles,statistical_observations,candidate_conditions,validated_cross_source_relations,has_document_source,has_statistical_source
+cost_emergency_tm1,45,4,1,2,1,1,True,True
+cost_home_health_tm1,45,4,1,2,1,1,True,True
+cost_ip_medical_tm1,45,4,1,2,1,1,True,True
+cost_laboratory_tm1,45,6,1,3,2,1,True,True
+cost_op_specialists_tm1,45,4,1,2,1,1,True,True
+cost_op_surgery_tm1,45,4,1,2,1,1,True,True
+cost_other_tm1,42,4,1,2,1,1,True,True
+cost_pharmacy_tm1,46,7,1,3,3,0,True,True
+cre_tests_tm1,10,4,1,2,1,0,True,True
+dem_age_band_65-74_tm1,0,2,1,1,0,0,False,True
+dem_age_band_75+_tm1,0,2,1,1,0,0,False,True
+gagne_sum_tm1,0,4,1,2,1,0,False,True

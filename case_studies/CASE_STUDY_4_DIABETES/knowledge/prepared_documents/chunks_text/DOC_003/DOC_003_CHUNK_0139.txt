@@ -1,0 +1,184 @@
+
+
+===== PDF PAGE 277 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-13 
+ 
+ 
+ 
+CORE: History of Raised Total Cholesterol 
+Questions 
+Response 
+Code 
+Have you ever had your cholesterol (fat levels in your blood) 
+Yes 
+No 
+1 
+2 
+measured by a doctor or other health worker? 
+Ask the participant to only consider measurements done by a 
+doctor or other health worker. 
+If No, go to H17 
+H12 
+Have you ever been told by a doctor or other health worker that 
+you have raised cholesterol? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+If No, go to H17 
+H13a 
+Were you first told in the past 12 months? 
+Only for those that have previously been diagnosed with raised 
+total cholesterol. 
+Yes 
+No 
+1 
+2 
+H13b 
+In the past two weeks, have you taken any oral treatment 
+(medication) for raised total cholesterol prescribed by a doctor 
+or other health worker? 
+Ask the participant to only consider drugs for raised total 
+cholesterol prescribed by a doctor or other health worker. 
+Yes 
+No 
+1 
+2 
+H14 
+Have you ever seen a traditional healer for raised cholesterol? 
+Yes 
+1 
+H15 
+Select the appropriate response. 
+No 
+2 
+Are you currently taking any herbal or traditional remedy for 
+your raised cholesterol? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H16 
+ 
+CORE: History of Cardiovascular Diseases 
+Have you ever had a heart attack or chest pain from heart 
+disease (angina) or a stroke (cerebrovascular accident or 
+incident)? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H17 
+Are you currently taking aspirin regularly to prevent or treat heart 
+disease? 
+“Regularly” means on a daily or almost daily basis. 
+Yes 
+No 
+1 
+2 
+H18 
+Are you currently taking statins 
+(Lovastatin/Simvastatin/Atorvastatin or any other statin) 
+regularly to prevent or treat heart disease? 
+“Regularly” means on a daily or almost daily basis. 
+Yes 
+No 
+1 
+2 
+H19 
+
+
+===== PDF PAGE 278 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-14 
+ 
+ 
+ 
+CORE: Lifestyle Advice 
+Question 
+Response 
+Code 
+During the past 12 months, have you visited a doctor or other 
+health worker? 
+Yes 
+No 
+1 
+2 If No and C1=1, go to M1 
+If No and C1=2, go to CX1 
+H20 
+During any of your visits to a doctor or other health worker in the past 12 months, were you advised to do any of the following? 
+(RECORD FOR EACH) 
+Select the appropriate response. Ask the participant to only consider advice from a doctor or other health worker. 
+Quit using tobacco or don’t start 
+Yes 
+No 
+1 
+2 
+H20a 
+Reduce salt in your diet 
+Yes 
+No 
+1 
+2 
+H20b 
+Eat at least five servings of fruit and/or vegetables each day 
+Yes 
+No 
+1 
+2 
+H20c 
+Reduce fat in your diet 
+Yes 
+No 
+1 
+2 
+H20d 
+Start or do more physical activity 
+Yes 
+No 
+1 
+2 
+H20e 
+Maintain a healthy body weight or lose weight 
+Yes 
+No 
+1 
+2 
+H20f 
+Reduce sugary beverages in your diet 
+Yes 
+No 
+1 
+2 
+If C1=1 go to M1 
+If C1=1 go to M1 
+H20g 
+ 
+CORE (for women only): Cervical Cancer Screening 
+The next question asks about cervical cancer prevention. Screening tests for cervical cancer prevention can be done in different ways, 
+including Visual Inspection with Acetic Acid/vinegar (VIA), pap smear and Human Papillomavirus (HPV) test. VIA is an inspection of the 
+surface of the uterine cervix after acetic acid (or vinegar) has been applied to it. For both pap smear and HPV test, a doctor or nurse uses a 
+swab to wipe from inside your vagina, take a sample and send it to a laboratory. It is even possible that you were given the swab yourself and 
+asked to swab the inside of your vagina. The laboratory checks for abnormal cell changes if a pap smear is done, and for the HP virus if an 
+HPV test is done. 
+Read this opening statement out loud. It should not be omitted. 
+Have you ever had a screening test for cervical cancer, using 
+any of these methods described above? 
+Select the appropriate response. 
+Yes 
+1 
+No 
+2 
+Don’t know 
+77 
+CX1 

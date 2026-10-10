@@ -1,0 +1,44 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+Building Block 
+Topic/Process 
+EHR Functionality 
+Referral Management 
+Referral tracking and mgmt. 
+process 
+Referral Management Process 
+Care Coordination 
+Insurance eligibility checks 
+Auto-insurance eligibility checks 
+Comprehensiveness 
+and care 
+Coordination 
+Share data during transfer of care 
+Populate care plan and encounter summary 
+Manage referrals 
+Referral management system 
+Medication management and 
+reconciliation 
+e-prescribing, Access to Medication lists 
+(internal, external), auto-duplication alert, 
+identify active medications, maintain history, 
+evidence prescription was filled 
+Clinical information reconciliation 
+Access to lists (external, internal) of problems, 
+diagnoses, allergies, interventions (labs, tests); 
+reconciliation signoff and reporting 
+Continuous Improvement 
+Template of the 
+Evaluation and incorporation of 
+new technical tools 
+APIs 
+Future 
+Incorporating and contributing to 
+EBM/Learning Health System 
+Bidirectional HIE 
+Advanced analytics 
+Risk Stratification; predictive modeling 
+Health IT Advisor Handbook 
+Page 124

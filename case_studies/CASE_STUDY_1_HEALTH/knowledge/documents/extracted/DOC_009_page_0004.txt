@@ -1,0 +1,72 @@
+The following data elements were included in the MPC sample in order to identify each pair:
+Unique person and Provider IDs used to link the data collected through the MPC back to the household‑generated data for
+the matching process
+Identifying information of the household member, such as name, address, gender, and date of birth, parent name if person
+under age 18, spouse name (if married), and policy holder name for insured persons
+Identifying information about each provider, such as name, address, and telephone number
+At the pair level, the number of each type of event identified for the person for that provider and any other HC variables
+necessary to assign priority flags (see section 2.2 below).
+These data elements are necessary to define a pair, a key data collection unit of the MPC. The extracted file records were
+sorted so that all pairs for a provider were listed together, thereby creating provider‑level records. (For more information
+about the data elements included in the extraction files, see the deliverable OP4‑7 – Consolidated Non‑SBD Sample
+Preparation and Implementation Report.)
+Return to Table of Contents
+2.2 Sample Maintenance
+In order to facilitate data collection, RTI sorted providers into contact groups, that is, groups where several providers
+share the same contact information (e.g., telephone number, practice name, street number, and provider name). Potential
+groups were carefully reviewed to confirm that grouping was appropriate. In the formation of contact groups, provider
+identification numbers and other detailed information from the HC were preserved to assure accurate linkages back to the
+initial sample files. During the MPC data collection, the IDCS enabled contact groups to change as facilities could be
+restructured, bought out by other entities, or change location of the medical and/or patient account records.
+Contact Groups
+All pairs were assigned to contact groups. A pair was assigned to a contact group first by checking whether the provider in
+the 2024 MPC sample was in a previous cycle’s MPC sample. If so, the pair was assigned to the provider’s most recent
+contact group. Providers not found in a previous MPC sample were grouped to form a new contact group based on the
+provider’s contact information. An automated process grouped pairs by telephone number, address fields, and a
+SOUNDEX program in SAS to identify similar practice or provider names.
+As in prior cycles, before delivery of sampled pairs, Westat checked for duplicate pairs based on unique identification
+numbers assigned to each person (PERSID) and provider (PROVID). The sample preparation process at RTI included
+further checking for duplicate pairs by searching the sample files for pairs that had the same PERSID and NPI identifier
+but a different PROVID. When duplicate pairs were identified, one pair was assigned a code that indicated the pair had
+been merged. This merged code was used to prevent the pair from being fielded. The other pair was fielded for data
+collection.
+An additional check searched pairs within the same RU for instances where pairs had the same provider telephone number
+(reasoning that in these situations, providers with the same telephone numbers might be the same individual). Suspected
+duplicate providers were confirmed through manual review of provider names and addresses and, if associated with the
+same person, merged as above.
+HMO providers were grouped together and assigned to a small team to coordinate contacts with common corporate
+offices rather than with the individual providers. This grouping facilitated efficient contacts for recruiting HMO providers
+into the study and helped to make records abstraction more consistent and efficient.
+Provider Type Classification
+Provider type classification in the MPC is critically important operationally for several reasons. Because Hospital events
+are likely to be associated with high expenditures, it is important to track provider type participation to ensure that
+Hospital providers are responsive to the survey. Hospitals are often complex environments, especially for data collection
+projects, and thus the MPC data collection instruments are designed to assist the data collection staff in dealing with
+multiple points of contact within the Hospital and with potentially more complicated medical records and patient account
+information. The MPC Hospital data collection forms are also designed to facilitate the collection of SBD information
+associated with Hospital events.
+Provider type was assigned at both the pair level and the provider level. The initial provider type for the pair was assigned
+during the HC interview when the household respondent identified the type of medical events associated with a medical
+provider. During sample processing, the household provider type is updated. First, labs and dialysis centers, imaging
+centers, and surgery centers are assigned a Hospital provider type. Second, providers are assigned a Hospital provider
+type if they were in a Hospital contact group in the previous wave.
+Note that the provider type assigned during the HC could have been incorrect because of a household respondent’s
+misunderstanding about a provider’s status. Typically, this occurred when a household respondent confused Hospital and
+Office‑Based Doctors. Efforts were made to correct the classification during sample preparation and during the field
+period.
+Following the sorting of provider pairs into contact groups, RTI reviewed the composition of contact groups to see if
+provider classification at the pair level was consistent within contact group. Inconsistencies, such as an OBD pair in a
+Hospital contact group, were resolved by creating a new contact group, so that all providers within a contact group were
+consistent.
+In addition, during data collection, staff periodically learned that the provider type was incorrect and the field was updated
+so that the appropriate event form could be administered. The most common change was to a Hospital provider from
+another provider type, typically an OBD provider. This provider type change was important so that the appropriate
+Hospital Event Form could be used to collect SBD information. Updating provider type was uncommon among other
+provider types.
+As a result of such provider type changes during sample preparation and during data collection, in the 2024 MPC, the
+count of Hospital pairs increased by 1,106 pairs, an increase of 11% between the count of Hospital pairs in the HC sample
+and the count at the close of the field period. Among changes to Hospital provider type, 28% occurred during sample
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+4/40

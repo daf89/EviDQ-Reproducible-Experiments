@@ -1,0 +1,474 @@
+considered as having CKD.55 The CKD-PC investigators
+repeated all 10 heatmaps using creatinine- and cystatin C–
+based eGFR (eGFRcr-cys), in part to evaluate whether the
+weaker associations of CKD G3a, A1 with clinical outcomes
+were caused by the limitations of the speciﬁc creatinine-based
+equation eGFRcr, compared with eGFRcr-cys, which has been
+established as a better approximation of measured GFR
+(mGFR) than eGFRcr (Figure 612).
+Overall
+eGFRcr
+<10
+10–29
+30–299
+300–999
+1000+
+<10
+10–29
+30–299
+105+
+1.6
+2.2
+2.9
+4.3
+5.8
+1.1
+1.4
+2.0
+90–104
+ref
+1.3
+1.8
+2.6
+3.1
+ref
+1.3
+1.6
+60–89
+1.0
+1.3
+1.7
+2.2
+2.8
+1.1
+1.3
+1.6
+45–59
+1.3
+1.6
+2.0
+2.4
+3.1
+1.4
+1.7
+2.0
+30–44
+1.8
+2.0
+2.5
+3.2
+3.9
+1.9
+2.0
+2.4
+15–29
+2.8
+2.8
+3.3
+4.1
+5.6
+2.7
+3.1
+3.1
+<15
+4.6
+5.0
+5.3
+6.0
+7.0
+4.6
+5.6
+4.8
+105+
+1.4
+2.0
+3.0
+4.1
+5.4
+1.2
+1.6
+2.2
+90–104
+ref
+1.3
+1.9
+2.7
+3.6
+ref
+1.3
+1.6
+60–89
+1.0
+1.4
+1.7
+2.4
+3.2
+1.1
+1.3
+1.7
+45–59
+1.4
+1.7
+2.2
+2.8
+3.8
+1.4
+1.6
+1.9
+30–44
+2.0
+2.3
+2.8
+3.7
+4.6
+1.6
+1.7
+2.0
+15–29
+3.2
+3.1
+3.5
+5.0
+6.5
+1.8
+2.1
+2.1
+<15
+6.1
+6.4
+6.4
+7.3
+8.2
+3.2
+2.8
+2.9
+105+
+0.5
+1.2
+2.9
+7.7
+25
+1.2
+1.7
+2.7
+90–104
+ref
+1.8
+4.3
+12
+43
+ref
+1.3
+2.0
+60–89
+2.3
+4.9
+10
+27
+85
+1.1
+1.4
+1.9
+45–59
+13
+19
+37
+89
+236
+1.6
+1.8
+2.4
+30–44
+50
+58
+115
+240
+463
+2.2
+2.5
+3.1
+15–29
+283
+301
+443
+796
+1253
+3.6
+3.5
+4.1
+<15
+770
+1040
+1618
+2297
+2547
+5.1
+5.7
+5.8
+105+
+1.0
+1.6
+2.4
+3.7
+5.5
+1.1
+1.3
+1.7
+90–104
+ref
+1.4
+2.1
+3.2
+5.0
+ref
+1.2
+1.5
+60–89
+1.6
+2.2
+3.1
+4.3
+6.7
+1.0
+1.2
+1.4
+45–59
+3.5
+4.0
+5.1
+6.9
+9.0
+1.2
+1.3
+1.5
+30–44
+5.6
+5.9
+6.8
+8.6
+11
+1.4
+1.5
+1.7
+15–29
+8.3
+8.0
+8.5
+9.9
+10
+1.9
+1.8
+2.0
+<15
+8.5
+11
+7.9
+5.5
+5.7
+2.6
+2.5
+3.1
+105+
+1.4
+1.7
+2.1
+2.1
+2.3
+0.9
+1.4
+1.9
+90–104
+ref
+1.1
+1.3
+1.5
+1.7
+ref
+1.3
+1.9
+60–89
+1.0
+1.1
+1.3
+1.5
+1.8
+1.0
+1.3
+1.8
+45–59
+1.3
+1.3
+1.5
+1.7
+2.1
+1.5
+1.7
+2.1
+Urine albumin-creatinine r
+g
+/
+g
+m
+ ,o
+it
+a
+r e
+n
+i
+n
+it
+a
+e
+r
+c-
+n
+i
+m
+u
+b
+la e
+n
+ir
+U
+g
+/
+g
+m
+ ,o
+it
+a
+All-cause mortality: 82 cohorts
+26 444 384 participants; 2 604 028 events 
+Myocardial infarction: 64 cohorts 
+22 838 356 participants; 451 063 events 
+Kidney failure with replacement therapy: 57 cohorts 
+25 466 956 participants; 158 846 events 
+Heart failure: 61 cohorts
+24 603 016 participants; 1 132 443 events 
+Cardiovascular mortality: 76 cohorts
+26 022 346 participants; 776 441 events 
+Stroke: 68 cohorts
+24 746 436 participants; 461 785 events 
+Acute kidney injury: 49 cohorts
+23 914 614 participants; 1 408 929 events 
+22 886 642 participants; 1 068 701 events 
+Hospitalization: 49 cohorts
+25 426 722 participants; 8 398 637 events 
+Peripheral artery disease: 54 cohorts
+24 830 794 participants; 378 924 events 
+30–44
+1.5
+1.5
+1.6
+1.9
+2.3
+2.0
+1.9
+2.5
+15–29
+1.8
+1.8
+1.9
+2.4
+2.8
+3.3
+3.3
+3.8
+<15
+2.7
+2.8
+3.0
+3.2
+3.8
+9.1
+9.0
+9.6
+300–999
+1000+
+2.7
+3.8
+2.2
+3.2
+2.2
+3.1
+2.8
+3.7
+3.2
+4.3
+4.2
+5.1
+6.0
+6.0
+3.1
+4.3
+2.4
+3.1
+2.2
+3.0
+2.3
+2.9
+2.4
+3.0
+2.7
+3.0
+3.2
+3.8
+4.2
+6.9
+2.8
+4.2
+2.7
+4.2
+3.4
+5.0
+4.2
+6.5
+5.8
+8.1
+7.9
+9.9
+2.4
+3.5
+1.9
+2.3
+1.7
+2.2
+1.8
+2.4
+2.0
+2.4
+2.6
+3.0
+3.6
+4.2
+2.8
+5.0
+2.8
+4.3
+2.5
+3.8
+2.9
+4.2
+3.6
+5.0
+5.7
+8.1
+13
+14
+Figure 5 | Associations of chronic kidney disease (CKD) staging by estimated glomerular ﬁltration rate by creatinine (eGFRcr) and
+albumin-to-creatinine ratio (ACR) categories and risks for 10 common complications in multivariable-adjusted analyses. Numbers
+reﬂect the adjusted hazard ratio compared with the reference cell. Adjustment variables included age, sex, smoking status (current, former, or
+never), systolic blood pressure, total cholesterol, high-density lipoprotein cholesterol, body mass index, use of antihypertensive medications,
+and a medical history of diabetes, coronary heart disease, stroke, heart failure, atrial ﬁbrillation, peripheral artery disease, cancer, and chronic
+obstructive pulmonary disease, where relevant. The colors were determined for each outcome separately using the following rule: the
+percentile shaded the darkest green color corresponds to the proportion of cells in the grid without CKD (e.g., 6 of 35 cells with eGFR $60 ml/
+min per 1.73 m2 and ACR <30 mg/g [<3 mg/mmol]), and the percentile shaded the darkest red color corresponds to proportion expected to be
+at highest risk (e.g., 11 of 35 cells with eGFR <15 ml/min per 1.73 m2 and albumin-to-creatinine ratio 1000þ mg/g [100þ mg/mmol]). In this
+manner, the numbers of green and red cells are consistent across outcomes, but the patterns are allowed to differ. ref, reference cell.
+Reproduced with permission from JAMA, Writing Group for the CKD Prognosis Consortium; Grams ME, Coresh J, Matsushita K, et al. Estimated
+glomerular ﬁltration rate, albuminuria, and adverse outcomes: an individual-participant data meta-analysis. JAMA. 2023;330(13):1266–1277.12
+Copyright ª 2023 American Medical Association. All rights reserved.
+www.kidney-international.org
+relative and absolute risks associated with CKD
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S145

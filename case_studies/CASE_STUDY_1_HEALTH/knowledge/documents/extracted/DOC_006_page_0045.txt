@@ -1,0 +1,45 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+TIP 3: COMPARE EHR DATA WITH A GOLD STANDARD, BENCHMARK, OR 
+ADDITIONAL DATA SOURCES” 
+When direct access to a clinic’s EHR is available, it may be possible to compare supporting 
+documentation within the patient record with the extracted data used for a project. Project data 
+can also be correlated with external data sources. (Also see discussion of this in Section 1.8). 
+Seek corresponding data from other electronic or paper sources. Example: External data 
+sources including health information exchanges and specialty registries may provide data 
+not found in the clinic’s EHR. 
+Use an external performance benchmark from national or quality organizations for similar 
+clinics to find values for comparison. 
+Compare denominators and numerators from similar measures. Example: The 
+denominator for one quality measure could be used as a sample for a manual chart audit 
+for a similar measure. 
+Search the medical literature for disease prevalence to “gut check” a clinic’s population. 
+Example: Does the clinic’s diabetes or hypertension rate seem reasonable compared to 
+national or regional prevalence data? 
+TIP 4: ASK THE CLINIC FOR A “GUT CHECK” 
+Clinics usually have a good subjective idea when their data seems off. Periodic “data 
+checks” can be part of an overall project communication plan to create an opportunity to 
+get another set of eyes on the data. Here are some additional tips: 
+Be careful not to overwhelm clinics with raw data. The idea is to assess the 
+“reasonableness” of the data you have collected; summary data is generally best for this. 
+Example: Share the number of qualifying visits for depression screening with the clinic and 
+not a list of 3,000 non-compliant patients. 
+Focus on intuitive metrics to share with clinicians and staff. For example, a clinic 
+administrator will know when values for certain visit types or billing codes seem plausible 
+while a quality manager can quickly determine if performance on quality measures seems 
+off. 
+Follow up on any concerns the clinic may have. It is not unusual for an EHR quality 
+measure to seem “just wrong” before implementing the necessary workflows to populate 
+specific codes according to the vendor’s best practices. 
+EXAMPLE: 
+Using an EHR’s quality dashboard, you retrieve the performance rate for Depression Screening 
+and Follow-up (CMS 2, NQF 418). When the clinic reviews the data, they are shocked and tell 
+you this cannot possibly be right. On investigation, you learn that the EHR is relying on a 
+structured data field to determine whether follow-up was provided on positive screens. The 
+clinic does not use this field, throwing the measure off substantially. 
+Assessing EHR Data for a Quality Measure 
+In this extended example, you are helping a primary care clinic improve their annual screening for risky 
+alcohol use. In this example, we have simplified the quality measure for illustration purposes. 
+Health IT Advisor Handbook 
+Page 40

@@ -1,0 +1,6 @@
+﻿feature,semantic_status,semantic_description
+registry_stage_code,DOCUMENTED,registry stage
+icdo3_m_code,NOT_DOCUMENTED,
+age_diag,DOCUMENTED,age at diagnosis (years)
+administr_unit,NOT_DOCUMENTED,
+mkb10_code,DOCUMENTED,ICD-10 topography code

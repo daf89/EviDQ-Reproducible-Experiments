@@ -1,0 +1,84 @@
+5.2.4. Ambulatory blood pressure measurement 
+ABPM (summarized in Figure 5) is an out-of-office BP measurement 
+that uses a fully automated device, usually for a 24-h period. The 
+devices measure BP by the oscillometric method and are pro-
+grammed to measure BP at set intervals. Readings are usually 
+obtained at 15–30 min intervals during the day (typically 7 a.m. to 
+11 p.m.) and 30–60 min intervals at night (typically 11 p.m. to 
+7 a.m.). The software usually provides average BP measurements 
+for daytime, night-time, and 24 h. A minimum of 70% useable BP 
+recordings is required for a valid measurement session, typically 
+numbering ≥27 measurements over 24 h. Preferably, seven noctur-
+nal readings should also be obtained.62 However, emerging data in-
+dicate that ≥8/≥4 wake/sleep readings may be adequate if more 
+cannot be obtained.63 Prior to using mean ABPM values (either 
+24 h, daytime, or night-time) the raw BP values at each measurement 
+should be reviewed for possible outlier or erroneous values. A diary 
+should record activities (e.g. meals and exercise) and sleep time to 
+assist interpretation. The diagnostic thresholds for elevated BP and 
+hypertension using ABPM, and comparison with office BP and 
+HBPM, are provided in Table 5.61,64 
+1
+2
+3
+4
+Ambulatory blood pressure measurement
+Use a validated BP 
+device
+Device usually records BP at 
+15–30 min intervals during the 
+day and 30–60 min at night
+A minimum of 70%
+usable BP recordings
+is required
+A diary of the patient's activities, 
+intake of medications and sleep 
+time should be completed
+ABPM ≥130/80 mmHg
+over 24 h
+or
+≥135/85 mmHg for the
+daytime average
+or
+≥120/70 mmHg for the
+night-time average
+Hypertension:
+Figure 5 Summary of ambulatory blood pressure measurement. ABPM, ambulatory blood pressure measurement; BP, blood pressure. 
+Table 5 Comparison of office, home, and ambulatory blood pressure measurement thresholds for elevated blood 
+pressure and hypertension 
+Office BP 
+(mmHg)a 
+Home BP 
+(mmHg) 
+Daytime ABPM 
+(mmHg) 
+24 h ABPM 
+(mmHg) 
+Night-time 
+ABPM (mmHg) 
+Reference 
+Non-elevated BP 
+<120/70 
+<120/70 
+<120/70 
+<115/65 
+<110/60 
+Elevated BP 
+120/70–<140/90 
+120/70–<135/85 
+120/70–<135/85 
+115/65–<130/80 
+110/60–<120/70 
+Hypertension 
+≥140/90 
+≥135/85 
+≥135/85 
+≥130/80 
+≥120/70 
+© ESC 2024
+ABPM, ambulatory blood pressure monitoring; BP, blood pressure. 
+aThe BP thresholds provided assume that a standardized approach to office BP measurement is performed (Figure 3). However, evidence indicates that office BP measurement in routine 
+clinical settings is often not done using a standardized approach and, in this case, the routine office BP value may be 5–10 mmHg higher than it would have been if measured using the 
+recommended standardized approach.65,66 
+ESC Guidelines 3933 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

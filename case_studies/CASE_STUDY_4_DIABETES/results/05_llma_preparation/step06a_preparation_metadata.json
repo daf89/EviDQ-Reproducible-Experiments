@@ -1,0 +1,34 @@
+{
+  "step": "STEP_06A",
+  "step_name": "LLM-A input preparation",
+  "timestamp_utc": "2026-09-27T16:45:41.618837+00:00",
+  "project": "DEMARCHE_ENCAD3_CASE4_DIABETES",
+  "llm_role": "LLM-A",
+  "llm_analysis_performed": false,
+  "n_documents": 8,
+  "n_chunks": 395,
+  "features": [
+    "Insulin",
+    "Glucose",
+    "SkinThickness",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "dq_problems": [
+    "MISSING_VALUE",
+    "POTENTIAL_OUTLIER"
+  ],
+  "prompt_version": "LLMA_DOC_V1",
+  "prompt_sha256": "d17b7884cd914734d9402fedaec22317f0163b25fd33b251bdd7826a61db31d0",
+  "output_schema_sha256": "590cdcf33725d4184c591cad64c1473432a334c8622ca092f8b9cfc8e279f6d4",
+  "semantic_prefiltering": false,
+  "keyword_prefiltering": false,
+  "tfidf_prefiltering": false,
+  "bm25_prefiltering": false,
+  "embedding_prefiltering": false,
+  "top_k_selection": false,
+  "known_action_injected": false,
+  "known_age_rule_injected": false,
+  "test_dataset_accessed": false
+}

@@ -1,0 +1,46 @@
+Practice Point 4.2.4:
+In people with extremes of body weight, eGFR nonindexed for body surface area (BSA) may be
+indicated, especially for medications with a narrow therapeutic range or requiring a minimum
+concentration to be effective.
+Practice Point 4.2.5:
+Consider and adapt drug dosing in people where GFR, non-GFR determinants of the ﬁltration
+markers, or volume of distribution are not in a steady state.
+4.3 Polypharmacy and drug stewardship
+Practice Point 4.3.1:
+Perform thorough medication review periodically and at transitions of care to assess adherence,
+continued indication, and potential drug interactions because people with CKD often have complex
+medication regimens and are seen by multiple specialists.
+Practice Point 4.3.2:
+If medications are discontinued during an acute illness, communicate a clear plan of when to restart
+the discontinued medications to the affected person and healthcare providers, and ensure docu-
+mentation in the medical record.
+Practice Point 4.3.3:
+Consider planned discontinuation of medications (such as metformin, ACEi, ARBs, and SGLT2i) in
+the 48–72 hours prior to elective surgery or during the acute management of adverse effects as a
+precautionary measure to prevent complications. However, note that failure to restart these medi-
+cations after the event or procedure may lead to unintentional harm (see Practice Point 4.3.2).
+4.3.1 Strategies to promote drug stewardship
+Practice Point 4.3.1.1: Educate and inform people with CKD regarding the expected beneﬁts and possible risks of medi-
+cations so that they can identify and report adverse events that can be managed.
+Practice Point 4.3.1.2: Establish collaborative relationships with other healthcare providers and pharmacists and/or
+use tools to ensure and improve drug stewardship in people with CKD to enhance management
+of their complex medication regimens.
+4.4 Imaging studies
+Practice Point 4.4.1: Consider the indication for imaging studies in accordance with general population in-
+dications. Risks and beneﬁts of imaging studies should be determined on an individual
+basis in the context of their CKD.
+4.4.1 Radiocontrast: intra-arterial and intravenous dye studies
+Practice Point 4.4.1.1: Assess the risk for AKI in people with CKD receiving intra-arterial contrast for cardiac pro-
+cedures using validated tools.
+Practice Point 4.4.1.2: The intravenous administration of radiocontrast media can be managed in accordance with
+consensus statements from the radiology societies in people with AKI or GFR <60 ml/min per 1.73
+m2 (CKD G3a–G5) undergoing elective investigation.
+4.4.2 Gadolinium-containing contrast media
+Practice Point 4.4.2.1:
+For people with GFR <30 ml/min per 1.73 m2 (CKD G4–G5) who require gadolinium-containing
+contrast media, preferentially offer them American College of Radiology group II and III
+gadolinium-based contrast agents.
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S165

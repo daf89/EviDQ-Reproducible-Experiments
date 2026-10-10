@@ -1,0 +1,14 @@
+{
+  "step": "9C",
+  "phase": "KNOWLEDGE",
+  "purpose": "Export non-extractable PDF pages as high-resolution images for manual visual inspection.",
+  "n_pages_exported": 6,
+  "rendering_zoom": 2.5,
+  "OCR_performed": false,
+  "automatic_semantic_interpretation": false,
+  "chunks_modified": false,
+  "GPT_5_6_Sol_used": false,
+  "knowledge_extracted": false,
+  "diagnosis_performed": false,
+  "hidden_reference_used": false
+}

@@ -1,0 +1,48 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+Eight: Prompt Access to Care 
+The use EHRs for telehealth and asynchronous care delivery expanded rapidly during the COVID 
+pandemic and may permanently shift (at least some) medical care away from traditional office visits, 
+thus increasing prompt access to care. 
+Nine: Comprehensiveness and Care Coordination 
+The EHR serves a critical role in coordinating the care provided both in, and outside, of the clinic. 
+Examples include sharing clinical information, communicating within the team, and exchanging 
+information to support transitions of care (hospital admissions, transfer tolong-term care). 
+Ten: Template of the Future 
+The top building block holds space for emerging EHR features and capabilities and will create new 
+opportunities to leverage the EHR and other health IT to transform healthcare quality. Health IT Advisors 
+can look forward to: 
+• 
+Advances in how diverse EHRs can exchange structured electronic data 
+• 
+New options for extracting data for QI using FHIR APIs 
+• 
+Incorporation of patient-generated data from apps, portals, and devices 
+• 
+Use of naturallanguage processing (NLP) and artificialintelligence tools to enhance clinical 
+decision support 
+• 
+Improved capture of structured data for health related behavioral and social needs. 
+The table below is a comprehensive summary of how each of the Ten Building Blocks can leverage EHRs 
+as a tool for transformation. 
+Exhibit 60: How the Ten Building Blocks Can Leverage EHRs[119, 120] 
+Building Block 
+Topic/Process 
+EHR Functionality 
+Strategy 
+Accurate and robust reporting capabilities 
+Trust/Buy-in 
+Resources 
+Data integral to 
+strategy/improvement 
+Engaged Leadership Financial Management/Fiscal 
+Health 
+Financial reports - PM 
+Revenue cycle management 
+Normalized and integrated data 
+Performance reports 
+Risk sharing analytics 
+Health IT Advisor Handbook 
+Page 121

@@ -1,0 +1,85 @@
+{
+    "phase": "01_reference",
+    "step": "07_shap_ref",
+    "model": "Model_REF_random_forest",
+    "target": "Y_3years",
+    "explained_class": 1,
+    "n_test": 371,
+    "n_original_features": 10,
+    "n_encoded_features": 48,
+    "global_importance_measure": "mean_absolute_SHAP",
+    "aggregation": "sum_SHAP_of_encoded_components_per_original_feature",
+    "model_retrained": false,
+    "encad3_correction_applied": false,
+    "hidden_reference_rules_used": false,
+    "performance_ref": {
+        "accuracy": 0.7250673854447439,
+        "balanced_accuracy": 0.6795665634674923,
+        "precision": 0.6448598130841121,
+        "recall": 0.518796992481203,
+        "f1": 0.575,
+        "roc_auc": 0.7636001769128704
+    },
+    "top_features": [
+        {
+            "rank": 1,
+            "feature": "registry_stage_code",
+            "mean_abs_SHAP": 0.16767411119180817,
+            "relative_importance_pct": 48.38022448720366
+        },
+        {
+            "rank": 2,
+            "feature": "icdo3_m_code",
+            "mean_abs_SHAP": 0.03491768799260666,
+            "relative_importance_pct": 10.075053159065018
+        },
+        {
+            "rank": 3,
+            "feature": "age_diag",
+            "mean_abs_SHAP": 0.0272106447795871,
+            "relative_importance_pct": 7.851284217466582
+        },
+        {
+            "rank": 4,
+            "feature": "administr_unit",
+            "mean_abs_SHAP": 0.026026842467234128,
+            "relative_importance_pct": 7.509713171030013
+        },
+        {
+            "rank": 5,
+            "feature": "mkb10_code",
+            "mean_abs_SHAP": 0.022733225373850953,
+            "relative_importance_pct": 6.559382000522194
+        },
+        {
+            "rank": 6,
+            "feature": "diag_year",
+            "mean_abs_SHAP": 0.01950218669437298,
+            "relative_importance_pct": 5.62710703255672
+        },
+        {
+            "rank": 7,
+            "feature": "diagnosis_method_code",
+            "mean_abs_SHAP": 0.015824680748369707,
+            "relative_importance_pct": 4.566009633822711
+        },
+        {
+            "rank": 8,
+            "feature": "sex_code",
+            "mean_abs_SHAP": 0.01427079120208234,
+            "relative_importance_pct": 4.117654640059221
+        },
+        {
+            "rank": 9,
+            "feature": "finding_code",
+            "mean_abs_SHAP": 0.009299483528896327,
+            "relative_importance_pct": 2.6832472678408203
+        },
+        {
+            "rank": 10,
+            "feature": "stage_definition_code",
+            "mean_abs_SHAP": 0.009116065685653261,
+            "relative_importance_pct": 2.6303243904330658
+        }
+    ]
+}

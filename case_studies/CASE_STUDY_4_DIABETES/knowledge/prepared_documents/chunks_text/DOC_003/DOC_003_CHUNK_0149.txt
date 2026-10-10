@@ -1,0 +1,281 @@
+
+
+===== PDF PAGE 297 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4D-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+Tobacco Policy 
+You have been asked questions on tobacco consumption before. The next questions ask about tobacco control policies. They include 
+questions on your exposure to the media and advertisement, on cigarette promotions, health warnings and cigarette purchases. 
+Question 
+Response 
+Code 
+During the past 30 days, have you noticed information 
+about the dangers of smoking cigarettes or that 
+encourages quitting through the following media? 
+(RECORD FOR EACH) 
+Newspapers or magazines 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP1a 
+Television 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP1b 
+Radio 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP1c 
+During the past 30 days, have you noticed any 
+advertisements or signs promoting cigarettes in 
+stores where cigarettes are sold? 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP2 
+During the past 30 days, have you noticed any of the 
+following types of cigarette promotions? 
+(RECORD FOR EACH) 
+Free samples of cigarettes 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3a 
+Cigarettes at sale prices 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3b 
+Coupons for cigarettes 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3c 
+Free gifts or special discount offers on other products 
+when buying cigarettes 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3d 
+Clothing or other items with a cigarette brand name or 
+logo 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3e 
+Cigarette promotions in the mail 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP3f 
+The next questions TP4 – TP7 are administered to current smokers only. 
+During the past 30 days, did you notice any health 
+warnings on cigarette packages? 
+Yes 
+No 
+Did not see any cigarette packages 
+Don't know 
+1 
+2 If no, go to TP6 
+3 If "did not see any cigarette 
+packages", go to TP6 
+77 If Don't know, go to TP6 
+TP4 
+During the past 30 days, have warning labels on 
+cigarette packages led you to think about quitting? 
+Yes 
+No 
+Don't know 
+1 
+2 
+77 
+TP5 
+The last time you bought manufactured cigarettes for 
+yourself, how many cigarettes did you buy in total? 
+Number of cigarettes 
+Don't know or Don't smoke or 
+purchase manuf. cigarettes 7777 
+└─┴─┴─┴─┘ 
+If "Don't know or don't smoke or 
+purchase manuf. cig.", end section 
+TP6 
+In total, how much money did you pay for this 
+purchase? 
+(DIGITS TO BE ADAPTED TO COUNTRY NEEDS) 
+Amount 
+Don't know 
+Refused 
+└─┴─┴─┴─┘ 
+7777 
+8888 
+TP7 
+Tobacco Policy 
+
+
+===== PDF PAGE 298 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4E-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+CORE: Injury 
+The next questions ask about different experiences and behaviours that are related to road traffic injuries. 
+Question 
+Response 
+Code 
+All of the time 
+1 
+Sometimes 
+2 
+In the past 30 days, how often did you use a seat belt when you 
+were the driver or passenger of a motor vehicle? 
+Never   
+Have not been in a vehicle in past 30 
+days 
+3 
+4 
+V1 
+No seat belt in the car I usually am in 
+5 
+Don't Know 
+77 
+Refused 
+88 
+All of the time 
+1 
+Sometimes 
+2 
+In the past 30 days, how often did you wear a helmet when you 
+Never 
+3 
+drove or rode as a passenger on a motorcycle or motor- 
+scooter? 
+Have not been on a motorcycle or 
+motor-scooter in past 30 days 
+4 
+V2 
+Do not have a helmet 
+5 
+Don't Know 
+77 
+Refused 
+88 
+Yes (as driver) 
+1 
+Yes (as passenger) 
+2 
+Yes (as pedestrian) 
+3 
+In the past 12 months, have you been involved in a road traffic 
+crash as a driver, passenger, pedestrian, or cyclist? 
+Yes (as a cyclist) 
+No 
+4 
+5 
+If No, go to V5 
+V3 
+Don’t know 
+77 If don't know, go to V5 
+Refused 
+88 If Refused, go to V5 
+Yes 
+1 
+Did you have any injuries in this road traffic crash which 
+required medical attention? 
+No 
+Don't know 
+2 
+77 
+V4 
+Refused 
+88 
+The next questions ask about the most serious accidental injury you have had in the past 12 months. 
+In the past 12 months, were you injured accidentally, other than 
+the road traffic crashes which required medical attention? 
+Yes 
+No 
+Don't know 
+Refused 
+1 
+2 
+77 
+88 
+If No, go to V8 
+If don't know, go to V8 
+If Refused, go to V8 
+V5 
+Fall 
+1 
+Burn 
+2 
+Poisoning 
+3 
+Cut 
+4 
+Please indicate which of the following was the cause of this 
+injury. 
+Near-drowning 
+Animal bite 
+Other (specify) 
+5 
+6 
+7 
+V6 
+Don't know 
+77 
+Refused 
+88 
+Other (please specify) 
+└─┴─┴─┴─┴─┴─┴─┘ 
+V6other 
+ 
+ 

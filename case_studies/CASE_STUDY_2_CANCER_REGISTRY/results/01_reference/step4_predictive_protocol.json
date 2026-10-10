@@ -1,0 +1,46 @@
+{
+    "phase": "01_reference",
+    "step": "04_predictive_protocol",
+    "dataset_ref_rows": 1902,
+    "dataset_ref_features": 27,
+    "target": {
+        "name": "Y_3years",
+        "type": "binary_classification",
+        "horizon_years": 3,
+        "class_0_definition": "Death observed before or at 3 years after diagnosis",
+        "class_1_definition": "Known to have reached at least 3 years after diagnosis",
+        "indeterminate_policy": "Excluded from supervised model fitting/evaluation; retained in Dataset_REF",
+        "n_class_0": 1198,
+        "n_class_1": 667,
+        "n_indeterminate": 37,
+        "n_model_eligible": 1865
+    },
+    "features": {
+        "x_encad3_count": 27,
+        "x_model_candidate_count": 14,
+        "excluded_count": 13,
+        "x_model_candidates": [
+            "sex_code",
+            "birth_date",
+            "age_diag",
+            "diag_date",
+            "diag_year",
+            "mkb10_code",
+            "mkb10_3char",
+            "histology_code",
+            "icdo3_m_code",
+            "registry_stage_code",
+            "stage_definition_code",
+            "diagnosis_method_code",
+            "finding_code",
+            "administr_unit"
+        ]
+    },
+    "anti_leakage": {
+        "hidden_reference_rules_used": false,
+        "correction_rules_used": false,
+        "dataset_ref_modified": false,
+        "model_trained": false,
+        "shap_computed": false
+    }
+}

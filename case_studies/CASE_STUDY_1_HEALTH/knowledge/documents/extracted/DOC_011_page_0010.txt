@@ -1,0 +1,35 @@
+7 
+The sources of data for each provider type are listed below. (Note that for purposes of data 
+collection, an event was defined as a distinct visit or stay on a specific date with a specific health 
+care provider by a member of a participating household.) 
+ 
+Hospitals. There are typically three points of contact for hospital providers: 
+ Health Information Management Department: This department houses all event level 
+data, diagnostic and procedural information, and records of physicians who provided 
+services for these events. 
+ Patient Accounts/Billing Department: This department houses all expenditure data for the 
+events identified in the medical records. In some cases, hospitals and institutions 
+outsource the billing function to an external billing service. 
+ Medical Staff Office/Administrative Office: This department maintains additional 
+information for locating SBDs that may not be available from either the Health 
+Information Management Department or the Patient Accounts/Billing Department. 
+Note: HMOs house their medical and billing data within administrative offices at the 
+local, regional, or corporate levels. 
+ 
+Office-based providers and SBDs: Office-based providers and SBDs either maintain a 
+billing or patient accounts department internally, or outsource the claims 
+administration/billing function to an external billing service. 
+Note: HMOs house their medical and billing data within administrative offices at the local, 
+regional, or corporate levels. 
+ 
+Home care agencies: Most home care providers maintain an internal billing or patient 
+accounts department. 
+ 
+Pharmacies: Since most pharmacies are part of a national or regional chain, there are three 
+primary sources for prescription data (mail order pharmacies are captured in the first two 
+sources mentioned): 
+ Corporate level 
+ Central or regional pharmacy office 
+ Local retail pharmacy store 
+Once a provider was contacted and agreed to participate in the survey, a customized data 
+collection instrument was used to collect the information. All 2016 data collection instruments

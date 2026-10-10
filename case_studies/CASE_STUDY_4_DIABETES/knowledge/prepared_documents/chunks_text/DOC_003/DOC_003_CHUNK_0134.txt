@@ -1,0 +1,201 @@
+
+
+===== PDF PAGE 267 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-3 
+ 
+ 
+ 
+EXPANDED: Demographic Information, Continued 
+Question 
+Response 
+Code 
+Taking the past year, can you tell me what the average earnings of 
+the household have been? 
+(RECORD ONLY ONE, NOT ALL 3) 
+Enter the average earnings of the household by week, month, or 
+year. If refused to answer, skip to C11. 
+Per week 
+└─┴─┴─┴─┴─┴─┴─┘ Go to T1 
+C10a 
+OR per month 
+└─┴─┴─┴─┴─┴─┴─┘ Go to T1 
+C10b 
+OR per year 
+└─┴─┴─┴─┴─┴─┴─┘ Go to T1 
+C10c 
+Refused 
+88 
+C10d 
+Can you give an estimate of the annual household income if I read 
+some options to you? Is it 
+[INSERT QUINTILE VALUES IN LOCAL CURRENCY] 
+(READ OPTIONS) 
+Select the appropriate quintile value for the annual household 
+income. 
+ Quintile (Q) 1 
+1 
+More than Q 1,  Q 2 
+2 
+More than Q 2,  Q 3 
+3 
+More than Q 3,  Q 4 
+4 
+More than Q 4 
+5 
+Don't Know 
+77 
+Refused 
+88 
+C11 
+
+
+===== PDF PAGE 268 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-4 
+ 
+ 
+ 
+ 
+ 
+CORE: Tobacco Use 
+Now I am going to ask you some questions about tobacco use. 
+Question 
+Response 
+Code 
+Do you currently smoke any tobacco products, such as 
+cigarettes, cigars or pipes? 
+Yes 
+1 
+(USE SHOWCARD) 
+T1 
+Ask the participant to think of any tobacco products 
+No 
+2 
+If No, go to T8 
+he/she is smoking currently. 
+Do you currently smoke tobacco products daily? 
+Yes 
+No 
+1 
+2 
+T2 
+This question is only for current smokers of tobacco 
+products. 
+How old were you when you first started smoking? 
+For current smokers only. Ask the participant to think of 
+the time when he/she started to smoke any tobacco 
+products. 
+Age (years) 
+Don’t know 77 
+└─┴─┘ If Known, go to T5a/T5aw 
+T3 
+Do you remember how long ago it was? 
+(RECORD ONLY 1, NOT ALL 3) 
+Don’t know 77 
+If the participant doesn’t remember his/her age when 
+started smoking, then record the time in years, months or 
+weeks as appropriate. 
+In Years 
+└─┴─┘ If Known, go to T5a/T5aw 
+T4a 
+OR 
+in Months 
+└─┴─┘ If Known, go to T5a/T5aw 
+T4b 
+OR 
+in Weeks 
+└─┴─┘ 
+T4c 
+On average, how many of the following products do you 
+smoke each day/week? 
+(IF LESS THAN DAILY, RECORD WEEKLY) 
+(RECORD FOR EACH TYPE, USE SHOWCARD) 
+Don’t Know 7777 
+For current smokers only. 
+Specify zero if no products were used in each category 
+instead of leaving categories blank. 
+Record daily consumption for daily smokers. If products 
+are smoked less than daily by daily smokers, enter weekly 
+consumption. Also enter weekly consumption for current, 
+non-daily smokers. 
+DAILY↓ 
+WEEKLY↓ 
+Manufactured cigarettes 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T5a/T5aw 
+Hand-rolled cigarettes 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T5b/T5bw 
+Pipes full of tobacco 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T5c/T5cw 
+Cigars, cheroots, 
+cigarillos 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T5d/T5dw 
+Number of Shisha 
+sessions 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+T5e/T5ew 
+Other 
+└─┴─┴─┴─┘└─┴─┴─┴─┘ 
+If Other, go to T5other, else go to T6 
+T5f/T5fw 
+Other (please specify): 
+└─┴─┴─┴─┴─┴─┘ 
+T5other/ 
+T5otherw 
+During the past 12 months, have you tried to stop 
+smoking? 
+For current smokers only. Ask the participant to think of 
+any quit attempt during the past 12 months. 
+Yes 
+No 
+1 
+2 
+T6 
+During any visit to a doctor or other health worker in the 
+past 12 months, were you advised to quit smoking 
+tobacco? 
+For current smokers only. Ask the participant to think of 
+visits to a doctor or other health worker during the past 12 
+months. If no visit, select “no visit during the past 12 
+months”. 
+Yes 
+No 
+No visit during the past 12 
+months 
+1 
+2 
+3 
+If T2=Yes, go to T12; if T2=No, go to T9 
+If T2=Yes, go to T12; if T2=No, go to T9 
+If T2=Yes, go to T12; if T2=No, go to T9 
+T7 
+In the past, did you ever smoke any tobacco products? 
+Yes 
+No 
+1 
+2 
+(USE SHOWCARD) 
+Ask the participant to think of the time when he/she may 
+have been smoking tobacco products. 
+If No, go to T12 
+T8 
+In the past, did you ever smoke daily? 
+Ask the participant to think of the time when he/she may 
+have been smoking tobacco products on a daily basis. 
+Yes 
+No 
+1 If T1=Yes, go to T12, else go to T10 
+2 If T1=Yes, go to T12, else go to T10 
+T9 
+Step 1 
+Behavioural Measurements 

@@ -1,0 +1,81 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+T A B L E O F A C R O N Y M N S 
+Acronym 
+Full Name or Term 
+DUA 
+Data use agreement 
+EBM 
+Evidence based medicine 
+ECG 
+Electrocardiogram 
+eCQM 
+Electronic clinical quality measure 
+EHR 
+Electronic health record 
+EIN 
+Employment identification number 
+ERA 
+Elder risk assessment 
+ESRD 
+End stage renal disease 
+FAQ 
+Frequently asked question 
+FERPA 
+Family Educational Rights and Privacy Act 
+FHIR 
+Fast healthcare interoperability resources 
+FQHC 
+Federally qualified health center 
+GDPR 
+General data protection regulation 
+GXT 
+Graded exercise testing 
+HCC 
+Hierarchical condition categories 
+HCPCS 
+Healthcare common procedure coding system 
+HEDIS 
+Healthcare effectiveness data and information set 
+HIE 
+Health information exchange 
+HIMSS 
+The Healthcare Information and Management Systems Society 
+HIPAA 
+Health Insurance Portability and Accountability Act 
+HIT 
+Health information technology 
+HITECH 
+Health Information Technology for Economic and Clinical Health Act 
+HRQoL 
+Health-related quality of life 
+HRSA 
+Health Resources and Services Administration 
+HRSN 
+Health-related social needs 
+ICD 
+International classification of diseases 
+IID 
+Individuals with intellectual disabilities 
+IRB 
+Institutional review board 
+IT 
+Information technology 
+LOINC 
+Logical observation identifiers, names, and codes 
+MACRA 
+Medicare Access and Children's Health Insurance Program Reauthorization Act 
+MEDCs 
+Major extended diagnostic groups 
+MHS 
+MetroHealth System 
+MICH 
+Maternal, infant, and child health 
+MIPS 
+Merit-based incentive payment system 
+MVP 
+Minimum viable product 
+NACHC® 
+National Association of Community Health Centers 
+Health IT Advisor Handbook 
+Page 139

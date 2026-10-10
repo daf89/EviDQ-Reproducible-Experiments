@@ -1,0 +1,4 @@
+﻿feature,direct_feature_available_in_dataset,note
+age_diag,True,Direct KB feature is present in Dataset_REF.
+mkb10_code,True,Direct KB feature is present in Dataset_REF.
+registry_stage_code,True,Direct KB feature is present in Dataset_REF.

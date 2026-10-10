@@ -1,0 +1,71 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+110
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-07 L’approvisionnement, le stockage et 
+l’accès aux produits de santé sont réalisés conformément 
+aux recommandations de bonnes pratiques
+Les équipes doivent apporter les meilleurs soins aux patients en dispensant les produits de santé au bon 
+moment, notamment dans des situations urgentes. Ces contraintes justifient une maîtrise des transports 
+et un stockage sécurisé des médicaments et des dispositifs médicaux permettant de prévenir les erreurs 
+de sélection. Les équipes veillent aux conditions de conservation pour garantir la qualité du produit de 
+santé. Leurs déchets sont stockés dans des containers adaptés et leur circuit d’évacuation est conforme 
+aux bonnes pratiques. Les tensions d’approvisionnement sont gérées et font, si possible, l’objet de mesures 
+palliatives (recherche d’équivalences thérapeutiques disponibles, communication auprès des prescripteurs).
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• Les modalités d’approvisionnement sont définies, 
+notamment pour parer à tout besoin urgent de produits 
+de santé.
+• Les équipes dispensent les produits de santé au bon 
+moment, notamment dans des situations urgentes.
+• Les conditions de transport des produits de santé 
+sont adaptées (boîtes fermées, conteneurs sécurisés, 
+conservation du froid…).
+ Gouvernance 
+• L’approvisionnement des produits de santé répond aux 
+besoins des professionnels.
+• Les risques liés aux ruptures de stock sont identifiés et 
+font l’objet d’actions palliatives.
+Traceur ciblé
+ Observations 
+• Le stockage des produits de santé se fait dans les bonnes 
+conditions de conservation.
+• Absence de produits périmés.
+Observation
+Fiches pédagogiques
+Évaluation de la prise en charge 
+médicamenteuse.
+Prise en charge des situations sanitaires 
+exceptionnelles.
+Références HAS
+Outils de sécurisation et d’auto-évaluation
+de l’administration des médicaments, mars 
+2022.
+Flash sécurité patient - « Le stockage des 
+curares… des erreurs pas si rares », 2022.
+Faire la check-list matériel 48 heures 
+avant toute intervention programmée, 
+2023.
+Références légales 
+et réglementaires
+• Art. L. 5126-1-1 du CSP.
+• Art. 8 et 13 de l’arrêté du 6 avril 2011 
+modifié relatif au management de la qualité 
+de la prise en charge médicamenteuse et 
+aux médicaments dans les établissements 
+de santé.
+Autres références
+• Inter diag médicaments en établissements 
+de santé V2 – ANAP, 2014.
+• Inter diag DMS v2.0 au sein de la PUI – 
+ANAP, 2014.
+• Inter diag DMS v2.0 au sein de l’unité de 
+soins – ANAP, 2014.
+• Gérer l’approvisionnement et le range
+ment des dotations de produits de santé 
+dans les services – ANAP, 2014.

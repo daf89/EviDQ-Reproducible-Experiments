@@ -1,0 +1,35 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+TIPS FOR WORKING WITH EHR SUPPORT DESKS: 
+1. Only contact the clinic’s help desk with permission from the project lead for the clinic. In 
+addition to having permission, a best practice as a Health IT Advisor is to contact the EHR
+Support Desk with a clinic staff member or project lead present in order to ensure 
+awareness and clear understanding. This also may avoid future confusion if a charge is 
+incurred to the practice related to support-desk outreach. 
+2. When creating service requests (sometimes called “logging a ticket”) online or by phone, 
+be sure clearly identify the question or issue and include the following information: 
+Any troubleshooting steps you have tried 
+The correct support team or resource to handle the request 
+Examples or screen shots (be careful when including PHI) 
+An appropriate priority (do not abuse high priority tickets), and 
+Direct-contact information and available times. 
+3. Track and follow up on open service requests. 
+4. Be sure to “close” the ticket when a problem or question is resolved. 
+TIPS FOR REQUESTING REPORTS, DATA EXTRACTS, AND CUSTOM QUERIES: 
+When requesting special access or asking for a custom report or data extract it is 
+important to be prepared. Collect the following before you work with an analyst: 
+Confirm that the requested data exists in the EHR 
+Specify the data elements needed for the project 
+Specify the parameters for selecting patient records 
+Specify the reporting parameters including date range and any special filters 
+Provide an estimate of the number of records you expect to extract 
+Be clear about how the report should be formatted and delivered 
+Exhibit 27 shows an example of an IT r equest asking for A1c data on a sub-population of 
+patients with diabetes. 
+For good reason, clinics carefully control who has access to their EHR. Gaining direct 
+access to advanced report tools or “backend” connections to the EHR database will need 
+to be explicitly approved by the clinic’s management and all privacy and security 
+regulations must be followed; this includes, but is not limited, to HIPAA. 
+Health IT Advisor Handbook 
+Page 53

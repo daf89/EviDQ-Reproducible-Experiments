@@ -1,0 +1,28 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+214
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Quelles sont les règles utilisées dans CALISTA pour 
+l’ouverture des champs d’applicabilité des critères 
+spécifiques du référentiel ?
+Cibles prioritaires EV - ES 
+ Objectifs de la fiche
+Cette fiche présente les règles techniques qui sont utilisées pour récupérer à partir de la base SAE (statistiques 
+annuelles des établissements de santé) les données nécessaires à l’établissement du profil. Le profil d’un établissement 
+est constitué dans CALISTA de l’ensemble des champs d’applicabilité qui le concernent. Le profil permet de générer 
+le référentiel personnalisé d’un établissement.
+ Ce qu’il faut savoir
+Pour établir le profil de l’établissement dans CALISTA, les données utilisées par la HAS sont importées de la base 
+de données SAE la plus récente.
+La base de données SAE est issue de l’enquête annuelle SAE (statistiques annuelles des établissements de santé).
+Le tableau ci-dessous décrit les règles utilisées pour déterminer l’activation des différents champs d’applicabilité des 
+critères spécifiques dans CALISTA en fonction des données renseignées par l’établissement dans la SAE.
+Exemple
+Sont concernés par les critères spécifiques du champ d’applicabilité « Ambulatoire » les établissements qui ont une 
+réponse « OUI » dans le bordereau FILTRE MCO correspondant de la SAE (autorisation d’activité reprise du répertoire 
+ARHGOS) et qui ont une activité d’hospitalisation ambulatoire supérieure à 0 en médecine ou en chirurgie ou en 
+obstétrique ou en SMR ou en psychiatrie.
+ Fiche pratique informative_E8

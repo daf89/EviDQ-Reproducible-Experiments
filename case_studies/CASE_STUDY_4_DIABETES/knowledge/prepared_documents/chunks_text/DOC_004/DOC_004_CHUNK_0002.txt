@@ -1,0 +1,80 @@
+
+
+===== PDF PAGE 3 =====
+
+discovered issues. We documented the validation processes and findings overall and for each data contributor, including
+when each step was started and completed, issues identified, and steps taken to resolve issues before proceeding to the
+next stage.
+Five data-contributing organizations participated in this study, each taking part in the validation process at some point from
+December 2020 through August 2023. The 5 MENDS data contributors were a health information exchange, a network of
+community health centers, a nonprofit research organization, a clinical research network, and an enterprise health data
+warehouse provider — all intermediaries that collate the EHR data of others rather than serve as direct clinical providers
+themselves. Data contributors to MENDS aggregate data from numerous health systems and clinics, each with differences,
+strengths, and gaps. These differences arise in part from differences in the core purposes and operations of the data
+contributors. All data contributors had prior experience with data sharing activities and ETL (extract, transform, and load)
+processes and validation; however, the MENDS focus on provisioning data for public health chronic disease surveillance
+was a novel endeavor for them. Regardless of when data contributors joined MENDS, they provided historical data starting
+from January 1, 2018, up to the present date. Further details on the development of the MENDS pilot, its technical
+infrastructure, the data sources of contributors, and the network’s governance are published elsewhere (2,9).
+Validation stages
+The first 4 stages of the MENDS multistage validation process (Table 1) consist of the internal validation processes to
+ensure accurate surveillance estimates.
+Stage 0: Data confirmation. In this stage, data contributors queried their source systems manually to confirm the presence
+of MENDS-required data (eg, prescription orders, vital signs, laboratory tests) before any exchange of data. Potential data
+contributors who lacked essential data elements that could not be rectified did not move forward with joining MENDS.
+Stage 1: Extract, transform, load (ETL) validation. In this stage, the MENDS Coordinating Center examined data
+completeness, including total numbers of patients, demographic variables (age, sex and gender, race and ethnicity), state,
+5-digit zip codes, and total volume of encounters, vital signs, laboratories, and prescriptions over time. Results were verified
+by data contributor personnel through direct comparison against the source system.
+Stage 2: Data characterization. In this stage, the MENDS Coordinating Center looked closely at the data attributes used to
+identify priority conditions by calculating minimum, maximum, mean, and median values for comparison with expected
+values and those used by other data contributors. The volume and monthly trends of specific diagnostic codes, laboratories,
+and prescriptions (eg, top 10 diagnoses) were also reviewed.
+Although stages 1 and 2 differ in scope, the MENDS Coordinating Center recognized that lower-than-expected volumes in
+either stage suggest that the source data are incomplete (eg, no laboratory results in the source system) or that the source
+data are not flowing completely into the MENDS database (eg, selected laboratories are missing due to failure to retrieve all
+laboratory results from the source system). The MENDS Coordinating Center assessed lower-than-expected values by
+comparing record counts across data contributors and other implementations of the ESP outside of MENDS, adjusting for
+total patient population size.
+Stage 3: Algorithm validation. This stage entailed data contributors reviewing randomly selected patients flagged with
+each condition (eg, hypertension, smoking status) and condition state (eg, hypertension control, current smoker). MENDS
+used a limited data set that included a patient identifier. This identifier was passed back to the data contributor, where it
+was mapped to the fully identifiable patient record, allowing a clinical data specialist at the site to conduct reviews. The
+primary purpose of stage 3 was to confirm that condition-specific algorithms had been correctly applied, but it also acted as
+a second check on source data validity. The number of reviews varied by condition, with the intention of balancing the
+workload of medical record review with the minimum capacity needed to identify data quality errors (Table 2). For each
+reviewed patient, the data contributor compared the patient’s MENDS classification (eg, hypertension) with the pertinent
+data elements in the source data (eg, serial blood pressure measurements, diagnosis codes for hypertension, prescriptions
+for antihypertensive medications) to confirm agreement between MENDS data and the source data.
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+3/12
+
+
+===== PDF PAGE 4 =====
+
+Top
+Finally, MENDS recommended that each data contributor conduct stage 4, external indicator algorithm validation, which
+compares indicators against external data sources, such as state or national chronic disease surveys. We did not address
+stage 4 validation in this study.
+Results
+Among the 5 data contributors participating in MENDS validation during the study period, the median (range) time to
+complete the internal validation stages 0 through 3 was 15.0 (1.6–20.0) months, with stage 3 taking the most time
+(median, 9.7 months) (Figure).
+Figure.
+Percentage of total time needed to complete each stage (stages 0–3) of the MENDS internal validation process. Abbreviation: MENDS, Multi-State EHR-Based
+Network for Disease Surveillance. [A text version of this figure is available.]
+The length of time to complete each stage depended on whether issues were identified that data contributors needed to
+address. For example, if stage 1 was completed with no issues, Stage 2 could proceed immediately. For some issues
+detected in stage 1, data contributors had to modify their extraction procedure and re-extract data, which could take weeks
+or months.
+Generally, stage 3 reviews took the most time to complete, especially if validation failed because of extraction errors. This
+led to modifying data extraction processes, re-extracting and reprocessing data, and repeating reviews to confirm
+resolution. The initial average percentage of hypertension reviews that failed in stage 3 for hypertension was 14% of
+patients sampled (ranging from 6% to 31% across sites); this rate shrank to 2% (ranging from 0% to 4% across sites) after
+validation.
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+4/12

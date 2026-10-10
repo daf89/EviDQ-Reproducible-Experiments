@@ -1,0 +1,138 @@
+albuminuria. However, timed samples are often collected with
+error. Overnight, ﬁrst void in the morning, second void in the
+morning, or random sample collections are therefore rec-
+ommended
+as
+ﬁrst-line
+tests.281,282
+Because
+creatinine
+excretion in the urine is fairly constant throughout the 24-
+hour period, the measurement of ACR (or PCR) allows
+correction for variations in urinary concentration.283,284
+ACR is a suitable alternative to timed measurement of urine
+albumin loss.285–290 PCR on random or early morning
+untimed samples shows good diagnostic performance and
+correlation with 24-hour collection.281,291–298
+We acknowledge that reagent strip devices can have a role
+in settings where access to laboratory services may be limited
+(see Section 1.4).
+Implementation of ﬁrst morning voids will be difﬁcult to
+obtain in most healthcare settings. Nephrology ofﬁces could
+develop protocols to send people with CKD home with a
+urine collection container and instruction on how to obtain a
+clean catch, which the person brings back before their next
+visit. Alternatively, obtaining blood and urine tests before the
+next visit can facilitate ﬁrst morning voids. However, in the
+absence of a ﬁrst morning void, a random sample may still be
+used. Negative ﬁndings in people at high risk for CKD, for
+example, where the urine sample is diluted, can be conﬁrmed
+with a subsequent ﬁrst morning void. Positive ﬁndings in
+people at low risk for CKD, where the ACR level is just above
+the threshold where the urine samples are concentrated, can
+also be conﬁrmed with a ﬁrst morning void.
+The numeric equivalence of ACR in mg/g (mg/mmol) to
+approximately g/d is based on the simple assumption that
+creatinine excretion rate (CER) approximates 1 gram/d (10
+mmol/d). To better estimate urine albumin in individuals with
+creatinine generation that is very different from the average, one
+might consider measuring a timed urine collection if the value
+would affect clinical decisions. As with assessment of GFR using
+measured CrCl, use supervised urine collections. Alternatively,
+equations are available that estimate creatinine generation from
+prediction equations and then multiply that value by the ACR to
+compute an estimated albumin excretion rate (AER) that ac-
+commodates the lower or higher level of CER.299,300
+Measurement of urinary albumin is recommended because
+it is relatively standardized and because it is the single most
+important protein lost in the urine in most CKDs. Use of
+urinary albumin measurement as the preferred test for pro-
+teinuria detection will improve the sensitivity, quality, and
+consistency of approach to the early detection and manage-
+ment of kidney disease.
+Commonly used reagent strip devices measuring total
+protein are insufﬁciently sensitive for the reliable detection of
+proteinuria, do not adjust for urinary concentration, and are
+only semiquantitative. Furthermore, there is no standardization
+between manufacturers. The use of such strips should be
+discouraged in favor of quantitative laboratory measurements
+of albuminuria or proteinuria, or validated point-of-care de-
+vices for urine albumin/ACR (Section 1.4). When used, reagent
+strip results should be conﬁrmed by laboratory testing.
+Although the reference point remains the accurately timed
+24-hour specimen, it is widely accepted that this is a difﬁcult
+procedure to control effectively and that inaccuracies in urinary
+collection may contribute to errors in estimation of albumin
+and/or protein losses. In practice, untimed urine samples are a
+reasonable ﬁrst test for ascertainment of albuminuria. A ﬁrst
+morning void sample is preferred because it correlates well with
+24-hour albumin and/or protein excretion, has relatively low
+intraindividual variability, and is required to exclude the
+diagnosis of orthostatic (postural) proteinuria. A random urine
+sample is acceptable if no ﬁrst morning void sample is available.
+The concentration of albumin or protein in a urine sample will
+be affected by hydration (i.e., how diluted or concentrated a
+urine sample is), and reporting the albumin or protein to the
+creatinine ratio will correct for urinary concentration and
+reduce intraindividual variability.205,261,301,302
+There is biological and analytical variability in urine albu-
+min and urine protein loss. There are several biological factors
+that affect urine albumin or protein loss, separate from kidney
+disease (Table 16).259 All of these can lead to false detection of
+CKD or its progression. Thus, positive tests should be
+conﬁrmed, especially in people without risk factors for CKD.
+Large changes would be repeated to conﬁrm increasing urine
+albumin
+and
+urine
+protein.
+Chapter
+2
+discusses
+the
+magnitude of change to be considered a real change given the
+known biological and analytical variability.
+There is also biological variability in urine creatinine
+excretion. Change in creatinine concentration in the urine can
+also lead to observed changes in ACR or PCR, independently
+of changes in protein loss. In general, urine creatinine mea-
+surements are less susceptible to factors that interfere with
+SCr assays. If a more accurate quantiﬁcation of albuminuria
+or total proteinuria is required, measure urine albumin or
+total protein in a timed collection under supervised condi-
+tions as recommended above.
+Special considerations
+Pediatric considerations.
+Practice Point 1.3.1.4: In children, obtain a ﬁrst morning
+urine sample for initial testing of albuminuria and pro-
+teinuria (in descending order of preference):
+(i) Both urine PCR and urine ACR,
+(ii) Reagent strip urinalysis for total protein and for
+albumin with automated reading, or
+(iii) Reagent strip urinalysis for total protein and for
+albumin with manual reading.
+Consistent
+with
+the
+KDIGO
+2012
+Clinical
+Practice
+Guideline for the Evaluation and Management of Chronic
+Kidney Disease,1 PCR is advised and preferred as initial
+screening for children as the majority of children have
+underlying developmental abnormalities often referred to as
+CAKUT and a much higher proportion of children than
+adults have tubular pathology.303 Testing for ACR may miss
+tubular
+proteinuria.
+However,
+testing
+exclusively
+for
+proteinuria does not allow characterization of the source. If
+urine PCR is used, urine ACR should also be measured to
+chapter 1
+www.kidney-international.org
+S192
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,116 @@
+• Antenatally unclassifiable hypertension: BP is first recorded 
+after 20 weeks of gestation, and hypertension is diagnosed but it is 
+unclear if chronic or not; reassessment is necessary 6 weeks 
+post-partum. 
+• Pre-eclampsia: gestational hypertension accompanied by new- 
+onset: (i) proteinuria (>0.3 g/day or ≥30 mg/mmol ACR), (ii) other 
+maternal organ dysfunction, including acute kidney injury (serum cre-
+atinine ≥ 1 mg/dL), liver dysfunction (elevated transaminases > 40 
+UI/L with or without right upper quadrant or epigastric abdominal 
+pain), neurological complications (convulsions, altered mental status, 
+blindness, stroke, severe headaches, and persistent visual scotomata), 
+or haematological complications (platelet count < 150 000/µL, disse-
+minated intravascular coagulation, haemolysis), or (iii) uteroplacental 
+dysfunction (such as foetal growth restriction, abnormal umbilical ar-
+tery Doppler waveform analysis, or stillbirth).643 The only cure for 
+pre-eclampsia is delivery, which is recommended at 37 weeks’ gesta-
+tion, or earlier in high-risk cases. Of note, proteinuria is not manda-
+tory for diagnosing pre-eclampsia but is present in about 70% of 
+cases.644 Also, as proteinuria may be a late manifestation of 
+pre-eclampsia, it should be suspected when de novo hypertension is 
+accompanied by headache, visual disturbances, abdominal pain, or 
+abnormal laboratory tests, specifically low platelets and/or abnormal 
+liver function. 
+Other potential causes for high BP, including pain and anxiety, must be 
+excluded when treating hypertension during pregnancy. 
+9.2.3. Measuring blood pressure in pregnancy 
+See Section 5.5.1 for information on BP measurement approaches in 
+pregnancy.645 It is important to restate here that oscillometric devices 
+tend to under-estimate the true BP and are unreliable in severe pre- 
+eclampsia; only a few have been validated in pregnancy. Importantly, 
+only the relatively few devices validated for measuring BP in pregnancy 
+and pre-eclampsia should be used (https://stridebp.org). 
+9.2.4. Investigating hypertension in pregnancy 
+Basic laboratory investigations include urinalysis, blood count, haemato-
+crit, liver enzymes, serum creatinine, and serum uric acid. Serum uric 
+acid is increased in pre-eclampsia and identifies women at increased 
+risk of adverse maternal and foetal outcomes in hypertensive 
+pregnancies.646 
+All pregnant women should be assessed for proteinuria in early preg-
+nancy (e.g. 11–14 weeks’ gestation).647 A dipstick test of ≥1+ should 
+prompt further investigations, including ACR, which can be quickly de-
+termined in a single spot-urine sample.648 An ACR of <30 mg/mmol 
+(<0.3 mg/mg) can rule out proteinuria.649 Higher values should prompt 
+24 h urine collection. 
+In one study, 10% of pregnant women with chronic hypertension had 
+secondary hypertension (estimated to affect 0.24% of all pregnan-
+cies).650 Secondary hypertension during pregnancy is associated with 
+an increased risk of adverse outcomes.650 The most common cause 
+of secondary hypertension during pregnancy is CKD. The onset of 
+hypertension during the first trimester, at the peak of human chorionic 
+gonadotropin (HCG) secretion, should prompt consideration of pri-
+mary aldosteronism.651 Phaeochromocytoma in pregnant women is 
+rare (0.002% of all pregnancies) but highly morbid.652,653 
+9.2.5. Preventing hypertension and pre-eclampsia 
+Low-to-moderate-intensity exercise, especially if supervised and in-
+itiated during the first trimester of pregnancy, decreases the incidence 
+of developing gestational hypertension.654 As such, after consultation 
+with their obstetrician, all pregnant women should participate in phys-
+ical activity, unless contraindicated.655 Factors indicating risk of pre- 
+eclampsia are discussed in the Supplementary data online. 
+Women at high or moderate risk of pre-eclampsia should be advised 
+to take 100–150 mg of aspirin daily at bedtime from gestational weeks 
+12–36.647,656,657 
+Oral calcium supplementation of 0.5–2 g daily is recommended for 
+preventing pre-eclampsia in women with low dietary intake of calcium 
+(<600 mg daily).658,659 
+9.2.6. Treatment initiation and blood pressure 
+targets 
+Acute management of BP in pre-eclampsia and eclampsia is detailed in 
+Section 10.4. 
+Meta-analyses have found no evidence for an increased risk for deli-
+vering small-for-gestational-age babies in pregnant women with mild 
+hypertension receiving BP-lowering medications.660 Despite a historical 
+paucity of trial data, previous European guidelines1,89 recommended 
+initiating BP-lowering drug treatment (i) in all women with persistently 
+elevated office BP of ≥150/90 mmHg, and (ii) in women with gestation-
+al hypertension (with or without proteinuria), pre-existing hyperten-
+sion with superimposed gestational hypertension, or hypertension 
+with subclinical HMOD, when office BP is >140/90 mmHg. 
+In the CHAP trial, treating pregnant women with chronic hyperten-
+sion and BP of ≥140/90 mmHg reduced the occurrence of pre- 
+eclampsia with severe features, and reduced medically indicated 
+pre-term birth <35 weeks, compared with only treating severe hyper-
+tension (BP ≥ 160/105 mmHg).88 Tight BP control (target diastolic 
+BP < 85 mmHg) compared with less-tight BP control (target diastolic 
+BP < 100 mmHg) reduces the incidence of subsequent severe maternal 
+hypertension (BP ≥ 160/110 mmHg), but not foetal or other maternal 
+outcomes in women with mild hypertension at baseline (diastolic BP of 
+85–105 mmHg).661 
+Treatment with BP-lowering drugs in all pregnant women with con-
+firmed BP of ≥140/90 mmHg is recommended to reduce the progres-
+sion to severe hypertension and the related risks for adverse pregnancy 
+outcomes.660,661 In women with pre-existing and gestational hyperten-
+sion with and without pre-eclampsia, we recommend lowering BP be-
+low 140 mmHg for systolic and to 80–90 mmHg for diastolic BP.661 
+Evidence to support a BP target as low as 120–129/70–79 mmHg is 
+lacking in pregnancy, though such evidence exists for non-pregnant pa-
+tients receiving BP-lowering medication. 
+9.2.7. Managing mild hypertension in pregnancy 
+(office blood pressure 140–159/90–109 mmHg) 
+RAS inhibitors are not recommended in pregnancy due to adverse foe-
+tal and neonatal outcomes. The BP-lowering drugs of choice are: beta- 
+blockers (most data are available for labetalol, a non-selective beta- 
+blocker that also acts as an alpha-blocker in higher doses; metoprolol 
+and bisoprolol are also considered safe), dihydropyridine CCBs (most 
+data are available for nifedipine, which is generally considered first 
+choice, also felodipine, nitrendipine, amlodipine, and isradipine can be 
+used), and methyldopa.662,663 A meta-analysis suggests that beta- 
+blockers and CCBs are more effective than methyldopa in preventing 
+severe hypertension.660 Of note, however, atenolol should be avoided, 
+as it is associated with foetal growth restriction.664,665 Methyldopa has 
+been associated with an increased risk of post-partum depression and 
+caution is therefore advised both intra-partum and post-partum.637 
+3970 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

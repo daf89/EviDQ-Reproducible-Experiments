@@ -1,0 +1,126 @@
+9.6. Diabetes 
+9.6.1. Diabetes and elevated blood pressure/ 
+hypertension 
+Patients with diabetes (both type 1 and type 2) often have elevated BP 
+or hypertension, and are about twice as likely to suffer a major CVD 
+event over the medium to long term compared with those without dia-
+betes.737 Diabetes is also a major cause of microvascular events, such as 
+retinopathy and nephropathy.738,739 Although the risk of CVD in pa-
+tients with diabetes varies by screening and diagnostic methods,740,741 
+as well as with the presence of other CVD risk factors,740,742 on aver-
+age, patients with diabetes are at ≥10% 10-year risk for CVD. 
+However, formal risk estimation with the use of SCORE2-Diabetes 
+among type 2 diabetes mellitus patients should be considered if they 
+are aged <60 years (see Section 6).164,739 
+9.6.2. J-shaped curve of blood pressure and risk of 
+cardiovascular disease in patients with diabetes 
+Evidence on the BP threshold and target for treatment in patients with 
+diabetes has been subject to debate. Reports of a J-shaped association 
+between BP and risk of CVD in diabetes,743 and the lack of a clear bene-
+fit of treatment on cardiac outcomes at lower BP in some 
+meta-analyses,744–746 has led to some cautious recommendations for 
+intensive treatment in this patient population. 
+An individual patient data meta-analysis by the Blood Pressure 
+Lowering Treatment Trialists’ Collaboration tested treatment effects 
+in 103 325 patients with diabetes and provided evidence against 
+effect modification by categories of baseline BP down to a systolic BP 
+of 120 mmHg.445 BP reduction in patients with diabetes is expected 
+to reduce the risk of diabetes-associated complications including retin-
+opathy, vasculopathy, and nephropathy (albuminuria and end-stage re-
+nal disease), which adds weight to the importance of reducing BP in 
+these patients (see Supplementary data online).745–747 This task force 
+also considered the fact that a proportion of patients with diabetes 
+have orthostatic hypotension due to diabetic neuropathy,748 which 
+might affect the tolerability of BP lowering. 
+9.6.3. Managing blood pressure in diabetes 
+We recommend that all patients with diabetes are offered pharmaco-
+logical BP-lowering treatment with a BP target of 120–129/70–79 mmHg, 
+if feasible and tolerated.136,146,445,747,749–752 The task force further sees no 
+strong evidence for a differential BP treatment targets in patients with dia-
+betes and those without.136,146,445,746,747 While the Action to Control 
+Cardiovascular Risk in Diabetes (ACCORD) trial reported a null primary 
+endpoint for more intensive BP targets in diabetes, stroke was marginally re-
+duced.137 Furthermore, extended follow-up of ACCORD,750 as well as ana-
+lyses of intensive BP reduction in those randomized to the standard 
+glycaemic arm,749 provide evidence suggesting benefit consistent with the 
+SPRINT, STEP, and Effects of intensive Systolic blood Pressure lowering 
+treatment in reducing RIsk of vascular evenTs (ESPRIT) trials.136,146,545 
+Overall, all major BP-lowering medication classes are effective in preventing 
+CVD in people with or without diabetes. Of note, however, albuminuria is 
+more common in diabetes and, for this reason, ACE inhibitors and ARBs 
+have potential advantages that may warrant consideration for BP-lowering 
+in patients with diabetes (see Supplementary data online, Table S10).753 
+Evidence for modifying BP-lowering treatment in patients with 
+pre-diabetes is somewhat limited. Furthermore, the relative effect of BP 
+lowering is relatively consistent across different categories of BMI as a 
+measure of obesity.754,755 It is also noteworthy that elevated BP itself 
+may increase the risk of diabetes,755 emphasizing the potential role of BP 
+lowering in preventing diabetes in addition to preventing CVD. Among 
+the major classes of BP-lowering drugs, ACE inhibitors and ARBs are effect-
+ive in preventing new-onset diabetes and can be considered in patients at 
+risk of diabetes and who are indicated for BP-lowering therapy.164,755 
+9.7. Chronic kidney disease 
+9.7.1. Relationship between hypertension and chronic 
+kidney disease 
+Approximately 850 million people worldwide have CKD, with >80% of 
+them hypertensive, and the prevalence is expected to rise to 1.56 billion 
+Recommendation Table 24 — Recommendations for 
+managing hypertension in patients with orthostatic 
+hypotension 
+Recommendation 
+Classa 
+Levelb 
+Before starting or intensifying BP-lowering 
+medication, it is recommended to test for orthostatic 
+hypotension, by first having the patient sit or lie for 5 
+min and then measuring BP 1 and/or 3 min after 
+standing.97,99 
+I 
+B 
+It is recommended to pursue non-pharmacological 
+approaches as the first-line treatment of orthostatic 
+hypotension among persons with supine 
+hypertension. For such patients, it is also 
+recommended to switch BP-lowering medications 
+that worsen orthostatic hypotension to an 
+alternative BP-lowering therapy and not to simply 
+de-intensify therapy.726,727,729,730 
+I 
+A 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 25 — Recommendations for 
+managing hypertension in patients with diabetes 
+Recommendations 
+Classa 
+Levelb 
+In most adults with elevated BP and diabetes, after a 
+maximum of 3 months of lifestyle intervention, BP 
+lowering with pharmacological treatment is 
+recommended for those with confirmed office BP 
+≥130/80 mmHg to reduce CVD risk.445,749 
+I 
+A 
+BP-lowering drug treatment is recommended for 
+people with pre-diabetes or obesity when confirmed 
+office BP is ≥140/90 mmHg or when office BP is 
+130–139/80–89 mmHg and the patient is at 
+predicted 10-year risk of CVD ≥10% or with 
+high-risk conditions, despite a maximum of 3 months 
+of lifestyle therapy.445 
+I 
+A 
+In persons with diabetes who are receiving 
+BP-lowering drugs, it is recommended to target 
+systolic BP to 120–129 mmHg, if 
+tolerated.136,146,445,747,749–752 
+I 
+A 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3975 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

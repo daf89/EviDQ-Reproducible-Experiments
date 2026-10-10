@@ -1,0 +1,108 @@
+Methods for guideline development
+Aim
+The aim of this project was to update the KDIGO 2012
+Clinical Practice Guideline for the Evaluation and Manage-
+ment of Chronic Kidney Disease.1 The guideline development
+methods are described below.
+Overview of the process
+This guideline adhered to international best practices for
+guideline development (Appendix B: Supplementary Table
+S2)916,917 and have been reported in accordance with the
+AGREE II reporting checklist.918 The processes undertaken
+for the development of the KDIGO 2024 Clinical Practice
+Guideline for the Evaluation and Management of CKD are
+described below.
+ Appointing Work Group members and the ERT
+ Finalizing guideline development methodology
+ Deﬁning scope of the guideline
+ Developing and registering protocols for systematic reviews
+ Implementing literature search strategies to identify the
+evidence base for the guideline
+ Selecting studies according to predeﬁned inclusion criteria
+ Conducting data extraction and risk of bias assessment of
+included studies
+ Conducting evidence syntheses, including meta-analysis
+where appropriate
+ Assessing the certainty of the evidence for each critical
+outcome
+ Finalizing guideline recommendations and supporting
+rationale
+ Grading the strength of the recommendations based on the
+overall certainty of the evidence and other considerations
+ Convening a public review of the guideline draft in July
+2023
+ Updating systematic reviews
+ Amending the guideline based on the external review
+feedback and updated systematic reviews
+ Finalizing and publishing the guideline.
+Commissioning of Work Group and ERT. KDIGO and the
+Co-Chairs assembled and engaged a Work Group with
+expertise
+in pediatric, adult, and geriatric nephrology,
+including both dialysis and transplant specialists; primary
+care; internal medicine; dietetics; nursing; women’s health;
+clinical trials; epidemiology; medical decision-making; and
+public health; as well as people living with CKD. Johns
+Hopkins University, with expertise in nephrology, evidence
+synthesis, and guideline development, was contracted as the
+ERT and was tasked with conducting the evidence reviews.
+The ERT coordinated the methodological and analytical
+processes of guideline development, including literature
+searching, data extraction, risk-of-bias assessment, evidence
+synthesis and meta-analysis, grading the certainty of the evi-
+dence per critical outcome, and grading the overall certainty
+of the evidence for the recommendations. The Work Group
+was responsible for writing the recommendations and the
+underlying rationale, grading the strength of the recom-
+mendations, and developing practice points.
+Deﬁning scope and topics and formulating key clinical ques-
+tions. The KDIGO 2012 CKD guideline was reviewed by the
+Co-Chairs to identify topics to be included in the 2024
+guideline. Scoping reviews of these topics were conducted by
+the ERT to provide an overview of the available evidence base
+and to identify existing relevant systematic reviews.
+The Risk of Bias in Systematic Reviews (ROBIS) tool was
+used to assess the risk of bias of the existing reviews. When
+high-quality systematic reviews were identiﬁed during the
+scoping reviews, the ERT conducted an updated search based
+on the existing review and extracted information from the
+newly identiﬁed studies. This information was added to the
+existing review data and analyzed as appropriate.
+For topics that did not map to current high-quality re-
+views, de novo systematic reviews were undertaken. Protocols
+for each review were developed by the ERT and reviewed by
+the Work Group. Protocols were registered on PROSPERO
+(https://www.crd.york.ac.uk/prospero/). Systematic reviews
+were conducted in accordance with current standards,
+including those from the Cochrane Handbook.919
+Details
+of
+the
+Population,
+Intervention,
+Comparator,
+Outcome and Study design (PICOS) of the questions are pro-
+vided in Table 44.23,316,318,415,511,609,920–926 Information about
+existing reviews that were used is included in these tables.
+For some topics not predeﬁned in the Scope of Work, the
+ERT extracted the certainty of evidence from existing high-
+quality systematic reviews, as available. Details of the PICOS
+for these questions are also provided in Table 44.
+Literature searches and article selection. Searches for RCTs
+were conducted on PubMed, Embase, and the Cochrane
+Central Register of Controlled Trials (CENTRAL), and
+searches for diagnosis/prognosis studies were conducted on
+PubMed, Embase, and CINAHL. For topics with available
+existing reviews, the review was used and an updated search
+was conducted. The search strategies are provided in
+Appendix A: Supplementary Table S1.
+To improve efﬁciency and accuracy in the title/abstract
+screening process and to manage the process, search results
+were uploaded to a web-based screening tool, PICO Portal
+(www.picoportal.net). PICO Portal uses machine learning to
+sort and present those citations most likely to be promoted to
+full-text screening ﬁrst. The titles and abstracts resulting from
+methods for guideline development
+www.kidney-international.org
+S274
+Kidney International (2024) 105 (Suppl 4S), S117–S314

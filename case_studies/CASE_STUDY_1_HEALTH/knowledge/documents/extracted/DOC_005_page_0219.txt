@@ -1,0 +1,86 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+219
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_E8 
+Secteurs d’activité : psychiatrie, chirurgie et interventionnel, maternité, SSR, SLD
+Champ d’applicabilité
+Sous-champ d’applicabilité
+Règles 
+Chirurgie et 
+interventionnel
+Activités interventionnelles 
+sous imagerie médicale, 
+par voie endovasculaire, en 
+neuroradiologie
+Table : filtre (select statut=INIT) – NEUROCHIR
+Clef : FI
+If filtre.NEURO_INT=1 and 
+[NEUROCHIR.LIT_NEURAD >0 or
+NEUROCHIR.SEJ_END>0 or
+NEUROCHIR.JOU_END>0]
+Then SCA0010 = true
+else SCA0010 = false
+Neurochirurgie
+Table : filtre (select statut=INIT) – NEUROCHIR
+Clef : FI
+If filtre.NEUROCHIR_INT=1 and
+[NEUROCHIR.LIT_NEUCHI>0 or
+NEUROCHIR.SEJ_ADU>0 or
+NEUROCHIR.SEJ_PED>0 or
+NEUROCHIR.SEJ_REA>0 or
+NEUROCHIR.SEJ_POS>0 or
+NEUROCHIR.JOU_ADU>0 or
+NEUROCHIR.JOU_PED >0 or
+NEUROCHIR.JOU_REA >0 or
+NEUROCHIR.JOU_POS>0 or
+then SCA0011= true
+else SCA0011= false
+Transplantation d’organes et 
+greffe de moelle osseuse
+Table : filtre (select statut=INIT)
+Clef : FI
+If filtre.GREFFE=1
+then SCA0012= true
+else SCA0012= false
+Traitements des grands brûlés
+Table : filtre (select statut=INIT) – BRULES 
+Clef : FI
+If filtre.BRULE=1 and
+[BRULES.LIT_REA >0 or
+BRULES.LIT_BRU> 0 or
+BRULES.SEJ_REA>0 or
+BRULES.SEJ>0 or
+BRULES.JOU_REA>0 or
+BRULES.JOU>0 or
+BRULES.ACT>0 or
+BRULES.VEN>0]
+then SCA0013= true
+else SCA0013= false
+Maternité
+Périnatalité
+Table : filtre (select statut=INIT) – PERINAT
+(select AUTOR=TYPE 1 + AUTOR=TYPE 2 + AUTOR=TYPE 3)
+Clef : FI
+If filtre.HEB_PERINAT=1 and
+[PERINAT.LIT_OBS>0 or
+PERINAT.LIT_NEO_HSI>0 or
+PERINAT.LIT_SIN>0 or
+PERINAT.LIT_REA>0 or
+PERINAT.SEJ_OBS>0 or
+PERINAT.SEJ_NEO_HSI>0 or
+PERINAT.SEJ_SIN>0 or
+PERINAT.SEJ_REA>0 or
+PERINAT.SEJ_BAM>0 or
+PERINAT.SEJACC>0 or
+PERINAT.JOUACC>0 or
+PERINAT.JOU_OBS>0 or
+PERINAT.JOU_SIN>0 or
+PERINAT.JOU_REA>0 or
+PERINAT.JOU_BAM>0 or
+PERINAT.JOU_NEO_HSI>0]
+then SCA0017= true
+else SCA0017= false

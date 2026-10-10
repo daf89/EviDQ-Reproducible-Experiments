@@ -1,0 +1,39 @@
+40
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-13 En HAD, le patient sait qui contacter 
+à tout moment
+Le patient doit être informé des numéros d’appel qui lui permettent d’obtenir une intervention soignante 
+24 heures sur 24 et 7 jours sur 7 et, si nécessaire, le recours à un avis médical en interne ou en externe 
+à tout moment.
+ Hospitalisation à domicile Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient et/ou ses proches et/ou aidants savent qui 
+contacter à tout moment.
+• Les numéros d’appel sont consignés dans un document 
+disponible au domicile du patient.
+ Professionnels 
+• Un médecin ou une IDE peut répondre au patient en cas 
+de besoin 24 heures sur 24 et 7 jours sur 7.
+Patient traceur
+Fiche pédagogique 
+Évaluation de l’hospitalisation à domicile.
+Références HAS
+Algorithme d’aide à la décision
+d’orientation des patients en HAD
+à destination des médecins prescripteurs,
+2017.
+Références légales 
+et réglementaires
+• Décret n° 2022-102 du 31 janvier 2022 
+relatif aux conditions techniques de 
+fonctionnement de l'activité 
+d'hospitalisation à domicile.

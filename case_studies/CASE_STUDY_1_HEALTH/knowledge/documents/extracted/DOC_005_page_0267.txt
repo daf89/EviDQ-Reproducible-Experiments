@@ -1,0 +1,45 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+267
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique opératoire_V8 
+Comment exprimer sa satisfaction sur le déroulement 
+de la visite ?
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche présente les modalités d’expression de la satisfaction de l’établissement sur le déroulé de la visite à 
+l’issue de sa réalisation.
+ En pratique
+Il s’agit d’un recueil de données provenant de différentes sources (chef de projet, établissement, experts-visiteurs [EV, 
+MPT, coordonnateur]) et dont les résultats agrégés et analysés permettront de mesurer la satisfaction des différentes 
+parties prenantes sur la réalisation de la mission.
+Ces données sont recueillies sous la forme de questionnaires dans CALISTA à partir du lien qui lui est adressé. Il 
+dispose de 6 semaines pour le renseigner. 
+Il y a cinq échelles pour les modalités de réponse :
+1 – Pas du tout utile, 2 – Peu utile, 3 – Plutôt utile, 4 – Très utile
+1 – Pas du tout adapté, 2 – Peu adapté, 3 – Plutôt adapté, 4 – Très adapté
+1 – Difficultés très impactantes, 2 – Difficultés moyennement impactantes, 3 – Difficultés peu impactantes,
+4 – Aucune difficulté impactante
+1 – Pas du tout satisfait, 2 – Plutôt insatisfait, 3 – Satisfait, 4 – Tout à fait satisfait
+La satisfaction globale est appréciée selon une échelle à 10 niveaux (0 = pas du tout satisfait à 10 = tout à fait satisfait).
+Mesure de la satisfaction de l’établissement
+Trois thèmes sont ciblés dans le questionnaire : 
+• • le programme de la visite : respect global, anticipation des ajustements en visite, adaptation
+• • la pédagogie des experts-visiteurs : appréciation de la clarté des explications (sur les objectifs de la visite, sur 
+les attendus du référentiel, dans les restitutions…) ;
+• • les investigations : appréciation sur la conduite des méthodes (respect méthodologique) et sur 
+la communication et la qualité des échanges entre les professionnels et les experts-visiteurs, dans 
+le respect de la charte de déontologie de l’expert-visiteur.
+Pour conclure, un commentaire sous forme de texte libre est obligatoire au cas où une appréciation correspond 
+à « pas du tout », « plutôt satisfait » ou si la note de la satisfaction globale est inférieure à 5. Le commentaire est 
+facultatif dans les autres cas.
+Mesure de la satisfaction de l’expert-visiteur et du médecin centré patient traceur ou expert-visiteur 
+numérique
+À l’issue de la visite, chaque expert-visiteur et chaque médecin centré patient traceur et chaque exper-visiteur 
+numérique missionnés expriment leur avis sur :
+• • la qualité des données préparatoires à la visite en évaluant si elles ont été suffisantes pour la bonne conduite 
+des évaluations qui ont été confiées ;
+• • les informations sur l’utilisation de CALISTA ;

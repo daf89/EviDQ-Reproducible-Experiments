@@ -1,0 +1,13 @@
+﻿feature,n_natural_observations,total_affected,n_documentary_diagnostic_candidates
+cost_emergency_tm1,2,45203,12
+cost_home_health_tm1,2,48784,12
+cost_ip_medical_tm1,2,48784,12
+cost_laboratory_tm1,3,14339,18
+cost_op_specialists_tm1,2,11957,12
+cost_op_surgery_tm1,2,31720,12
+cost_other_tm1,2,11428,12
+cost_pharmacy_tm1,3,48787,18
+cre_tests_tm1,2,29761,0
+dem_age_band_65-74_tm1,1,41844,0
+dem_age_band_75+_tm1,1,45355,0
+gagne_sum_tm1,2,23885,0

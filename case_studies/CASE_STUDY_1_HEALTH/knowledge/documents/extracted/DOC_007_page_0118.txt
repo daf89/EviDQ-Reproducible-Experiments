@@ -1,0 +1,194 @@
+Certainty of the evidence. The overall certainty of the evi-
+dence for uric acid–lowering therapy among people with CKD
+and hyperuricemia is very low. The critical outcome of delaying
+the progression of CKD was addressed by 7 RCTs.150,612,615–619
+The
+certainty
+of
+the
+evidence
+was
+downgraded
+for
+inconsistency because there was some statistical heterogeneity
+detected in our meta-analysis (Supplementary Table S12
+615–619,637,638,640,642,651,653). The certainty of the evidence was
+further downgraded because of very serious imprecision, as
+there were few events in the trials.
+Values and preferences. The Work Group judged that most
+well-informed people with CKD would prefer to optimize
+medical therapies that have proven beneﬁt for CKD pro-
+gression, and that there is little evidence to support the
+treatment of asymptomatic hyperuricemia to modify the risk
+of CKD progression.
+Resource use and costs. There are no cost considerations,
+beyond cost-savings, in our recommendation not to use uric
+acid–lowering agents.
+Considerations for implementation. There are no imple-
+mentation considerations in our recommendation not to use
+uric acid–lowering agents.
+Rationale
+There is insufﬁcient evidence to recommend the use of uric
+acid–lowering therapies in asymptomatic hyperuricemia for
+the speciﬁc purpose of delaying CKD progression. We make
+the recommendation not giving uric acid–lowering therapy in
+asymptomatic hyperuricemia for slowing of kidney disease
+based on the current evidence that suggests unclear beneﬁts.
+We judge that it is best practice not to expose people to
+medications that provide little beneﬁt.
+3.15 Cardiovascular disease (CVD) and additional
+speciﬁc interventions to modify risk
+Prevalence and diagnosis. People with CKD are at increased
+risk of CVD,654,655 a key feature of which is structural heart
+disease, heart failure, and sudden death.656–658 Increased risk
+of atherosclerotic disease also accompanies CKD.654 These
+risks increase progressively as eGFR declines (Figure 3612).4
+Risk of death from CVD exceeds the risk of progression to
+kidney failure for the majority of people with CKD.
+The diagnosis of cardiac disease can be more complex and
+challenging in CKD, with many standard tests needing careful
+Table 30| Randomized controlled trials in the treatment of asymptomatic hyperuricemia in people with CKD
+Study (N)
+CKD population
+Intervention
+(follow-up)
+Outcome
+CKD-FIX615 (N ¼ 369)
+CKD G3–G4, mean ACR 717 mg/g (81 mg/mmol),
+mean urate 8.2 mg/dl (490 mmol/l)
+Allopurinol vs.
+placebo (104 wk)
+No signiﬁcant difference in eGFR decline,
+3.33 vs. 3.23 ml/min per 1.73 m2/yr
+PERL Study group616
+(N ¼ 530)
+eGFR 40–99.9 ml/min per 1.73 m2
+and type 1 diabetes
+Allopurinol vs.
+placebo (3 yr)
+No signiﬁcant difference in mGFR decline,
+3.0 vs. 2.5 ml/min per 1.73 m2/yr
+FEATHER Study637
+(N ¼ 467)
+CKD G3
+Febuxostat vs.
+placebo (108 wk)
+No signiﬁcant difference in eGFR slope
+0.23  5.26 vs. 0.47  4.4.8 ml/min per
+1.73 m2
+ACR, albumin-to-creatinine ratio; CKD, chronic kidney disease; CKD-FIX, Controlled Trial of Slowing of Kidney Disease Progression from the Inhibition of Xanthine Oxidase;
+eGFR, estimated glomerular ﬁltration rate; FEATHER, Febuxostat vs. Placebo Randomized Controlled Trial Regarding Reduced Renal Function in Patients With Hyperuricemia
+Complicated by Chronic Kidney Disease Stage 3; PERL, Preventing Early Renal Loss in Diabetes.
+105+
+90–104
+60–89
+45–59
+30–44
+15–29
+<15
+<10
+10–29
+30–299
+300–999
+1000+
+Overall
+eGFRcr
+ACR (mg/g)
+All-cause mortality: 82 cohorts
+Study size = 26,444,384; events = 2,604,028
+105+
+90–104
+60–89
+45–59
+30–44
+15–29
+<15
+<10
+10–29
+30–299
+300–999
+1000+
+Overall
+eGFRcr
+ACR (mg/g)
+Cardiovascular mortality: 76 cohorts
+Study size = 26,022,346; events = 776,441
+1.6
+2.2
+2.9
+4.3
+5.8
+Ref
+1.3
+1.8
+2.6
+3.1
+1.0
+1.3
+1.7
+2.2
+2.8
+1.3
+1.6
+2.0
+2.4
+3.1
+1.8
+2.0
+2.5
+3.2
+3.9
+2.8
+2.8
+3.3
+4.1
+5.6
+4.6
+5.0
+5.3
+6.0
+7.0
+1.4
+2.0
+3.0
+4.1
+5.4
+Ref
+1.3
+1.9
+2.7
+3.6
+1.0
+1.4
+1.7
+2.4
+3.2
+1.4
+1.7
+2.2
+2.8
+3.8
+2.0
+2.3
+2.8
+3.7
+4.6
+3.2
+3.1
+3.5
+5.0
+6.5
+6.1
+6.4
+6.4
+7.3
+8.2
+Figure 36 | Risk of all-cause and cardiovascular mortality by estimated glomerular ﬁltration rate (eGFR) and level of albuminuria from
+general population cohorts contributing to the Chronic Kidney Disease Prognosis Consortium. ACR, albumin-to-creatinine ratio; eGFRcr,
+creatinine-based estimated glomerular ﬁltration rate. Reproduced with permission from JAMA, Writing Group for the CKD Prognosis
+Consortium; Grams ME, Coresh J, Matsushita K, et al. Estimated glomerular ﬁltration rate, albuminuria, and adverse outcomes: an individual-
+participant data meta-analysis. JAMA. 2023;330(13):1266–1277.12 Copyright ª 2023 American Medical Association. All rights reserved.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S233

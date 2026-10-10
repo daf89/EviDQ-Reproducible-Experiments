@@ -1,0 +1,73 @@
+Using Chart Audits to Abstract EHR Data 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Compared to the convenience of using existing EHR reports or the complications of developing custom 
+extracts, using a chart audit to retrieve EHR data for QI is often a last resort. Manually abstracting data is 
+labor-intensive and requires broad access to patients’ records to find and record needed data elements. 
+Exhibit 25: Advantages and Challenges of Using Chart Audits to Abstract EHR Data 
+Advantages 
+Challenges 
+• 
+A “low tech” option that can be used 
+anywhere 
+• 
+Provides data for QI while data challenges 
+(e.g., mapping errors) are resolved 
+• 
+Provides access to non-structured data 
+• 
+Can provide data for rapid testing of process 
+improvements that have not yet been spread 
+throughout the practice 
+• 
+Sampling strategies can reduce the work 
+effort 
+• 
+Procedures for abstraction are more flexible 
+• 
+Can usually be done remotely 
+• 
+Requires significant time and resources 
+• 
+Quality of data can vary depending on 
+auditor 
+• 
+Auditors require broad access to patient 
+records 
+• 
+A sampling strategy may exclude important 
+data 
+• 
+Clinics may be reluctant to allow access to 
+charts 
+When should chartaudits beused? 
+Sometimes, when a chart audit is not prohibited by limited resources and physical (or virtual) access, 
+doing a manual chart audit to retrieve EHR data can actually be the best choice. Health IT Advisors 
+might consider doing a chart audit to collect data in the following situations: 
+• 
+When clinics are already are doing chart audits and are willing to collect extra data 
+• 
+When a small number of records needs to be audited to provide required data elements 
+• 
+When required data elements are “hidden” in narrative text, notes, or scanned documents 
+• 
+When additional interpretation or context is needed to collect the needed data elements 
+• 
+When measures produced by EHR reports are challenged as inaccurate 
+• 
+When the use of a sampling strategy will not impact data quality 
+• 
+When testing improvements with a subset of the practice 
+• 
+When there is a desire to validate the data coming from automated reports 
+• 
+When there are no other options to retrieve EHR data. 
+EXAMPLE: 
+In a previous example, your goal of extracting A1c values directly from the EHR was 
+complicated by the significant number of results “hidden” in scanned documents. Once you 
+have ruled out modifying workflows to capture structured data, using an existing EHR report, 
+dashboards, or requesting/developing a custom query, then a protocol to extract the lab 
+results visually from the scanned documents may be the only choice. 
+Health IT Advisor Handbook 
+Page 49

@@ -1,0 +1,129 @@
+and major femoral artery vascular access complications for coronary 
+angiography using a femoral approach is typically reported as 
+1%–4%574,575 but has been reported as 5%–10% in some studies.575 
+Trials investigating radial access for renal denervation are currently on-
+going (ClinicalTrials.gov identifier: NCT05234788). After renal denerv-
+ation, there is a 0.25%–0.5% rate of renal artery stenosis/dissection 
+requiring stenting.576 Long-term follow-up data up to 3 years have 
+not suggested worsening of renal function beyond the expected rates 
+in patients with hypertension with mildly-to-moderately reduced renal 
+function.569,577 Of note, sham-controlled trials to date excluded pa-
+tients with severely reduced kidney function at baseline.564,566–568 
+Despite the clear promise of renal denervation in reducing BP, there 
+are some concerns that warrant consideration, as we indicate in the re-
+commendations. First, the effect of current renal denervation catheter 
+technologies on BP lowering is relatively modest for an invasive proced-
+ure (meta-analyses report placebo-corrected systolic BP lowering 
+of approximately 6 mmHg on office BP assessment and 4 mmHg on 
+24 h ABPM).578 As such, the average BP-lowering effect of renal de-
+nervation appears no more than for one standard BP-lowering medica-
+tion. Accordingly, many adults undergoing renal denervation will likely 
+require ongoing, post-procedural, BP-lowering drugs. 
+Second, the cost-effectiveness of renal denervation has not been fully 
+established. Since effects of current renal denervation technologies are 
+similar to that of one standard BP-lowering medication, most of which 
+are generic, it is difficult to see a scenario where renal denervation 
+could be proven cost-effective for most patients. An exception might 
+be patients who are at very high risk of CVD events and who have un-
+controlled BP due to resistant hypertension (with or without 
+non-adherence).579,580 
+Third, there are no adequately powered outcomes trials demon-
+strating that renal denervation reduces CVD events and is safe in the 
+long term. While observational reports have suggested associations be-
+tween renal denervation and reduced risk for CVD events,581,582 these 
+observational data have major inferential limitations including a signifi-
+cant potential for confounding. While BP lowering is typically a good 
+surrogate for CVD benefit, there is no guarantee that this is true 
+with renal denervation and, furthermore, off-target effects independent 
+of BP could influence CVD and other adverse-event rates after the pro-
+cedure. Because of the lack of outcomes trials, renal denervation can-
+not reach the Class I indication threshold set by this task force. 
+Arguments that outcomes trials will not be funded are insufficient to 
+influence guideline recommendations. However, it is hoped that the 
+position of these guidelines will motivate industry to sponsor the neces-
+sary renal denervation outcomes trials. 
+Fourth, related to the lack of outcomes data, the potentially ‘always 
+on’ effect of renal denervation could backfire if late complications 
+emerge. Medications causing complications or side effects can simply 
+be stopped and replaced with alternative medications when such pro-
+blems emerge; this is not true with renal denervation. 
+Fifth, the impact of scaling up renal denervation on usual cardiac de-
+partment catheterization laboratory workflows is of some concern. 
+Specifically, it is important that renal denervation procedures do not 
+delay timely access to other elective procedures with proven efficacy 
+in reducing CVD outcomes.583 
+Sixth, there is still no direct evidence to gauge whether renal denerv-
+ation procedures are successful and that the kidneys are denervated 
+and do not reinnervate over time.584 Relatedly, the concept of respon-
+ders and non-responders to renal denervation (and the hypothesis that 
+predictors of response might be found to help identify patients most 
+suitable for the procedure) is questioned. Medical interventions, 
+including drugs, are naturally subject to inter-individual variability in re-
+sponse.567 Additionally, there are few examples in medicine of consist-
+ent and clinically useful predictors of treatment response for medical 
+conditions that have complex genetic and environmental underpinnings 
+(i.e. conditions like hypertension). 
+A multidisciplinary hypertension team, including experts in hyperten-
+sion and percutaneous cardiovascular interventions, is recommended to 
+evaluate the indication and to perform the procedure.585 Based on the 
+available evidence, renal denervation may be considered for patients 
+who have uncontrolled, true resistant hypertension with a three-drug 
+combination and who express a preference to undergo renal denerv-
+ation.566,568,585 This recommendation is informed, in part, by the higher 
+risk of CVD events in this subgroup, which represents a major unmet 
+clinical need and which also means that cost-effectiveness considerations 
+are likely to be optimal in this setting. In patients who are non-adherent 
+or intolerant to multiple BP-lowering medications, particularly first-line 
+agents, and who have high predicted CVD risk and a BP that is not at tar-
+get, renal denervation may, for the same reasons, be considered if the pa-
+tients express a preference to undergo renal denervation after a tailored 
+shared decision-making process. The shared decision-making process re-
+quires that the patients are fully informed about the benefits, limitations, 
+and risks associated with renal denervation. 
+Recommendation Table 20 — Recommendations for 
+device-based treatment of hypertension (see Evidence 
+Table 35) 
+Recommendations 
+Classa 
+Levelb 
+To reduce BP, and if performed at a medium-to-high 
+volume centre, catheter-based renal denervation 
+may be considered for resistant hypertension 
+patients who have BP that is uncontrolled despite a 
+three BP-lowering drug combination (including a 
+thiazide or thiazide-like diuretic), and who express a 
+preference to undergo renal denervation after a 
+shared risk-benefit discussion and multidisciplinary 
+assessment.564,566–568,586–590 
+IIb 
+B 
+To reduce BP, and if performed at a medium-to-high 
+volume centre, catheter-based renal denervation 
+may be considered for patients with both increased 
+CVD risk and uncontrolled hypertension on fewer 
+than three drugs, if they express a preference to 
+undergo renal denervation after a shared risk-benefit 
+discussion and multidisciplinary assessment.564,566– 
+568,586–590 
+IIb 
+A 
+Due to a lack of adequately powered outcomes trials 
+demonstrating its safety and CVD benefits, renal 
+denervation is not recommended as a first-line 
+BP-lowering intervention for hypertension. 
+III 
+C 
+Renal denervation is not recommended for treating 
+hypertension in patients with moderate-to-severely 
+impaired renal function (eGFR <40 mL/min/1.73 m2) 
+or secondary causes of hypertension, until further 
+evidence becomes available. 
+III 
+C 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease; eGFR, estimated glomerular filtration 
+rate. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3967 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

@@ -1,0 +1,168 @@
+
+
+===== PDF PAGE 311 =====
+
+HPart 5: The STEPS Instrument 
+ 
+5-4I-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+Disability Module 
+ 
+Disability 
+The next questions ask about your health, any long-lasting conditions or illnesses that may restrict your day-to-day activities. 
+Question 
+Response 
+Code 
+Do you have any physical or mental health conditions or 
+illnesses lasting or expected to last 12 months or more? 
+  
+ 
+Yes 
+1   
+DM1 
+No  2 If No, go to next module 
+Do any of your conditions or illnesses reduce your ability to 
+carry out day-to-day activities?  
+ 
+ 
+Yes, a lot 
+1 
+DM2 
+Yes, a little 
+2 
+Not at all  3 
+ 
+
+
+===== PDF PAGE 312 =====
+
+HPart 5: The STEPS Instrument 
+ 
+5-4J-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+Mental health (depression) 
+ 
+ 
+Mental health  
+ 
+The next questions are about feelings of sadness, depression, and loss of interest and pleasure.  
+Question 
+Response 
+Code 
+In the last 12 months, have you, for a period of at least 2 weeks, felt sad or depressed 
+for most of the day, nearly every day? 
+Yes 
+1     
+MH1 
+No 
+2        
+Refused 
+88 
+In the last 12 months, have you, for a period of at least 2 weeks, been a lot less 
+interested in, or experienced a lot less pleasure from, doing the things you normally 
+enjoy? 
+ 
+ 
+Yes 
+1     
+MH2 
+No 
+2 If No and MH1=2, go 
+to next module 
+Refused 
+88 
+Please tell me when in the last 12 months you experienced the worst period of [LOW 
+MOOD and/or LOSS OF INTEREST OR PLEASURE] that lasted for at least 2 weeks?  
+Period (e.g., month):  
+___________ 
+MH3 
+The next questions I am going to ask you will all refer specifically to this time, that is [INSERT ANSWER TO MH3]. Try to remember as best you can what 
+you were experiencing during that time, rather than what you might have experienced at other times. 
+During this time in which your [LOW MOOD and/or LOSS OF INTEREST] were at its 
+worst, that is [SPECIFY PERIOD FROM MH3], did you have more trouble concentrating 
+and staying focused on things than usual OR did you struggle more than usual to make 
+decisions most of the day, nearly every day for at least 2 weeks? 
+Yes 
+1 
+MH4 
+No 
+2 
+Refused 
+88 
+During that same 2-week period, in [SPECIFY PERIOD], did you feel less valuable as a 
+person or even worthless most of the day, nearly every day? 
+Yes 
+1 Go to MH7  
+MH5 
+No 
+2  
+Refused 
+88 
+During that same 2-week period, did you feel overly guilty about things you did or 
+neglected to do most of the day, nearly every day?   
+Yes 
+1     
+MH6 
+No 
+2 
+Refused 
+88 
+During that same 2-week period, did you feel more hopeless about the future, like things 
+would never turn out well for you most of the day, nearly every day? 
+Yes 
+1 
+MH7 
+No 
+2 
+Refused 
+88 
+The next question can be a sensitive question.  
+During that same 2-week period, in [SPECIFY PERIOD], on most days did you think about 
+death or suicide, or did you try to end your life? 
+Yes 
+1     
+MH8 
+No 
+2 
+Refused 
+88 
+On most days during that same 2-week period, did you have more trouble sleeping than 
+usual (for example falling or staying asleep), or did you sleep a lot more than you usually 
+do? 
+Yes 
+1     
+MH9 
+No 
+2 
+Refused 
+88 
+On most days during that same 2-week period, did you not want to eat even when food 
+was available, OR did you eat more than before your [LOW MOOD, and/or LOSS OF 
+INTEREST] started? 
+Yes 
+1     
+MH10 
+No 
+2 
+Refused 
+88 
+On most days during that same 2-week period, did you have less energy than before 
+your [LOW MOOD, and/or LOSS OF INTEREST] started OR were you much more tired 
+than usual even when doing some small task? 
+Yes 
+1     
+MH11 
+No 
+2 
+Refused 
+88 

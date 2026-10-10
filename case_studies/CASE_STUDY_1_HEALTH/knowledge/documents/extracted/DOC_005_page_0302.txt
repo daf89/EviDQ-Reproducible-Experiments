@@ -1,0 +1,48 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+302
+Suivi des modifications du 
+référentiel (par rapport à la version de novembre 2022)
+Ajustements
+Critère 1.1-02
+Le patient est impliqué, s’il le souhaite, dans l’évaluation bénéfice/risque de toute décision 
+majeure pour sa prise en charge
+Suppression du critère avec transfert des éléments d’évaluation dans le critère 1.1-03.
+Critère 1.1-03
+Pour demander le consentement du patient, il est nécessaire de partager avec lui l’évaluation bénéfice/
+risque. Intégration des éléments d’évaluation du critère 1.1-02.
+Création d’un élément d’évaluation : L’évaluation bénéfice/risque a été expliquée et partagée avec le 
+patient ou, le cas échéant, avec le patient et/ou la personne de confiance qu’il a désignée.
+Création d’un élément d’évaluation : Une évaluation bénéfice/risque a été partagée avec le patient. 
+Ses préférences ont été recherchées et prises en compte, si possible.
+Critère 1.1-05
+Regroupement d’éléments d’évaluation nécessaires au suivi de la prise en charge.
+Le patient bénéficie de messages renforçant sa capacité à agir pour sa santé
+Suppression de l’élément d’évaluation : Pour les patients vivant avec un handicap ou en situation de 
+précarité, les carences en soins sont recherchées.
+Transfert vers le critère 1.4-01 pour les patients en situation de précarité et vers le critère 1.4-02 pour les 
+patients vivant avec un handicap.
+Libellé 2023 : Des supports d’information et de communication sur les messages de santé publique 
+(vaccination, maltraitance...) et la prévention primaire (tabac, alcool, autres drogues, activité physique, 
+nutrition, hygiène, sexualité, dépistages...) sont affichés ou à disposition dans les services.
+Libellé 2024 : Des supports d’information sur les messages de santé publique (vaccination, maltraitance, 
+numéro national de prévention du suicide...) et la prévention primaire (tabac, alcool, autres drogues, 
+activité physique, nutrition, hygiène, sexualité, dépistages...) sont disponibles dans les services (flyers, 
+affiches, etc.).
+Libellé 2023 : Le patient bénéficie d’interventions qui visent à renforcer sa capacité à agir pour promouvoir 
+sa santé et réduire ses risques (tabac, alcool, autres drogues, activité physique, nutrition, hygiène, 
+sexualité, dépistages, évaluation de son statut vaccinal…).
+Libellé 2024 : Le patient bénéficie de messages spécifiques et adaptés pour promouvoir sa santé et 
+réduire ses risques (tabac, alcool, autres drogues, activité physique, nutrition, hygiène, sexualité, 
+dépistages, évaluation de son statut vaccinal…).
+Critère 1.1-07
+Augmentation de l'exigence des éléments d’évaluation.
+Les futurs parents discutent d’un projet de naissance avec l’équipe soignante dès le début de la 
+grossesse
+Libellé 2023 : Un projet de naissance a été proposé aux futurs parents, s’ils l’ont souhaité, dès le début de 
+la grossesse (patient).
+Libellé 2024 : S'ils l'ont souhaité, un projet de naissance a été élaboré avec les futurs parents dès le début 
+de la grossesse.
+Libellé 2023 : Un projet de naissance a été proposé aux futurs parents, s’ils l’ont souhaité, dès le début de 
+la grossesse (professionnels).
+Libellé 2024 : S'ils l'ont souhaité, un projet de naissance a été élaboré avec les futurs parents dès le début 
+de la grossesse (professionnels).

@@ -1,0 +1,222 @@
+
+
+===== PDF PAGE 265 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-1 
+ 
+ 
+WHO STEPS Q-by-Q Guide 
+for Noncommunicable Disease 
+Risk Factor Surveillance 
+ 
+<insert country name> 
+ 
+ 
+Location and Date 
+Response 
+Code 
+Cluster/Centre/Village ID 
+Enter Cluster, Centre or Village ID from list provided. 
+└─┴─┴─┴─┴─┴─┘ 
+I1 
+Cluster/Centre/Village name 
+Enter Cluster, Centre or Village name as appropriate. 
+I2 
+Interviewer ID 
+Enter interviewer's identification. 
+└─┴─┴─┘ 
+I3 
+Date of completion of the instrument 
+Enter date when instrument actually completed. 
+└─┴─┘ └─┴─┘ └─┴─┴─┴─┘ 
+dd 
+mm 
+year 
+I4 
+ 
+ 
+Consent, Interview Language and Name 
+Response 
+Code 
+Consent has been read and obtained 
+Select relevant response. 
+Yes 
+No 
+1 
+2 
+If NO, END 
+I5 
+English 
+1 
+Interview Language [Insert Language] 
+Select relevant response. 
+[Add others] 
+[Add others] 
+[Add others] 
+2 
+3 
+4 
+I6 
+Time of interview 
+(24 hour clock) 
+Enter time interview started. 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+I7 
+Family Surname 
+Enter family surname (reassure the participant on the confidential nature of 
+this information and that this is only needed for follow up). 
+I8 
+First Name 
+Enter first name of respondent (reassure the participant on the confidential 
+nature of this information and that this is only needed for follow up). 
+I9 
+Additional Information that may be helpful 
+Contact phone number where possible 
+Enter phone number (reassure the participant on the confidential nature of 
+this information and that this is only needed for follow up). 
+I10 
+Survey Information 
+
+
+===== PDF PAGE 266 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-2 
+ 
+ 
+ 
+ 
+ 
+CORE: Demographic Information 
+Question 
+Response 
+Code 
+Sex (Record Male / Female as observed) 
+Select Male / Female as observed. 
+Male 
+Female 
+1 
+2 
+C1 
+What is your date of birth? 
+Don't Know 77 77 7777 
+Enter date of birth of participant. If unknown, select “don’t know”. 
+└─┴─┘ └─┴─┘ └─┴─┴─┴─┘ If known, Go to C4 
+dd 
+mm 
+year 
+C2 
+How old are you? 
+If the age is unknown, help participant estimate their age by 
+interviewing them about their recollection of widely known major 
+events. 
+Years 
+└─┴─┘ 
+C3 
+In total, how many years have you spent at school and in full-time 
+study (excluding pre-school)? 
+Enter total number of years of education (excluding pre-school and 
+kindergarten). 
+Years 
+└─┴─┘ 
+C4 
+ 
+EXPANDED: Demographic Information 
+What is the highest level of education you have completed? 
+No formal schooling 
+Less than primary school 
+Primary school completed 
+Secondary school completed 
+High school completed 
+College/University completed 
+Post graduate degree 
+Refused 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+88 
+[INSERT COUNTRY-SPECIFIC CATEGORIES] 
+If a person attended a few months of the first year of secondary 
+school but did not complete the year, select “primary school 
+C5 
+completed”. If a person only attended a few years of primary school, 
+select “less than primary school”. 
+Select appropriate response. 
+What is your [insert relevant ethnic group / racial group / cultural 
+subgroup / others] background? 
+Select the relevant ethnic/cultural group to which the participant 
+[Locally defined] 
+[Locally defined] 
+[Locally defined] 
+1 
+2 
+3 
+C6 
+belongs. 
+Refused 
+88 
+Never married 
+1 
+Currently married 
+2 
+What is your marital status? 
+Select the appropriate response. 
+Separated 
+Divorced 
+Widowed 
+3 
+4 
+5 
+C7 
+Cohabitating 
+6 
+Refused 
+88 
+Which of the following best describes your main work status over 
+Government employee 
+Non-government employee 
+Self-employed 
+Non-paid 
+Student 
+Homemaker 
+Retired   
+Unemployed (able to work) 
+Unemployed (unable to work) 
+Refused 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+88 
+the past 12 months? 
+[INSERT COUNTRY-SPECIFIC CATEGORIES] 
+(USE SHOWCARD) 
+C8 
+The purpose of this question is to help answer other questions such 
+as whether people in different kinds of occupations may be 
+confronted with different risk factors. 
+Select appropriate response. 
+How many people older than 18 years, including yourself, live in your 
+household? 
+Enter the total number of people living in the household who are 18 
+years or older. 
+Number of people 
+└─┴─┘ If Not Known, Go to C11 
+C9 
+Step 1 Demographic Information 

@@ -1,0 +1,33 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+starting and can be reviewed regularly at QI team meetings. Developing a culture of ongoing use of data 
+to inform decision making is a key objective for this type of QI and practice transformation work. 
+When sharing feedback, keep the following tips in mind: 
+• 
+Practices like comparing themselvesto others. People are competitive, and these comparisons 
+can provide a great deal of motivation for change and improvement. Run charts, like the one in 
+Exhibit 5, show performance on CQMs over time. They are a classic example of tools that Health 
+IT Advisors can deliver to practices for ongoing feedback. Adding reference ranges from other 
+practices in a project and national benchmarks if they exist can add context for the practice 
+team as it reflects on its progress. 
+Not all measures will have outside reference ranges or benchmarks. In these situations, consider 
+using a control limit chart. Control charts can show how processes change over time and can 
+quickly identify when results change more than expected with random variation in data points. 
+Alternatively, breaking down and comparing data between individual providers can be as 
+motivating as external comparison data. 
+Exhibit 5: Sample Quarterly Clinical Quality Measure Run Chart with Project and National Benchmarks 
+Graphic derived from the Shared Practice Learning and Improvement Tool developed by the Practice Innovation Program at the 
+University of Colorado and is included with permission. 
+• 
+The 3% rule of thumb. The 3% rule of thumb assumes that a successful QI project will produce a 
+sustained 3% absolute improvement in a clinical outcome metric over the course of a 12-month 
+intervention. This principle, developed by quality improvement programs based on experience – 
+and used by the Practice Innovation Program at the University of Colorado – is a quick and easy 
+way to put a practice’s QI achievements intoperspective. Of course, a Health IT Advisor will 
+need to consider where a practice started (high starting performance may limit how much 
+improvement is possible) and how much control a practice has over the metric (it is easier to 
+change process measures thanpatient outcomes). Also, process-relatedmeasures can 
+sometimes improve more rapidly through improved capture of key data elements. Regardless, 
+the 3% rule is a convenient reference for many QI projects. 
+Health IT Advisor Handbook 
+Page 14

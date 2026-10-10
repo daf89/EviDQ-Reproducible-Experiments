@@ -1,0 +1,43 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+208
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Pourquoi valider le profil de votre établissement ?
+La HAS a établi des règles pour déterminer l’activation des différents champs d’applicabilité des critères spécifiques 
+du référentiel dans CALISTA en fonction des données disponibles et renseignées par les établissements de santé 
+dans la base SAE.
+Pour établir le profil de l’établissement dans CALISTA, les données utilisées par la HAS sont importées de la base 
+de données SAE la plus récente. Il s’agit donc des données de l’année n-1 voire n-2. Il est important d’informer votre 
+contact à la Haute Autorité de santé en cas de modifications de vos volumes d’activité ou activités elles-mêmes.
+Il est possible que lors de la validation de son profil par l’établissement, ces données nécessitent d’être actualisées.
+Certains critères spécifiques liés à un type de population (enfant et adolescent, patient âgé, vivant avec un handicap) 
+ne sont pas identifiés dans la base SAE, ces derniers ont par conséquent été renseignés par défaut comme applicables 
+à tous les établissements.
+Il est donc indispensable que l’établissement vérifie l’exactitude des données pré-renseignées dans CALISTA (secteurs 
+d’activité, populations, modes de prise en charge) car l’applicabilité des critères spécifiques du référentiel en dépend.
+Exemple illustré
+Prenons le cas d’un établissement dont les données issues de la SAE indiquent qu’il dispose d’une autorisation et 
+exerce une activité en médecine ambulatoire et en SMR ambulatoire sur le site géographique X. 
+Des précisions sur la présence des différentes activités réalisées au sein du champ d’applicabilité « Ambulatoire » 
+seront apportées dans CALISTA si les activités ont été renseignées par l’établissement dans la SAE. 
+Dans l’exemple illustré, Médecine et SMR ambulatoire sont activés (coche 
+). Le critère spécifique lié au champ 
+d’applicabilité « Ambulatoire » (Critères 1.1-12) du référentiel sera par conséquent applicable à l’établissement.
+Ce qu’il faut retenir 
+De façon générale, dès lors qu’un seul sous-champ d’applicabilité est activé (coche 
+) alors le champ d’applicabilité 
+est activé (coche 
+) et les critères spécifiques liés à ce champ sont applicables à l’établissement (Cf. fiche 
+information dédiée).
+Points de vigilance
+La prise en charge des urgences psychiatriques n’étant pas identifiée dans la base SAE, le champ d’applicabilité « Urgences » ne 
+sera pas coché par défaut (réponse 
+). Si votre établissement réalise cette activité, il conviendra dans ce cas de formuler une 
+demande de modification du champ d’applicabilité et pour cela cocher la réponse 
+ sur le sous-champ « Urgences générales » 
+afin que les critères spécifiques aux urgences soient présents dans votre référentiel personnalisé (critères 2.2-03, 2.2-04, 3.1-05, 
+3.7-05).
+ Fiche pratique opératoire_E6

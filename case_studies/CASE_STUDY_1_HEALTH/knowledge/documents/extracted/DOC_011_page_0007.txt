@@ -1,0 +1,30 @@
+4 
+nurse practitioners working in clinics). These types of providers of care in HMOs were in scope 
+for the MPC, as well. Due to budget constraints, only a subsample of office-based physicians 
+was selected for inclusion. Since household respondents are unable to report Medicaid payment 
+data, providers associated with individuals reported as receiving Medicaid benefits were 
+oversampled for the MPC. Physicians associated with persons considered likely to have high 
+expenditures, including persons who were in an institution for at least part of the year, who died 
+during the year, or who had at least one of the following events: hospital stay, home health 
+visit, surgery in an office setting, surgery in a hospital outpatient setting, were also 
+oversampled. For calendar year 2016, nearly half of the 37,356 person/provider pairs1 reported 
+by household respondents for which permission to contact the provider was granted were 
+selected for MPC data collection (18,000/37,356). 
+MOS 
+To maximize the sample for the MOS project, all 13,570 USC pairs with a signed authorization 
+form were selected with certainty and administered both the MPC survey and the MOS 
+questionnaire. This same process was true for the 2015 MOS. 
+Note: The remaining MPC provider categories discussed below are not applicable to the MOS. 
+Hospitals 
+All hospitals that were reported as the site of care for inpatient stays, outpatient department visits, 
+and emergency room encounters for sample persons were included in the MPC. Hospitals were 
+sampled with certainty because: 1) sample persons often do not know the total amounts for each 
+source of payment for a hospital stay; 2) hospital-based medical events are high cost; and 3) a 
+large percentage of national medical expenditures are associated with hospital care and getting 
+the most accurate data was imperative. HMO hospitals were in scope for the MPC. 
+Separately Billing Doctors 
+All physicians identified from records of MPC sampled hospitals (not HC sample persons) as 
+providing care to sample persons during the course of any hospital event in calendar year 2016, 
+1 A person/provider pair (or pair) represents one sample person visiting a health care provider during the 
+year. A health care provider can be visited by more than one sample person during the year, resulting in 
+many person/provider pairs for one provider.

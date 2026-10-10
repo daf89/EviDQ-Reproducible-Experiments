@@ -1,0 +1,114 @@
+Rationale
+Large trials individually and when combined in meta-analysis
+demonstrate clear net beneﬁts of SGLT2i, with net beneﬁts
+particularly large in people without diabetes due to almost no
+risk of serious harm from ketoacidosis or lower-limb ampu-
+tation.
+Recommendation 3.7.3: We suggest treating adults
+with eGFR 20 to 45 ml/min per 1.73 m2 with urine
+ACR <200 mg/g (<20 mg/mmol) with an SGLT2i
+(2B).
+This recommendation places high value on the potential for long-
+term use of SGLT2i in people without diabetes who have a sub-
+stantially decreased GFR to reduce the risk of kidney failure but
+recognizes remaining uncertainty in this population due to the
+short follow-up in the RCTs. It also places moderate value on the
+beneﬁts of SGLT2i on risk of AKI, cardiovascular death and
+myocardial infarction, and risk of hospitalization from any cause.
+SGLT2i also favorably reduce BP, uric acid levels, ﬂuid overload,
+and the risk of serious hyperkalemia. Note that a person with CKD
+and heart failure has a clear indication for the use of SGLT2i to
+reduce risk of cardiovascular death or hospitalization for heart
+failure irrespective of level of albuminuria (Figure 24).
+Key information
+Beneﬁts and harms. Several large placebo-controlled RCTs
+have provided clear demonstrations of the efﬁcacy of SGLT2i,
+which substantially reduce the risk of kidney disease progression
+and kidney failure (Figures 22 and 24) as well as moderately
+reduce the risk of CVD events (Figure 23) in people with and
+without CKD. Furthermore, a meta-analysis of the kidney
+disease progression outcome subdivided by primary kidney
+diagnosis demonstrated that there was no signiﬁcant subgroup
+interaction by primary kidney diagnosis, and SGLT2i reduced
+the risk of AKI by 23% in people with or without diabetes
+(Figure 22).511 SGLT2i also reduce the risk of hospitalization
+for any cause in people with CKD.403,520 Some uncertainty
+remains about the effects on kidney disease progression in
+people without diabetes with urine ACR <200 mg/g (<20 mg/
+mmol),
+which
+led
+to
+a
+different
+grading
+of
+the
+recommendation for that population. EMPA-KIDNEY was the
+key trial to assess effects in people with CKD at risk of
+progression with urine ACR <200 mg/g (<20 mg/mmol) and
+found evidence of signiﬁcant interaction by ACR status for its
+primary outcome (trend P ¼ 0.02). Relative effects appeared to
+be larger in people with higher levels of albuminuria. The slow
+rate of progression and small number of outcomes in the A1
+subgroup limited the power for EMPA-KIDNEY to assess
+effects on the primary outcome in this subgroup. There were,
+however, important effects on the chronic (i.e., long-term)
+slope in all albuminuria subgroups, and signiﬁcant reductions
+in progression using total slope analyses over the 2 years of
+follow-up in the A2 and A3 groups were considered separately
+(Figure 25403).
+Certainty of evidence. The overall certainty of evidence for
+the efﬁcacy of SGLT2i to delay CKD progression in people with
+CKD without diabetes is moderate (see Supplementary Table
+S1023,403,511,518,521–524). The ERT identiﬁed an individual
+participant data (IPD) meta-analysis,511 which included data
+from 2 RCTs evaluating an SGLT2 inhibitor among adults
+with CKD but not diabetes.403,513 Both RCTs were considered
+to have a low risk of bias. The IPD meta-analysis harmonized
+the deﬁnition of CKD progression among the trials. The
+certainty of the evidence for CKD progression was graded as
+high as there were no concerns regarding the risk of bias of
+the studies or the consistency, directness, and precision of the
+results. The certainty of the evidence for kidney failure was
+downgraded to moderate due to imprecision.
+Values and preferences. The Work Group judged that fully
+informed adults without diabetes and low levels of albuminuria
+(urine ACR <200 mg/g [<20 mg/mmol]) who have established
+CKD and an eGFR of 20–45 ml/min per 1.73 m2 may be
+particularly motivated to take SGLT2i for the beneﬁts identiﬁed
+on rate of decline in GFR as they already have substantially
+reduced GFR. Adults with established CKD are highly likely to
+want to start treatment early to maximize beneﬁts. Extrapola-
+tion of the ﬁndings from eGFR slope analyses (Figure 25) could
+mean substantial delays in any future requirement for KRT.
+People with CKD may also be motivated by the potential for
+SGLT2i to reduce risk of AKI, hospitalization, serious
+hyperkalemia, ﬂuid overload, and uric acid levels, all of which
+are common CKD complications.
+Resource use and costs. Health economic analyses are
+required in people with CKD without diabetes and low levels
+of albuminuria to establish their level of cost-effectiveness.
+From a healthcare system perspective, reducing the cost
+burden of hospitalizations and dialysis is highly desirable, and
+QoL may be preserved longer from their avoidance. Speciﬁcs
+as to whether people bear the costs of these medications will
+be country-dependent.
+Considerations for implementation.. The considerations for
+implementation in people with CKD and low levels of albu-
+minuria are no different to people with albuminuria (see
+above for details).
+Rationale
+Large trials considered individually and combined in meta-
+analysis demonstrate clear net beneﬁts of SGLT2i, but ev-
+idence for beneﬁts on CKD progression in people without
+diabetes and with low levels of albuminuria is limited to
+eGFR slope analyses in heart failure trials and one CKD
+trial all with relatively short follow-up periods. However,
+extrapolation of these eGFR slope results suggests that
+important beneﬁts would accrue for such people if treated
+long term.
+chapter 3
+www.kidney-international.org
+S218
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,117 @@
+
+
+===== PDF PAGE 123 =====
+
+Creating the electronic STEPS Instrument, Continued 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-6 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Images (cont.) 
+ 
+Column 
+Content 
+type 
+note 
+name 
+Shorthand name of the show card. This does not appear 
+anywhere in the dataset or on the screen, so any shorthand 
+can be used. 
+label 
+Any text that should appear above the show card on the  
+same screen. This can be explanatory text for the data 
+collector to read out loud or just a title. Be sure to complete 
+the label fields of any other languages included in the 
+country-specific instrument. 
+media::image The precise file name of the show card 
+(e.g. work_vigorous_showcard.png). If there are multiple 
+languages in the country-specific instrument, this 
+information needs to be repeated in a media::image column 
+for each language (e.g. media::image::English, 
+media::image::French). 
+ 
+Any images listed in the country-specific instrument must be added to the 
+online eSTEPS platform and downloaded to each data collection device with 
+the data collection form. 
+ 
+ 
+ 
+Testing 
+It is recommended to thoroughly test the country-specific instrument prior to 
+data collection. In order to install it on a device, follow the instructions in the 
+next topic of this section. 
+ 
+When testing the country-specific instrument, go through the instrument 
+several times, entering different response options each time. Be sure to check 
+not only that all questions are appearing correctly, but also check that all skip 
+logic is functioning correctly and that invalid data cannot be entered in any 
+field.   A thorough test of the country-specific instrument should take at least  
+an hour, if not more, depending on its complexity. 
+ 
+ 
+Support 
+Please contact the WHO STEPS team for further assistance in generating the 
+country-specific instrument. 
+ 
+For those wishing to learn more on their own, the website xlsform.org is an 
+excellent reference detailing the structure of XLSForm files. 
+ 
+
+
+===== PDF PAGE 124 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-7 
+WHO STEPS Surveillance 
+Preparing the online eSTEPS platform 
+ 
+ 
+ 
+Introduction 
+A project must be created on the online eSTEPS platform for the survey, 
+which will serve as the web-interface for the management of the survey. 
+ 
+ 
+Online eSTEPS 
+project creation 
+Please contact the WHO STEPS team for assistance in creating a project for 
+your STEPS survey on the online eSTEPS platform. The site address (URL) 
+will then be provided. 
+ 
+Once the project has been created, a user name and password to access the 
+project on the eSTEPS platform will be set up.  The country-specific  
+instrument as well as any related images (including show cards) can be 
+uploaded to the eSTEPS project and, during data collection, submissions from 
+data collectors in the field can be monitored. 
+ 
+A username and password for the online household database will also be 
+provided, where the household listing information for the survey can be 
+accessed. 
+ 
+ 
+ 
+Adding forms 
+to the eSTEPS 
+project 
+Once logged into the online eSTEPS platform, your STEPS survey will be 
+listed as a project. Click on the title of the project to see the instruments 
+(referred to as “forms”) associated with the project. 
+ 
+It is possible to have multiple instruments for one survey if Step 3 data 
+collection will be done separately from Step 1 and 2. In this case, one 
+instrument will contain only Step 1 and 2, another one will contain Step 3, 
+and potentially a third one will contain information from urine analyses. 
+ 
+To add a new form to a project, click on “Add form”, as indicated in the 
+image below. Then follow the instructions in the pop-up window to upload 
+the XLSForm file to the site. The form may be set as “Active” even if it is 
+still being tested. 
+ 
+ 
+Continued on next page 

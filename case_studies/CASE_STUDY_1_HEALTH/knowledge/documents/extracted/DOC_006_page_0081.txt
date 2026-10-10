@@ -1,0 +1,40 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+EHR Element 
+Description 
+• 
+Colorectal cancer screening using invasive procedures may still be 
+considered “diagnostic imaging” by some EHRs (colonoscopy). 
+Vital Signs 
+• 
+There may be variation in how and when vital signs are recorded in the 
+EHR (height, weight, blood pressure, BMI, BMI%). 
+• 
+Workflows for recording repeat readings for blood pressure can impact 
+data quality. 
+• 
+Height and weight must be consistently recorded to produce accurate BMI 
+and BMI%. 
+EHR Use Case 3: Behavioral Health and Social Needs 
+One of the overarching goals of the U.S. Department of Healthand HumanServices’ (DHHS) Healthy 
+People 2030 Plan is to “Create social, physical, and economic environmentsthat promote attaining the 
+full potential for health and well-being for all.” [70] The priority DHHS has given to identifying and 
+addressing SDOH highlights the increasing need to collect information on patients’ health-related 
+behavioral, social, and community needs. 
+Until recently, EHRs used in primary care settings did a poor job of handling data outside of the 
+traditional medical encounter. However, the move to integrate or “embed” behavioral, mental health, 
+and social services intoclinics is rapidly expanding the types of data an EHR can provide for QI. 
+What are Social Determinants of Health (SDOH)? 
+Research suggests that traditional medical care contributes only 20% to overall health outcomes in the 
+United States.[71] As the healthcare system seeks to address the 50% of health-related social factors, 
+practice transformation and QI will increasingly require data on economic, educational, environmental, 
+and social/community contexts for their patients. Health IT Advisors can play an important role in 
+helping clinics establishthe needed workflows and EHR settings toconsistentlyand accuratelycapture 
+SDOH data, including demographic factors that can affect health such as self-reported race, ethnicity, 
+and language preference, as well as other factors important in SDOH mentioned above including 
+education level attained and other socioeconomic information. For example, if programmed for this, 
+EHRs can capture data about a person experiencing homelessness, depending on public transportation 
+to access healthservices, and/orliving in a building with known high lead levels, etc. The County Health 
+Rankings Model in Exhibit 36 shows how social factors can impact health and health outcomes. 
+Health IT Advisor Handbook 
+Page 76

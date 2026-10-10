@@ -1,0 +1,232 @@
+Initial Sample
+Sub‑sample
+Eligible Sample
+Completion Rate
+Refusal Rate
+Other Nonresponse Rate
+Pharmacies
+n/a
+7,424
+6,448
+0.900
+0.015
+0.086
+Total
+n/a
+44,444
+36,199
+Return to Table of Contents
+Table B‑4. MPC Data Collection Results, Pair Level, 1996‑2024
+Initial Sample
+Sub‑sample
+Eligible Sample
+Completion Rate
+Refusal Rate
+Other Nonresponse Rate
+1996 Pairs
+Hospitals
+6,729
+6,729
+6,570
+0.932
+0.038
+0.030
+Office‑based providers
+13,681
+13,681
+10,251
+0.865
+0.079
+0.056
+HMOs
+534
+534
+924
+0.803
+0.105
+0.092
+Home care providers
+461
+461
+385
+0.875
+0.057
+0.068
+Institutions
+63
+63
+53
+0.943
+0.057
+0.000
+SBDs
+12,488
+12,488
+8,689
+0.937
+0.056
+0.007
+Pharmacies
+14,531
+14,531
+12,146
+0.671
+Total
+48,487
+48,487
+39,018
+1997 Pairs
+Hospitals
+11,694
+8,192
+7,938
+0.874
+0.070
+0.056
+Office‑based providers
+19,157
+12,635
+10,062
+0.862
+0.062
+0.076
+HMOs
+809
+809
+911
+0.626
+0.156
+0.218
+Home care providers
+750
+750
+662
+0.823
+0.095
+0.082
+Institutions
+85
+85
+80
+0.825
+0.113
+0.063
+SBDs
+17,397
+8,697
+5,964
+0.865
+0.123
+0.013
+Pharmacies
+20,248
+20,248
+16,241
+0.672
+0.075
+0.253
+Total
+70,140
+51,416
+41,858
+1998 Pairs
+Hospitals
+7,922
+6,434
+5,824
+0.925
+0.031
+0.044
+Office‑based providers
+12,641
+10,747
+9,334
+0.852
+0.050
+0.098
+HMOs
+436
+436
+346
+0.832
+0.133
+0.035
+Home care providers
+520
+491
+445
+0.825
+0.085
+0.090
+Institutions
+64
+70
+65
+0.754
+0.169
+0.077
+SBDs
+13,658
+13,658
+9,687
+0.836
+0.084
+0.080
+Pharmacies
+12,321
+12,321
+10,388
+0.793
+0.116
+0.091
+Total
+47,562
+44,157
+36,089
+1999 Pairs
+Hospitals
+6,712
+6,712
+6,160
+0.909
+0.053
+0.039
+Office‑based providers
+11,974
+11,974
+10,409
+0.879
+0.061
+0.060
+HMOs
+555
+555
+472
+0.886
+0.068
+0.047
+Home care providers
+394
+394
+340
+0.818
+0.088
+0.094
+Institutions
+53
+53
+45
+0.756
+0.200
+0.044
+SBDs
+14,907
+14,907
+10,101
+0.808
+0.091
+0.100
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+30/40

@@ -1,0 +1,62 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+304
+Ajustements
+Critère 1.4-04
+Évolution et création d’un nouvel élément d’évaluation par division d’un élément d’évaluation.
+En soins de longue durée, le patient bénéficie d’activités lui permettant de maintenir son 
+autonomie et son lien social
+Libellé 2023 : En unité de soins de longue durée, le maintien de l’autonomie est assuré :
+• le patient se voit proposer des activités correspondant à ses préférences et ses besoins (autonomie, lien 
+social…) ;
+• la préservation du lien social et familial est assurée.
+Libellé 2024 : En unité de soins de longue durée, pour maintenir son autonomie des activités 
+correspondant à ses préférences et ses besoins (autonomie, lien social…) sont proposées au patient.
+Création d’un élément d’évaluation : En unité de soins de longue durée, la préservation du lien social et 
+familial est assurée.
+Libellé 2023 : Le programme d’activités et le planning d’intervention des bénévoles, animateurs, etc. sont 
+affichés dans le service.
+Suppression de l’élément d’évaluation avec intégration du planning d’activités dans l’élément d’évaluation 
+suivant.
+Libellé 2023 : Des actions sont mises en place pour maintenir l’autonomie du patient.
+Libellé 2024 : En unité de soins de longue durée, des actions sont mises en place pour maintenir 
+l'autonomie du patient, sur la base d’un programme d’activités remis au patient.
+Libellé 2023 : La préservation du lien social et familial est assurée.
+Libellé 2024 : En unité de soins de longue durée, préservation du lien social et familial est assurée.
+Critère 1.4-05
+Le patient atteint de troubles psychiques bénéficie d’un panel de soins adapté et diversifié pour 
+accompagner son inclusion sociale dans le cas où son état de santé le nécessite
+Libellé 2023 : Le patient est interrogé sur ses attentes et besoins spécifiques en termes d’inclusion 
+sociale.
+Libellé 2024 : Pour élaborer son projet de soins et d’accompagnement, le patient a exprimé ses attentes 
+et besoins en termes d’inclusion sociale (accès à un logement adapté, au monde du travail, à la vie de la 
+cité, aux services publics, aux activités culturelles et sportives, connaissance des groupes d’entraide 
+mutuelle …).
+Libellé 2023 : En fonction des attentes et des besoins du patient, un projet de soins et d’accompagnement 
+personnalisé est co-construit avec lui, intégrant notamment des objectifs d’inclusion sociale de 
+socialisation : accès à un logement adapté, au monde du travail, à la vie de la cité, aux services publics, 
+aux activités culturelles et sportives, connaissance des groupes d’entraide mutuelle, etc.
+Libellé 2024 : En fonction des attentes et des besoins du patient, un projet de soins et d’accompagnement 
+personnalisé est construit avec lui, intégrant notamment ses objectifs d’inclusion sociale.
+Critère 1.4-06
+Évolution et création d’un nouvel élément d’évaluation par division d’un élément d’évaluation.
+Les conditions de vie habituelles sont prises en compte notamment pour la préparation de la 
+sortie
+Libellé 2023 : Le patient est interrogé sur ses conditions de vie habituelles, en prévision de sa sortie. Une 
+assistance sociale spécifique a été proposée au patient si besoin.
+Libellé 2024 : Pour préparer sa sortie, le patient s’est exprimé sur ses conditions de vie habituelles
+Création d’un élément d’évaluation par dédoublement de l’élément ci-dessus : en fonction du besoin, une 
+assistance sociale a été proposée au patient.
+Critère 2.1-01
+Suppression d’une redondance.
+La pertinence des décisions de prise en charge est argumentée au sein de l’équipe
+Libellé 2023 : Pour les prises en charge complexes :
+• une concertation pluridisciplinaire et/ou pluriprofessionnelle permet de discuter les indications à visée 
+diagnostique et thérapeutique ;
+• les alternatives concernant les modalités de prise en charge sont discutées ;
+• une analyse bénéfice/risque a été partagée avec le patient, ses préférences ont été recherchées et 
+prises en compte, si possible.
+Libellé 2024 : Pour les prises en charge complexes :
+• une concertation pluridisciplinaire et/ou pluriprofessionnelle permet de discuter les indications à visée 
+diagnostique et thérapeutique ;
+• les alternatives concernant les modalités de prise en charge sont discutées ;
+Suppression de la dernière partie de l’élément d’évaluation car déjà abordée dans le Crit.1.1-02.

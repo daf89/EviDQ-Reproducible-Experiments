@@ -1,0 +1,210 @@
+
+
+===== PDF PAGE 307 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4H-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+Glasses/contact lenses not sold 
+in the shop 
+3 
+Had laser surgery or other 
+surgery to replace 
+glasses or contact 
+lenses  
+4 If Yes, go to SF10 
+Others (please specify) 
+5└─┴─┴─┴─┴─┴─┘ 
+Have you ever had laser surgery or other surgery to replace 
+glasses or contact lenses? 
+Yes 
+1  
+SF9 
+No 
+2 If No, go to SF11 
+How long ago did you have laser surgery to replace glasses or 
+contact lenses? 
+Years 
+1└─┴─┘If known, go to SF11 
+SF10 
+ OR Months 
+2└─┴─┘If known, go to SF11 
+OR weeks 
+3└─┴─┘If known, go to SF11 
+OR days 
+4└─┴─┘ If known, go to SF11 
+Don’t know 
+77 
+Have you ever had cataract surgery? 
+Yes 
+1  
+SF11 
+No 
+2 If No, go to SF14 
+On which of your eyes did you have the cataract surgery 
+performed?  
+ 
+. 
+Right 
+1 
+SF12 
+Left 
+2 
+Both 
+3 
+How long ago was your cataract surgery? 
+If SF12=3, Asked for both eyes 
+Years 
+1└─┴─┘If known, go to SF14 
+SF13 
+OR Months 
+2└─┴─┘If known, go to SF14 
+OR Weeks 
+3└─┴─┘If known, go to SF14 
+ OR Days 
+4└─┴─┘ 
+Don’t know 
+77 
+ 
+ 
+ 
+ 
+ 
+Hearing  
+Question 
+Response 
+Code 
+ 
+Do you have difficulty in hearing without hearing aids? 
+ 
+ 
+None/no difficulty 
+1 
+SF14 
+Yes, minimal difficulty 
+2 
+Yes, moderate difficulty 
+3 
+Yes, a lot of difficulty 
+4 
+Yes, extreme difficulty 
+5 
+Have you ever had your hearing checked by a doctor or other 
+health worker? 
+Yes  
+1   
+SF15 
+No  
+2 If No, go to SF19 
+How long ago did you have your hearing last checked by a doctor 
+or other health worker? 
+Years 
+1└─┴─┘If known, go to SF17 
+SF16 
+
+
+===== PDF PAGE 308 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4H-3 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+OR Months 
+2└─┴─┘If known, go to SF17 
+OR Weeks 
+3└─┴─┘If known, go to SF17 
+OR Days 
+4└─┴─┘ If known, go to SF17 
+Don’t know 
+77  
+Were you told by a doctor or other health worker that you have 
+hearing loss? 
+Yes 
+1 
+SF17 
+No 
+2 If No, go to SF19 
+Don’t know 
+77 If DK, go to SF19 
+Please indicate what your doctor or other health worker 
+recommended or prescribed to aid your hearing as a result of your 
+hearing assessment.   
+Hearing Aid 
+1 
+SF18 
+Surgical hearing implant 
+2 
+Personal sound amplification 
+products (PSAPs) 
+3 
+No recommendation for hearing 
+aid/implant 
+ 4 If Yes, go to end of section 
+Other (please specify) 
+5└─┴─┴─┴─┴─┴─┘ 
+Don’t know 
+77 
+Do you currently use a device to assist your hearing such as a 
+hearing aid or cochlear implant?   
+ 
+Yes 
+1 If Yes, go to SF21 
+SF19 
+No 
+2 If No and SF18=1,2 or 3, go to 
+SF20, otherwise go to end of section 
+ 
+What is the main reason you are not using a device such as a 
+hearing aid or implant to assist your hearing? 
+Too expensive, could not afford 
+1 Go to end of section 
+SF20 
+No shop/service provider 
+nearby 
+2 Go to end of section 
+Hearing devices not sold in the 
+shop 
+3 Go to end of section 
+Other (please specify reason) 
+4└─┴─┴─┴─┴─┴─┘ 
+Please indicate the type of hearing device you currently use. 
+Hearing aid 
+1 
+SF21 
+Cochlear implant 
+2 
+Personal sound amplification 
+products (PSAPs) 
+3 
+Other (please specify) 
+4 └─┴─┴─┴─┴─┴─┘ 
+ 
+ 
+ 
+On/in which ear do you use the hearing device? 
+Right 
+1 
+SF22 
+Left 
+2 
+Both 
+3 
+How long have you been using hearing device/s? 
+Years 
+1└─┴─┘If known, go to SF24 
+SF23 
+OR Months 
+2└─┴─┘If known, go to SF24 
+OR Weeks 
+3└─┴─┘If known, go to SF24 

@@ -1,0 +1,113 @@
+
+
+===== PDF PAGE 129 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-12 
+WHO STEPS Surveillance 
+Preparing the Android devices, Continued 
+ 
+ 
+ 
+Setting up the 
+ODK Collect 
+app 
+After installing the ODK Collect app on an Android device, you will need to 
+modify the settings of the app to ensure the instrument is loaded correctly and 
+to hide a variety of tools to prevent data collectors from modifying them. 
+Follow the instructions in the table below to set up ODK Collect. After 
+completing these steps, you may exit from the ODK Collect app. 
+ 
+Step 
+Description 
+1 
+Open the General Settings by tapping on the menu icon (3 
+squares) on the ODK Collect home screen. 
+2 
+Tap on Configure platform settings in the General Settings 
+screen. 
+3 
+Enter the URL for the eSTEPS platform (please contact the 
+WHO STEPS team) and the username and password for your 
+eSTEPS account. 
+4 
+Return to the ODK Collect home screen by using the device’s 
+back button. 
+5 
+Tap on Get Blank Form. 
+6 
+Confirm the login information in the pop-up window.   Once 
+the device connects to the ODK server, all instruments 
+associated with your Ona account will  be  visible.  Tap  on 
+each instrument to select it and then tap “Get Selected”. Once 
+the instrument(s) have downloaded, you will automatically 
+return to the ODK Collect home screen. 
+Important: Your device must have a mobile data or wi-fi 
+connection activated in order  to download the instrument(s).  
+If wi-fi is not available, please contact the WHO STEPS team 
+for an alternative method to put the instrument(s) on a device. 
+7 
+Return to the General Settings and modify the Navigation 
+option so that both forward/backward buttons are used as well 
+as swipes. (This is a recommended but optional step.) 
+8 
+Return to the ODK Collect home screen and go to the Admin 
+Settings (accessed from the same menu as the General 
+Settings). 
+9 
+In the Admin Settings, uncheck all boxes EXCEPT: 
+• Change language (if the country-specific instrument 
+exists in more than one language) 
+• Go To Prompt 
+• Save Form 
+• Mark form as finalized 
+10 
+At the top of the Admin Settings, tap on Admin Password to 
+prevent any users from making changes to the Settings. (This 
+is a recommended but optional step.) 
+11 
+Save the changes to the Admin Settings by tapping on the 
+menu in the upper right-hand corner. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 130 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-13 
+WHO STEPS Surveillance 
+Preparing the Android devices, Continued 
+ 
+ 
+ 
+Additional 
+setup: security 
+It is strongly advised to install an additional app on the devices to block all 
+apps other than the STEPS and ODK Collect apps. Please contact the WHO 
+STEPS team for current recommendations. 
+ 
+ 
+ 
+Additional 
+setup: language 
+settings 
+Both the STEPS and ODK Collect apps are available in English, French, 
+Spanish and Russian. The language in which the app appears depends on the 
+language setting of the device. Thus, in order to change the language of the 
+app, you must change the language of the device.  Typically, this can be   
+found under Settings>Controls>Language and Input, but the location may  
+vary by device and Android version. 
+ 
+If the instrument is in multiple languages, which language is viewed is not 
+linked to the language setting of the device.   Changing the language version  
+of the instrument can only be done once the questionnaire is open by going to 
+the Menu (3 squares icon) visible on the question screens. It is recommended  
+to have the data collectors modify the instrument setting during training (if 
+applicable) as this is a setting they must know how to modify on their own. 
+ 
+ 

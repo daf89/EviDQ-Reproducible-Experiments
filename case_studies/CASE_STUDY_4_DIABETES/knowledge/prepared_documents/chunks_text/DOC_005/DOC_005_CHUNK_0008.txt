@@ -1,0 +1,63 @@
+
+
+===== PDF PAGE 15 =====
+
+3
+2. Global burden of hypertension
+2
+Global burden of hypertension
+In 2015, the global prevalence of hypertension was estimated to be more than 1.1 billion (2) (Fig.1). The highest 
+prevalence of raised BP among people aged ≥ 18 years was in low-income countries (28.4%) and middle-
+income countries (25.5%). In 2017, the Global Burden of Disease study found that raised systolic BP was the 
+leading modifiable risk factor for death globally, with 10.4 million deaths annually attributed to this cause (3). 
+Fig. 1. Global prevalence of hypertension
+Sources: WHO.
+Hypertension is a leading risk factor for cardiovascular disease, including coronary artery disease, heart failure, 
+chronic kidney disease, stroke, heart attack, dementia, peripheral vascular disease, fetal and maternal death 
+and premature death. 
+2.1	 BP measurement
+BP is created by the combination of the force from the heart as blood is pumped into circulation against arterial 
+walls, the blood volume and the elasticity of the muscular arteries. BP is an essential indicator of physiological 
+and functional status. It can be affected by changes in blood volume, the pumping efficiency of the heart and 
+peripheral vascular resistance (4). BP is highly variable, changing with each beat of the heart, and is affected 
+by the physical environment (e.g. temperature), stimulation such as noise, physical and mental activity, 
+exogenous substances (e.g. diet, drugs, alcohol) and disease. Most people have a daily twofold variation 
+between the lowest and the highest BP. To assess an individual’s usual BP when screening for hypertension, 
+the variables that cause rapid changes in BP must be standardized by controlling the environment and patient 
+factors before measurement to reduce variation and improve reproducibility. 
+A rapid, substantial, sustained increase in BP can directly damage blood vessels, although most damage 
+occurs over a long period through atherosclerosis, when even small increases in BP within the normal range 
+cause damage. The greater the increase in usual BP, the more cardiac and blood vessel damage and the 
+
+
+===== PDF PAGE 16 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+4
+higher the risk. Individuals are considered to have hypertension when their BP is sustained above a certain 
+threshold, such as 130/80 or 140/90 mm Hg.
+ 
+Critical components of BP assessment include use of an accurate device and an appropriate setting along 
+with proper preparation of the subject and consistent use of a recommended standardized measurement 
+technique. Accurate BP measurement is essential to identify hypertension and to guide treatment decisions, 
+including when to start medication and when to adjust the dose. Inaccurate BP measurement can result in 
+diagnostic errors and incorrect decision-making and risk assessment. 
+2.2	 The need for good quality BPMDs
+Selection of an accurate, validated BPMD is important for assessing BP as these devices will provide accurate 
+and reproducible measurements. Accurate BP measurements are essential to manage hypertension, 
+as imprecise measurement can significantly affect diagnosis and treatment. In one study, the diagnostic 
+classification of > 50% of people changed when their BP was measured with a standardized method rather 
+than a usual clinical method (5). 
+Upper extremity automatic oscillometric BP measurement is preferred, auscultatory BP measurement during 
+routine clinic visits, partly due to environmental apprehension about mercury (6), the suboptimal accuracy 
+of aneroid devices in usual clinical care and concern for observer error with the auscultatory method, 
+which includes visual and auditory defects and terminal digit preference. Independently of where BP is 
+measured (outpatient clinic, hospital, home) or how (manual, automated), the primary requirement is that 
+the measurement device be safe and accurate (7).
+Several barriers to accurate BP measurement have been identified, particularly in LMICs. These include 
+poor access to inexpensive devices; difficulty in maintaining devices; challenges in ensuring a consistent 
+power source, including concern for damage to the environment from the batteries of electronic devices and 
+their cost for replacement; limited awareness of the problems associated with auscultatory BP devices and 
+the hazard of mercury; and lack of training of health workers (1). Practical issues are being raised in LMICs 
+regarding the choice of validated BP devices, ensuring appropriate use and education on the importance of 
+device validation and regular calibration and maintenance. 

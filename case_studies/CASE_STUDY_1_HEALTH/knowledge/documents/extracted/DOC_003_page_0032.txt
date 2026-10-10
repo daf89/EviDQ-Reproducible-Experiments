@@ -1,0 +1,128 @@
+7. Diagnosing hypertension and 
+investigating underlying causes 
+7.1. Screening for hypertension 
+Hypertension is predominantly an asymptomatic condition that is typ-
+ically detected by systematic or opportunistic screening in a healthcare 
+setting. Systematic screening refers to any process where individuals 
+are identified and invited to a healthcare setting solely to measure their 
+BP and CVD risk profile. Opportunistic screening refers to BP being 
+measured when the patient presents to a healthcare setting for any rea-
+son, such as a routine check-up or the treatment of an acute or chronic 
+condition. Self-screening and non-physician screening are also increas-
+ingly used.227–230 
+Few data are available on the effectiveness of different hypertension 
+screening strategies to reduce the morbidity and mortality associated 
+with hypertension.231–233 More evidence is needed before systematic 
+screening programmes with BP measurement can be recommended 
+in all adults to reduce CVD events.231 
+Opportunistic BP screening in a primary care setting appears effect-
+ive, with an estimated 90% of all adults aged >40 years in the UK having 
+a BP check within a 5-year time period,234 though these findings may 
+not extrapolate to other countries. When patients provide HBPM re-
+cordings, these can also be used as part of an opportunistic screening 
+programme (see Section 5.2).235 
+Despite ongoing uncertainty about the effect of hypertension 
+screening programmes on CVD outcomes, many studies have de-
+monstrated that screening (mostly opportunistic screening) in-
+creases hypertension detection, and that the benefits of screening 
+likely outweigh harms.70 Global initiatives to raise BP awareness, 
+such as the May Measurement Month,228 or targeted initiatives, 
+such as the barbershop health outreach programmes,229 are success-
+ful examples of BP screening campaigns. 
+Screening for hypertension, like for global CVD risk assessment, 
+should be intermittently repeated, e.g. every 3 years. Considering 
+the rate of progression to hypertension in European population 
+samples,236 it is reasonable to measure BP at least every 3 years 
+in the case of non-elevated BP and low–moderate CVD risk (i.e. in-
+dividuals aged <40 years). More frequent BP checks (i.e. yearly) 
+should be considered in individuals 40 years or older and individuals 
+with elevated BP not currently meeting indications for treatment170 
+(Figure 10). 
+7.2. Confirming the diagnosis of 
+hypertension 
+As noted in Section 5, assessment at a single visit by office BP has lower 
+specificity compared with ABPM for diagnosing hypertension.70,238–241 
+Accordingly, a protocol for confirming the diagnosis of hypertension is 
+proposed (Figure 10), with out-of-office BP measurement as the 
+preferred method for confirming cases of elevated BP or hypertension. 
+For initial screening systolic BP of >160 mmHg and/or diastolic 
+BP of >100 mmHg, a prompt re-evaluation (within days to weeks but 
+not >1 month) preferably with ABPM or HBPM is advisable.71 
+BP of >180/110 mmHg at screening requires exclusion of 
+hypertensive emergencies, which should be managed as appropriate 
+(see 242 and Section 10) with prompt treatment. For individuals with 
+BP of >180/110 mmHg at screening but without hypertensive emer-
+gency, prompt confirmation (preferably within a week) can be consid-
+ered prior to commencing treatment. 
+Recommendation Table 5 — Recommendations for 
+blood pressure screening (see Evidence Table 15) 
+Recommendation 
+Classa 
+Levelb 
+Opportunistic screening for elevated BP and 
+hypertension should be considered at least every 3 
+years for adults aged <40 years.236,237 
+IIa 
+C 
+Opportunistic screening for elevated BP and 
+hypertension should be considered at least annually 
+for adults aged ≥40 years.231,237 
+IIa 
+C 
+In individuals with elevated BP who do not currently 
+meet risk thresholds for BP-lowering treatment, a 
+repeat BP measurement and risk assessment within 1 
+year should be considered. 
+IIa 
+C 
+Continued 
+Other forms of screening for hypertension (i.e. 
+systematic screening, self-screening, and 
+non-physician screening) may be considered, 
+depending on their feasibility in different countries 
+and healthcare systems.231–233 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 6 — Recommendations for 
+confirming hypertension diagnosis 
+Recommendations 
+Classa 
+Levelb 
+In individuals with increased CVD risk where their 
+screening office BP is 120–139/70–89 mmHg, it is 
+recommended to measure BP out of office, using 
+ABPM and/or HBPM or, if not logistically feasible, by 
+making repeated office BP measurements on more 
+than one visit.70,238–241 
+I 
+B 
+Where screening office BP is 140–159/90–99 mmHg, 
+it is recommended that the diagnosis of 
+hypertension should be based on out-of-office BP 
+measurement with ABPM and/or HBPM. If these 
+measurements are not logistically or economically 
+feasible, then diagnosis can be made on repeated 
+office BP measurements on more than one 
+visit.70,238–241 
+I 
+B 
+Where screening office BP is ≥160/100 mmHg: 
+• It is recommended that BP 160–179/100–109 
+mmHg be confirmed as soon as possible (e.g. 
+within 1 month) preferably by either home or 
+ambulatory BP measurements; 
+• It is recommended when BP ≥180/110 mmHg that 
+hypertensive emergency be excluded. 
+I 
+C 
+© ESC 2024
+ABPM, ambulatory blood pressure measurement; BP, blood pressure; CVD, cardiovascular 
+disease; HBPM, home blood pressure measurement. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3943 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

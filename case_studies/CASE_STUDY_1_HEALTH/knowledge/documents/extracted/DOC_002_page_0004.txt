@@ -1,0 +1,176 @@
+hemoglobin variants should be used in in
+dividuals with sickle cell trait. An updated 
+list of A1C assays with interferences is avail
+able at ngsp.org/interf.asp. Another genetic 
+variant, X-linked glucose-6-phosphate de
+hydrogenase G202A, carried by 11% of 
+Black individuals in the U.S., is associated 
+with a decrease in A1C of about 0.8% in 
+homozygous men and 0.7% in homozy
+gous women compared with levels in 
+individuals without the variant (18).
+There is controversy regarding racial 
+differences in A1C. Studies have found 
+that Black individuals have slightly 
+higher A1C levels (approximately 0.3%) 
+than non-Hispanic White or Hispanic 
+people (19–22). A more precise under
+standing of the genetic determinants 
+of A1C in diverse populations (18) is 
+the focus of ongoing investigations 
+(23,24). While some genetic variants 
+might be more common in certain race 
+or ancestry groups, it is important that 
+we do not use race or ancestry as prox
+ies for poorly understood genetic differ
+ences. Reassuringly, studies have shown 
+that the association of A1C with risk for 
+complications appears to be similar in 
+Black and non-Hispanic White popula
+tions (25).
+Confirming the Diagnosis
+In the absence of a clear clinical diagnosis 
+(e.g., individual with classic symptoms of 
+hyperglycemia or hyperglycemic crisis 
+and random plasma glucose ≥200 mg/dL 
+[≥11.1 mmol/L]), confirmatory tests are 
+necessary to establish the diagnosis. 
+This can be accomplished by two abnor
+mal screening test results, measured ei
+ther at the same time (26) or at two 
+different time points. If using samples 
+at two different time points, it is recom
+mended that the second test, which 
+may be either a repeat of the initial test 
+or a different test, be performed in a 
+timely manner. For example, if the A1C is 
+7.0% (53 mmol/mol) and a repeat result 
+is 6.8% (51 mmol/mol), the diagnosis of 
+diabetes is confirmed. Two different tests 
+(such as A1C and FPG) both having results 
+above the diagnostic threshold when col
+lected at the same time or at two differ
+ent time points would also confirm the 
+diagnosis. On the other hand, if an indi
+vidual has discordant results from two 
+different tests, then the test result that is 
+above the diagnostic cut point should be 
+repeated, with careful consideration of 
+factors that may affect measured A1C or 
+glucose levels. The diagnosis is made based 
+on the confirmatory screening test. For 
+example, if an individual meets the di
+agnostic criterion for A1C (two results 
+≥6.5% [≥48 mmol/mol]) but not FPG 
+(<126 mg/dL [<7.0 mmol/L]), that per
+son should nevertheless be considered 
+to have diabetes.
+Test results close to the diagnostic 
+threshold should prompt the health care 
+professional to educate the individual 
+about the onset of possible symptoms 
+of hyperglycemia and to repeat the test 
+in 3–6 months.
+Consistent and substantial discordance 
+between glucose values and A1C test re
+sults should elicit additional follow-up to 
+determine the underlying reason for the 
+discrepancy (including evaluation for the 
+possibility of an analytical problem or in
+terference with either test) and its clini
+cal implications, if any, for the individual 
+(Table 2.3). In this context, alternative 
+validated biomarkers of chronic hypergly
+cemia such as fructosamine and glycated 
+albumin should be considered for moni
+toring glycemic management in people 
+with diabetes.
+CLASSIFICATION
+Recommendation
+2.5 Classify people with hyperglycemia 
+into appropriate diagnostic categories 
+to aid in personalized management. E
+Diabetes is classified conventionally into 
+several clinical categories, although these 
+are being reconsidered based on genetic, 
+metabolomic, and other characteristics and 
+pathophysiology (1): 
+1. Type 1 diabetes (due to autoimmune 
+β-cell destruction, usually leading to 
+absolute insulin deficiency, including 
+latent autoimmune diabetes in adults)
+2. Type 2 diabetes (due to a nonautoim
+mune progressive loss of adequate 
+β-cell insulin secretion, frequently on 
+the background of insulin resistance)
+3. Specific types of diabetes due to other 
+causes, e.g., monogenic diabetes syn
+dromes, diseases of the exocrine pan
+creas, and drug- or chemical-induced 
+diabetes
+4. Gestational diabetes mellitus (diabetes 
+diagnosed in the second or third tri
+mester of pregnancy that was not 
+clearly overt diabetes prior to gesta
+tion or other types of diabetes occur
+ring throughout pregnancy, such as 
+type 1 diabetes) 
+Type 1 diabetes and type 2 diabetes 
+are heterogeneous diseases in which clini
+cal presentation and disease progression 
+may vary considerably. Classification is 
+important for determining personalized 
+therapy, but some individuals cannot be 
+clearly classified as having type 1 or type 2 
+diabetes at the time of diagnosis. The tra
+ditional paradigms of type 2 diabetes 
+having onset only in adults and type 1 di
+abetes having onset only in children are 
+not accurate, as both diseases occur in 
+all age groups. Children with type 1 dia
+betes are often diagnosed in the setting 
+of hallmark symptoms of polyuria/poly
+dipsia, and approximately half present 
+with DKA (27–29). The onset of type 1 di
+abetes may be more variable in adults, 
+who may not present with the classic 
+symptoms seen in children and may prog
+ress to insulin replacement more slowly 
+(30,31). The features most useful in deter
+mination of type 1 diabetes include 
+younger age at diagnosis (<35 years), 
+lower BMI (<25 kg/m2), unintentional 
+weight loss, ketoacidosis, and plasma 
+glucose >360 mg/dL (>20 mmol/L) at 
+presentation (32) (Fig. 2.1). Occasion
+ally, people with type 2 diabetes may 
+present with DKA (33) in the context of 
+ketosis-prone diabetes, particularly mem
+bers of certain racial, ethnic, and ances
+tral groups (e.g., Black and Hispanic/ 
+Latino adults) (27). The initial require
+ment for insulin replacement therapy in 
+individuals presenting with ketosis-prone 
+diabetes is generally transient. It is im
+portant for health care professionals to 
+realize that classification of diabetes type 
+is not always straightforward at presenta
+tion and that misdiagnosis can occur in 
+up to 40% of adults with new type 1 dia
+betes (e.g., adults with type 1 diabetes 
+misdiagnosed as having type 2 diabetes). 
+In comparison, individuals with maturity- 
+onset diabetes of the young (MODY) may 
+be misdiagnosed as having type 1 diabetes 
+(32). Although difficulties in distinguishing 
+diabetes type may occur in all age groups 
+at onset, the diagnosis generally becomes 
+more obvious in people with marked loss 
+of β-cell function as they rapidly require 
+insulin therapy (Fig. 2.1). Although not 
+prospectively validated, the AABBCC ap
+proach is a useful tool to help distinguish 
+S30 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

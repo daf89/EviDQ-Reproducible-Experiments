@@ -1,0 +1,217 @@
+GPI:
+General Product Identifier
+HIPAA:
+Health Insurance Portability and Accountability Act
+ICD:
+International Classification of Diseases
+IDCS:
+Integrated Data Collection System
+MEPS:
+Medical Expenditure Panel Survey
+MEPS‑HC (HC):
+Household Component of the MEPS
+MEPS‑MPC (MPC):
+Medical Provider Component of the MEPS
+NPI:
+National Provider Identifier
+OBD:
+Office‑Based Doctor
+PHI:
+Personal Health Information
+PII:
+Personally Identifiable Information
+POC:
+Point of Contact in the provider facility
+RU:
+Reporting Unit
+SOP:
+Source of Payment
+SBD:
+Separately‑Billing Doctor
+Return to Table of Contents
+Appendix B: MPC Data Collection Summary Tables
+Table B‑1. MPC Sample Sizes, Provider Level, 1996‑2024
+Table B‑1. MPC Sample Sizes, Provider Level, 1996‑2005
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+Hospital
+Initial Sample
+3,301
+6,045
+4,844
+3,520
+3,760
+6,801
+8,811
+7,806
+7,567
+7,461
+Sample after subsampling
+n/a
+4,065
+3,468
+n/a
+3,760
+5,616
+6,780
+6,023
+6,094
+6,059
+Final in‑scope sample
+3,330
+4,163
+3,247
+3,284
+3,467
+5,201
+6,325
+5,580
+5,671
+5,600
+HMO
+Initial Sample
+296
+396
+228
+247
+118
+476
+559
+607
+420
+422
+Sample after subsampling
+n/a
+350
+171
+n/a
+118
+334
+290
+280
+300
+301
+Final in‑scope sample
+628
+467
+155
+225
+113
+287
+256
+218
+250
+241
+Institution
+Initial Sample
+59
+81
+63
+52
+63
+83
+114
+81
+92
+121
+Sample after subsampling
+n/a
+80
+69
+n/a
+63
+82
+110
+81
+92
+116
+Final in‑scope sample
+50
+75
+65
+45
+60
+76
+103
+73
+89
+108
+Home Health
+Initial Sample
+415
+674
+456
+393
+319
+520
+631
+588
+568
+606
+Sample after subsampling
+n/a
+653
+420
+n/a
+319
+509
+611
+586
+556
+593
+Final in‑scope sample
+375
+579
+384
+293
+281
+436
+537
+527
+509
+539
+Office‑based physician
+Initial Sample
+10,118
+14,646
+10,483
+9,202
+12,962
+26,344
+32,889
+28,946
+27,617
+26,972
+Sample after subsampling
+n/a
+9,663
+8,403
+12,962
+20,651
+15,222
+15,361
+20,212
+18,933
+Final in‑scope sample
+7,758
+7,047
+7,356
+8,076
+11,167
+18,078
+13,652
+13,808
+18,069
+16,898
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+18/40

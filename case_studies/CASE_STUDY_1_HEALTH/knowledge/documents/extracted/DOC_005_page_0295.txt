@@ -1,0 +1,83 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+295
+Libellé
+Définition
+Réseaux de santé
+Ont pour objet de favoriser l’accès aux soins, la coordination, la continuité ou l’interdisciplinarité des prises 
+en charge sanitaires, notamment celles qui sont spécifiques à certaines populations, pathologies ou activités 
+sanitaires. Ils assurent une prise en charge adaptée aux besoins de la personne, tant sur le plan de 
+l’éducation à la santé, de la prévention, du diagnostic que des soins. Ils peuvent participer à des actions 
+de santé publique. Ils procèdent à des actions d’évaluation afin de garantir la qualité de leurs services et 
+prestations.
+Retours d’expériences 
+(REX)
+Démarche visant à détecter et analyser les anomalies, les écarts et tout événement, qu’il soit positif 
+ou négatif, en recherchant les causes et les enchaînements et en retirant des enseignements.
+Réunions de concertation 
+pluridisciplinaire (RCP) 
+Lieu d’échanges entre spécialistes de plusieurs disciplines sur les stratégies diagnostiques et thérapeutiques 
+en cancérologie. La RCP est organisée par un établissement, un groupe d’établissements ou un réseau de 
+cancérologie, dans le cadre des centres de coordination en cancérologie (3C). L’évaluation régulière des RCP 
+doit rendre compte d’une amélioration continue de la qualité des soins et du service médical rendu au patient. 
+Ces réunions se développent également dans d’autres spécialités.
+Revue de morbidité-
+mortalité (RMM)
+Analyse collective, rétrospective et systémique de cas marqués par la survenue d’un décès, d’une 
+complication, ou d’un événement qui aurait pu causer un dommage au patient, et qui a pour objectif la mise en 
+œuvre et le suivi d’actions pour améliorer la prise en charge des patients et la sécurité des soins.
+Revues de pertinence
+Méthode d’évaluation et d’amélioration des pratiques permettant d’évaluer l’adéquation des soins aux besoins 
+des patients. Elle s’applique à un soin ou un programme de soins et peut porter sur l’indication, la mise en 
+route ou la poursuite des soins. Elle repose sur une approche par comparaison à un ensemble de critères 
+objectifs, prédéterminés, standardisés et validés. Si l’un d’entre eux est présent, les soins ou le programme de 
+soins sont alors pertinents. Lorsque aucun critère n’est retrouvé, il faut rechercher les raisons pouvant 
+expliquer la réalisation du soin.
+Risque
+Prend en compte deux éléments tels que la probabilité que survienne un élément dangereux et la sévérité 
+de ses conséquences.
+Service d’aide médicale 
+d’urgence (SAMU)
+Centre d’appel qui répond 24 heures sur 24 aux besoins de santé de tous. Le SAMU effectue une régulation 
+qui a pour objectif d’apporter une réponse médicale adaptée aux besoins du patient, selon les différents 
+niveaux de gravité et d’urgence. Celle-ci peut aller du simple conseil à l’envoi d’une équipe SMUR en passant 
+par une consultation médicale ou aux urgences. Les SAMU participent également à la prise en charge 
+sanitaire des victimes impliquées dans une situation exceptionnelle comme « les accidents graves multi-
+victimes ou les attentats », suivant les plans d’organisation des secours définis. En vertu de l’article R-6311-2 
+du Code de la santé publique, les SAMU : assurent une écoute médicale permanente ; déterminent et 
+déclenchent la réponse la mieux adaptée à la nature des appels ; s’assurent de la disponibilité des moyens 
+d’hospitalisation, publics ou privés, adaptés à l’état du patient ; organisent, le cas échéant, le transport dans 
+un établissement public ou privé en faisant appel à un service public ou à une entreprise privée de transports 
+sanitaires ; veillent à l’admission du patient.
+Service d’urgence 
+(SU ou SAU)
+Service hospitalier chargé d’accueillir et de prendre en charge les malades et les blessés qui se présentent 
+d’eux-mêmes ou sont amenés par les services de secours (pompiers, SAMU SMUR…).
+Structure mobile 
+d’urgence et de 
+réanimation (SMUR)
+Assure en permanence la prise en charge d’un patient dont l’état requiert, de façon urgente, une prise en 
+charge médicale et de réanimation et, le cas échéant, après régulation par le SAMU, le transport de ce patient 
+vers un établissement de santé.
+Secteurs d’activité
+Unités d’œuvre. Les secteurs d’activité sont définis par l’établissement. L’HAD constitue une unité d’œuvre. 
+Elle est par conséquent, au sein de ce référentiel, considérée comme un secteur d’activité.
+Sécurité
+État dans lequel le risque pour les personnes est réduit au minimum ; cet état est obtenu par une démarche de 
+sécurité permettant d’identifier et de traiter les différentes sources de risques.
+Signalement 
+d’événements 
+indésirables
+Action par laquelle tout incident ou événement indésirable est porté par un professionnel de santé à 
+la connaissance de la structure de vigilance compétente pour le recueil, l’évaluation et la validation des cas.
+Situation de crise
+Situation mettant en danger des personnes ou une organisation et nécessitant des prises de décisions 
+adaptées dans l’urgence (échelle de crise : incident mineur, incident majeur ou accident grave, événement 
+catastrophique).
+Soins critiques
+Appelés « réanimation », « soins intensifs » et « soins continus », sont souvent des endroits différents 
+et la gravité des patients qui y sont admis est aussi différente.
+Soins de réhabilitation 
+psychosociale
+Ensemble des actions mises en œuvre auprès des personnes souffrant de troubles psychiques au sein 
+d’un processus visant à favoriser leur autonomie et leur indépendance dans la communauté.

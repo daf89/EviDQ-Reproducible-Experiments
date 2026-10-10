@@ -1,0 +1,319 @@
+Contact Group
+Provider Type
+Initial
+Sample1
+Ever coded Refusal
+Ineligible
+Final Refusal
+Other
+Nonresponse
+Complete
+N
+N
+Pct of
+Initial
+Sample
+Pct of Ever
+Coded
+Refusal
+N
+Pct of Ever
+Coded
+Refusal
+N
+Pct of Ever
+Coded
+Refusal
+N
+Pct of Ever
+Coded
+Refusal
+N
+Pct of Ever
+Coded
+Refusal
+2021
+Hospital
+4,695
+337
+7.2%
+100.0%
+6
+1.8%
+124
+36.8%
+88
+26.1%
+119
+35.3%
+Office‑based
+12,844
+872
+6.8%
+100.0%
+19
+2.2%
+386
+44.3%
+127
+14.6%
+340
+39.0%
+Pharmacy
+2,407
+e
+11.4%
+100.0%
+8
+2.9%
+95
+34.5%
+132
+48.0%
+40
+14.5%
+Home Health
+792
+39
+4.9%
+100.0%
+2
+5.1%
+17
+43.6%
+20
+51.3%
+0
+0.0%
+SBDs
+7,128
+342
+4.8%
+100.0%
+14
+4.1%
+208
+60.8%
+81
+23.7%
+39
+11.4%
+2022
+Hospital
+3,563
+352
+9.9%
+100.0%
+10
+2.8%
+120
+34.1%
+82
+23.3%
+140
+39.8%
+Office‑based
+12,240
+726
+5.9%
+100.0%
+10
+1.4%
+508
+70.0%
+67
+9.2%
+141
+19.4%
+Pharmacy
+1,908
+227
+11.9%
+100.0%
+12
+5.3%
+49
+21.6%
+112
+49.3%
+54
+23.8%
+Home Health
+762
+53
+7.0%
+100.0%
+3
+5.7%
+11
+20.8%
+26
+49.1%
+12
+22.6%
+SBDs
+7,373
+523
+7.1%
+100.0%
+27
+5.2%
+54
+10.3%
+338
+64.6%
+97
+18.5%
+2023
+Hospital
+3,085
+432
+14.0%
+100.0%
+12
+2.8%
+3
+0.7%
+213
+49.3%
+204
+47.2%
+Office‑based
+10,728
+738
+6.9%
+100.0%
+10
+1.4%
+10
+1.4%
+400
+54.2%
+318
+43.1%
+Pharmacy
+1,622
+136
+8.4%
+100.0%
+6
+4.4%
+73
+53.7%
+22
+16.2%
+35
+25.7%
+Home Health
+646
+38
+5.9%
+100.0%
+3
+7.9%
+0
+0.0%
+30
+78.9%
+5
+13.2%
+SBDs
+7,961
+440
+5.5%
+100.0%
+26
+5.9%
+6
+1.4%
+303
+68.9%
+100
+22.7%
+2024
+Hospital
+2,967
+438
+14.8%
+100.0%
+8
+1.8%
+41
+9.4%
+196
+44.7%
+193
+44.1%
+Office‑based
+10,130
+763
+7.5%
+100.0%
+21
+2.8%
+99
+13.0%
+372
+48.8%
+271
+35.5%
+Pharmacy
+1,773
+37
+2.1%
+100.0%
+2
+5.4%
+6
+16.2%
+23
+62.2%
+6
+16.2%
+Home Health
+684
+58
+8.5%
+100.0%
+4
+6.9%
+4
+6.9%
+37
+63.8%
+13
+22.4%
+SBDs
+6,048
+323
+5.3%
+100.0%
+18
+5.6%
+0
+0.0%
+253
+78.3%
+52
+16.1%
+Notes:
+1 Note counts in this table are of contact groups, not individual providers.
+Return to Table of Contents
+Components of MPC Data Collection
+Figures 3‑1 through 3‑4 display historical MPC data collection information at the provider level for Hospitals, OBDs,
+SBDs, and Pharmacies (corporate and non‑corporate). Each graph displays:
+Provider sample size (eligible providers), as a proportion of the eligible sample in 2002
+Provider ineligibility rate, expressed as the complement of the eligibility rate (1 ‑ (Eligibility Rate)) for presentation
+purposes,
+Final provider completion rate, and
+Final provider refusal rate.
+For Hospitals, (Figure 3‑1), the sample size and the provider refusal rate increased from the previous year, the provider
+completion rate decreased, and the ineligibility rate was about the same.
+For Office‑Based Doctors (Figure 3‑2), the sample size decreased from the previous year, the ineligibility rate and refusal
+rate increased, and the provider completion rate stayed about the same.
+For Separately‑Billing Doctors (Figure 3‑3), the sample size, ineligibility rate, and completion rate decreased, and the
+refusal rate was about the same.
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+15/40

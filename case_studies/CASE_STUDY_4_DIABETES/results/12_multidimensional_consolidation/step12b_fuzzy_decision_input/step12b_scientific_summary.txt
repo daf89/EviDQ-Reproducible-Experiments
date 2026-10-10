@@ -1,0 +1,17 @@
+STEP 12B — FUZZY DECISION INPUT MATRIX
+
+Baseline observable: DQ
+REF excluded from action comparison, XAI comparison and fuzzy inference.
+Performance comparison population: COMMON VALIDATION n=139.
+
+Performance deltas are computed directly against DQ on the common population.
+XAI changes are computed against DQ.
+Rank agreement is Spearman versus DQ.
+Stability remains an intrinsic reliability property of each action.
+Coverage remains an independent operational property.
+TreeSHAP fidelity is retained as a PASS/FAIL validity gate.
+
+No model retraining.
+No new SHAP computation.
+No new DQ transformation.
+TEST not accessed.

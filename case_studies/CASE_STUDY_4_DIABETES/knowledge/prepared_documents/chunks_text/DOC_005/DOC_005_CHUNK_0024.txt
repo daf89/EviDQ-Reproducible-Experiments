@@ -1,0 +1,87 @@
+
+
+===== PDF PAGE 47 =====
+
+35
+References
+References
+1.	 WHO, Affordable technology blood pressure measuring devices for low-resource settings, Geneva, 
+2005. 
+2.	 WHO, “Global Health Observatory (GHO) data,” 2015. [Online]. Available: https://www.who.int/gho/ncd/
+risk_factors/blood_pressure_prevalence/en/.
+3.	 GBD, “Global, regional, and national comparative risk assessment of 84 behavioural, environmental 
+and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990-2017: 
+a systematic analys,” 2018.
+4.	 B. Filho Rodrigues, R. Farias and W. Dos Anjos, Evaluating the impact of measurement uncertainty in 
+blood pressure measurement on hypertension diagnosis. Blood Press Monit, 23(3), 141-147, 2018. 
+5.	 N. Campbell, M. Myers and D. McKay, Usual measurement of blood pressure is it meaningful? Blood 
+Press Monit. 4:71–6, 1999.. 
+6.	 WHO, Replacement of mercury thermometers and sphygmomanometers in health care: technical 
+guidance, 2015. 
+7.	 R. Padwal, N. Campbell, O. Schutte AE, M. Delles, A. Etyang, J. Cruisckshank, G. Stergiou, M. Rakotz, 
+G. Wozniak, M. Jaffe, I. Benjamin, G. Parati and J. Sharman, “Optimizing observer performance of 
+clinic blood pressure measurement: a position statement from the Lancet Commission on Hypertension 
+Group,” 2019.
+8.	 U. MHRA, “Blood pressure measurement devices. Guidance for healthcare professionals on the use 
+and management of blood pressure management devices.,” Medicines and Healthcare Products 
+Regulatory Agency, London, 2013.
+9.	 Miyashita and Ellis, Primary hypertension and special aspects of hypertension in older children and 
+adolescents., Health Ther, 2, 45-62., 2011. 
+10.	ECRI, “Vital Signs Monitoring Systems,” 2011.
+11.	ECRI, “Monitors, vital signs, device overview specifications – comparative data (Information is only 
+available for subscribed members of ECRI),” Plymouth Meeting (PA), 2016.
+12.	G. Ogedegbe and T. Pickering, “Principles and techniques of blood pressure measurement. 
+28(4):571–86.,” Cardiol Clin., 2010.
+13.	E. O’Brien, B. Waeber, G. Parati, J. Staessen and M. Myers, “Blood pressure measuring devices: 
+recommendations of the European Society of Hypertension. 322(7285):531–6.,” BMJ., 2001.
+14.	P. Muntner, D. Shimbo, R. Care, J. Charleston, T. Gallard and S. Misra, “Measurement of blood 
+pressure in humans 73: e35–66.,” American Heart Association. Hypertension., 2019.
+15.	NHBPEP, NHLBI and AHA, “working meeting on blood pressure measurement.,” Bethesda (MD): 
+National Institutes of Health, 2002.
+
+
+===== PDF PAGE 48 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+36
+16.	W. JG., “Encyclopedia of medical devices and instrumentation.,” Jogn Wiley & Sons, New York City 
+(NY), 1990.
+17.	J. Cohen, R. Padwal, M. Gutkin, B. Green, M. Bloch, F. Germino and e. al., “History and justification of 
+a national blood pressure measurement validated device listing. Hypertension. 73(2):258–64.,” 2019.
+18.	J. Pineda Pardo, Automatic learning procedures for non-invasive blood pressure measurements. Blood 
+pressure measuring. Chapter 2, Seville: University of Seville, 2009. 
+19.	World Health Organization, “SIXTY-SEVENTH WORLD HEALTH ASSEMBLY WHA67.20 Regulatory 
+system strengthening for medical products.,” Organization,.
+20.	World Health Organization, “WHO global model regulatory framework for medical devices including in 
+vitro diagnostic medical devices.,” Geneva:, 2017.
+21.	E. Commision, ““Blue Guide” on the implementation of EU product rules.,” Official journal of the 
+European Union, Brussels, 26.7.2016.
+22.	einfochips, “A Definitive Guide to Medical Device Design and Development,” einfochips, [Online]. 
+Available: https://www.einfochips.com/resources/publications/a-definitive-guide-to-medical-device-
+design-and-development/.
+23.	ISO, “Standards ISO,” [Online]. Available: https://www.iso.org/standards.html. [Accessed 20 02 2020].
+24.	E. O’Brien, G. Stergiou and M. Turner, “The quest for accuracy of blood pressure measuring devices. 
+20(7):1092–5.,” J Clin Hypertens., 2018.
+25.	G. Stergiou, P. Palatini, R. Asmar, J. P. Ioannidis, A. Lollias, P. Lacy, R. J. McManu, M. G. Myers, G. 
+Parati, A. Shennan, J. Wang and E. Obrien, “Recommendations and Practical Guidance for performing 
+and reporting validation studies according to the Universal Standard for the validation of blood pressure 
+measuring devices,” AAMI/ESH/ISO, 2019.
+26.	G. Stergiou, P. Palatini, R. Asmar, J. Ioannidis, A. Lollias, P. Lacy, R. McManu, M. Myers, G. Parati, 
+A. Shennan, J. Wang and E. Obrien, “on Blood Pressure Monitoring and Cardiovascular Variability. 
+Improving the accuracy of blood pressure measurement,” ESH-IP, 2018.
+27.	G. Stergiou, B. Alpert, S. Mieke, J. Wang and E. O´Brien, “Validation Protocols for Blood Pressure 
+Measuring Devices in the 21st century20:1096-1099.,” 2018.
+28.	M. Turner, C. Speechly and N. Bignell, Sphygmomanometer calibration--why, how and how often. 
+36:834-8., Aust Fam Physician, 2007. 
+29.	United Nations Development Programme, Guidance on Maintening and calibrating non-mercury 
+clinical thermometers and sphygmomanometers. GEF GLOBAL HEALTHCARE WASTE PROJECT, 
+2013. 
+30.	World Health Organization, Medical equipment maintenance programme overview (WHO Medical 
+device technical series), Geneva: World Health, 2011. 
+31.	ECRI, Instructions of Preventive Maintenance, Procedure No. 454-20160810 for Sphygmomanometers 
+(aneroid or mercury), 2016. 
+32.	World Health Organization, Procurement process resource guide (WHO Medical device technical 
+series)., Geneva, 2011. 
+33.	World Health Organization, Nomenclature of medical devices., Geneva, 2017. 
+34.	World Health Organization, Standardization of medical devices nomenclature: international 
+classification, coding and nomenclature of medical devices., Geneva, 2019. 

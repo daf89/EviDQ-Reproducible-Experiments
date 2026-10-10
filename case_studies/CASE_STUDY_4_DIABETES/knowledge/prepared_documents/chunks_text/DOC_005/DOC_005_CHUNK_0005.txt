@@ -1,0 +1,61 @@
+
+
+===== PDF PAGE 9 =====
+
+v
+Glossary
+Glossary 
+Accuracy: The closeness of a determined value of a physical dimension to the real value. Ability to perform 
+without making errors.
+Aneroid sphygmomanometer: A manual BPMD with a manometer, composed of an inflation bulb for controlling 
+the air pressure within the cuff that is attached to the manometer by tubing. The manometer head contains 
+mechanical parts that convert the cuff pressure into readings.
+Arterial BP: The pressure exerted in the arteries in the systemic circulation. Depends on the cardiac output, 
+arterial elasticity, blood viscosity and peripheral vascular resistance.
+Auscultatory technique: BP measurement technique used with a manual sphygmomanometer. Systolic 
+and diastolic BP is detected from Korotkoff sounds using a stethoscope or microphone positioned over a 
+compressed artery during cuff deflation.
+Automated BPMD: A device that estimates BP after automatic inflation and deflation of the cuff and displays 
+the values on an electronic display. The semi-automated device requires manual inflation. 
+Brachial artery: A major artery in the upper arm, which is compressed by the BP cuff during BP measurement.
+Calibration: Steps taken to ensure that a BPMD measures BP accurately. This is typically done by testing the 
+device against a gold standard. When an aneroid sphygmomanometer does not provide accurate BP reading, 
+the device can be adjusted (calibrated) to produce accurate measurements. Automated BPMDs that are 
+inaccurate should be sent to the manufacturer for repair. 
+Diastolic BP: The pressure in blood vessels when the heart rests between beats.
+Eclampsia: Seizures resulting from high BP in a pregnant woman. This is a complication of pre-eclampsia.
+Korotkoff sounds: Sounds emitted from a fully compressed artery as it becomes un-occluded during BP cuff 
+deflation. These sounds are indicative of arterial flow and are used to determine BP. 
+Manual BPMD: Device for estimating arterial BP using the auscultatory technique. Systolic and diastolic BP 
+is detected from Korotkoff sounds using a stethoscope or microphone positioned over a compressed artery 
+during cuff deflation.
+Mercury sphygmomanometer: Manual device for measuring BP, composed of an inflation bulb for controlling 
+the air pressure in the cuff which is attached to a measuring unit and a mercury-infused glass column which 
+displays BP (values in mm Hg). No longer recommended by WHO for clinical use, due to the need to phase-
+out mercury in health facilities.
+Oscillometric technique: BP measurement technique used with automated or electronic BPMDs. Cuff 
+deflation +/- inflation is initiated by the device which detects arterial oscillations, or variations in intracuff 
+pressure caused by changes in pulse volume induced by the heartbeat at different applied pressures. The 
+maximal oscillation during either inflation or deflation (device specific) corresponds to the mean arterial 
+pressure and is used to calculate the systolic and diastolic BP using proprietary algorithms. 
+Pre-eclampsia: A condition that may develop during pregnancy, characterized by high BP (hypertension), 
+proteinuria and edema. 
+
+
+===== PDF PAGE 10 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+vi
+Semi-automated BPMD: Device that operates by manual cuff inflation and electronic cuff deflation. BP is 
+estimated as with other electronic devices. This device is energy-efficient because the cuff is inflated manually 
+with a bulb.
+Sphygmomanometer: Medical device for measuring arterial BP compromised of a cuff, an inflation bulb with 
+release valve and a manometer (typically either a mercury column or an aneroid dial). 
+Spot-check BPMD: An electronic BPMD with an electrical pump that inflates the upper arm cuff and a 
+digital display that shows the BP measurement. This device is typically designed to provide continuous BP 
+monitoring in a hospital setting but could also be used to provide “spot checks” of BP (i.e. intermittent resting 
+BP measurements). 
+Systolic BP: The maximal pressure in the aorta when the heart contracts and ejects blood from the left ventricle. 
+Validation: A term used to indicate the process by which devices are tested for accuracy. A “validated device” 
+is one that has undergone rigorous, standardized testing against a gold standard to ensure that the device 
+produces accurate measurements. 

@@ -1,0 +1,127 @@
+7.6.5. Phaeochromocytoma/paraganglioma 
+Phaeochromocytomas/paragangliomas (PPGLs) are a rare form of sec-
+ondary hypertension characterized by a highly heterogeneous clinical 
+presentation.335,336 PPGLs are usually discovered incidentally.337 
+A PPGL should be suspected in the presence of signs and symptoms of 
+catecholamine excess or in syndromic PPGL, in patients with a family his-
+tory of PPGL, and in carriers of a germline mutation in one of the 
+PPGL-causing genes.338 Since normetanephrine and metanephrine are se-
+creted constitutively, as opposed to the highly variable nature of catechol-
+amine secretion, they are preferred as screening tests for PPGL (Table 13). 
+8. Preventing and treating elevated 
+blood pressure and hypertension 
+The ultimate goal of preventing and treating elevated BP and hyperten-
+sion is to reduce CVD, to improve quality of life, and to prevent prema-
+ture death. Crucially, besides BP, other CVD risk factors need to be 
+comprehensively addressed (e.g. smoking, glucose, dyslipidaemia) as de-
+tailed in the 2021 ESC Guidelines on cardiovascular disease prevention 
+in clinical practice.170 Indeed, it is worth emphasizing that, when com-
+bined, these CVD risk factors have multiplicative (not additive) effects 
+on CVD risk.340 
+8.1. Prevention strategies in early life 
+Detailed information on this topic is provided in the Supplementary data 
+online. High BP tracks from childhood to adulthood.341,342 Hypertension 
+in childhood was redefined in a 2022 ESC Consensus Document.343 
+8.2. Non-pharmacological interventions 
+A major underlying contributor to elevated BP and hypertension in the 
+general adult population is unhealthy lifestyle, with severe consequences 
+for all-cause and CVD mortality. As such, we give lifestyle interventions to 
+reduce BP a special status in our recommendations throughout these 
+guidelines (Figures 16 and 17). This is reflected by a modified approach 
+to the class of recommendations for lifestyle interventions compared 
+with medical interventions (pharmacological or procedural). Given the 
+salutary benefits of healthy lifestyle on a range of outcomes that extend 
+well beyond BP-lowering effects,347 including broad mental and physical 
+health benefits, we do not require lifestyle interventions to have RCT evi-
+dence for efficacy in reducing CVD events through BP lowering to achieve 
+a Class I recommendation. In deciding to give lifestyle interventions this 
+status, the task force also recognizes that: (i) lifestyle interventions are 
+less likely to be subjected to clinical outcomes trials (e.g. due to funding 
+limitations and lack of interest from industry), and (ii) the risks of adverse 
+effects and toxicity relating to healthy lifestyle interventions are low. In 
+contrast, in these guidelines, to achieve a Class I recommendation (irre-
+spective of level of evidence) there needs to be evidence that medical in-
+terventions that reduce BP also decrease CVD events by BP lowering. 
+8.2.1. Dietary sodium and potassium intake 
+8.2.1.1. Sodium 
+Reducing dietary salt (sodium chloride) intake in individuals with high 
+baseline intake lowers CVD event rates.348 Extensive observational stud-
+ies have reported dose–response associations between high dietary so-
+dium intake and CVD events.349–351 The potential impact of salt 
+reduction on population health is significant, particularly in countries 
+where the population’s average salt intake is high. Pooled data from long- 
+term follow-up salt-reduction trials demonstrate that reducing salt by 
+2.5 g/day is associated with an approximately 20% reduction in CVD 
+events at the population level.349 
+The health benefits of salt reduction are likely mediated, largely, by 
+BP-lowering effects.352–354 An almost linear relationship has been de-
+scribed in a dose–response meta-analysis between sodium intake ran-
+ging from 0.4 to 7.6 g/day and reduction of systolic and diastolic BP is 
+independent of baseline BP.355,356 Women appear to be, on average, 
+more sodium sensitive than men,357 and may have greater outcome 
+benefits when receiving comparable sodium-restricted diets.358 Trial 
+evidence for the BP-lowering benefits of salt reduction extend down 
+to daily sodium intakes of <1.5 g/day.356,358–361 
+The task force acknowledges that the observational data linking so-
+dium intake to CVD outcomes are mixed and that some studies have 
+not found a link between salt intake and CVD.362,363 In addition, a po-
+tential J-curve exists between sodium intake and CVD events (where-
+by some analyses suggest that sodium reduction to very low levels 
+could be harmful).363,364 While there are differences of opinion, the 
+task force agreed that, on balance, (i) observational J-curve data are 
+often due to reverse causality or confounding,114,348,365,366 (ii) the re-
+lationship between dietary sodium and stroke is typically linear in 
+shape, without any J-curve, (iii) if the J-curve were causal, the adverse 
+effect of very low sodium on CVD would have to be mediated by some 
+harmful mechanism that overcomes the expected benefit mediated by 
+BP lowering (which is unlikely), and (iv) estimation of sodium intake 
+using spot-urine sodium testing (which was commonly done in studies 
+reporting a J-curve) may not be as valid as other methods.367 For ex-
+ample, most (but not all)362 reports measuring 24 h urine sodium ex-
+cretion (a surrogate measure of sodium intake) have not reported a 
+J-curve association with CVD.350,364 Furthermore the causal evidence 
+demonstrating reduced CVD with sodium restriction (using potassium- 
+enriched salt substitutes) in the Salt Substitute and Stroke Study (SSaSS) 
+Recommendation Table 13 — Recommendations for 
+screening for secondary hypertension (see Evidence 
+Tables 19 and 20) 
+Recommendations 
+Classa 
+Levelb 
+It is recommended that patients with hypertension 
+presenting with suggestive signs, symptoms or medical 
+history of secondary hypertension are appropriately 
+screened for secondary hypertension.312,314,315,323,339 
+I 
+B 
+Screening for primary aldosteronism by renin 
+and aldosterone measurements should be 
+considered in all adults with confirmed 
+hypertension (BP ≥140/90 mmHg).313,316,323,339 
+IIa 
+B 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 14 — Recommendations for 
+screening for hypertension in children and adolescents 
+(see Evidence Table 21) 
+Recommendation 
+Classa 
+Levelb 
+Opportunistic screening with office BP 
+measurements to monitor development of BP during 
+late childhood and adolescence, especially if one or 
+both parents have hypertension, should be 
+considered to better predict development of adult 
+hypertension and associated CVD risk.344–346 
+IIa 
+B 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+3954 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

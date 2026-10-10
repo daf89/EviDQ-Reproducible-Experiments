@@ -1,0 +1,139 @@
+Practice Point 5.4.5: Pursue living or deceased donor pre-
+emptive kidney transplantation as the treatment of choice
+for children in whom there is evidence of progressive and
+irreversible CKD. The eGFR at which preemptive trans-
+plantation should be undertaken will depend on multiple
+factors including the age and size of the child and the rate
+of progression of kidney failure but will usually be between
+eGFR 5–15 ml/min per 1.73 m2.
+In children, poor growth can also be a reason to initiate
+dialysis. The decision to start dialysis should be reached in
+discussion with the child (if age appropriate), their caregivers,
+and their healthcare providers. Medical and psychosocial
+preparations for the initiation of dialysis should begin well
+before dialysis is required.
+Deferred initiation should not imply deferred preparation,
+and early discussions regarding medical and psychosocial
+preparation for the initiation of dialysis should not be delayed
+(e.g.,
+placement
+of
+dialysis
+access,
+dialysis
+modality
+selection, advance care planning, and assistance with home
+therapies).
+In children, studies from the USRDS, the European Society
+of Paediatric Nephrology (ESPN), and the Australia and New
+Zealand Dialysis and Transplant Registry (ANZDATA) found
+no beneﬁt from starting dialysis early.911–913 Of 15,000 inci-
+dent children on dialysis in the USRDS, the mortality risk was
+36% higher for those with eGFR >10 ml/min per 1.73 m2
+compared with those with lower eGFR at dialysis initiation.912
+Mortality risk increased in those starting dialysis with eGFR
+<5 and $12 ml/min per 1.73 m2, with a greater risk in
+people 6 years and older.914 A retrospective ESPN study of
+nearly 3000 children found that mortality did not differ
+when dialysis was started with an eGFR above or below 8
+ml/min per 1.73 m2.911 These observational data may be
+confounded by indication bias.
+Table 42| Studies examining the timing of dialysis in people with CKD
+Study
+Study design
+Comparison/study populations
+Outcomes
+Results
+Cooper et al.
+2010: IDEAL
+study905
+RCT
+Late start group (eGFRCG 5–7 ml/min
+per 1.73 m2)
+Early start group (eGFRCG 10–14 ml/min
+per 1.73 m2)
+Mortality
+HR with early initiation, 1.04; 95% CI: 0.83–1.30;
+P ¼ 0.75
+Harris et al.
+2011906
+Post hoc analysis
+of IDEAL study
+Late start group (eGFRCG 5–7 ml/min
+per 1.73 m2)
+Early start group (eGFRCG 10–14 ml/min
+per 1.73 m2)
+Cost
+Quality of life
+No statistical difference between early start vs.
+late start group
+Whalley et al.
+2013907
+Post hoc analysis
+of IDEAL study
+Late start group (eGFRCG 5–7 ml/min
+per 1.73 m2)
+Early start group (eGFRCG 10–14 ml/min
+per 1.73 m2)
+Change in cardiac
+structure and
+function (LVMI, LVEF,
+LAVI) over 12 months
+and between groups
+No statistically signiﬁcant change in cardiac
+structure and function over 12-month follow-
+up. No statistically signiﬁcant difference in
+cardiac structure and function between the 2
+groups
+Rosansky et al.
+2011910
+Observational
+study
+81,176 subjects with kidney failure
+aged 20–64 years, without diabetes,
+and with no comorbidity other than
+hypertension
+1-year mortality
+The unadjusted 1-year mortality by MDRD
+eGFR at dialysis initiation ranged from 6.8% in
+the reference group (eGFR <5.0 ml/min per
+1.73 m2) to 20.1% in the highest eGFR group
+($15.0 ml/min per 1.73 m2).
+Nacak et al.
+2016909
+Observational
+study
+35,665 subjects with serum albumin
+concentrations of 3.5 g/dl or higher
+before hemodialysis initiation
+1-year mortality
+1-year mortality was 4.7%. In this group, the
+adjusted HR for mortality was 1.27 for eGFR
+5.0–9.9 ml/min per 1.73 m2, 1.53 for eGFR
+10.0–14.9 ml/min per 1.73 m2, and 2.18 for
+GFR $15.0 ml/min per 1.73 m2 compared with
+the reference group of GFR <5.0 ml/min per
+1.73 m2.
+Fu et al.
+2021908
+Observational
+study
+10,290 people with CKD G4–G5;
+compare dialysis initiation strategies
+with eGFR values ranging between 4
+and 19 ml/min per 1.73 m2 and use an
+eGFR between 6 and 7 ml/min per 1.73
+m2 as the reference group
+5-year mortality
+The maximum 5-year mortality risk reductions
+were 5.1% (for eGFR15-16 vs. eGFR6-7),
+translating into a better survival of only 1.6
+months over a 5-year period at the expense of
+starting dialysis 4 years earlier
+CG, Cockcroft-Gault; CI, conﬁdence interval; CKD, chronic kidney disease; eGFR, estimated glomerular ﬁltration rate; HR, hazard ratio; IDEAL, Initiating Dialysis Early and Late;
+LAVI, left atrial volume index; LVEF, left ventricular ejection fraction; LVMI, left ventricular mass index; MDRD, Modiﬁcation of Diet in Renal Disease; RCT, randomized controlled
+trial.
+www.kidney-international.org
+chapter 5
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S267

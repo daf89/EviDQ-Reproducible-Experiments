@@ -1,0 +1,151 @@
+
+
+===== PDF PAGE 359 =====
+
+WHO STEPS chronic disease risk factor surveillance 
+www.who.int/chp/steps 
+6-3B-1 
+ 
+ 
+ 
+ 
+Results for adults aged 18-69 years (incl. 95% CI) 
+(adjust if necessary) 
+Questions required to 
+calculate result (based 
+on coding column) 
+Epi Info Program Name 
+Step 2 
+Physical Measurements 
+Mean body mass index - BMI (kg/m2) 
+M8, M11, M12 
+MbmiWT 
+Percentage who are overweight (BMI ≥ 25 kg/m2) 
+M8, M11, M12 
+MbmiclassWT 
+Percentage who are obese (BMI ≥ 30 kg/m2) 
+M8, M11, M12 
+MbmiclassWT 
+Average waist circumference (cm) 
+M8, M14 
+MwaistWT 
+Mean systolic blood pressure - SBP (mmHg), including those currently 
+on medication for raised BP 
+M4a, M4b, M5a, M5b, M6a, 
+M6b 
+MbloodpressureWT 
+Mean diastolic blood pressure - DBP (mmHg), including those currently 
+on medication for raised BP 
+M4a, M4b, M5a, M5b, M6a, 
+M6b 
+MbloodpressureWT 
+Percentage with raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg or 
+currently on medication for raised BP) 
+M4a, M4b, M5a, M5b, M6a, 
+M6b, M7 
+MraisedbpWT 
+Percentage with raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg) who 
+are not currently on medication for raised BP 
+M4a, M4b, M5a, M5b, M6a, 
+M6b, M7 
+MraisedbpWT 
+Step 3 Biochemical Measurements 
+Mean fasting blood glucose, including those currently on medication for 
+raised blood glucose [choose accordingly: mmol/L or mg/dl] 
+B1, B5 
+BglucoseWT (mmol/L) 
+BglucoseMgWT (mg/dl) 
+Percentage with impaired fasting glycaemia as defined below 
+• plasma venous value ≥6.1 mmol/L (110 mg/dl) and <7.0 mmol/L (126 mg/dl) 
+• capillary whole blood value ≥5.6 mmol/L (100 mg/dl) and <6.1 mmol/L (110 
+mg/dl) 
+B1, B5, B6 
+BglucoseWT (mmol/L) 
+BglucoseMgWT (mg/dl) 
+Percentage with raised fasting blood glucose as defined below or 
+currently on medication for raised blood glucose 
+• plasma venous value ≥ 7.0 mmol/L (126 mg/dl) 
+• capillary whole blood value ≥ 6.1 mmol/L (110 mg/dl) 
+B1, B5, B6 
+BglucoseWT (mmol/L) 
+BglucoseMgWT (mg/dl) 
+Mean total blood cholesterol, including those currently on medication 
+for raised cholesterol [choose accordingly: mmol/L or mg/dl] 
+B8 
+BtotallipidsWT (mmol/L) 
+BtotallipidsMgWT (mg/dl) 
+Percentage with raised total cholesterol (≥ 5.0 mmol/L or ≥ 190 mg/dl 
+or currently on medication for raised cholesterol) 
+B8, B9 
+BtotallipidsWT (mmol/L) 
+BtotallipidsMgWT (mg/dl) 
+Mean intake of salt per day (in grams) 
+M8, B10, B14, B15 
+BsaltWT 
+Cardiovascular disease (CVD) risk 
+Percentage aged 40-69 years with a 10-year CVD risk ≥ 30%, or with 
+existing CVD** 
+See data book 
+CVDriskWT 
+Summary of combined risk factors 
+• 
+current daily smokers 
+• 
+less than 5 servings of fruits & vegetables per day 
+• 
+low level of activity 
+• 
+overweight (BMI ≥ 25 kg/m2) 
+• 
+raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg or currently on 
+medication for raised BP) 
+Codes used for summary of combined risk factors: 
+T1, T2, D1-D4, P1-P15b, 
+M8, M11, M12, M4a-b, M5a-b, M6a-b, M7 
+Percentage with none of the above risk factors 
+See above 
+RaisedriskWT 
+Percentage with three or more of the above risk factors, 
+aged 25 to 44 years 
+See above 
+RaisedriskWT 
+Percentage with three or more of the above risk factors, 
+aged 45 to 64 years 
+See above 
+RaisedriskWT 
+Percentage with three or more of the above risk factors, 
+aged 25 to 64 years 
+See above 
+RaisedriskWT 
+For additional information, please contact: 
+STEPS Survey Coordinator [name, email addresses] 
+Country STEPS Survey <year> 
+Fact Sheet Analysis Guide 
+
+
+===== PDF PAGE 360 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-1 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHO STEPS 
+ 
+Noncommunicable Disease 
+Risk Factor Survey 
+ 
+ 
+DATA BOOK FOR 
+<INSERT COUNTRY NAME> 

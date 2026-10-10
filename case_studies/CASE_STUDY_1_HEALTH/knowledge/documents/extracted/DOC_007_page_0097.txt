@@ -1,0 +1,114 @@
+$3 mm Hg over 24 hours while on a high salt diet, when
+compared with a controlled salt diet). That sensitivity may
+increase further in those who are small for gestational age.496
+Children with CKD often have underlying tubular condi-
+tions that predispose them to numerous electrolyte losses,
+including sodium. For these children, a supplemented rather
+than restricted sodium intake will be required. For non–salt-
+wasting children, salt intake should be limited to the age-
+based Recommended Daily Intake.
+3.4 Blood pressure control
+The Work Group concurs with the KDIGO 2021 Clinical
+Practice Guideline for the Management of Blood Pressure in
+Chronic Kidney Disease, which encourages individualized BP
+targets and use of agents according to age, coexistent CVD, and
+other comorbidities; risk of progression of CKD; and tolerance
+to treatments.21 We highlight the following guidance:
+Recommendation 3.4.1: We suggest that adults
+with high BP and CKD be treated with a target
+systolic blood pressure (SBP) of <120 mm Hg,
+when tolerated, using standardized ofﬁce BP
+measurement (2B).
+Practice Point 3.4.1: Consider less intensive BP-lowering
+therapy in people with frailty, high risk of falls and frac-
+tures, very limited life expectancy, or symptomatic postural
+hypotension.
+RCTs have not demonstrated that intensive BP-lowering
+results in meaningful reductions in the risk of kidney failure,
+but the RCT evidence supporting important cardiovascular
+beneﬁts should encourage such a strategy. By aiming for an SBP
+<120 mm Hg, more adults with CKD will achieve an SBP
+<130 mm Hg, even if they do not meet the <120 mm Hg
+target. Observationally, on average, each 20 mm Hg higher than
+usual SBP and 10 mm Hg higher diastolic BP is associated with
+an approximate doubling of cardiovascular risk, with no lower
+limit down to at least 115/75 mm Hg.497 Data from the Systolic
+Blood Pressure Intervention Trial (SPRINT) support the SBP
+target of <120 mm Hg (when measured using a standardized
+ofﬁce BP measurement) to reduce cardiovascular risk in
+adults aged >75 years, or aged >50 years with 1 or more of
+the following risk factors: clinical or subclinical CVD (other
+than stroke), eGFR 20–60 ml/min per 1.73 m2, or $15% 10-
+year cardiovascular risk.498 Compared with a target of 140
+mm Hg, this approach reduces the risk of major adverse
+cardiovascular events (MACE) by one-quarter (hazard ratio
+[HR]: 0.75; 95% CI: 0.64–0.89), and that relative beneﬁt was
+similar in people with and without CKD. The SPRINT trial
+excluded people with diabetes, but cardiovascular beneﬁts of
+intensive BP lowering on risk of stroke and heart failure are
+clearly apparent in people with diabetes in individual patient
+level data meta-analysis of intensive versus standard BP-
+lowering trials.499
+Standardized BP monitoring can be challenging to offer in a
+clinic setting due to the time required500; however, it is
+considered potentially hazardous to apply the recommended
+SBP target of <120 mm Hg to BP measurements obtained in a
+nonstandardized manner.500 A practical solution to ensure the
+identiﬁcation of high BP is by using home-based monitoring
+(or telemonitoring). Trials have shown that 2 morning and
+evening BP measurements taken during the ﬁrst week of every
+month can be used to titrate antihypertensive medication and
+reduce BP more than “usual care” approaches.501
+People who are frail, have limited life expectancy, or have a
+history of falls and fractures may have increased risk of addi-
+tional events if BP targets of <120 are achieved. Postural
+hypotension in these people is associated with adverse out-
+comes, and thus weighing the beneﬁts of some attenuation of
+eGFR decline versus the life-changing impact of falls, fractures,
+and other events should be considered in choosing speciﬁc
+targets.
+Special considerations
+Pediatric considerations. The Work Group concurs with the
+KDIGO 2021 Clinical Practice Guideline for the Management
+of Blood Pressure in Chronic Kidney Disease, and we high-
+light the following guidance21:
+Recommendation 3.4.2: We suggest that in children
+with CKD, 24-hour mean arterial pressure (MAP) by
+ambulatory blood pressure monitoring (ABPM)
+should be lowered to £50th percentile for age, sex,
+and height (2C).
+Practice Point 3.4.2: Monitor BP once a year with ABPM
+and every 3–6 months with standardized auscultatory ofﬁce
+BP in children with CKD.
+Practice Point 3.4.3: In children with CKD, when ABPM is
+not available, it is reasonable to target manual auscultatory
+ofﬁce SBP, obtained in a protocol-driven standardized
+setting, of 50th–75th percentile for age, sex, and height
+unless achieving this target is limited by signs or symptoms
+of hypotension.
+These statements with respect to children are generally
+worded to maintain consistency with the KDIGO 2021
+Clinical Practice Guideline for the Management of Blood
+Pressure in Chronic Kidney Disease,21 where the full rationale
+and evidence behind the statements are available. However,
+the suggestion to target auscultatory ofﬁce SBP at the 50th–
+75th percentile when ABPM is not available departs from
+Table 22| Age-based sodium intake recommendations495
+Age
+Recommended adequate sodium intake (g/d)
+0–6 mo
+0.110
+7–12 mo
+0.370
+1–3 yr
+0.370
+4–8 yr
+1.0
+9–13 yr
+1.2
+14–70 yr
+1.5
+chapter 3
+www.kidney-international.org
+S212
+Kidney International (2024) 105 (Suppl 4S), S117–S314

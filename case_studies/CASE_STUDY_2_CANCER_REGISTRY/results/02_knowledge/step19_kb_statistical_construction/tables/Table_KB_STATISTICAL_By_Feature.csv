@@ -1,0 +1,6 @@
+﻿feature,statistical_feature_type,n_statistical_knowledge_items
+administr_unit,UNKNOWN,1
+age_diag,NUMERIC_CONTINUOUS,5
+icdo3_m_code,UNKNOWN,1
+mkb10_code,CATEGORICAL_NOMINAL,4
+registry_stage_code,CATEGORICAL_NOMINAL,4

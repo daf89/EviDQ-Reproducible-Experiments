@@ -1,0 +1,271 @@
+Ineligibility Rate
+0.298
+0.376
+0.365
+0.340
+0.407
+0.348
+0.387
+0.409
+0.267
+0.286
+0.261
+0.346
+0.342
+0.285
+Completion Rate
+0.443
+0.598
+0.578
+0.539
+0.591
+0.549
+0.670
+0.682
+0.474
+0.466
+0.491
+0.638
+0.609
+0.523
+Final Refusal Rate
+0.000
+0.000
+0.008
+0.001
+0.000
+0.036
+0.000
+0.001
+0.002
+0.001
+0.046
+0.020
+0.001
+0.000
+Figure 3‑4: Pharmacy providers ‑ Response factors over time
+Image displaying response factors over time, from 1996 through 2024 for Pharmacy providers
+This table is an alternative to Figure 3‑4. It shows the Pharmacy providers: Response factors over time, 1996 through 2010.
+Year
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+Sample Rel to 2002
+0.608
+0.916
+0.611
+0.607
+0.616
+0.977
+1.000
+0.877
+0.832
+0.823
+0.822
+0.833
+0.758
+0.709
+0.773
+Ineligibility Rate
+0.172
+0.178
+0.120
+0.121
+0.133
+0.134
+0.092
+0.089
+0.116
+0.108
+0.099
+0.109
+0.121
+0.113
+0.120
+Completion Rate
+0.773
+0.766
+0.837
+0.822
+0.820
+0.761
+0.851
+0.878
+0.868
+0.893
+0.909
+0.895
+0.879
+0.846
+0.871
+Final Refusal Rate
+0.085
+0.036
+0.079
+0.099
+0.078
+0.113
+0.058
+0.033
+0.016
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+This table is an alternative to Figure 3‑4. It shows the Pharmacy providers: Response factors over time, 2011 through 2024.
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Sample Rel to 2002
+0.865
+0.840
+0.855
+0.879
+0.861
+0.888
+0.895
+0.877
+0.882
+0.806
+1.011
+0.800
+0.681
+0.695
+Ineligibility Rate
+0.113
+0.121
+0.110
+0.117
+0.102
+0.105
+0.101
+0.106
+0.100
+0.134
+0.136
+0.141
+0.137
+0.133
+Completion Rate
+0.899
+0.903
+0.891
+0.889
+0.896
+0.893
+0.903
+0.895
+0.854
+0.832
+0.826
+0.869
+0.902
+0.900
+Final Refusal Rate
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.024
+0.020
+0.018
+0.030
+0.015
+Return to Table of Contents
+Timing
+Table 3‑7 presents the hours per completed pair (or node) by provider type for the 2021‑2024 MPC cycles. These timings
+include telephone and record abstraction as well as recruiting efforts.
+Table 3‑7. Hours per Completed Pair/Node, 2021‑2024
+Year
+Hospital
+Office‑based Doctor
+Home Health
+Institution
+Pharmacy
+Separately Billing Doctor (nodes)
+2021
+7.5
+4.7
+3.1
+2.4
+0.85
+2.4
+2022
+9.0
+3.5
+3.0
+2.3
+0.81
+2.9
+2023
+8.8
+3.6
+3.8
+1.7
+0.85
+2.6
+2024
+8.6
+3.8
+4.3
+NA
+0.89
+2.5
+Return to Table of Contents
+Appendix A: Acronyms and Definitions
+Acronyms and Definitions
+AF:
+Authorization Form
+AHRQ:
+Agency for Healthcare Research and Quality
+BETOS:
+Berenson‑Eggers Type of Service Codes
+CMS:
+Case Management System
+Contact Guide:
+Form used to collect and manage information about contacts at provider facilities
+CPT:
+Current Procedural Terminology Codes
+CS:
+Control System
+DCS:
+Data Collection Specialist
+ESN:
+Enhanced Security Network, developed by RTI to meet requirements of NIST Moderate Security
+Event Forms:
+Forms used to record information about medical events identified in the HC
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+17/40

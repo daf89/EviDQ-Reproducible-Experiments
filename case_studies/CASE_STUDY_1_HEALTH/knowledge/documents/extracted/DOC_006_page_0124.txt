@@ -1,0 +1,13 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+Appendix B: Health IT Crosswalk for the Ten Building Blocks for Primary 
+Care 
+The “10 Building Blocks for Primarycare” is a useful frameworkfor identifying the areas where an EHR 
+can help support practice transformation.[119] Below, we review the implications for leveraging EHR 
+technology for each of the 10 building blocks shown in Exhibit 59. 
+Exhibit 59: The Ten Building Blocks of High Performing Primary Care [119] 
+Graphic included with permission. © 2014 Annals of Family Medicine, Inc. 
+Health IT Advisor Handbook 
+Page 119

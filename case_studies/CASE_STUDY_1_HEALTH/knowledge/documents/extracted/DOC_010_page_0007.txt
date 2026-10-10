@@ -1,0 +1,43 @@
+Overview of Methodology for Imputing Missing Expenditure 
+Data in the Medical Expenditure Panel Survey 
+Steven R. Machlin, Agency for Healthcare Research and Quality, and Deborah D. 
+Dougherty, Westat 
+Introduction 
+The Medical Expenditure Panel Survey (MEPS) is a complex national probability survey 
+of the U.S. civilian noninstitutionalized population, and has been conducted on an annual 
+basis since 1996 by the Agency for Healthcare Research and Quality (AHRQ). One of 
+the primary purposes of the survey is to collect data that can be used to analyze national 
+medical expenditures (i.e., the amount paid for health care services). 
+Unfortunately, it is difficult to obtain complete information on medical expenditures 
+from household survey respondents because the type of information being collected is 
+often not straightforward and requires extensive record keeping over time, especially for 
+households with members who frequently use the health care system. Further, in a 
+significant number of instances, respondents are simply not aware of either the total 
+amount billed or how much the provider is paid for the services that were received. 
+Classic examples are individuals enrolled in the Medicaid program, where financial 
+transactions occur only between the provider and the state Medicaid agency, and 
+enrollees of managed care plans or HMOs who only may be aware of paying some 
+predetermined co-payment that is not necessarily related to the total amount the provider 
+receives (Cohen et al., 1997). 
+As a consequence of these factors, there is a substantial amount of item nonresponse on 
+medical expenses in the Household Component (HC) of MEPS. To compensate for these 
+missing data and to improve accuracy, data on expenses for sample persons are also 
+collected from a sample of their health care providers in the Medical Provider 
+Component (MPC) of MEPS (see description of MPC under MEPS Expenditure 
+Estimation Strategy below). However, expense data are not available from either survey 
+component for a noteworthy proportion of medical events reported in the survey (e.g., 
+roughly one-third in 2001). 
+A weighted hot-deck approach is used to impute missing expenditure data in MEPS. 
+This approach uses other survey responses to complete missing data and incorporates 
+survey weights to replicate the weighted distribution of the available data in the imputed 
+data (Cox, 1980). The objectives of the imputations are to create data sets for analysis 
+that preserve sample sizes and reduce the potential for nonresponse bias in analyses of 
+MEPS expenditure data. This paper provides a general overview of the MEPS 
+expenditure imputation process. 
+MEPS Sample Design 
+The sample of households for the MEPS-HC is a subsample of households that 
+responded to the prior year’s National Health Interview Survey (NHIS) conducted by the 
+National Center for Health Statistics (National Center for Health Statistics, 2002). The 
+MEPS sample is drawn from approximately half of the primary sampling units (PSUs) 
+selected for the NHIS. For example, the 1996 MEPS-HC sample was selected from 
+1

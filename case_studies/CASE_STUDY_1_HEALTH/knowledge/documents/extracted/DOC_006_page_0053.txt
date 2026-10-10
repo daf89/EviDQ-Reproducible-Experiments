@@ -1,0 +1,65 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Exhibit 24: Advantages and Challenges of Using Custom Extraction 
+Advantages 
+Challenges 
+• 
+A custom report or query extracts only the 
+needed data elements for the project 
+• 
+The output can be tailored to streamline 
+review, transfer, and analysis 
+• 
+Raw data files can be imported into external 
+databases or combined with other data sets 
+• 
+Some quality teams have extensive 
+experience in extracting data from EHRs 
+• 
+A custom query can be programmed and run 
+without clinic participation (provided access 
+is granted) 
+• 
+EHR reporting tools can be costly and difficult 
+and can be difficult to learn 
+• 
+“Back-end” database access may be limited (or 
+prevented) by the vendor or IT department 
+• 
+Custom reports and queries are often a low 
+priority for local IT resources, or costly for a 
+vendor to develop 
+• 
+EHR databases are not standardized, requiring 
+detailed knowledge of each product 
+• 
+The access required to create custom extracts 
+can expose sensitive information 
+• 
+It takes time experienced developers to design, 
+write, test, and deploy a custom query 
+• 
+Queries may have to be adapted for use in 
+other clinics using the same product 
+• 
+Need to validate data in reports 
+• 
+Custom reports often stop working with new 
+EHR versions 
+Unless the project team has the access, resources, time, and knowledge to develop custom EHR reports 
+or queries, Health IT Advisors are advised to prioritize other methods to obtain needed data.[46] 
+FHIR, the future of EHR data extraction for quality? 
+HealthIT Advisors have a limited choice of options to retrieve, extract, orabstract data fromanEHR 
+to support QI projects. The government and healthcare industry both recognize that there is an 
+urgent need to make secure retrieval of EHR data much easier for patients, providers, and payers. 
+Encouragedby federal requirements to alleviate “information blocking” under the 21st Century 
+Cures Act, vendors have started opening their EHRs to application programming interfaces (APIs) 
+using aninteroperability standardcalled FHIR®, which has been developed by HealthLevel Seven 
+International (HL7®). 
+Updates to the MIPScertification requirements in 2022 will require vendors to supply APIs to extract 
+with patient and population level data needed to measure quality and calculate CQMs. 
+The FHIR frameworkis discussedin Section 10 of the handbook. See fact sheets for more information 
+about FHIR. 
+Health IT Advisor Handbook 
+Page 48

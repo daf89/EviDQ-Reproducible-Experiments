@@ -1,0 +1,97 @@
+
+
+===== PDF PAGE 245 =====
+
+ 
+ 
+ 
+ 
+WHO STEPS Instrument 
+(Core and Expanded) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The WHO STEPwise approach to 
+noncommunicable disease risk factor 
+surveillance (STEPS) 
+World Health Organization 
+20 Avenue Appia, 1211 Geneva 27, Switzerland 
+ 
+ 
+ 
+For further information: Noncommunicable Disease Surveillance, Monitoring and Reporting 
+(who.int)
+
+
+===== PDF PAGE 246 =====
+
+ 
+STEPS Instrument 
+ 
+Overview 
+Introduction 
+This is the generic STEPS Instrument which countries will use to develop 
+their tailored instrument. It contains the: 
+ 
+• CORE items (unshaded boxes) 
+• EXPANDED items (shaded boxes). 
+ 
+ 
+Core Items 
+The Core items for each section ask questions required to calculate basic 
+variables. For example: 
+ 
+• current daily smokers 
+• mean BMI. 
+ 
+Note: All the core questions should be asked, removing core questions will 
+impact the analysis. 
+ 
+ 
+Expanded items The Expanded items for each section ask more detailed information. 
+Examples include: 
+ 
+• use of smokeless tobacco 
+• sedentary behaviour. 
+ 
+ 
+Guide to the 
+columns 
+The table below is a brief guide to each of the columns in the Instrument. 
+ 
+Column 
+Description 
+Country Tailoring 
+Question 
+Each question is to be read to the participants 
+• Select sections to use. 
+• Add expanded and optional 
+questions as desired. 
+Response 
+This column lists the available response 
+options which the interviewer will be circling 
+or filling in the text boxes. The skip 
+instructions are shown on the right hand side 
+of the responses and should be carefully 
+followed during interviews. 
+• Add country-specific 
+responses for demographic 
+responses (e.g. C6). 
+• Change skip question 
+identifiers where necessary. 
+Code 
+The column is designed to match data from 
+the instrument into the data entry tool, data 
+analysis syntax, data book, and fact sheet. 
+This should never be changed 
+or removed. The code is used 
+as a general identifier for the 
+data entry and analysis. 

@@ -1,0 +1,15 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+population) and using claims codes for the numerator (population satisfying the measure), exceptions, 
+or exclusions (for more about measuring clinical quality, see Section 8 of the handbook). 
+Exhibit 39 shows how Medicare identifies denominator-eligible patients for the MIPS measure Age-
+Related Macular Degeneration: Dilated Macular Examination using data points included on the claim 
+[date of birth (DOB), date of service, ICD-10, CPT]. 
+Exhibit 39: Example Denominator-Eligible Patient Identification 
+Each claim that meets denominator criteria is then analyzed for numerator criteria, which depend on 
+the application of quality data codes (sometimes referred to as “G codes” because many begin with the 
+letter G) to identify whether recommended quality actions were taken and why. Exhibit 40 shows 
+numerator quality data codes options for the AMD measure. 
+Health IT Advisor Handbook 
+Page 86

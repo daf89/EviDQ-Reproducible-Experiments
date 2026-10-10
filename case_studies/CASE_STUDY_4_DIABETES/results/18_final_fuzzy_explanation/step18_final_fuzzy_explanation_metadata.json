@@ -1,0 +1,48 @@
+{
+  "step": "STEP18",
+  "title": "Final fuzzy explanation on TEST",
+  "timestamp": "2026-10-03T15:02:10.875974",
+  "source": "STEP17_FINAL_TEST_FUZZY_INPUT.csv",
+  "baseline": "Dataset_DQ",
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "dimensions": [
+    "PERFORMANCE",
+    "EXPLANATION_SHIFT",
+    "STABILITY",
+    "COVERAGE"
+  ],
+  "membership_functions": "FROZEN_STEP14_NOMINAL",
+  "membership_recalibration": false,
+  "test_values_used_for_MF_calibration": false,
+  "fidelity_gate_required": true,
+  "all_fidelity_gates_pass": true,
+  "comparison_policy": "FUZZY_STATE_FIRST",
+  "boundary_secondary_membership_threshold": 0.1,
+  "within_same_fuzzy_state_numeric_superiority": false,
+  "intrinsic_explanation": true,
+  "comparative_explanation": true,
+  "comparison_scope": "DIMENSION_WISE_ONLY",
+  "global_fuzzy_aggregation": false,
+  "ACTION_SUITABILITY": false,
+  "rule_base": false,
+  "defuzzification": false,
+  "global_score": false,
+  "action_ranking": false,
+  "recommendation": false,
+  "REF_used": false,
+  "new_model_training": false,
+  "new_SHAP_computation": false,
+  "new_DQ_action": false,
+  "status": "PASS_FINAL_FUZZY_EXPLANATION",
+  "hashes": {
+    "STEP18_FINAL_TEST_MEMBERSHIPS_LONG.csv": "3dc46af1a2e89e8019e09749e14aa25c2c52f40831d315892f0b40b2745444bf",
+    "STEP18_FINAL_TEST_FUZZY_PROFILES.csv": "d4b94f58e8f2b00d45153f75be8e85d81d8c391fde2f008d4d02f54709a58aa3",
+    "STEP18_FINAL_FUZZY_EXPLANATIONS.csv": "7988887740de00c1a644cd2b5e4d82e2ec678b59d475ea6362975d07f970f2df",
+    "STEP18_FROZEN_MF_REGISTRY_USED_ON_TEST.csv": "5c2bd19dcb00a432f5f907685eb4546ee5ad9d6c8c7a124db2b211a679e6bfc0"
+  }
+}

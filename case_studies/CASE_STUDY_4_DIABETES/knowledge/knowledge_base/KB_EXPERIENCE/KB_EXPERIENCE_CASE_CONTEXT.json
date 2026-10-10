@@ -1,0 +1,33 @@
+{
+  "experience_id": "EXP_CASE4_DIABETES_001",
+  "case_id": "CASE4_DIABETES",
+  "domain": "HEALTHCARE",
+  "dataset_family": "PIMA_DIABETES",
+  "dataset_role": "TABULAR_BINARY_CLASSIFICATION",
+  "prediction_target": "Outcome",
+  "model_family": "CatBoostClassifier",
+  "dq_feature": "Age",
+  "dq_problem": "MISSING_VALUE",
+  "dq_generation": "CONTROLLED_MCAR_INJECTION",
+  "nominal_missing_rate": 0.1,
+  "observable_baseline": "Dataset_DQ",
+  "reference_dataset_role": "CONTROLLED_DQ_GENERATION_ONLY",
+  "REF_used_for_action_comparison": false,
+  "evaluation_support": "COMMON_TEST_SUPPORT",
+  "test_total_n": 154,
+  "test_injected_missing_n": 15,
+  "common_test_n": 139,
+  "test_observed_missing_rate": 0.09740259740259741,
+  "feature_selected_by": "REFERENCE_TREE_SHAP",
+  "knowledge_sources": "DOCUMENT|STATISTICAL",
+  "documentary_source_context": "WHO_STEPS",
+  "action_count": 4,
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "final_protocol_status": "COMPLETED",
+  "human_decision_required": true
+}

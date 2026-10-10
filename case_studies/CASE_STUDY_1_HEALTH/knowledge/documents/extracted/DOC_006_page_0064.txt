@@ -1,0 +1,47 @@
+4. Section 4: Patient Portals and Engagement Technologies 
+S E C T I O N 4 : P A T I E N T P O R T A L S A N D E N G A G E M E N T
+T E C H N O L O G I E S
+S E C T I O N 4 : P A T I E N T P O R T A L S A N D E N G A G E M E N T 
+T E C H N O L O G I E S 
+Before smartphones andpersonal health applications, a “patient portal” usually meant a secure website 
+typically integrated with an EHR that allowed patients to view (some of) their medical record and 
+securely exchange messages with clinic staff. Patient portals and related engagement tools (smartphone 
+apps, text messaging, personal health records) have rapidly evolved to provide patients and caregivers 
+with a more “connected experience." Recent federal requirements meant to streamline access to an 
+individual’s own health records has created new opportunities to view and interact with data. 
+For the Health IT Advisor, patient portals and related platforms can provide data for QI and deliver 
+targetedinterventions directly to patients. 
+Patient-generated data (see also Section 5) captured through a portal could include health screening 
+results, healthlogs, and (increasingly) biometric data from devices. 
+Patient-facing interventions delivered by portal could include patient reminders for preventive care, 
+individualized education and self-care instructions, and motivational messaging. 
+Common features found in many patient portals include: 
+• 
+Providing patients, parents, andcaregivers withsecure electronicaccess toparts of their EHR 
+including the following: 
+o Demographics and insurance information 
+o Visit and referral history 
+o Laboratory and imaging orders and results 
+o Care summaries and procedure reports 
+o Problem and medication lists 
+o Vital signs 
+o Provider progress notes 
+o Individualized care plan 
+• 
+Serving as a platform for telehealth and virtual care by providing real-time communication with 
+clinic staff and providers 
+• 
+Delivery and management of secure messages,test results, alerts, reminders,andpersonalized 
+education material 
+• 
+Allowing users to download and share their medical record by securely transmitting a summary 
+to another provider or a personal health record or smartphone application (e.g., Apple Health) 
+• 
+Remotely capturing and incorporating patient-provided data into the EHR, including electronic 
+forms, questionnaires, and assessments 
+• 
+Remotely and securely capturing and incorporating data from personal health devices including 
+glucometers, stepcounters, andblood pressure cuffs; this includes real-time remote patient 
+monitoring solutions (RPM). 
+Health IT Advisor Handbook 
+Page 59

@@ -1,0 +1,126 @@
+
+
+===== PDF PAGE 15 =====
+
+Metformin 
+Metformin is contraindicated in:
+••
+people with chronic kidney disease (estimated glomerular filtration 
+rate (eGFR) <30 mL/minute/1.73m2) 
+••
+people with severe reduced liver function
+••
+people with acute cardiac insufficiency 
+••
+people with respiratory insufficiency
+••
+people who abuse alcohol
+••
+people with history of lactic acidosis
+Intensification of treatment when metformin alone fails to control glycaemia:
+•• Add a second-generation sulfonylurea (preferably gliclazide) to metformin in 
+patients with inadequately controlled glycaemia on metformin, along with diet 
+and physical activity. 
+•• In hyperglycaemic patients with symptoms, give a sulfonylurea or refer for insulin 
+treatment. 
+•• Hypoglycaemia is a possible side-effect of sulfonylurea, more frequent with 
+glibenclamide than with gliclazide. 
+Glibenclamide 
+Glibenclamide is not recommended in:
+••
+people aged 60 years or older 
+••
+people with severe liver disease
+••
+in patients for whom hypoglycaemia is a concern (people who are at 
+risk of falls, who have impaired awareness of hypoglycaemia, who 
+live alone)
+••
+people who drive or operate machinery as part of their job.
+Intensification of treatment when metformin and sulfonylurea fail to control 
+glycaemia:
+•• Refer for insulin treatment or add human insulin1 to oral medication (Annex 1). 
+•• If insulin is unsuitable 2, a DPP-4 inhibitor, SGLT-2 inhibitor or a thiazolidinedione 
+(TZD) may be added, but these are not recommended for routine use due to high 
+cost and, with the exception of SGLT-2 inhibitors, uncertain benefit. 
+1 Insulin analogues are not recommended for routine use as they are substantially more costly than 
+human insulin and there is considerable uncertainty over their benefits, especially in people with type 
+2 diabetes.
+2 Insulin treatment could be unsuitable when it is more costly than oral agents, or when circumstances 
+make its use difficult (e.g. persons who live alone and are dependent on others to inject them with 
+insulin).
+15
+
+
+===== PDF PAGE 16 =====
+
+Fig. 1 Protocol for control of blood glucose in type 2 diabetes*
+TEST ADULTS who have symptoms of diabetes with fasting or random plasma glucose (FPG or RPG)
+TEST ASYMPTOMATIC ADULTS who are 40+ years old and BMI ≥25 (FPG)
+REVIEW  in 3–5 days
+REVIEW in 2–3 months
+TEST urine ketones
+IF goal NOT achieved
+No improvement
+Improvement
+CONTINUE
+treatment
+Urine ketones ≥2+
+Urine ketones <2+
+FPG ≥7 mmol/L and <18 mmol/L or RPG ≥11.1 mmol/L
+IF ASYMPTOMATIC repeat test on subsequent day
+Counsel on diet and physical activity and adherence to 
+medicines at all visits
+IF goal not achieved BEGIN 
+METFORMIN 500 mg daily
+IF SYMPTOMATIC 
+and FPG ≥15 mmol/L
+IF goal not achieved INCREASE 
+METFORMIN to 1000 mg 1 x daily
+IF SYMPTOMATIC 
+and FPG ≥15 mmol/L
+IF goal not achieved INCREASE 
+METFORMIN to 1000 mg 2 x daily
+IF SYMPTOMATIC 
+and FPG ≥15 mmol/L
+IF goal not achieved ADD 
+gliclazide 80 mg 1 x daily
+IF SYMPTOMATIC and 
+FPG ≥15 mmol/L
+FPG ≥15 mmol/L and SYMPTOMATIC
+or
+FPG/RPG >18 mmol/L, regardless of symptoms 
+GIVE METFORMIN 1000 mg 2 x daily 
+and GLICLAZIDE 80 g 2 x daily
+Counsel on diet, physical activity and 
+adherence to medication
+IF goal achieved or frequent 
+hypoglycaemia, consider 
+reducing or stopping gliclazide 
+in people who were on 
+2000 mg metformin and 
+160 mg gliclazide from 
+diagnosis
+REVIEW IN 1 MONTH
+REFER to higher 
+level of care
+REFER to higher 
+level of care
+REFER to higher 
+level of care
+REVIEW IN 3 MONTHS (or immediately if symptoms appear)
+REVIEW IN 1 MONTH (or immediately if symptoms appear)
+REVIEW IN 3 MONTHS (or immediately if symptoms appear)
+REVIEW IN 3 MONTHS (or immediately if symptoms appear)
+REVIEW IN 3 MONTHS (or immediately if symptoms appear)
+IF goal not achieved ADD 
+gliclazide 80 mg 2 x daily
+IF SYMPTOMATIC 
+and FPG ≥15 mmol/L
+REVIEW IN 3 MONTHS (or immediately if symptoms appear)
+IF goal not achieved despite adherence to medication and 
+diet and physical activity, REFER to higher level of care or 
+BEGIN INSULIN (see insulin protocol)
+* Derived from WHO-PEN 2013
+16
+HEARTS – D  Diagnosis and management of Type 2 diabetes 

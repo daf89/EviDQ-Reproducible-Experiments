@@ -1,0 +1,94 @@
+
+
+===== PDF PAGE 1 =====
+
+Preventing Chronic Disease
+Validation of Multi-State EHR-Based Network for
+Disease Surveillance (MENDS) Data and
+Implications for Improving Data Quality and
+Representativeness
+Katherine H. Hohman, DrPH, MPH ; Michael Klompas, MD, MPH ; Bob Zambarano, PhD ; Hilary
+K. Wall, MPH ; Sandra L. Jackson, PhD, MPH ; Emily M. Kraus, PhD, MPH (VIEW AUTHOR AFFILIATIONS)
+Suggested citation for this article:  Hohman KH, Klompas M, Zambarano B, Wall HK, Jackson SL, Kraus EM. Validation of Multi-State EHR-Based Network for Disease Surveillance
+(MENDS) Data and Implications for Improving Data Quality and Representativeness. Prev Chronic Dis 2024;21:230409. DOI: http://dx.doi.org/10.5888/pcd21.230409
+.
+PEER REVIEWED
+Abstract
+Introduction
+ORIGINAL RESEARCH — Volume 21 — June 13, 2024
+This article is part of the Advancing Chronic Disease Data Modernization Enhancements to Meet Current and
+Future Public Health Challenges collection.
+1
+2
+3
+4
+4
+5
+
+Summary
+What is already known on this topic?
+Electronic health record (EHR) data are prone to data quality problems such as missing data. Data quality
+concerns are often cited as a barrier to using these data for public health surveillance.
+What is added by this report?
+This study offers a framework to inform data quality processes for potential users of EHR data for surveillance.
+We identified the data quality problems associated with implementing EHR-based chronic disease surveillance
+and developed remediation strategies.
+What are the implications for public health practice?
+The validation strategies applied in the analysis can be used to evaluate and optimize the integrity of EHR data
+for public health surveillance.
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+1/12
+
+
+===== PDF PAGE 2 =====
+
+Top
+Top
+Surveillance modernization efforts emphasize the potential use of electronic health record (EHR) data to inform public
+health surveillance and prevention. However, EHR data streams vary widely in their completeness, accuracy, and
+representativeness.
+Methods
+We developed a validation process for the Multi-State EHR-Based Network for Disease Surveillance (MENDS) pilot project
+to identify and resolve data quality issues that could affect chronic disease prevalence estimates. We examined MENDS
+validation processes from December 2020 through August 2023 across 5 data-contributing organizations and outlined
+steps to resolve data quality issues.
+Results
+We identified gaps in the EHR databases of data contributors and in the processes to extract, map, integrate, and analyze
+their EHR data. Examples of source-data problems included missing data on race and ethnicity and zip codes. Examples of
+data processing problems included duplicate or missing patient records, lower-than-expected volumes of data, use of
+multiple fields for a single data type, and implausible values.
+Conclusion
+Validation protocols identified critical errors in both EHR source data and in the processes used to transform these data for
+analysis. Our experience highlights the value and importance of data validation to improve data quality and the accuracy of
+surveillance estimates that use EHR data. The validation process and lessons learned can be applied broadly to other EHR-
+based surveillance efforts.
+Introduction
+The Multi-State EHR-Based Network for Disease Surveillance (MENDS) is a pilot project coordinated by the National
+Association of Chronic Disease Directors and funded by the Centers for Disease Control and Prevention (CDC). It uses
+clinical data from electronic health record (EHR) systems for public health surveillance by state and local public health
+departments (1–3). MENDS is built on the Electronic Medical Record Support for Public Health (ESP) surveillance platform,
+an open-source software designed to transform raw EHR data into usable public health information (eg, incidence of
+hypertension treatment and control in a specified jurisdiction stratified by age, sex, race, and ethnicity) (4). MENDS
+transformation tasks include 1) identifying data elements available in the EHR that are relevant to surveillance of a
+particular health condition, 2) extracting these data, 3) reformatting and mapping the data into a MENDS-specific database,
+4) running algorithms to define cohorts and cases of interest, 5) compiling relevant clinical events for each condition, and 6)
+calculating and visualizing surveillance indicators.
+Data quality issues may be present in the raw EHR data or occur at any point in the transformation process (5). MENDS
+implemented a 5-stage validation process to address the quality of source data and the integrity of the transformation
+process. The objective of this study was to describe MENDS validation processes across 5 data-contributing organizations
+and outline steps to resolve data quality issues.
+Methods
+Administration and documentation
+The MENDS Coordinating Center administered the validation process according to the MENDS rules of governance (6). Our
+approach to validation was iterative and interactive. The validation approach was initially informed by previous work done
+by MDPHnet, a precursor to MENDS, and guidance from CDC and underwent progressive refinements guided by learnings
+(7). We prioritized 5 chronic disease indicators in ESP for validation: hypertension, smoking, cholesterol, diabetes, and
+obesity (8). These indicators were chosen because of their importance to CDC and the availability of existing ESP
+algorithms for immediate implementation. Results from validation activities and observations were shared with data
+contributors and then discussed to learn more about specific issues and to reach consensus about how to resolve
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+2/12

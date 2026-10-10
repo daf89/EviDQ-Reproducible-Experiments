@@ -1,0 +1,119 @@
+A low-protein intake (<0.8 g/kg body weight/d) reduces
+uremia and uremic toxin generation and improves kidney
+hemodynamics by constricting the glomerular afferent arte-
+rioles and lowering intraglomerular pressure.458,474,475 Low-
+protein diets and very low–protein diets have been used for
+almost a century as a strategy to reduce clinical symptoms
+and
+postpone
+the
+need
+to
+start
+maintenance
+dialysis
+treatment. They may also reduce uremic complications and
+symptoms, such as metabolic acidosis and phosphate load.476
+The Work Group considers that the evidence does not sup-
+port a recommendation to follow low-protein diets alone (i.e.,
+0.4–0.6 g/kg of body weight/d) as a strategy to slow the pro-
+gression ofCKD. In a meta-analysis ofpeople withCKDwithout
+diabetes,477 a low-protein diet compared with a normal-protein
+diet in participants with CKD G3a and G3b (9 studies) or CKD
+G4 (1 study) found little or no difference in mortality or eGFR
+decline and little or no difference in the number of
+participants who reached kidney failure (6 studies, 1814
+participants: RR, 1.05; 95% CI: 0.73–1.53). Similar null
+associations were observed in a meta-analysis of 8 studies
+involving people with diabetes and CKD.478
+However, there is some evidence that very low–protein diets
+(i.e., 0.3–0.4 g/kg of body weight/d) under strict supervision
+can favorably impact kidney outcomes. A meta-analysis of
+studies including people with CKD G4–G5 without diabetes
+reported that very low–protein diets compared with low-pro-
+tein diet or normal-protein diet may reduce the number of
+people who reach kidney failure (10 studies, 1010 participants:
+RR, 0.65; 95% CI: 0.49–0.85).477 Data on adverse effects, such
+as weight loss and malnutrition, and on QoL were limited.
+There is limited evidence on the use of very low–protein diets
+in people with CKD and diabetes.23
+Animal proteins
+Meat, poultry, fish, seafood, eggs: 
+28 g (1 oz) = 6–8 g protein
+1 egg = 6–8 g protein
+Dairy, milk, yogurt, cheese: 250 
+ml (8 oz) = 8–10 g protein
+28 g (1 oz) cheese = 6–8 g protein
+Plant proteins
+Legumes, dried beans, nuts, seeds:
+100 g (0.5 cup) cooked = 7–10 g protein
+Whole grains, cereals:
+100 g (0.5 cup) cooked = 3–6 g protein
+Starchy vegetables, breads:
+2–4 g protein
+Figure 20 | Average protein content of foods in grams. Reproduced from Kidney Disease: Improving Global Outcomes Diabetes Work Group.
+KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022;102:S1–S127.23 Copyright ª 2022,
+KDIGO: Kidney Disease Improving Global Outcomes. Published by Elsevier Inc. on behalf of the International Society of Nephrology. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Table 21| Impact of plant-based foods in people with CKD
+Study (N); study design
+CKD stage or GFR
+Intervention (follow-up)
+Outcome
+CRIC467 (N ¼ 2403);
+observational
+20–70 ml/min per 1.73 m2
+High DASH vs. low DASH (14 yr)
+CKD progression: HR: 0.83; 95% CI: 0.69–0.99
+Mortality: HR: 0.75; 95% CI: 0.62–0.90
+NHANES468 (N ¼ 1110);
+observational
+30–59 ml/min per 1.73 m2
+DASH by quintiles (7.8 yr)
+Kidney failure relative hazard (RH) compared
+with quintile 5: quintile 1: RH: 1.7; 95% CI: 1.1–2.7;
+quintile 2: RH: 2.2; 95% CI: 1.1–4.1
+CORDIOPREV466
+(N ¼ 53); RCT
+<60 ml/min per 1.73 m2
+Mediterranean diet vs.
+low-fat diet (5 yr)
+Decline in GFR 3.72 ml/min per 1.73 m2
+vs. 5.4 ml/min per 1.73 m2, P ¼ 0.03
+CKD QLD469 (N ¼ 145);
+observational
+CKD G3–G4
+High vegetable and nut intake
+(median 36 mo)
+Composite all-cause mortality, kidney failure,
+or doubling of SCr: HR: 0.61, 95% CI: 0.39–0.94
+REGARDS470 (N ¼ 3972);
+observational
+<60 ml/min per 1.73 m2
+Plant-based diet (6 yr)
+All-cause mortality: HR: 0.77; 95% CI: 0.61–0.97
+NHANES III465 (N ¼ 5346);
+observational
+<60 ml/min per 1.73 m2
+Increasing plant-to-protein
+ratio (8.4 yr)
+All-cause mortality for every 33% increase:
+HR: 0.77, 95% CI: 0.61–0.96
+Longitudinal study of aging
+women464 (N ¼ 1374);
+observational
+Baseline 65.6  13.1 ml/min
+per 1.73 m2
+Higher vs. lower intake of
+plant-based protein (10 yr)
+Each 10 g higher intake of plant-based protein
+reduced a decline in GFR by 0.12 ml/min
+per 1.73 m2 per year
+CI, conﬁdence interval; CKD, chronic kidney disease; CKD QLD, Chronic Kidney Disease in Queensland; CORDIOPREV, CORonary Diet Intervention with Olive oil and car-
+diovascular PREVention study; CRIC, Chronic Renal Insufﬁciency Cohort; DASH, Dietary Approaches to Stop Hypertension; GFR, glomerular ﬁltration rate; HR, hazard ratio;
+NHANES, National Health and Nutrition Examination Survey; RCT, randomized controlled trial; REGARDS, Reasons for Geographic and Racial Differences in Stroke; SCr, serum
+creatinine.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S209

@@ -1,0 +1,296 @@
+
+
+===== PDF PAGE 271 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-7 
+ 
+ 
+ 
+CORE: Alcohol Consumption, continued 
+Question 
+Response 
+Code 
+During each of the past 7 days, how many standard drinks did 
+you have each day? 
+(USE SHOWCARD) 
+Don't Know 77 
+Ask the participant to think of each of the past 7 days. Use the 
+showcard that shows standard alcoholic drinks to help the 
+participant report the number of standard drinks for each of the 
+past 7 days. 
+Record for each day the number of standard drinks. If no drinks 
+record 0. 
+Monday 
+└─┴─┘ 
+A10a 
+Tuesday 
+└─┴─┘ 
+A10b 
+Wednesday 
+└─┴─┘ 
+A10c 
+Thursday 
+└─┴─┘ 
+A10d 
+Friday 
+└─┴─┘ 
+A10e 
+Saturday 
+└─┴─┘ 
+A10f 
+Sunday 
+└─┴─┘ 
+A10g 
+I have just asked you about your consumption of alcohol during the past 7 days. The questions were about alcohol in general, while the next 
+questions refer to your consumption of homebrewed alcohol, alcohol brought over the border/from another country, any alcohol not intended 
+for drinking or other untaxed alcohol. Please only think about these types of alcohol when answering the next questions. 
+During the past 7 days, did you consume any homebrewed 
+alcohol, any alcohol brought over the border/from another 
+country, any alcohol not intended for drinking or other 
+untaxed alcohol? (USE SHOWCARD) 
+[AMEND ACCORDING TO LOCAL CONTEXT] 
+Ask the participant to only think of homebrewed alcohol, any 
+alcohol brought over the border/from another country, any 
+alcohol not intended for drinking or other untaxed alcohol. 
+Yes 
+No 
+1 
+2 If No, go to A13 
+A11 
+On average, how many standard drinks of the following did 
+you consume during the past 7 days? 
+[INSERT COUNTRY-SPECIFIC EXAMPLES] 
+(USE SHOWCARD) 
+Don't Know 77 
+Ask the participant to think of the past 7 days. 
+Use the showcard that specifies what standard drinks are for 
+each type of alcohol. Alcohol not intended for drinking should be 
+treated like spirits. 
+Record for each type of alcohol the number of standard drinks. 
+If no drinks record 0. 
+Homebrewed spirits, e.g. 
+moonshine 
+└─┴─┘ 
+A12a 
+Homebrewed beer or wine, 
+e.g. beer, palm or fruit wine 
+└─┴─┘ 
+A12b 
+Alcohol brought over the 
+border/from another country 
+└─┴─┘ 
+A12c 
+Alcohol not intended for drinking, 
+e.g. alcohol-based medicines, 
+perfumes, after shaves 
+└─┴─┘ 
+A12d 
+Other untaxed alcohol in the 
+country 
+└─┴─┘ 
+A12e 
+ 
+EXPANDED: Alcohol Consumption 
+During the past 12 months, how often have you found that you 
+were not able to stop drinking once you had started? 
+Daily or almost daily 
+Weekly 
+Monthly 
+1 
+2 
+3 
+A13 
+Ask the participant to think of the past 12 months. Read out all 
+the answer options. 
+Less than monthly 
+Never 
+4 
+5 
+During the past 12 months, how often have you failed to do 
+what was normally expected from you because of drinking? 
+Daily or almost daily 
+Weekly 
+1 
+2 
+Monthly 
+3 
+A14 
+Ask the participant to think of the past 12 months. Read out all 
+the answer options. 
+Less than monthly 
+Never 
+4 
+5 
+During the past 12 months, how often have you needed a first 
+drink in the morning to get yourself going after a heavy drinking 
+session? 
+Daily or almost daily 
+Weekly 
+Monthly 
+1 
+2 
+3 
+A15 
+Ask the participant to think of the past 12 months. Read out all 
+Less than monthly 
+4 
+the answer options. 
+Never 
+5 
+During the past 12 months, have you had family problems or 
+Yes, more than monthly 
+Yes, monthly 
+Yes, several times but less than 
+Yes, once or twice 
+No 
+1 
+2 
+3 
+4 
+5 
+problems with your partner due to someone else’s drinking? 
+Ask the participant to think of the past 12 months. Read out all 
+the answer options. 
+A16 
+The participant should not think of his/her own drinking, but of 
+someone else’s drinking. 
+
+
+===== PDF PAGE 272 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-8 
+ 
+ 
+ 
+CORE: Diet 
+The next questions ask about the fruits and vegetables that you usually eat. I have a nutrition card here that shows you some examples of 
+local fruits and vegetables. Each picture represents the size of a serving. As you answer these questions please think of a typical week in 
+the last year. 
+Question 
+Response 
+Code 
+In a typical week, on how many days do you eat fruit? 
+(USE SHOWCARD) 
+Ask the participant to think of any fruit on the showcard. A 
+typical week means a "normal" week when the diet is not 
+affected by cultural, religious, or other events. Ask the 
+participant to not report an average over a period. 
+Number of days 
+Don't Know 77 
+└─┴─┘ 
+If Zero days, go to D3 
+D1 
+How many servings of fruit do you eat on one of those days? 
+(USE SHOWCARD) 
+Ask the participant to think of one day he/she can recall easily. 
+Refer to the showcard for serving sizes. 
+Number of servings 
+Don't Know 77 
+└─┴─┘ 
+D2 
+In a typical week, on how many days do you eat vegetables? 
+(USE SHOWCARD) 
+Ask the participant to think of any vegetable on the showcard. 
+A typical week means a "normal" week when the diet is not 
+affected by cultural, religious, or other events. Ask the 
+participant to not report an average over a period. 
+Number of days 
+Don't Know 77 
+└─┴─┘ 
+If Zero days, go to D5 
+D3 
+How many servings of vegetables do you eat on one of those 
+days? (USE SHOWCARD) 
+Ask the participant to think of one day he/she can recall easily. 
+Refer to the showcard for serving sizes. 
+Number of servings 
+Don’t know 77 
+└─┴─┘ 
+D4 
+Dietary salt 
+With the next questions, we would like to learn more about salt in your diet. Dietary salt includes ordinary table salt, unrefined salt such as 
+sea salt, iodized salt, salty stock cubes and powders, and salty sauces such as soy sauce or fish sauce (see showcard). The following 
+questions are on adding salt to the food right before you eat it, on how food is prepared in your home, on eating processed foods that are 
+high in salt such as [insert country specific examples], and questions on controlling your salt intake. Please answer the questions even if 
+you consider yourself to eat a diet low in salt. 
+Read this opening statement out loud. Don't forget to use the showcard which will help the respondent when answering to the questions. 
+How often do you add salt or a salty sauce such as soy sauce 
+to your food right before you eat it or as you are eating it? 
+(SELECT ONLY ONE) 
+(USE SHOWCARD) 
+Read out all the answer options. Use the showcard that shows salt 
+and salty sauces. 
+Always 
+1 
+Often 
+2 
+Sometimes 
+3 
+Rarely 
+4 
+Never 
+5 
+Don't know 
+77 
+D5 
+How often is salt, salty seasoning or a salty sauce added in 
+cooking or preparing foods in your household? 
+Read out all the answer options. Select the appropriate response. 
+Always 
+1 
+Often 
+2 
+Sometimes 
+3 
+Rarely 
+4 
+Never 
+5 
+Don't know 
+77 
+D6 
+How often do you eat processed food  high  in  salt?  By 
+processed food high in salt, I mean foods that have been altered 
+from their natural state, such as packaged salty snacks, canned 
+salty food including pickles and preserves, salty food prepared at a 
+fast food restaurant, cheese, bacon and processed meat [add 
+country specific examples]. 
+[INSERT EXAMPLES] 
+(USE SHOWCARD) 
+Read out all the answer options. Use the showcard that shows 
+processed food high in salt. 
+Always 
+1 
+Often 
+2 
+Sometimes 
+3 
+Rarely 
+4 
+Never 
+5 
+Don't know 
+77 
+D7 
+How much salt or salty sauce do you think you consume? 
+Read out all the answer options and select the appropriate 
+response. 
+Far too much 
+1 
+Too much 
+2 
+Just the right amount 
+3 
+Too little 
+4 
+Far too little 
+5 
+Don't know 
+77 
+D8 

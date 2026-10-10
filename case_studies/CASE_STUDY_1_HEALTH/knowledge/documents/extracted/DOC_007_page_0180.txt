@@ -1,0 +1,219 @@
+References
+1.
+Kidney Disease: Improving Global Outcomes CKD Work Group. KDIGO
+2012 clinical practice guideline for the evaluation and management of
+chronic kidney disease. Kidney Int Suppl. 2012;3:S1–S150.
+2.
+National Kidney Foundation. K/DOQI clinical practice guidelines for
+chronic kidney disease: evaluation, classiﬁcation, and stratiﬁcation. Am
+J Kidney Dis. 2002;39(suppl 1):S1–S266.
+3.
+Levey AS, de Jong PE, Coresh J, et al. The deﬁnition, classiﬁcation, and
+prognosis
+of
+chronic
+kidney
+disease:
+a
+KDIGO
+Controversies
+Conference report. Kidney Int. 2011;80:17–28.
+4.
+Chronic Kidney Disease Prognosis Consortium, Matsushita K, van der
+Velde M, et al. Association of estimated glomerular ﬁltration rate and
+albuminuria with all-cause and cardiovascular mortality in general
+population cohorts: a collaborative meta-analysis. Lancet. 2010;375:
+2073–2081.
+5.
+Gansevoort RT, Matsushita K, van der Velde M, et al. Lower estimated
+GFR and higher albuminuria are associated with adverse kidney
+outcomes. A collaborative meta-analysis of general and high-risk
+population cohorts. Kidney Int. 2011;80:93–104.
+6.
+Grams ME, Sang Y, Ballew SH, et al. Predicting timing of clinical
+outcomes in patients with chronic kidney disease and severely
+decreased glomerular ﬁltration rate. Kidney Int. 2018;93:1442–1451.
+7.
+van der Velde M, Matsushita K, Coresh J, et al. Lower estimated
+glomerular ﬁltration rate and higher albuminuria are associated with
+all-cause and cardiovascular mortality. A collaborative meta-analysis of
+high-risk population cohorts. Kidney Int. 2011;79:1341–1352.
+8.
+Ferguson T, Ravani P, Sood MM, et al. Development and external
+validation of a machine learning model for progression of CKD. Kidney
+Int Rep. 2022;7:1772–1781.
+9.
+Tangri N, Grams ME, Levey AS, et al. Multinational assessment of
+accuracy of equations for predicting risk of kidney failure: a meta-
+analysis. JAMA. 2016;315:164–174.
+10.
+Tangri N, Stevens LA, Grifﬁth J, et al. A predictive model for progression
+of chronic kidney disease to kidney failure. JAMA. 2011;305:1553–1559.
+11.
+Delanaye P, Jager KJ, Bokenkamp A, et al. CKD: a call for an age-adapted
+deﬁnition. J Am Soc Nephrol. 2019;30:1785–1805.
+12.
+Grams ME, Coresh J, Matsushita K, et al. Estimated glomerular ﬁltration
+rate, albuminuria, and adverse outcomes: an individual-participant
+data meta-analysis. JAMA. 2023;330:1266–1277.
+13.
+Wetzels JF, Kiemeney LA, Swinkels DW, et al. Age- and gender-speciﬁc
+reference values of estimated GFR in Caucasians: the Nijmegen
+Biomedical Study. Kidney Int. 2007;72:632–637.
+14.
+Lindeman RD, Tobin J, Shock NW. Longitudinal studies on the rate of
+decline in renal function with age. J Am Geriatr Soc. 1985;33:278–285.
+15.
+Rowe JW, Andres R, Tobin JD. Letter: age-adjusted standards for
+creatinine clearance. Ann Intern Med. 1976;84:567–569.
+16.
+Komenda P, Ferguson TW, Macdonald K, et al. Cost-effectiveness of
+primary screening for CKD: a systematic review. Am J Kidney Dis.
+2014;63:789–797.
+17.
+Shlipak MG, Tummalapalli SL, Boulware LE, et al. The case for early
+identiﬁcation and intervention of chronic kidney disease: conclusions
+from
+a
+Kidney
+Disease:
+Improving
+Global
+Outcomes
+(KDIGO)
+Controversies Conference. Kidney Int. 2021;99:34–47.
+18.
+Venuthurupalli SK, Hoy WE, Healy HG, et al. CKD screening and
+surveillance in Australia: past, present, and future. Kidney Int Rep.
+2018;3:36–46.
+19.
+Kidney Disease: Improving Global Outcomes Lipids Work Group. KDIGO
+Clinical Practice Guideline for Lipid Management in Chronic Kidney
+Disease. Kidney Int Suppl. 2013;3:S1–S305.
+20.
+Kidney Disease: Improving Global Outcomes CKD-MBD Work Group.
+KDIGO 2017 clinical practice guideline update for the diagnosis,
+evaluation, prevention, and treatment of chronic kidney disease-
+mineral and bone disorder (CKD-MBD). Kidney Int Suppl. 2017;7:1–59.
+21.
+Kidney Disease: Improving Global Outcomes Blood Pressure Work
+Group. KDIGO 2021 clinical practice guideline for the management of
+blood pressure in chronic kidney disease. Kidney Int. 2021;99(3S):S1–S87.
+22.
+Kidney Disease: Improving Global Outcomes Glomerular Diseases Work
+Group. KDIGO 2021 clinical practice guideline for the management of
+glomerular diseases. Kidney Int. 2021;100(4S):S1–S276.
+23.
+Kidney Disease: Improving Global Outcomes Diabetes Work Group.
+KDIGO 2022 clinical practice guideline for diabetes management in
+chronic kidney disease. Kidney Int. 2022;102(5S):S1–S127.
+24.
+Global Burden of Disease 2019: GBD cause and risk summaries chronic
+kidney disease. Lancet. 2020;396:S152–S153.
+25.
+GBD Chronic Kidney Disease Collaboration. Global, regional, and
+national burden of chronic kidney disease, 1990-2017: a systematic
+analysis
+for the
+Global Burden
+of Disease Study
+2017. Lancet.
+2020;395:709–733.
+26.
+Levin A, Okpechi IG, Caskey FJ, et al. Perspectives on early detection of
+chronic kidney disease: the facts, the questions, and a proposed
+framework for 2023 and beyond. Kidney Int. 2023;103:1004–1008.
+27.
+Cusick MM, Tisdale RL, Chertow GM, et al. Population-wide screening for
+chronic kidney disease: a cost-effectiveness analysis. Ann Intern Med.
+2023;176:788–797.
+28.
+Lameire NH, Levin A, Kellum JA, et al. Harmonizing acute and chronic
+kidney disease deﬁnition and classiﬁcation: report of a Kidney Disease:
+Improving Global Outcomes (KDIGO) Consensus Conference. Kidney
+Int. 2021;100:516–526.
+29.
+de Boer IH, Khunti K, Sadusky T, et al. Diabetes management in chronic
+kidney
+disease:
+a
+consensus
+report
+by
+the
+American
+Diabetes
+Association (ADA) and Kidney Disease: Improving Global Outcomes
+(KDIGO). Kidney Int. 2022;102:974–989.
+30.
+Nelson RG, Grams ME, Ballew SH, et al. Development of risk prediction
+equations for incident chronic kidney disease. JAMA. 2019;322:2104–
+2114.
+31.
+Bello AK, Levin A, Tonelli M, et al. Assessment of Global Kidney Health
+Care Status. JAMA. 2017;317:1864–1881.
+32.
+Stanifer JW, Von Isenburg M, Chertow GM, et al. Chronic kidney disease
+care models in low- and middle-income countries: a systematic review.
+BMJ Glob Health. 2018;3:e000728.
+33.
+Myers GL, Miller WG. The International Consortium for Harmonization of
+Clinical Laboratory Results (ICHCLR)—a pathway for harmonization.
+EJIFCC. 2016;27:30–36.
+34.
+Myers GL, Miller WG. The roadmap for harmonization: status of the
+International Consortium for Harmonization of Clinical Laboratory
+Results. Clin Chem Lab Med. 2018;56:1667–1672.
+35.
+Warady BA, Chadha V. Chronic kidney disease in children: the global
+perspective. Pediatr Nephrol. 2007;22:1999–2009.
+36.
+Furth SL, Abraham AG, Jerry-Fluker J, et al. Metabolic abnormalities,
+cardiovascular disease risk factors, and GFR decline in children with
+chronic kidney disease. Clin J Am Soc Nephrol. 2011;6:2132–2140.
+37.
+Canadian Institutes of Health Research. What is gender? What is sex?.
+Accessed May 29, 2023. https://cihr-irsc.gc.ca/e/48642.html
+38.
+Carrero JJ, Hecking M, Chesnaye NC, et al. Sex and gender disparities in
+the epidemiology and outcomes of chronic kidney disease. Nat Rev
+Nephrol. 2018;14:151–164.
+39.
+Bairey Merz CN, Dember LM, Ingelﬁnger JR, et al. Sex and the kidneys:
+current understanding and research opportunities. Nat Rev Nephrol.
+2019;15:776–783.
+40.
+Cobo G, Hecking M, Port FK, et al. Sex and gender differences in chronic
+kidney
+disease:
+progression
+to
+end-stage
+renal
+disease
+and
+haemodialysis. Clin Sci (Lond). 2016;130:1147–1163.
+41.
+Neugarten J, Acharya A, Silbiger SR. Effect of gender on the progression
+of nondiabetic renal disease: a meta-analysis. J Am Soc Nephrol. 2000;11:
+319–329.
+42.
+Swartling O, Rydell H, Stendahl M, et al. CKD progression and mortality
+among men and women: a nationwide study in Sweden. Am J Kidney
+Dis. 2021;78:190–199.e191.
+43.
+Jafar TH, Schmid CH, Stark PC, et al. The rate of progression of
+renal disease may not be slower in women compared with men:
+a patient-level meta-analysis. Nephrol Dial Transplant. 2003;18:2047–
+2053.
+44.
+Nitsch D, Grams M, Sang Y, et al. Associations of estimated glomerular
+ﬁltration rate and albuminuria with mortality and renal failure by sex:
+a meta-analysis. BMJ. 2013;346:f324.
+45.
+Ahmed SB. The importance of sex and gender in basic and clinical
+research. Nat Rev Nephrol. 2024;20:2–3.
+www.kidney-international.org
+references
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S295

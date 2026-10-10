@@ -1,0 +1,439 @@
+
+
+===== PDF PAGE 23 =====
+
+study, participants randomized to saxaglip­
+tin were more likely to be hospitalized for 
+heart failure than those given placebo 
+(311). However, three other cardiovascular 
+outcomes trials—Examination of Cardio­
+vascular Outcomes with Alogliptin versus 
+Standard of Care (EXAMINE) (312), Trial 
+Evaluating Cardiovascular Outcomes with 
+Sitagliptin (TECOS) (313), and the Cardiovas­
+cular and Renal Microvascular Outcome 
+Study With Linagliptin (CARMELINA) (314)— 
+did not find a significant increase in risk of 
+heart failure hospitalization with DPP-4 in­
+hibitor use compared with placebo.
+Clinical Approach
+As has been carefully outlined in Fig. 9.4 
+in section 9, “Pharmacologic Approaches 
+to Glycemic Treatment,” people with 
+type 2 diabetes with or at high risk for 
+ASCVD, heart failure, or CKD should be 
+treated with a cardioprotective SGLT in­
+hibitor and/or GLP-1 RA as part of the 
+comprehensive approach to cardiovascu­
+lar and kidney risk reduction. Importantly, 
+these agents should be included in the 
+plan of care irrespective of the need for 
+additional glucose lowering and irrespec­
+tive of metformin use. Figure 10.6 out­
+lines the approach to risk reduction with 
+SGLT2 inhibitor and GLP-1 RA therapy in 
+conjunction with other traditional, guide­
+line-based preventive medical therapies 
+for blood pressure, lipids, and glycemia 
+and antiplatelet therapy.
+Adoption of these agents should be 
+reasonably straightforward in people with 
+type 2 diabetes and established cardio­
+vascular or kidney disease. Incorporation 
+of SGLT2 inhibitor or GLP-1 RA therapy in 
+the care of individuals with diabetes may 
+need to replace some or all of their exist­
+ing medications to minimize risks of hypo­
+glycemia and adverse side effects and 
+potentially to minimize medication costs. 
+Close collaboration between primary and 
+specialty care professionals and other 
+members of the health care team (ad­
+vanced practice professionals, pharma­
+cists, nutritionists, and others) can help 
+facilitate these transitions in clinical care 
+and, in turn, improve outcomes for peo­
+ple with type 2 diabetes who are at high 
+risk for ASCVD, heart failure, or CKD.
+References
+1. Rawshani A, Rawshani A, Franzén S, et al. 
+Mortality and cardiovascular disease in type 1 
+and type 2 diabetes. N Engl J Med 2017;376: 
+1407–1418
+2. Weng W, Tian Y, Kong SX, et al. The prevalence 
+of cardiovascular disease and antidiabetes 
+treatment characteristics among a large type 2 
+diabetes population in the United States. Endo- 
+crinol Diabetes Metab 2019;2:e00076
+3. Gæde P, Oellgaard J, Carstensen B, et al. 
+Years of life gained by multifactorial intervention 
+in patients with type 2 diabetes mellitus and 
+microalbuminuria: 21 years follow-up on the 
+Steno-2 randomised trial. Diabetologia 2016;59: 
+2298–2307
+4. Gaede P, Lund-Andersen H, Parving H-H, 
+Pedersen O. Effect of a multifactorial intervention 
+on mortality in type 2 diabetes. N Engl J Med 
+2008;358:580–591
+5. Khunti K, Kosiborod M, Ray KK. Legacy 
+benefits of blood glucose, blood pressure and 
+lipid control in individuals with diabetes and 
+cardiovascular disease: time to overcome multi- 
+factorial therapeutic inertia? Diabetes Obes Metab 
+2018;20:1337–1341
+6. Rawshani A, Rawshani A, Franzén S, et al. Risk 
+factors, mortality, and cardiovascular outcomes 
+in patients with type 2 diabetes. N Engl J Med 
+2018;379:633–644
+7. Mohebi R, Chen C, Ibrahim NE, et al. 
+Cardiovascular disease projections in the United 
+States Based on the 2020 Census estimates. J Am 
+Coll Cardiol 2022;80:565–578
+8. Kazemian P, Shebl FM, McCann N, Walensky 
+RP, Wexler DJ. Evaluation of the cascade of 
+diabetes care in the United States, 2005-2016. 
+JAMA Intern Med 2019;179:1376–1385
+9. Nelson AJ, O’Brien EC, Kaltenbach LA, et al. 
+Use of lipid-, blood pressure-, and glucose- 
+lowering pharmacotherapy in patients with type 2 
+diabetes and atherosclerotic cardiovascular 
+disease. JAMA Netw Open 2022;5:e2148030
+10. Gregg EW, Cheng YJ, Srinivasan M, et al. 
+Trends in cause-specific mortality among adults 
+with and without diagnosed diabetes in the USA: 
+an epidemiological analysis of linked national 
+survey and vital statistics data. Lancet 2018;391: 
+2430–2440
+11. Kodama S, Fujihara K, Horikawa C, et al. 
+Diabetes mellitus and risk of new-onset and 
+recurrent heart failure: a systematic review and 
+meta-analysis. ESC Heart Fail 2020;7:2146–2174
+12. Maddox TM, Januzzi JL, Jr, Allen LA, et al. 
+2024 ACC expert consensus decision pathway for 
+treatment of heart failure with reduced ejection 
+fraction: a report of the American College of 
+Cardiology Solution Set Oversight Committee. J 
+Am Coll Cardiol 83:1444–1488
+13. Kittleson MM, Panjrath GS, Amancherla K, et 
+al. 2023 ACC expert consensus decision pathway 
+on management of heart failure with preserved 
+ejection fraction. J Am Coll Cardiol 2023;81: 
+1835–1878
+14. Redfield MM, Borlaug BA. Heart failure with 
+preserved ejection fraction: a review. JAMA 2023; 
+329:827–838
+15. Marwick TH, Ritchie R, Shaw JE, Kaye D. 
+Implications of underlying mechanisms for the 
+recognition and management of diabetic cardio- 
+myopathy. J Am Coll Cardiol 2018;71:339–351
+16. Pop-Busui R, Januzzi JL, Bruemmer D, et al. 
+Heart failure: an underappreciated complication 
+of diabetes. A consensus report of the American 
+Diabetes Association. Diabetes Care 2022;45: 
+1670–1690
+17. Ndumele CE, Neeland IJ, Tuttle KR, et al.; 
+American Heart Association. A synopsis of the 
+evidence for the science and clinical management of 
+cardiovascular-kidney-metabolic (CKM) syndrome: 
+a scientific statement from the American Heart 
+Association. Circulation 2023;148:1636–1664
+18. Ndumele CE, Rangaswami J, Chow SL, et al.; 
+American Heart Association. Cardiovascular- 
+kidney-metabolic health: a presidential advisory 
+from the American Heart Association. Circulation 
+2023;148:1606–1635
+19. Honigberg MC, Zekavat SM, Pirruccello JP, 
+Natarajan P, Vaduganathan M. Cardiovascular and 
+kidney outcomes across the glycemic spectrum: 
+insights from the UK Biobank. J Am Coll Cardiol 
+2021;78:453–464
+20. Joseph JJ, Deedwania P, Acharya T, et al.; 
+American Heart Association Diabetes Committee 
+of the Council on Lifestyle and Cardiometabolic 
+Health; Council on Arteriosclerosis, Thrombosis and 
+Vascular Biology; Council on Clinical Cardiology; 
+and Council on Hypertension. Comprehensive 
+management of cardiovascular risk factors for 
+adults with type 2 diabetes: a scientific statement 
+from the American Heart Association. Circulation 
+2022;145:e722–e759
+21. Krentz A, Jacob S, Heiss C, et al.; International 
+Cardiometabolic Working Group. Rising to the 
+challenge of cardio-renal-metabolic disease in the 
+21st century: translating evidence into best clinical 
+practice to prevent and manage atherosclerosis. 
+Atherosclerosis 2024;396:118528
+22. Arnett DK, Blumenthal RS, Albert MA, et al. 
+2019 ACC/AHA guideline on the primary 
+prevention of cardiovascular disease: a report of 
+the American College of Cardiology/American 
+Heart Association Task Force on Clinical Practice 
+Guidelines. Circulation 2019;140:e596–e646
+23. Jones DW, Ferdinand KC, Taler SJ, et al. 2025 
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/ 
+AMA/ASPC/NMA/PCNA/SGIM guideline for the 
+prevention, detection, evaluation and management 
+of high blood pressure in adults: a report of the 
+American College of Cardiology/American Heart 
+Association Joint Committee on Clinical Practice 
+Guidelines. Circulation 2025;152:e114–e218
+24. de Boer IH, Bangalore S, Benetos A, et al. 
+Diabetes and hypertension: a position statement 
+by the American Diabetes Association. Diabetes 
+Care 2017;40:1273–1284
+25. Unger T, Borghi C, Charchar F, et al. 2020 
+International Society of Hypertension global 
+hypertension practice guidelines. Hypertension 
+2020;75:1334–1357
+26. Whelton PK, Carey RM, Mancia G, Kreutz R, 
+Bundy JD, Williams B. Harmonization of the 
+American College of Cardiology/American Heart 
+Association and European Society of Cardiology/ 
+European Society of Hypertension Blood Pressure/ 
+Hypertension Guidelines. Eur Heart J 2022;43: 
+3302–3311
+27. Mancia G, Kreutz R, Brunström M, et al. 
+2023 ESH guidelines for the management of 
+arterial hypertension The Task Force for the 
+management of arterial hypertension of the 
+European Society of Hypertension: endorsed by 
+the International Society of Hypertension (ISH) 
+and the European Renal Association (ERA). J Hypertens 
+2023;41:1874–2071
+28. Williams B, Mancia G, Spiering W, et al.; 
+ESC Scientific Document Group. 2018 ESC/ESH 
+S238 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 24 =====
+
+Guidelines for the management of arterial 
+hypertension. Eur Heart J 2018;39:3021–3104
+29. Ishigami J, Charleston J, Miller ER, Matsushita 
+K, Appel LJ, Brady TM. Effects of cuff size on the 
+accuracy of blood pressure readings: the Cuff(SZ) 
+randomized crossover trial. JAMA Intern Med 
+2023;183:1061–1068
+30. Bobrie G, Genès N, Vaur L, et al. Is “isolated 
+home” hypertension as opposed to “isolated 
+office” hypertension a sign of greater cardiovascular 
+risk? Arch Intern Med 2001;161:2205–2211
+31. Sega R, Facchetti R, Bombelli M, et al. 
+Prognostic value of ambulatory and home blood 
+pressures compared with office blood pressure in 
+the general population: follow-up results from the 
+Pressioni Arteriose Monitorate e Loro Associazioni 
+(PAMELA) study. Circulation 2005;111:1777–1783
+32. Panagiotakos D, Antza C, Kotsis V. Ambulatory 
+and home blood pressure monitoring for cardio- 
+vascular disease risk evaluation: a systematic 
+review and meta-analysis of prospective cohort 
+studies. J Hypertens 2024;42:1–9
+33. Omboni S, Gazzola T, Carabelli G, Parati G. 
+Clinical usefulness and cost effectiveness of home 
+blood pressure telemonitoring: meta-analysis of 
+randomized controlled studies. J Hypertens 2013; 
+31:455–467
+34. Emdin CA, Rahimi K, Neal B, Callender T, 
+Perkovic V, Patel A. Blood pressure lowering in 
+type 2 diabetes: a systematic review and meta- 
+analysis. JAMA 2015;313:603–615
+35. Arguedas JA, Leiva V, Wright JM. Blood 
+pressure targets for hypertension in people with 
+diabetes mellitus. Cochrane Database Syst Rev 
+2013;2013:CD008277
+36. Ettehad D, Emdin CA, Kiran A, et al. Blood 
+pressure lowering for prevention of cardiovascular 
+disease and death: a systematic review and meta- 
+analysis. Lancet 2016;387:957–967
+37. Brunström M, Carlberg B. Effect of 
+antihypertensive treatment at different blood 
+pressure levels in patients with diabetes mellitus: 
+systematic review and meta-analyses. BMJ 2016; 
+352:i717
+38. Bangalore S, Kumar S, Lobach I, Messerli FH. 
+Blood pressure targets in subjects with type 2 
+diabetes mellitus/impaired fasting glucose: 
+observations from traditional and Bayesian 
+random-effects meta-analyses of randomized 
+trials. Circulation 2011;123:2799–2810
+39. Thomopoulos C, Parati G, Zanchetti A. Effects 
+of blood-pressure-lowering treatment on outcome 
+incidence in hypertension: 10 - Should blood 
+pressure management differ in hypertensive 
+patients with and without diabetes mellitus? 
+Overview and meta-analyses of randomized trials. 
+J Hypertens 2017;35:922–944
+40. Xie X, Atkins E, Lv J, et al. Effects of intensive 
+blood pressure lowering on cardiovascular and 
+renal outcomes: updated systematic review and 
+meta-analysis. Lancet 2016;387:435–443
+41. Zhang W, Zhang S, Deng Y, et al.; STEP Study 
+Group. Trial of intensive blood-pressure control in 
+older patients with hypertension. N Engl J Med 
+2021;385:1268–1279
+42. Bi Y, Li M, Liu Y, et al.; BPROAD Research 
+Group. Intensive blood-pressure control in patients 
+with type 2 diabetes. N Engl J Med 2025;392: 
+1155–1167
+43. Liu J, Li Y, Ge J, et al.; ESPRIT Collaborative 
+Group. Lowering systolic blood pressure to less 
+than 120 mm Hg versus less than 140 mm Hg in 
+patients with high cardiovascular risk with and 
+without diabetes or previous stroke: an open- 
+label, blinded-outcome, randomised trial. Lancet 
+2024;404:245–255
+44. Wright JT, Jr, Williamson JD, Whelton PK, et 
+al. A randomized trial of intensive versus 
+standard blood-pressure control. N Engl J Med 
+2015;373:2103–2116
+45. Cushman WC, Evans GW, Byington RP, et al.; 
+ACCORD Study Group. Effects of intensive blood- 
+pressure control in type 2 diabetes mellitus. N 
+Engl J Med 2010;362:1575–1585
+46. Patel A, MacMahon S, Chalmers J, et al.; 
+ADVANCE Collaborative Group. Effects of a fixed 
+combination of perindopril and indapamide on 
+macrovascular and microvascular outcomes in 
+patients with type 2 diabetes mellitus (the 
+ADVANCE trial): a randomised controlled trial. 
+Lancet 2007;370:829–840
+47. Hansson L, Zanchetti A, Carruthers SG, et al. 
+Effects of intensive blood-pressure lowering and 
+low-dose aspirin in patients with hypertension: 
+principal results of the Hypertension Optimal 
+Treatment (HOT) randomised trial. HOT Study 
+Group. Lancet 1998;351:1755–1762
+48. de 
+Boer 
+IH, 
+Bakris 
+G, 
+Cannon 
+CP. 
+Individualizing blood pressure targets for people 
+with diabetes and hypertension: comparing the 
+ADA and the ACC/AHA recommendations. JAMA 
+2018;319:1319–1320
+49. Basu S, Sussman JB, Rigdon J, Steimle L, 
+Denton BT, Hayward RA. Benefit and harm of 
+intensive blood pressure treatment: derivation 
+and validation of risk models using data from the 
+SPRINT and ACCORD trials. PLoS Med 2017;14: 
+e1002410
+50. Phillips RA, Xu J, Peterson LE, Arnold RM, 
+Diamond JA, Schussheim AE. Impact of cardiov- 
+ascular risk on the relative benefit and harm of 
+intensive treatment of hypertension. J Am Coll 
+Cardiol 2018;71:1601–1610
+51.
+Blood Pressure Lowering Treatment Trialists’ 
+Collaboration. Blood pressure-lowering treatment 
+based on cardiovascular risk: a meta-analysis of 
+individual patient data. Lancet 2014;384:591–598
+52. Sacks FM, Svetkey LP, Vollmer WM, et al.; 
+DASH-Sodium Collaborative Research Group. Effects 
+on blood pressure of reduced dietary sodium and 
+the dietary approaches to stop hypertension (DASH) 
+diet. DASH-Sodium Collaborative Research Group. N 
+Engl J Med 2001;344:3–10
+53. James PA, Oparil S, Carter BL, et al. 2014 
+evidence-based guideline for the management of 
+high blood pressure in adults: report from the 
+panel members appointed to the Eighth Joint 
+National Committee (JNC 8). JAMA 2014;311: 
+507–520
+54. Guo R, Li N, Yang R, et al. Effects of the 
+modified DASH diet on adults with elevated 
+blood pressure or hypertension: a systematic 
+review and meta-analysis. Front Nutr 2021;8: 
+725020
+55. Mao Y, Lin W, Wen J, Chen G. Impact and 
+efficacy of mobile health intervention in the 
+management of diabetes and hypertension: a 
+systematic review and meta-analysis. BMJ Open 
+Diabetes Res Care 2020;8:e001225
+56. Stogios N, Kaur B, Huszti E, Vasanthan J, 
+Nolan RP. Advancing digital health interventions 
+as a clinically applied science for blood pressure 
+reduction: a systematic review and meta-analysis. 
+Can J Cardiol 2020;36:764–774
+57. Bakris GL, Weir MR; Study of Hypertension 
+and the Efficacy of Lotrel in Diabetes (SHIELD) 
+Investigators. Achieving goal blood pressure in 
+patients with type 2 diabetes: conventional 
+versus fixed-dose combination approaches. J Clin 
+Hypertens (Greenwich) 2003;5:202–209
+58. Feldman RD, Zou GY, Vandervoort MK, Wong 
+CJ, Nelson SAE, Feagan BG. A simplified approach 
+to the treatment of uncomplicated hypertension: a 
+cluster randomized, controlled trial. Hypertension 
+2009;53:646–653
+59. Webster R, Salam A, de Silva HA, et al.; 
+TRIUMPH Study Group. Fixed low-dose triple 
+combination antihypertensive medication vs usual 
+care for blood pressure control in patients with 
+mild to moderate hypertension in sri lanka: a 
+randomized clinical trial. JAMA 2018;320:566–579
+60. Choudhry NK, Kronish IM, Vongpatanasin W, 
+et al.; American Heart Association Council on 
+Hypertension; Council on Cardiovascular and 
+Stroke Nursing; Council on Clinical Cardiology. 
+Medication adherence and blood pressure 
+control: a scientific statement from the American 
+Heart Association. Hypertension 2022;79:e1–e14
+61. Wang N, Rueter P, Atkins E, et al. Efficacy and 
+safety of low-dose triple and quadruple combination 
+pills vs monotherapy, usual care, or placebo for the 
+initial management of hypertension: a systematic 
+review and meta-analysis. JAMA Cardiol 2023;8: 
+606–611
+62. Ichikawa D, Kawarazaki W, Saka S, et al. Efficacy 
+of renin-angiotensin system inhibitors, calcium 
+channel blockers, and diuretics in hypertensive 
+patients with diabetes: subgroup analysis based on 
+albuminuria in a systematic review and meta- 
+analysis. Hypertens Res 2025;48:1880–1890
+63. Barzilay JI, Davis BR, Bettencourt J, et al.; 
+ALLHAT Collaborative Research Group. Cardio- 
+vascular outcomes using doxazosin vs. chlorthalidone 
+for the treatment of hypertension in older adults 
+with and without glucose disorders: a report from 
+the ALLHAT study. J Clin Hypertens (Greenwich) 
+2004;6:116–125
+64. Weber MA, Bakris GL, Jamerson K, et al.; 
+ACCOMPLISH Investigators. Cardiovascular events 
+during differing hypertension therapies in patients 
+with diabetes. J Am Coll Cardiol 2010;56:77–85
+65. Heart Outcomes Prevention Evaluation 
+(HOPE) Study Investigators. Effects of ramipril on 
+cardiovascular and microvascular outcomes in 
+people with diabetes mellitus: results of the HOPE 
+study and MICRO-HOPE substudy. Heart Outcomes 
+Prevention Evaluation Study Investigators. Lancet 
+2000;355:253–259
+66. Arnold SV, Bhatt DL, Barsness GW, et al.; 
+American Heart Association Council on Lifestyle 
+and Cardiometabolic Health and Council on 
+Clinical Cardiology. Clinical management of stable 
+coronary artery disease in patients with type 2 
+diabetes mellitus: a scientific statement from the 
+American Heart Association. Circulation 2020;141: 
+e779–e806
+67. Yusuf S, Teo K, Anderson C, et al.; Telmisartan 
+Randomised AssessmeNt Study in ACE iNtolerant 
+subjects with cardiovascular Disease (TRANSCEND) 
+Investigators. Effects of the angiotensin-receptor 
+blocker telmisartan on cardiovascular events in high- 
+risk patients intolerant to angiotensin-converting 
+enzyme inhibitors: a randomised controlled trial. 
+Lancet 2008;372:1174–1183
+68. Qiao Y, Shin J-I, Chen TK, et al. Association 
+between renin-angiotensin system blockade 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S239 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

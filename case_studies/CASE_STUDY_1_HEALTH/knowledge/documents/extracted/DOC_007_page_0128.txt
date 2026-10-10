@@ -1,0 +1,188 @@
+were few stroke events reported across the RCTs, the certainty
+of the evidence was downgraded for imprecision.
+Values and preferences. High value on the use of NOACs
+included the conclusion that the simple dosing and lack of
+INR monitoring compared with vitamin K antagonists would
+lead to a substantial reduction in burden for those with an
+indication for anticoagulation and their health services. There
+is also good evidence for improved efﬁcacy and a relatively
+similar safety proﬁle. Most fully informed people with CKD
+would be expected to select a NOAC over a vitamin K
+antagonist.
+Resource use and costs. NOACs have been shown to be
+cost-effective for stroke prevention in atrial ﬁbrillation and
+may even be cost-saving in people with CKD. Vitamin K
+antagonist use may be associated with higher costs and
+achieve fewer quality-adjusted life-years compared with
+NOACs.723
+Considerations for implementation. A decision not to anti-
+coagulate for thromboembolic prophylaxis due to low risk
+would ideally be re-evaluated at each consultation and at least
+every 6 months. When using antithrombotic therapy in
+people with CKD, it is prudent to treat modiﬁable risk factors
+for bleeding (e.g., alcohol intake) and use gastroprophylaxis
+with a PPI, particularly when combined with antiplatelet
+therapy.
+Rationale
+A number of large RCTs demonstrated that NOACs reduce
+the risk of intracranial bleeding compared with warfarin and,
+overall, modestly reduce mortality in people with atrial
+Kidney
+function
+Country
+Follow-up
+length
+Intervention*
+Control
+HR (95% CI)
+CrCl 30–50
+eGFR 25–50
+eGFR <50
+CrCl 30–50
+CrCl 30–49
+CrCl 30–49
+33 countries
+39 countries
+44 countries
+46 countries
+Japan
+45 countries
+6 mos
+1.8 yrs
+1.8 yrs
+2.8 yrs
+2.5 yrs
+707 dys
+Apixaban 2.5–5 mg
+Apixaban 2.5–5 mg
+Dabigatran 150 mg
+Edoxaban 60 mg
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+0.51 (0.28, 0.93)
+0.59 (0.45, 0.77)
+1.11 (0.87, 1.14)
+0.76 (0.58, 0.98)
+0.89 (0.36, 2.18)
+0.98 (0.73, 1.30)
+0.80 (0.61, 1.05)
+NOTE: Weights are from random effects analysis
+CrCl 30–50
+eGFR 25–50
+CrCl 30–49
+CrCl 30–49
+33 countries
+39 countries
+Japan
+45 countries
+6 mos
+1.8 yrs
+2.5 yrs
+707 dys
+Apixaban 2.5–5 mg
+Apixaban 2.5–5 mg
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+0.59 (0.41, 0.84)
+0.35 (0.17, 0.72)
+1.22 (0.78, 1.91)
+0.98 (0.85, 1.15)
+0.76 (0.51, 1.14)
+CrCl 30–50
+CrCl 30–49
+46 countries
+Japan
+2.8 yrs
+2.5 yrs
+Edoxaban 60 mg
+Rivaroxaban 10 mg
+Warfarin
+Warfarin
+0.48 (0.22, 1.07)
+1.04 (0.07, 16.70)
+0.51 (0.24, 1.09)
+CrCl 30–50
+CrCl 30–49
+46 countries
+45 countries
+2.8 yrs
+707 dys
+Edoxaban 60 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+0.46 (0.26, 0.82)
+0.82 (0.41, 1.60)
+0.60 (0.34, 1.05)
+Author, year
+All clinically relevant bleeding†
+Hijazi, 2021
+Stanifer, 2020
+Hori, 2013
+Fox, 2011
+Subtotal (I2 = 79.9%, P=0.002)
+Fatal bleeding
+Bohula, 2016
+Hori, 2013
+Subtotal (I2 = 0.0%, P=0.595)
+Major bleeding†
+Hijazi, 2021
+Stanifer, 2020
+Hijazi, 2018
+Bohula, 2016
+Hori, 2013
+Fox, 2011
+Subtotal (I2 = 79.0%, P=0.000)
+Intracranial hemorrhage
+Bohula, 2016
+Fox, 2011
+Subtotal (I2 = 38.2%, P=0.203)
+Hori, 2013
+Fox, 2011
+Subtotal (I2 = 14.1%, P=0.281)
+CrCl 30–49
+CrCl 30–49
+Japan
+45 countries
+2.5 yrs
+707 dys
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+1.35 (0.82, 2.22)
+1.01 (0.85, 1.20)
+1.06 (0.86, 1.31)
+Clinically relevant nonmajor bleeding‡
+Weighted hazard ratio of bleeding
+0.2 0.5
+5
+1 2
+Favors NOAC
+Favors control
+Figure 42 | Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with warfarin among people
+with chronic kidney disease in terms of bleeding. Bohula E, Giugliano R, Ruff C, et al. Impact of renal function on outcomes with edoxaban in
+the ENGAGE AF-TIMI 48 trial. Circulation. 2016;134:24–36716; Fox KA, Piccini JP, Wojdyla D, et al. Prevention of stroke and systemic embolism
+with rivaroxaban compared with warfarin in patients with non-valvular atrial ﬁbrillation and moderate renal impairment. Eur Heart J.
+2011;32:2387–2394718; Hijazi Z, Hohnloser SH, Oldgren J, et al. Efﬁcacy and safety of dabigatran compared with warfarin in patients with atrial
+ﬁbrillation in relation to renal function over time—a RE-LY trial analysis. Am Heart J. 2018;198:169–177719; Hori M, Matsumoto M, Tanahashi N,
+et al. Safety and efﬁcacy of adjusted dose of rivaroxaban in Japanese patients with non-valvular atrial ﬁbrillation: subanalysis of J-ROCKET AF for
+patients with moderate renal impairment. Circ J. 2013;77:632–638720; Stanifer J, Pokorney S, Chertow G, et al. Apixaban versus warfarin in
+patients with atrial ﬁbrillation and advanced chronic kidney disease. Circulation. 2020;141:1384–1392721; Hijazi Z, Alexander JH, Li Z, et al.
+Apixaban or vitamin K antagonists and aspirin or placebo according to kidney function in patients with atrial ﬁbrillation after acute coronary
+syndrome or percutaneous coronary intervention insights from the AUGUSTUS trial. Circulation. 2021;143:1215–1223.722 CI, conﬁdence interval;
+CrCl, creatinine clearance; eGFR, estimated glomerular ﬁltration rate.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S243

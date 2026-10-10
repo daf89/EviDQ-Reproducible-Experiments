@@ -1,0 +1,45 @@
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R
+Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R 
+Q U A L I T Y I M P R O V E M E N T 
+such as automated blood pressure machines, pulse oximeters, scales, and other measurement mediums. 
+There are options for these devices to be connected to a web-based platform or transmitted directly 
+into EHRs. 
+In addition to tele-monitoring, other technologies have been developed to enable patients to collect 
+their health information beyond the clinical setting and share that information with providers. Examples 
+of these new technologies and applications include Personal Health Records (PHRs), wearables, and 
+telephonic applications such as those that utilize Bluetooth to senddata to a patient’s phone and 
+generate reports and data that can be shared with healthcare providers. Connected devices have also 
+been developed to test a variety of other health indicators such as blood glucose, cholesterol, and 
+oxygen levels. 
+5.6 
+ Electronic Health/Well-being (Preventive Screenings) 
+With chronic disease prevalence signaling the need for a refocus on primary prevention, electronic 
+PGHD might be essential in strengthening proactive and person-centered healthcare.[61] Screenings 
+such as depression, weight, nutrition, smoking cessation, and substance use can be incorporated into 
+patient portals or administered utilizing remote video-conferencing platforms. Screenings can also be 
+paired with externaldevices suchas smart watches, pedometers, glucometers,andscales. 
+Patient-generated health screening data can potentially improve health literacy and patient engagement 
+through promotion of improved patient engagement in care.[61] Preventive health management alone 
+requires patient participation and goal setting. Generating and transmitting prevention/screening data 
+can be taxing for the patient and provider; however, this type of data is vital to help providers 
+determine if health and well-being factors may impact disease and the patient’s abilityto adhere to a 
+treatment plan. In order to prevent implementation of PGHD from causing disparities, practices need to 
+ensure that patients withlimited ability or access tocomputers and the Internet, orlimited numeracy, 
+have the opportunity to provide PGHD. 
+TIP: 
+Health IT Advisors can work with practices to review current preventive screening workflows 
+and assist in the development of workflows that include PGHD and well-being data in patient 
+encounters and treatment plans. 
+Practices will also require assistance to identify standardized tools and incorporate them into 
+EHRs to collect PROs. Incorporating PROs from web-based platforms into EHRs and alerting 
+providers of outcomes may require vendor support and/or IT architecture development. 
+5.7 
+Data Collection and Use Challenges 
+There are many challenges to collecting patient-reporteddata and patient-generateddata. There is an 
+overall lack of motivation and cost benefit to collecting and using PROs.[62] Inclusion of patient
+reported data into the EHR may require changes in workflow, increasedstaffallocation for transcription 
+or review, and clinical decision support modifications. If PROs are not incorporated in treatment, then 
+providers may not see the value in their use. 
+Health IT Advisor Handbook 
+Page 65

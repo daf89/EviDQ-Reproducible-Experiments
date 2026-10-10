@@ -1,0 +1,169 @@
+
+
+===== PDF PAGE 435 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-76 
+WHO STEPS Surveillance 
+ 
+ 
+Diabetes 
+treatment 
+among 
+those 
+diagnosed 
+Description: Diabetes treatment results among those previously diagnosed with 
+raised blood sugar or diabetes. 
+ 
+Instrument questions: 
+• Have you ever had your blood sugar measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have raised 
+blood sugar or diabetes? 
+• In the past two weeks, have you taken any drugs (medication) for diabetes 
+prescribed by a doctor or other health worker? 
+• Are you currently taking insulin for diabetes prescribed by a doctor or other 
+health worker? 
+ 
+Currently taking drugs (medication) prescribed for diabetes among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+insulin 
+n 
+% taking 
+95% CI 
+insulin 
+n 
+% taking 
+95% CI 
+insulin 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Currently taking insulin prescribed for diabetes among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H6, H7a, H8, H9 
+• Epi Info program name: Hdiabetes (unweighted); HdiabetesWT (weighted) 
+ 
+
+
+===== PDF PAGE 436 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-77 
+WHO STEPS Surveillance 
+ 
+ 
+Diabetes 
+advice by 
+traditional 
+healer 
+Description: Percentage of respondents who are have sought advice or treatment 
+from a traditional healer for diabetes among those previously diagnosed. 
+ 
+Instrument questions: 
+• Have you ever had your blood sugar measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have raised 
+blood sugar or diabetes? 
+• Have you ever seen a traditional healer for diabetes or raised blood sugar? 
+• Are you currently taking any herbal or traditional remedy for your diabetes? 
+ 
+Seen a traditional healer for diabetes among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+% 
+n 
+seen 
+95% CI 
+trad. 
+healer 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Currently taking herbal or traditional treatment for diabetes among those previously diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+% 
+n 
+taking 
+95% CI 
+trad. 
+meds 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H6, H7a, H10, H11 
+• Epi Info program name: Hdiabetestrad (unweighted); HdiabetestradWT (weighted) 
+ 

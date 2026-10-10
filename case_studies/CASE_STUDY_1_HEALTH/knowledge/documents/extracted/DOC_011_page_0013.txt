@@ -1,0 +1,31 @@
+10 
+MOS Instrument and Data Collection Procedures 
+Practices eligible for the MOS survey were those identified as an office-based provider by a 
+respondent in the MEPS HC and identified by that respondent as his or her USC with whom they had 
+a visit in 2016. The 2016 data year MOS survey was fielded in March 2017 through October 2017. 
+The purpose of the MOS instrument was to collect information not captured in the MPC 
+concerning the organization of medical practices and resources available to practices identified as 
+a household person’s USC. The MOS was designed to complement MPC data with additional 
+information on the characteristics of providers. The MOS collected data in the following topical 
+areas: organization characteristics, health information technology, case management and use of 
+clinical data, and financial arrangements. MOS data can be linked to MEPS sample respondents 
+in the 2016 Full Year Consolidated Data File to enable analyses at the person level using 
+characteristics of provider practices. 
+After contacting the selected office-based providers, MOS DCSs introduced the MOS survey and 
+identified an appropriate MOS respondent. Although in some instances the MOS respondent was 
+the MPC point of contact (POC), the data collection protocols anticipated scenarios in which the 
+MOS respondent would be a different person than the MPC respondent and unfamiliar with the 
+MPC or its history in that practice. Materials were developed to introduce the MOS to either the 
+MPC POC or a different POC for the MOS. The MOS questionnaire was designed to be 
+completed by either telephone, online, or by mailing or faxing a completed questionnaire. 
+MPC Sample Size and Completion Rates 
+Table 2 presents provider level sample sizes and completion rates by provider type, while Table 
+3 presents pair level sample sizes and completions rates by provider type. These two levels 
+measure different concepts. The provider completion rate is a measure of provider cooperation. 
+The pair completion rate is a measure of pair coverage and is used to determine how many pairs 
+complementary provider data is obtained. 
+For data collection purposes, a provider was classified as a participant if health care event data 
+were obtained for any of the provider’s sampled patients during calendar year 2016. Each event 
+reported by the provider was required to have, at a minimum, a date of service and a procedure 
+or service. Individual providers were identified by a unique provider ID. As Table 2 illustrates, 
+86 percent of the 6,170 eligible hospital providers and about 87 percent of the 12,903 eligible

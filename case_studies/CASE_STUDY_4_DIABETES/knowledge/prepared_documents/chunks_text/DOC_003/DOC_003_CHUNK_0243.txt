@@ -1,0 +1,156 @@
+
+
+===== PDF PAGE 485 =====
+
+Part 7: Glossary 
+Section 1: Glossary of Terms Used in STEPS 
+Last Updated: 26 January 2017 
+7-1-2 
+WHO STEPS Surveillance 
+ 
+ 
+Term 
+Definition 
+Instrument 
+This refers to the STEPS Instrument which includes a questionnaire 
+(Step 1), physical measurements (Step 2), and biochemical measurements 
+(Step 3). 
+Inter-quartile 
+range 
+The difference between the upper and lower quartiles (25th and 75th 
+percentiles) in a set of values. They separate the lowest 25% and highest 
+75% of values, respectively, in the set of measurements 
+Mean 
+The arithmetic mean is the average of a set of values, that is, the sum of  
+all the values divided by number of values. Because of its simplicity and 
+its statistical properties, it is used more than any of the other measures of 
+central tendency (e.g. median). 
+Measurement 
+device 
+A tool used for measurement purposes, for example a blood pressure 
+monitor. 
+Median 
+The median is a measure of central tendency that is often used for non- 
+normally distributed variables. It is the simplest division of a set of 
+sorted measurements into two halves - the lower and the upper half. 
+MET 
+Metabolic equivalent (MET) is the ratio of a person's working metabolic 
+rate relative to the resting metabolic rate. One MET is defined as the 
+energy cost of sitting quietly, and is equivalent to a caloric consumption 
+of 1 kcal/kg/hour. 
+Moderate intensity 
+physical activity 
+Refers to activities which take moderate physical effort and that make 
+you breathe somewhat harder than normal. Examples include cleaning, 
+vacuuming, polishing, gardening, cycling at a regular pace or horse- 
+riding. Moderate intensity activities require an energy expenditure of 
+approximately 3-6 METs. 
+Multi-stage 
+sampling 
+Multi-stage indicates that sampling is done in several steps. First larger 
+sampling units are selected then smaller sampling units are selected 
+within the selected larger units. 
+Non-probability 
+Methods of sampling a population in which the probability of selection of 
+each every individual is not known, and therefore from which reliable 
+population estimates are not calculable. A non-probability sample is not 
+desirable for STEPS. 
+Non-response 
+In a sample survey, the failure, for any reason, to obtain information from 
+a designated participant. 
+Non-response bias 
+Also known as coverage bias, the error introduced by non-response. 
+Outlier 
+An observation differing so widely from the rest of the data as to lead one 
+to suspect that a gross error may have been committed or suggesting that 
+this value comes from a different population. 
+Participant 
+An individual who responds to the STEPS Instrument. 
+Pilot test 
+A small trial run or "dress rehearsal" of an entire process, e.g. data 
+collection or data entry, completed before the process officially begins. 
+Post-stratification 
+A means of making sample estimates more representative of the target 
+population after data have been collected. For STEPS surveys, it is 
+recommended to do a post-stratification for age and sex so that 
+differences in the age-sex distribution between the sample and the target 
+population can be accounted for. 
+
+
+===== PDF PAGE 486 =====
+
+Part 7: Glossary 
+Section 1: Glossary of Terms Used in STEPS 
+Last Updated: 26 January 2017 
+7-1-3 
+WHO STEPS Surveillance 
+ 
+ 
+Term 
+Definition 
+Precision 
+The quality of the estimate obtained from the STEPS survey. The  
+standard error of the estimates can be taken as an indicator of the  
+precision of the estimates with a smaller standard error indicating greater 
+precision. See standard error. 
+Prevalence 
+The number of persons with a disease or an attribute in a given 
+population at a designated time, e.g. % daily smoker in a country in 2008. 
+Primary sampling 
+unit (PSU) 
+The sampling units for the first stage of sampling in a multi-stage sample 
+design. See multi-stage sample design. 
+Probability 
+A number between 0 and 1 which represents how likely some event is to 
+occur. A probability of 0 means an event will never occur, while a 
+probability of 1 means the event will always occur. 
+Probability sample 
+A sample of a population (or sub-population) that has the property that 
+each individual has an equal and known chance of being selected, and in 
+which the chance of one item being selected does not alter or affect the 
+selection of any other individual. Examples of probability sampling 
+include simple random sample, cluster sampling and stratified sampling. 
+Probability 
+proportional to 
+size (PPS) 
+Probability proportional to size (PPS) sampling is a  method for selecting  
+a sampling unit in which the probability of selection for a given sampling 
+unit is proportional to its size (most often the number of individuals or 
+households within the sampling unit). 
+Range 
+The difference between the largest and the smallest in a set of values, for 
+example in a sample in which height was measured from 135 cm to 180 
+cm, the range would be 45 cm. 
+Rank 
+The position of a member within a sorted set. 
+Rate 
+The occurrence of an event over a defined time amongst a defined sample 
+or population. It may be expressed as number of events per person-years, 
+for example 310 injury accidents per 10,000 person-years, which may be 
+imagined as 310 of 1000 people over 10 years, or 310 of 2000 people 
+over 5 years. 
+Representativeness 
+The extent to which a sample has the same distribution of the 
+characteristics of interest as the target population from which it was 
+selected. 
+Response 
+proportion 
+The proportion or percentage of the eligible individuals sampled who did 
+participate. 
+Risk Factor 
+Refers to any attribute, characteristic, or exposure of an individual, which 
+increases the likelihood of developing a disease, or other unwanted 
+condition/event. 
+Sample 
+The subset of the target population that is selected for inclusion in the 
+survey. 
+Sample design 
+The methodology used to select the part of the population to be included 
+in the survey. See probability sample and non-probability sample. 
+Sample population 
+The sample population is the group of individuals who have been 
+selected from the target population (see target population) to participate 
+in the survey. 
+Sample size 
+Sample size is the number of people selected for the sample. It should be 
+calculated prior to conducting the survey. 

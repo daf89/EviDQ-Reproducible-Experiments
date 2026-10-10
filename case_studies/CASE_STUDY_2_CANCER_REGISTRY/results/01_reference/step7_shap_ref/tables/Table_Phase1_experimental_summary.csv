@@ -1,0 +1,14 @@
+Experimental_component,Value
+Dataset_REF,1902 observations / 27 original features
+Indeterminate targets,37 observations
+Dataset_NEW,1865 observations / 27 original features + Y
+Target,Binary 3-year status (0/1)
+X_MODEL,10 features
+Train observations,1494
+Test observations,371
+Model,Random Forest
+Accuracy,0.7251
+Balanced Accuracy,0.6796
+F1-score,0.5750
+ROC-AUC,0.7636
+Explainability method,SHAP / TreeExplainer

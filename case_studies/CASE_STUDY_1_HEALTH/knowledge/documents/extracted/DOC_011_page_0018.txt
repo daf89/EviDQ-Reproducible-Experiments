@@ -1,0 +1,30 @@
+15 
+submission of electronic data files to increase and expand to other provider types in future 
+years of the MPC. For the 2016 data year collection cycle, the MEPS MPC developed an 
+application to allow POCs to securely download Authorization Form packets from and upload 
+records to a MEPS MPC website. 
+MOS Changes Over Time 
+Key changes to the MOS from the first data collection completed during the 2015 data collection 
+cycle compared to the 2016 data collection cycle are described below. 
+Staffing and Training 
+Staffing and training of the MOS DCSs differed during the 2016 data collection when compared 
+to the 2015 data collection. During the 2015 data collection, MOS was a new survey for all MPC 
+DCSs; during the 2016 data collection, veteran MOS staff from the previous data collection were 
+available to work during the new cycle. A more streamlined training was able to focus on 
+instrument changes and allowed for a quicker data collection start. Throughout data collection, 
+staff working on office-based providers were identified to replenish MOS staffing levels as 
+needed; the connections between office-based providers and MOS data collection made this a 
+natural transition for many staff. 
+Instrumentation 
+Based on review of the data from the 2015 data collection, AHRQ revised the order of some of 
+the MOS survey questions before the start of the 2016 cycle. However, minimal wording changes 
+were made to the questions, so that consistency could be maintained between the two data 
+collection cycles. 
+Use of MPC Data in Expenditure Estimation 
+Data obtained from providers in the MPC are critical to the development of MEPS expenditure 
+estimates. Since insurance providers negotiate reimbursement rates with providers that are 
+significantly lower than the total established list price that appears on a billing statement, 
+expenditures in the MEPS are defined as the sum of payments from all payer sources including 
+out-of-pocket payments. While most household respondents can report with some degree of 
+accuracy how much they pay out of pocket for medical care, including prescribed medicines, 
+they do not always know the total payments made on their behalf by third-party payers.

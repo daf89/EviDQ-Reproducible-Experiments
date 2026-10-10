@@ -1,0 +1,31 @@
+1 
+Design, Methods, and Field Results of the Medical Expenditure Panel 
+Survey Medical Provider Component (MEPS MPC) including the 
+Medical Organizations Survey (MOS)–2016 Data Year 
+Marie N. Stagnitti, MPA, Steven R. Machlin, MS, and Marc W. Zodet, MS, Agency for Healthcare 
+Research and Quality; and Erica Saleska, RTI International 
+Introduction 
+The Medical Provider Component (MPC) of the ongoing Medical Expenditure Panel Survey 
+(MEPS), conducted annually since 1997, is a voluntary survey designed to supplement, replace, 
+and validate health care expenditure and source of payment data collected in the MEPS 
+Household Component (HC). It is also used as the core imputation source for missing HC 
+payment and charge data. MPC data are collected a year after the household health care event 
+information is collected to allow adequate time for billing transactions to be completed. 
+This report focuses on the 2016 data year MEPS MPC and Medical Organizations Survey (MOS) 
+data collection efforts that collected information from medical providers on health care events 
+reported in the MEPS HC and on organizational characteristics of selected office-based physician 
+practices, respectively. This report describes the MPC sample design, survey methodology, 
+procedures for data collection, sample sizes, and response rates, as well as the relationship 
+between the HC survey and the MPC survey. It also includes information on the MEPS MOS 
+which was added to the MPC for the 2015 and 2016 MPC data collections and was funded in part 
+by support from the Robert Wood Johnson Foundation. RTI International was the prime 
+contractor for this MPC and MOS data collection. 
+Relationship of the Household Component to the Medical Provider 
+Component 
+The MEPS HC is designed to collect detailed information on the demographic characteristics, 
+health status, health insurance, employment, and medical care use and expenditures of individuals 
+and families in the United States. For data year 2016 estimates, the HC collected data from 
+33,259 individuals and about 13,500 families in 183 different communities (primary sampling 
+units) across the country that can be used to produce nationally representative estimates for the 
+civilian noninstitutionalized population. Health care utilization, associated expenditures, and the 
+names and addresses of providers who delivered care to these sample persons were collected over

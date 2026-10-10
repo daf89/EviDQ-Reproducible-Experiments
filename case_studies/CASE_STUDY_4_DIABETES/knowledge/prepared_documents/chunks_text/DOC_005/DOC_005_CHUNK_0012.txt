@@ -1,0 +1,101 @@
+
+
+===== PDF PAGE 23 =====
+
+11
+4. Automated non-invasive BPMDs with cuff 
+Ultrasonic techniques (Doppler ultrasound) are based on the Doppler phenomenon, which is variation in the 
+frequency of sound waves with the speed of the sound transmitter in relation to the sound receiver. These 
+devices depend on the shift in sound waves when they encounter red blood cells. When the ultrasound strikes 
+an immobile structure such as a compressed arterial wall, the ultrasound frequency is rejected unchanged. If 
+a moving structure (pulsating artery) is encountered, however, the frequency is altered up or down (Doppler 
+effect), and this is detectable as an audible alteration in sound (18). 
+4.3	 Regulatory requirements and standards
+Resolution WHA 67.20, adopted in 2014, calls for strengthening of regulatory systems for medical products. 
+The resolution states that “effective regulatory systems are an essential component of health system 
+strengthening and contribute to better health outcomes” (19). Every medical device must comply with complex 
+regulations and procedures, strict specifications and safe clinical performance. As BPMDs are considered 
+“life-critical”, they must be safe and effective for use in clinical practice (20).
+“Standards” are defined generically as technical specifications adopted by a recognized standardization body 
+for repeated or continuous application. Application of standards is voluntary, but their wide use with respect 
+to medical devices ensures that the sector is uniform. For example, in the European Union, harmonized 
+standards are a specific set of standards that allow a presumption of conformity with the essential or general 
+requirements in European regulatory documents (directives and regulations) that foresee CE marking of 
+products. In this context, manufacturers are not obliged to use the harmonized standards, but, if they do, 
+they must comply with the requirement of being covered by that standard. In other counties, use of specific 
+standards may be required at a regulatory level (21).
+ 
+A different but complementary definition of a standard in the medical device domain is that of the International 
+Organization for Standardization (ISO): 
+Standards are documented agreements containing technical specifications or other precise 
+criteria to be used consistently as rules, guidelines or definitions of characteristics, to ensure that 
+materials, products, process and services are fit for their purpose.
+Medical device standards allow manufacturers, laboratories, biomedical engineers, technical personnel, 
+clinicians, patients and others to inspect and assess equipment and devices to ensure quality and usability (22). 
+Some institutions dedicated to regulation and standardization are: The International Electrotechnical 
+Commission (IEC), the ISO, the American National Standards Institute (ANSI), the Canadian Standards 
+Authority, the European Committee for Standardization and the European Committee for Electrotechnical 
+Standardization.
+Medical devices must be manufactured within a robust quality management system that delineates a systematic 
+approach to ensure continuous quality. Such a system includes standard operating procedures, documentation, 
+design and manufacturing controls and third-party assessments. Maintenance of a quality management 
+system requires appropriate human resources and their management, infrastructure, timely and appropriate 
+procurement, stock management, maintenance and rigorous pre- and in-service training. Another crucial stage 
+of the life cycle of devices is following them up on the market, in real time and in real-life use. Post-market 
+surveillance is an obligation for manufacturers in order to investigate and act on any adverse event, product 
+failure or error. The most relevant sources of information for post-market surveillance are complaints made by 
+users. Manufacturers should analyse the cause and determine whether the risk–benefit ratio is maintained. If 
+malfunction or deterioration in the characteristics and/or performance of the device leads to or might have led 
+to death, such incidents must be reported by the manufacturer to the competent authorities in a “vigilance 
+reporting system”. Corrective actions in the field, such as recall or changes to the product (including labelling), 
+are notified by manufacturers in a field safety notice to the national regulatory agency or authority, which 
+should conduct its own market surveillance and oversee any investigation of incidents and complaints by 
+
+
+===== PDF PAGE 24 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+12
+the manufacturer. WHO guidance on quality management systems and post-market surveillance for medical 
+devices can be found in the WHO global model regulatory framework for medical devices including in vitro 
+diagnostic medical devices (20). 
+Several international reference standards are applicable to different stages of the life cycle of medical devices. 
+Non-exhaustive lists of applicable standards are given below (23). The standards may not be required in all 
+countries, or countries may define the equivalent standards.
+Standards applicable to general quality systems for medical devices, and specific for non invasive BPMD: 
+•	 EN ISO 13485:2012, Medical devices – Quality management systems – Requirements for regulatory 
+purposes 
+•	 ISO 13485:2016, Medical devices – Quality management systems – Requirements for regulatory purposes
+•	 EN ISO 14971:2012, Medical devices – Application of risk management to medical devices
+•	 ISO 14155:2011, Clinical investigation of medical devices for human subjects – Good clinical practice
+•	 ISO 14971:2007, Medical devices – Application of risk management to medical devices
+•	 IEC 80601-2-30:2018 Medical electrical equipment – Part 2-30: Particular requirements for basic safety 
+and essential performance of automated non-invasive sphygmomanometers
+•	 ISO 16142-1:2016, Medical devices – Recognized essential principles of safety and performance of 
+medical devices – Part 1: General essential principles and additional specific essential principles for all 
+non-IVD medical devices and guidance on the selection of standards
+•	 ISO 81060-2; 2018 protocol, “single universal standard” replacing all other previous standards/protocols
+Standards applicable to automated non invasive BPMD: 
+•	 ISO 81060-2:2018(E) Non-invasive sphygmomanometer standard – Part 2: Clinical investigation of 
+intermittent automated measurement type
+•	 ISO/IEEE 11073-10407:2010 (Part 10407: Device specialization – Blood pressure monitor)
+•	 IEC 80601-2-30:2009 (Part 2-30: Particular requirements for the basic safety and essential performance 
+of automated non-invasive sphygmomanometers)
+•	 DS/EN 1060-3 Non-invasive sphygmomanometers – Part 3: Electro-mechanical blood pressure measuring 
+system 
+4.4	 Accuracy 
+The “pursuit of accuracy” for BPMDs has a long history. In 1918, Dr F.A. Faught made the despairing 
+statement that “the market is flooded with instruments of all descriptions for estimating BP, so that it is 
+important that the prospective purchaser should be able to separate the good from the bad.” Serious efforts to 
+distinguish the “good from the bad” to avoid inaccurate measurements began only in the 1980s, with work to 
+standardize validation of BPMDs (24). More than 100 years since Dr Faught’s statement, inaccurate, untested 
+BPMDs remain available. As the accuracy of these devices is fundamental to health care quality and safety 
+and scientific research, electronic devices should be validated both technically and clinically. Validation is 
+typically conducted by determining the mean difference in results between the device tested and a control 
+standard for a given number of tests. The control standard BP is typically obtained with a manual device by 
+two independent observers, who simultaneously determine the systolic and diastolic BP of each person with 
+a double-headed stethoscope. Accuracy validation testing should be conducted independently by institutions 
+that are certified or identified as capable by relevant regulatory entities and should be based on standard 
+validation protocols. Practical issues have been raised in LMICs with regards to phasing out mercury devices, 
+choosing appropriate BP devices, identifying inexpensive devices that have been validated, providing periodic 
+training for health care professionals and checking devices regularly for accuracy. 

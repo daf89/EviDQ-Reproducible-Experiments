@@ -1,0 +1,10 @@
+﻿feature,document_id,relevant_pairs
+age_diag,DOC01_ENCR_DQ_CHECKS,3
+age_diag,DOC02_IARC_SP95,8
+mkb10_code,DOC01_ENCR_DQ_CHECKS,3
+mkb10_code,DOC02_IARC_SP95,3
+mkb10_code,DOC03_ENCR_STANDARD_2023,1
+mkb10_code,DOC04_WHO_ICDO3,6
+registry_stage_code,DOC01_ENCR_DQ_CHECKS,31
+registry_stage_code,DOC02_IARC_SP95,7
+registry_stage_code,DOC05_JRC_ENCR_QCS,1

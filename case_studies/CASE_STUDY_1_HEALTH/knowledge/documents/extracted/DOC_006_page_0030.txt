@@ -1,0 +1,21 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+for certification of APIs and EHRs. (The topic of interoperability is covered in Appendix A of the 
+handbook.) 
+Exhibit 12: Example of a Patient Summary Screen from the U.S. Department of VeteransAffairs’ Vista 
+EHR [36] 
+EXAMPLE: 
+In comparing EHRs across clinics, you find that the clinical documentation of a patient 
+encounter is called progress note at one clinic, visit note at another, and SOAP note 
+(Subjective, Objective, Assessment, and Plan) at a third. The fourth simply calls it “the chart.” 
+Health IT Advisors should use the particular terminology a clinic uses when discussing its data 
+or EHR features. This can sometimes be difficult when working with multiple clinics. 
+The “conceptual map” we have chosen to provide is a generic grouping of information in an EHR based 
+on a recent specification, mentioned above: United States Core Data for Interoperability (USCDI).[35] 
+Exhibit 13 shows the major information groupings for draft version 3.0 of the USCDI released in January 
+2022 (the final version 3.0 of USCDI will be released in the summer of 2022).[35] The important groups 
+to consider for QI are summarized in Exhibit 14 and can be a useful guide to “where to look for…” when 
+encountering a new EHR. 
+Health IT Advisor Handbook 
+Page 25

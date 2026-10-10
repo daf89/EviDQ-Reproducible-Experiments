@@ -1,0 +1,155 @@
+(95% UI: 1.2–1.6) CVD-related deaths in people with CKD;
+25.3 (22.2–28.9) million CVD DALYs were attributable to
+impaired kidney function. Overall, CKD and its effect on
+CVD resulted in 2.6 million (95% UI: 2.4–2.8) deaths in
+2017 and CKD has risen from 19th to 11th in rank among
+leading causes of death between 1990 and 2019 due to
+aging and an increasing burden of risk factors for CKD
+(including
+diabetes
+and
+hypertension)
+that,
+together,
+contribute to more than half of the deaths from CKD.
+Screening and prevention
+Despite the increasing recognition of the true burden of CKD,
+there remains controversy and lack of consensus as to the
+utility of population screening for CKD26 or targeted
+screening
+programs,18
+due
+to
+the
+complexity
+of
+the
+underlying sociopolitical and resource environment. Public
+health
+policy
+has
+a
+role
+to
+play
+in
+identifying
+and
+addressing risk factors to prevent CKD, to identify CKD
+early, and to delay its progression and associated adverse
+outcomes. Education of both health personnel and the
+populations at risk, implementation of early kidney disease
+detection programs, and incorporation of evidence-based
+treatment of CKD and its associated conditions, such as BP
+and diabetes, are all essential components of a strategy to
+address this burden. A systematic review suggested that
+screening for CKD is cost-effective in people with diabetes
+and hypertension, the 2 most common causes of CKD
+worldwide.16
+However,
+clinical
+trials
+have
+not
+been
+conducted to determine whether or not an intervention to
+detect, risk-stratify, and treat CKD would improve the
+health outcomes for the targeted population. Nevertheless,
+cost-effective analysis of population-wide screening for CKD
+incorporating
+evidence-based
+treatment
+with
+sodium-
+glucose
+cotransporter-2
+inhibitors
+(SGLT2i)
+recently
+concluded that screening adults for albuminuria to identify
+CKD could be cost-effective in the United States.27
+This evidence aligns with the KDIGO Controversies Con-
+ference on Early Detection and Intervention in CKD, which
+concluded that early identiﬁcation of CKD in people at risk,
+who are usually asymptomatic, would likely be beneﬁcial in the
+community and primary care settings if the programs are
+interwoven
+with
+risk
+stratiﬁcation
+and
+treatment.17
+A
+community program must be able to provide treatment to
+the high-risk group of patients with newly detected CKD to
+justify systematic early detection strategies. An additional
+conclusion was that screening and treatment programs for
+CKD should be implemented based on risk stratiﬁcation to
+prioritize
+people,
+particularly
+in
+settings
+with
+limited
+economic
+resources.
+Although
+globally
+people
+with
+hypertension, diabetes, or CVD are at high risk for CKD,
+other high-risk people may be identiﬁed through genetic risk
+factors or by varying exposure to environmental pollution,
+pesticides, water, and nephrotoxic medications including
+signiﬁcant analgesic use and herbal medications, depending
+on geographical region. Frameworks in which to consider
+speciﬁc regional factors have been offered to facilitate
+discussion about the value and context of screening for CKD.26
+Currently, kidney disease awareness remains low, and
+worldwide only 6% of the general population and 10% of the
+high-risk population are aware of their CKD status. Impor-
+tant to note is that patient advocates with CKD strongly argue
+for earlier CKD screening and diagnosis.17 They also advocate
+for CKD detection to be integrated with patient and family
+education and engagement to improve accessing appropriate
+healthcare and knowledge and adherence to recommended
+lifestyle modiﬁcation and medications.
+0
+500
+1000
+1500
+2000
+2500
+0
+10
+20
+30
+40
+60
+70
+80
+90
+0
+0
+1
+0
+5
+SDI
+DALY rate (per 100,000)
+Latin America and Caribbean
+Central Europe, eastern Europe, and central Asia
+Sub-Saharan Africa
+High income
+North Africa and Middle East
+South Asia
+Southeast Asia, east Asia, and Oceania
+GBD super-region
+Figure 2 | Age-standardized chronic kidney disease disability-adjusted life-year (DALY) rates for each location by sociodemographic
+index (SDI), both sexes combined, 2019. GBD, global burden of disease. Reproduced from Global Burden of Disease 2019: GBD cause and risk
+summaries chronic kidney disease. Lancet. 2020;396:S152–S153.24 ª 2020 The Author(s). Published by Elsevier Ltd. This is an Open Access article
+under the CC BY 4.0 license.
+introduction, qualifying statements, and key concepts
+www.kidney-international.org
+S138
+Kidney International (2024) 105 (Suppl 4S), S117–S314

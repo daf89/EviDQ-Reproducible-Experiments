@@ -1,0 +1,37 @@
+{
+    "case_study": "CASE_STUDY_4_DIABETES",
+    "step": "STEP_01_REFERENCE",
+    "created_utc": "2026-09-27T16:01:18.608794+00:00",
+    "raw_file": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\raw\\diabetes.csv",
+    "reference_file": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\reference\\Dataset_REF.csv",
+    "raw_sha256": "e25ebf48cce3c03cacbbdd007e356ad0a2f7818747cf471f79371f9753869697",
+    "dataset_ref_sha256": "43b6df3b2bb01723f93555969194a0712cf5319df1a74ecb1c8f4f56f0c23a1e",
+    "rows": 768,
+    "columns": 9,
+    "features": [
+        "Pregnancies",
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "target": "Outcome",
+    "target_values": [
+        0,
+        1
+    ],
+    "duplicate_rows_observed": 0,
+    "missing_values_observed": 0,
+    "rows_deleted": 0,
+    "duplicates_removed": false,
+    "missing_values_imputed": false,
+    "missing_values_injected": false,
+    "outliers_modified": false,
+    "measurements_corrected": false,
+    "feature_engineering_applied": false,
+    "dq_intervention_applied": false,
+    "notes": "Dataset_REF is created without any data-quality intervention. Observed values are described but are not classified as errors or anomalies at this stage."
+}

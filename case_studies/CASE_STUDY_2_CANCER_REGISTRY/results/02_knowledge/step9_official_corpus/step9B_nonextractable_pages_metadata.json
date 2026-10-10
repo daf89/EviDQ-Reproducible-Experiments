@@ -1,0 +1,13 @@
+{
+  "step": "9B",
+  "phase": "KNOWLEDGE",
+  "purpose": "Control pages without extractable PDF text",
+  "n_pages_without_text": 6,
+  "n_entirely_empty_chunks": 0,
+  "OCR_performed": false,
+  "chunks_modified": false,
+  "GPT_5_6_Sol_used": false,
+  "knowledge_extracted": false,
+  "diagnosis_performed": false,
+  "hidden_reference_used": false
+}

@@ -1,0 +1,122 @@
+
+
+===== PDF PAGE 453 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-94 
+WHO STEPS Surveillance 
+BMI ≥25 
+Description: Percentage of respondents (excluding pregnant women) classified 
+ 
+ 
+as overweight (BMI≥25). 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Height 
+• Weight 
+ 
+BMI≥25 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ 
+% 
+95% CI 
+BMI≥25 
+n 
+ 
+% 
+95% CI 
+BMI≥25 
+n 
+ 
+% 
+95% CI 
+BMI≥25 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M11, M12 
+• Epi Info program name: Mbmiclass (unweighted); MbmiclassWT (weighted) 
+ 
+
+
+===== PDF PAGE 454 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-95 
+WHO STEPS Surveillance 
+Waist 
+Description: Mean waist circumference among all respondents (excluding 
+ 
+ 
+circumference 
+pregnant women). 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Waist circumference measurement 
+ 
+Waist circumference (cm) 
+Age Group 
+(years) 
+Men 
+Women 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M14 
+• Epi Info program name: Mwaist (unweighted); MwaistWT (weighted) 
+ 
+ 
+ 
+Hip 
+circumference 
+Description: Mean hip circumference among all respondents (excluding 
+pregnant women). 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Hip circumference measurement 
+ 
+Hip circumference (cm) 
+Age Group 
+(years) 
+Men 
+Women 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M15 
+• Epi Info program name: Mhip (unweighted); MhipWT (weighted) 
+ 

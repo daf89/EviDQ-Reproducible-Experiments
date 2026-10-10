@@ -1,0 +1,157 @@
+
+
+===== PDF PAGE 187 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-5 
+WHO STEPS Surveillance 
+Taking Blood Pressure and Recording Heart Rate 
+ 
+ 
+ 
+Introduction 
+Blood pressure is taken to determine the prevalence of raised blood pressure 
+in the population. 
+ 
+ 
+Equipment 
+To take blood pressure you will need the following: 
+ 
+• digital automatic blood pressure monitor, e.g. Bosch & Sohn Medicus 
+UNO, or OMRON M6 
+• appropriate size cuffs or universal cuffs. 
+ 
+ 
+Preparing the 
+participant 
+Ask the participant to sit quietly and rest for 15 minutes with his/her legs 
+uncrossed. If physical measurements (Step 2) are done immediately after the 
+behavioural measurements (Step 1), as recommended, the participant should 
+have already been seated for at least 15 minutes, and the blood pressure 
+measurements can be done immediately after finishing the Step 1 questions.   
+If the participant has moved around during the interview, have him/her rest 
+after the interview while you set-up the equipment. 
+ 
+Furthermore, the participant should have an empty bladder when the 
+measurements are taken, should not have coffee before or during the 
+measurements, and should not talk during the measurements. The elbow 
+should be supported during the measurements. 
+ 
+ 
+ 
+Three 
+measurements 
+Three blood pressure measurements should be taken.  During data analysis  
+the mean of the second and third readings will be calculated. The participant 
+will rest for three minutes between each of the readings. 
+ 
+ 
+ 
+Recording the 
+blood pressure 
+measurements 
+For recording the results of the blood pressure measurements, do the 
+following: 
+ 
+• record your Interviewer ID on the Android device; 
+• record the device ID of the blood pressure machine you are using; 
+• after each of the three measurements, record the results; 
+• check that all readings are correctly filled in; 
+• inform the participant on the last blood pressure reading only after the 
+whole process is completed. 
+ 
+ 
+ 
+Recording 
+heart rate 
+measurements 
+Heart rate and blood pressure results are displayed simultaneously on the 
+digital blood pressure monitor. If a country decides to include the expanded 
+measurement of heart rate, the recording should be done along with the 
+recording of the blood pressure measurements after each of the three 
+measurements. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 188 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-6 
+WHO STEPS Surveillance 
+Taking Blood Pressure and Recording Heart Rate, Continued 
+ 
+ 
+ 
+Procedure for 
+measuring 
+blood pressure 
+The instructions below apply to the use of automatic blood pressure monitors. 
+However, more detailed operating instructions are included with each device 
+and should be reviewed before taking any blood pressure measurements. 
+ 
+ 
+ 
+Applying the 
+cuff 
+Follow the steps below to select an appropriate size and apply the cuff: 
+Step 
+Action 
+1 
+Place the left arm* of the participant on the table with the palm 
+facing upward. 
+2 
+Remove or roll up clothing on the arm (make sure rolled up 
+clothing isn’t tight). 
+3 
+Use a universal cuff, or select the appropriate cuff size for the 
+participant using the following table: 
+Arm Circumference (cm) 
+Cuff Size 
+17 -22 
+Small (S) 
+22-32 
+Medium (M) 
+> 32 
+Large (L) 
+4 
+Position the cuff above the elbow so that the lower band is 
+positioned 1-2 cm above the elbow joint. 
+5 
+Wrap the cuff snugly onto the arm and securely fasten with the 
+Velcro. 
+6 
+Keep the level of the cuff at the same level as the heart during 
+measurement. 
+ 
+*Note: If the right arm is used, note this in the comments for the household in 
+the STEPS app. 
+ 
+ 
+ 
+Taking the 
+measurement 
+Follow the instructions below to take the blood pressure measurement: 
+ 
+Step 
+Action 
+1 
+Switch the monitor on. 
+2 
+The monitor will start measuring when it detects the pulse. The 
+systolic and diastolic blood pressure readings should be displayed 
+within a few moments (systolic above and diastolic below). 
+3 
+Record the reading in the Android device. 
+4 
+Switch the monitor off, but leave the cuff in place. 
+5 
+Wait three minutes, then repeat steps 1-4 two more times. 
+6 
+Record the last reading on the participant feedback from as well. 
+ 
+Continued on next page 

@@ -1,0 +1,190 @@
+
+
+===== PDF PAGE 89 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-4 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+Variables used 
+for calculating 
+sample size 
+The table below provides a description of the variables used in calculating the 
+sample size as well as the recommended values for each variable. 
+Variable 
+Description 
+Recommended Value 
+Level of Confidence 
+• Probability value that is 
+associated with a given 
+confidence interval. 
+• Describes the level of 
+uncertainty in the sample 
+mean or prevalence as an 
+estimate of the population 
+mean or prevalence. 
+• The higher the level of 
+confidence, the larger the 
+sample size needed. 
+• 1.96 
+• Note: 1.96 is the probability 
+value associated with a 95% 
+confidence interval. 
+Margin of Error 
+• The expected half-width of 
+the confidence interval. 
+• The smaller the margin of 
+error, the larger the sample 
+size needed. 
+• 0.05 
+• Note: If the estimated baseline 
+levels of the behaviours or 
+indicators you wish to measure 
+is very low (e.g. <0.10), then 
+the Margin of Error should be 
+decreased to 0.02 or smaller. 
+Design Effect (Deff) 
+• Describes the loss of 
+sampling efficiency due to 
+using a complex sample 
+design. 
+• The design effect for a 
+simple random sample is 
+1.00. Sample designs more 
+complex than a simple 
+random sample require a 
+larger sample to achieve the 
+same level of precision in 
+survey results as a simple 
+random sample. Thus the 
+design effect increases as the 
+sample design becomes more 
+complex. 
+• 1.50 
+• Note: The value 1.50 is 
+recommended for most STEPS 
+surveys with complex sample 
+designs. If design effect 
+information is available from 
+previous national surveys of a 
+similar design to the proposed 
+STEPS survey, it is 
+recommended to use the 
+previous estimates for design 
+effect. 
+Estimated baseline 
+levels of the 
+behaviours or 
+indicators we want to 
+measure 
+• The estimated prevalence of 
+the risk factors within the 
+target population. 
+• Values closest to 50% are the 
+most conservative, requiring 
+the largest sample size. 
+• 0.50, if no previous data are 
+available on the target 
+population. 
+• The value closest to 0.50, if 
+previous data is available on 
+the target population. 
+ 
+ 
+Equation for 
+calculating 
+sample size 
+The equation for calculating sample size is as follows: 
+ 
+n = 
+where: 
+• Z = level of confidence 
+• P = baseline level of the indicators 
+• e = margin of error 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 90 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-5 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+ 
+Example 
+calculation 
+Using the above recommendations for each variable, the initial calculation 
+for sample size would be: 
+ 
+n = 1.962 0.5 (1-0.5) = 384 
+0.052 
+However, this number must be adjusted to account for the design effect of the 
+sample design, the number of age-sex estimates to be reported, and the 
+anticipated non-response. 
+ 
+ 
+ 
+Adjusting for 
+design effect 
+To adjust for the design effect of the sample design simply multiply the 
+sample size by the design effect. For more information on choosing the 
+sample design for your survey, see page 2-2-12. 
+ 
+ 
+ 
+Adjusting for 
+number of age- 
+sex estimates 
+As discussed previously, it is recommended that survey results be reported 
+separately for specific age groups for each sex. In order to have an adequate 
+level of precision for each age-sex estimate, the sample size must be 
+multiplied by the number of age-sex groups for which estimates will be 
+reported. 
+ 
+The number of age-sex estimates will  vary  according to the target  age range 
+of the survey and the resources available for the survey. For surveys covering 
+the age range of 18-69, the number of age-sex estimates may be 8 (18-29, 30- 
+44, 45-59, and 60-69 years for men and women), may be 6 (18-29, 30-44, and 
+45-69 years for men and women), or 4 (18-44 and 45-69 years for men and 
+women). 
+ 
+If the age range of your survey extends beyond the recommended 18-69 
+years, the total number of age-sex estimates may need to be adjusted 
+accordingly. For example, if the age range of 70+ years were also to be 
+included in the survey, the total number of age-sex estimates would have to 
+be increased accordingly. 
+ 
+ 
+ 
+Adjusting for 
+anticipated 
+non-response 
+To adjust for anticipated non-response divide by the anticipated response 
+rate. 
+A response rate of 80% is the recommended rate to anticipate. This is a 
+conservative estimate based on response rates of previous STEPS surveys. If 
+response rates have been consistently higher in the country for similar 
+household surveys, a less conservative (i.e. smaller) response rate may be 
+used, such as 90%. 
+Example: For an anticipated response rate of 80%, divide the sample size by 
+0.80. 
+ 
+Continued on next page 

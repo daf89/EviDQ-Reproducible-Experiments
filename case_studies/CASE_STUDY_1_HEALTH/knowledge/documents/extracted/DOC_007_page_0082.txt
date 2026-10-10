@@ -1,0 +1,143 @@
+Practice Point 2.1.4: Among people with CKD who initiate
+hemodynamically active therapies, GFR reductions of
+>30% on subsequent testing exceed the expected variability
+and warrant evaluation.
+Acute eGFR decline after intensive BP control has been
+observed in people with CKD, with reductions of 10%–20%
+being typical within the ﬁrst 3 months of treatment. These
+declines in eGFR are hemodynamically mediated, represent-
+ing a response to BP falling below the lower threshold of a
+person’s autoregulatory response. For many, this initial
+decline in eGFR is transient and will stabilize or resolve over
+time, as resetting of the autoregulatory function occurs. Thus,
+acute rises in SCr (or declines in eGFR) of <20%–30% are
+expected and do not warrant changes in therapeutic agents,
+which may be important for cardio- and kidney-protective
+effects in the long term. This phenomenon is especially
+common when using ACEi/angiotensin II receptor blockers
+(ARBs), as they both lower BP and alter arteriolar ﬂow
+through the glomeruli, and SGLT2i through similar hemo-
+dynamic mechanisms.
+Post hoc analyses of trials of SGLT2i treatment in people with
+diabetes, heart failure, and CKD suggested that participants
+with >10% initial drop in eGFR have similar eGFR trajectories
+and kidney beneﬁts from SGLT2i compared with the
+“nondipper” who received SGLT2i, except in unusual cases
+when the acute “dip” in eGFR was >30% from baseline.389,390
+These ﬁndings were consistent across all subgroups.
+A signiﬁcant drop in eGFR (>30%) while initiating anti-
+hypertensive agents,
+renin-angiotensin
+system
+inhibitors
+(RASi), mineralocorticoid receptor antagonists (MRA), or
+SGLT2i should prompt a review into other causes and war-
+rants close monitoring. However, healthcare providers should
+avoid the urge to stop these kidney-protective agents,
+particularly because these earlier “dips” are typically reversible
+and not an indication of drug toxicity.
+Practice Point 2.1.5: For albuminuria monitoring of people
+with CKD, a doubling of the ACR on a subsequent test
+exceeds laboratory variability and warrants evaluation.
+Small ﬂuctuations in albuminuria or proteinuria levels
+may not indicate disease progression. Appreciation of factors
+that impact albuminuria and changes in the measure is
+important for healthcare providers. Routine surveillance us-
+ing ACR or PCR is warranted in higher risk people with CKD,
+as changes in urine ACR are associated with kidney failure.
+Speciﬁcally, in large population studies, a doubling of the
+ACR within a 2-year duration is associated with an increase in
+the risk of progression to kidney failure by 50%–100%.391,392
+Albuminuria categories
+Description and range
+GFR categories (ml/min/1.73 m2)
+Description and range
+A1
+G1
+≥90
+G2
+60–89
+G3a
+45–59
+G3b
+30–44
+G4
+15–29
+G5
+<15
+Kidney failure
+Severely decreased
+Moderately to
+severely decreased
+Mildly to
+moderately decreased
+Mildly decreased
+Normal or high
+A2
+A3
+Normal to mildly
+increased
+Moderately
+increased
+Severely
+increased
+<30 mg/g
+<3 mg/mmol
+Screen
+1
+Screen
+1
+Treat
+1
+Treat
+1
+Treat
+3
+Treat
+3
+Treat
+1
+Treat
+2
+Treat
+2
+Treat
+3
+Treat
+3
+Treat
+3
+Treat*
+3
+Treat
+4+
+Treat*
+3
+Treat
+4+
+Treat
+4+
+Treat
+4+
+30–299 mg/g
+3–29 mg/mmol
+≥300 mg/g
+≥30 mg/mmol
+CKD is classified based on:
+• Cause (C)
+• GFR (G)
+• Albuminuria (A)
+Low risk (if no other markers of kidney disease, no CKD)
+Moderately increased risk
+High risk
+Very high risk
+Figure 13 | Frequency of monitoring glomerular ﬁltration rate (GFR) and albuminuria in people with chronic kidney disease (CKD).
+Albuminuria and GFR grid reﬂects the risk of progression by intensity of coloring (green, yellow, orange, red, and deep red). The numbers in the
+boxes are a guide to the frequency of monitoring (number of times per year). Reproduced from de Boer IH, Khunti K, Sadusky T, et al. Diabetes
+management in chronic kidney disease: a consensus report by the American Diabetes Association (ADA) and Kidney Disease: Improving Global
+Outcomes (KDIGO). Kidney Int. 2022;102:974–989.29 Copyright ª 2022, International Society of Nephrology, American Diabetes Association, and
+KDIGO. Published by Elsevier Inc. and American Diabetes Association. All rights reserved.
+www.kidney-international.org
+chapter 2
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S197

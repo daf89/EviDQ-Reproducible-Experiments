@@ -1,0 +1,126 @@
+making should be a priority in the very old and frail. Together with man-
+agement of BP, a major consideration should also be whether reversible 
+causes of frailty can be addressed,609 e.g. by treating underlying co-
+morbidities or undergoing supervised muscle-strengthening physiother-
+apy or supervised exercise and co-ordination and balance training.703 
+9.3.3. Starting blood pressure-lowering treatment in 
+very old or frail patients 
+All patients must be fully informed about the benefits and risks of start-
+ing BP-lowering treatment, so that their preference is considered. 
+Among 34 hypertension guidelines, 18 recommended 150 mmHg as 
+the systolic goal in frailer and/or older patients, but four endorsed sys-
+tolic targets <130 mmHg or <120 mmHg.704 Treatment can be started 
+with a long-acting dihydropyridine calcium channel antagonist.596,705 
+To achieve BP control, an ACE inhibitor, or if contraindicated, an 
+ARB, can also be used. Thereafter, low-dose thiazides or thiazide-like 
+diuretics are preferred unless there is a specific contraindication, such 
+as gout, orthostatic hypotension, or disturbed micturition (including 
+micturition syncope).596,705 Beta-blockers are less desirable as they 
+reduce heart rate, cause fatigue, and increase the systolic pulse wave 
+amplitude, which is insufficiently buffered in stiff central elastic arteries. 
+Vasodilating beta-blockers and direct vasodilators (e.g. hydralazine and 
+minoxidil) are associated with increased risk of orthostasis. Though 
+data are conflicting,706 alpha-blockers are also considered less desirable 
+as they appear to be associated with an increased risk of orthostasis and 
+falls in very old patients (aged ≥85 years).707,708 Alpha-1 blockers, such 
+as doxazosin, prazosin, terazosin (also used to treat prostate symp-
+toms), are particularly prone to causing orthostasis.98 Once the appro-
+priate combination is found, a combination tablet with variable 
+composition of two agents may optimize adherence. Starting with com-
+bination therapy is not advised in most very old and/or frail patients, un-
+less BP is very high. 
+9.3.4. Maintaining blood pressure lowering in very old 
+or frail patients 
+If very old and frail patients tolerate BP-lowering treatment well, there 
+is no automatic need to deprescribe or discontinue treatment; how-
+ever, this should be kept under review. In the case of progressive frailty, 
+systolic BP tends to drop,709 such that deprescription of a BP-lowering 
+drug might become necessary. To identify candidate drugs for depre-
+scribing, a patient’s current medications should be reviewed to identify 
+BP-lowering drugs that may have become contraindicated due to con-
+comitant prescriptions or newly developed comorbidities.705 To help 
+guide deprescription of BP-lowering agents, ABPM can be used to de-
+tect orthostatic hypotension or a highly variable BP not buffered by 
+autonomic nervous reflexes.687,688 
+9.4. Isolated systolic and diastolic 
+hypertension 
+9.4.1. Definition of isolated systolic hypertension 
+Isolated systolic hypertension is typically defined as systolic BP of 
+≥140 mmHg with a diastolic BP of <90 mmHg. While isolated systolic 
+hypertension is uncommon in younger patients,713 it is the most common 
+type of hypertension in older patients; >80% of untreated patients with 
+hypertension aged >60 years have isolated systolic hypertension.714 
+9.4.2. Isolated systolic hypertension, risk factors, and 
+ageing 
+Systolic BP increases with age in men and women until the eighth dec-
+ade of life, while diastolic BP gradually increases up until the fifth or sixth 
+decade of life, after which it either plateaus or decreases. As a result, the 
+pulse pressure (the difference between the systolic and diastolic BP) 
+gradually widens from middle age.34 These BP changes are related to 
+increased aortic stiffening with age.715,716 
+Since most older patients with hypertension have isolated systolic 
+hypertension, and since with advancing age, risk of CVD events is driven 
+by systolic rather than diastolic BP,717 management of isolated systolic 
+hypertension in older adults is broadly in line with that of combined 
+systolic-diastolic hypertension seen in younger adults.718 Early isolated 
+Recommendation Table 23 — Recommendations for 
+managing hypertension in patients who are very old or 
+frail (see Evidence Table 41) 
+Recommendations 
+Classa 
+Levelb 
+It is recommended that treatment of elevated BP and 
+hypertension among older patients aged <85 years 
+who are not moderately to severely frail follows the 
+same guidelines as for younger people, provided 
+BP-lowering treatment is well tolerated.131,523,524 
+I 
+A 
+Continued 
+It is recommended to maintain BP-lowering drug 
+treatment lifelong, even beyond the age of 85 years, if 
+well tolerated.523–525 
+I 
+A 
+Because the benefit in reducing CVD outcomes is 
+uncertain in these settings, and noting that close 
+monitoring of treatment tolerance is advised, 
+BP-lowering treatment should only be considered 
+from ≥140/90 mmHg among persons meeting the 
+following criteria: pre-treatment symptomatic 
+orthostatic hypotension, age ≥85 years, clinically 
+significant moderate-to-severe frailty, and/or limited 
+predicted lifespan (<3 years).131,524,526,527 
+IIa 
+B 
+As the safety and efficacy of BP treatment is less 
+certain in individuals with moderate or severe frailty, 
+clinicians should consider screening older adults for 
+frailty using validated clinical tests; frail patients’ 
+health priorities and a shared-decision approach 
+should be considered when deciding on BP 
+treatments and targets.523,524,613,710 
+IIa 
+C 
+When initiating BP-lowering treatment for patients 
+aged ≥85 years, and/or with moderate-to-severe 
+frailty (at any age), long-acting dihydropyridine CCBs 
+or RAS inhibitors should be considered, followed if 
+necessary by low-dose diuretic if tolerated, but 
+preferably not a beta-blocker (unless compelling 
+indications exist) or an alpha-blocker.711 
+IIa 
+B 
+If BP drops with progressing frailty, deprescription of 
+BP-lowering medications (and other drugs that can 
+reduce BP, such as sedatives and prostate-specific 
+alpha-blockers) may be considered.712 
+IIb 
+C 
+© ESC 2024
+BP, blood pressure; CCB, calcium channel blocker; CVD, cardiovascular disease; RAS, 
+renin–angiotensin system. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3973 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

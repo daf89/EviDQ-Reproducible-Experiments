@@ -1,0 +1,131 @@
+may be induced through delaying, not performing, or
+providing
+suboptimal
+diagnostic/therapeutic
+imaging
+procedures due to fear of contrast-associated complications
+to people with reduced GFR.811,812 Table 33813 describes the
+potential causes of CA-AKI identiﬁed in available studies that
+may suggest an approach to people with CKD.
+4.4.1 Radiocontrast: intra-arterial and intravenous dye studies
+Practice Point 4.4.1.1: Assess the risk for AKI in people
+with CKD receiving intra-arterial contrast for cardiac
+procedures using validated tools.
+The reported risk of CA-AKI is higher with procedures
+involving arterial administration compared with venous
+administration of contrast.814 This difference in risk may be
+due to differences in patient populations (those who require
+arterial contrast are
+likely
+to have comorbidities that
+increase the likelihood of AKI) or to differences in the
+nephrotoxicity of intra-arterial contrast material.
+Known risk factors for CA-AKI are advanced age, heart
+failure, the volume of contrast material, proteinuria, hyper-
+glycemia, and use of RASi.815 The highest risk for AKI is
+associated
+with
+interventional
+(rather
+than
+diagnostic)
+coronary angiography (particularly in the setting of acute
+myocardial infarction). This may relate to the higher
+volume of contrast used in interventional procedures and
+hemodynamic
+instability
+associated
+with
+the
+clinical
+situation.815–817
+Practice Point 4.4.1.2: The intravenous administration of
+radiocontrast media can be managed in accordance with
+consensus statements from the radiology societies in people
+with AKI or GFR <60 ml/min per 1.73 m2 (CKD G3a–G5)
+undergoing elective investigation.
+The Work Group refers the reader to the most recent
+radiology guidelines speciﬁcally noting the difference between
+intravenous and intra-arterial radiocontrast:
+ Use of low-osmolality contrast media and iso-osmolarity
+contrast media
+ Use of minimum radiocontrast dose to achieve a diagnostic
+study
+ Withdrawal of nonessential potentially nephrotoxic medi-
+cations (e.g., NSAIDs, diuretics, aminoglycosides, ampho-
+tericin, platins, zoledronate, and methotrexate) in people
+with AKI or eGFR <30 ml/min per 1.73 m2 for 24–48
+hours before and 48 hours after radiocontrast exposure
+ In people with eGFR >30 ml/min per 1.73 m2 and without
+evidence of AKI, metformin need not be stopped before
+iodinated contrast media (ICM) administration, and there
+is no need for testing to evaluate GFR afterward. For people
+with AKI or an eGFR #30 ml/min per 1.73 m2, it remains
+appropriate to stop metformin at the time of or before ICM
+injection and should not be restarted for at least 48 hours
+and only then if GFR remains stable and the ongoing use of
+metformin has been reassessed by the clinical team.818
+ Given the lack of strong evidence demonstrating that
+continuing RAASi is beneﬁcial, referring healthcare pro-
+viders should consider withholding RAASi in people at risk
+for $48 hours before elective contrast-enhanced CT to
+avoid the potential for hypotension and hyperkalemia
+should CA-AKI develop. RAASi may be restarted if CA-AKI
+does not occur or after the return of GFR to baseline.
+ Consideration of avoiding dehydration for people not un-
+dergoing dialysis and who have eGFR <30 ml/min per 1.73
+m2 or AKI and receiving intravenous contrast.815,819
+ Use of N-acetylcysteine, ascorbic acid, furosemide, dopa-
+mine, fenoldopam, or calcium channel blockers as pre-
+ventative measures of CA-AKI has not been shown to be a
+consistent beneﬁt.813
+ Prophylactic pericontrast hemodialysis has been shown to
+be potentially harmful and is not recommended.813
+Special considerations
+Global access to contrast agents. The preference of contrast
+agent may depend on availability and cost, particularly in
+lower-income countries and lower-middle–income countries.
+4.4.2 Gadolinium-containing contrast media
+Gadolinium chelates used during magnetic resonance imag-
+ing has previously been reported to cause nephrogenic sys-
+temic ﬁbrosis (NSF) before 2010, and the mechanisms have
+been articulated.820 Note that incidence of this condition has
+not been reported later than 2012, thus raising the question as
+to the true risk of this condition.821
+Practice Point 4.4.2.1: For people with GFR <30 ml/min
+per 1.73 m2 (CKD G4–G5) who require gadolinium-con-
+taining contrast media, preferentially offer them American
+College of Radiology group II and III gadolinium-based
+contrast agents.
+People who are at greatest risk for NSF include those with
+AKI, undergoing KRT, and those with CKD G4–G5. Most
+unconfounded cases have been associated with American
+College of Radiology group I gadolinium-based contrast
+Table 33| Potential risk factors for contrast-associated acute
+kidney injury
+Patient-associated
+Procedure-associated
+Reduced GFR, acute or chronica
+High-osmolar contrast
+Diabetes mellitusb
+Large volume of contrast
+Reduced intravascular volume
+Serial contrast procedures
+Concomitant nephrotoxic medications
+Intra-arterial procedures
+GFR, glomerular ﬁltration rate.
+aDeﬁned as estimated glomerular ﬁltration rate <45 ml/min per 1.73 m2 with other
+risk factors or eGFR <30 ml/min per 1.73 m2.
+bAugments risk in people with underlying kidney function impairment.
+Reproduced from Cashion W, Weisbord SD. Radiographic contrast media and
+the kidney. Clinical Journal of the American Society of Nephrology, volume 17, issue 8,
+pages 1234–1242.813 https://journals.lww.com/cjasn/fulltext/2022/08000/radiographic_
+contrast_media_and_the_kidney.20.aspx. Copyright ª 2022 by the American Society
+of Nephrology. The Creative Commons license does not apply to this content. Use
+of the material in any format is prohibited without written permission from the
+publisher, Wolters Kluwer Health, Inc. Please contact permissions@lww.com for
+further information.
+www.kidney-international.org
+chapter 4
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S253

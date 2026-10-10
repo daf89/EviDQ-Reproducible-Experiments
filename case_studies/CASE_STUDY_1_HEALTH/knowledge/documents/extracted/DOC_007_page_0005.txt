@@ -1,0 +1,91 @@
+S259
+Table 38. Management strategies for common symptoms in CKD
+S261
+Table 39. List of validated assessment tools for malnutrition
+S262
+Table 40. Key features of existing CKD care models
+S266
+Table 41. Indications for the initiation of dialysis
+S267
+Table 42. Studies examining the timing of dialysis in people with CKD
+S268
+Table 43. People with kidney failure who receive comprehensive conservative care
+S275
+Table 44. Clinical questions and systematic review topics in PICOS format
+S280
+Table 45. Classiﬁcation for certainty of evidence
+S280
+Table 46. GRADE system for grading the certainty of evidence
+S281
+Table 47. KDIGO nomenclature and description for grading recommendations
+S281
+Table 48. Determinants of the strength of recommendation
+FIGURES
+S136
+Figure 1.
+Associations of chronic kidney disease (CKD) staging by estimated glomerular ﬁltration rate by
+creatinine and cystatin C (eGFRcr-cys) and albumin-to-creatinine ratio (ACR) categories and risks for
+10 common complications by age in multivariable-adjusted analyses
+S138
+Figure 2.
+Age-standardized chronic kidney disease disability-adjusted life-year (DALY) rates for each location by
+sociodemographic index, both sexes combined, 2019
+S139
+Figure 3.
+Screening algorithm for diagnosis and staging of chronic kidney disease (CKD) in adults
+S141
+Figure 4.
+Special considerations for chronic kidney disease (CKD) care across the lifespan
+S145
+Figure 5.
+Associations of chronic kidney disease (CKD) staging by estimated glomerular ﬁltration rate by
+creatinine (eGFRcr) and albumin-to-creatinine ratio (ACR) categories and risks for 10 common
+complications in multivariable-adjusted analyses
+S146
+Figure 6.
+Associations of chronic kidney disease (CKD) staging by estimated glomerular ﬁltration rate by
+creatinine and cystatin C (eGFRcr-cys) and albumin-to-creatinine ratio categories and risks for 10
+common complications in multivariable-adjusted analyses
+S147
+Figure 7.
+Hazard ratios for adverse outcomes using the continuous model of estimated glomerular ﬁltration rate
+(eGFR), comparison of the shape of associations between creatinine-based eGFR (eGFRcr) and
+creatinine and cystatin C–based eGFR (eGFRcr-cys) in the population with cystatin C (eGFRcr-cys
+population)
+S173
+Figure 8.
+Evaluation of cause of chronic kidney disease (CKD)
+S174
+Figure 9.
+Actionable genes in kidney disease
+S175
+Figure 10. Proposed organization for implementing genetics in nephrology
+S177
+Figure 11. Approach to glomerular ﬁltration rate (GFR) evaluation using initial and supportive tests
+S182
+Figure 12. Sources and magnitude of error around measured glomerular ﬁltration rate (mGFR) and estimated GFR
+(eGFR)
+S197
+Figure 13. Frequency of monitoring glomerular ﬁltration rate (GFR) and albuminuria in people with chronic
+kidney disease (CKD)
+S199
+Figure 14. (a) Predicted risk of kidney failure and (b) ‡40% decline in estimated glomerular ﬁltration rate (eGFR)
+by chronic kidney disease (CKD) eGFR (G1–G5) and albumin-to-creatinine ratio (ACR) (A1–A3)
+categories in Optum Labs Data Warehouse
+S201
+Figure 15. Transition from an estimated glomerular ﬁltration rate (eGFR)-based to a risk-based approach to
+chronic kidney disease care
+S202
+Figure 16. Comparison of risk of chronic kidney disease (CKD) progression (5-year probability of estimated
+glomerular ﬁltration rate [eGFR] <60 ml/min per 1.73 m2) versus kidney failure in adults with CKD G1–
+G2 calculated from the risk equation available at https://www.ckdpc.org/risk-models.html
+S205
+Figure 17. Chronic kidney disease (CKD) treatment and risk modiﬁcation
+S206
+Figure 18. Holistic approach to chronic kidney disease (CKD) treatment and risk modiﬁcation
+S208
+Figure 19. Protein guideline for adults with chronic kidney disease not treated with dialysis
+contents
+www.kidney-international.org
+S120
+Kidney International (2024) 105 (Suppl 4S), S117–S314

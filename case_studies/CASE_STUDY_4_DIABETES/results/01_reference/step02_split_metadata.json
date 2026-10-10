@@ -1,0 +1,33 @@
+{
+    "case_study": "CASE_STUDY_4_DIABETES",
+    "step": "STEP_02_DATA_SPLIT",
+    "created_utc": "2026-09-27T16:02:32.248570+00:00",
+    "dataset_ref": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\data\\reference\\Dataset_REF.csv",
+    "dataset_ref_sha256": "43b6df3b2bb01723f93555969194a0712cf5319df1a74ecb1c8f4f56f0c23a1e",
+    "split_assignment_file": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\01_reference\\step02_split_assignment.csv",
+    "split_assignment_sha256": "d73c2d002470e090517582f2cccc9b1c074c130458d45b6482ba5cdcc5b4f497",
+    "target": "Outcome",
+    "features": [
+        "Pregnancies",
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "random_state": 42,
+    "stratification_variable": "Outcome",
+    "train_ratio_requested": 0.6,
+    "validation_ratio_requested": 0.2,
+    "test_ratio_requested": 0.2,
+    "train_n": 460,
+    "validation_n": 154,
+    "test_n": 154,
+    "test_usage_policy": "TEST is reserved for final frozen experimental comparisons and must not be used for SHAP feature selection or candidate-action selection.",
+    "missing_values_imputed": false,
+    "missing_values_injected": false,
+    "rows_deleted": 0,
+    "dq_intervention_applied": false
+}

@@ -1,0 +1,110 @@
+
+
+===== PDF PAGE 175 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-15 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1), Continued 
+ 
+ 
+ 
+Core questions 
+on tobacco use 
+The tobacco-related questions recommended for the STEPS approach are 
+based on the WHO guidelines for tobacco use surveillance, and are aligned 
+with the Tobacco Questions for Surveys (TQS). 
+ 
+Even though in some countries it is mostly men who smoke, women as well 
+as men must be asked these questions. 
+ 
+The core questions in the STEPS Instrument ask about: 
+ 
+• current smoking 
+• daily smoking 
+• age when starting smoking 
+• number of items smoked per day/week 
+• quit attempts 
+• past smoking 
+• current use of smokeless tobacco 
+• daily use of smokeless tobacco 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• T1: If a person does not currently smoke, go to the questions on past 
+smoking (T8); 
+• T3: If a smoker knows the age when he/she started smoking, T4a-c ("how 
+long ago was this?") can be skipped; 
+• T5a/aw-T5other: current (non-daily) smokers are only asked about their 
+weekly smoking of each item. For daily smokers, where any item is smoked 
+less than daily, they are asked about their weekly smoking of that item; 
+• T7: Daily smokers can skip over all questions on past smoking (T8-T11), 
+while current (non-daily) smokers are asked if they ever smoked daily in the 
+past (T9) and skip the other questions related to past smoking; 
+• T8: Respondents that have never smoked in the past and are not current 
+smokers are not asked any other question on past smoking (T9-T11); 
+• T12: If a person does not use smokeless tobacco, go to T15 (past use of 
+smokeless tobacco). 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 176 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-16 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1), Continued 
+ 
+ 
+ 
+Expanded 
+questions on 
+tobacco use 
+The expanded tobacco questions focus on past smoking, the number of times 
+smokeless tobacco is used and on exposure to smoke and include questions on 
+ 
+• age stopped smoking 
+• number of times smokeless tobacco is used per day/week 
+• past use of smokeless tobacco 
+• passive smoking. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• T10: If a past daily smoker knows the age when he/she stopped smoking, 
+T11a-c ("how long ago was this?") can be skipped; 
+• T14a/aw-T14other: current (non-daily) users are only asked about their 
+weekly use of each item. For daily users, where any item is used less than 
+daily, they are asked about their weekly use of that item; 
+• T14a-other: Daily users of smokeless tobacco can skip over the questions    
+on past use (T15-T16), while current (non-daily) users are asked if they ever 
+used tobacco daily in the past (T16), but skip the  question  on past  use 
+(T15); 
+• T15: Respondents that have never used smokeless tobacco products in the 
+past are not asked about their daily use in the past (T16). 
+ 
+ 
+ 
+Use of 
+smokeless 
+tobacco 
+In some settings, smokeless tobacco will be more prevalent than smoking 
+tobacco. For these settings, it is strongly recommended to include all 
+expanded questions on smokeless tobacco use. 
+ 
+ 
+ 
+ 
+Tobacco use 
+show card 
+See Part 5, Section 3 for a list of tobacco products as well as tobacco show 
+cards. It is recommended that countries develop their own show cards 
+displaying country specific examples of tobacco products. 
+ 
+Continued on next page 

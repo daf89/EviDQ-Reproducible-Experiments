@@ -1,0 +1,68 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+37. 
+Office of the National Coordinator for Health Information Technology, United States Core Data 
+For Interoperability Draft Version 3 (January 2022). 2022. Available from: 
+https://www.healthit.gov/isa/sites/isa/files/2022-01/Draft-USCDI-Version-3-January-2022
+Final.pdf. 
+38. 
+Agency for Healthcare Research and Quality, Primary Care Practice Facilitation Curriculum. 2015, 
+Agency for Healthcare Research and Quality. Available from: 
+https://www.ahrq.gov/ncepcr/tools/transform-qi/deliver-facilitation/curriculum/index.html. 
+39. 
+Agency for Healthcare Research and Quality, Primary Care Practice Facilitation Curriculum. 
+Module 17. 2015, Agency for Healthcare Research and Quality: Rockville, MD. Available from: 
+https://pcmh.ahrq.gov/page/primary-care-practice-facilitation-curriculum. 
+40. 
+Office of the National Coordinator for Health Information Technology, Capturing High Quality 
+Electronic Health Records Data to Support Performance Improvement: A Learning Guide. 2013. 
+Available from: https://www.healthit.gov/sites/default/files/onc-beacon-lg3-ehr-data-quality
+and-perform-impvt.pdf. 
+41. 
+Oregon Health and Science University. SBIRT Oregon. Available from: 
+http://www.sbirtoregon.org/. 
+42. 
+The American Health Information Management Association, Information Governance Toolkit 
+2015, The American Health Information Management Association. 
+43. 
+U.S. Department of Health and Human Services. The HIPAA Privacy Rule. Available from: 
+https://www.hhs.gov/hipaa/for-professionals/privacy/index.html. 
+44. 
+Substance Abuse and Mental Health Services Administration. Substance Abuse Confidentiality 
+Regulations Available from: https://www.samhsa.gov/about-us/who-we-are/laws
+regulations/confidentiality-regulations-faqs 
+45. 
+U.S. Department of Education. Family Educational Rights and Privacy Act (FERPA). Available 
+from: https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html 
+46. 
+HL7 International. Welcome to FHIR®. Available from: https://www.hl7.org/fhir/. 
+47. 
+Barbara H. Gregory, Cheryl Van Horn, and V.S. Kaprielian, Eight Steps to a Chart Audit for 
+Quality. Family Practice Management, 2008. 
+48. 
+Agency for Healthcare Research and Quality, Primary Care Practice Facilitation Curriculum. 
+Module 14, Appendix 14A. 2015, Agency for Healthcare Research and Quality. Available from: 
+https://www.ahrq.gov/sites/default/files/wysiwyg/ncepcr/tools/PCMH/pcpf-module-14
+collecting-performance-data.pdf. 
+49. 
+Agency for Healthcare Research and Quality, Practice Facilitation Handbook, Module 8 Appendix 
+C. Agency for Healthcare Research and Quality. Available from: 
+https://www.ahrq.gov/ncepcr/tools/pf-handbook/mod8-appendixc.html. 
+50. 
+Wright, A., et al., A Description and Functional Taxonomy of Rule-based Decision Support 
+Content at a Large Integrated Delivery Network. Journal of the American Medical Informatics 
+Association, 2007. 14(4): p. 489-496. 
+51. 
+Wright, A., et al., Development and evaluation of a comprehensive clinical decision support 
+taxonomy: comparison of front-end tools in commercial and internally developed electronic 
+health record systems. J Am Med Inform Assoc, 2011. 18(3): p. 232-42. 
+52. 
+Sutton, R.T., et al., Anoverview of clinical decision support systems: benefits, risks, and strategies 
+for success. npj Digital Medicine, 2020. 3(1): p. 17. 
+53. 
+Agency for Healthcare Research and Quality, Integrating Patient-Generated Health Data into 
+Electronic Health Records in Ambulatory Care Settings: A Practical Guide. 2021: Agency for 
+Healthcare Research and Quality. Available from: 
+https://digital.ahrq.gov/sites/default/files/docs/citation/pghd-practical-guide.pdf. 
+Health IT Advisor Handbook 
+Page 144

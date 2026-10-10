@@ -1,0 +1,139 @@
+Very low–protein diets are usually vegetarian or vegan diets
+and may risk deﬁciencies of some essential amino acids. A
+strategy to counteract this is the addition of supplements of
+essential amino acids or precursors of essential amino acids (i.e.,
+ketoacid analogs). By lacking the amino group, ketoacid analogs
+serve as substrates for protein synthesis without the production
+of toxic nitrogenous waste products. Limitations of ketoacid
+analogs are, however, high pill burden and high cost. Fifteen
+months of strict adherence to vegetarian very low–protein diets
+of 0.3 g/kg body weight/d supplemented with 0.125 g/kg body
+weight/d of ketoacids in people with an average eGFR of 18 ml/
+min per 1.73 m2 at baseline slowed the decline in eGFR,
+increased bicarbonate levels, and reduced the need for KRT
+compared with a control group that ate a mixed-protein diet of
+0.6 g/kg body weight/d.479 A recent pragmatic trial was not able
+to reproduce this ﬁnding,480 potentially attributed by the
+authors to challenges in patient compliance with the treatment.
+There is concern that low-protein and very low–protein diets
+may result in malnutrition. However, in the meta-analysis by
+Hahn et al.,477 12 studies reported no evidence of malnutrition
+in their study participants, whereas 3 studies reported small
+numbers
+of
+participants
+in
+each
+arm with worsening
+nutritional status. The estimated average requirement for
+protein intake in adults is approximately 0.5–0.6 g/kg body
+weight/d, which corresponds to the amount of protein
+required to avoid negative nitrogen balance.456 Thus under
+correct supervision, these diets may not lead to malnutrition.
+Malnutrition may arise if the reduction in protein is followed
+by a reduction in energy intake. This may be preventable by
+adequate patient education on food choices and close
+supervision
+by
+renal
+dietitians
+or
+accredited
+nutrition
+specialists. A patient-centered approach involves a shared
+understanding of treatment goals, effective communication to
+alleviate anxieties around food or food misconceptions,
+individualized
+advice
+that
+matches
+cultural
+values
+and
+preferences, and assistance with implementation of dietetic
+advice in the face of a large symptom burden.
+Some of the trials on low-protein diets were conducted
+before treatment with RASi was introduced, and all of them
+before the SGLT2i era. Because the mechanism of action of
+these medications and that of low-protein and very low–
+protein diets are complementary, it has been postulated that
+these strategies may synergize and maximize their combined
+effect on delaying CKD progression.475,481,482 Studies are
+needed to demonstrate this hypothesis.
+Low- or very low–protein diets are not indicated in people
+who are metabolically unstable or during periods of metabolic
+instability. This includes conditions that may exacerbate the
+risk of malnutrition in the context of low-protein intake, such
+as sarcopenia, cachexia, active inﬂammatory or infectious
+diseases, periods of hospitalization or the early postoperative
+period, poorly controlled diabetes, consumptive diseases such
+as cancer, treatment of antibiotic or immunosuppressive
+medications, and signiﬁcant short-term loss of body weight.
+Certainty of evidence. The certainty of evidence was moder-
+ate that there was little to no difference in the critical outcome of
+all-cause death and kidney failure prevention when comparing
+very low–protein to low- or normal-protein diets, and moderate
+that there was some beneﬁt to the critical outcome of kidney
+failure for the comparisonof very low–protein diets with low- or
+normal-protein diets as demonstrated by the wide CIs for these
+outcomes including potential for important beneﬁts and harms.
+In addition, there was important and unexplained heterogeneity
+present. It is uncertain whether low- or very low–protein diets
+impact a change in GFR.
+The certainty of evidence was very low when comparing low-
+proteintonormal-proteindietsforachangeinGFRandlowwhen
+comparingverylow–proteintolow-ornormal-proteindiets.This
+is because the CIs included potential for important beneﬁts and
+harms. There was important and unexplained heterogeneity
+present; the outcome was reported as a surrogate outcome; and
+there was unclear allocation concealment in 4 studies.
+The overall certainty of evidence for the remaining out-
+comes was very low because of increased risk of bias and
+small studies with wide CIs. In addition, many studies were
+unclear
+about
+allocation
+concealment/random
+sequence
+generation, and had signiﬁcant, unexplained heterogeneity,
+wide CIs for important beneﬁts and harms, and use of sur-
+rogate outcomes.
+Values and preferences. The Work Group judged that some
+clinically suitable people would choose to implement a diet
+with protein of 0.8 g/kg body weight/d unless there are
+conditions that contraindicate such as sarcopenia, cachexia,
+or undernutrition. In addition, the Work Group judged that
+protein restriction would be implemented by many people as
+a way of managing their kidney disease. It will also have an
+impact on overall QoL with the adoption of a more plant-
+based diet; however, there may be challenges with imple-
+menting and adhering to these changes.
+Resource use and costs. The risks, beneﬁts, resource use,
+and costs of dietary protein interventions should be consid-
+ered when treating people with CKD. The Work Group
+considered that plant-based proteins could have a cost-beneﬁt
+effect compared with animal-based protein, but evidence in
+this topic remains limited.
+Considerations
+for
+implementation. Protein
+restriction
+without support and advice from renal dietitians or other
+accredited nutrition providers may result in low dietary di-
+versity and limited food choices, adversely impacting QoL
+and altering fundamental components of a person’s culture
+and daily life. The use of culturally appropriate foods that are
+more familiar to people, nutritional status, goals of care, QoL,
+and patient preferences should be considered in the imple-
+mentation of these recommendations and practice points.
+Rationale
+The Work Group suggests dietary protein interventions based
+on consideration of the possible beneﬁts of plant-based foods,
+kidney protection, and avoidance of adverse effect of unsu-
+pervised protein restriction. People with CKD not on dialysis
+with or without diabetes may opt for some degree of dietary
+protein moderation, especially as control of dietary intake
+chapter 3
+www.kidney-international.org
+S210
+Kidney International (2024) 105 (Suppl 4S), S117–S314

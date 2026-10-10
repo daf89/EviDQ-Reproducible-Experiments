@@ -1,0 +1,77 @@
+37
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-10 Le patient est informé des dispositifs 
+médicaux qui lui sont implantés durant son séjour 
+et reçoit les consignes de suivi appropriées
+En application du règlement européen 2017/745 du 5 avril 2017 (article 18) relatif aux dispositifs médicaux 
+implantables, la carte d’implant est fournie au patient pour les dispositifs médicaux qui lui sont implantés 
+pendant son séjour. Cette carte mentionne les éléments suivants :
+•  les informations permettant l’identification du dispositif, dont le nom, le numéro de série, le numéro 
+de lot, l’IUD, le modèle du dispositif, ainsi que le nom, l’adresse et le site Internet du fabricant ;
+•  les mises en garde, précautions ou mesures à prendre par le patient ou par un professionnel de santé 
+à l’égard des interférences réciproques avec des sources ou conditions d’environnement extérieures 
+ou des examens médicaux raisonnablement prévisibles ;
+•  toute information sur la durée de vie prévue du dispositif et le suivi éventuellement nécessaire ;
+•  toute autre information destinée à garantir l’utilisation sûre du dispositif par le patient, notamment 
+les informations quantitatives et qualitatives générales sur les matériaux et substances auxquels les 
+patients sont susceptibles d’être exposés. 
+•  L’ensemble des informations est noté dans ses différents dossiers.
+ Chirurgie et interventionnel Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient a été préalablement informé avant la pose du 
+dispositif médical implantable.
+• Le patient est informé des mises en garde, précautions 
+ou conduites à tenir en cas d’incident et reçoit toute 
+autre information destinée à garantir l’utilisation sûre 
+du dispositif.
+ Professionnels 
+• La carte d’implant contenant toutes les informations 
+liées au dispositif médical implanté est prête pour être 
+remise au patient à sa sortie.
+• La pose du dispositif médical implantable, son 
+identification et l’information du patient sont tracées :
+– dans le dossier du patient ;
+– dans la lettre de liaison et/ou les documents de 
+sortie ;
+– et, s’ils existent, dans le dossier médical de Mon 
+espace santé (DMP) et le dossier pharmaceutique.
+Patient traceur
+Fiches pédagogiques 
+Évaluation des secteurs interventionnels.
+Références légales
+et réglementaires
+• Règlement (UE) 2017/745 du Parlement 
+européen et du Conseil du 5 avril 2017.
+• Décret n° 2006-1497 fixant les règles 
+particulières de la matériovigilance exercée sur 
+certains dispositifs médicaux.
+• Instruction n° DGOS/PF2/2014/158 
+du 19 mai 2014 : enquête nationale sur 
+l’organisation de la traçabilité sanitaire des DMI 
+dans les ETS publics ou privés MCO.
+• Instruction n° DGOS/PF2/2015/200 
+du 15 juin 2015 : propositions d’axes d’amélio
+ration à la suite de la synthèse des résultats 
+nationaux.
+• Arrêté du 26 janvier 2007 précisant la liste des 
+DM soumis aux règles particulières 
+de traçabilité.
+• Décret n° 2002-637 du 29 avril 2002 relatif à 
+l’accès aux informations personnelles détenues 
+par les professionnels et les établissements 
+de santé.
+• Décret n° 2016-995 du 20 juillet 2016 relatif 
+aux lettres de liaison.
+• Article L. 1111-23 pour DMI dans DP.
+Autre référence
+• Guide de traçabilité de dispositifs médicaux, 
+Édition 2016, Europharmat.

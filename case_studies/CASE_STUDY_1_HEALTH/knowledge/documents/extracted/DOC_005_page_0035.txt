@@ -1,0 +1,66 @@
+35
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-08 Le patient a pu désigner la personne 
+à prévenir et la personne de confiance de son choix
+La réglementation prévoit l’identification dans le dossier du patient d’une personne « à prévenir » et d’une 
+personne de confiance. La personne de confiance pourra accompagner le patient dans toute démarche 
+liée à sa santé et, s’il est hors d’état d’exprimer sa volonté, elle sera consultée en priorité pour l’exprimer. 
+Elle pourra recevoir l’information médicale à la place du patient. À ce titre, les professionnels de santé 
+peuvent recourir à la personne de confiance, notamment lorsque le patient a des troubles cognitifs. Cette 
+identification est réalisée le plus en amont possible et par anticipation des situations de crise, notamment 
+en psychiatrie.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient est informé de la possibilité de désigner une 
+personne à prévenir et une personne de confiance.
+ Professionnels 
+• Le professionnel informe le patient du rôle de la personne 
+de confiance et lui suggère de porter ces informations 
+auprès de la personne qu’il aura choisie.
+• La remise d’information et l’identité de la personne à 
+prévenir et de la personne de confiance sont tracées dans 
+le dossier. 
+Patient traceur
+• e-Satis + 48h MCO (questions ad hoc).
+• e-Satis MCOCA (questions ad hoc).
+• e-Satis SSR (questions ad hoc)
+• Qualité de la lettre de sortie MCO.
+• Qualité de la lettre de sortie chirurgie 
+ambulatoire.
+• Qualité de la lettre de sortie SSR.
+• Qualité de la lettre de sortie PSY.
+Fiches pédagogiques 
+Évaluation de la gestion des droits des 
+patients.
+Évaluation de la prise en charge des 
+patients privés de liberté du fait d'un séjour 
+en milieu carcéral.
+Références HAS
+Délivrance de l’information à la personne 
+sur son état de santé, Principes généraux, 
+2012.
+Références légales 
+et réglementaires
+• Art. L. 1111-6 et R. 1112-3 du CSP.
+• Loi n° 2002-303 du 4 mars 2002 relative 
+aux droits des malades et à la qualité du 
+système.
+• Décret n° 2002-637 du 29 avril 2002 
+relatif à l’accès aux informations 
+personnelles détenues par les 
+professionnels et les établissements de 
+santé en application des articles L. 1111-7.
+et L. 1112-1 du CSP, charte de la personne 
+hospitalisée.
+• Loi du 2 février 2016 créant de nouveaux 
+droits en faveur des malades et des 
+personnes en fin de vie.

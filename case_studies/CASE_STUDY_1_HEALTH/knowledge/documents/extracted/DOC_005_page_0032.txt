@@ -1,0 +1,70 @@
+32
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-06 Le patient bénéficie d’actions 
+pour devenir acteur de sa prise en charge
+Le bénéfice de l’implication du patient est démontré. Outre son information et son implication dans les 
+décisions concernant sa prise en charge, la prise en compte de ses attentes, de ses préférences et de son 
+expérience est favorisée par la mise en œuvre d’actions diverses (attitude des professionnels, association 
+dans la mise en œuvre de la prise en charge, formation [dont éducation thérapeutique formalisée] ou 
+simplement conseils des professionnels, par exemple l’aide aux premiers allaitements pour les femmes 
+qui le souhaitent).
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Patient 
+• Le patient se sent impliqué dans sa prise en charge (s’il le 
+souhaite).
+• Le patient sait ce qu’il peut faire pour gérer ses soins, 
+accélérer sa convalescence, éviter des complications.
+ Professionnels 
+• Si le patient fait l’objet de précautions complémentaires 
+pour risque de transmission d’agents infectieux, les raisons 
+et les règles d’application lui sont expliquées ainsi qu’à ses 
+visiteurs.
+• Le patient bénéficie d’actions d’information, d’actions 
+éducatives, de formations adaptées qui favorisent son 
+implication dans sa prise en charge.
+Patient traceur
+• e-Satis + 48h MCO (questions ad hoc).
+• e-Satis MCOCA (questions ad hoc).
+• e-Satis SSR (questions ad hoc).
+• e-Satis HAD (questions ad hoc).
+Fiches pédagogiques
+Évaluation de la prise en charge des 
+enfants et adolescents.
+Évaluation de l’engagement des usagers 
+et de l’expérience patients.
+Évaluation de la prise en charge des 
+personnes vivant avec un handicap.
+Prise en charge des situations sanitaires 
+exceptionnelles.
+Évaluation de la prise en charge des 
+personnes âgées.
+Références HAS
+Éducation thérapeutique du patient 
+(ETP) : évaluation de l’efficacité et de 
+l’efficience dans les maladies chroniques, 
+2018.
+Démarche centrée sur le patient : 
+information, conseil, éducation thérapeu
+tique, suivi, 2015.
+L’éducation thérapeutique du patient, 
+2014.
+Mise en œuvre de l’éducation thérapeu
+tique dans le cadre de l’expérimentation 
+PAERPA, 2014.
+Patient et professionnels de santé : 
+décider ensemble.
+Concept, aides destinées aux patients et 
+impact de la « décision médicale parta
+gée », 2013.
+Programme de soins psychiatriques sans 
+consentement - Outil n° 2 : Plan 
+Prévention.

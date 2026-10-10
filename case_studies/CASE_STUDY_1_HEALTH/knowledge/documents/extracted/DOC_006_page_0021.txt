@@ -1,0 +1,47 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+across programs can help the practice make sense of the multiple requirements that are 
+bombarding them and greatly assist in developing coherent action plans moving forward. 
+• 
+Build on intrinsic motivators ofteammembers. This includes autonomy, mastery, belonging, 
+and competition. Foster curiosity in the data. For instance, try asking “Which patients of yours 
+could we help if we focused on this measure?”. 
+• 
+Engage the patient voice. Most people in healthcare choose to work in this field to help people 
+and their community live happier, healthier lives. If a practice has a patient and family advisory 
+council, engage them in understanding and supporting the use of data in improving care in the 
+practice. 
+• 
+Provide feedback. Share data in a manner that allows the practice to advance multiple aspects 
+of their existing QI work. 
+• 
+Celebrate wins. Rarely do leaders take time to reflect on and celebrate success. It is easy to 
+gloss over seemingly small health IT wins such as a valid CQM report. Assist the practice in 
+developing a culture where wins are regularly celebrated and rewarded. 
+1.10 Establishing Clinical Protocols for EHR Data 
+Beyond CQM extraction, cleaning, use, and reporting, practices need clean data and efficient workflows 
+for other uses of their data. This is especially true for practices participating in advanced payment 
+models that incentivize population management, care management, longitudinal tracking of preventive 
+care, and avoidance of unnecessary expenditures. Health IT Advisors can help care teams increase 
+reliability of processes and decrease duplicated effort by ensuring data is thoughtfully embedded within 
+a practice’s operating protocols. There still are major deficiencies in clinical health IT systems, but Health 
+IT Advisors can help practices continue to chip away to achieve useful and desirable data resources. 
+Health IT Advisors have a role in: 
+• 
+Promoting reliableand discretedataentry. While EHRs are rapidly trying to improve their 
+interfaces, many documentation procedures remain so clunky that busy clinical teams often find 
+it easier to simply type their findings in free text fields. But for a data point to flow seamlessly 
+among multiple reports and over time, it needs to be in a discrete, searchable field. With 
+practices new to discrete data entry, consider data that have cross-cutting implications but 
+remain in a practice’s control like accurate documentation of repeat blood pressure readings, 
+entry of behavioral health screening results, and recording patient demographics like gender, 
+race, ethnicity, and language preference in a sensitive and affirming manner. 
+• 
+Codifying best practices. Once a team decides on a reliable workflow that involves data entry, 
+Health IT Advisors can help them embed that workflow into policies and training documents. 
+While these documents take an upfront lift toproduce, they can make it easier toonboard new 
+members and refresh memories when people fall back into old habits when new priorities 
+inevitably arise. Policies and procedures are important tools to sustain improvements in quality 
+and efficiency. 
+Health IT Advisor Handbook 
+Page 16

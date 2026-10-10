@@ -1,0 +1,58 @@
+{
+  "step": "STEP19_KB_STATISTICAL_CONSTRUCTION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-22T23:59:45.133526+00:00",
+  "processor": "Python / Jupyter",
+  "knowledge_base": "KB_STATISTICAL",
+  "construction_principle": "KB_STATISTICAL is constructed from statistical feature type and applicable control families, independently of anomalies observed in Dataset_REF.",
+  "f_rag": [
+    "registry_stage_code",
+    "icdo3_m_code",
+    "age_diag",
+    "administr_unit",
+    "mkb10_code"
+  ],
+  "counts": {
+    "features": 5,
+    "characterized_features": 3,
+    "unknown_features": 2,
+    "control_families": 12,
+    "applicable_feature_control_pairs": 15,
+    "kb_statistical_items": 15
+  },
+  "controls": {
+    "step18_used": true,
+    "dataset_ref_inspected": false,
+    "dataset_values_used": false,
+    "anomaly_detection_performed": false,
+    "missingness_measured": false,
+    "outlier_detection_performed": false,
+    "rarity_detection_performed": false,
+    "distribution_profiling_performed": false,
+    "error_established": false,
+    "correction_generated": false,
+    "correction_applied": false,
+    "dataset_modified": false,
+    "kb_document_used": false,
+    "rule_base_document_used": false,
+    "hidden_reference_used": false,
+    "external_knowledge_used": false,
+    "internet_used": false,
+    "gpt_used": false,
+    "new_control_family_created": false,
+    "new_statistical_type_created": false,
+    "if_then_rules_generated": false,
+    "unknown_feature_abstention_preserved": true
+  },
+  "outputs": {
+    "kb_statistical_csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\KB_STATISTICAL.csv",
+    "kb_statistical_jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\KB_STATISTICAL.jsonl",
+    "summary_by_feature": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step19_kb_statistical_construction\\tables\\Table_KB_STATISTICAL_By_Feature.csv",
+    "summary_by_control": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step19_kb_statistical_construction\\tables\\Table_KB_STATISTICAL_By_Control.csv",
+    "summary_by_type": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step19_kb_statistical_construction\\tables\\Table_KB_STATISTICAL_By_Type.csv"
+  },
+  "sha256": {
+    "KB_STATISTICAL.csv": "330f21d4a1461910f3afbe37429ca56b22d188ea3faaf91064543a47cbbcf9a9",
+    "KB_STATISTICAL.jsonl": "c6da780023c67467881ce05d32facfc5f9c0017bd40baf4ad80e965a605902af"
+  }
+}

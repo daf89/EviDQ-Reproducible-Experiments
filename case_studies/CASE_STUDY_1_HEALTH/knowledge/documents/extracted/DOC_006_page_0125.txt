@@ -1,0 +1,41 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+One: Engaged Leadership 
+Health IT Advisors will often provide performance data to clinic leadership to help them prioritize QI 
+projects and assess progress andoutcomes. The EHR is often the best source of these data, although 
+there are alternatives (see Section 4). 
+Two: Data-driven Improvement 
+The Use Cases in Section 3 of the handbook show how demographic, clinical, administrative, and 
+financial data managed by an EHR can support QI in two major ways: as a source of data and as a 
+platform for delivering interventions. 
+Three: Empanelment 
+Empanelment is the explicit assignment of individual patients to a provider or care team to create a 
+cohort, or patient panel. EHRs often include this information by capturing demographic fields (primary 
+care physician; care team) that can be used to attribute performance and accountability to 
+organizations, groups, or individual clinicians. 
+Four: Team Based Care 
+The EHR is an essential tool not only to support, but to facilitate, team-based care. For example, the use 
+of an EHR to communicate and coordinate between healthcare providers increasingly includes roles 
+outside of the traditional provider/medical assistant dyad, including care coordinators, health 
+navigators, behavioral health clinicians, social and community service providers. 
+Five: Patient-Team Partnership 
+The EHR is becoming central to establishing andmaintaining patient-teamrelationships. An EHR portal 
+provides patients with a technology platform that allows access to their medical record, secure 
+messaging, delivery of test results, tailored educational materials, preventive care reminders, and the 
+option to collect and incorporate questionnaires and biometric data. 
+Six: Population Management 
+The EHR can be used to identify, assess, and monitor populations (or cohorts) defined by specific 
+characteristics,needs, orhealthconditions. EHR or third-party population healthtools can identify and 
+manage cohorts based on demographics, medical or social conditions and risk factors, gaps in 
+preventative care delivery, test results, insurance coverage by a specific payer, empanelment and payer 
+attribution, and other criteria for targeting and measuring QI. 
+Seven: Continuity ofCare 
+EHRs, aidedby HealthInformation Exchanges, are getting better at exchanging data. While data siloes 
+(isolated islands of patient data) still exist, it is now possible for EHR users tosee much of a patient’s 
+medical data regardless of the provider and EHR vendor they use. Examples include immediate 
+notification of acute care episodes, delivery of structured electronic discharge summaries, and adding 
+two-way communication between providers for referrals and transitions of care. 
+Health IT Advisor Handbook 
+Page 120

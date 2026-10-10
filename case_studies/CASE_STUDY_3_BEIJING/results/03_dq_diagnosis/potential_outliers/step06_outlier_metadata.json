@@ -1,0 +1,65 @@
+{
+    "experiment": "DEMARCHE_ENCAD3_CASE_STUDY_3",
+    "step": "06_CONTEXTUAL_POTENTIAL_OUTLIER_DETECTION",
+    "creation_time": "2026-09-26T14:55:38.132508",
+    "input": {
+        "modeling_view_sha256": "a0f2090baf731f1064d4be63769c3e62bf875a517eb1389de9518e18893f20cb",
+        "F_IMPORTANT": [
+            "PM2.5",
+            "PM10",
+            "WSPM",
+            "DEWP",
+            "CO",
+            "month",
+            "hour"
+        ],
+        "F_MEASURED": [
+            "PM2.5",
+            "PM10",
+            "WSPM",
+            "DEWP",
+            "CO"
+        ]
+    },
+    "development_scope": {
+        "splits": [
+            "TRAIN",
+            "VALIDATION"
+        ],
+        "train_rows": 205977,
+        "validation_rows": 103287,
+        "development_rows": 309264,
+        "test_used": false
+    },
+    "statistical_detector": {
+        "type": "contextual_modified_z_score",
+        "context": [
+            "station",
+            "month",
+            "hour"
+        ],
+        "center": "median",
+        "dispersion": "MAD",
+        "mad_scale_constant": 0.6745,
+        "absolute_modified_z_threshold": 3.5,
+        "minimum_context_size": 30
+    },
+    "epistemic_status": {
+        "output_label": "POTENTIAL_OUTLIER",
+        "statistical_outlier_means_error": false,
+        "extreme_value_means_invalid": false,
+        "correction_performed": false,
+        "deletion_performed": false,
+        "winsorization_performed": false,
+        "documentary_qualification_performed": false,
+        "rag_used": false
+    },
+    "artifacts_sha256": {
+        "step06_outlier_summary.csv": "4b526d066360d59e0df64eba83206f5751efedb9601f7019eed407d45bff822d",
+        "step06_outlier_observations.csv": "c5ad8eb9641c26293d46a6779a1cac5ab020a79403eb7d086d88b4ba9d1610ec",
+        "step06_outlier_by_station.csv": "39238dab0abda6a2ac92111b6ee8f620a1dfc67ee7d7d8ab4c51522ccdf3aded",
+        "step06_outlier_by_split.csv": "14f25812a469be68b99ce6011368c9eb54f6eed2e0eac8da055a6bb036913d42",
+        "Table_STEP06_Outlier_Global.csv": "75e60c6e7dd0595fdcbd3a2a2c6390166188195b3a6ac8fb426ef21d9879051e",
+        "Table_STEP06_Outlier_By_Split.csv": "87949dd78ffb92c5e9c108ea247b73f0a7b7d7127315b09d2d715964e1b9a09e"
+    }
+}

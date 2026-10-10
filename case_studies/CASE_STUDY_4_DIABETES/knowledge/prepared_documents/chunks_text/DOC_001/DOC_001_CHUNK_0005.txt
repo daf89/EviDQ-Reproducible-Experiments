@@ -1,0 +1,294 @@
+
+
+===== PDF PAGE 9 =====
+
+the beneficial effects of statin therapy 
+on ASCVD outcomes in subjects with 
+and without established ASCVD (92,93). 
+Subgroup analyses of people with dia­
+betes in larger trials (94–98) and trials 
+in people with diabetes (99,100) showed 
+significant primary and secondary preven­
+tion of ASCVD events and coronary heart 
+disease (CHD) death in people with diabe­
+tes. Meta-analyses including data from 
+>18,000 people with diabetes from 14 
+randomized trials of statin therapy (mean 
+follow-up 4.3 years) demonstrated a 9% 
+proportional reduction in all-cause mortal­
+ity and 13% reduction in vascular mortality 
+for each 1 mmol/L (39 mg/dL) reduction 
+in LDL cholesterol (101). The cardiovas­
+cular benefit in this large meta-analysis 
+did not depend on baseline LDL choles­
+terol levels and was linearly related to 
+the LDL cholesterol reduction without a 
+low threshold beyond which there was 
+no benefit observed (101). It is important 
+to note that the effects of statin therapy 
+do not differ based on sex (92).
+Accordingly, statins are the drugs of 
+choice for LDL cholesterol lowering and 
+cardioprotection. Table 10.1 shows the 
+two statin dosing intensities that are rec­
+ommended for use in clinical practice. 
+High-intensity statin therapy will achieve 
+an approximately ≥50% reduction in LDL 
+cholesterol, and moderate-intensity statin 
+plans achieve 30–49% reductions in LDL 
+cholesterol. Low-dose statin therapy is gen­
+erally not recommended in people with di­
+abetes but is sometimes the only dose of 
+statin that an individual can tolerate. For in­
+dividuals who do not tolerate the intended 
+intensity of statin, the maximum tolerated 
+statin dose should be used.
+Table 10.1—High-intensity and moderate-intensity statin therapy
+High-intensity statin therapy  
+(lowers LDL cholesterol by ≥50%)
+Moderate-intensity statin therapy  
+(lowers LDL cholesterol by 30–49%)
+Atorvastatin 40–80 mg
+Atorvastatin 10–20 mg
+Rosuvastatin 20–40 mg
+Rosuvastatin 5–10 mg
+Simvastatin 20–40 mg
+Pravastatin 40–80 mg
+Lovastatin 40 mg
+Fluvastatin XL 80 mg
+Pitavastatin 1–4 mg
+Once-daily dosing. XL, extended release.
+As in those without diabetes, absolute 
+reductions in ASCVD outcomes (CHD death 
+and nonfatal MI) are greatest in people 
+with high baseline ASCVD risk (known 
+ASCVD and/or very high LDL cholesterol 
+levels), but the overall benefits of statin 
+therapy in people with diabetes at mod­
+erate or even low risk for ASCVD are con­
+vincing (102,103). The relative benefit of 
+lipid-lowering therapy has been uniform 
+across most subgroups tested (101,104), 
+including subgroups that varied with re­
+spect to age and other risk factors.
+Primary Prevention (People Without ASCVD)
+For primary prevention, moderate-dose 
+statin therapy is recommended for those 
+aged ≥40 years (22,105,106), although 
+high-intensity therapy should be consid­
+ered in the context of additional ASCVD 
+risk factors, such as older age, hyperten­
+sion, dyslipidemia, smoking, CKD, or obe­
+sity (Fig. 10.3). The evidence is strong for 
+people with diabetes aged 40–75 years, 
+an age-group well represented in statin 
+trials showing benefit. Since cardiovascu­
+lar risk is enhanced in people with diabe­
+tes, as noted above, individuals who also 
+have multiple other coronary risk factors 
+have increased risk, equivalent to that of 
+those with ASCVD. Therefore, current guide­
+lines recommend that in people with dia­
+betes who are at higher cardiovascular 
+risk, especially those with one or more 
+ASCVD risk factors such as older age, hy­
+pertension, dyslipidemia, smoking, CKD, 
+or obesity, high-intensity statin therapy 
+should be prescribed to reduce LDL cho­
+lesterol by ≥50% from baseline and to 
+obtain an LDL cholesterol of <70 mg/dL 
+(<1.8 mmol/L) (107–109). Since, in clini­
+cal practice, it is frequently difficult to as­
+certain the baseline LDL cholesterol level 
+prior to statin therapy initiation, in those 
+individuals, a focus on an LDL cholesterol 
+goal of <70 mg/dL (<1.8 mmol/L) rather 
+than percent reduction in LDL cholesterol is 
+recommended. In those individuals, it may 
+also be reasonable to add ezetimibe or pro­
+protein convertase subtilisin/kexin type 9 
+(PCSK9) inhibitor therapy to maximum 
+tolerated statin therapy if needed to re­
+duce LDL cholesterol levels by ≥50% and 
+to achieve the recommended LDL choles­
+terol goal of <70 mg/dL (<1.8 mmol/L) 
+(110). While there are no randomized 
+controlled trials specifically assessing car­
+diovascular outcomes of adding ezeti­
+mibe or PCSK9 inhibitors to statin therapy 
+in primary prevention, a portion of the par­
+ticipants without established CVD were 
+included in some studies, which also in­
+cluded participants with established CVD. 
+A meta-analysis suggests that there is a car­
+diovascular benefit of adding ezetimibe or 
+PCSK9 inhibitors to treatment for people at 
+high risk (111). Less evidence is available 
+for individuals aged >75 years, as few older 
+people with diabetes have been enrolled 
+in primary prevention trials. However, het­
+erogeneity by age has not been seen in the 
+relative benefit of lipid-lowering therapy 
+in trials that included older participants 
+(100,101,104), and because older age 
+confers higher risk, the absolute benefits 
+are actually greater (104,112). Moderate- 
+intensity statin therapy is recommended 
+in people with diabetes who are ≥75 
+years of age. However, the risk-benefit 
+profile should be routinely evaluated in 
+this population, with downward titration 
+of dose performed as needed. See section 
+13, “Older Adults,” for more details on clin­
+ical considerations for this population.
+Age <40 Years and/or Type 1 Diabetes.
+Very little clinical trial evidence exists for 
+people with type 2 diabetes under the 
+age of 40 years or for people with type 1 
+diabetes of any age. For pediatric recom­
+mendations, see section 14, “Children 
+and Adolescents.” In the Heart Protection 
+Study (lower age limit 40 years), the sub­
+group of ∼600 people with type 1 diabe­
+tes had a reduction in risk proportionately 
+similar, although not statistically signifi­
+cant, to that in people with type 2 diabe­
+tes (95). Even though the data are not 
+definitive, similar statin treatment ap­
+proaches should be considered for people 
+with type 1 or type 2 diabetes, particu­
+larly in the presence of other cardiovascu­
+lar risk factors. Individuals <40 years of 
+age have lower risk of developing a car­
+diovascular event over a 10-year period; 
+however, their lifetime risk of developing 
+CVD and experiencing an MI, stroke, or 
+cardiovascular death is high. For people 
+who are <40 years of age and/or have 
+type 1 diabetes with other ASCVD risk 
+factors (such as older age, hypertension, 
+S224 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 10 =====
+
+dyslipidemia, smoking, CKD, or obesity), it 
+is recommended that the individual and 
+health care professional discuss the rela­
+tive benefits and risks and consider the 
+use of moderate-intensity statin therapy. 
+Please refer to “Type 1 Diabetes Mellitus 
+and Cardiovascular Disease: A Scientific 
+Statement From the American Heart 
+Association and American Diabetes 
+Association” (113) for additional discussion. 
+Recent data from the PCSK9 inhibitor trial 
+FOURIER (Further Cardiovascular Out­
+comes Research With PCSK9 Inhibition 
+in Subjects With Elevated Risk) suggest 
+that LDL cholesterol–lowering benefit 
+has important cardiovascular risk reduc­
+tion benefits in people with type 1 dia­
+betes and established CVD, as discussed 
+in SECONDARY PREVENTION (PEOPLE WITH ASCVD), 
+below (114).
+In people 40-75
+years of age
+Consider statin therapy 
+if there are additional 
+ASCVD risk factors.*
+Use moderate-intensity statin 
+therapy in those without 
+ASCVD risk factors.*
+Use bempedoic acid for those 
+who are statin intolerant.
+Use a high-intensity statin in 
+with an LDL cholesterol goal 
+It may be reasonable to add 
+ezetimibe or anti-PCSK9 therapy 
+with proven cardiovascular benefit 
+to maximum tolerated statin therapy 
+if LDL goal is not achieved. 
+Continue current statin 
+therapy or consider initiating a 
+moderate-intensity statin after 
+weighing benefits and risks.
+Lipid management for primary prevention of atherosclerotic cardiovascular disease 
+events in people with diabetes in addition to healthy behavior modification
+In people 20-39
+years of age
+In people >75
+years of age
+those with ≥1 ASCVD risk factor,* 
+Figure 10.3—Recommendations for primary prevention of atherosclerotic cardiovascular disease (ASCVD) in people with diabetes using cholesterol-lower­
+ing therapy. *ASCVD risk factors include older age, hypertension, dyslipidemia, smoking, chronic kidney disease, or obesity. Adapted from “Standards of 
+Care in Diabetes—2024 Abridged for Primary Care Professionals” (315). 
+Use lifestyle and high-intensity 
+statin therapy to reduce LDL 
+L
+.
+Add ezetimibe or anti-PCSK9 
+therapy with proven 
+cardiovascular benefit if LDL 
+cholesterol goals are not 
+met on maximum tolerated 
+statin therapy.
+Use an alternative lipid-lowering treatment for those 
+who are statin intolerant:
+• 
+ PCSK9 monoclonal antibody with 
+proven cardiovascular benefit 
+• 
+Bempedoic acid
+• 
+ PCSK9 inhibition with siRNA inclisiran
+Lipid management for secondary prevention of atherosclerotic cardiovascular disease events in people with diabetes
+Figure 10.4—Recommendations for secondary prevention of atherosclerotic cardiovascular disease (ASCVD) in people with diabetes using cholesterol-low­
+ering therapy. Adapted from “Standards of Care in Diabetes—2024 Abridged for Primary Care Professionals” (315). 
+Secondary Prevention (People With ASCVD)
+Intensive therapy is indicated because 
+cardiovascular event rates are increased 
+in people with diabetes and established 
+ASCVD, and it has been shown to be of 
+benefit in multiple large meta-analyses 
+and randomized cardiovascular outcomes 
+trials (93,101,104,112,115). High-intensity 
+statin therapy is recommended for all 
+people with diabetes and ASCVD to obtain 
+an LDL cholesterol reduction of ≥50% 
+from baseline and an LDL cholesterol goal 
+of <55 mg/dL (<1.4 mmol/L) (Fig. 10.4). 
+The addition of ezetimibe or a PCSK9 in­
+hibitor is recommended if this goal is not 
+achieved on maximum tolerated statin 
+therapy. These recommendations are based 
+on the observation that high-intensity 
+versus moderate-intensity statin therapy 
+reduces cardiovascular event rates in high- 
+risk individuals with established CVD in 
+randomized trials (93). The Cholesterol 
+Treatment Trialists’ Collaboration, involv­
+ing 26 statin trials, of which 5 compared 
+high-intensity versus moderate-intensity 
+statins, showed a 21% reduction in major 
+cardiovascular events in people with dia­
+betes for every 39 mg/dL (1 mmol/L) of 
+LDL cholesterol lowering, irrespective of 
+baseline LDL cholesterol or individual char­
+acteristics (101). The evidence to support 
+lower LDL cholesterol goals in people with 
+diabetes and established CVD derives from 
+multiple large, randomized trials investigat­
+ing the benefits of adding nonstatin agents 
+to statin therapy, including combination 
+treatment with statins and ezetimibe 
+(112,116) or PCSK9 inhibitors (115,117–
+119). Each trial found a large benefit in re­
+ducing ASCVD events that was directly 
+diabetesjournals.org/care
+Cardiovascular Disease and Risk Management
+S225 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

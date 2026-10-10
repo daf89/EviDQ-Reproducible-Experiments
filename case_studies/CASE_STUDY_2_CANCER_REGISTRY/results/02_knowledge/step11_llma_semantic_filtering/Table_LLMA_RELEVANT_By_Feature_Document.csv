@@ -1,0 +1,10 @@
+﻿feature,document_id,short_title,document_name,relevant_chunks
+registry_stage_code,DOC01_ENCR_DQ_CHECKS,Cancer Data Quality Checks v1.1,A_proposal_on_cancer_data_quality_checks-one_common_procedure_for_European_cancer_registries_1_1.pdf,31
+registry_stage_code,DOC02_IARC_SP95,Cancer Registration: Principles and Methods,SP95.pdf,7
+registry_stage_code,DOC05_JRC_ENCR_QCS,JRC-ENCR Quality Check Software User Manual,user manual for the jrc-encr cancer registries data-LANA28109ENN.pdf,1
+age_diag,DOC01_ENCR_DQ_CHECKS,Cancer Data Quality Checks v1.1,A_proposal_on_cancer_data_quality_checks-one_common_procedure_for_European_cancer_registries_1_1.pdf,3
+age_diag,DOC02_IARC_SP95,Cancer Registration: Principles and Methods,SP95.pdf,8
+mkb10_code,DOC01_ENCR_DQ_CHECKS,Cancer Data Quality Checks v1.1,A_proposal_on_cancer_data_quality_checks-one_common_procedure_for_European_cancer_registries_1_1.pdf,3
+mkb10_code,DOC02_IARC_SP95,Cancer Registration: Principles and Methods,SP95.pdf,3
+mkb10_code,DOC03_ENCR_STANDARD_2023,ENCR Standard Dataset 2023,ENCR-Recommendation-standard-dataset_Mar2023.pdf,1
+mkb10_code,DOC04_WHO_ICDO3,ICD-O-3 First Revision,9789241548496_eng.pdf,6

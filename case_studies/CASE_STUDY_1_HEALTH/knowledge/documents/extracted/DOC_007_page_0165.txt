@@ -1,0 +1,142 @@
+Assessment of heterogeneity. Heterogeneity among the trials
+for each outcome was tested using a standard c2 test using a
+signiﬁcance level of a #0.10. Heterogeneity was also assessed
+with an I2 statistic, which describes the variability in effect
+estimates that is due to heterogeneity rather than random
+chance. A value greater than 50% was considered to indicate
+substantial heterogeneity.933
+Grading the certainty of the evidence and the strength of a
+guideline recommendation. The certainty of evidence for each
+critical outcome was assessed by the ERT using the GRADE
+approach.934,935 For outcomes based on data from RCTs, the
+initial grade for the certainty of the evidence is considered to
+be high. The certainty of the evidence is lowered in the event
+of study limitations; important inconsistencies in results
+across
+studies;
+indirectness
+of
+the
+results,
+including
+uncertainty about the population, intervention, outcomes
+measured in trials, and their applicability to the clinical
+question of interest; imprecision in the evidence review
+results;
+and
+concerns
+about
+publication
+bias.
+For
+imprecision,
+data
+were
+benchmarked
+against
+optimal
+information size,936 low event rates in either arm, CIs that
+indicate appreciable beneﬁt and harm (25% decrease and
+25% increase in the outcome of interest), and sparse data
+(only 1 study), all indicating concerns about the precision
+of the results.936 The ﬁnal grade for the certainty of the
+evidence for an outcome could be high (A), moderate (B),
+low (C), or very low (D) (Tables 45 and 46).
+Summary of ﬁndings (SoF) tables. SoF tables were developed
+using GRADEpro (https://www.gradepro.org/). The SoF ta-
+bles include a description of the population, intervention, and
+comparator and, where applicable, the results from the data
+synthesis as relative and absolute effect estimates. The grading
+of the certainty of the evidence for each critical outcome is
+also provided in these tables. The SoF tables are available in
+Appendix C and Appendix D of the Data Supplement
+published alongside the guideline or at https://kdigo.org/
+guidelines/ckd-evaluation-and-management/.
+Updating
+and
+developing
+the
+guideline
+state-
+ments. Recommendations from the KDIGO 2012 Clinical
+Practice Guideline for the Evaluation and Management of
+Chronic Kidney Disease were considered in the context of
+new evidence by the Work Group Co-Chairs and Work Group
+members, and updated as appropriate.1 Practice points were
+not yet proposed as a separate category in 2012, so the
+KDIGO
+2024
+Work
+Group
+considered
+the
+following
+options: where new evidence did not suggest a change to
+graded recommendations, the statements were retained as
+graded recommendations; graded recommendations were
+updated where appropriate based on new evidence; existing
+recommendations that ﬁt the criteria for practice points
+were
+rewritten
+as
+practice
+points,
+and
+new
+guideline
+statements (both recommendations and practice points)
+were generated for new clinical questions from the 2024
+update.
+Table 45| Classiﬁcation for certainty of evidence
+Grade
+Certainty of evidence
+Meaning
+A
+High
+We are conﬁdent that the true effect is close to the estimate of the effect.
+B
+Moderate
+The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+C
+Low
+The true effect may be substantially different from the estimate of the effect.
+D
+Very low
+The estimate of effect is very uncertain, and often, it will be far from the true effect.
+Table 46| GRADE system for grading the certainty of evidence
+Study design
+Step 1—starting grade of the
+certainty of the evidence
+Step 2—lower grade
+Step 3—raise grade for observational studies
+RCTs
+High
+Study limitations:
+–1 serious
+–2 very serious
+Strength of association
+þ1 large effect size (e.g., <0.5 or >2)
+þ2 very large effect size (e.g., <0.2 or >5)
+Moderate
+Inconsistency:
+–1 serious
+–2 very serious
+Evidence of a dose-response gradient
+Observational studies
+Low
+Indirectness:
+–1 serious
+–2 very serious
+All plausible confounding would reduce the demonstrated effect
+Very low
+Imprecision:
+–1 serious
+–2 very serious
+Publication bias:
+–1 serious
+–2 very serious
+GRADE, Grading of Recommendations Assessment, Development, and Evaluation; RCT, randomized controlled trial.
+methods for guideline development
+www.kidney-international.org
+S280
+Kidney International (2024) 105 (Suppl 4S), S117–S314

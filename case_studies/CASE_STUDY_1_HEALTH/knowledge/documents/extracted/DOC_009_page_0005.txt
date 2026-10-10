@@ -1,0 +1,66 @@
+preparation and 72% during data collection. The overall count of Home Health pairs increased by 46, an increase of
+approximately 6%. The overall count of OBD pairs decreased by 1,152 (6.5%).
+Priority Code
+Patients were flagged as high priority if they had one or more in‑patient hospital stay for any length of time. Cases
+(contact groups) with patients having a high priority flag are contacted and worked earlier by the data collection staff
+when working MPC cases. Once the priority flag is set at the person‑level, it is rolled up to the provider and contact group
+levels. That is, any contact group that includes at least one high‑priority person will be a high‑priority contact group,
+regardless of the characteristics of other persons associated with that contact group. These priority cases are closely
+tracked and monitored during MPC data collection using production reports that track the progress of completing these
+priority cases.
+Fielding the 2024 MPC Sample
+The 2024 MPC sample (consisting of Hospital, OBD, Pharmacy, and Home Health pairs identified in the HC) was fielded
+in four waves following the receipt of each wave from Westat and AHRQ. Given the HC data collection procedures, it is
+possible for a pair to be included in more than one wave of the MPC sample. Before fielding each subsequent wave, the
+sample was reviewed to identify pairs that had been included in an earlier wave. When a pair in the new wave matched a
+pair from an earlier wave and the same event types were reported in both (or all four) waves, the pair was not fielded in
+the later wave. If different event types are reported, the case is reviewed to determine whether additional data collection is
+necessary. (Fielding the SBD sample is discussed in Section 3.1 below.)
+Return to Table of Contents
+2.3 Integrated Data Collection System
+The MPC IDCS supported the 2024 MPC data collection and tracking requirements. Its main purposes were to:
+Manage and update the provider contact information
+Collect updated information into one central database
+Produce reports for project staff as well as AHRQ, updating data collection progress at the event, pair, and provider level
+Provide a secure model to contain information with RTI’s Enhanced Security Network
+Produce data files for the matching process.
+The IDCS is a Windows .Net MVVM based system that facilitated obtaining Points of Contact, call scheduling, contact
+information, appointment times, and event/status information. This system was tightly integrated with Blaise-based MEPS
+MPC Event Forms for data capture over the phone or by record abstraction.
+The components of the IDCS are described in the following paragraphs.
+Case Management System (CMS)
+The CMS provided oversight and control over the MPC sample by tracking pending and final disposition for individual
+cases and for the aggregate sample. The CMS imported the provider sample files and arranged information about
+providers and patients into contact groups to facilitate provider recruiting efforts and data collection. For individual cases,
+the CMS tracked the completion of data collection by individual medical events, patients, providers and provider practices
+(contact groups), providing production supervisors and project staff a tool for measuring progress in completing the varied
+data collection units in the MPC. The CMS triggered the production of materials (including AFs) faxed, mailed, emailed,
+or sent via the web portal to providers. It notified data collection staff that these materials had been sent to providers and
+generated notices for follow‑up. At the aggregate level, the CMS produced daily standard or customized reports to track
+performance of the data collection activity. The CMS was used to monitor production of cases completed via record
+abstraction as well as by telephone.
+Contact Guide
+The Contact Guide was programmed as an aid for recruiting providers across all provider types. The Contact Guide was
+used to record contact information for several points of contact within a provider organization (e.g., a group practice or
+Hospital) and results of each contact. The Contact Guide included the capability to generate packages of materials,
+including copies of a patient’s signed AF that were then faxed, emailed, or mailed to providers or made available via the
+web portal for download. The Contact Guide interacted with the CMS to prompt follow‑up contacts with providers after
+an appropriate time (24 hours for faxed/emailed material or material sent via the web portal; 5 days for mailed material).
+Event Forms
+Event Forms were used for collecting information either during telephone calls with providers or by abstracting medical
+or patient account records. The Event Forms were designed to be adaptable to the particular format of medical and patient
+account records maintained by providers. The Event Forms featured edit checks on individual items and were also
+programmed to alert users to inconsistencies that may be resolved either with telephone respondents or by further
+investigation in the records. As each Event Form was completed, it was checked for critical items and, if missing, the
+Form was flagged for follow‑up.
+Completion of Event Forms was tracked automatically in the CMS to record progress in completing information about
+medical events, patients, providers, and provider contact groups.
+Assignment Transfer
+The Assignment Transfer System was used to assign cases among the data collection staff. It was also used to reassign a
+reluctant provider to a more skilled negotiator on the data collection team or to balance and adjust workloads following
+staffing changes. Results of all previous call attempts or entered data were accessible to the new user.
+Automated Fax/Mail/eMail/Web portal
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+5/40

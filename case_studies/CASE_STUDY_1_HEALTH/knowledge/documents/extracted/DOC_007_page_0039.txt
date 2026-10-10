@@ -1,0 +1,71 @@
+1.2.4 Selection of GFR estimating equations
+Recommendation 1.2.4.1: We recommend using a validated GFR estimating equation to derive GFR from serum
+ﬁltration markers (eGFR) rather than relying on the serum ﬁltration markers alone (1D).
+Practice Point 1.2.4.1: Use the same equation within geographical regions (as deﬁned locally [e.g., continent, country,
+region] and as large as possible). Within such regions, equations may differ for adults and children.
+Practice Point 1.2.4.2: Use of race in the computation of eGFR should be avoided.
+Special considerations
+Pediatric considerations.
+Practice Point 1.2.4.3: Estimate GFR in children using validated equations that have been developed or validated in
+comparable populations.
+1.3 Evaluation of albuminuria
+1.3.1 Guidance for physicians and other healthcare providers
+Practice Point 1.3.1.1: Use the following measurements for initial testing of albuminuria (in descending order of pref-
+erence). In all cases, a ﬁrst void in the morning midstream sample is preferred in adults and
+children.
+(i)
+urine ACR, or
+(ii) reagent strip urinalysis for albumin and ACR with automated reading.
+If measuring urine protein, use the following measurements:
+(i) urine protein-to-creatinine ratio (PCR),
+(ii) reagent strip urinalysis for total protein with automated reading, or
+(iii) reagent strip urinalysis for total protein with manual reading.
+Practice Point 1.3.1.2: Use more accurate methods when albuminuria is detected using less accurate methods.
+ Conﬁrm reagent strip positive albuminuria and/or proteinuria by quantitative laboratory mea-
+surement and express as a ratio to urine creatinine wherever possible (i.e., quantify the ACR or
+PCR if initial semiquantitative tests are positive).
+ Conﬁrm ACR ‡30 mg/g (‡3 mg/mmol) on a random untimed urine with a subsequent ﬁrst
+morning void in the morning midstream urine sample.
+Practice Point 1.3.1.3: Understand factors that may affect interpretation of measurements of urine albumin and urine
+creatinine and order conﬁrmatory tests as indicated (Table 16).
+Table 16| Factors causing biological variation in urine albumin or urine protein
+Factor
+Falsely elevated ACR or PCR
+False decrease in ACR or PCR
+Variability in urine
+albumin or protein
+Hematuria
+Increases albumin and protein in the urine
+Menstruation
+Increases albumin and protein in the urine
+Exercise259
+Increases albumin and protein in the urine
+Infection260,261
+Symptomatic urinary infection can cause
+production of protein from the organism
+Nonalbumin proteins
+Other proteins may be missed by albumin reagent strips
+Variability in urinary
+creatinine concentration
+Biological sex
+Females have lower urinary creatinine excretion,
+therefore higher ACR and PCR
+Males have higher urinary creatinine excretion,
+therefore lower ACR and PCR
+Weight73,160
+Low urinary creatinine excretion consistent with low
+weight can cause high ACR or PCR relative to
+timed excretion
+High urinary creatinine excretion consistent with high weight
+can cause low ACR or PCR relative to timed excretion
+Changes in creatinine
+excretion
+Lower urinary creatinine excretion with AKI
+or low-protein intake
+High urinary creatinine excretion with high-protein intake
+or exercise
+ACR, albumin-to-creatinine ratio; AKI, acute kidney injury; PCR, protein-to-creatinine ratio.
+summary of recommendation statements and practice points
+www.kidney-international.org
+S154
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,20 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_10B_DOCUMENT_STATISTICAL_SEMANTIC_ALIGNMENT",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "input_candidates": 1332,
+  "supported_context_alignments": 7,
+  "not_supported_alignments": 1325,
+  "document_establishes_error": 0,
+  "document_supports_detection": 0,
+  "document_supports_correction": 0,
+  "execution_used_for_delivered_results": "GPT-5.6 Sol (ChatGPT) semantic evaluation",
+  "reproducibility_trace": "LOCAL_OLLAMA llama3.1:8b code supplied separately",
+  "decision_principles": {
+    "same_feature_is_not_sufficient": true,
+    "anomaly_is_not_error": true,
+    "explicit_documentary_support_required": true,
+    "no_source_priority": true,
+    "no_automatic_correction": true
+  }
+}

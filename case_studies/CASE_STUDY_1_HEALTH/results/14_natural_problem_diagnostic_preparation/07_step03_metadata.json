@@ -1,0 +1,25 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "phase": "PHASE_03_NATURAL_PROBLEM_DIAGNOSIS",
+  "stage": "STEP_03_DIAGNOSTIC_PREPARATION",
+  "dataset_ref_sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+  "dataset_ref_modified": false,
+  "artificial_problem_injection": false,
+  "ground_truth_used": false,
+  "local_llm_used": false,
+  "next_semantic_engine": "GPT-5.6 Sol",
+  "counts": {
+    "natural_statistical_observations": 24,
+    "valid_documented_chains": 6,
+    "diagnostic_candidates": 114,
+    "candidates_for_gpt56sol": 108,
+    "observations_without_document_candidate": 6
+  },
+  "principles": {
+    "statistical_anomaly_is_error": false,
+    "same_feature_is_semantic_match": false,
+    "automatic_correction": false,
+    "source_priority": "NONE",
+    "responsible_diagnosis": true
+  }
+}

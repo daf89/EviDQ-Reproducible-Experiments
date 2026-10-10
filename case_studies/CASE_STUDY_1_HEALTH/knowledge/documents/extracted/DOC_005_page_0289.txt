@@ -1,0 +1,76 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+289
+Libellé
+Définition
+Dossier médical
+Dossier constitué pour chaque patient hospitalisé dans un établissement de santé public ou privé. 
+Ce dossier contient au moins les éléments suivants, ainsi classés :
+1. Les informations formalisées recueillies lors des consultations externes dispensées dans 
+l’établissement, lors de l’accueil au service des urgences ou au moment de l’admission 
+et au cours du séjour hospitalier, et notamment :
+a) la lettre du médecin qui est à l’origine de la consultation ou, en cas d’admission, la lettre de liaison 
+prévue à l’article R. 1112-1-1 ;
+b) les motifs d’hospitalisation ;
+c) la recherche d’antécédents et de facteurs de risque ;
+d) les conclusions de l’évaluation clinique initiale ;
+e) le type de prise en charge prévu et les prescriptions effectuées à l’entrée ;
+f) la nature des soins dispensés et les prescriptions établies lors de la consultation externe 
+ou du passage aux urgences ;
+g) les informations relatives à la prise en charge en cours d’hospitalisation : état clinique, soins reçus, 
+examens paracliniques, notamment d’imagerie ;
+h) les informations sur la démarche médicale, adoptée dans les conditions prévues à l’article L. 1111-4 ;
+i) le dossier d’anesthésie ;
+j) le compte-rendu opératoire ou d’accouchement ;
+k) le consentement écrit du patient pour les situations où ce consentement est requis sous cette forme 
+par voie légale ou réglementaire ;
+l) la mention des actes transfusionnels pratiqués sur le patient et, le cas échéant, copie de la fiche 
+d’incident transfusionnel mentionnée au deuxième alinéa de l’article R. 1221-40 ;
+m) les éléments relatifs à la prescription médicale, à son exécution et aux examens complémentaires ;
+n) le dossier de soins infirmiers ou, à défaut, les informations relatives aux soins infirmiers ;
+o) les informations relatives aux soins dispensés par les autres professionnels de santé ;
+p) les correspondances échangées entre professionnels de santé ;
+q) les directives anticipées mentionnées à l’article L. 1111-11 ou, le cas échéant, la mention 
+de leur existence ainsi que les coordonnées de la personne qui en est détentrice.
+2. Les informations formalisées établies à la fin du séjour. Elles comportent notamment :
+a) la lettre de liaison remise à la sortie prévue par l’article R. 1112-1-2 ;
+b) la prescription de sortie et les doubles d’ordonnance de sortie ;
+c) les modalités de sortie (domicile, autres structures) ;
+d) la fiche de liaison infirmière.
+3. Les informations mentionnant qu’elles ont été recueillies auprès de tiers n’intervenant pas 
+dans la prise en charge thérapeutique ou concernant de tels tiers.
+Sont seules communicables les informations énumérées aux 1 et 2.
+Dossier patient
+Lieu de recueil et de conservation des informations administratives, médicales et paramédicales, formalisées 
+et actualisées, enregistrées pour tout patient accueilli, à quelque titre que ce soit. 
+Dossier pharmaceutique 
+(DP)
+Recense, pour chaque bénéficiaire de l’Assurance maladie qui le souhaite, tous les médicaments délivrés 
+au cours des 4 derniers mois, qu’ils soient prescrits par le médecin ou conseillés par le pharmacien (21 ans 
+pour les vaccins, 3 ans pour les médicaments biologiques). Le DP a été créé par la loi du 30 janvier 2007 
+relative à l’organisation de certaines professions de santé. Sa mise en œuvre a été confiée au Conseil 
+national de l’Ordre des pharmaciens. 
+Dossier de régulation 
+médicale (DRM)
+Regroupe l’ensemble des informations collectées par le centre de régulation à propos du patient, les mesures 
+prises et le suivi assuré, pour toute affaire à caractère médical, médico-social ou sanitaire portée à 
+la connaissance du centre de régulation SAMU centre 15. Le DR devient un dossier de régulation médicale 
+(DRM) dès lors qu’il a bénéficié d’un acte de régulation effectué par un médecin.
+Erreur médicamenteuse
+Omission ou réalisation non intentionnelle d’un acte au cours du processus de soins impliquant 
+un médicament, qui peut être à l’origine d’un risque ou d’un événement indésirable pour le patient. 
+L’erreur médicamenteuse peut être avérée ou potentielle (interceptée avant l’administration au patient).
+Évaluation de la 
+satisfaction des patients
+Donnée qui permet de connaître l’opinion des patients sur les différentes composantes humaines, techniques 
+et logistiques, de leur prise en charge. La mesure régulière de la satisfaction des patients est obligatoire 
+depuis l’ordonnance du 24 avril 1996 portant réforme de l’hospitalisation publique et privée.
+Évaluation des pratiques 
+professionnelles (EPP) 
+Analyse de la pratique professionnelle en référence à des recommandations et selon une méthode validée 
+comportant la mise en œuvre et le suivi d’actions d’amélioration des pratiques.
+Événement indésirable
+Situation qui s’écarte de procédures ou de résultats escomptés dans une situation habituelle et qui est 
+ou qui serait potentiellement source de dommages. Il existe plusieurs types d’événements indésirables : 
+les dysfonctionnements (non-conformité, anomalie, défaut), les incidents, les événements sentinelles, 
+les précurseurs, les presque accidents, les accidents.

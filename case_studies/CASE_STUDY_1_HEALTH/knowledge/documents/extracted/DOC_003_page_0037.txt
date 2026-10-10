@@ -1,0 +1,134 @@
+7.4.3.3. The arteries 
+Cardiac computed tomography (CT) may be used to measure CAC 
+and, if intravascular contrast is administered, fully visualize coronary 
+artery disease to improve risk stratification.211,293 As noted in 
+Section 6, CAC scoring can reclassify CVD risk upwards or down-
+wards in addition to conventional risk factors.127,170,211,233,294 
+Carotid ultrasound detects presence or absence of carotid plaque 
+(wall thickness ≥ 1.5 mm) and stenosis. Presence of plaque in the ca-
+rotid or femoral arteries improves risk prediction for CVD events in 
+asymptomatic patients on top of conventional risk-factor assess-
+ment.211,247,265,267,295,296 Systematic use of intima media thickness 
+does not appear to consistently improve prediction of future CVD 
+events.297 Arterial stiffness is measured as carotid–femoral PWV or 
+brachial–ankle PWV, and can contribute to predictive value and risk 
+reclassification.28,31,215,216 PWV is currently used mostly for research 
+purposes or in specialist referral centres. Checking for inter-arm BP 
+difference may identify a subclavian stenosis as vascular HMOD.38 
+Other tests assessing the vasculature [such as abdominal ultrasound 
+or ankle–brachial index (ABI)] should also be considered in patients 
+with hypertension, when specific cardiovascular complications (ab-
+dominal aneurysm, peripheral artery disease) are clinically suspected. 
+Finally, microvascular HMOD can be assessed by fundoscopy. A sim-
+plified classification has been proposed and validated.298 In hyperten-
+sive individuals, the presence of mild or moderate hypertensive 
+retinopathy is associated with an increased risk of CVD events.299 
+Fundoscopy is recommended also in hypertensive diabetic patients 
+and in the work-up of malignant hypertension and hypertensive 
+emergencies. 
+7.4.4. Genetic testing 
+Hypertension is considered a complex polygenic disorder, because 
+many genes or gene combinations influence BP.300,301 However, some 
+well-defined phenotypes relating to single-gene mutations (i.e. mono-
+genic forms of hypertension) have been identified (see Supplementary 
+data online, Table S6). These are rare, but knowledge of the genetic 
+defect may allow targeted treatment of the proband and also proper 
+management of the patient’s siblings.302,303 As such, genetic testing 
+should be considered only for those with a high prior probability of hav-
+ing a monogenic condition and such patients should be referred to spe-
+cialized centres. In most patients with elevated BP or hypertension, 
+routine genetic testing is not recommended. Family history and a pedi-
+gree analysis can help to find a heritable pattern of hypertension or 
+hypotension.304 
+7.5. Resistant hypertension: definition and 
+diagnosis 
+Despite availability and use of multiple BP-lowering medications, 
+many patients worldwide have uncontrolled hypertension.306–308 
+Considering this, societies have introduced the term ‘drug-resistant 
+hypertension’, or ‘treatment-resistant hypertension’, or ‘resistant 
+hypertension’,309 which has been reported in 10%–20% of patients 
+with hypertension.310,311 
+Resistant hypertension is not a disease per se. Compared with 
+treated patients who achieve BP control, patients with resistant 
+hypertension (by any definition) have a worse prognosis: risk of 
+myocardial infarction, stroke, end-stage renal disease, and death 
+in these adults may be two- to six-fold higher.309 Secondary causes 
+of hypertension are also more likely in the presence of resistant 
+hypertension.312 
+All resistant hypertension definitions require a diuretic in the prescribed 
+multiple-drug regimen, because excess salt intake and salt and water reten-
+tion are key players in resistance to BP-lowering treatments (Table 10).309 
+Echocardiography is recommended in patients with 
+hypertension and ECG abnormalities, or signs or 
+symptoms of cardiac disease.14,31,292 
+I 
+B 
+Echocardiography may be considered in patients 
+with elevated BP, particularly when it is likely to 
+change patient management.31,291 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure; ECG, electrocardiogram. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 10 — Recommendations for 
+assessing vascular hypertension-mediated organ dam-
+age (see Evidence Table 17) 
+Recommendations 
+Classa 
+Levelb 
+Fundoscopy is recommended if BP >180/110 mmHg 
+in the work-up of hypertensive emergency and 
+malignant hypertension, as well as in hypertensive 
+patients with diabetes. 
+I 
+C 
+Fundoscopy for detecting hypertensive retinopathy 
+may be considered in patients with elevated BP or 
+hypertension.299 
+IIb 
+B 
+Ultrasound examination of the carotid or femoral 
+arteries for detecting plaque may be considered in 
+patients with elevated BP or hypertension when it is 
+likely to change patient management.211 
+IIb 
+B 
+Continued 
+Coronary artery calcium scoring may be considered 
+in patients with elevated BP or hypertension when it 
+is likely to change patient management.127,211 
+IIb 
+B 
+Measurement of PWV may be considered in patients 
+with elevated BP or hypertension when it is likely to 
+change patient management.28,31,215,216 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure; PWV, pulse wave velocity. 
+aClass of recommendation. 
+bLevel of recommendation. 
+Recommendation Table 11 — Recommendations for 
+genetic testing in hypertension management 
+Recommendations 
+Classa 
+Levelb 
+Genetic testing should be considered in specialist 
+centres for patients suspected to have rare 
+monogenic causes of secondary hypertension or for 
+those with phaeochromocytoma/ 
+paraganglioma.302,305 
+IIa 
+B 
+Routine genetic testing for hypertension is not 
+recommended. 
+III 
+C 
+© ESC 2024
+aClass of recommendation. 
+bLevel of evidence. 
+3948 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

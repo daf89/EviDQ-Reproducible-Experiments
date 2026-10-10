@@ -1,0 +1,53 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+However, and importantly, there are several data points that are limited or unavailable from these 
+claims that limit the scope of quality measurement. These include: 
+• 
+Encounter notes 
+• 
+Vital signs 
+• 
+Lab values 
+• 
+Findings from screening and other procedures 
+• 
+Drug code(s), name(s), and prescription detail (captured separately on pharmacy claims) 
+• 
+Social determinants of health 
+Takeaway: In order to support practices using claims data in QI, Health IT Advisors must first understand 
+what data points are available. Quality measurement projects should be designed around these criteria 
+and their limitations. 
+Claims Coding 
+Effective claims coding is an essential component of healthcare administration and payment. 
+Representing diagnoses, procedures, and services as alphanumeric codes provides the basis for 
+clearinghouses toscreenclaims data and submit topayers for reimbursement. Insurance contracts 
+define negotiated rates for procedures and treatments and rely on codes to adjudicate claims and 
+authorize payment to providers based on the applicable fee schedule. Adherence to coding best 
+practices offers the secondary benefit of richer claims data for use in QI. 
+Under HIPAA, DHHSadopted specificcode sets fordiagnoses and procedures usedin all transactions. 
+Key code sets used for medical claims include: 
+• 
+InternationalClassificationofDiseases (ICD-10)fordiagnoses [82] 
+• 
+Current Procedural Terminology (CPT)[83] 
+• 
+Healthcare Common Procedure Coding System (HCPCS)[84] 
+Applying these codes for optimal reimbursement does not necessarily result in claims data sufficient for 
+QI. For example, providers may not address all patient diagnoses during an encounter and may deliver 
+services or procedures that are not reimbursable by payers, and providers will document some 
+diagnoses as a prerequisite for ensuring that payers will cover the costs of more complicated 
+exploratory laboratory tests and imaging. While failing to include this information will not impact 
+payment, it can result in missing data otherwise needed to calculate performance metrics of interest. 
+Addressing this barrier may require expanding both the amount and nature of codes compared to what 
+is required for payment. For diagnoses, comprehensive ICD-10coding supports stratificationof 
+populations based on factors such as comorbidities, severity of illness, or anatomic location. For 
+procedures, including “unbillable” CPT and HCPCScodes (chargedat $0.00or $0.01) allows tracking 
+services relevant to quality measurement regardless of payment. 
+To the extent claims coding for QI adds burden to clinicians and staff without direct reimbursement 
+from a payer’s fee schedule, practices should select measures recognizedas intrinsicallyvaluable to 
+patient care to justify the resource cost. Another factor to consider is which measures have downstream 
+benefit such as rewards in pay-for-performance programs or quality rating systems made publicly 
+available to consumers.[85] 
+Health IT Advisor Handbook 
+Page 84

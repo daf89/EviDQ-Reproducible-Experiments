@@ -1,0 +1,129 @@
+(mobile apps). These should aid clinical workﬂow and deci-
+sion-making and even patient understanding. Where possible,
+laboratories should report the results from a validated risk
+equation speciﬁc to the region automatically for individuals
+with CKD G3–G5 when the required variables are available.
+Simpler equations can be implemented and reported when
+minimal data are available and more complex equations,
+requiring additional variables, can be implemented if the
+required data are present.
+The reporting of risk in the laboratory reports and EMRs
+should be standardized with appropriate guidance on risk
+thresholds, when available. Local validation studies can be
+performed to determine optimal calibration of the speciﬁc
+risk prediction equations before implementation. Imple-
+mentation of risk equations that are externally validated and
+use routinely collected data should be prioritized for health
+equity and global health considerations.
+Rationale
+Risk prediction equations that are externally validated, and
+locally calibrated, when possible, can lead to improvement in
+the delivery of CKD care. These equations should be used as
+they can further personalize care plans for people with CKD
+and enable discussions about the beneﬁts and harms of dis-
+ease-modifying therapy.
+This is a strong recommendation, as the Work Group
+judged that the evidence supporting both the clinical validity
+and clinical utility of risk prediction equations was sufﬁciently
+strong to recommend widespread adoption. The Work Group
+judged that most externally validated equations rely on
+routinely collected data and could therefore be implemented
+equally in low-resource settings. The Work Group also judged
+that the majority of physicians will be comfortable in calcu-
+lating the risk of kidney failure and discussing the risk and
+related treatment decisions with patients and caregivers.
+Special considerations
+Pediatric considerations. Work from the CKiD group (2015)
+provides a risk calculator for disease progression, using age, sex,
+glomerular versus nonglomerular disease, eGFR, hypertension
+and laboratory parameters (calculator available at https://www.
+kidney.org/professionals/kdoqi/gfr_calculatorPedRiskCalc).417
+Further analyses combining the CKiD data with that from the
+ESCAPE trial (of BP control in CKD progression in children)
+resulted in a risk calculator that uses diagnosis, eGFR and
+proteinuria,
+and can
+be
+accessed
+at www.ckdprognosis.
+com.418 The 4-value KFRE has been validated in the CKiD
+cohort
+with
+good
+discrimination.416
+However,
+further
+evaluation
+of
+the
+calibration
+in
+the
+cohort
+revealed
+incongruence between predicted and observed outcomes in
+those with higher predicted risks of kidney failure (who had
+lower observed risks).419
+Considerations regarding sex and gender. There is uncer-
+tainty around whether sex assigned at birth or gender identity
+is to be used in risk equations. At present, a holistic approach
+should be used that takes into account sex assigned at birth,
+sex hormone milieu, and gender identity with shared deci-
+sion-making with the person with CKD.
+Practice Point 2.2.1: A 5-year kidney failure risk of 3%–5%
+can be used to determine need for nephrology referral in
+addition to criteria based on eGFR or urine ACR, and other
+clinical considerations.
+In most developing and developed countries, there are
+insufﬁcient nephrology care resources to manage all people
+with CKD. Using an objective tool to appropriately triage
+those most likely to beneﬁt from referral may help to manage
+those nephrology resources in an evidence-informed manner.
+Because only a small fraction of the CKD population is at
+high risk for progression to kidney failure, those people with
+lower risks of progression to kidney failure may be effectively
+managed in primary care settings with guideline-based
+treatments to delay CKD progression (Figure 15). Referral
+criteria for nephrology services that include a risk threshold
+of 3%–5% over 5 years have been examined retrospectively
+and have also been implemented prospectively in several
+healthcare settings.420,421
+In settings within Canada and the UK, retrospective
+studies have found that the use of these risk thresholds has
+avoided harms from nonreferral or delayed referral of those
+progressing to kidney failure.412 In addition, prospective
+evaluation has demonstrated a reduction in nephrology
+eGFR-based criteria
+Risk-based criteria
+Transition from
+primary care to
+nephrology care
+Transition from
+nephrology care to
+interprofessional care
+Access and
+transplant
+planning
+eGFR
+90
+60
+30
+20
+≤10
+Kidney
+failure
+KF risk ≥3%–5%
+5 years
+KF risk ≥10%
+2 years
+KF risk ≥40%
+2 years
+eGFR 30–60
+eGFR <30
+eGFR <20
+Figure 15 | Transition from an estimated glomerular ﬁltration rate (eGFR)-based to a risk-based approach to chronic kidney disease
+care. KF, kidney failure.
+www.kidney-international.org
+chapter 2
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S201

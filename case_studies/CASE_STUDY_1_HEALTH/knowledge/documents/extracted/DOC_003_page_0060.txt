@@ -1,0 +1,129 @@
+Hydralazine can be particularly effective for severe hypertension in 
+pregnancy and can be administered intravenously in hypertensive ad-
+missions (Section 10).666–668 While thiazide diuretics in pregnancy 
+have limited safety data and should be used with caution, other diuretics 
+such as furosemide are not contraindicated and may be necessary in 
+some situations (see Supplementary data online).669 
+9.2.8. Managing severe hypertension in pregnancy 
+(>160/110 mmHg) 
+Acute onset of severe hypertension persisting for more than 15 min is 
+considered a hypertensive emergency in pregnancy and is covered in 
+Section 10.4.2. 
+9.2.9. Managing blood pressure post-partum 
+For women with hypertension during pregnancy, BP should be mea-
+sured within 6 h of delivery and, if possible, daily for at least a week after 
+discharge from the hospital.637 Post-partum hypertension is common 
+in the first week and associated with prolonged hospitalization.670 
+Women with hypertension in pregnancy are at increased risk of 
+chronic hypertension,671 CKD,672 and CVD.177,223,640 The relative 
+risk of chronic hypertension is highest in the first 6 months following 
+delivery, motivating regular screening in these women.673 Women 
+with gestational hypertension, especially those with pre-eclampsia, 
+have higher risk of masked hypertension.674 BP measurements, ideally 
+including out-of-office measurements, urine analyses, and CVD risk as-
+sessment, should at least be performed 6–12 weeks, 6 months, and 
+12 months post-partum and, after that, annually. Recent data indicate 
+the potential utility of self-monitoring of BP during the busy early post- 
+partum period.675 
+All BP-lowering drugs are excreted into breast milk.637 Except for 
+propranolol, atenolol, acebutolol, and nifedipine, most drugs are ex-
+creted in very low concentrations in breast milk (see Supplementary 
+data online, Table S11).637 
+9.2.10. Risk of recurrence of hypertensive disorders 
+in a subsequent pregnancy 
+About 20%–30% of women with hypertensive disorders in a previous 
+pregnancy will experience recurrence in a subsequent pregnancy.676,677 
+The earlier the onset of hypertension in the first pregnancy, the higher 
+the risk of recurrence in a subsequent pregnancy.677 
+Further details on managing hypertension and other cardiovascular 
+disorders in pregnancy are available elsewhere.89,637 
+9.3. Very old age (≥85 years), frailty, 
+multimorbidity, and polypharmacy 
+9.3.1. Definition of frailty 
+The most common definition of frailty is an age-associated, biological 
+syndrome characterized by decreased biological reserves, due to dysre-
+gulation of several physiological systems.682 This puts an individual at 
+risk when facing physiological stressors, and is associated with poor 
+outcomes, such as disability, hospitalization, and death.683 The esti-
+mated prevalence of frailty in people aged >65 years is 7%–16% and 
+is greater in women than in men.684,685 Although the main determinant 
+of frailty is age, chronological age must be differentiated from biological 
+age.686 An older patient can be fit and robust while a multimorbid 
+young patient can be frail. Using multiple drugs may have more unpre-
+dictable effects on BP in older patients, because of increased competi-
+tion for underlying mechanisms responsible for their degradation and 
+elimination, and because the ability of the baro-687 and chemo-reflex688 
+systems in maintaining a steady treated BP level can decline with ageing. 
+With respect to BP, two issues compound interpretation of the 
+frailty literature. First, frailty on its own is a strong predictor of mortality 
+and cardiovascular complications689 and is accompanied by a decrease 
+in systolic BP.690 This raises the issue of the so-called BP J-curve (see 
+Section 9.8) and reverse causality, with frailty rather than excessive 
+BP lowering being the root cause of adverse health outcomes. Only 
+properly randomized and controlled clinical trials can differentiate be-
+tween the effects of frailty vs. overly intensive BP-lowering treatment, 
+but unfortunately, few BP-lowering trials have included a substantial 
+proportion of frail patients. Second, there is no consensus on how to 
+grade frailty in day-to-day clinical practice.606 Complex frailty scales ex-
+ist for application in research,523,691 but unless they are electronically 
+generated,692 they are typically not practical in routine clinical care. 
+Nonetheless, the clinical frailty scale (Figure 21) is intuitive and easy 
+to administer and has been validated against 5-year risk of death.596,693 
+Recommendation Table 22 — Recommendations for 
+managing hypertension in pregnancy (see Evidence 
+Tables 38–40) 
+Recommendations 
+Classa 
+Levelb 
+In women with gestational hypertension, starting 
+drug treatment is recommended for those with 
+confirmed office systolic BP ≥140 mmHg or diastolic 
+BP ≥90 mmHg.661 
+I 
+B 
+In pregnant women with chronic hypertension, 
+starting drug treatment is recommended for those 
+with confirmed office systolic BP ≥140 mmHg or 
+diastolic BP ≥90 mmHg.88,660,661,678 
+I 
+B 
+Continued 
+In women with chronic and gestational hypertension, 
+it is recommended to lower BP below 140/90 mmHg 
+but not below 80 mmHg for diastolic BP. 
+I 
+C 
+Dihydropyridine CCBs (preferably extended-release 
+nifedipine), labetalol, and methyldopa are 
+recommended first-line BP-lowering medications for 
+treating hypertension in pregnancy. 
+I 
+C 
+In consultation with an obstetrician, low- to 
+moderate-intensity exercise is recommended in all 
+pregnant women without contraindications to 
+reduce the risk of gestational hypertension and 
+pre-eclampsia.654,655 
+I 
+B 
+Systolic BP ≥160 mmHg or diastolic BP ≥110 mmHg 
+in pregnancy can indicate an emergency, and 
+immediate hospitalization should be considered. 
+IIa 
+C 
+HBPM and ABPM should be considered to exclude 
+white-coat and masked hypertension, which are 
+more common in pregnancy.679 
+IIa 
+C 
+RAS blockers are not recommended during 
+pregnancy.680,681 
+III 
+B 
+© ESC 2024
+ABPM, ambulatory blood pressure monitoring; BP, blood pressure; CCB, calcium channel 
+blocker; HBPM, home blood pressure monitoring; RAS, renin–angiotensin system. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3971 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

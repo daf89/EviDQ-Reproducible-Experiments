@@ -1,0 +1,78 @@
+
+
+===== PDF PAGE 61 =====
+
+49
+Annex 6. Technical specifications and use of aneroid manual blood pressure measuring devices with cuff 
+This section introduces manual BPMDs used by health care professionals to diagnose and treat hypertension. 
+Although many topics that also apply to manual devices are covered in previous sections, particular aspects 
+of manual devices are explained here. As this document encourages use of automated BP measurement, 
+the following topics specific to manual devices are not included: accuracy, validation standards, accessories 
+and consumables, guidance on procurement (except for changes in nomenclature), decontamination and 
+decommissioning.
+The manual, or auscultatory, BP measurement technique was first described by Korotkoff in early 1905 (1), 
+and many basic studies in BP research were performed with this technique (2). One of the main qualities of 
+auscultatory measurement is that the appearance of Korotkoff sounds indicates systolic pressure and the 
+disappearance (or muffling) of sound indicates diastolic blood pressure (3). 
+1.	Description
+There are two commonly used non-mercury sphygmomanometers for manual BP measurement (4): 
+•	 an aneroid manometer with an analogue display (circular scale with a pointer) and
+•	 an electrical pressure transducer (digital manual) with an analogue look but a digital display (described 
+previously).
+Arterial pressure is measured with a sphygmomanometer, as shown in Fig. A61, which consists of an inflatable 
+pressure cuff, a manometer (usually a mechanical gauge, electronic display or mercury column), an inflating 
+bulb (hand pump) to increase the pressure in the cuff, and a deflating valve (5).
+Fig. A6.1. Components of a sphygmomanometer 
+Annex 6
+Annex 6
+Technical specifications and use 
+of aneroid manual blood pressure 
+measuring devices with cuff 
+
+
+===== PDF PAGE 62 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+50
+When an inflated air cuff compresses an artery, it closes it and stops the flow of blood. As the outside cuff 
+pressure is gradually lowered, it eventually falls below that of the systolic pressure, and some blood forces its 
+way through the artery during the brief period when the arterial BP is higher than the cuff pressure; however, 
+the blood flow is not normal, resulting in turbulence that produces Korotkoff sounds. These sounds persist 
+until the cuff pressure falls below the diastolic pressure and blood flow returns to normal (Fig. A6.2).
+Fig. A6.2. Korotkoff sounds
+Source: Reference (6).
+Time
+Korotkoff sounds end
+Korotkoff sounds begin
+Systolic pressure
+Diastolic pressure
+75
+125
+Pressure, mm Hg
+Cuff pressure
+A stethoscope is used to listen to the Korotkoff sounds made by the blood flow in the arteries. Sounds occur 
+in five phases as the cuff is deflated from the maximal occlusive pressure. There no are sounds until the 
+cuff pressure is below the systolic pressure, when it creates turbulence and a sound is heard (Korotkoff 1, or 
+systolic pressure). The sounds continue, with a slight change in character, until the cuff pressure is deflated 
+below the diastolic pressure. At that point (Korotkoff 5, or diastolic pressure), no sound is heard. A manometer 
+connected to the cuff is used to identify the pressure during the transitions from silence to sound to silence. 
+The auscultatory technique requires expertise acquired through training and practice. Other essential elements 
+for accurate measurement by manual auscultation include very good auditory and visual acuity, manual 
+dexterity to inflate and deflate the bulb, little ambient noise, a good-quality stethoscope and frequent re-
+training of the staff to maintain standardized technique (7). Their hearing and accuracy should be reassessed 
+regularly, at 6–12-month intervals. To carry out the BP measurement with a manual device, the following 
+steps are suggested:
+•	 Use a palpated estimate of the radial pulse obliteration pressure to determine maximal cuff inflation for 
+BP measurement. Rapidly inflate the cuff 20–30 mm Hg above the pulse obliteration pressure to ensure 
+proper determination of systolic pressure. (The pulse obliteration pressure is determined by palpating the 
+radial pulse, rapidly inflating the sphygmomanometer, first to 60 mm Hg then in increments of 10 mm 
+Hg until the pulse is no longer palpated.) 
+•	 Deflate the cuff pressure by 2–3 mm Hg per second and listen for Korotkoff sounds. The onset of two 
+sequential tapping sounds is K1 and corresponds to the systolic BP. The point at which Korotkoff sounds 
+disappear is K5 and corresponds to the diastolic BP. Occasionally, K5 will not be heard (sounds are heard 
+to 0 mm Hg) or will be heard at a non-physiological level (e.g. 20 mm Hg). In such instances, the point 
+at which the Korotkoff sound is muffled (K4) should be used as the diastolic pressure.
+•	 Record systolic and diastolic pressure to the nearest even number. Do not round the number to the 
+nearest 5 or 10 mm Hg. 
+•	 Ensure regular calibration assessment (every 6 months or according to the manufacturer’s 
+recommendations) of any aneroid sphygmomanometer (manual BPMD).

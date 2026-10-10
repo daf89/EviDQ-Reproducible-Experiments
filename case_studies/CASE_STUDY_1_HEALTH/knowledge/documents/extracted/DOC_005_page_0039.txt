@@ -1,0 +1,61 @@
+39
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-12 En ambulatoire, le patient reçoit 
+les informations spécifiques aux modalités de sa prise 
+en charge
+Le patient est informé des modalités avant, pendant et après son séjour en ambulatoire du point de vue 
+administratif aussi bien que de ses soins. Ces informations, explicitées au patient, sont rassemblées dans 
+un document qui lui est remis ou aisément accessible.
+ Ambulatoire Standard 
+Éléments d’évaluation
+ Patient 
+• En chirurgie, le patient est informé des modalités pré, péri 
+et postopératoires de sa prise en charge ambulatoire.
+• Pour toutes les formes de prise en charge ambulatoire, le 
+patient dispose d’un document spécifique qui lui indique les 
+événements indésirables possibles ainsi que la conduite 
+à tenir en cas de survenue (type « passeport  » pour la 
+chirurgie et autre pour les autres activités : médecine, 
+SSR, psychiatrie…).
+ Professionnels 
+• Les professionnels informent le patient des modalités de 
+prise en charge en ambulatoire avant, pendant et après 
+son séjour.
+Patient traceur
+• e-Satis MCOCA (questions ad'hoc)
+Fiche pédagogique 
+Évaluation de la médecine et de la 
+chirurgie ambulatoire.
+Références HAS
+Mesure de la satisfaction et
+de l’expérience des patients hospitalisés
+pour une chirurgie ambulatoire
+(e-Satis MCOCA), 2019.
+Éléments d’appréciation en vue
+de la prise en charge d’un patient
+en chirurgie ambulatoire, 2014.
+Références légales 
+et réglementaires
+• Art. L. 1111-2 et D. 6124-304 du CSP. 
+• Article R. 4127-35 du CSP.
+• Décret n° 2022-1766 du 29 décembre 
+2022 relatif aux conditions techniques de 
+fonctionnement des activités de soins de 
+chirurgie, de chirurgie cardiaque et de 
+neurochirurgie.
+Autres références
+• Chirurgie ambulatoire mode d’emploi, 
+ANAP, 2013.
+• Guide de bonne pratique en chirurgie 
+ambulatoire de l’enfant, OA CHIRPED, 
+2014.
+• Gestion préopératoire du risque 
+infectieux  - SF2H, 2013.

@@ -1,0 +1,184 @@
+Abbreviations and acronyms
+ACEi
+angiotensin-converting enzyme inhibitor(s)
+ACR
+albumin-to-creatinine ratio
+ADA
+American Diabetes Association
+ADPKD
+autosomal dominant polycystic kidney disease
+AER
+albumin excretion rate
+AIDS
+acquired immune deﬁciency syndrome
+AKD
+acute kidney disease
+AKI
+acute kidney injury
+ARB
+angiotensin II receptor blocker
+ASCVD
+atherosclerotic cardiovascular disease
+BMI
+body mass index
+BP
+blood pressure
+BSA
+body surface area
+CI
+conﬁdence interval
+CKD
+chronic kidney disease
+CKD-EPI
+Chronic Kidney Disease Epidemiology
+Collaboration
+CKiD
+Chronic Kidney Disease in Children
+CKD-MBD
+chronic kidney disease-mineral and bone
+disorder
+CKD-PC
+Chronic Kidney Disease Prognosis
+Consortium
+CrCl
+creatinine clearance
+CT
+computed tomography
+CVD
+cardiovascular disease
+DALY
+disability-adjusted life-year
+eGFR
+estimated glomerular ﬁltration rate
+eGFRcr
+creatinine-based estimated glomerular
+ﬁltration rate
+eGFRcr-cys
+creatinine and cystatin C–based estimated
+glomerular ﬁltration rate
+eGFRcys
+cystatin C–based estimated glomerular
+ﬁltration rate
+EKFC
+European Kidney Function Consortium
+EMA
+European Medicines Agency
+EMR
+electronic medical record
+ERT
+Evidence Review Team
+FDA
+Food and Drug Administration
+GBD
+Global Burden of Disease
+GFR
+glomerular ﬁltration rate
+GLP-1 RA
+glucagon-like peptide-1 receptor agonist(s)
+GN
+glomerulonephritis
+HBV
+hepatitis B virus
+HCV
+hepatitis C virus
+HDL
+high-density lipoprotein
+HIV
+human immunodeﬁciency virus
+HR
+hazard ratio
+HRQoL
+health-related quality of life
+IgG
+immunoglobulin G
+IQR
+interquartile range
+i.v.
+intravenous
+KDIGO
+Kidney Disease: Improving Global
+Outcomes
+KDOQI
+Kidney Disease Outcomes Quality Initiative
+KFRE
+Kidney Failure Risk Equation
+KRT
+kidney replacement therapy
+LDL
+low-density lipoprotein
+LMIC
+low- and middle-income countries
+MACE
+major adverse cardiovascular events
+MDRD
+Modiﬁcation of Diet in Renal Disease
+mGFR
+measured glomerular ﬁltration rate
+MRA
+mineralocorticoid receptor antagonist(s)
+mTOR
+mammalian target of rapamycin
+NICE
+National Institute for Health and Care
+Excellence
+NIHR
+National Institute for Health and Care
+Research
+NOAC
+non–vitamin K antagonist oral
+anticoagulant
+NSAIDs
+nonsteroidal anti-inﬂammatory drugs
+OR
+odds ratio
+OTC
+over-the-counter
+PCR
+protein-to-creatinine ratio
+PCSK-9
+proprotein convertase subtilisin/kexin type-9
+PICOS
+population, intervention, comparator,
+outcomes, study design
+POCT
+point-of-care testing
+PROM
+patient-reported outcome measure
+QoL
+quality of life
+RAS(i)
+renin-angiotensin system (inhibitor)
+RAAS(i)
+renin-angiotensin-aldosterone system
+(inhibitor)
+RBC
+red blood cell
+RCT
+randomized controlled trial
+RR
+relative risk
+SCr
+serum creatinine
+SBP
+systolic blood pressure
+SES
+socioeconomic status
+SGLT2i
+sodium-glucose cotransporter-2
+inhibitor(s)
+T1D
+Type 1 diabetes
+T2D
+Type 2 diabetes
+UK
+United Kingdom
+US
+United States
+USRDS
+United States Renal Data System
+WHO
+World Health Organization
+abbreviations and acronyms
+www.kidney-international.org
+S128
+Kidney International (2024) 105 (Suppl 4S), S117–S314

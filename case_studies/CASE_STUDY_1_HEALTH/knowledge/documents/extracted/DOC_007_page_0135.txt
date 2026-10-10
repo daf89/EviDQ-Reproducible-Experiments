@@ -1,0 +1,153 @@
+more profound in people with cancer, and mGFR may be the
+preferred method to guide the initial dosing for a select group
+of anticancer drugs including, but not limited to, carboplatin,
+cisplatin, and methotrexate (Section 1.2).
+Dose adjustment in children/neonates. In addition to the
+usual weight-based dosing for children, speciﬁc guidance on
+drug dosing should be followed for neonates who have lower
+GFR than those outside the neonatal period.
+Dose adjustment in pregnancy. Creatinine decreases physi-
+ologically during
+pregnancy due to glomerular hyper-
+ﬁltration, and BSA varies. This creates challenges for using
+GFR or eGFR equations.54 In such settings for people who
+require medications that are impacted by or could impact
+GFR, healthcare providers should regularly assess risk,
+beneﬁt, and value of medications.
+4.3 Polypharmacy and drug stewardship
+People with CKD are particularly susceptible to poly-
+pharmacy due to multiplicity of comorbidities and multiple
+physician or health system encounters related to those. Most
+people with CKD not treated with dialysis receive 6–12
+different medications per day.763 Polypharmacy leads to
+increased pill burden and potential harm due to medication
+errors
+and
+drug-drug
+interactions.
+Thus,
+healthcare
+providers, including clinical pharmacists, should be diligent
+in assessing medication appropriateness, number, dose, and
+potential
+interactions.
+Drug
+stewardship
+promotes
+safe
+medication
+use
+throughout
+the
+course
+of
+therapy.
+Medications need to be prescribed responsibly, monitored
+for efﬁcacy and safety, and when no longer required,
+discontinued.
+Practice Point 4.3.1: Perform thorough medication review
+periodically and at transitions of care to assess adherence,
+continued indication, and potential drug interactions
+because people with CKD often have complex medication
+regimens and are seen by multiple specialists.
+Medication review is essential for minimizing the occur-
+rence of medication-related problems (e.g., inappropriately
+high doses and drug interactions) that commonly occur in the
+CKD population.777 If a person no longer has an indication
+for a medication that may contribute to kidney injury (e.g.,
+PPIs),
+healthcare
+providers
+should
+recognize
+the
+opportunity to discontinue the medication. Medication
+review at each clinical encounter, especially care transitions,
+is an opportunity to review medication types, interval, and
+doses especially if the individual has experienced a decline
+in GFR (e.g., metformin) or physiologic changes that can
+impact medication volume of distribution (e.g., volume
+overload and sarcopenia).778 Figure 46729 discusses key steps
+in the medication review process. Three studies have
+Assessing that the dosage
+and regimen are correct
+Medication agreement
+Communication with other physicians
+CKD
+patient
+Optimizing
+the
+medication
+impact
+Minimizing
+medication-
+related
+problem
+Reviewing the medication list
+for interactions or adverse effects
+Ensuring that proper
+monitoring takes place
+Assessing medication adherence
+and causes for nonadherence
+Obtaining an accurate
+medication list
+Evaluating whether each medication
+is necessary or whether any other
+necessary medication is required
+Determining whether each
+medication is the preferred
+medication for its indication
+Resolving any discrepancies
+between the actual medication list
+and the one in the medical record
+M
+e
+di
+c
+at
+io
+n
+re
+c
+o
+n
+ci
+li
+at
+io
+n
+M
+e
+di
+ca
+ti
+o
+n
+re
+vi
+e
+w
+M
+e
+di
+ca
+ti
+on
+re
+vi
+e
+w
+Figure 46 | Suggested steps in the process of medication review and reconciliation. Best practices for medication review and reconciliation
+in people with chronic kidney disease (CKD) include 8 steps728 and can be summarized as follows: (i) obtain an accurate medication list from the
+patient; (ii) evaluate whether all medications are medically necessary or whether any other medications is required; (iii) assess whether current
+therapy represents the “drug of choice” for each indication, individualized for each patient; (iv) evaluate the medication dosage and regimen,
+taking into consideration related factors such as liver dysfunction, patient size, or weight (e.g., amputation, muscle wasting, and over- or
+underweight); (v) review the medication list for drug interactions, including drug-drug, drug-disease, drug-laboratory, and drug-food
+interactions; (vi) ensure that proper monitoring takes place; (vii) determine whether there are any barriers to patient adherence, and evaluate
+relevant laboratory values; and (viii) identify and resolve any discrepancies between the medications list and the one in the medical record;
+communication of performed changes in the medication chart with other physicians is necessary given the role of multiple prescribers involved
+in the care of patients with CKD.729
+chapter 4
+www.kidney-international.org
+S250
+Kidney International (2024) 105 (Suppl 4S), S117–S314

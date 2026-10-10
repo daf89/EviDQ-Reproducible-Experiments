@@ -1,0 +1,17 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+Exhibit 36: DeterminantsofHealthfrom the County HealthRankings Model(2016)[72] 
+Graphic included with permission. © 2016 University of Wisconsin Population Health Institute (UWPHI). 
+EHR Data 
+• 
+Identifying Socialand BehavioralNeeds: 
+More EHRs are capable of incorporating SDOH and behavioral health data in the form of 
+validated assessments,suchas Protocolfor Responding to and Assessing Patients' Assets,Risks, 
+and Experiences from the National Association of Community Health Centers (PRAPARE 
+NACHC), and as structured data that can be mapped to standard code values. For example, you 
+will increasingly find that EHRs provide (or can be configured with) structured demographic 
+fields for sexual orientation and gender identity (SOGI), race, ethnicity, language, and 
+disabilities. Standard codes are also being developed and implemented for social needs 
+pertaining to health, including housing, food, and/or transportation.[73] AHRQ’s social 
+Health IT Advisor Handbook 
+Page 77

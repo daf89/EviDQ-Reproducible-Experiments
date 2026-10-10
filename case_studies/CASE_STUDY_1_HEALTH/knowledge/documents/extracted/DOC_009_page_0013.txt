@@ -1,0 +1,182 @@
+Provider
+Initial sample after subsampling
+Final eligible sample
+Completion rate
+Refusal rate
+Other nonresponse rate1
+Pharmacies
+7,424
+6,448
+0.900
+0.015
+0.086
+Total
+44,444
+36,199
+Notes:
+1 “Other nonresponse” includes unlocatable, type 1 disavowal, and other nonresponse.
+Return to Table of Contents
+Table 3‑4. Pair‑level Completion Rates, MPC 2021‑2024
+Pair
+Initial sample after subsampling
+Final eligible sample
+Completion rate
+Refusal rate
+Other nonresponse rate1
+2021
+Hospitals
+13,112
+11,960
+0.600
+0.026
+0.374
+Office‑Based Doctors
+19,810
+17,470
+0.640
+0.037
+0.324
+HMOs
+742
+652
+0.463
+0.000
+0.537
+Home care providers
+1,069
+965
+0.730
+0.042
+0.228
+Institutions
+121
+119
+0.849
+0.025
+0.126
+SBDs
+20,158
+14,760
+0.495
+0.053
+0.451
+Pharmacies
+21,106
+17,698
+0.812
+0.112
+0.076
+Total
+76,118
+63,624
+2022
+Hospitals
+10,134
+8,869
+0.700
+0.046
+0.254
+Office‑Based Doctors
+19,819
+17,088
+0.642
+0.051
+0.306
+HMOs
+681
+538
+0.578
+0.022
+0.400
+Home care providers
+859
+794
+0.773
+0.050
+0.176
+Institutions
+109
+102
+0.892
+0.029
+0.078
+SBDs
+16,723
+10,953
+0.634
+0.033
+0.332
+Pharmacies
+16,566
+13,940
+0.842
+0.097
+0.060
+Total
+64,891
+52,284
+2023
+Hospitals
+9,399
+8,146
+0.730
+0.063
+0.207
+Office‑Based Doctors
+17,991
+15,456
+0.667
+0.050
+0.283
+HMOs
+563
+433
+0.868
+0.002
+0.129
+Home care providers
+741
+670
+0.797
+0.049
+0.154
+Institutions
+124
+121
+0.876
+0.025
+0.099
+SBDs
+18,768
+12,415
+0.602
+0.080
+0.319
+Pharmacies
+14,395
+12,137
+0.892
+0.051
+0.057
+Total
+61,981
+49,378
+2024
+Hospitals
+9,758
+8,555
+0.668
+0.059
+0.273
+Office‑Based Doctors
+17,417
+14,824
+0.668
+0.038
+0.295
+Notes:
+1 “Other nonresponse” includes unlocatable, type 1 disavowal, and other nonresponse.
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+13/40

@@ -1,0 +1,6 @@
+feature,n_potential_outlier_TRAIN,n_potential_outlier_VALIDATION,potential_outlier_rate_percent_TRAIN,potential_outlier_rate_percent_VALIDATION
+CO,5556.0,2308.0,2.892,2.257
+DEWP,1000.0,850.0,0.486,0.823
+PM10,4635.0,1713.0,2.26,1.668
+PM2.5,8478.0,3473.0,4.138,3.389
+WSPM,7507.0,4916.0,3.648,4.76

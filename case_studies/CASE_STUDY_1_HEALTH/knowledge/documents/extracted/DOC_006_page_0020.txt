@@ -1,0 +1,46 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+• 
+Stories resonatewith staffand providers. Tables and graphs filled with numbers can motivate 
+analytical team members, but many others find feedback less sterile and more memorable 
+when it is tied to real patient and care team experiences. Health IT Advisors can work with QI 
+teams to share success stories that build momentum or bring up examples of a poor outcome 
+that can develop a sense of urgency for change. 
+For example, a Health IT Advisor could use this run chart (Exhibit 6) showing the number of 
+patients screenedfor unhealthy alcohol use to askthe QI team, “Yourdata shows a great 
+increase in screening for unhealthy alcohol use; can you think of any of these patients who 
+screened positive that you then went on to connect with resources to help stop drinking?” 
+Exhibit 6: Sample of a Simple Run Chart 
+Number of unique patients screened for 
+unhealthy alcohol use over the past 3 months: 
+1200 
+Baseline 
+Q1 
+Q2 
+0 
+200 
+400 
+600 
+800 
+1000 
+• 
+Feedback can beused to reinforcegood datapractices. Health IT Advisors can draw attention 
+to how the practice advanced their QI agenda by using foundational data skills like validating a 
+report, creating a new patient registry, or training staff on new documentation workflows. This 
+feedback can be brought up at regular QI meetings, by annotating run charts, or when 
+debriefing at the end of a project. Sharing feedback with a larger clinical team as well, beyond QI 
+groups, will promote greater buy-in for future projects. 
+1.9 
+Incentivizing Quality Improvement 
+The Health IT Advisor is positioned to translate programmatic benefits and incentives related to quality 
+data systems to practice teams and individuals. Both intrinsic (personal development, belonging, 
+recognition, altruism) and extrinsic (rewards, penalties, compliance) motivators matter when promoting 
+data-driven continuous QI. 
+What can a Health IT Advisor do to incentivize QI in a practice? 
+• 
+Contribute your understanding of programmatic incentives. Practices look to their Health IT 
+Advisor to answer questions about program requirements. Good Health IT Advisors 
+demonstrate how the practice’s health IT strategies and tactics are directly related to achieving 
+success in payment, QI, and other programs. Alignment of practice motivations and incentives 
+Health IT Advisor Handbook 
+Page 15

@@ -1,0 +1,182 @@
+compared with those without GDM, were 
+at 3.4-fold higher risk of developing predia
+betes and type 2 diabetes and had children 
+with a higher risk of obesity and increased 
+body fat, suggesting that the group identi
+fied as having GDM by the one-step ap
+proach would benefit from the increased 
+screening for diabetes and prediabetes 
+after pregnancy (212). The ADA recom
+mends the IADPSG diagnostic criteria to 
+optimize gestational outcomes, because 
+these criteria are the only ones based on 
+pregnancy outcomes rather than end points 
+such as prediction of subsequent maternal 
+diabetes.
+Expected benefits of using IADPSG cri
+teria for offspring are inferred from inter
+vention trials focusing on individuals with 
+lower levels of hyperglycemia than thosei
+dentified using older GDM diagnostic cri
+teria.Those trials found modest benefits, 
+including reduced rates of large-for-gesta
+tional-age births and preeclampsia (213, 
+214). Of note, 80–90% of participants be
+ing treated for mild GDM in these two 
+RCTs could be managed with lifestyle ther
+apy alone. The OGTT glucose cutoffs in 
+these two trials overlapped the thresholds 
+recommended by the IADPSG, and in one 
+trial (214), the 2-h PG threshold (140 mg/dL 
+[7.8 mmol/L]) was lower than the cutoff 
+recommended by the IADPSG (153 mg/dL 
+[8.5 mmol/L]).
+No RCTs of treating versus not treat
+ing GDM diagnosed by different criteria 
+have been published to date. However, a 
+randomized trial of testing for GDM 
+at 24–28 weeks of gestation by the 
+one-step method using IADPSG crite
+ria versus the two-step method by 
+Carpenter-Coustan criteria identified twice 
+as many individuals with GDM using the 
+one-step method. Despite treating more 
+individuals for GDM using the one-step 
+method, there was no difference in 
+pregnancy and perinatal complications 
+(215), though concerns were raised about 
+sample size estimates and unanticipated 
+suboptimal engagement with the screen
+ing and treatment protocol. For example, 
+in the two-step group, 165 participants 
+not counted as having GDM were treated 
+for isolated elevated FPG >95 mg/dL 
+(>5.3 mmol/L) (216).
+The one-step method identifies long- 
+term risks of maternal prediabetes and 
+diabetes as well as offspring glucose in
+tolerance and adiposity. Post hoc GDM 
+in individuals diagnosed with this method 
+in the HAPO cohort was associated with 
+higher prevalence of IGT; higher 30-min, 
+1-h, and 2-h glucose levels during the 
+OGTT; and reduced insulin sensitivity and 
+oral disposition index in their offspring at 
+10–14 years of age compared with off
+spring of mothers without GDM. Associa
+tions of mother’s fasting, 1-h, and 2-h 
+values on the 75-g OGTT were continu
+ous with a comprehensive panel of off
+spring metabolic outcomes (217,218). 
+HAPO Follow-up Study (HAPO FUS) data 
+demonstrate that neonatal adiposity and 
+fetal hyperinsulinemia (cord C-peptide), 
+both higher across the continuum of ma
+ternal hyperglycemia, are mediators of 
+childhood body fat (219).
+Data are lacking on how the treatment 
+of mother’s hyperglycemia in pregnancy 
+affects her offspring’s risk for obesity, 
+diabetes, and other metabolic disorders 
+(220,221). Additional well-designed clinical 
+studies are needed to determine the opti
+mal intensity of monitoring and treatment 
+of individuals with GDM diagnosed by the 
+one-step strategy.
+Two-Step Strategy
+In 2013, the NIH convened a consensus 
+development conference to consider di
+agnostic criteria for diagnosing GDM (222). 
+The panel recommended continuing a 
+two-step approach to screening that used 
+a 1-h 50-g glucose loading test (GLT) fol
+lowed by a 3-h 100-g OGTT for those who 
+screened positive. The American College 
+of Obstetricians and Gynecologists (ACOG) 
+recommends any of the commonly used 
+thresholds of 130, 135, or 140 mg/dL for 
+the 1-h 50-g GLT (223). A 2021 U.S. Pre
+ventive Services Task Force systematic 
+review concluded that one-step versus 
+two-step screening is associated with in
+creased likelihood of GDM (11.5% vs. 4.9%) 
+but without improved health outcomes 
+(224). The use of A1C at 24–28 weeks of 
+gestation as a screening test for GDM 
+does not function as well as the GLT (225).
+Importantly, the NIH panel noted the 
+lack of clinical trial data demonstrating 
+the benefits of the one-step strategy 
+and the potential negative consequences 
+of identifying a large group of individuals 
+with GDM, including medicalization of 
+pregnancy with increased health care 
+utilization and costs. Moreover, screen
+ing with a 50-g GLT does not require 
+fasting and therefore is easier to accom
+plish for many individuals. Treatment of 
+higher-threshold maternal hyperglycemia, 
+as identified by the two-step approach, 
+reduces rates of neonatal macrosomia, 
+large-for-gestational-age births (226), and 
+shoulder dystocia without increasing small- 
+for-gestational-age births. ACOG currently 
+supports the two-step approach but notes 
+that one elevated value, as opposed to 
+two, may be used for the diagnosis of 
+GDM (223). If this approach is imple
+mented, the incidence of GDM will likely 
+increase markedly. ACOG recommends ei
+ther of two sets of diagnostic thresholds 
+for the 3-h 100-g OGTT Carpenter-Coustan 
+or National Diabetes Data Group (227,228). 
+Each is based on different mathematical 
+conversions of the original recommended 
+thresholds by O’Sullivan and Mahan (209), 
+which used whole blood and nonenzymatic 
+methods for glucose determination. A sec
+ondary analysis of data from a randomized 
+clinical trial of identification and treatment 
+of mild GDM (229) demonstrated that 
+treatment was similarly beneficial in people 
+meeting only the lower thresholds per 
+Carpenter-Coustan (227) and in those 
+meeting only the higher thresholds per 
+National Diabetes Data Group (228). 
+If the two-step approach is used, it 
+would appear advantageous to use the 
+Carpenter-Coustan lower diagnostic thresh
+olds, as shown in step 2 in Table 2.8.
+Future Considerations
+Data exist to support each strategy, as 
+demonstrated by differing recommen
+dations by expert groups. A systematic 
+review of economic evaluations of GDM 
+screening found that the one-step method 
+identified more cases of GDM and was 
+more likely to be cost-effective than the 
+two-step method (230). The decision of 
+which strategy to implement must there
+fore be made based on the relative values 
+placed on factors that have yet to be 
+measured (e.g., willingness to change 
+practice based on correlation studies 
+rather than intervention trial results, 
+available infrastructure, and importance 
+of cost considerations).
+The IADPSG criteria (one-step strat
+egy) have been adopted internationally 
+as the preferred approach. Data that 
+compare population-wide outcomes with 
+one-step versus two-step approaches have 
+been inconsistent to date (215,231–233). 
+Pregnancies complicated by GDM per the 
+IADPSG criteria, but not recognized as 
+such, have outcomes comparable to preg
+nancies with diagnosed GDM by the more 
+stringent two-step criteria (234,235). There 
+remains strong consensus that establishing 
+S44 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

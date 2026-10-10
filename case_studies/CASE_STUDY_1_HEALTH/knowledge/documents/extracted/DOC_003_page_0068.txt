@@ -1,0 +1,119 @@
+may have been under-powered and more recent meta-analyses do 
+convincingly support efficacy in reducing dementia with BP-lowering 
+treatment.610,611 Indeed, these meta-analyses reported a reduced 
+risk of incident dementia or cognitive impairment with BP lowering 
+of 7%–13%.610,611 While one trial suggested superiority of long-acting 
+CCBs,264 it is unclear if any first-line BP-lowering agent is preferable for 
+preventing dementia and cognitive impairment.846,847 
+The role of competing risk mechanisms including orthostatic hypo-
+tension848 and BP variability849 may be important factors in treatment 
+decisions for people with frailty, multimorbidity, and/or chronic cere-
+brovascular disease. 
+9.10. Aortopathy 
+9.10.1. Coarctation of the aorta 
+Aortic coarctation is associated with CVD in the long term, even follow-
+ing early surgical or percutaneous treatment. The most common com-
+plications are associated with hypertension, which is common in aortic 
+coarctation. When aortic coarctation is not treated, patients often de-
+velop severe hypertension and HMOD (especially LVH and left ventricu-
+lar dysfunction, aortopathy, and cerebrovascular complications).850–852 
+No formal RCTs to define optimal medical treatment of hypertension 
+in aortic coarctation have been conducted, therefore, patients not suit-
+able for, or having undergone, intervention should be treated for hyper-
+tension following the core algorithm for the general population. 
+9.10.2. Bicuspid aortic valve-related aortopathy 
+Bicuspid aortic valve is the most common congenital heart disease and is 
+sometimes associated with aortopathy or aortic coarctation. Bicuspid aor-
+tic valve disease is associated with an increased risk of valve malfunction 
+and adverse aortic events.853,854 This risk is exacerbated by hypertension. 
+Beyond aortic dilation and aneurysm formation, bicuspid aortic valve 
+disease is also a risk factor for aortic dissection and rupture.855 Blood 
+pressure should be carefully monitored and controlled.856 
+9.10.3. Preventing aortic dilation and dissection in 
+high-risk patients 
+A modest dilatation of the ascending aorta or aortic root is often asso-
+ciated with chronic hypertension and HMOD. An additional cause of 
+aortopathy (bicuspid valve, coarctation, Marfan or other syndromes) 
+should be considered in more severe cases.857 Patients with aortic dila-
+tation should have their BP optimally controlled following the core al-
+gorithm for the general hypertension population. 
+In patients with Marfan syndrome, prophylactic use of ARBs, ACE inhi-
+bitors, or beta-blockers may reduce complications or progression of aortic 
+dilation.857–860 More information is available in the 2024 ESC Guidelines 
+for the management of peripheral arterial and aortic diseases.861 
+9.11. Different ethnic groups 
+Influx and settlement of migrant populations in Europe have contribu-
+ted to regional population growth and changes in its composition.862 
+Ethnic minority populations are disproportionally affected by hyperten-
+sion and hypertension-mediated complications, compared with histor-
+ically native Europeans, with data suggesting migrant women are 
+particularly vulnerable.536,863 In particular, hypertension is more preva-
+lent in those of African descent.863,864 The predominant group of 
+European black ethnicity originates from sub-Saharan Africa,863 but 
+specific studies on the management and control of hypertension in 
+this population are lacking, and data are often extrapolated from studies 
+in the African American population.864 This assumption requires cau-
+tion, as differences likely exist between these populations in terms of 
+CVD risk, economic, and sociological status,865,866 as well as responses 
+to BP-lowering drugs.867 
+Black patients have a greater prevalence of low-renin, salt-sensitive 
+hypertension and may be more predisposed to HMOD than white pa-
+tients, possibly in part due to increased vascular stiffness.864,868,869 Salt 
+restriction, thiazide or thiazide-like diuretics, and CCBs appear particu-
+larly useful in black patients with hypertension, whereas RAS blocker 
+monotherapy may be less effective.870–873 If combination therapy is 
+needed, in a recent RCT conducted in sub-Saharan African countries, 
+amlodipine plus either hydrochlorothiazide or perindopril proved to 
+be equally effective and superior, respectively, to hydrochlorothiazide 
+plus perindopril.874 When RAS blockers are used in combination ther-
+apy, ARBs may be preferable to ACE inhibitors, as angioedema appears 
+more common with ACE inhibitors in black patients. 
+Despite some recent progress,875 data on hypertension epidemi-
+ology and management in European immigrant patients are still 
+lacking.863,875–877 
+9.12. Nocturnal hypertension 
+9.12.1. Definition 
+Nocturnal hypertension is defined as night-time BP of >120 mmHg systol-
+ic and/or >70 mmHg diastolic by 24 h ABPM. Nocturnal hypertension can 
+occur as day–night sustained hypertension or isolated nocturnal hyperten-
+sion (daytime BP < 135/85 mmHg on 24 h ABPM). Physiologically, BP is 
+Recommendation Table 28 — Recommendations for 
+managing hypertension in patients with chronic cere-
+brovascular disease and cognitive impairment 
+Recommendations 
+Classa 
+Levelb 
+It is recommended that the BP-lowering drug 
+treatment strategy for preventing recurrent stroke 
+should comprise a RAS blocker plus a CCB or a 
+thiazide-like diuretic.820,823,825,826 
+I 
+A 
+In patients with confirmed BP ≥130/80 mmHg with a 
+history of TIA or stroke a systolic BP target of 120– 
+129 mmHg is recommended to reduce CVD 
+outcomes, provided treatment is tolerated.824,827,828 
+I 
+A 
+© ESC 2024
+BP, blood pressure; CCB, calcium channel blocker; CVD, cardiovascular disease; RAS, 
+renin–angiotensin system; TIA, transient ischaemic attack. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 29 — Recommendations for 
+managing hypertension in different ethnic groups 
+Recommendation 
+Classa 
+Levelb 
+In black patients from Sub-Saharan Africa who 
+require BP-lowering treatment, combination therapy 
+including a CCB combined with either a thiazide 
+diuretic or a RAS blocker should be considered.874 
+IIa 
+B 
+© ESC 2024
+BP, blood pressure; CCB, calcium channel blocker; RAS, renin–angiotensin system. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3979 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

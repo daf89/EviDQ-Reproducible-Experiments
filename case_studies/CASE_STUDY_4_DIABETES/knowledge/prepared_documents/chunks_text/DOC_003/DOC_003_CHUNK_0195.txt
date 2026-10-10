@@ -1,0 +1,151 @@
+
+
+===== PDF PAGE 389 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-30 
+WHO STEPS Surveillance 
+ 
+ 
+Smokeless 
+tobacco 
+consump- 
+tion 
+Description: Percentage of current users of smokeless tobacco who use each of the 
+following products. 
+ 
+Instrument questions: 
+• Do you currently use any smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+• Do you  currently use smokeless tobacco products daily? 
+• On average, how many times a day/week do you use…? 
+ 
+Percentage of current users of smokeless tobacco using each of the following products 
+Age 
+Group 
+(years) 
+Men 
+n 
+% Snuff by 
+95% CI 
+% Snuff by 
+95% CI 
+% Chewing 
+95% CI 
+mouth 
+nose 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current users of smokeless tobacco using each of the following 
+products 
+Age 
+Group 
+(years) 
+Men 
+n 
+% Betel, quid 
+95% CI 
+% Other 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current users of smokeless tobacco using each of the following products 
+Age 
+Group 
+(years) 
+Women 
+n 
+% Snuff by 
+95% CI 
+% Snuff by 
+95% CI 
+% Chewing 
+95% CI 
+mouth 
+nose 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current users of smokeless tobacco using each of the following 
+products 
+Age 
+Group 
+(years) 
+Women 
+n 
+% Betel, quid 
+95% CI 
+% Other 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+
+
+===== PDF PAGE 390 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-31 
+WHO STEPS Surveillance 
+ 
+ 
+Percentage of current users of smokeless tobacco using each of the following products 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% Snuff by 
+95% CI 
+% Snuff by 
+95% CI 
+% Chewing 
+95% CI 
+mouth 
+nose 
+tobacco 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of current users of smokeless tobacco using each of the following 
+products 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% Betel, quid 
+95% CI 
+% Other 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T12, T13, T14a-otherw 
+• Epi Info program name: Tsmokelesstypeprev (unweighted); TsmokelesstypeprevWT 
+(weighted) 
+ 

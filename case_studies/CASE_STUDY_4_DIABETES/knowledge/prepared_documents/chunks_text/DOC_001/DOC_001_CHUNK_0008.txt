@@ -1,0 +1,361 @@
+
+
+===== PDF PAGE 15 =====
+
+decision-making, which carefully weighs 
+the cardiovascular benefits against the 
+increase in risk of bleeding.
+For people with documented ASCVD, 
+use of aspirin for secondary prevention has 
+far greater benefit than risk; for this indica­
+tion, aspirin is still recommended (168).
+Aspirin Use in People <50 Years of 
+Age
+Aspirin is not recommended for those at 
+low risk of ASCVD (such as men and 
+women aged <50 years with diabetes 
+with no other major ASCVD risk factors), 
+as the low benefit is likely to be out­
+weighed by the risk of bleeding. Clinical 
+judgment should be used for those at in­
+termediate risk (younger individuals with 
+one or more risk factors or older individ­
+uals with no risk factors) until further re­
+search is available. ASCVD risk factors 
+include older age, hypertension, dyslipi­
+demia, smoking, CKD, or obesity. Individ­
+uals’ willingness to undergo long-term 
+aspirin therapy should also be considered 
+in shared decision-making (183). Aspirin 
+use in individuals aged <21 years is gen­
+erally contraindicated due to the associ­
+ated risk of Reye syndrome.
+Aspirin Dosing
+Average daily dosages used in most clini­
+cal trials involving people with diabetes 
+ranged from 50 to 650 mg but were 
+mostly in the range of 100–325 mg/day. 
+There is little evidence to support any 
+specific dose, but using the lowest possi­
+ble dose may help to reduce side effects 
+(184). In the ADAPTABLE (Aspirin Dosing: 
+A Patient-Centric Trial Assessing Benefits 
+and Long-term Effectiveness) trial of indi­
+viduals with established CVD, 38% of 
+whom had diabetes, there were no signif­
+icant differences in cardiovascular events 
+or major bleeding between individuals 
+assigned to 81 mg and those assigned 
+to 325 mg aspirin daily (185). In the 
+U.S., the most common low-dose tablet is 
+81 mg, and it appears that 75–162 mg/day 
+is optimal.
+Indications for P2Y12 Receptor 
+Antagonist Use
+Combination dual antiplatelet therapy with 
+aspirin and a P2Y12 receptor antagonist is 
+indicated after acute coronary syndromes 
+and coronary revascularization with stent­
+ing (186). Evidence supports use of either 
+ticagrelor or clopidogrel if no percutane­
+ous coronary intervention was performed 
+and clopidogrel, ticagrelor, or prasugrel if 
+a percutaneous coronary intervention was 
+performed (187). In people with diabetes 
+and prior MI (1–3 years before), adding ti­
+cagrelor to aspirin significantly reduces the 
+risk of recurrent ischemic events, including 
+cardiovascular and CHD death (188). Simi­
+larly, the addition of ticagrelor to aspirin 
+reduced the risk of ischemic cardiovascular 
+events compared with aspirin alone in 
+people with diabetes and stable coronary 
+artery disease (189,190). However, a higher 
+incidence of major bleeding, including in­
+tracranial hemorrhage, was noted with 
+dual antiplatelet therapy. The net clinical 
+benefit (ischemic benefit vs. bleeding risk) 
+was improved with ticagrelor therapy in 
+the large prespecified subgroup of indi­
+viduals with history of percutaneous coro­
+nary intervention, while no net benefit 
+was seen in individuals without prior per­
+cutaneous coronary intervention (190). 
+However, early aspirin discontinuation 
+compared with continued dual antiplate­
+let therapy after coronary stenting may 
+reduce the risk of bleeding without a cor­
+responding increase in the risks of mortal­
+ity and ischemic events, as shown in a 
+prespecified analysis of people with dia­
+betes enrolled in the TWILIGHT (Ticagre­
+lor With Aspirin or Alone in High-Risk 
+Patients After Coronary Intervention) trial 
+and a meta-analysis (191,192).
+Current guidelines recommend short- 
+term dual antiplatelet therapy after high- 
+risk transient ischemic attack and minor 
+stroke (193). The indications for dual anti­
+platelet therapy and length of treatment 
+are rapidly evolving and should be deter­
+mined by an interprofessional team ap­
+proach that includes a cardiovascular or 
+neurological specialist, as appropriate.
+Combination Antiplatelet and 
+Anticoagulation Therapy
+Combination therapy with aspirin plus 
+low-dose rivaroxaban may be considered 
+for people with stable coronary and/or 
+PAD to prevent major adverse limb and 
+cardiovascular complications. In the 
+COMPASS (Cardiovascular Outcomes for 
+People Using Anticoagulation Strategies) 
+trial of 27,395 individuals with established 
+coronary artery disease and/or PAD, aspirin 
+plus rivaroxaban 2.5 mg twice daily was 
+superior to aspirin plus placebo in the re­
+duction of cardiovascular ischemic events, 
+including major adverse limb events. The 
+absolute benefits of combination therapy 
+appeared larger in people with diabetes, 
+who comprised 10,341 of the trial par­
+ticipants (194,195). A similar treatment 
+strategy was evaluated in the Vascular 
+Outcomes Study of ASA (acetylsalicylic 
+acid) Along with Rivaroxaban in Endovas­
+cular or Surgical Limb Revascularization for 
+Peripheral Artery Disease (VOYAGER PAD) 
+trial (196), in which 6,564 individuals with 
+PAD who had undergone revascularization 
+were randomly assigned to receive rivarox­
+aban 2.5 mg twice daily plus aspirin or pla­
+cebo plus aspirin. Rivaroxaban treatment 
+in this group of individuals was also associ­
+ated with a significantly lower incidence of 
+ischemic cardiovascular events, including 
+major adverse limb events. However, an 
+increased risk of major bleeding was noted 
+with rivaroxaban added to aspirin treat­
+ment in both COMPASS and VOYAGER 
+PAD.
+The risks and benefits of dual antiplatelet 
+or antiplatelet plus anticoagulant treatment 
+strategies should be thoroughly discussed 
+with eligible individuals, and shared deci­
+sion-making should be used to determine 
+an individually appropriate treatment ap­
+proach. This field of cardiovascular risk re­
+duction is evolving rapidly, as are the 
+definitions of optimal care for individuals 
+with differing types and circumstances of 
+cardiovascular complications.
+CARDIOVASCULAR DISEASE
+Screening
+Recommendations
+10.37a In asymptomatic individuals, 
+routine screening for coronary artery 
+disease is not recommended, as it does 
+not improve outcomes as long as 
+ASCVD risk factors are treated. A
+10.37b Consider investigations for coro­
+nary artery disease in the presence of 
+any of the following: signs or symptoms 
+of cardiac or associated vascular dis­
+ease, including carotid bruits, transient 
+ischemic attack, stroke, claudication, or 
+PAD; or electrocardiographic abnormali­
+ties (e.g., pathological Q waves). E
+10.38a Adults with diabetes are at 
+increased risk for the development 
+of asymptomatic cardiac structural 
+or functional abnormalities (stage B 
+heart failure) or symptomatic (stage C) 
+heart failure. Consider screening adults 
+with diabetes by measuring a natri­
+uretic peptide (B-type natriuretic pep­
+tide [BNP] or N-terminal pro-BNP [NT- 
+proBNP]) to facilitate prevention of 
+stage C heart failure. B
+S230 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 16 =====
+
+10.38b In asymptomatic individuals 
+with diabetes and abnormal natriuretic 
+peptide levels, echocardiography is 
+recommended to identify stage B heart 
+failure. A
+10.39 In asymptomatic individuals 
+with diabetes and age ≥65 years, 
+microvascular disease in any location, 
+or foot complications or any end-organ 
+damage from diabetes, screening for 
+PAD with ankle-brachial index testing 
+is recommended if a PAD diagnosis 
+would change management. B
+Treatment
+Recommendations
+10.40a Among people with type 2 
+diabetes who have established ASCVD 
+or chronic kidney disease (CKD), a 
+sodium–glucose cotransporter 2 (SGLT2) 
+inhibitor or glucagon-like peptide 1 re­
+ceptor agonist (GLP-1 RA) with demon­
+strated cardiovascular disease benefit 
+is recommended as part of the com­
+prehensive cardiovascular risk reduc­
+tion and/or glucose-lowering treatment 
+plans. A
+10.40b In people with type 2 diabetes 
+and established ASCVD or multiple 
+ASCVD risk factors, or CKD, an SGLT2 in­
+hibitor with demonstrated cardiovascu­
+lar benefit is recommended to reduce 
+the risk of cardiovascular events. A
+10.40c In people with type 2 diabetes 
+and established ASCVD or multiple risk 
+factors for ASCVD, or CKD, a GLP-1 RA 
+with demonstrated cardiovascular ben­
+efit is recommended to reduce the 
+risk of cardiovascular events. A
+10.40d In people with type 2 diabe­
+tes and established ASCVD or multi­
+ple risk factors for ASCVD, combined 
+therapy with an SGLT2 inhibitor with 
+demonstrated cardiovascular benefit 
+and a GLP-1 RA with demonstrated 
+cardiovascular benefit may be con­
+sidered for additive reduction of the 
+risk of adverse cardiovascular and 
+kidney events. B
+10.41a In people with type 2 diabe­
+tes and established heart failure with 
+either preserved or reduced ejection 
+fraction, an SGLT2 inhibitor (including 
+SGLT1/2 inhibitor) with proven bene­
+fit in this population is recommended 
+to reduce the risk of worsening heart 
+failure and cardiovascular death. A
+10.41b In people with type 2 diabe­
+tes and established heart failure with 
+either preserved or reduced ejection 
+fraction, an SGLT2 inhibitor with 
+proven benefit in this population is 
+recommended to improve quality of 
+life. A
+10.42 For individuals with type 2 di­
+abetes and CKD with albuminuria 
+treated with maximum tolerated doses 
+of ACE inhibitor or ARB, recommend 
+treatment with a nonsteroidal MRA 
+with demonstrated benefit to improve 
+cardiovascular outcomes and reduce 
+the risk of CKD progression. A
+10.43 In individuals with diabetes 
+aged ≥55 years with established 
+ASCVD or multiple ASCVD risk factors, 
+ACE inhibitor or ARB therapy is rec­
+ommended to reduce the risk of car­
+diovascular events. A
+10.44a In individuals with diabetes 
+and asymptomatic (stage B) heart 
+failure, an interprofessional approach 
+to optimize guideline-directed medical 
+therapy, which should include a cardio­
+vascular disease specialist, is rec­
+ommended to reduce the risk for 
+progression to symptomatic (stage C) 
+heart failure. A
+10.44b In individuals with diabetes 
+and asymptomatic (stage B) heart 
+failure, ACE inhibitors or ARBs and 
+β-blockers are recommended to re­
+duce the risk for progression to symp­
+tomatic (stage C) heart failure. A
+10.44c In individuals with type 2 di­
+abetes and asymptomatic (stage B) 
+heart failure or with high risk of or 
+established cardiovascular disease, 
+treatment with an SGLT inhibitor with 
+proven heart failure prevention bene­
+fit A or a GLP-1 RA with heart failure 
+prevention benefit B is recommended 
+to reduce the risk of hospitalization 
+for heart failure.
+10.44d In adults with type 2 diabe­
+tes, obesity, and symptomatic heart 
+failure with preserved ejection fraction 
+(HFpEF), the treatment plan should 
+include a dual GIP/GLP-1 RA A or a 
+GLP-1 RA B with demonstrated benefit 
+for reduction in heart failure events.
+10.44e In adults with type 2 diabetes, 
+obesity, and symptomatic HFpEF, the 
+treatment plan should include a dual 
+GIP/GLP-1 RA or a GLP-1 RA with 
+demonstrated benefit for reduction in 
+heart failure symptoms. A
+10.44f In individuals with type 2 di­
+abetes and CKD, recommend treat­
+ment with a nonsteroidal MRA with 
+demonstrated benefit to reduce the 
+risk of hospitalization for heart fail­
+ure. A
+10.44g In individuals with diabetes, 
+guideline-directed medical therapy for 
+myocardial infarction and symptomatic 
+stage C heart failure is recommended 
+with ACE inhibitors or ARBs (including 
+ARBs and neprilysin inhibitors), MRAs, 
+β-blockers, and SGLT2 inhibitors. A
+10.44h In individuals with diabetes 
+and symptomatic stage C heart failure 
+with ejection fraction >40%, a nonste­
+roidal MRA with proven benefit in re­
+ducing worsening heart failure events 
+is recommended. A A nonsteroidal MRA 
+should not be used with an MRA.
+10.45 In people with type 2 diabetes 
+with stable heart failure, metformin 
+may be continued for glucose lowering 
+if eGFR remains >30 mL/min/1.73 m2 
+but should be avoided in unstable or 
+hospitalized individuals with heart fail­
+ure. B
+10.46 Educate individuals with diabe­
+tes who are at risk for developing dia­
+betic ketoacidosis and who are treated 
+with SGLT inhibition on the risks and 
+signs of ketoacidosis and methods of 
+risk mitigation management, provide 
+them with appropriate tools for ketone 
+measurement (i.e., serum β-hydroxybu­
+tyrate), and discourage a ketogenic eat­
+ing pattern. E
+Cardiac Testing
+Candidates for advanced or invasive car­
+diac testing include those with 1) symp­
+toms or signs of cardiac or vascular 
+disease and 2) an abnormal resting elec­
+trocardiogram (ECG). Exercise ECG testing 
+without or with echocardiography may 
+be used as the initial test. In adults with 
+diabetes ≥40 years of age, measurement 
+of coronary artery calcium is also reason­
+able for cardiovascular risk assessment. 
+Pharmacologic stress echocardiography 
+or nuclear imaging should be considered 
+in individuals with diabetes in whom rest­
+ing ECG abnormalities preclude exercise 
+stress testing (e.g., left bundle branch 
+block or ST-T abnormalities). In addition, 
+individuals who require stress testing and 
+are unable to exercise should undergo 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S231 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

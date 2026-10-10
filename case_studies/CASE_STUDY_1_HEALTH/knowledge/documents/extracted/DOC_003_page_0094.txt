@@ -1,0 +1,154 @@
+440. Roerecke M, Tobe SW, Kaczorowski J, Bacon SL, Vafaei A, Hasan OSM, et al. 
+Sex-specific associations between alcohol consumption and incidence of hypertension: 
+a systematic review and meta-analysis of cohort studies. J Am Heart Assoc 2018;7: 
+e008202. https://doi.org/10.1161/jaha.117.008202 
+441. Ding C, O’Neill D, Bell S, Stamatakis E, Britton A. Association of alcohol consumption 
+with morbidity and mortality in patients with cardiovascular disease: original data and 
+meta-analysis of 48,423 men and women. BMC Med 2021;19:167. https://doi.org/10. 
+1186/s12916-021-02040-2 
+442. Marklund M, Singh G, Greer R, Cudhea F, Matsushita K, Micha R, et al. Estimated popu-
+lation wide benefits and risks in China of lowering sodium through potassium enriched 
+salt substitution: modelling study. BMJ 2020;369:m824. https://doi.org/10.1136/bmj.m824 
+443. Pinho-Gomes AC, Azevedo L, Copland E, Canoy D, Nazarzadeh M, Ramakrishnan R, 
+et al. Blood pressure-lowering treatment for the prevention of cardiovascular events in 
+patients with atrial fibrillation: an individual participant data meta-analysis. PLoS Med 
+2021;18:e1003599. https://doi.org/10.1371/journal.pmed.1003599 
+444. Bidel Z, Nazarzadeh M, Canoy D, Copland E, Gerdts E, Woodward M, et al. 
+Sex-specific effects of blood pressure lowering pharmacotherapy for the prevention 
+of cardiovascular disease: an individual participant-level data meta-analysis. 
+Hypertension 2023;80:2293–302. https://doi.org/10.1161/hypertensionaha.123.21496 
+445. Nazarzadeh M, Bidel Z, Canoy D, Copland E, Bennett DA, Dehghan A, et al. Blood 
+pressure-lowering treatment for prevention of major cardiovascular diseases in peo-
+ple with and without type 2 diabetes: an individual participant-level data meta-analysis. 
+Lancet Diabetes Endocrinol 2022;10:645–54. https://doi.org/10.1016/s2213-8587(22) 
+00172-3 
+446. Thomopoulos C, Parati G, Zanchetti A. Effects of blood pressure lowering on out-
+come incidence in hypertension: 4. Effects of various classes of antihypertensive 
+drugs—overview and meta-analyses. J Hypertens 2015;33:195–211. https://doi.org/ 
+10.1097/hjh.0000000000000447 
+447. Ishani A, Cushman WC, Leatherman SM, Lew RA, Woods P, Glassman PA, et al. 
+Chlorthalidone vs. hydrochlorothiazide for hypertension-cardiovascular events. N 
+Engl J Med 2022;387:2401–10. https://doi.org/10.1056/NEJMoa2212270 
+448. Ziff OJ, Samra M, Howard JP, Bromage DI, Ruschitzka F, Francis DP, et al. Beta-blocker 
+efficacy across different cardiovascular indications: an umbrella review and 
+meta-analytic assessment. BMC Med 2020;18:103. https://doi.org/10.1186/s12916- 
+020-01564-3 
+449. Thomopoulos C, Bazoukis G, Tsioufis C, Mancia G. Beta-blockers in hypertension: 
+overview and meta-analysis of randomized outcome trials. J Hypertens 2020;38: 
+1669–81. https://doi.org/10.1097/hjh.0000000000002523 
+450. Mancia G, Kjeldsen SE, Kreutz R, Pathak A, Grassi G, Esler M. Individualized beta- 
+blocker treatment for high blood pressure dictated by medical comorbidities: indica-
+tions beyond the 2018 European Society of Cardiology/European Society of 
+Hypertension Guidelines. Hypertension 2022;79:1153–66. https://doi.org/10.1161/ 
+hypertensionaha.122.19020 
+451. Bradley HA, Wiysonge CS, Volmink JA, Mayosi BM, Opie LH. How strong is the evi-
+dence for use of beta-blockers as first-line therapy for hypertension? Systematic re-
+view and meta-analysis. J Hypertens 2006;24:2131–41. https://doi.org/10.1097/01.hjh. 
+0000249685.58370.28 
+452. Wiysonge CS, Bradley HA, Volmink J, Mayosi BM, Opie LH. Beta-blockers for hyper-
+tension. Cochrane Database Syst Rev 2017;1:CD002003. https://doi.org/10.1002/ 
+14651858.CD002003.pub5 
+453. Elliott WJ, Meyer PM. Incident diabetes in clinical trials of antihypertensive drugs: a net-
+work meta-analysis. Lancet 2007;369:201–7. https://doi.org/10.1016/s0140-6736(07) 
+60108-1 
+454. Bangalore S, Parkar S, Grossman E, Messerli FH. A meta-analysis of 94,492 patients 
+with hypertension treated with beta blockers to determine the risk of new-onset dia-
+betes mellitus. Am J Cardiol 2007;100:1254–62. https://doi.org/10.1016/j.amjcard.2007. 
+05.057 
+455. Laurent S, Briet M, Boutouyrie P. Large and small artery cross-talk and recent 
+morbidity-mortality trials in hypertension. Hypertension 2009;54:388–92. https://doi. 
+org/10.1161/hypertensionaha.109.133116 
+456. Klingbeil AU, Schneider M, Martus P, Messerli FH, Schmieder RE. A meta-analysis of 
+the effects of treatment on left ventricular mass in essential hypertension. Am J Med 
+2003;115:41–6. https://doi.org/10.1016/s0002-9343(03)00158-x 
+457. Zanchetti A, Bond MG, Hennig M, Neiss A, Mancia G, Dal Palù C, et al. Calcium antag-
+onist lacidipine slows down progression of asymptomatic carotid atherosclerosis: prin-
+cipal results of the European Lacidipine Study on Atherosclerosis (ELSA), a 
+randomized, double-blind, long-term trial. Circulation 2002;106:2422–7. https://doi. 
+org/10.1161/01.cir.0000039288.86470.dd 
+458. Schiffrin EL, Deng LY. Comparison of effects of angiotensin I-converting enzyme inhib-
+ition and beta-blockade for 2 years on function of small arteries from hypertensive pa-
+tients. Hypertension 1995;25:699–703. https://doi.org/10.1161/01.hyp.25.4.699 
+459. Williams B, MacDonald TM, Morant S, Webb DJ, Sever P, McInnes G, et al. 
+Spironolactone versus placebo, bisoprolol, and doxazosin to determine the optimal 
+treatment for drug-resistant hypertension (PATHWAY-2): a randomised, double- 
+blind, crossover trial. Lancet 2015;386:2059–68. https://doi.org/10.1016/s0140- 
+6736(15)00257-3 
+460. Agarwal R, Filippatos G, Pitt B, Anker SD, Rossing P, Joseph A, et al. Cardiovascular and 
+kidney outcomes with finerenone in patients with type 2 diabetes and chronic kidney 
+disease: the FIDELITY pooled analysis. Eur Heart J 2022;43:474–84. https://doi.org/10. 
+1093/eurheartj/ehab777 
+461. Agarwal R, Ruilope LM, Ruiz-Hurtado G, Haller H, Schmieder RE, Anker SD, et al. Effect 
+of finerenone on ambulatory blood pressure in chronic kidney disease in type 2 dia-
+betes. J Hypertens 2023;41:295–302. https://doi.org/10.1097/hjh.0000000000003330 
+462. Bakris GL, Agarwal R, Anker SD, Pitt B, Ruilope LM, Rossing P, et al. Effect of finere-
+none on chronic kidney disease outcomes in type 2 diabetes. N Engl J Med 2020;383: 
+2219–29. https://doi.org/10.1056/NEJMoa2025845 
+463. The ALLHAT Officers Coordinators for the ALLHAT Collaborative Research 
+Group. Major cardiovascular events in hypertensive patients randomized to doxa-
+zosin vs chlorthalidone: the antihypertensive and lipid-lowering treatment to pre-
+vent heart attack trial (ALLHAT). JAMA 2000;283:1967–75. https://doi.org/10. 
+1001/jama.283.15.1967 
+464. Ruilope LM, Dukat A, Böhm M, Lacourcière Y, Gong J, Lefkowitz MP. Blood-pressure 
+reduction with LCZ696, a novel dual-acting inhibitor of the angiotensin II receptor and 
+neprilysin: a randomised, double-blind, placebo-controlled, active comparator study. 
+Lancet 2010;375:1255–66. https://doi.org/10.1016/s0140-6736(09)61966-8 
+465. McMurray JJ, Packer M, Desai AS, Gong J, Lefkowitz MP, Rizkala AR, et al. Angiotensin– 
+neprilysin inhibition versus enalapril in heart failure. N Engl J Med 2014;371:993–1004. 
+https://doi.org/10.1056/NEJMoa1409077 
+466. Rakugi H, Kario K, Yamaguchi M, Sasajima T, Gotou H, Zhang J. Efficacy of sacubitril/ 
+valsartan versus olmesartan in Japanese patients with essential hypertension: a rando-
+mized, double-blind, multicenter study. Hypertens Res 2022;45:824–33. https://doi.org/ 
+10.1038/s41440-021-00819-7 
+467. Jackson AM, Jhund PS, Anand IS, Düngen H-D, Lam CSP, Lefkowitz MP, et al. 
+Sacubitril-valsartan as a treatment for apparent resistant hypertension in patients 
+with heart failure and preserved ejection fraction. Eur Heart J 2021;42:3741–52. 
+https://doi.org/10.1093/eurheartj/ehab499 
+468. Kario K, Sun N, Chiang FT, Supasyndh O, Baek SH, Inubushi-Molessa A, et al. Efficacy 
+and safety of LCZ696, a first-in-class angiotensin receptor neprilysin inhibitor, in Asian 
+patients with hypertension: a randomized, double-blind, placebo-controlled study. 
+Hypertension 2014;63:698–705. https://doi.org/10.1161/hypertensionaha.113.02002 
+469. Williams B, Cockcroft JR, Kario K, Zappe DH, Brunel PC, Wang Q, et al. Effects of sa-
+cubitril/valsartan versus olmesartan on central hemodynamics in the elderly with sys-
+tolic hypertension: the PARAMETER study. Hypertension 2017;69:411–20. https://doi. 
+org/10.1161/hypertensionaha.116.08556 
+470. Herrington WG, Savarese G, Haynes R, Marx N, Mellbin L, Lund LH, et al. Cardiac, 
+renal, and metabolic effects of sodium-glucose co-transporter 2 inhibitors: a pos-
+ition paper from the European Society of Cardiology ad-hoc task force on sodium- 
+glucose co-transporter 2 inhibitors. Eur J Heart Fail 2021;23:1260–75. https://doi. 
+org/10.1002/ejhf.2286 
+471. Gupta R, Maitz T, Egeler D, Mehta A, Nyaeme M, Hajra A, et al. SGLT2 inhibitors in 
+hypertension: role beyond diabetes and heart failure. Trends Cardiovasc Med 2022; 
+33:479–86. https://doi.org/10.1016/j.tcm.2022.05.005 
+472. Kario K, Ferdinand KC, Vongpatanasin W. Are SGLT2 inhibitors new hyperten-
+sion drugs? Circulation 2021;143:1750–3. https://doi.org/10.1161/circulationaha. 
+121.053709 
+473. Yan C, Thijs L, Cao Y, Trenson S, Zhang Z-Y, Janssens S, et al. Opportunities of anti-
+diabetic drugs in cardiovascular medicine: a meta-analysis and perspectives for trial 
+design. Hypertension 2020;76:420–31. https://doi.org/10.1161/hypertensionaha. 
+120.14791 
+474. Freeman MW, Halvorsen YD, Marshall W, Pater M, Isaacsohn J, Pearce C, et al. Phase 2 
+trial of baxdrostat for treatment-resistant hypertension. N Engl J Med 2023;388: 
+395–405. https://doi.org/10.1056/NEJMoa2213169 
+475. Laffin LJ, Rodman D, Luther JM, Vaidya A, Weir MR, Rajicic N, et al. Aldosterone syn-
+thase inhibition with lorundrostat for uncontrolled hypertension: the target-HTN ran-
+domized clinical trial. JAMA 2023;330:1140–50. https://doi.org/10.1001/jama.2023. 
+16029 
+476. Schlaich MP, Bellet M, Weber MA, Danaietash P, Bakris GL, Flack JM, et al. Dual en-
+dothelin antagonist aprocitentan for resistant hypertension (PRECISION): a multicen-
+tre, blinded, randomised, parallel-group, phase 3 trial. Lancet 2022;400:1927–37. 
+https://doi.org/10.1016/s0140-6736(22)02034-7 
+477. Desai AS, Webb DJ, Taubel J, Casey S, Cheng Y, Robbie GJ, et al. Zilebesiran, an RNA 
+interference therapeutic agent for hypertension. N Engl J Med 2023;389:228–38. 
+https://doi.org/10.1056/NEJMoa2208391 
+478. Law MR, Wald NJ, Morris JK, Jordan RE. Value of low dose combination treatment 
+with blood pressure lowering drugs: analysis of 354 randomised trials. BMJ 2003; 
+326:1427. https://doi.org/10.1136/bmj.326.7404.1427 
+479. Mahmud A, Feely J. Low-dose quadruple antihypertensive combination: more effica-
+cious than individual agents—a preliminary report. Hypertension 2007;49:272–5. 
+https://doi.org/10.1161/01.HYP.0000254479.66645.a3 
+480. Wald DS, Law M, Morris JK, Bestwick JP, Wald NJ. Combination therapy versus mono-
+therapy in reducing blood pressure: meta-analysis on 11,000 participants from 42 
+trials. Am J Med 2009;122:290–300. https://doi.org/10.1016/j.amjmed.2008.09.038 
+ESC Guidelines 4005 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

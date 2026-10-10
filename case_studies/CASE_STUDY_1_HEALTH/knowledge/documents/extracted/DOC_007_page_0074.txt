@@ -1,0 +1,122 @@
+Table 14| Validated GFR estimating equations
+Marker
+Equation name and
+year
+Age
+Variables
+Development populations
+Creatinine
+CKD-EPI 2009238
+$18; modiﬁcation
+CKD-EPI 40 for
+pediatric available
+Developed using A, S, R but
+reported not using the Black
+race coefﬁcient, A, S, R (NB)
+8254 Black and NB individuals from 10 studies
+in the United States and Europea
+CKiD U25 2021239
+1–25
+A, S, height
+928 children with CKD in the United States and
+Canada
+CKD-EPI 2021147
+$18
+A, S
+8254 Black and NB individuals from 10 studies
+in the United States and Europea
+EKFC 2021240
+2–100
+A, S, European Black and NB
+speciﬁc Q-value; separate
+Q-values for Africa vs. Europe
+mGFR vs. SCr (11,251 participants in 7 studies
+in Europe and 1 study from the United States)
+Normal GFR from 5482 participants in 12 studies
+of kidney donor candidates (100% Caucasian)
+European NB Q from 83,157 laboratory samples
+(age 2–40 years) in 3 European hospital clinical
+laboratories; European Black Q-value (N ¼ 90
+living kidney donors from Paris); African Black
+Q-value (N ¼ 470 healthy individuals from
+République Démocratique de Congo); All
+Q-values developed in cohorts independent
+for EKFC development and validation
+Lund Malmö Revised
+2014241
+A, S
+3495 GFR examinations from 2847 adults from
+Sweden referred for measurement of GFR
+CKD-EPI 2009
+Modiﬁed for
+China 2014b,242
+$18
+A, S
+589 people with diabetes from the Third Afﬁliated
+Hospital of Sun Yat-sen University, China
+CKD-EPI 2009
+Modiﬁed for
+Japan 2016b,83
+$18
+A, S
+413 hospitalized Japanese people in 80 medical
+centers
+CKD-EPI 2009
+Modiﬁed for
+Pakistan 2013b,235
+$18
+A, S
+542 randomly selected low- to middle-income
+communities in Karachi and 39 people from
+the kidney clinic
+Cystatin C
+CKD-EPI 2012148
+$18
+A, S
+5352 Black and NB individuals from 13 studies
+in the United States and Europe
+EKFC 202391
+18–100
+A
+mGFR vs. SCys (assumed to be the same as
+mGFR vs. SCr)
+Normal GFR (same as for the SCr equation)
+Q from laboratory samples from 227,643 (42%
+female) laboratory samples from Uppsala
+University Hospital, Sweden
+CAPA 2014243
+A, S
+4690 individuals within large subpopulations of
+children and Asian and Caucasian adults
+Creatinine-
+cystatin C
+CKD-EPI 2012148
+$18
+Developed using A, S, R but
+reported not using the Black
+race coefﬁcient, A, S, R (NB)
+5352 Black and NB individuals from 13 studies
+in the United States and Europe
+CKD-EPI 2021147
+$18
+A, S
+5352 Black and NB individuals from 13 studies in
+the United States and Europe
+Average of EKFC cr
+and cys240
+$2
+A, S, European race speciﬁc
+Q-value; separate Q-values
+for Africa vs. Europe
+See above for EKFC creatinine and cystatin C
+A, age; CAPA, Caucasian and Asian pediatric and adult subjects; CKD, chronic kidney disease; CKD-EPI, Chronic Kidney Disease Epidemiology Collaboration; CKiD, chronic
+kidney disease in children; cr, creatinine; cys, cystatin C; EKFC, European Kidney Function Consortium; GFR, glomerular ﬁltration rate; mGFR, measured glomerular ﬁltration
+rate; NB, non-Black; Q values, median level of serum creatinine or cystatin C in a given population without chronic kidney disease; R, race; S, sex; SCr, serum creatinine; SCys,
+serum cystatin C; U25, under 25 years old.
+aAlso included 100 Asians and 353 Hispanic or Native Americans.
+bModiﬁed from CKD-EPI or MDRD; modiﬁcations may reﬂect systematic differences in measurement of creatinine and mGFR as well as population differences in non-GFR
+determinants of creatinine.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S189

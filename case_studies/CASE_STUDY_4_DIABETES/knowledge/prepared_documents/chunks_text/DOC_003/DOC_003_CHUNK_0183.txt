@@ -1,0 +1,122 @@
+
+
+===== PDF PAGE 365 =====
+
+Part 6: Templates and Forms 
+Section 3D: Data Book Template 
+6-3D-6 
+WHO STEPS Surveillance 
+Sampling and Response Proportions 
+ 
+ 
+ 
+ 
+Response 
+proportions 
+Description: Summary results for overall response proportions. 
+ 
+ 
+Response proportions 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Eligible 
+Responded 
+Eligible 
+Responded 
+Eligible 
+Responded 
+n 
+n 
+% 
+n 
+n 
+% 
+n 
+n 
+% 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Use the age and sex information for the non-responders (if available) plus the Epi Info 
+program Cagesex. 
+ 
+
+
+===== PDF PAGE 366 =====
+
+Part 6: Templates and Forms 
+Section 3D: Data Book Template 
+6-3D-7 
+WHO STEPS Surveillance 
+Demographic Information Results 
+ 
+ 
+ 
+Age 
+group by 
+sex 
+Description: Summary information by age group and sex of the respondents. 
+ 
+Instrument question: 
+• Sex 
+• What is your date of birth? 
+ 
+Age group and sex of respondents 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+n 
+% 
+n 
+% 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: C1, C2, C3 
+• Epi Info program name: Cagesex (unweighted) 
+ 
+ 
+Education 
+Description: Mean number of years of education among respondents. 
+ 
+Instrument question: 
+• In total, how many years have you spent at school or in full-time study (excluding 
+pre-school)? 
+ 
+Mean number of years of education 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+n 
+Mean 
+n 
+Mean 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: C4 
+• Epi Info program name: Ceduyears (unweighted) 
+ 

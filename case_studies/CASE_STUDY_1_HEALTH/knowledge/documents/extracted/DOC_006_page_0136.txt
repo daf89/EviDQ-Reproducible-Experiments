@@ -1,0 +1,36 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+to keep it simple and only draw what you need to get your idea across. For example, consider which 
+option shown in Exhibit 62 is more effective for conveying the information: 
+Exhibit 62: Wireframe Data Presentation Examples 
+It would be hard to describe these with just words in a meeting or a phone call. The wireframes are able 
+to communicate somuch more in less time. The answer to “which is more effective?” is often subjective 
+and will require discussionand possibly some usabilitytesting on actualstakeholders. The good news is 
+that with a wireframe, you can quickly make changes, possibly in real time. In addition to discussing pros 
+and cons for each visualization, be sure to discuss titles, axis labels, choice of colors, in-chart data labels, 
+legends, interactivity (hover tooltips), custom filters or user controls, and supporting 
+content/documentation. 
+Once you have consensus on the most effective visualization(s) and design options, you have 2 options. 
+You could dive straight intoimplementation, or you could build a mockup. A mockup mimics what the 
+final product will look like. This includes color choices, layout of multiple components, supporting 
+content, etc. This could be beneficial if you are building a dashboard or something more comprehensive 
+than a single visualization. Unfortunately creating a mockup of a data visualization is difficult to do 
+without actually building one. One method is to use a tool such as Tableau Desktop to quickly build your 
+chosen visualization using dummy data. This serves two purposes. For one, it allows you to mockup 
+what your final product will look like. And two, it allows you to start thinking about your data structure 
+requirements for the chosen visualization and if your raw data will work for what you want to do. If you 
+are building a dashboard, you can take screenshots of your dummy visualization and place them in a 
+word document or design tool such as Visio (windows) or Omnigraffle (mac) and lay out the viz with 
+supporting content such as an overview, FAQs, how-to instructions, and frequently used terms (see 
+example dashboard below in Exhibit 63). 
+Preparing your Data for Visualization 
+Depending on your chosen visualization and tool, preparing your data and developing the viz may be a 
+circular process. First you will want to use dummy data to create a visualization in your chosen tool. For 
+example, do not spend time feeding in raw data and calculating aggregate results,onlyto change your 
+mind on the entire visualization later. With your raw dataset in mind, build a sample dataset in excel by 
+hand with minimal expected aggregate results. This will give you data to play with different visualization 
+options and it will be easy to quickly change data structures. 
+Health IT Advisor Handbook 
+Page 131

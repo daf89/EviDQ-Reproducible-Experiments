@@ -1,0 +1,71 @@
+
+
+===== PDF PAGE 117 =====
+
+ 
+ 
+
+
+===== PDF PAGE 118 =====
+
+Section 1: Introduction to eSTEPS and Preparation of the 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-1 
+WHO STEPS Surveillance 
+ 
+ 
+Data Collection Environment 
+Overview 
+ 
+ 
+ 
+Introduction 
+This section covers all the tasks that need to be conducted to setup and 
+prepare for the electronic collection of the STEPS survey data. 
+ 
+ 
+Intended 
+audience 
+This section is designed for use by people who have been assigned the 
+following roles: 
+ 
+• Field team supervisors 
+• Data manager and analysis team 
+• STEPS Survey Coordinator. 
+ 
+ 
+ 
+Timeframe 
+The set up of the data collection environment can be done within a few days. 
+ 
+Task Name 
+Duration 
+Month 2 
+Adapting electronic STEPS Instrument 
+3 days 
+ 
+ 
+Preparing Android devices and loading 
+electronic STEPS Instrument 
+2 days 
+Testing Android devices 
+1 day 
+ 
+ 
+ 
+In this section 
+This section covers the following topics: 
+ 
+Topic 
+See Page 
+Introduction 
+3-1-2 
+Creating the electronic STEPS Instrument 
+3-1-3 
+Preparing the online eSTEPS platform 
+3-1-7 
+Preparing the Android devices 
+3-1-10 
+ 

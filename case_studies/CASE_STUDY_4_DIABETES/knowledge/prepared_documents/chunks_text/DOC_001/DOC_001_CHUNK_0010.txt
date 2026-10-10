@@ -1,0 +1,311 @@
+
+
+===== PDF PAGE 19 =====
+
+diabetic ketoacidosis and euglycemic ke­
+toacidosis (266).
+Other Classes
+Cardiovascular outcomes trials of dipep­
+tidyl peptidase 4 (DPP-4) inhibitors have 
+not shown cardiovascular benefits relative 
+to placebo. The CAROLINA (Cardiovascular 
+Outcome Study of Linagliptin Versus Gli­
+mepiride in Type 2 Diabetes) study dem­
+onstrated noninferiority between a DPP-4 
+inhibitor, linagliptin, and a sulfonylurea, 
+glimepiride, on cardiovascular outcomes 
+despite lower rates of hypoglycemia in 
+the linagliptin treatment group (267).
+Figure 10.5—Overview of recommendations for the prevention and treatment of symptomatic heart failure in people with diabetes. ACEi, ACE in­
+hibitor; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor neprilysin inhibitor; BNP, B-type natriuretic peptide; NT-proBNP, N-terminal 
+pro-B–type natriuretic peptide; CKD, chronic kidney disease; CVD, cardiovascular disease; EF, ejection fraction; eGFR, estimated glomerular filtra­
+tion rate; GDMT, guideline-directed medical therapy; GIP/GLP-1 RA, glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 re­
+ceptor agonist; GLP-1 RA, glucagon-like peptide-1 receptor agonist; HF, heart failure; HFmrEF, heart failure with mildly reduced ejection fraction; 
+HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HTN, hypertension; MI, myocardial infarc­
+tion; MRA, mineralocorticoid receptor antagonist; nsMRA, nonsteroidal mineralocorticoid receptor antagonist; SGLT1/2i, sodium–glucose cotrans­
+porter 1 and 2 inhibitor; SGLT2i, sodium–glucose cotransporter 2 inhibitor; TTE, transthoracic echocardiography; UACR, urine albumin-to-creatinine ratio. 
+Prevention and Treatment of Heart 
+Failure
+Prevention of Symptomatic Heart Failure
+ACE Inhibitors or ARBs and β-Blockers. Early 
+primary prevention strategies and treat­
+ment of associated risk factors reduce in­
+cident, symptomatic heart failure and 
+should include lifestyle intervention with 
+nutrition, physical activity, weight manage­
+ment, and smoking cessation (268–271) 
+(Fig. 10.5). The vast majority of incident 
+heart failure is preceded by hypertension; 
+up to 91% of all new heart failure develop­
+ment in the Framingham cohort occurred 
+in people with a previous diagnosis of 
+hypertension (272). Therefore, manage­
+ment of hypertension constitutes a key 
+goal in people with diabetes and stage A 
+or B heart failure. For example, in the UK 
+Prospective Diabetes Study (UKPDS) trial, 
+intensive blood pressure management in 
+people with type 2 diabetes reduced the 
+risk for heart failure by 56% (273). Inten­
+sive treatment of hypertension in people 
+with diabetes in the BPROAD trial led to a 
+34% reduction in treatment or hospitali­
+zation for heart failure (HR 0.66, 95% CI 
+0.41–1.04), a finding that parallels obser­
+vations from the SPRINT trial where the 
+risk for development of incident heart 
+Is TTE available?
+HFrEF GDMT
+• Refer to cardiology
+• SGLT2i or SGLT1/2i with
+demonstrated benefit
+• ARNI or ACEi/ARB if ARNI
+not tolerated
+• β-Blocker with 
+demonstrated benefit
+• MRA5 with demonstrated 
+benefit
+HF prevention strategies
+• SGLT2i1,4
+•
+4
+• If CKD present, consider
+nsMRA3, SGLT1/2i2
+Consider screening with 
+BNP/NT-proBNP
+NT
+?
+If CKD present, 
+consider
+• SGLT2i1 or 
+SGLT1/2i with 
+demonstrated 
+benefit
+• nsMRA3
+Consider 
+echocardiogram
+• Refer to 
+cardiology
+• β-Blocker with 
+demonstrated 
+benefit
+• ACEi or ARB
+ACEi or ARB if 
+HTN or CKD
+HFmrEF/HFpEF GDMT
+• Refer to cardiology
+• SGLT2i or SGLT1/2i with
+demonstrated benefit
+• If obesity,
+demonstrated benefit
+• ACEi or ARB if hypertension, 
+prior MI or CKD
+• nsMRA6
+1. 
+73 m
+2. 
+73 m
+3. 
+, 
+5.
+4. 
+5. 
+ risk.
+6. 
+73 m, 
+73 m, 
+Symptomatic HF
+Yes
+Yes
+No
+No
+Yes
+No
+S234 
+Cardiovascular Disease and Risk Management
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 20 =====
+
+failure decreased by 36% (42,274). As 
+discussed in the HYPERTENSION AND BLOOD PRES­
+SURE MANAGEMENT section above, use of ACE 
+inhibitors or ARBs is the preferred treat­
+ment strategy for management of hyper­
+tension in people with diabetes, particularly 
+in the presence of albuminuria or coronary 
+artery disease. People with diabetes and 
+stage B heart failure who remain asymp­
+tomatic but have evidence of structural 
+heart disease, including history of MI, acute 
+coronary syndrome, or left ventricular 
+ejection fraction (LVEF) ≤40%, should be 
+treated with ACE inhibitors or ARBs plus 
+β-blockers according to current treatment 
+guidelines (219). In the landmark Studies 
+of Left Ventricular Dysfunction (SOLVD) 
+study, in which 15% of people had diabetes, 
+treatment with enalapril reduced incident 
+heart failure in people with asymptomatic 
+left ventricular dysfunction by 20% (275). In 
+the Survival and Ventricular Enlargement 
+(SAVE) study, which enrolled asymptom­
+atic people with reduced LVEF after MI, 
+including 23% people with diabetes, treat­
+ment with captopril reduced the develop­
+ment of heart failure by 37% (276). 
+Subsequent retrospective analyses from 
+both trials revealed that concomitant use 
+of β-blockers was associated with de­
+creased risk of progression to symp­
+tomatic heart failure (277,278). The 
+Carvedilol Post-Infarct Survival Control in 
+Left Ventricular Dysfunction (CAPRICORN) 
+study randomized people with a history 
+of MI and reduced LVEF to treatment 
+with carvedilol (279). Approximately half 
+of the study participants were asymptom­
+atic, and 23% of study participants had a 
+history of diabetes. Treatment with carve­
+dilol reduced mortality by 23%, and there 
+was a 14% risk reduction for heart failure 
+hospitalization. Finally, in the Reversal of 
+Ventricular Remodeling With Toprol-XL 
+(REVERT) trial, in which 45% of the people 
+enrolled had diabetes, metoprolol im­
+proved adverse cardiac remodeling in 
+asymptomatic individuals with an LVEF 
+<40% and mild left ventricular dilatation 
+(280).
+SGLT Inhibitors. SGLT2 inhibitors consti­
+tute a key treatment approach to reduce 
+ASCVD and heart failure outcomes in 
+people with diabetes. People with type 2 
+diabetes and increased cardiovascular 
+risk or established CVD should be treated 
+with an SGLT2 inhibitor to prevent the 
+development of incident heart failure. In 
+the EMPA-REG OUTCOME trial, only 10% 
+of study participants had a prior history 
+of heart failure, and treatment with em­
+pagliflozin reduced the relative risk for 
+hospitalization from heart failure by 35% 
+(281). In the CANVAS Program, hospitali­
+zation from heart failure was reduced by 
+33% in people allocated to canagliflozin, 
+and only 14% of individuals enrolled had 
+a prior history of heart failure (247). In 
+the DECLARE-TIMI 58 study, only 10% of 
+study participants had a prior history of 
+heart failure, and dapagliflozin reduced 
+cardiovascular mortality and hospitaliza­
+tion for heart failure by 17%, which was 
+consistent across multiple study subgroups 
+regardless of a prior history of heart failure 
+(282). Finally, in the Effect of Sotagliflozin 
+on Cardiovascular and Renal Events in 
+Participants With Type 2 Diabetes and 
+Moderate Renal Impairment Who Are at 
+Cardiovascular Risk (SCORED) trial, ran­
+domization to the SGLT1/2 inhibitor so­
+tagliflozin reduced the primary outcome 
+of death from cardiovascular causes, hospi­
+talizations for heart failure, and urgent vis­
+its for heart failure in people with type 2 
+diabetes, CKD, and risk for CVD (283). 
+Therefore, SGLT inhibitor treatment is 
+recommended in asymptomatic people 
+with type 2 diabetes at risk or with estab­
+lished CVD to prevent incident heart fail­
+ure and hospitalization from heart failure.
+GLP-1 Receptor Agonists. A recently pub­
+lished meta-analysis of GLP-1 RA regis­
+tration trials, including those for the 
+commonly used medications dulaglu­
+tide, liraglutide, and semaglutide (both 
+subcutaneous and oral), demonstrated a 
+14% relative reduction in the risk of hos­
+pitalization for heart failure (HR 0.86, 95% 
+CI 0.79–0.93) (255). The trials included 
+in these meta-analyses included people 
+with type 2 diabetes and established 
+ASCVD or at high risk for ASCVD but were 
+not designed as trials of individuals with 
+established heart failure. In addition, 
+heart failure was a prespecified outcome 
+of the randomized, placebo-controlled 
+trial of semaglutide in people with type 2 
+diabetes and CKD and found a significant 
+reduction in the risk of heart failure 
+among those randomized to active sema­
+glutide (284). Thus, there is sufficient evi­
+dence to recommend the use of GLP-1 
+RAs to prevent the development of heart 
+failure in individuals with type 2 diabetes 
+and risk factors for ASCVD. Individuals 
+at even higher risk of heart failure, such 
+as those with established ASCVD or 
+CKD, are likely to see a larger absolute 
+risk reduction than healthier individuals 
+at relatively lower cardiovascular and 
+kidney risk.
+Finerenone. Finerenone is a nonsteroidal 
+MRA and has recently been studied in 
+people with diabetes and CKD, including 
+the Finerenone in Reducing Kidney Failure 
+and Disease Progression in Diabetic Kidney 
+Disease (FIDELIO-DKD) and the Efficacy 
+and Safety of Finerenone in Subjects With 
+Type 2 Diabetes Mellitus and the Clinical 
+Diagnosis of Diabetic Kidney Disease 
+(FIGARO-DKD) studies. In FIDELIO-DKD, fi­
+nerenone was compared with placebo for 
+the primary outcome of kidney failure, a 
+sustained decrease of at least 40% in the 
+eGFR from baseline, or death from renal 
+causes in people with type 2 diabetes and 
+CKD (285). A prespecified secondary out­
+come was death from cardiovascular causes, 
+nonfatal MI, nonfatal stroke, or hospitali­
+zation for heart failure, which was re­
+duced by 13% in the finerenone group. 
+The incidence of heart failure hospitali­
+zation occurred less in the finerenone- 
+treated group, and only 7.7% of study 
+participants had a prior history of heart 
+failure. In the FIGARO-DKD trial, finere­
+none reduced the primary outcome of 
+death from cardiovascular causes, nonfatal 
+MI, nonfatal stroke, or hospitalization for 
+heart failure (HR 0.87 [95% CI 0.76–0.98]; 
+P = 0.03) in people with type 2 diabetes 
+and CKD (240). Only 7.8% of all partici­
+pants had a prior history of heart failure, 
+and the incidence of hospitalization for 
+heart failure was reduced in the finerenone- 
+allocated treatment arm (HR 0.71 [95% CI 
+0.56–0.90]). Owing to these observa­
+tions, treatment with finerenone is rec­
+ommended in people with type 2 diabetes 
+and CKD to reduce the risk of progression 
+from stage A heart failure to symptomatic 
+incident heart failure.
+Treatment of Symptomatic Heart 
+Failure
+In general, current guideline-directed 
+medical therapy for a history of MI and 
+symptomatic stage C and D heart failure 
+in people with diabetes is similar to that 
+for people without diabetes. At these 
+symptomatic stages of heart failure, a col­
+laborative approach with a cardiovascular 
+specialist is recommended. The treatment 
+recommendations are detailed in current 
+2022 American Heart Association/Ameri­
+can College of Cardiology/Heart Failure 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S235 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

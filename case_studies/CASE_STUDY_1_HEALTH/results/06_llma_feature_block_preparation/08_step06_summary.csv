@@ -1,0 +1,23 @@
+item,value
+Global phase,2/5 - KNOWLEDGE
+Dataset_REF valid,True
+Dataset unchanged,True
+Official documents,11
+Original PDF pages,894
+Pages per block,2
+Block overlap,False
+2-page documentary blocks,452
+All pages covered exactly once,True
+Prediction-relevant features,12
+Feature-block pairs,5424
+TF-IDF used,False
+Cosine similarity used,False
+Embeddings used,False
+Semantic preselection used,False
+LLM-A executed,False
+Semantic relevance decided,False
+Knowledge extracted,False
+DQ problems confirmed,False
+Candidate corrections created,False
+Errors injected,False
+Corrections applied,False

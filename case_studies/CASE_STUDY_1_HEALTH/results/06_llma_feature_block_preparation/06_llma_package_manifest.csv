@@ -1,0 +1,13 @@
+feature_index,feature,package_filename,blocks,pairs
+1,gagne_sum_tm1,FEATURE_01__gagne_sum_tm1.jsonl,452,452
+2,cost_op_specialists_tm1,FEATURE_02__cost_op_specialists_tm1.jsonl,452,452
+3,cost_laboratory_tm1,FEATURE_03__cost_laboratory_tm1.jsonl,452,452
+4,cost_ip_medical_tm1,FEATURE_04__cost_ip_medical_tm1.jsonl,452,452
+5,cost_other_tm1,FEATURE_05__cost_other_tm1.jsonl,452,452
+6,cost_op_surgery_tm1,FEATURE_06__cost_op_surgery_tm1.jsonl,452,452
+7,dem_age_band_65-74_tm1,FEATURE_07__dem_age_band_65-74_tm1.jsonl,452,452
+8,cost_pharmacy_tm1,FEATURE_08__cost_pharmacy_tm1.jsonl,452,452
+9,cre_tests_tm1,FEATURE_09__cre_tests_tm1.jsonl,452,452
+10,cost_emergency_tm1,FEATURE_10__cost_emergency_tm1.jsonl,452,452
+11,dem_age_band_75+_tm1,FEATURE_11__dem_age_band_75__tm1.jsonl,452,452
+12,cost_home_health_tm1,FEATURE_12__cost_home_health_tm1.jsonl,452,452

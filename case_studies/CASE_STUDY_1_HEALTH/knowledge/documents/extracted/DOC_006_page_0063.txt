@@ -1,0 +1,13 @@
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T
+S E C T I O N 3 : C L I N I C A L D E C I S I O N S U P P O R T 
+• 
+As artificial-intelligence (AI) tools are added to EHRs and other health IT platforms, it is critical to 
+ensure that logic paths and algorithms--and the data on which algorithms are based--are 
+transparent and predictable, and that they produce accurate, consistent, and equitable 
+guidance for clinicians or patients. 
+Additional information about how healthadvisors may use CDSfor quality improvement may be found 
+through the Electronic Clinical Quality Improvement (eCQI) Resource Center. Health advisors may also 
+find re-usable, interoperable CDS resources and artifacts as building blocks for their CDS projects at 
+AHRQ’s CDSConnect platform. 
+Health IT Advisor Handbook 
+Page 58

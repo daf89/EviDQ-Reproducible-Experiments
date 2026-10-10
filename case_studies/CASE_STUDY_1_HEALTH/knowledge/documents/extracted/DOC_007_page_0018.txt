@@ -1,0 +1,33 @@
+Abstract
+The Kidney Disease: Improving Global Outcomes (KDIGO) 2024 Clinical Practice Guideline for
+the Evaluation and Management of Chronic Kidney Disease (CKD) is an update to the KDIGO
+2012 guideline on the topic. The aim is to assist clinicians caring for people with CKD, both
+adults and children. People receiving dialysis and kidney transplant recipients are not the focus of
+this guideline. The scope includes chapters dedicated to the evaluation of CKD, risk assessment in
+people with CKD, management to delay CKD progression and manage its complications, medical
+management and drug stewardship in CKD, and optimal models of CKD care. In addition, this
+guideline includes a comprehensive introduction from the guideline Co-Chairs, a patient
+foreword, a discussion of special population considerations, a presentation of the relative and
+absolute risks associated with speciﬁc outcomes from the CKD Prognosis Consortium (CKD-
+PC), and an extensive section dedicated to research recommendations based on the current gaps
+in evidence. The goal of the guideline is to generate a useful resource for clinicians and patients by
+providing actionable recommendations based on a rigorous formal evidence review, practice
+points that serve to direct clinical care or activities for which a systematic review was not con-
+ducted, and useful infographics. The guideline targets a broad audience of healthcare providers
+involved in the care of people with CKD as well as people with CKD themselves while being
+mindful of implications for policy and payment. Development of this guideline update followed
+an explicit process of evidence review and appraisal. Treatment approaches and guideline rec-
+ommendations are based on systematic reviews of relevant studies, and appraisal of the certainty
+of the evidence and the strength of recommendations followed the “Grading of Recommenda-
+tions Assessment, Development, and Evaluation” (GRADE) approach. Limitations of the evi-
+dence are discussed, with areas of future research also presented.
+Keywords: chronic kidney disease; CKD; evaluation; guideline; KDIGO; management
+CITATION
+In citing this document, the following format should be used: Kidney Disease: Improving
+Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for
+the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):
+S117–S314.
+www.kidney-international.org
+abstract
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S133

@@ -1,0 +1,5 @@
+﻿knowledge_id,candidate_id,feature,dq_problem,validation_status,final_rule_role,final_action,feature_available,natural_missing_n,controlled_problem_possible,action_executable,executability_reason,experimental_decision
+KBDOC_001,DOC_003_CHUNK_0112_CAND_02,Age,MISSING_VALUE,VALIDATED,ACTION,FLAG,True,0,True,True,Action can be operationalized on dataset rows after controlled missingness.,GO
+KBDOC_002,DOC_003_CHUNK_0112_CAND_01,Age,MISSING_VALUE,VALIDATED,DETECTION,,True,0,True,False,Documentary entry does not prescribe an executable data action.,NO_GO
+KBDOC_003,DOC_003_CHUNK_0133_CAND_01,Age,MISSING_VALUE,VALIDATED_WITH_RESTRICTION,ACTION,RECOVER,True,0,True,False,Recovery requires information or interaction unavailable in the historical Pima dataset.,NO_GO
+KBDOC_004,DOC_004_CHUNK_0002_CAND_01,Age,MISSING_VALUE,VALIDATED_WITH_RESTRICTION,DETECTION,,True,0,True,False,Documentary entry does not prescribe an executable data action.,NO_GO

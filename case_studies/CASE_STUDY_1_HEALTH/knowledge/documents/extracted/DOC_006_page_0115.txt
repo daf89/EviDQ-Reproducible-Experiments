@@ -1,0 +1,57 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+• 
+Some systems support multiple languages.If that value is in one language it makes it very 
+difficult to create meaningful data for users of another language. By using a coded value with an 
+associated language-specific description, you can allow the user to select their preferred 
+language beyond English. 
+• 
+Words can be a confusing way to record data. Words are not always a clear way to 
+communicate with precision and accuracy. We make every effort to say what we mean, but 
+there is always a chance that the person reading the communication will not fully understand 
+the author’s intended meaning. The term “glucose lab test” might be misinterpretedas a 
+specific form of lab even if that was not what the author intended. 
+With medicine, accuracy is critical. When we record or communicate data it is important that the 
+meaning be conveyed with fidelity or there may be significant risk to the patient. If, for example, a 
+patient is administered the wrong medication due to a miscommunication, there could be a serious 
+adverse reaction. To ensure there is a commonly understood meaning for a piece of information, it is 
+often expressed in a “coded” form like we mentioned above in the glucose lab example. By agreeing on 
+a standard set of codes before data are recorded or communicated, we decrease the likelihood of 
+inferring an unexpected meaning. 
+There are a large varietyof “coding systems”(alsoknownas vocabularies) – methods of expressing 
+complex pre-defined meanings andrelationships inportable combinations oflettersandnumbers. Given 
+the rich nature ofmedicine andneed to be both accurate andprecise,manyare specifictoa particular 
+discipline like pathology, pharmacology,medication,laboratory-relateddata, ora host ofother areas. 
+In the United States, the federal government has chosen to focus on a few key coding systems for the 
+purposes of data portability. The United States Core Data for Interoperability (USCDI)[35] specifies 
+particular systems by topical area and purpose. 
+Exhibit 55: Coding Systems by Topic Area 
+Topic 
+Coding System 
+Allergies and Intolerances 
+Substances: SNOMED CT 
+Medication Class: SNOMED CT 
+Medications: RxNorm 
+Conditions 
+Encounter Diagnosis: ICD-10-CM, SNOMED CT 
+Problems: SNOMED CT 
+Immunizations 
+CVX, NDC 
+Medications 
+RxNorm 
+Laboratory Tests and Results 
+LOINC 
+Vital Signs 
+LOINC, UCUM 
+Procedures 
+HCPCS, CPT, SNOMED CT, CDT, ICD-10-PCS 
+Smoking Status 
+SNOMED CT 
+Race and Ethnicity 
+CDC-REC 
+Birth Sex 
+HL7 
+Health IT Advisor Handbook 
+Page 110

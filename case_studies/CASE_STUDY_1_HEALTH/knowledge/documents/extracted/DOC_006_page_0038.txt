@@ -1,0 +1,89 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+EHR Workflow 
+Data Considerations 
+• 
+Is there a consistent process for electronically prescribing 
+medications including: phone orders, refill requests, and controlled 
+substances? 
+• 
+Are paper prescriptions ever used? 
+Checking for drug-drug and 
+drug-allergy interactions 
+[Clinical Decision Support] 
+• 
+How receptive are prescribers to drug-drug and drug-allergy 
+alerts? This may be a warning sign of alert fatigue making new CDS 
+interventions difficult to implement. 
+Exchanging electronic 
+information with other sites 
+of care 
+• 
+How are care summaries and consultation reports received by the 
+clinic? 
+• 
+Are external electronic care summaries incorporated into the 
+patient’s chart? 
+• 
+Are paper or faxed summaries scanned or uploaded into the EHR? 
+• 
+How can external data be accessed and extracted from the EHR? 
+Implementing a decision 
+• 
+Has the clinic implemented CDS rules for preventive care 
+support rule and tracking 
+reminders or other alerts that could inform or support a QI 
+compliance with the rule 
+intervention? 
+[Clinical Decision Support] 
+• 
+What other forms of CDS could be used to deliver quality 
+interventions (templates, online resources, etc.). 
+Maintaining systems to 
+protect privacy and security 
+of patient data 
+• 
+How do workflows for protecting patient data impact the 
+availability and accessibility of key data elements? For example, 
+are paper forms shredded after recording findings in the EHR. 
+Reporting CQMs to CMS or 
+States 
+• 
+Has the clinic implemented the EHR workflows needed to 
+accurately and consistently populate quality measure dashboards 
+and reports in the EHR (MIPS, UDS)? 
+• 
+Does the clinic have alternatives to EHR reporting including 
+external registries, population health tools, or access to a health 
+information exchange? 
+Generating lists of patients 
+for QI or outreach 
+• 
+What tools and workflows are available for pulling ad hoc lists of 
+patients with specific conditions, visit types, demographics, or 
+other registry criteria? 
+Providing electronic health 
+education resources 
+• 
+Does the EHR provide online education resources for patients and 
+caregivers at visits or through the portal that could be used to 
+deliver a QI intervention? 
+Performing medication 
+reconciliation between care 
+settings 
+• 
+Does the clinic use a routine medication reconciliation process to 
+ensure medications are current in the EHR? 
+Generating summary of care 
+• 
+What are the workflows for sending and receiving patient 
+record for referrals and 
+information when referring or transitioning patients to acute, 
+transitions 
+specialty, or long-term care? 
+• 
+How do processes differ for referrals to internal groups using the 
+same EHR and those external groups using other EHR systems? 
+Health IT Advisor Handbook 
+Page 33

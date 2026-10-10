@@ -1,0 +1,53 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+Information Models 
+Using components of an information model, we can better understand the logic that underpins quality 
+measures. As we look at the question of “did the patient receive medication day of or day after 
+admission?” we touch on several data elements: 
+• 
+The patient: Everything that makes up the demographics of the specific patient, including their 
+name, their date of birth and age, administrative sex, related medical record identifiers, etc. 
+• 
+Encounter(s): The purpose/nature of the visit, the related start/end times, the care team, 
+physical location(s), directly related diagnoses, etc. 
+• 
+Medication(s): (In this case medication administration information) Identifiers that express the 
+specific medication, the start and stop date and time of the administration, the dose, route, and 
+frequency details, as well as potentially the reason for giving (or not giving) the medication. 
+• 
+Time: Given we are relating the encounter to the medication expressedby “day of or day after,” 
+a shareddefinition of what “day” means (going back tothe prior discussion, is that a 24-hour 
+period or a census day?) 
+For the purposes of avoiding confusion, each of those elements have structural definitions that include 
+attributes of each concept as well as indicate whether a given attribute is mandatory or can contain 
+multiple entries. That sounds abstract, so let us look at a medication (administration). 
+A medication administration 
+is a record of a specific 
+medication being given to (or 
+not being given to) a patient. 
+That means we need to, at 
+least minimally, know who is 
+receiving the medication and 
+which medication is being 
+given. We might also include 
+specifics on the dosage, 
+frequency, and route. We 
+would also like to know when 
+the administration occurred. 
+In certain cases, it is also 
+helpful to know why the 
+administration occurred or 
+why it was not given (often 
+referredto as the “negation 
+rationale”). 
+All of these attributes help make up the “type” of thing that a medication administration represents. 
+The list of types is our first step toward defining an information model. The information model 
+describes the types that it includes and how those types can be related. There may be different kinds or 
+classes of types, some which are used within other types. The intention is to define a set of structural 
+definitions and relationships that allow you to compose medical data such that it can be expressed in a 
+known, predictable model. 
+Exhibit 57: Medication Administration Graphic 
+Health IT Advisor Handbook 
+Page 115

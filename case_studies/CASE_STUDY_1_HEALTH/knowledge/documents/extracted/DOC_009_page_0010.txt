@@ -1,0 +1,130 @@
+Table 3‑1. Percent of Participating Contact Groups Providing Records, 2023
+Provider Type
+Participating Contact Groups
+Groups Providing Records
+Percent
+Hospital—Medical Records
+2,290
+2,087
+91.1%
+Hospital—Patient Accounts
+2,290
+2,057
+89.8%
+Office‑Based Doctors
+6,552
+3,208
+49.0%
+Separately Billing Doctors
+2,901
+684
+23.6%
+Table 3‑1. Percent of Participating Contact Groups Providing Records, 2024
+Provider Type
+Participating Contact Groups
+Groups Providing Records
+Percent
+Hospital—Medical Records
+2,076
+1,834
+88.3%
+Hospital—Patient Accounts
+2,076
+1,841
+88.7%
+Office‑Based Doctors
+6,112
+2,769
+45.3%
+Separately Billing Doctors
+2,187
+596
+27.3%
+Return to Table of Contents
+3.3 Coding Text Fields Collected in the 2024 MPC
+Standard coding systems supported the coding of free text for the following types of data:
+Medical Conditions—verbatim text coded to the International Classification of Disease (ICD‑10); additional
+classifications of these codes employed a collapsed version of HCUP’s Clinical Classifications Software Refined
+(CCSRMATCH) during final file preparations
+Medical Procedures and Supplies—verbatim text coded to Berenson‑Eggers Type of Service (BETOS) codes
+Non‑Pharmacy Sources of Payment—coded to AHRQ‑supplied classification (SOP)
+Pharmacy Sources of Payment—coded to AHRQ‑supplied classification (RxSOP)
+Prescribed Medicines—verbatim text coded to the General Product Identifier (GPI‑9)
+Separately Billing Doctors—verbatim text recording name, practice, and location information was used to assign an
+identifier from the National Provider Identifier Registry (NPI)
+SBD Specialty—Specialties of SBD were coded to a specialty classification
+Location of Service—coded.
+Sources of payment (SOP) and SBD information were coded by RTI staff using coding schemes developed and used in
+previous MPC cycles; sources of payment data (RxSOP) for Pharmacy were coded by DLH (formerly SSS) staff. RTI also
+completed location of service and CCSR and CCSRMATCH coding as part of file preparations prior to matching. Coding
+of text descriptions for conditions (ICD‑10), and procedures and supplies (BETOS) was completed by Health Care
+Resolution Service (HCRS), a firm in Laurel, MD, with extensive medical coding experience. DLH was responsible for
+coding prescribed drugs. More detailed discussions may be found in Deliverable OP4‑24 2024 Cycle Data Collection
+Coding and Work Processes Plan and OP4‑26 2024 Cycle MPC to HC Events Matching Plan.
+Return to Table of Contents
+3.4 Data Collection Schedule
+Table 3‑2 summarizes the 2021‑2024 MPC data collection schedules. The MPC sample is provided from the HC in three
+waves and fielded as such, although in the 2024 cycle there were four waves for Hospital and OBD. Since the 2013 MPC
+cycle, the SBD sample, developed during MPC data collection, has been fielded in four waves except for the 2021 cycle
+which was fielded in five waves.
+Table 3‑2. MPC Data Collection Schedule 2021‑2024
+MPC Data Collection Schedule 2021
+Provider Type
+Start of first MPC wave
+Start of last MPC Wave
+End of MPC data collection
+Number of Waves
+Total Weeks
+Hospital
+2/1/2022
+7/28/2022
+10/25/2022
+3
+38
+Office‑Based Doctors
+2/1/2022
+7/28/2022
+10/14/2022
+3
+37
+Institution
+3/7/2022
+8/2/2022
+9/23/2022
+3
+29
+Home Health Agencies
+3/4/2022
+8/2/2022
+10/14/2022
+3
+32
+Pharmacies
+2/1/2022
+7/27/2022
+10/21/2022
+3
+38
+SBDs
+8/17/2022
+12/5/2022
+1/10/2023
+5
+21
+MPC Data Collection Schedule 2022
+Provider Type
+Start of first MPC wave
+Start of last MPC Wave
+End of MPC data collection
+Number of Waves
+Total Weeks
+Hospital
+1/30/2023
+7/26/2023
+10/13/2023
+3
+37
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+10/40

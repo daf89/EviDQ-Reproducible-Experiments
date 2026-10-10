@@ -1,0 +1,94 @@
+
+
+===== PDF PAGE 31 =====
+
+19
+4. Automated non-invasive BPMDs with cuff 
+Table 6. Classification and nomenclature of automated BPMDs
+Generic name
+Automatic blood pressure monitor
+Specific type or variation (optional)
+Automatic electronic, sphygmomanometer 
+GMDN name ©
+Automatic-inflation electronic sphygmomanometer, non-portable
+GMDN code ©
+16-173
+GMDN category ©
+Automatic, electronic, oscillometric
+UMDNS name ©
+Sphygmomanometer, electronic, automatic, auscultatory. Sphygmomanometer, electronic, 
+automatic, oscillometric monitors 
+UMDNS code ©
+18325, 18326, 25209
+Alternative names (optional)
+Non-invasive BP monitors; auscultatory sphygmomanometers; oscillometric sphygmomanometers; 
+oscillotonometers, spot check monitors; spot checking; recorder, sphygmomanometer, automatic
+Keywords (optional)
+Automatic electronic sphygmomanometers, non-invasive. Digital automatic non-invasive blood 
+pressure monitor
+WHO Code
+It should be noted that in 2019, some Member States requested WHO to work on a standardized 
+international nomenclature so in future updates to this publication, a WHO nomenclature that will 
+be freely available, will be added to these technical specifications. 
+4.8.3	 Donations
+Donations of medical equipment can help bridge inequity between the global health care innovation community 
+and users in resource-limited settings. If poorly executed, however, donations can become a burden for 
+recipients and waste enormous amounts of money, human resources and time. Donations must be assessed 
+as part of standard procurement. The only difference is the initial financial transaction, with the cost borne 
+by the donor. Factors that ensure a successful donation include a partnership between the donor and the 
+recipient, understanding and appreciation of the recipient’s difficulties and an inventory to identify gaps in 
+priority medical equipment, so that procurement is not blind. Recipients can then better plan for:
+•	 short- and longer-term integration of new equipment;
+•	 requirements for infrastructure to support the donations;
+•	 necessary accessories, spare parts and consumables;
+•	 capacity-building programmes for users and clinical engineering staff; and
+•	 tracking and monitoring of donations to identify issues in safety (post-market surveillance) and 
+quantification of the impact.
+For more information, refer to WHO’s Medical device donations: considerations for solicitation and provision (35).
+4.8.4	 Other relevant considerations
+Availability of funding: BPMDs are essential in all health care settings. Adequate funds from domestic budgets 
+must be allocated to ensure the availability of good-quality BPMDs in all health facilities. Funding is also 
+required throughout the life cycle of the device. In addition to the price, other costs, such as local infrastructure 
+(i.e. access to electricity, a battery supply or another power source), access to health facilities, private health 
+services, reimbursement, maintenance, validation, calibration and decommissioning should be considered.
+Additional potential hazards: The batteries for electronic devices may be a hazard. 
+The main risks are acid leakage, fire and explosion. Health workers should be 
+trained in managing rechargeable batteries, corrective action when acid is in 
+contact with a person’s skin or eyes and fire prevention.
+
+
+===== PDF PAGE 32 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+20
+Installation: In general, there are no specific requirements for installing BPMDs. Some devices may have 
+to be mounted on a wall so that staff can easily observe the results displayed. It might also be necessary to 
+consider extending tubing to reach patients’ arms more easily.
+Some devices can transfer recorded information to another device (i.e. mobile phone, electronic medical 
+record). Providers should provide the technical specifications for this kind of link.
+List of validated devices: As indicated above, some agencies publish lists of validated devices on their websites. 
+Such lists can be useful for patients and physicians by providing comprehensive, unbiased bases for selecting 
+a BPMD. Annex 5 details some of these online resources. 
+It is recommended that countries work with certified bodies, regulatory agencies, professional societies and 
+institutes to draw up a national list of validated BPMDs.
+4.9	 Decontamination
+Health care-associated infections are common, and they not only have a significant impact on morbidity and 
+mortality but also present an economic burden to health care facilities and countries. Within larger programmes 
+for infection prevention and control, decontamination of instruments and medical devices are critical to prevent 
+health care-associated infections.
+A manual entitled Decontamination and Reprocessing of Medical Devices for Health-Care Facilities (36) outlines 
+the decontamination life cycle, which includes cleaning, disinfection and sterilization. It describes specific 
+methods for decontaminating and reprocessing medical devices. The manufacturer’s instructions should also 
+be considered.
+Cleaning is the first step in reprocessing a device after use, involving removal of visible organic and inorganic 
+material from objects and surfaces manually or mechanically, usually with water and detergents, enzymatic 
+products or chlorine-diluted solutions. BPMDs should be cleaned according to the clinical practice, for 
+example after each patient or daily. Reusable cuffs should be cleaned and disinfected, as they are a potential 
+source of infection. The manufacturer’s protocols for cleaning and disinfecting should be followed, as they 
+may account for the characteristics of the cuff material. The substance to be used to clean the cuffs might 
+be mild enzymatic detergent, distilled water, cool water, mild soap, detergent–disinfectant, ethanol, soap, 
+warm water or bleach, and the instructions will clarify whether the equipment should be brushed, sterilized, 
+machine-washed (with the cycle), machine-dried or dried in air.
+Over the past decade, single-patient cuffs have become more common, as they prevent nosocomial infections. 
+The cost–effectiveness of such cuffs with regards to the incidence and cost of health care-associated infections 
+should be evaluated, as well as the environmental impact.

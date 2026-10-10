@@ -1,0 +1,22 @@
+item,value
+Dataset,data_new.csv
+Rows,48784
+Columns,160
+Cells,7805440
+Numeric features,159
+Non-numeric features,1
+Missing cells,127857
+Features with missing,5
+Duplicated rows,223
+Constant features,3
+Near-constant features >=99%,38
+Features with infinity,0
+Features with negative values,2
+Features with IQR extremes,23
+IQR extreme observations,82600
+Dataset unchanged,True
+Target defined,False
+Model trained,False
+SHAP calculated,False
+RAG used,False
+Corrections applied,False

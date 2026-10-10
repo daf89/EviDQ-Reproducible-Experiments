@@ -1,0 +1,56 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+7.2 
+Registries, Population Health Platforms, and Health Information Exchanges 
+Providers within a single organization will depend on their EHR to support the health services they 
+provide (physical, behavioral, and more recently, social). These organizations range in size from small 
+solo physician’s offices to giant national healthcare systems operating one or more EHRs. The 
+fragmentation caused by EHRs acting as islands of information, or “data silos,” make it difficult to 
+measure quality performance across larger populations, regions, oreven nations. 
+Registries and Population Health Analytics Platforms have emerged as a way of consolidating 
+fragmented information by “consuming” key data elements from the EHRs (and often payer claims) of 
+individual organizations to create a person-centered data pool for research and population health. 
+Related work is being done by Coordinated Registry Networks or “CRNs,” such as that developed by the 
+FDA and National Library of Medicine (NLM) focused on women’s health; information about that effort 
+is available here. AHRQ’s guide, RegistriesforEvaluating Patient Outcomes: A User’s Guide: 4th Edition, is 
+an important resource on this topic. 
+By contrast, HIEs exist to aggregate and distribute patient data through interfaces to EHRs, or direct 
+access through dedicated HIE portals. 
+These are imprecise distinctions. For example, many HIEs offer both registry and population health 
+analytics as a sort of trifecta of data aggregation. 
+Two Meanings for “Health Information Exchange” 
+You will hear the term “HIE” usedin two different ways. As a noun, “HIE” refers toa specific IT platform 
+or network that consumes and distributes clinical data from EHRs and other sources. However, as a verb 
+it means to actively exchange clinical data between interoperable IT systems (Appendix A provides a 
+primer on interoperability). Examples of both are shown in Exhibit 41. 
+Exhibit 41: Two Meanings of Health Information Exchange 
+Use of HIE 
+Meaning and Examples of This Use 
+HIE as a noun 
+• 
+National data exchange networks 
+• 
+Vendor consortiums 
+o CareQuality 
+o CommonWell Alliance 
+o Sequoia Project 
+• 
+State or regional health information exchanges 
+o CalRHIO (California) 
+o MiHIN (Michigan) 
+o Reliance eHealth Cooperative (Oregon) 
+• 
+Acute care admission, discharge notification systems 
+o Collective Medical 
+• 
+Dedicated platforms for addressing social needs 
+o UniteUs 
+o Aunt Bertha 
+HIE as a verb 
+• 
+Use of interoperability standards to exchange clinical data: 
+o Send and receive orders, results, and documents 
+o Send and receive immunizations, use of controlled substances 
+Health IT Advisor Handbook 
+Page 88

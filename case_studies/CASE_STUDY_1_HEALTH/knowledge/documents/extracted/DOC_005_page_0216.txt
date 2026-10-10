@@ -1,0 +1,90 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+216
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_E8 
+Mode de prise en charge : ambulatoire, HAD, SAMU-SMUR, urgences, soins critiques
+Champ d’applicabilité
+Sous-champ d’applicabilité
+Règles 
+HAD
+HAD PSY
+Table : filtre (select statut=INIT) – PSY (select DIS=TOT)
+Clef : FI
+If filtre.PSY=1 and
+PSY.JOU_HAD>0
+then SCA0016= true
+else SCA0016= false
+SAMU/SMUR 
+SAMU et/ou SMUR
+Table : filtre (select statut=INIT) 
+Clef : FI
+If filtre.SMURSAMU=1 then 
+SCA0029= true
+else SCA0029= false
+Urgences
+Urgences générales
+Table : filtre (select statut=INIT) – URGENCES Clef : FI
+If filtre.URG=1 and
+(URGENCES.AUTSU=1 and URGENCES.AUTGEN=1)
+then SCA0037= true
+else SCA0037= false
+Urgences pédiatriques
+Table : filtre (select statut=INIT) – URGENCES 
+Clef : FI
+If filtre.URG=1 and
+(URGENCES.AUTSU=1 and URGENCES.AUTPED=1)
+then SCA0038= true
+else SCA0038 false
+Soins critiques
+Unités de réanimation 
+adultes
+Table : filtre (select statut=INIT) – REA (select UNI= REAADU)
+Clef : FI
+If filtre.REA=1 and
+[REA.LIT>0 or
+REA.Sej>0
+REA.Jou>0]
+then SCA0030= true
+else SCA0030= false
+Unités de réanimation 
+enfants (hors néonatologie)
+Table : filtre (select statut=INIT) – REA (select UNI= REAENF)
+Clef : FI
+If filtre.REA=1 and
+[REA.LIT>0 or
+REA.Sej>0
+REA.Jou>0]
+then SCA0031= true
+else SCA0031= false
+Soins intensifs (quel que soit 
+l’âge hors néonatologie)
+Table : filtre (select statut=INIT) – REA (select UNI=SITOT)
+Clef : FI
+If filtre.REA=1 and
+[REA.LIT>0 or
+REA.Sej>0
+REA.Jou>0]
+then SCA0032= true
+else SCA0032= false
+Surveillance continue adultes
+Table : filtre (select statut=INIT) – REA (select UNI= Survadu)
+Clef : FI
+If filtre.REA=1 and
+[REA.LIT>0 or
+REA.Sej>0
+REA.Jou>0]
+then SCA0033= true
+else SCA0033= false
+Surveillance continue enfants
+Table : filtre (select statut=INIT) – REA (select UNI= SURVENF)
+Clef : FI
+If filtre.REA=1 and
+[REA.LIT>0 or
+REA.Sej>0
+REA.Jou>0]
+then SCA0034= true
+else SCA0034= false

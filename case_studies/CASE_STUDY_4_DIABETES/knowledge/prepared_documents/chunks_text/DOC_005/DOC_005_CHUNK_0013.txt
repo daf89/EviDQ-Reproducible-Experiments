@@ -1,0 +1,118 @@
+
+
+===== PDF PAGE 25 =====
+
+13
+4. Automated non-invasive BPMDs with cuff 
+Standardized protocols for validating the clinical accuracy of non-invasive BPMDs have been available since 
+1987, some of which were developed by standards bodies and others by professional organizations: 
+•	 Association for the Advancement of Medical Instrumentation (USA), 1987, 1992 and 2002
+•	 British Hypertension Society, 1990, 1993
+•	 German Hypertension League (Deutsche Hochdruckliga), 1999
+•	 European Society of Hypertension, 2002, 2010
+•	 ISO, 2009
+•	 American National Standards Institute, Association for the Advancement of Medical Instrumentation and 
+International Organization for Standardization, 2009, 2013
+•	 Association for the Advancement of Medical Instrumentation, European Society of Hypertension and 
+International Organization for Standardization, 2018
+The protocols differ notably with a key difference being the number of individuals required for testing. In 
+2018, experts from the European Society of Hypertension, the Association for the Advancement of Medical 
+Instrumentation and ISO published an endorsement of the ISO 81060-2; 2018 protocol, calling it the “single 
+universal standard” and stating that it “will replace all other previous standards/protocols” (25). Table 2 shows 
+the key aspects of the universal validation protocol and main parameters published by the European Society 
+of Hypertension Working Group on Blood Pressure Monitoring, as well as the British Hypertension Society (26). 
+Annex 3 reproduces the consensus document.
+Table 2. Main parameters considered in validation protocols
+Item
+Universal standard
+British Hypertension Society
+European Society of Hypertension
+Number of participants
+85
+85
+33
+Test cross-cuff range
+Requirement for testing each cuff
+No requirement for testing each cuff
+No requirement for testing each cuff
+Reference 
+measurement
+Any sphygmomanometer, with 
+maximum error ± 1 mm Hg
+Can also use invasive devices 
+Mercury sphygmomanometer
+Mercury sphygmomanometer
+Pass criteria or value
+Mean overall difference ± 5 mm 
+Hg, standard deviation within 
+8 mm Hg
+Mean difference among patients 
+based on mean difference in BP 
+and standard deviation
+Proportion of BP measurements 
+(test reference) overall and among 
+patients within 5, 10 and 15 mm 
+Hg
+Proportion of BP measurements 
+(test reference) overall and among 
+patients falling within 5, 10 and 
+15 mm Hg
+Additional specifications are outlined for special populations such as children and pregnant women as well 
+as for devices, such as ambulatory monitors and devices to be used during exercise stress testing. 
+
+
+===== PDF PAGE 26 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+14
+Table 3 shows the key aspects of the universal validation standard (27). 
+Source: Reference (27).
+Table 3. Requirements for various parameters of the universal validation standard
+Parameter
+Requirement
+Efficacy measure
+Threshold for accepting accuracy of BP measurement at estimated probability of tolerable error (≤ 10 mm Hg) ≥ 85%
+Sample size
+≥ 85 participants
+Participating 
+populations
+A general population study: participants aged ≥ 12 years.
+Special populations (age < 3 years; age 3 to 11 years; pregnant women; arm circumference > 42 cm; atrial 
+fibrillation; others may be added).
+Pregnant women: N = 45 (15 normotensive, 15 gestational hypertensions, 15 pre-eclampsia).
+Children aged 3–12 years. 35 participants can be included and analysed together with 50 older participants; results 
+reported separately. 
+Cuff sizes
+Minimum number of participants per cuff size, depending on number of test device cuffs.
+Requirement for arm circumference distribution according to range of use of test device.
+Reference BP
+Mercury sphygmomanometers or accurate non-mercury devices.
+Data collection
+Sequential BP measurements on the same arm are preferred.
+Pass criteria
+Average difference in BP and standard deviation criteria 1 and 2 of universal method.
+Absolute differences in BP ≤ 5, 10 and 15 mm Hg and scatterplots presented.
+The most accurate electronic BPMDs with cuff are those that have undergone rigorous validation testing 
+and passed the new universal standard validation protocol and those that offer a variety of cuff sizes to 
+accommodate a range of mid-upper arm circumferences.
+Certain websites provide information on validated non-invasive BPMDs, such as the STRIDE website (www.
+stridebp.org), the British and Irish Hypertension Society (www.bihsoc.org/bp-monitos), and Hypertension 
+Canada (www.hypertension.ca/bpdevices). These sites are described in detail in Annex 5.
+4.5	 Calibration 
+Even accuracy validated automated BPMDs can lose accuracy over time with regular use, usually related to 
+the wear and tear of the cuff and tubing. Because of this, the accuracy of devices must be assessed regularly 
+for effective hypertension management. This can be done by visually inspecting the parts and comparing the 
+measurements obtained with the device against those obtained with a gold standard device and method. If the 
+cuff or tubing have lost integrity, or the results of the comparison differ by an unacceptable amount, the device 
+may need repair or replacement. Devices should be checked regularly in accordance with the manufacturer’s 
+user and maintenance manuals. Accuracy should usually be assessed by technical professionals at the 
+institution, the manufacturer (during warranty or in a service contract) or by an approved service centre at the 
+interval prescribed by the manufacturer or as established in the medical equipment management programme.
+ 
+The frequency of accuracy-checks must be in accordance with the recommendation of the manufacturer, which 
+depends on the type of technology. The usual interval is once every 1 or 2 years. Nevertheless, experience 
+indicates that, if an electronic BPMD is used frequently every day in clinical practice, the integrity of the cuff 
+and tubing and the adequacy of the power source should be checked at least once a month (28) by users 
+or clinical engineers. A more technical check could be performed by an authorized laboratory (metrological 
+testing in order to guarantee accurate measurements by the national calibration or metrology centre in the 
+country), which will measure and calibrate the electronic device against a reference manometer, such as 

@@ -1,0 +1,26 @@
+{
+  "step": "STEP13",
+  "name": "FUZZY_MEMBERSHIP_FUNCTION_FORMALIZATION",
+  "timestamp_utc": "2026-10-03T00:00:35.545304+00:00",
+  "baseline": "DQ",
+  "reference_dataset_used_in_fuzzy": false,
+  "test_accessed": false,
+  "new_model": false,
+  "new_shap": false,
+  "fuzzy_inference_performed": false,
+  "recommendation_generated": false,
+  "membership_parameters_fitted_on_actions": false,
+  "number_of_actions_observed": 4,
+  "number_of_primary_fuzzy_inputs": 4,
+  "primary_fuzzy_inputs": [
+    "Delta_BalancedAccuracy_vs_DQ",
+    "Abs_Delta_Age_SHAP_vs_DQ",
+    "Stability_Cosine_Mean",
+    "Coverage"
+  ],
+  "fidelity_policy": "GATE_PASS_FAIL_NOT_FUZZIFIED",
+  "secondary_metrics_policy": "RETAINED_FOR_EXPLANATION_AND_VALIDATION",
+  "registry_sha256": "fff1771d138682cb5f3af2229f4ec3d93fcb31b130954b4416404a3e26d407e7",
+  "parameter_template_sha256": "50759dba290b5367a1e2b96d4622f30983567e2791bad87d24ea7cac7774ccfb",
+  "status": "PASS_FORMALIZATION_ONLY"
+}

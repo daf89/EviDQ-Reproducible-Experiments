@@ -1,0 +1,74 @@
+N
+Patient centred care
+Normal
+Abnormal
+≥10%
+<5%
+5% – <10%
+Age <40 years, resistant hypertension,
+suggestive signs and/or symptoms
+Targeted secondary
+hypertension
+treatment
+Screen for secondary
+hypertension
+(Class I)
+Calculate SCORE2/
+SCORE2-OP
+(Class I)
+Assess risk modifiers
+(Class IIa)
+Consider risk tools
+(Class IIb)
+Age ≥85 years, moderate-to-severe frailty, 
+symptomatic OH, short life expectancy
+Established CVD, moderate-to-severe CKD,
+hypertension-mediated organ damage, 
+diabetes mellitusa, familial
+hypercholesterolaemia
+Y
+N
+N
+N
+Y
+Y
+Y
+Non-elevated BP
+Office SBP <120 mmHg and
+DBP <70 mmHg
+Elevated BP
+Office SBP 120–139 mmHg
+and/or DBP 70–89 mmHg
+Hypertension
+Office SBP ≥140 mmHg and/or
+DBP ≥90 mmHg
+ABPM / HBPM
+preferred over office BP
+Target SBP 120–129 mmHg
+(Class I)
+Target DBP 70–79 mmHg
+(Class IIb)
+Screen BP
+opportunistically
+Lifestyle measures
+Drug treatment for confirmed
+BP ≥130/80 mmHg
+Monitor BP and
+medication toleranceb
+Screening for hypertension
+Opportunistic: every 3 years <40 years;
+every year ≥40 years
+HBPM/ABPM or
+repeated standardized office BP
+Confirming hypertension
+Lifestyle measures
+Figure 19 Central Illustration. ABPM, ambulatory blood pressure monitoring; BP, blood pressure; CVD, cardiovascular disease; CKD, chronic kidney 
+disease; DBP, diastolic blood pressure; HBPM, home blood pressure monitoring; OH, orthostatic hypotension; SBP, systolic blood pressure; SCORE2, 
+Systematic COronary Risk Evaluation 2; SCORE2-OP, Systematic COronary Risk Evaluation 2–Older Persons. Summary algorithm for BP classification 
+and management. See Section 5 for recommendations on out-of-office confirmation of the three BP categories. aAdults with type 2 diabetes mellitus 
+only and younger than 60 years should be considered for SCORE2-Diabetes assessment. bThough scientific data demonstrate that, under research 
+conditions, the optimal target BP is ≤120/70 mmHg, the target BP recommended by these guidelines in routine practice is 120–129/70–79 mmHg. 
+If achieving this target is not possible, or if treatment is not well tolerated, then BP should be treated to as low as reasonably achievable. For persons 
+with elevated BP, treatment with lifestyle measures for 3 months is first recommended, prior to considering medications. 
+ESC Guidelines 3961 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

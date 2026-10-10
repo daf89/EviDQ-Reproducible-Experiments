@@ -1,0 +1,155 @@
+
+
+===== PDF PAGE 55 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-4 
+WHO STEPS Surveillance 
+Recruiting Staff, Continued 
+ 
+ 
+ 
+IT specialist/ 
+Data manager 
+and analysis 
+team 
+The core tasks of the IT specialist/data manager and the analysis team 
+include: 
+ 
+• assisting with set-up of Android devices for data collection; 
+• providing support during the data collectors training on issues related to the 
+Android devices; 
+• providing support to the field teams during the field work on issues related 
+to the Android devices; 
+• downloading completed records from the Android devices; 
+• compiling the final dataset; 
+• pre-cleaning of the dataset; 
+• weighting of the survey data in collaboration with the statistical adviser; 
+• cleaning, analysis and assistance with reporting of the survey data. 
+ 
+ 
+ 
+Data collection 
+team 
+The core roles within the data collection team include the following: 
+ 
+• field team supervisors 
+• interviewers 
+• Step 3 data collectors, if separate from the interviewers 
+• drivers 
+• administrative staff. 
+ 
+ 
+ 
+Gender 
+considerations 
+for the data 
+collection team 
+For the data collection team, a mixture of staff of both sexes may be required 
+for situations and communities where: 
+ 
+• there are strict rules about contact with members of the opposite sex 
+• there is individual preference. 
+ 
+ 
+ 
+Language, 
+ethnic and 
+religious 
+considerations 
+For the data collection team, a mixture of staff who are fluent in several local 
+languages and/or dialects and represent varied cultural, ethnic and religious 
+groups may be valuable. 
+ 
+ 
+ 
+Laboratory 
+technician 
+The core tasks of the laboratory technician include: 
+ 
+• check and analyse urine samples 
+• record results and PIDs. 
+ 
+ 
+
+
+===== PDF PAGE 56 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-5 
+WHO STEPS Surveillance 
+Number of Staff Required 
+ 
+ 
+ 
+Estimating 
+numbers for 
+the data 
+collection team 
+The number and mix of staff requires careful calculation, based on the sample 
+size and the geographical scope of the survey.   Typically, one field  
+interviewer is expected to complete 4-6 interviews in one day. 
+ 
+For data collection, multiple teams should be recruited and trained to enable 
+completion of interviews within the planned timeframe. All teams should 
+have back-up staff available to cover for illness and other absences among 
+members of the team. 
+ 
+ 
+ 
+Data collection 
+staff 
+Use the following table as a guide to help determine the number of data 
+collection staff required to interview. A final sample size of 5,760 participants 
+and a timeframe of approximately 3 months of data collection was used to 
+determine the numbers in the table below. The numbers may need to be 
+adjusted depending on the final sample size and field implementation plan of 
+your survey. 
+ 
+Average 
+number of 
+interviews 
+per day per 
+interviewer 
+Number 
+of inter- 
+viewers* 
+Number of 
+Step 3 data 
+collectors 
+Number of 
+field teams 
+and 
+supervisors 
+Team composition 
+4-6 
+24-32 
+6-8 
+6-8 
+1 Supervisor with 4 
+interviewers and 1 
+Step 3 data 
+collector 
+ 
+Note: 
+• * The average number of interviews represents the number of interviews 
+conducted or measurements taken by one interviewer during an eight hour 
+working day. 
+• If the size of the survey increases or decreases, or this timeframe for data 
+collection is extended, these indicative numbers would change accordingly. 
+ 
+ 
+ 
+Field teams 
+The following factors need to be considered when putting together the field 
+teams: 
+ 
+• Consider allocating between two and four interviewers and one Step 3 data 
+collector per team, with each interviewer assigned to different households. 
+• In some countries, male and female interviewers may be paired. 
+• One supervisor should be responsible for between one and two teams. 
+ 

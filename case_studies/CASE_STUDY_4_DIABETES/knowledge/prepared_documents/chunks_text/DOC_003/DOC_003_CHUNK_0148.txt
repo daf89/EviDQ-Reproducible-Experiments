@@ -1,0 +1,206 @@
+
+
+===== PDF PAGE 295 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4C-1 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+Oral Health 
+The next questions ask about your oral health status, problems with your teeth, gums or mouth, any treatment that you may have 
+received for problems and oral hygiene behaviours. 
+Question 
+Response 
+Code 
+How do you rate your oral health (conditions of teeth, gums 
+and mouth) right now? 
+ 
+ 
+ Excellent 
+1     
+O1 
+Very good 
+2 
+Good 
+3 
+Fair    
+4 
+Poor 
+5 
+During the past twelve months, did you experience one or 
+more of the following issues because of your teeth, gums or 
+mouth?  
+Please mark all that apply. 
+ 
+ 
+ 
+Pain 
+1 
+O2 
+Difficulty eating food 
+2 
+Difficulty speaking 
+3 
+Avoided smiling 
+4 
+ Difficulty doing other usual 
+activities 
+5 
+None 
+6 If None, go to O5 
+Other 
+7 If Other, go to 
+O2other 
+Don't Know 
+77 
+Other (please specify) 
+└─┴─┴─┴─┴─
+┘ 
+O2other 
+During the past twelve months, have you used health care 
+services because of a problem with your teeth, gums or 
+mouth? 
+ 
+ 
+Yes 
+1 If Yes, go to O5 
+O3 
+No  
+2 
+What were the reasons for not using a health care services?  
+Please mark all that apply 
+ 
+ 
+No service available 
+1 
+O4 
+Too expensive 
+2 
+Service too far away 
+3 
+Poor service quality 
+4 
+Fear (afraid of dental care) 
+5 
+No appointment available 
+6 
+Relief from self medication 
+7 
+Other 
+8 If Other, go to 
+O4other 
+Other (please specify) 
+└─┴─┴─┴─┴─
+┘ 
+O4other 
+Please indicate which of the toothpastes shown do you use to 
+clean your teeth?  
+ 
+ 
+ 
+Image 1 
+1 
+O5 
+Image 2 
+2 
+Image 3 
+3 
+Image 4 
+4 
+Image 5 
+5 
+Other 
+6 If other, go to 
+O5other 
+Do not use toothpaste 
+7 
+Other (specify) 
+ 
+O5other 
+ 
+ 
+Oral Health 
+
+
+===== PDF PAGE 296 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4C-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+Oral Health Assessment 
+ 
+ 
+ 
+ 
+ 
+Clinical Oral Health Assessment 
+Question 
+Response 
+Code 
+Tooth count  
+ 
+0  
+1  If 0, go to O9 
+O6 
+1 - 9  
+2 
+10 – 19 
+3 
+≥ 20 
+4 
+Refused 
+88 If 88, end assessment 
+Presence of untreated dental caries 
+ 
+. 
+Yes 
+1  
+O7 
+No 
+2  If No, go to O9 
+Presence of severe dental caries 
+ 
+ 
+Yes 
+1  
+O8 
+No 
+2  
+Presence of severe pain, swelling, damage or unusual lesion 
+in or around the mouth 
+ 
+ 
+Yes 
+1 If Yes, go to O10 
+O9 
+No 
+2 If O7=2 and O8=2, end assessment   
+Need for urgent / immediate oral health care / referral 
+Yes 
+1 If O7=1 or O8 = 1 or O9 = 1 
+O10 
+No 
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

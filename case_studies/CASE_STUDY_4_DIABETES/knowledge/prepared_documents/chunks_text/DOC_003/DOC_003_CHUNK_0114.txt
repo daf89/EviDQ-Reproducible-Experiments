@@ -1,0 +1,52 @@
+
+
+===== PDF PAGE 227 =====
+
+Epi Info Overview 
+Continued on next page 
+4-2-6 
+WHO STEPS Surveillance 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+ 
+ 
+ 
+
+
+===== PDF PAGE 228 =====
+
+Continued on next page 
+4-2-7 
+WHO STEPS Surveillance 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+Epi Info Overview, Continued 
+ 
+ 
+ 
+Reading Epi 
+Info Output 
+Nearly all output from the standard analysis programs will contain tables with 
+results for men, then women, then both sexes.  Some analyses produce  
+multiple tables for each of these three groups. 
+ 
+An  example prevalence table is shown below: 
+ 
+ 
+ 
+The Total column provides the total number of respondents included in the 
+analysis for each age group as well as overall. In the above example, 632 
+men were included in the analysis, 440 men aged 18-44 and 192 age 45-69. 
+ 
+Row % provides the percentage of respondents in each category (column) for 
+the age group or overall.  In the above example, 12.6% of men aged 18-44  
+were current smokers (daily or non-daily smokers). Row % sums across the 
+row. We generally use Row % in the STEPS reporting documents. 
+ 
+Col % provides the percentage of respondents within each category that fall 
+into each age group. In the above example 64.7% of current smokers are aged 
+18-44. We do not generally use Col % in the STEPS reporting documents. 
+ 
+ 

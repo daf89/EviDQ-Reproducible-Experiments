@@ -1,0 +1,154 @@
+98. Juraschek SP, Cortez MM, Flack JM, Ghazi L, Kenny RA, Rahman M, et al. Orthostatic 
+hypotension in adults with hypertension: a scientific statement from the American 
+Heart Association. Hypertension 2024;81:e16–30. https://doi.org/10.1161/hyp. 
+0000000000000236 
+99. Raber I, Belanger MJ, Farahmand R, Aggarwal R, Chiu N, Al Rifai M, et al. Orthostatic 
+hypotension in hypertensive adults: Harry Goldblatt award for early career investiga-
+tors 2021. Hypertension 2022;79:2388–96. https://doi.org/10.1161/hypertensionaha. 
+122.18557 
+100. Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, et al. 
+Diagnosis and treatment of orthostatic hypotension. Lancet Neurol 2022;21:735–46. 
+https://doi.org/10.1016/s1474-4422(22)00169-7 
+101. Juraschek SP, Daya N, Rawlings AM, Appel LJ, Miller ER, Windham BG, et al. 
+Association of history of dizziness and long-term adverse outcomes with early vs later 
+orthostatic hypotension assessment times in middle-aged adults. JAMA Intern Med 
+2017;177:1316–23. https://doi.org/10.1001/jamainternmed.2017.2937 
+102. Brignole M, Moya A, de Lange FJ, Deharo J-C, Elliott PM, Fanciulli A, et al. Practical in-
+structions for the 2018 ESC Guidelines for the diagnosis and management of syncope. 
+Eur Heart J 2018;39:e43–80. https://doi.org/10.1093/eurheartj/ehy071 
+103. Rivasi G, Groppelli A, Brignole M, Soranna D, Zambon A, Bilo G, et al. Association be-
+tween hypotension during 24 h ambulatory blood pressure monitoring and reflex syn-
+cope: the SynABPM 1 study. Eur Heart J 2022;43:3765–76. https://doi.org/10.1093/ 
+eurheartj/ehac347 
+104. Smith TO, Sillito JA, Goh CH, Abdel-Fattah A-R, Einarsson A, Soiza RL, et al. 
+Association between different methods of assessing blood pressure variability 
+and incident cardiovascular disease, cardiovascular mortality and all-cause mortal-
+ity: a systematic review. Age Ageing 2020;49:184–92. https://doi.org/10.1093/ 
+ageing/afz178 
+105. Kim S, Xiao X, Chen J. Advances in photoplethysmography for personalized cardiovas-
+cular monitoring. Biosensors (Basel) 2022;12:863. https://doi.org/10.3390/bios12100863 
+106. Dagamseh A, Qananwah Q, Al Quran H, Shaker Ibrahim K. Towards a 
+portable-noninvasive blood pressure monitoring system utilizing the photoplethysmo-
+gram signal. Biomed Opt Express 2021;12:7732–51. https://doi.org/10.1364/boe.444535 
+107. Sharman JE, Avolio AP, Baulmann J, Benetos A, Blacher J, Blizzard CL, et al. Validation of 
+non-invasive central blood pressure devices: ARTERY Society task force consensus 
+statement on protocol standardization. Eur Heart J 2017;38:2805–12. https://doi. 
+org/10.1093/eurheartj/ehw632 
+108. Sharman JE, O’Brien E, Alpert B, Schutte AE, Delles C, Hecht Olsen M, et al. Lancet 
+Commission on Hypertension group position statement on the global improvement 
+of accuracy standards for devices that measure blood pressure. J Hypertens 2020; 
+38:21–9. https://doi.org/10.1097/hjh.0000000000002246 
+109. Lunardi M, Muhammad F, Shahzad A, Nadeem A, Combe L, Simpkin AJ, et al. 
+Performance of wearable watch-type home blood pressure measurement devices in 
+a real-world clinical sample. Clin Res Cardiol. 2023. https://doi.org/10.1007/s00392- 
+023-02353-7 
+110. Clark CE, Warren FC, Boddy K, McDonagh STJ, Moore SF, Teresa Alzamora M, et al. 
+Higher arm versus lower arm systolic blood pressure and cardiovascular outcomes: a 
+meta-analysis of individual participant data from the INTERPRESS-IPD collaboration. 
+Hypertension 2022;79:2328–35. https://doi.org/10.1161/hypertensionaha.121.18921 
+111. Margolis KL, Dehmer SP, Sperl-Hillen J, O’Connor PJ, Asche SE, Bergdall AR, et al. 
+Cardiovascular events and costs with home blood pressure telemonitoring and 
+pharmacist management for uncontrolled hypertension. Hypertension 2020;76: 
+1097–103. https://doi.org/10.1161/hypertensionaha.120.15492 
+112. Sheppard JP, Tucker KL, Davison WJ, Stevens R, Aekplakorn W, Bosworth H B, et al. 
+Self-monitoring of blood pressure in patients with hypertension-related multi- 
+morbidity: systematic review and individual patient data meta-analysis. Am J 
+Hypertens 2020;33:243–51. https://doi.org/10.1093/ajh/hpz182 
+113. Cooke G, Doust J, Sanders S. Is pulse palpation helpful in detecting atrial fibrillation? A 
+systematic review. J Fam Pract 2006;55:130–4. 
+114. Arvanitis M, Qi G, Bhatt DL, Post WS, Chatterjee N, Battle A, et al. Linear and non-
+linear Mendelian randomization analyses of the association between diastolic blood 
+pressure and cardiovascular events: the J-curve revisited. Circulation 2021;143: 
+895–906. https://doi.org/10.1161/circulationaha.120.049819 
+115. Whelton SP, McEvoy JW, Shaw L, Psaty BM, Lima JAC, Budoff M, et al. Association of 
+normal systolic blood pressure level with cardiovascular disease in the absence of risk 
+factors. JAMA Cardiol 2020;5:1011–8. https://doi.org/10.1001/jamacardio.2020.1731 
+116. Rahimi K, Bidel Z, Nazarzadeh M, Copland E, Canoy D, Ramakrishnan R, et al. 
+Pharmacological blood pressure lowering for primary and secondary prevention of 
+cardiovascular disease across different levels of blood pressure: an individual 
+participant-level data meta-analysis. Lancet 2021;397:1625–36. https://doi.org/10. 
+1016/S0140-6736(21)00590-0 
+117. Ji H, Niiranen TJ, Rader F, Henglin M, Kim A, Ebinger JE, et al. Sex differences in blood 
+pressure associations with cardiovascular outcomes. Circulation 2021;143:761–3. 
+https://doi.org/10.1161/circulationaha.120.049360 
+118. Kringeland E, Tell GS, Midtbø H, Igland J, Haugsgjerd TR, Gerdts E. Stage 1 hyperten-
+sion, sex, and acute coronary syndromes during midlife: the Hordaland health study. 
+Eur J Prev Cardiol 2022;29:147–54. https://doi.org/10.1093/eurjpc/zwab068 
+119. Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Sacks FM, et al. A clinical trial 
+of the effects of dietary patterns on blood pressure. DASH collaborative research group. 
+N Engl J Med 1997;336:1117–24. https://doi.org/10.1056/nejm199704173361601 
+120. Toledo E, Hu FB, Estruch R, Buil-Cosiales P, Corella D, Salas-Salvadó J, et al. Effect of 
+the Mediterranean diet on blood pressure in the PREDIMED trial: results from a ran-
+domized controlled trial. BMC Med 2013;11:207. https://doi.org/10.1186/1741-7015- 
+11-207 
+121. Sundström J, Arima H, Jackson R, Turnbull F, Rahimi K, Chalmers J, et al. Effects of 
+blood pressure reduction in mild hypertension: a systematic review and meta-analysis. 
+Ann Intern Med 2015;162:184–91. https://doi.org/10.7326/m14-0773 
+122. Ettehad D, Emdin CA, Kiran A, Anderson SG, Callender T, Emberson J, et al. Blood 
+pressure lowering for prevention of cardiovascular disease and death: a systematic re-
+view and meta-analysis. Lancet 2016;387:957–67. https://doi.org/10.1016/s0140- 
+6736(15)01225-8 
+123. Muntner P, Whelton PK. Using predicted cardiovascular disease risk in conjunction 
+with blood pressure to guide antihypertensive medication treatment. J Am Coll 
+Cardiol 2017;69:2446–56. https://doi.org/10.1016/j.jacc.2017.02.066 
+124. Herrett E, Strongman H, Gadd S, Tomlinson L, Nitsch D, Bhaskaran K, et al. The im-
+portance of blood pressure thresholds versus predicted cardiovascular risk on subse-
+quent rates of cardiovascular disease: a cohort study in English primary care. Lancet 
+Healthy Longev 2022;3:e22–30. https://doi.org/10.1016/s2666-7568(21)00281-6 
+125. Navar AM, Pencina MJ, Peterson ED. Assessing cardiovascular risk to guide hyperten-
+sion diagnosis and treatment. JAMA Cardiol 2016;1:864–71. https://doi.org/10.1001/ 
+jamacardio.2016.2861 
+126. Kovell LC, Ahmed HM, Misra S, Whelton SP, Prokopowicz GP, Blumenthal RS, et al. 
+US hypertension management guidelines: a review of the recent past and recommen-
+dations for the future. J Am Heart Assoc 2015;4:e002315. https://doi.org/10.1161/jaha. 
+115.002315 
+127. McEvoy JW, Martin SS, Dardari ZA, Miedema MD, Sandfort V, Yeboah J, et al. 
+Coronary artery calcium to guide a personalized risk-based approach to initiation 
+and intensification of antihypertensive therapy. Circulation 2017;135:153–65. https:// 
+doi.org/10.1161/circulationaha.116.025471 
+128. Rossello X, Dorresteijn JA, Janssen A, Lambrinou E, Scherrenberg M, 
+Bonnefoy-Cudraz E, et al. Risk prediction tools in cardiovascular disease prevention: 
+a report from the ESC Prevention of CVD Programme led by the European 
+Association of Preventive Cardiology (EAPC) in collaboration with the Acute 
+Cardiovascular Care Association (ACCA) and the Association of Cardiovascular 
+Nursing and Allied Professions (ACNAP). Eur J Prev Cardiol 2019;26:1534–44. 
+https://doi.org/10.1177/2047487319846715 
+129. Ioannidis JPA. Diagnosis and treatment of hypertension in the 2017 ACC/AHA 
+guidelines and in the real world. JAMA 2018;319:115–6. https://doi.org/10.1001/ 
+jama.2017.19672 
+130. Whelton PK, Carey RM, Aronow WS, Casey DE, Collins KJ, Dennison Himmelfarb C, 
+et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guide-
+line for the prevention, detection, evaluation, and management of high blood pressure 
+in adults: a report of the American College of Cardiology/American Heart Association 
+task force on clinical practice guidelines. Circulation 2018;138:e484–594. https://doi.org/ 
+10.1161/cir.0000000000000596 
+131. Rahimi K, Bidel Z, Nazarzadeh M, Copland E, Canoy D, Wamil M, et al. 
+Age-stratified and blood-pressure-stratified effects of blood-pressure-lowering 
+pharmacotherapy for the prevention of cardiovascular disease and death: an individ-
+ual participant-level data meta-analysis. Lancet 2021;398:1053–64. https://doi.org/ 
+10.1016/S0140-6736(21)01921-8 
+132. Brunström M, Carlberg B. Association of blood pressure lowering with mortality 
+and cardiovascular disease across blood pressure levels: a systematic review and 
+meta-analysis. JAMA Intern Med 2018;178:28–36. https://doi.org/10.1001/ 
+jamainternmed.2017.6015 
+133. Arguedas JA, Leiva V, Wright JM. Blood pressure targets in adults with hypertension. 
+Cochrane Database Syst Rev 2020;12:CD004349. https://doi.org/10.1002/14651858. 
+CD004349.pub3 
+134. Saiz LC, Gorricho J, Garjón J, Celaya MC, Erviti J, Leache L. Blood pressure targets 
+for the treatment of people with hypertension and cardiovascular disease. Cochrane 
+Database Syst Rev 2022;11:CD010315. https://doi.org/10.1002/14651858.CD010315. 
+pub5 
+135. Wright JT Jr, Williamson JD, Whelton PK, Snyder JK, Sink KM, Rocco MV, et al. A ran-
+domized trial of intensive versus standard blood-pressure control. N Engl J Med 2015; 
+373:2103–16. https://doi.org/10.1056/NEJMoa1511939 
+136. Zhang W, Zhang S, Deng Y, Wu S, Ren J, Sun G, et al. Trial of intensive blood-pressure 
+control in older patients with hypertension. N Engl J Med 2021;385:1268–79. https:// 
+doi.org/10.1056/NEJMoa2111437 
+137. Cushman WC, Evans GW, Byington RP, Goff DC Jr, Grimm RH Jr, Cutler JA, et al. 
+Effects of intensive blood-pressure control in type 2 diabetes mellitus. N Engl J Med 
+2010;362:1575–85. https://doi.org/10.1056/NEJMoa1001286 
+138. Ferrucci L, Furberg CD, Penninx BW, DiBari M, Williamson JD, Guralnik JM, et al. 
+Treatment of isolated systolic hypertension is most effective in older patients with 
+high-risk profile. Circulation 2001;104:1923–6. https://doi.org/10.1161/hc4101.097520 
+ESC Guidelines 3997 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

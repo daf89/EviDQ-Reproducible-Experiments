@@ -1,0 +1,67 @@
+While the role of optional tests for HMOD (Table 9) in the man-
+agement of elevated BP is emphasized in these guidelines, we also 
+note that these tests may help to optimize treatment in hyperten-
+sive adults with BP of >140/90 mmHg who are prescribed 
+BP-lowering therapy (e.g. by facilitating patient adherence and 
+overcoming clinician inertia in achieving an intensive BP treatment 
+target of as low as 120 mmHg systolic). The role of visualizing 
+HMOD in helping motivate risk-reducing changes in patients and 
+overcome physician inertia has been tested in interventional trials 
+(Section 7.3).247,265–267 
+Non-adherence definition
+Assessment
+Intervention
+Non-adherence definition
+Assessments
+Intervention
+1
+2
+3
+Patient does not initiate medication
+Prescription fill data and self-report
+Communicate benefits/safety of medication; alleviate fear
+of side effects/harm; discuss practicalities
+Patient does not take medication as prescribed
+Prescription refill data; self-report; electronic monitoring; 
+chemical adherence testing (blood/urine)
+Reminders; encourage habit formation; simplify drug regimen
+Patient discontinues medication
+Prescription refill data; self-report; electronic monitoring;
+chemical adherence testing (blood/urine)
+Motivational counseling on benefits/safety of medication; 
+discuss side effects; medication reconciliation; review practical
+aspects (cost and ease of access to medication)
+Non-adherence definition
+Assessment
+Intervention
+Initiation
+Implementation
+Persistence
+Figure 11 Definitions, assessments, and potential interventions for the three phases of adherence to BP-lowering medications. 
+Table 8 Routine tests recommended in the initial work-up of a patient with elevated blood pressure or hypertension 
+Routine test 
+Clinical utility 
+Fasting blood glucose (and HbA1c if fasting blood glucose is 
+elevated) 
+Assessing CVD risk and comorbidities 
+Serum lipids: total cholesterol, LDL cholesterol, HDL and 
+non-HDL cholesterol, triglycerides 
+Assessing CVD risk 
+Blood sodium and potassium, haemoglobin and/or haematocrit, 
+calcium, and TSH 
+Screening secondary hypertension (primary aldosteronism, Cushing’s disease, 
+polycythaemia, hyperparathyroidism, and hyperthyroidism) 
+Blood creatinine and eGFR; urinalysis and urinary 
+albumin-to-creatinine ratio 
+Assessing CVD risk and HMOD 
+Guiding treatment choice 
+Screening secondary hypertension (renoparenchymal and renovascular) 
+12-lead ECG 
+Assessing HMOD (left atrial enlargement, left ventricular hypertrophy) 
+Assessing irregular pulse and other comorbidities (AF, previous acute myocardial infarction) 
+© ESC 2024
+AF, atrial fibrillation; CVD, cardiovascular disease; ECG, electrocardiogram; eGFR, estimated glomerular filtration rate; HbA1c, glycated haemoglobin; HDL, high-density lipoprotein; HMOD, 
+hypertension-mediated organ damage; LDL, low-density lipoprotein; TSH, thyroid-stimulating hormone. 
+3946 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

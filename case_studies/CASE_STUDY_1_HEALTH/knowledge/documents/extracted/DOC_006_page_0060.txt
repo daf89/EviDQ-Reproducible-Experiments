@@ -1,0 +1,31 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+2.8 
+Tips for Documenting and Sharing EHR Best Practices 
+Health IT Advisors have a unique opportunity to discover and share how individual clinics design 
+identify, prioritize, and implement QI using their EHR or other health IT. Here are some tips for 
+documenting and sharing EHR best practices: 
+1. Recognize that specific vendor capabilities, local EHR configuration, workflow, and user preferences 
+can make it difficult to generalize about EHR workflows and best practices. 
+2. When documenting innovative workflows, try to use vendor-neutral terminology. For example, “dot 
+phrase” and “smart form” are both fairly specific to a particular EHR (Epic and eClinicalWorks, 
+respectively); consider “templatedstructureddata” as a more generalterm. 
+3. Get the clinic’s permission to share examples and stories that mayidentify them or an individual. For 
+example, sharing forms with a clinic logo or screen shots that contain identifying information about 
+a clinic or provider. 
+4. Only share vendor materials, including screen shots, with permission. Screen design is protected by 
+intellectualproperty rights; andvendors may be strict about how product images are used even for 
+academic, research, and QI purposes. 
+5. Make sure that examples, screen shots, forms, and images are clear of any PHI. When obscuring PHI 
+in a slide presentation, be sure to completely replace the image so that it cannot be re-edited. For 
+paper, a black marker is often used to obscure PHI. 
+6. Flowcharts, swim-lane, and workflow diagrams are an excellent way of representing before-and
+after process changes or comparing work practices in different clinics. 
+7. Consider presenting the results of your project to local, regional, or national EHR user groups and 
+industry associations (The Healthcare Information and Management Systems Society [HIMSS], The 
+American Medical Informatics Association [AMIA], The American Health Information Management 
+Association [AHIMA]). For user groups, vendor-specific material and terminology are often 
+appropriate (and appreciated by fellow users). 
+Health IT Advisor Handbook 
+Page 55

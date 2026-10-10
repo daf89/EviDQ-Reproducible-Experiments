@@ -1,0 +1,211 @@
+
+
+===== PDF PAGE 457 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-98 
+WHO STEPS Surveillance 
+ 
+ 
+Raised blood 
+glucose 
+ 
+ 
+Description: Categorization of respondents into blood glucose level categories 
+and percentage of respondents currently on medication for raised blood glucose 
+(non-fasting recipients excluded). 
+Instrument questions: 
+• In the past two weeks, have you taken any drugs (medication) for diabetes 
+prescribed by a doctor or other health worker? 
+• Are you currently taking insulin for diabetes prescribed by a doctor or other 
+health worker? 
+• During the last 12 hours have you had anything to eat or drink, other than 
+water? 
+• Blood glucose measurement 
+• Today, have you taken insulin or other drugs (medication) that have been 
+prescribed by a doctor or other health worker? 
+ 
+Impaired Fasting Glycaemia* 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Raised blood glucose or currently on medication for diabetes** 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Currently on medication for diabetes 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+* Impaired fasting glycaemia is defined as either 
+• plasma venous value: ≥6.1mmol/L (110mg/dl) and <7.0mmol/L (126mg/dl) 
+• capillary whole blood value: ≥5.6mmol/L (100mg/dl) and <6.1mmol/L (110mg/dl) 
+** Raised blood glucose is defined as either 
+• plasma venous value: ≥ 7.0 mmol/L (126 mg/dl) 
+• capillary whole blood value: ≥ 6.1 mmol/L (110 mg/dl) 
+Analysis Information: 
+• Questions used: H8, H9, B1, B5, B6 
+Epi Info program name: 
+• measurement in mmol/L: Bglucose (unweighted); BglucoseWT (weighted) 
+• measurement in mg/dl: BglucoseMg (unweighted); BglucoseMgWT (weighted) 
+
+
+===== PDF PAGE 458 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-99 
+WHO STEPS Surveillance 
+ 
+ 
+Blood glucose 
+diagnosis and 
+treatment 
+Description: Raised blood glucose diagnosis and treatment among all 
+respondents. 
+ 
+Instrument questions: 
+• Have you ever had your blood sugar measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have 
+raised blood sugar or diabetes? 
+• In the past two weeks, have you taken any drugs (medication) for diabetes 
+prescribed by a doctor or other health worker? 
+• Are you currently taking insulin for diabetes prescribed by a doctor or other 
+health worker? 
+• During the last 12 hours have you had anything to eat or drink, other than 
+water? 
+• Blood glucose measurement 
+• Today, have you taken insulin or other drugs (medication) that have been 
+prescribed by a doctor or other health worker? 
+ 
+Raised blood glucose diagnosis and treatment among all respondents 
+Age Group 
+(years) 
+Men 
+% with 
+% with 
+% with 
+raised 
+previously 
+previously 
+blood 
+diagnosed 
+diagnosed 
+n 
+glucose, 
+95% CI 
+raised 
+95% CI 
+raised 
+95% CI 
+not 
+ 
+blood 
+ 
+blood 
+previously 
+glucose, 
+glucose, 
+diagnosed 
+ not on 
+ 
+on 
+medication 
+medication 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Raised blood glucose diagnosis and treatment among all respondents 
+Age Group 
+(years) 
+Women 
+% with 
+% with 
+% with 
+raised 
+previously 
+previously 
+blood 
+diagnosed 
+diagnosed 
+n 
+glucose, 
+95% CI 
+raised 
+95% CI 
+raised 
+95% CI 
+not 
+ 
+blood 
+ 
+blood 
+previously 
+glucose, 
+glucose, 
+diagnosed 
+ not on 
+ 
+on 
+medication 
+medication 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 

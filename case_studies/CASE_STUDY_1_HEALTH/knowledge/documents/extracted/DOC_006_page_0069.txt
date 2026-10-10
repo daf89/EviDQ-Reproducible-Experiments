@@ -1,0 +1,50 @@
+Privacy and Security Issues 
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R
+Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R 
+Q U A L I T Y I M P R O V E M E N T 
+Patients and providers need to be assured that data transmitted and received are private and secure. 
+Authentication of the patient (or caregiver if that person is submitting information) is critical to ensure 
+that information authorship can be correctly attributed. A method of connecting specific information to 
+its source is essential to track data moving from system to system, particularly from patient-controlled 
+sources to provider EHRs, sothat the integrityof the data can be ensured.[55] Encryption is another 
+option to secure transmittedpatient-generateddata.However, this requires the additional steps of 
+creating and storing passwords whichmay hinder patient usability.[53] 
+Health IT Advisors may support practices andproviders by identifying securityneeds including 
+encryption and workflows that include obtaining additional patient consent for sharing private health 
+information. There could be a need to address patient authorization for secondary sharing of PGHD, if 
+the patient prefers that the data not be sharedwith other providers or for other purposes.[53] In 
+general, adhering to best practices regarding data governance is particularly important in the context of 
+PGHD. The AHRQ PGHD Guide mentioned above has a section on data governance (Folio 4). 
+5.4 
+Patient-reported Symptoms and Health-Related Quality of Life 
+Patient-reported symptoms regarding health, pain, and well-being can be helpful to determine current 
+treatment planeffectiveness as well as future treatments.[58] These mayinclude symptoms after cancer 
+treatments, surgical procedures, or changes in medications. Patients can relay symptoms through 
+connection to a web-based platform. 
+PROs cantake a varietyofforms,includingmeasuresofdifferencesinsymptomseverityandimpact and 
+measuresofhealth-relatedqualityoflife (HRQoL).Aconsensusamonghealthresearchersis that HRQoLis a 
+multidimensionalconstruct composedofat leastfourdimensions: 
+• 
+Physical function (i.e., daily activities, self-care) 
+• 
+Psychologic function (i.e., mental state, mood) 
+• 
+Social role function (i.e., social interactions, family dynamics), and 
+• 
+Disease or treatment symptoms (i.e., pain, nausea)[59] 
+Symptom reports represent a subset of HRQoL. Symptoms are viewed as the patient report most closely 
+related to the disease process and may be as impactful as HRQoL components such as well-being, 
+perception of daily functioning, global impressions of the impact of treatment on daily life, satisfaction 
+with treatment, andperception of overall health status.[59] 
+5.5 
+Home-Reported Outcomes/Patient-Generated Health Data 
+Physicians regularly collect data on patients’ physical vital signs at the point of care, but they most likely 
+do not know much about their patients’ home and community environment. This lack of information is 
+problematic because factors such as where you live, what you eat, whether you have the chance to 
+exercise, and other social factors have a significant impact on patient health outcomes. 
+Appropriately collecting and acting on PGHD, such as self-measured blood pressure data, has the 
+potential to better engage patients in self-care, improve patient outcomes, and reduce healthcare costs 
+relatedto readmissionand emergencyroom visits.[60] This can be done through telemonitoring devices 
+Health IT Advisor Handbook 
+Page 64

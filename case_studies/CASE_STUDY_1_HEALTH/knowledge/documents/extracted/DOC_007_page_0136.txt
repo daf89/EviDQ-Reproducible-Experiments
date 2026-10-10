@@ -1,0 +1,134 @@
+evaluated medication review by clinical practices in people
+with CKD, observing reductions in the use of inappropriate
+medications
+and
+medication-related
+problems,
+both
+in
+outpatient and inpatient settings.765,766 The most frequent
+reviews involved altering dosage or dose interval and
+discontinuing NSAIDs. More frequent medication reviews
+may be needed in older adults with complex medication
+regimens compared with younger people with CKD.
+In the context of good drug stewardship, healthcare pro-
+viders should be aware of the issue of “prescribing cascade.” A
+prescribing cascade is a sequence of events that begins when
+an adverse event is misinterpreted as a new medical condition
+and a subsequent drug is prescribed to treat this adverse
+event.779 Before prescribing new medications to address
+newly reported symptoms, it is important to ﬁrst assess if
+the symptoms represent a side effect from an existing
+medication. An example of a prescribing cascade is as
+follows: peripheral edema because of calcium channel
+blocker may be managed by initiation of a new medication
+(i.e.,
+diuretic),
+which
+can
+lead
+to
+additional
+adverse
+reactions (e.g., hypokalemia and dizziness).
+Practice Point 4.3.2: If medications are discontinued during
+an acute illness, communicate a clear plan of when to
+restart the discontinued medications to the affected person
+and healthcare providers, and ensure documentation in the
+medical record.
+Sick day rules have been endorsed as useful guidance to people
+with CKD in the setting of acute, dehydrating illness. Speciﬁcally,
+patients receive guidance to temporarily stop the following
+medications: sulfonylureas, ACEi, diuretics/direct renin in-
+hibitors,metformin,ARBs,NSAIDs,andSGLT2i(oftendescribed
+with the acronym SADMANS).780 However, there is a paucity of
+evidence to support sick day rules to prevent AKI or other
+clinically
+relevant
+outcomes.781,782
+Instead,
+data
+suggest
+potential harm if people make mistakes in recognizing
+dehydrating illness or about which drugs to stop and when to
+restart.783 Figure 47 shows the steps that must occur correctly
+for sick day rules to be implemented appropriately. The most
+reported problem is failure to restart the medication.784 The
+plan to restart medications should be detailed in the medical
+records and clearly communicated to the patients. Patients may
+additionally beneﬁt from medication review within a month to
+ensure appropriate medications are restarted.
+Practice Point 4.3.3: Consider planned discontinuation of
+medications (such as metformin, ACEi, ARBs, and SGLT2i)
+in the 48–72 hours prior to elective surgery or during the
+acute management of adverse effects as a precautionary
+measure to prevent complications. However, note that
+failure to restart these medications after the event or pro-
+cedure may lead to unintentional harm (see Practice Point
+4.3.2).
+The rationale for temporary discontinuation of certain
+medications before elective surgery or procedures is to pre-
+vent perioperative AKI and other complications such as hy-
+potension or metabolic acidosis or hyperkalemia during the
+perioperative
+period.735
+Medications
+that
+should
+be
+discontinued
+before
+elective
+surgery
+due
+to
+potential
+perioperative adverse effects are shown in Table 32.735,736
+There is consistent evidence that withholding RASi is
+associated with lower risk of perioperative hypotension in
+various types of surgery and procedures (noncardiac surgery,
+cardiac surgery, and coronary angiography).737,785,786 The
+evidence that withholding RASi would lower perioperative
+AKI is less consistent as affected by fewer studies with low
+sample
+sizes.787,788
+In
+the
+surgical
+context,
+antihyperglycemic agents such as sulfonylureas, metformin,
+and SGLT2i would be held because of fasting before the
+surgery. Case reports, case series, and a systematic review of
+47 cases739,740,789 support the current recommendations that
+SGLT2i should be withheld at least 3–4 days before the
+elective surgery.741,742
+Temporary discontinuation of medications to manage
+adverse events is indicated in most cases. However, fear for
+adverse event recurrence often results in failure to resume
+treatments. In CKD, hyperkalemia or AKI are not uncommon
+adverse effects of RASi treatment, to which clinical guidelines
+recommend discontinuation of RASi and therapy reinitiation
+at low dosages when the event is resolved.23,29,790,791 Despite
+this advice, permanent discontinuation of RASi seems to be
+the most common clinical reaction to occurrence of adverse
+events.580,792 Observational studies consistently show that
+withholding RASi medication compared with continuing
+treatment after these adverse events is associated with a
+lower recurrence of adverse events, but conversely a higher
+risk of MACE and death, for which prevention is one of the
+main indications for RASi.502–506 See Section 3.11 on
+hyperkalemia management.
+Sick
+Identifies
+dehydrating illness
+Recalls or retrieves
+list of pills to stop
+Identifies and
+stops pills
+Recovers and
+resumes pills
+Figure 47 | Essential steps for appropriate sick day rule implementation.
+www.kidney-international.org
+chapter 4
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S251

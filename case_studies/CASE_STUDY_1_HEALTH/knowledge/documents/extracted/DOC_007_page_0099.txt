@@ -1,0 +1,84 @@
+eGFR <30 ml/min per 1.73 m2, compared with those who
+continue.508,509 In addition, a recent individual patient level
+data meta-analysis demonstrated a beneﬁt in delaying KRT
+in patients with eGFR <30 ml/min per 1.73 m2.510
+3.7 Sodium-glucose cotransporter-2 inhibitors
+(SGLT2i)
+The Work Group concurs with the KDIGO 2022 Clinical
+Practice Guideline for Diabetes Management in Chronic
+Kidney Disease, which stated: “We recommend treating pa-
+tients with type 2 diabetes (T2D), CKD, and an eGFR $20 ml/
+min per 1.73 m2 with an SGLT2i (1A).”23 However, in this
+guideline, we offer a more general 1A recommendation for
+adults with CKD. We also highlight practice points from
+the KDIGO Diabetes guideline for diabetes management in
+CKD, which are also relevant for people with CKD without
+diabetes:
+Recommendation 3.7.1: We recommend treating
+patients with type 2 diabetes (T2D), CKD, and an
+eGFR ‡20 ml/min per 1.73 m2 with an SGLT2i (1A).
+Practice Point 3.7.1: Once an SGLT2i is initiated, it is
+reasonable to continue an SGLT2i even if the eGFR falls
+below 20 ml/min per 1.73 m2, unless it is not tolerated
+or KRT is initiated.
+Practice Point 3.7.2: It is reasonable to withhold SGLT2i
+during times of prolonged fasting, surgery, or critical
+medical illness (when people may be at greater risk for
+ketosis).
+Recommendation 3.7.2: We recommend treating
+adults with CKD with an SGLT2i for the following
+(1A):
+ eGFR ‡20 ml/min per 1.73 m2 with urine ACR ‡200
+mg/g (‡20 mg/mmol), or
+ heart failure, irrespective of level of albuminuria.
+Practice Point 3.7.3: SGLT2i initiation or use does not
+necessitate alteration of frequency of CKD monitoring and
+the reversible decrease in eGFR on initiation is generally
+not an indication to discontinue therapy.
+Use of SGLT2i in people with T2D is recommended in previous
+guidelines irrespective of level of albuminuria. This new recom-
+mendation (3.7.2) places high value on the importance of reducing
+risk of kidney failure, cardiovascular mortality, and heart failure
+in people with CKD and high value on the large relative reductions
+in risk for kidney disease progression in a series of large, placebo-
+controlled RCTs. It also places moderate value on the beneﬁts of
+SGLT2i on risk of AKI, hospitalization for heart failure and
+myocardial infarction, risk of hospitalization from any cause,
+and high value on the demonstrable net absolute beneﬁts
+versus absolute harms in people with CKD (particularly in those
+Initiate ACEi or ARB
+Monitor serum creatinine and potassium
+(within 2–4 weeks after starting or changing dose)
+<30% decrease
+in eGFR
+Increase dose of ACEi or ARB
+or continue on maximally
+tolerated dose
+≥30% decrease
+in eGFR
+Normokalemia
+Hyperkalemia
+• Review for causes of AKI
+• Correct volume depletion
+• Reassess concomitant medications
+(e.g., diuretics, NSAIDs)
+• Consider renal artery stenosis
+• Review concurrent drugs
+• Moderate dietary potassium
+intake
+• Consider:
+- diuretics
+- sodium bicarbonate
+- potassium binders
+Reduce dose or stop ACEi or ARB
+if mitigation strategies ineffective
+Figure 21 | Algorithm for monitoring of potassium and estimated glomerular ﬁltration rate (eGFR) after the initiation of renin-
+angiotensin system inhibitors. ACEi, angiotensin-converting enzyme inhibitor; AKI, acute kidney injury; ARB, angiotensin II receptor blocker;
+NSAID, nonsteroidal anti-inﬂammatory drug. Modiﬁed from Kidney Disease: Improving Global Outcomes Diabetes Work Group. KDIGO 2022
+Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int. 2022;102:S1–S127.23 Copyright ª 2022, KDIGO:
+Kidney Disease Improving Global Outcomes. Published by Elsevier Inc. on behalf of the International Society of Nephrology. This is an open
+access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+chapter 3
+www.kidney-international.org
+S214
+Kidney International (2024) 105 (Suppl 4S), S117–S314

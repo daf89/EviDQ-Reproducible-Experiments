@@ -1,0 +1,66 @@
+Type 1 
+diabetes
+Indeterminate9
+Consider repeat 
+Type 2 
+diabetes
+Genetic testing for
+monogenic diabetes
+where available6 
+Are there features of 
+type 2 diabetes?5
+Test C-peptide4
+Are there features of monogenic diabetes?
+Islet autoantibody negative
+Islet autoantibody positive
+Type 1 diabetes
+Age
+Unclear classification7
+Make clinical decision as to 
+how person with diabetes 
+should be treated
+Trial of noninsulin therapy 
+may be appropriate8
+Consider C-peptide4 test 
+>35 years
+Yes
+No
+No
+Test islet autoantibodies2
+Yes
+Adult with suspected type 1 diabetes1
+Flowchart for investigation of suspected type 1 diabetes in newly 
+diagnosed adults, based on data from White European populations
+(5–10% of adult-onset type 1 diabetes)
+<35 years
+after >3 years’ duration
+>200 pmol/L
+<200 pmol/L
+>600 pmol/L
+200–600 pmol/L
+<200 pmol/L
+C-peptide at >5 years
+Figure 2.1—Flowchart for investigation of suspected type 1 diabetes in newly diagnosed adults, based on data from White European populations. 1No single 
+clinical feature confirms type 1 diabetes in isolation. 2Glutamic acid decarboxylase (GAD) should be the primary antibody measured and, if negative, should be 
+followed by islet tyrosine phosphatase 2 (IA-2) and/or zinc transporter 8 (ZnT8) where these tests are available. In individuals who have not been treated with in
+sulin, antibodies against insulin may also be useful. In those diagnosed at <35 years of age who have no clinical features of type 2 diabetes or monogenic diabe
+tes, a negative result does not change the diagnosis of type 1 diabetes, since 5–10% of people with type 1 diabetes do not have antibodies. 3Monogenic 
+diabetes is suggested by the presence of one or more of the following features: A1C <58 mmol/mol (<7.5%) at diagnosis, one parent with diabetes, features of 
+a specific monogenic cause (e.g., renal cysts, partial lipodystrophy, maternally inherited deafness, and severe insulin resistance in the absence of obesity), and 
+monogenic diabetes prediction model probability >5% (diabetesgenes.org/exeter-diabetes-app/ModyCalculator). 4A C-peptide test is only indicated in people 
+receiving insulin treatment. A random sample (with concurrent glucose) within 5 h of eating can replace a formal C-peptide stimulation test in the context of 
+classification. If the result is ≥600 pmol/L (≥1.8 ng/mL), the circumstances of testing do not matter. If the result is <600 pmol/L (<1.8 ng/mL) and the concur
+rent glucose is <4 mmol/L (<70 mg/dL) or the person may have been fasting, consider repeating the test. Results showing very low levels (e.g., <80 pmol/L 
+[<0.24 ng/mL]) do not need to be repeated. Where a person is insulin treated, C-peptide must be measured prior to insulin discontinuation to exclude severe in
+sulin deficiency. Do not test C-peptide within 2 weeks of a hyperglycemic emergency. 5Features of type 2 diabetes include increased BMI (≥25 kg/m2), absence 
+of weight loss, absence of ketoacidosis, and less marked hyperglycemia. Less discriminatory features include non-White ethnicity, family history, longer duration 
+and milder severity of symptoms prior to presentation, features of metabolic syndrome, and absence of a family history of autoimmunity. 6If genetic testing 
+does not confirm monogenic diabetes, the classification is unclear and a clinical decision should be made about treatment. 7Type 2 diabetes should be strongly 
+considered in older individuals. In some cases, investigation for pancreatic or other types of diabetes may be appropriate. 8A person with possible type 1 diabe
+tes who is not treated with insulin will require careful monitoring and education so that insulin can be rapidly initiated in the event of glycemic deterioration. 
+9C-peptide values 200–600 pmol/L (0.6–1.8 ng/mL) are usually consistent with type 1 diabetes or maturity-onset diabetes of the young but may occur in insulin- 
+treated type 2 diabetes, particularly in people with normal or low BMI or after long duration. Reprinted and adapted from Holt et al. (32). 
+diabetesjournals.org/care
+Diagnosis and Classification of Diabetes
+S31 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

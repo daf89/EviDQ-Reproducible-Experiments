@@ -1,0 +1,58 @@
+• 
+Perform scheduling and billing (the original function of most major EHRs!) 
+• 
+Serve as a primary, organizational medical record 
+• 
+Deliver clinical decision support 
+• 
+Provide registries and tools for managing population health 
+• 
+Provide dashboards for cost and quality analytics 
+• 
+Qualify for EHR incentive programs 
+• 
+Support patient engagement and communication 
+• 
+Support telehealth and virtual visits 
+• 
+Connect to remote patient management devices 
+• 
+Provide data for clinical and health services studies, and 
+• 
+Coordinate care within internal care teams and external care partners . 
+Trying to meet all of these demands in one technology solution, the EHR, creates challenges for 
+developers, implementers, and users alike. A Health IT A dvisor should be prepared for the remarkable 
+diversity of EHR implementations in the field. 
+Why are EHRs So different From Each Other? 
+We have come to expect a degree of standardization when using websites, desktop applications, and 
+phone apps. It can be surprising to see how much variability there is in EHR user interfaces, features, 
+technical capabilities, configurations, and workflows. This variability is the results of many factors, 
+including the following: 
+• 
+A thriving commercial market for EHRs, driven by federal government incentives, which 
+spawned a proliferation in vendors and products 
+• 
+Federal certification requirements for functionality and design are relatively new (2009) 
+• 
+Major EHR vendors usually create flexible solutions for broad adoption 
+• 
+Vendors generally allow extensive site-specific customization during implementation, and 
+• 
+Users may choose different workflows or user settings within the same product and version. 
+A Conceptual Map of EHR Data 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Despite wide variability among EHRs, a Health IT Advisor will find similar groupings of patient 
+information from one system to another. For example, any EHR should provide a place to capture, store, 
+and view current medications, diagnoses or conditions, test results, and many of the other groupings 
+described below. The key differences between EHRs are likely to be: 1) the workflows used to enter and 
+view data (discussed in the next section of the handbook); 2) navigation of screens and layout of 
+displays; 3) vendor terminology; and 4) the potential range of user preferences and customsettings. 
+EHR screen designs for grouping and presenting data are unique to each system but follow the same 
+general design themes. Below is an example of the VistA EHR developed by the Veterans Administration 
+that illustrates several of the groupings described by the United States Core Data for Interoperability 
+(USCDI) standard.[35] The USCDI is a vendor-neutral model and terminology standard for organizing 
+patient-specific clinical information for exchange with other systems, and will be required going forward 
+Health IT Advisor Handbook 
+Page 24

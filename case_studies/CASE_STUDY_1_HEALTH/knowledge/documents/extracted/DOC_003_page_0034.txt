@@ -1,0 +1,106 @@
+there is evidence of HMOD or existing cardiac, cerebrovascular, or re-
+nal disease. 
+Details on medical history and physical examination steps are sum-
+marized in the supplement (see Supplementary data online, Tables S2 
+and S3), as well as drugs or substances that may increase BP (see 
+Supplementary data online, Table S4). 
+7.4.2. Drug adherence and persistence with 
+treatment 
+Adherence is defined as the extent to which a patient’s behaviour, e.g. 
+with respect to taking medication, coincides with agreed recommenda-
+tions from a healthcare provider. Persistence represents the amount of 
+time from initiation to discontinuation of therapy.248 Adherence to med-
+ical therapies is especially suboptimal in asymptomatic conditions such as 
+hypertension.249–254 Non-adherence to BP-lowering therapy correlates 
+with a higher risk of CVD events.255,256 Objective methods to assess ad-
+herence, such as detecting prescribed drugs in blood or urine samples and 
+directly observed treatment (witnessed pill intake during ABPM), have de-
+monstrated their potential usefulness, particularly in the setting of appar-
+ently resistant hypertension.257 However, all methods for testing drug 
+adherence have limitations. 
+Non-adherence to BP-lowering therapy depends on many factors 
+(Figure 11).253 Effective patient–physician communication is crucial to im-
+prove adherence.258,259 Single-pill combinations improve persistence in 
+BP-lowering treatment and are associated with lower all-cause mortality.260 
+7.4.3. Routine and optional tests 
+Routine tests include laboratory and clinical tests to detect increased CVD 
+risk and relevant comorbidities (e.g. hyperlipidaemia and diabetes) (Table 8). 
+Optional tests should be considered in the initial assessment if they 
+are likely to change patient management, with the main rationale being 
+to improve CVD risk stratification.170 As highlighted in Section 6, for 
+adults with elevated BP who also have a 10-year estimated CVD risk 
+of 5% to <10%, optional tests including those for HMOD may be con-
+sidered if up-classification of risk on the basis of an abnormal test result 
+could prompt initiation of BP-lowering therapy.31,170 Evidence of sub-
+clinical microvascular neurodegeneration and/or lacunar brain disease 
+due to small-vessel pathology may also indicate HMOD.264 
+Table 7 Key illness representations and treatment beliefs: how these apply to communicating a hypertension diagnosis 
+to the patient (note that gender influences these representations) 
+Illness 
+representation 
+Example patient question 
+Application to a hypertension diagnosis conversation 
+Identity 
+What is the disease/illness label and the 
+related symptoms? 
+The condition where your systolic BP is ≥140 and/or diastolic 
+BP ≥90 mmHg is called hypertension. We classify systolic BP 120–139 or diastolic 
+BP 70–89 mmHg as elevated BP. For most people, this has no noticeable signs or 
+symptoms, therefore, we need to monitor your BP to assess how medications and 
+behavioural changes are working. 
+Control 
+Is the illness controllable through medical 
+intervention or behavioural change? 
+Hypertension can usually be controlled with medication and behavioural changes such as 
+dietary changes and regular physical activity. For some people we need to try a few 
+different options before we get BP under control. 
+Timeline 
+Is this an acute or chronic problem? 
+This is a serious long-term or chronic condition condition that will require long-term 
+management. This means that it may need to be managed throughout life. 
+Consequences 
+What are the physical and psychosocial 
+consequences? 
+If hypertension is not controlled, then there is a risk of a serious acute cardiovascular 
+disease event such as a stroke or heart attack; however, if it is managed through the right 
+medical intervention and behavioural changes, then this risk can be reduced and the 
+condition will have less consequences for your life. 
+Causes 
+What caused the condition? 
+Multiple factors contribute to someone developing hypertension. These include both 
+non-modifiable factors (e.g. genetics and age) and modifiable factors (e.g. diet, weight, 
+and physical activity). We are best focusing on those things that we can control to 
+reduce your BP. 
+Treatment beliefs 
+Example patient question 
+Application to a hypertension diagnosis communication 
+Necessity 
+To what extent is treatment necessary? 
+Taking BP-lowering medication every day is necessary to keep your BP under control and 
+to help prevent a more serious health problem developing. Do you think that these 
+medicines will help you? 
+Concerns 
+To what extent does treatment cause 
+concern? 
+Some patients have concerns about taking daily medications throughout their life, e.g. 
+about side effects. Do you have any concerns about taking your BP medications every day? 
+© ESC 2024
+BP, blood pressure. 
+Recommendation Table 7 — Recommendations for 
+assessing adherence and persistence with treatment 
+(see Evidence Table 16) 
+Recommendation 
+Classa 
+Levelb 
+Objective evaluation of adherence (either directly 
+observed treatment or detecting prescribed drugs in 
+blood or urine samples) should be considered in the 
+clinical work-up of patients with apparent resistant 
+hypertension, if resources allow.261–263 
+IIa 
+B 
+© ESC 2024
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3945 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

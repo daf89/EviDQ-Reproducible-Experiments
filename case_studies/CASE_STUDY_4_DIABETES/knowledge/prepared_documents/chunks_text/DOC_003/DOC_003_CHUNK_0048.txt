@@ -1,0 +1,133 @@
+
+
+===== PDF PAGE 95 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-10 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+ 
+Oversampling is desired 
+for very small sub- 
+populations. 
+Increase the overall n by increasing the n for 
+the specific estimate(s) by 10%. 
+Oversampling is desired 
+for specific sub- 
+populations with higher 
+than average non- 
+response. 
+Increase the overall n by increasing the n for 
+the specific estimate(s) by 10 to 20%. 
+Oversampling of the 60- 
+69 year age group is 
+desired  because 
+obtaining sufficient 
+numbers of respondents 
+from this age group is 
+expected to be difficult 
+due to high non-response 
+and/or small size of this 
+sub-population. 
+Increase the overall n by increasing the  
+specific estimates for males and females in this 
+age group by 10 to 20%. Oversampling 60-69 
+year olds within households can be done with 
+the Android STEPS app. 
+ 
+Note: If oversampling is desired, adjustments usually must also be made 
+when allocating the sample (see next topic). Often in addition to increasing 
+the sample size, the sample allocation must take into consideration the 
+location of hard-to-reach groups and allocate a greater proportion of the 
+sample to these areas. 
+ 
+ 
+Sample Size 
+Calculator 
+There is an Excel workbook, sample_size_calculator.xls, that can assist in the 
+calculations needed to determine the sample size for a survey.  It is available  
+on the STEPS website. The calculator allows to adjust all variables discussed 
+here and also provides assistance in determining  whether  the  Finite 
+Population Correction (FPC) is applicable to a survey and, if so, how to 
+correctly apply the FPC. 
+ 
+ 
+ 
+Smaller sample 
+sizes 
+If the sample size calculations result in a sample size too large for the 
+resources available, consider reducing the number of age-sex estimates 
+desired for reporting of the results. Reducing the age-sex estimates can 
+significantly reduce the sample size required for a survey. 
+ 
+ 
+
+
+===== PDF PAGE 96 =====
+
+Identifying the Sampling Frame 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+A sampling frame is a list of units or elements that defines the target 
+population. It is from this list that the sample is drawn. A sampling frame is 
+essential for any survey. 
+ 
+ 
+Finding 
+available 
+sampling 
+frames 
+To identify available sampling frames and determine which is best for a 
+country, search for updated lists, databases, registers or other sources that 
+give good coverage of the population to be surveyed. For example, look for 
+population registers or census lists. 
+ 
+Various government departments and national bodies should be consulted to 
+establish what frames exist in a country and, if suitable, whether they may be 
+accessed for STEPS. 
+ 
+ 
+ 
+Enumeration 
+areas (EAs) 
+Most often the sampling frame will use enumeration areas (EAs) which are 
+small- to medium-sized geographic areas that have been defined in a previous 
+census. Most countries have this information and it is usually preferable to 
+incorporate this into the sampling frame. 
+ 
+ 
+ 
+Factors to 
+consider 
+A sampling frame, or a collection of them, should cover all of the population in 
+the surveyed country. Good coverage means that every eligible person in the 
+population has a chance of being included in the survey sample. 
+ 
+Representativeness for all sub-populations should be considered when 
+deciding which frame(s) to use, since there is a possibility that particular age, 
+gender or ethnic groups or geographical areas are more or less likely to be 
+included in the sampling frame.   Bias will occur if there is poorer coverage  
+for some groups. 
+ 
+ 
+ 
+Multiple 
+Sampling 
+Frames 
+Due to logistical and financial limitations, most national surveys employ 
+multi-stage sampling, which is discussed in detail in the following topic. A 
+multi-stage sample design will require a sampling frame for each stage of 
+sampling. 
+ 
+Continued on next page 

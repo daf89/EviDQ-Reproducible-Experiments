@@ -1,0 +1,59 @@
+Reference keys
+NOMENCLATURE AND DESCRIPTION FOR RATING GUIDELINE RECOMMENDATIONS
+Within each recommendation, the strength of recommendation is indicated as Level 1 or Level 2, and the certainty of the supporting
+evidence is shown as A, B, C, or D.
+Grade
+Implications
+Patients
+Clinicians
+Policy
+Level 1
+“We recommend”
+Most people in your situation would
+want the recommended course of
+action, and only a small proportion
+would not.
+Most patients should receive the
+recommended course of action.
+The recommendation can be evaluated
+as a candidate for developing a policy
+or a performance measure.
+Level 2
+“We suggest”
+The majority of people in your situation
+would want the recommended course
+of action, but many would not.
+Different choices will be appropriate for
+different patients. Each patient needs
+help to arrive at a management
+decision consistent with their values
+and preferences.
+The recommendation is likely to require
+substantial debate and involvement of
+stakeholders before policy can be
+determined.
+Grade
+Certainty of evidence
+Meaning
+A
+High
+We are conﬁdent that the true effect is close to the estimate of the effect.
+B
+Moderate
+The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+C
+Low
+The true effect may be substantially different from the estimate of the effect.
+D
+Very low
+The estimate of effect is very uncertain, and often, it will be far from the true effect.
+Practice points are consensus-based statements representing the expert judgment of the Work Group and are not graded. They are issued when a
+clinical question did not have a systematic review performed, to help readers implement the guidance from graded recommendation (e.g., frequency
+of monitoring, provision of standard care [such as regular clinic visits], referral to specialist care, etc.), or for issuing “good practice statements” when
+the alternative is considered to be absurd. Users should consider the practice point as expert guidance and use it as they see ﬁt to inform the care of
+patients. Although these statements are developed based on a different methodology, they should not be seen as “less important” or a “downgrade”
+from graded recommendations.
+www.kidney-international.org
+reference keys
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S125

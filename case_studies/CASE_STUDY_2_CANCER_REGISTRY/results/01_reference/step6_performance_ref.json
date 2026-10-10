@@ -1,0 +1,42 @@
+{
+    "model": "RandomForestClassifier",
+    "random_state": 42,
+    "split_strategy": "GroupShuffleSplit_by_registration_number",
+    "test_size": 0.2,
+    "n_total": 1865,
+    "n_train": 1494,
+    "n_test": 371,
+    "n_train_patients": 1411,
+    "n_test_patients": 353,
+    "patient_overlap": 0,
+    "target": "Y_3years",
+    "features": [
+        "sex_code",
+        "age_diag",
+        "diag_year",
+        "mkb10_code",
+        "icdo3_m_code",
+        "registry_stage_code",
+        "stage_definition_code",
+        "diagnosis_method_code",
+        "finding_code",
+        "administr_unit"
+    ],
+    "metrics": {
+        "accuracy": 0.7250673854447439,
+        "balanced_accuracy": 0.6795665634674923,
+        "precision": 0.6448598130841121,
+        "recall": 0.518796992481203,
+        "f1": 0.575,
+        "roc_auc": 0.7636001769128704
+    },
+    "confusion_matrix": {
+        "TN": 200,
+        "FP": 38,
+        "FN": 64,
+        "TP": 69
+    },
+    "encad3_correction_applied": false,
+    "hidden_reference_rules_used": false,
+    "shap_computed": false
+}

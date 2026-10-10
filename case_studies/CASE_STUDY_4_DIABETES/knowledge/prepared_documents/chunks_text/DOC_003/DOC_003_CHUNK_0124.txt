@@ -1,0 +1,186 @@
+
+
+===== PDF PAGE 247 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach surveillance- Instrument v.3.2 
+5-1-1 
+ 
+ 
+WHO STEPS Instrument 
+for Noncommunicable Disease 
+Risk Factor Surveillance 
+ 
+<insert country name> 
+ 
+ 
+Location and Date 
+Response 
+Code 
+Cluster/Centre/Village ID 
+└─┴─┴─┴─┴─┴─┘ 
+I1 
+Cluster/Centre/Village name 
+I2 
+Interviewer ID 
+└─┴─┴─┘ 
+I3 
+Date of completion of the instrument 
+└─┴─┘ └─┴─┘ └─┴─┴─┴─┘ 
+dd 
+mm 
+year 
+I4 
+ 
+ 
+Consent, Interview Language and Name 
+Response 
+Code 
+Yes 
+1 
+I5 
+Consent has been read and obtained 
+No 
+2 
+If NO, END 
+English 
+1 
+Interview Language [Insert Language] 
+[Add others] 
+[Add others] 
+2 
+3 
+I6 
+[Add others] 
+4 
+Time of interview 
+(24 hour clock) 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+I7 
+Family Surname 
+I8 
+First Name 
+I9 
+Additional Information that may be helpful 
+Contact phone number where possible 
+I10 
+Survey Information 
+
+
+===== PDF PAGE 248 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Instrument v.3.2 
+5-1-2 
+ 
+ 
+ 
+ 
+ 
+CORE: Demographic Information 
+Question 
+Response 
+Code 
+Sex (Record Male / Female as observed) 
+Male     1 
+Female     2 
+C1 
+What is your date of birth? 
+Don't Know 77 77 7777 
+└─┴─┘ └─┴─┘ └─┴─┴─┴─┘ If Known, Go to C4 
+dd 
+mm 
+year 
+C2 
+How old are you? 
+Years 
+└─┴─┘ 
+C3 
+In total, how many years have you spent at school and in full- 
+time study (excluding pre-school)? 
+Years 
+└─┴─┘ 
+C4 
+ 
+EXPANDED: Demographic Information 
+What is the highest level of education you have completed? 
+[INSERT COUNTRY-SPECIFIC CATEGORIES] 
+No formal schooling 
+Less than primary school 
+Primary school completed 
+Secondary school completed 
+High school completed 
+College/University completed 
+Post graduate degree 
+Refused 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+88 
+C5 
+What is your [insert relevant ethnic group / racial group / cultural 
+subgroup / others] background? 
+[Locally defined] 
+[Locally defined] 
+[Locally defined] 
+Refused 
+1 
+2 
+3 
+88 
+C6 
+What is your marital status? 
+Never married 
+Currently married 
+Separated 
+Divorced 
+Widowed 
+Cohabitating 
+Refused 
+1 
+2 
+3 
+4 
+5 
+6 
+88 
+C7 
+Which of the following best describes your main work status 
+over the past 12 months? 
+Government employee 
+Non-government employee 
+Self-employed 
+Non-paid 
+Student 
+Homemaker 
+Retired   
+Unemployed (able to work) 
+Unemployed (unable to work) 
+Refused 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+88 
+[INSERT COUNTRY-SPECIFIC CATEGORIES] 
+C8 
+(USE SHOWCARD) 
+How many people older than 18 years, including yourself, live in 
+your household? 
+Number of people 
+└─┴─┘ If Not Known, Go to C11 
+C9 
+Step 1 Demographic Information 

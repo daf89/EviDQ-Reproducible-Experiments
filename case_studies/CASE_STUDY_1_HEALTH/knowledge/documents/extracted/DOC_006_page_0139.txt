@@ -1,0 +1,40 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+The purpose of this handbook is not to be an all-encompassing tutorial on every possible data 
+visualization. For a large gallery of visualizations and a great place to find inspiration, visit the D3 gallery. 
+D3 is a JavaScript library that is not for the novice, but if you are working with a developer or simply 
+want to find ideas you can implement, it is a nice place to browse. 
+Considerations Around Diversity, Equity, and Inclusion 
+One important step that many organizations miss is pilot your solution before publishing. Having 
+stakeholders from your intended audience review and provide feedback can uncover gaps in your 
+planned design. It canalso prevent embarrassing mistakes oroversights frombeing releasedto a wider 
+audience and minimize risk or possible damage. For example, the decision to list white males first in 
+every data visualization may have just been an oversight but could send a completely different message 
+than you intend. The stakeholder committee could simply be the original committee you initially 
+engaged with, but do not overlook the opportunity at this step to identify members of the broader 
+community. 
+This would be a good time to identify actual users and get their feedback. One exercise that we found 
+particularlyuseful was toorganize is light-weight usability study. Here are the steps we followed: 
+• 
+Identify actual users/stakeholders from your intended audiences who will agree to participate in 
+a study where they will be recorded as they attempt to complete various tasks using your new 
+solution 
+• 
+Schedule meetings with each stakeholder to meet with an interviewer on a video conferencing 
+solution (Zoom, MS Teams, etc.)todiscuss the format, content, presentation, andaesthetics of 
+the visualization. 
+Conclusion 
+As discussed in this Appendix (also see Section 8), designing visualizations to present quality data to 
+diverse stakeholders is an art and a science. Below are some examples of different visualization types 
+that may be of use. 
+Example 1: Line Graphs / Run Charts 
+Generally, in order to track performance over time, it is useful to display quality and performance 
+measures graphedas a function of time, a display calleda run chart.[122] 
+The run chart below is a generic example. In a run chart, it is often helpful to show all patients seen 
+during a given unit of time (such as a month), to create visual evidence of the effect of various 
+improvement interventions. In this example, the time points of the process change activities are 
+indicated by the call-outs boxes. 
+Health IT Advisor Handbook 
+Page 134

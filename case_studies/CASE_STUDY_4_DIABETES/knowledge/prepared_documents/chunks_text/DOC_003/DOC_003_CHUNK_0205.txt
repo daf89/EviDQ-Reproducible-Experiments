@@ -1,0 +1,202 @@
+
+
+===== PDF PAGE 409 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-50 
+WHO STEPS Surveillance 
+ 
+ 
+Diet 
+ 
+ 
+Mean 
+number of 
+days of fruit 
+and 
+vegetable 
+consumption 
+Description: mean number of days fruit and vegetables consumed. 
+ 
+Instrument questions: 
+• In a typical week, on how many days do you eat fruit? 
+• In a typical week, on how many days do you eat vegetables? 
+ 
+Mean number of days fruit consumed in a typical week 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+number 
+95% CI 
+of days 
+Mean 
+n 
+number 
+95% CI 
+of days 
+Mean 
+n 
+number 
+95% CI 
+of days 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean number of days vegetables consumed in a typical week 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+number 
+95% CI 
+of days 
+Mean 
+n 
+number 
+95% CI 
+of days 
+Mean 
+n 
+number 
+95% CI 
+of days 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: D1, D3 
+• Epi Info program name: Ddays (unweighted); DdaysWT (weighted) 
+ 
+
+
+===== PDF PAGE 410 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-51 
+WHO STEPS Surveillance 
+ 
+ 
+Mean 
+number of 
+servings of 
+fruit and 
+vegetable 
+consumption 
+Description: mean number of fruit, vegetable, and combined fruit and vegetable 
+servings on average per day. 
+ 
+Instrument questions: 
+• In a typical week, on how many days do you eat fruit? 
+• How many servings of fruit do you eat on one of those days? 
+• In a typical week, on how many days do you eat vegetables? 
+• How many servings of vegetables do you eat on one of those days? 
+ 
+Mean number of servings of fruit on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean number of servings of vegetables on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean number of servings of fruit and/or vegetables on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+Mean 
+n 
+number 
+95% CI 
+of 
+servings 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: D1, D2 , D3, D4 
+• Epi Info program name: Dservings (unweighted); DservingsWT (weighted) 
+ 

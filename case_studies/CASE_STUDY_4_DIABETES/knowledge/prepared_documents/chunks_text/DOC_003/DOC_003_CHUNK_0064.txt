@@ -1,0 +1,128 @@
+
+
+===== PDF PAGE 127 =====
+
+Preparing the Android devices 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+In order to prepare the Android devices for data collection, the STEPS app 
+and ODK collect app must be installed on each device. 
+ 
+ 
+Setting up the 
+STEPS app 
+The STEPS app is available from the Google Play store, or from the WHO 
+STEPS team upon request. After installing the STEPS app on an Android 
+device, you will first see a welcome screen and then be asked to pick which 
+app type you wish to use: Household or Participant. These two app types are 
+described in the following table. 
+ 
+App type 
+Description 
+Household 
+Intended for household-based data collection. The data 
+collector will enter all eligible household members and 
+then use the device to select one person from this list to 
+participate in the survey. 
+Participant 
+Intended for Step 3 data collection where the participant 
+has been previously selected, or for surveys where 
+individuals have been directly sampled from the sampling 
+frame. The data collector will only need to enter the 
+individual’s Participant ID number, their name, age and 
+sex and will then be able to proceed directly to the 
+instrument. 
+ 
+Even though each device will most likely be used exclusively for one type of 
+data collection, it is still recommended to complete the settings for both app 
+types on all devices in the event any device is used for a different type of data 
+collection than originally planned. 
+ 
+The table below describes each of the settings and what to enter for each. 
+ 
+Setting 
+Description / What to Enter 
+Survey ID 
+Unique ID for the entire survey (e.g. Switzerland2015) that 
+is used to identify the household listing data for the survey. 
+What to enter: The unique Survey ID for the survey, 
+typically the country name + year. 
+Device ID 
+Unique ID number for the Android device. This number is 
+used to generate Household IDs and PIDs, so it is critical 
+that every device used for a survey has a unique number. 
+What to enter: The unique Device ID for this particular 
+device, typically devices are numbered 1 through n for 
+each survey. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 128 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-11 
+WHO STEPS Surveillance 
+Preparing the Android devices, Continued 
+ 
+ 
+ 
+Setting up the 
+STEPS app 
+(cont.) 
+ 
+Setting 
+Description / What to Enter 
+Starting 
+Household ID 
+The starting number used to generate Household IDs on 
+the device. 
+What to enter: By default, this is automatically set to 1. 
+Normally this should not be changed. 
+Form ID 
+The name of XLSForm file to open for this app type. The 
+FormID of your XLSForm file can be found on the 
+Settings tab of the Excel file. 
+What to enter: The Form ID for the instrument that  
+should be opened for this app type. Note that it is possible 
+to have a different instrument associated with each app 
+type, i.e. a Step 1 and 2 instrument can be opened when 
+using the Household app type and a Step 3 instrument can 
+be opened when using the Participant app type. 
+Min and max 
+age 
+The minimum and maximum ages for participants in the 
+survey. 
+What to enter: By default these are set to 18 and 69, 
+modify to the age range of a survey if it has a different age 
+range. 
+URL to export 
+This provides the address of the server where the  
+household listing data will be sent when exported from the 
+device. 
+What to enter: Do not edit. The URL of the server is 
+automatically entered and must not be modified. 
+URL to import 
+This provides the address of the server from which 
+household listing data will be received. This allows for a 
+new device to “inherit” the household listing from another 
+device, in the event a device fails. 
+What to enter: Do not edit. The URL of the server is 
+automatically entered and must not be modified. 
+ 
+Important: Once the settings have been entered, be sure to tap “Done” to 
+save the changes to the settings. If you tap on the “X” in the upper left-hand 
+corner, the changes to the settings will not be saved. You can return to the 
+Settings at any time from the STEPS app home screen from the Menu in the 
+upper right-hand corner. 
+ 
+Continued on next page 

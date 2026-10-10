@@ -1,0 +1,43 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+258
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_V4 
+Règles d’utilisation des indicateurs qualité et sécurité 
+des soins (IQSS) dans la certification 
+Cibles prioritaires EV – ES – RU 
+ Objectifs de la fiche
+Cette fiche présente les règles d’utilisation des indicateurs qualité et sécurité des soins dans la certification.
+ Pour bien commencer
+Les indicateurs de qualité et de sécurité des soins sont un outil de mesure d’un état de santé, d’une pratique, d’une 
+organisation ou de la survenue d’un événement, qui permettent d’évaluer de manière valide et fiable la qualité des 
+soins et son évolution dans le temps. Ils évaluent la structure, le processus ou le résultat, et peuvent être recueillis 
+à partir de différentes sources de données. 
+Les critères de validation des indicateurs de qualité et sécurité des soins (IQSS) : 
+• • de type processus développés par la HAS sont : la pertinence clinique, la faisabilité, la pertinence pour 
+l’amélioration de la qualité des soins, les qualités métrologiques et l’ajustement.
+• • de type résultats développés par la HAS : 
+• • issus des bases médico-administratives : la pertinence clinique et validité de construit, la validité 
+de critère, l’ajustement, la validité discriminante, la pertinence pour l’amélioration, la stabilité temporelle 
+et les potentiels effets induits négatifs ;
+• • issus de questionnaires patients : la faisabilité, la pertinence pour l’amélioration de la qualité des soins, 
+les qualités métrologiques du questionnaire et l’ajustement des résultats. 
+Les indicateurs de qualité et de sécurité des soins seront exploités à différents moments de la procédure de certification :
+1. lors de la préparation de la visite par l’équipe d’experts-visiteurs ;
+2. lors de la visite.
+ Ce qu’il faut savoir
+1. Utilisation des indicateurs IQSS au moment de la préparation de visite
+La préparation de visite consiste à exploiter l’ensemble des données mis à sa disposition de la HAS pour déterminer 
+des profils de traceurs pertinents au regard de l’activité et des risques de l’établissement.
+Lorsque les résultats des IQSS d’un établissement seront inférieurs à l’objectif national, des profils de parcours et de 
+traceurs seront proposés à l’établissement dans son programme de visite dans les secteurs concernés.
+Le chef de projet alerte le coordonnateur lorsque les résultats des indicateurs sont inférieurs à l’objectif national.
+2. Utilisation des IQSS pendant la visite de certification
+Le résultat des indicateurs qualité et sécurité des soins (IQSS) portant sur tout ou partie des exigences d’un critère 
+d’évaluation est mobilisé en visite par les experts-visiteurs. Il s’agit d’évaluer : 
+• • d’une part :
+• • l’effectivité du recueil, du partage, de l’analyse et de l’exploitation ;
+• • la mise en place de plans d’amélioration ;

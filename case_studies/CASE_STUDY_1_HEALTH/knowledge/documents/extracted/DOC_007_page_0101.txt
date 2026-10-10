@@ -1,0 +1,236 @@
+acid levels,515 weight/ﬂuid overload,516 and the risk of serious
+hyperkalemia.517
+Harms. SGLT2i are well tolerated with high levels of
+adherence in the RCTs in CKD.403,513,514 In the studied
+populations,
+any
+risk
+of
+ketoacidosis
+or
+lower-limb
+amputation resulting from SGLT2i use was substantially
+lower than the potential absolute beneﬁts and generally
+restricted to people with diabetes. Meta-analysis estimates of
+absolute beneﬁts and harms for each 1000 people with
+CKD and T2D treated for 1 year with an SGLT2i were 11
+fewer cardiovascular deaths or hospitalizations for heart
+failure, for approximately 1 episode of ketoacidosis and
+approximately 1 lower-limb amputation, respectively (and
+also 11 fewer people developing kidney disease progression
+and 4 fewer people with AKI). The corresponding beneﬁts
+in people with CKD without diabetes were 15 fewer people
+with kidney disease progression, 5 fewer with AKI, and 2
+fewer cardiovascular deaths or hospitalizations for heart
+failure per 1000 patient-years of treatment with no excess
+risk of ketoacidosis or amputation observed.511 The vast
+majority of urinary tract infections in people taking SGLT2i
+are not caused by SGLT2 inhibition, and there is no
+increased risk of hypoglycemia. There is an increased risk of
+mycotic genital infections (in men and women), but these
+are generally mild and treating these infections with low-
+cost topical agents should help treatment adherence.
+Certainty of evidence. SGLT2i have been studied in a
+series of large trials with consistent effects observed be-
+tween trials, using different agents in the class. The trials
+have robust double-blind designs that minimize risk of
+bias, and they have provided precise estimates of effect
+with no risk of publication bias due to the Nufﬁeld
+Department
+of
+Public
+Health
+(NDPH)
+Renal
+Studies
+Group and SGLT2 inhibitor Meta-Analysis Cardio-Renal
+Trialists’
+Consortium
+(SMART)
+collaboration,
+which
+brought together all the trialists that have conducted the
+relevant large trials. The totality of the evidence provides
+high levels of certainty of efﬁcacy, with larger effect sizes
+observed in many populations. Relative effects on kidney
+disease progression appeared to be larger among people
+with higher levels of albuminuria who are at highest ab-
+solute risk of progression. The size of RR reductions
+Mean
+baseline eGFR,
+ml/min per
+1.73 m2
+Events/participants
+SGLT2 inhibitor
+Placebo
+Cardiovascular death or hospitalization for heart failure*
+RR
+(95% CI)
+Diabetes
+High atherosclerotic 
+cardiovascular risk trials
+Stable heart failure trials†
+Chronic kidney disease trials
+Subtotal: diabetes
+No diabetes
+Stable heart failure trials†
+Chronic kidney disease trials
+Subtotal: no diabetes
+Total: overall
+80
+61
+45
+67
+64
+40
+56
+65
+1490/24,563
+923/5046
+643/10,474
+3056/40,691
+710/5316
+50/2476
+760/7792
+3816/48,483
+1232/18,005
+1154/5037
+847/10,457
+3233/34,113
+890/5322
+53/2491
+943/7813
+4176/41,926
+0.80 (0.74–0.86)
+0.77 (0.71–0.84)
+0.74 (0.66–0.82)
+0.77 (0.73–0.81)
+0.78 (0.70–0.86)
+0.95 (0.65–1.40)
+0.79 (0.72–0.87)
+0.77 (0.74–0.81)
+Heterogeneity by diabetes status: P=0.67
+Events/participants
+SGLT2 inhibitor
+Placebo
+RR
+(95% CI)
+Cardiovascular death
+1026/24,563
+468/5046
+363/10,474
+1908/40,691
+396/5316
+26/2476
+422/7792
+2330/48,483
+755/18,005
+527/5037
+434/10,457
+1774/34,113
+452/5322
+25/2491
+477/7813
+2251/41,926
+0.86 (0.78–0.95)
+0.88 (0.78–0.99)
+0.83 (0.72–0.95)
+0.86 (0.80–0.92)
+0.88 (0.77–1.00)
+1.04 (0.59–1.83)
+0.88 (0.78–1.01)
+0.86 (0.81–0.92)
+Heterogeneity by diabetes status: P=0.68
+0.75
+0.5
+1.00 1.25 1.50
+Noncardiovascular death
+Diabetes
+High atherosclerotic 
+cardiovascular risk trials
+Stable heart failure trials†
+Chronic kidney disease trials
+Subtotal: diabetes
+No diabetes
+Stable heart failure trials†
+Chronic kidney disease trials
+Subtotal: no diabetes
+Total: overall
+80
+61
+45
+67
+64
+40
+56
+65
+572/24,557
+317/5046
+230/10,474
+1133/40,685
+263/5316
+38/2476
+301/7792
+1434/48,477
+461/18,003
+316/5037
+240/10,457
+1035/34,111
+251/5322
+52/2491
+303/7813
+1338/41,924
+0.88 (0.78–1.00)
+1.00 (0.86–1.16)
+0.94 (0.79–1.12)
+0.93 (0.85–1.01)
+1.05 (0.88–1.24)
+0.74 (0.49–1.14)
+1.00 (0.85–1.17)
+0.94 (0.88–1.02)
+Heterogeneity by diabetes status: P=0.43
+All-cause death
+1671/24 ,563
+785/5046
+599/10,474
+3120/40,691
+659/5316
+64/2476
+723/7792
+3843/48,483
+1299/18,005
+843/5037
+683/10,457
+2901/34,113
+703/5322
+77/2491
+780/7813
+3681/41,926
+0.87 (0.81–0.94)
+0.93 (0.84–1.02)
+0.87 (0.78–0.97)
+0.88 (0.84–0.93)
+0.94 (0.85–1.05)
+0.84 (0.60–1.18)
+0.93 (0.84–1.03)
+0.89 (0.85–0.94)
+Heterogeneity by diabetes status: P=0.36
+SGLT2 inhibitor 
+Favors placebo
+0.75
+0.5
+1.00 1.25 1.50
+SGLT2 inhibitor 
+Favors placebo
+Figure 23| Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on cardiovascular and mortality outcomes by
+diabetes status and trial population. Collaborative meta-analysis of data from 13 large placebo control trials of SGLT2 inhibitors. †Data from
+Effect of Sotagliﬂozin on Cardiovascular Events in Patients with Type 2 Diabetes Post Worsening Heart Failure (SOLOIST-WHF) are included in
+totals but excluded from the stable heart failure trials group as the trial included patients with recent acute decompensated heart failure. CI,
+conﬁdence interval; eGFR, estimated glomerular ﬁltration rate; RR, relative risk. Reproduced from Nufﬁeld Department of Population Health
+Renal Studies Group, SGLT Inhibitor Meta-Analysis Cardio-Renal Trialists’ Consortium. Impact of diabetes on the effects of sodium glucose co-
+transporter-2 inhibitors on kidney outcomes: collaborative meta-analysis of large placebo-controlled trials. Lancet. 2022;400:1788–1801.511 ª
+2022 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license.
+chapter 3
+www.kidney-international.org
+S216
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,58 @@
+{
+  "step": "STEP12_DOCUMENT_KNOWLEDGE_EXTRACTION_INPUT_PREPARATION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-22T15:36:41.620967+00:00",
+  "orchestration": "Local Python / Jupyter",
+  "semantic_processor_next_stage": "GPT-5.6 Sol",
+  "llm_role_next_stage": "LLM-B documentary knowledge extractor",
+  "input_source": "STEP11 Table_LLMA_RELEVANT_Pairs.csv",
+  "step11_total_decisions": 1700,
+  "step11_relevant_pairs": 63,
+  "knowledge_types_requested": [
+    "SEMANTICS",
+    "DOMAIN_CONSTRAINT",
+    "ERROR",
+    "DETECTION",
+    "CORRECTION"
+  ],
+  "knowledge_extraction_performed_here": false,
+  "dataset_diagnosis_performed": false,
+  "correction_applied": false,
+  "hidden_reference_used": false,
+  "external_knowledge_used": false,
+  "scientific_articles_added": false,
+  "semantic_prefilter_added": false,
+  "tfidf": false,
+  "cosine_similarity": false,
+  "embedding_prefilter": false,
+  "keyword_prefilter": false,
+  "top_k": false,
+  "input_controls": {
+    "expected_step11_decisions": 1700,
+    "actual_step11_decisions": 1700,
+    "expected_relevant_pairs": 63,
+    "actual_relevant_pairs": 63,
+    "duplicate_pair_ids": 0,
+    "all_input_rows_relevant": true,
+    "empty_chunk_text": 0,
+    "step11_exact_evidence_checked": true,
+    "step11_exact_evidence_valid": true
+  },
+  "feature_counts": {
+    "registry_stage_code": 39,
+    "icdo3_m_code": 0,
+    "age_diag": 11,
+    "administr_unit": 0,
+    "mkb10_code": 13
+  },
+  "outputs": {
+    "csv_input": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\llmb_input\\LLMB_input_63_relevant_feature_chunk_pairs.csv",
+    "jsonl_input": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\llmb_input\\LLMB_input_63_relevant_feature_chunk_pairs.jsonl",
+    "feature_manifest": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\tables\\Table_LLMB_Input_Feature_Manifest.csv",
+    "feature_document_manifest": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step12_document_knowledge_extraction\\tables\\Table_LLMB_Input_By_Feature_Document.csv"
+  },
+  "sha256": {
+    "csv_input": "34ecdbdb6a5ac164654a603029ee99a7f35df51096dc8b47df6f4a8ca9a5800c",
+    "jsonl_input": "e9f02dcb1099be4d34f95495471920fe33cb351afb3f08dc73eb7f4c779a7a66"
+  }
+}

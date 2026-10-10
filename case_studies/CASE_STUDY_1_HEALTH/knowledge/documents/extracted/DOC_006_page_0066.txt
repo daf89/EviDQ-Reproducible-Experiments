@@ -1,0 +1,50 @@
+5. Section 5: Incorporating Patient-Generated Data for Quality 
+Improvement 
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R
+Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R 
+Q U A L I T Y I M P R O V E M E N T 
+5.1 
+Advantages of Patient-Reported Outcomes and Patient-Generated Data 
+Patient-reported data and patient-generated data together offer an opportunity to capture information 
+for use at the point of care, with potential cost savings and improvements in quality, care coordination, 
+and patient safety.[53] Patient-generatedhealthdata (PGHD)includes patient-reported outcomes 
+(PROs). According to the Food and Drug Administration (FDA), a PRO is a report coming directly from the 
+patient regarding the status ofa patient’s healthcondition without amendment or interpretationof the 
+patient’s response by a clinician or anyone else.[54]. Data can be captured by a patient, family caregiver, 
+provider, or device. Data can be retrospective (i.e., capturing data on things that have occurred in the 
+past)or entered in real time. AHRQhas published an important resource on this topic, Integrating 
+Patient-GeneratedHealthDataintoElectronic HealthRecordsin Ambulatory Care Settings: A Practical 
+Guide.[53] 
+PROs can be collected from patients at various times and in various ways, including: 
+• 
+during clinic visits 
+• 
+when they are at home (including all locations in someone’s daily life) 
+• 
+online through various web tools 
+• 
+through mobile devices used either for treatment or for research.[54] 
+PGHD includes any health-related patient data that originates from the patient or patient designee. This 
+includes data captured by: 
+• 
+wearable technology 
+• 
+sensors 
+• 
+patient-reported treatment, symptom, or lifestyle data 
+It is now understood that it is critical to value the patient as a source of vital health information. The 
+timely receipt of additional data from the patient, the patient’s family, or other caregivers outside of the 
+clinical visit can eliminate criticalinformation gaps, suchas recent changes in the patient’s condition or 
+symptoms that might prompt a change or reconsideration of the care plan.[55] 
+Acquiring knowledge that a patient had a procedure or test from another provider can help reduce 
+duplicative services. Additionally, an up-to-date list of medications from all providers, including what is 
+being taken as compared to what has been prescribed, is vital for care coordination. Data regarding 
+medications, allergies, intolerances, and outcomes can help mitigate safety risks and adverse outcomes. 
+Policies and practices for the safe and effective collection and use of data generatedby patients outside 
+the clinical setting will help support delivery and payment reform goals. Developments in healthcare 
+delivery, such as patient-centered care, the patient-centered medical home, and payment reform 
+programs such as Accountable Care Organizations (ACOs) seek to strengthen patient engagement and 
+care teamcoordination as contributors to better outcomes and efficiencies.[55] 
+Health IT Advisor Handbook 
+Page 61

@@ -1,0 +1,47 @@
+7. Section 7: Beyond the EHR: Alternative Data Sources for Quality 
+Improvement 
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+EHRs are the most common and obvious source of data for quality improvement projects . However, 
+EHRs may not contain information needed for a specific QI project and Health IT Advisors may need to 
+help practices look beyond their EHR for data. 
+In this section, we review three alternative sources of QI data: 
+• 
+Payer claims data 
+• 
+Databases externaltoEHRs,often called registries, andthe growing number of sophisticated 
+third-party population health platforms that can consume and analyze both EHR and claims data 
+• 
+Health information exchanges (HIEs) that aggregate clinical data for care coordination across 
+multiple EHRs, clinics, and health systems. 
+7.1 
+Using Claims Data for Quality Improvement 
+While the proliferation of EHR software has led to an increase in the use of eCQMs (see Section 8), the 
+use of health insurance claims as a resource for quality measurement, research,andpolicy analysis is 
+well established.[74-79] Claims data are collected routinely at each encounter for the purpose of 
+reimbursement and include dates of service, demographics, diagnoses, procedures, charges, and more. 
+Every medical practice is therefore generating information with potential value for QI projects during 
+the billing process. 
+When considering how to leverage claims data for QI, it is important to recognize limitations up front. 
+Relying on information used primarily for reimbursement can introduce measurement bias, [80] as the 
+traditional fee-for-service model was not designed to incentivize comprehensive clinical documentation. 
+Claims data lack the rich contextual information typically present within the patient’s medical record, 
+such as free-text notes, provider orders, problem/medication/allergy lists, and test results. Additionally, 
+practices are often limited to what has been generated internally, as claims data from other providers of 
+care, suppliers, or pharmacies is typically unavailable without special effort. 
+Despite these limitations, claims data can be valuable alone or as a complement to other data sources 
+for QI. They benefit from being readily available and represented using standard formats and codes that 
+enable reporting on populations meeting specific criteria. For practices without an EHR, claims data can 
+be used to identify patients eligible for measures of interest and calculate performance rates that can be 
+validated through chart audit where appropriate. For practices using EHRs to report eCQM, claims data 
+can fill gaps where preferred measures are unavailable, inaccurate, or unreliable. 
+Claims data are also centralto quality measurement for health plans. The Healthcare Effectiveness Data 
+and Information Set (HEDIS), used by more than 90 percent of payers to assess provider performance, 
+contains over 90 quality measures driven primarily by claims.[81] CMS accepts Quality Data Codes (QDC) 
+to support claims-basedreporting of quality actions for programs such MIPS.[66] As payers move 
+forward with value-based contracting, transparency regarding how claims data are used to measure 
+patient outcomes will promote provider accountability and increase the importance of billing and coding 
+best practices. 
+Health IT Advisor Handbook 
+Page 82

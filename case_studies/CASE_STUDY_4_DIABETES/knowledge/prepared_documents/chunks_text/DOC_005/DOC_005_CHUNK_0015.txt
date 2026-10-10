@@ -1,0 +1,93 @@
+
+
+===== PDF PAGE 29 =====
+
+17
+4. Automated non-invasive BPMDs with cuff 
+4.7	 Accessories and consumables
+An inventory of the parts required for maintenance must be available at health facilities to ensure that devices 
+can be used. Depending on the device, they may include: rubber tubing, hoses, connectors, various sizes of 
+single-use and reusable cuffs and rechargeable batteries.
+Transducers and power are also important in LMIC. Some may have difficulty in accessing an ample 
+battery supply and the necessary maintenance. Electronic transducers can be inserted into semi-
+automatic devices, in which cuff inflation is manual and energy is provided by solar charges to the 
+transducer itself (1). Electronic indicators or warning systems should be included to indicate whether 
+the power is adequate
+4.8	 Guidance on procurement 
+WHO (32) asserts that “Procurement is a vital element of equitable access to health care”, which can be 
+defined as “the acquisition of property, plant and/or equipment, goods, works or services through purchase, 
+hire, lease, rental or exchange”. Procurement includes 
+all actions from planning and forecasting, identification of needs, sourcing and solicitation of 
+offers, evaluation of offers, review and award of contracts, contracting and all phases of contract 
+administration until delivery of the goods, the end of a contract, or the useful life of an asset. 
+Technical specifications, including the minimal requirements for ensuring the quality and safety of the devices, 
+must be defined during tender to ensure that managers and procurement personnel purchase appropriate 
+products. The specifications should always be aligned with the context. A request for supplementary information 
+can also aid decision-making, including:
+•	 time from receipt of contract or purchase order to delivery;
+•	 method of shipment;
+•	 shipping route;
+•	 international commercial terms: general terms and any special terms and/or conditions that will appear 
+on the contract and/or the purchase order;
+•	 shipment and delivery costs, if applicable;
+•	 weight and dimension of shipment;
+•	 quotation valid until (a period or a specific date must be indicated);
+•	 payment terms;
+•	 evidence of ISO validation of the manufacturer and the safety and quality of the product;
+•	 warranty for at least 2 years from the start of operation of the device; 
+•	 letter stating that the equipment will not be discontinued within the next 5 years;
+•	 proof that the manufacturer has a qualified distributor in the country in which the device is sold;
+•	 operation and service manuals in the language of the country acquiring the material;
+•	 regulatory approvals and clearances (e.g. US FDA, CE or from local authority or another stringent 
+regulatory authority);
+•	 proof of registration in the country of import; and
+•	 certificate of free sale in the country of origin.
+Once a tender is awarded, the following information is required to facilitate customs clearance, if applicable: : 
+•	 delivery date;
+•	 copy of the certificate of origin;
+•	 copy of the certificate of conformity with safety and quality standards;
+•	 commercial invoice; and
+•	 final transport documents (waybill).
+
+
+===== PDF PAGE 30 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+18
+Countries that have not previously regulated medical devices are beginning to prepare legislation, and aspects 
+of regulation are becoming increasingly common. Often, the device manufacturer, the make and the model 
+of devices must be registered for them to be imported. If there is no registered product or manufacturer, an 
+importer may collaborate with the ministry of health to apply for an import waiver. Such waivers are, however, 
+usually issued only for individual shipments. It is therefore important to ensure that manufacturers apply to 
+the local regulatory authority to be registered for future procurements. In some countries, registration can take 
+1–3 years; so, the earlier a manufacturer applies, the better.
+4.8.1	 International commercial terms
+Standard international commercial terms, widely known as “incoterms”, have been trademarked by the 
+International Chamber of Commerce. Incoterms are defined terms that are widely used in global commercial 
+transactions, and their use is encouraged by trade councils, courts and international lawyers, as they are 
+based on international commercial law and simplify the movement of goods. For international procurement, 
+incoterms delineate the tasks of sellers and buyers with respect to transaction obligations (e.g. transport and 
+delivery) and with whom lie the risks and costs at every step, including the point at which the responsibility 
+shifts from seller to buyer. Use of incoterms also helps to clarify, for example, who pays customs clearance 
+charges, import duties and taxes and final delivery costs. As the terms themselves are widely known and 
+accepted, they are regularly used in purchase orders and sales contracts. They are not themselves contractual 
+and do not determine prices or currency rates or override any local law.
+At the time of publication, the current incoterms were those for 2010. The International Chamber of Commerce 
+has, however, started to draft incoterms for 2020. For further information on incoterm rules and guidance, 
+see https://iccwbo.org/resources-for-business/incoterms-rules/.
+4.8.2	 Nomenclature
+The generic nomenclature of medical devices is used to identify them and related health products. It is used 
+at all levels: manufacturing, regulation, procurement and use in hospitals (i.e. for stock management and 
+post-market feedback). The benefits of the adoption of a global or universal nomenclature system are reflected 
+in terms of (33, 34): 
+•	 safety and risk: facilitating registration for market approval by regulatory authorities, supporting patient 
+and operator safety by tracking devices along their life cycle, technological surveillance; 
+•	 furthering universal health coverage: lists of medical devices with standard codes facilitate efficient, 
+reliable exchange of information;
+•	 financial sustainability and access: by facilitating procurement, the supply chain, planning and budgeting, 
+logistics and customs and tax clearance;
+•	 asset management: by improving the availability, inventory, maintenance, monitoring and evaluation of 
+medical devices; and
+•	 improving aid, emergency assistance and donations: by standardizing delivery for emergency and 
+development programmes and donations.
+The classification and nomenclature of automated BPMDs are presented in Table 6.

@@ -1,0 +1,177 @@
+
+
+===== PDF PAGE 369 =====
+
+Martial 
+Description: Marital status of survey respondents. 
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-10 
+WHO STEPS Surveillance 
+ 
+ 
+status  
+Instrument question: 
+• What is your marital status? 
+ 
+Marital status 
+Age 
+Group 
+(years) 
+Men 
+% Never 
+% 
+% 
+% 
+% 
+n 
+married 
+Currently 
+Separated 
+% Divorced 
+Widowed 
+Cohabiting 
+married 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Marital status 
+Age 
+Group 
+(years) 
+Women 
+% Never 
+% 
+% 
+% 
+% 
+n 
+married 
+Currently 
+Separated 
+% Divorced 
+Widowed 
+Cohabiting 
+married 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Marital status 
+Age 
+Group 
+(years) 
+Both Sexes 
+% Never 
+% 
+% 
+% 
+% 
+n 
+married 
+Currently 
+Separated 
+% Divorced 
+Widowed 
+Cohabiting 
+married 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+ 
+Analysis Information: 
+• Questions used: C7 
+• Epi Info program name: Cmaritalstatus (unweighted) 
+ 
+
+
+===== PDF PAGE 370 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-11 
+WHO STEPS Surveillance 
+Employment 
+Description: Proportion of respondents in paid employment and those who are 
+ 
+ 
+status 
+unpaid. Unpaid includes persons who are non-paid, students, homemakers, 
+retired, and unemployed. 
+ 
+Instrument question: 
+• Which of the following best describes your main work status over the past 12 
+months? 
+ 
+Employment status 
+Age Group 
+(years) 
+Men 
+% 
+% Non- 
+% Self- 
+n 
+Government 
+government 
+employed 
+% Unpaid 
+employee 
+employee 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Employment status 
+Age Group 
+(years) 
+Women 
+% 
+% Non- 
+% Self- 
+n 
+Government 
+government 
+employed 
+% Unpaid 
+employee 
+employee 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Employment status 
+Age Group 
+(years) 
+Both Sexes 
+% 
+% Non- 
+% Self- 
+n 
+Government 
+government 
+employed 
+% Unpaid 
+employee 
+employee 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: C8 
+• Epi Info program name: Cworkpaid (unweighted) 
+ 

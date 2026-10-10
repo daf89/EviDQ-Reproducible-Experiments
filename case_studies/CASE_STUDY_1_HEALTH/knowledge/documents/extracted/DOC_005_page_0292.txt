@@ -1,0 +1,85 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+292
+Libellé
+Définition
+Obstination 
+déraisonnable
+L’établissement de l’obstination déraisonnable suppose la prise en compte d’éléments de nature médicale 
+(notamment gravité et irréversibilité de l’état de santé privant le patient de toute autonomie) et d’éléments 
+de nature non médicale relatifs, notamment à l’expression de la volonté du patient. Le médecin doit s’abstenir 
+de toute obstination déraisonnable. La loi du 2 février 2016 reprend et clarifie la notion déontologique, déjà 
+consacrée par la loi de 2005, d’obstination déraisonnable, autorisant le médecin à ne pas mettre en œuvre 
+ou à interrompre des actes médicaux répondant à certains critères.
+Parties prenantes 
+(ou parties intéressées)
+Dans tous les cas, la partie prenante est représentative d’un intérêt associatif, économique ou professionnel. 
+Sont ainsi reconnus comme parties prenantes : 
+– au titre des intérêts associatifs : les associations de patients 
+– au titre des intérêts économiques : tout acteur économique dans le domaine des produits de santé 
+– au titre des intérêts professionnels : les sociétés savantes, les syndicats professionnels, les collèges 
+de spécialité, les conseils nationaux des professions de santé, qui regroupent tout ou partie 
+des trois catégories précédentes.
+Programme 
+d’amélioration continue 
+du travail en équipe 
+(Pacte)
+Programme visant à faire de la sécurité du patient une priorité d’équipe, intégrée à la pratique des 
+professionnels afin de diminuer la survenue des événements indésirables grâce au travail en équipe, 
+de sécuriser l’organisation de la prise en charge du patient en faisant de l’équipe une barrière de sécurité. 
+Pair-aidance
+Entraide entre personnes souffrant ou ayant souffert d’une même maladie, somatique ou psychique. 
+Le partage du vécu de la maladie et du parcours de rétablissement constitue les principes fondamentaux 
+de la pair-aidance. 
+Parcours de soins
+Juste enchaînement et au bon moment de différentes compétences professionnelles liées directement ou 
+indirectement aux soins : consultations, actes techniques ou biologiques, traitements médicamenteux et non 
+médicamenteux, prise en charge des épisodes aigus (décompensation, exacerbation), autres prises en 
+charge (médico-sociales notamment, mais aussi sociales)… La démarche consiste à développer une 
+meilleure coordination des interventions professionnelles, fondées sur de bonnes pratiques, lors des phases 
+aiguës de la maladie comme lors de l’accompagnement global du patient sur le long terme. Cette notion 
+de parcours de soins permet ainsi de s’appuyer sur les bonnes pratiques de chaque professionnel mais aussi 
+de développer les actions d’anticipation, de coordination et d’échanges d’informations entre tous les acteurs 
+impliqués.
+Parcours traceur
+Méthode d’évaluation permettant d’évaluer la continuité et la coordination de la prise en charge des patients, 
+et le travail en équipe. Elle permet également d’apprécier la culture qualité et sécurité des soins.
+L’évaluateur rencontre les équipes impliquées dans la prise en charge en s’appuyant sur un dossier « fil 
+rouge » auquel seront associés d’autres dossiers de parcours identique si ce seul dossier ne permet pas de 
+recueillir l’ensemble des informations recherchées. Dans un second temps, l’évaluateur, accompagné d’un 
+professionnel, reconstitue concrètement le parcours physique du patient. À cette occasion, il rencontrera sur 
+le terrain les différentes équipes intervenant dans le parcours type retenu et complétera ainsi son évaluation.
+Patient Reported 
+Expérience Measures 
+(PREMS)
+Questionnaire s’intéressant à la manière dont le patient vit l’expérience des soins : satisfaction (information 
+reçue), vécu subjectif (attention portée à la douleur) et objectif (délais d’attente), relations avec les prestataires 
+de soins. 
+Patient Reported 
+Outcome Measures 
+(PROMS)
+Questionnaire évaluant les résultats des soins. Les PROMS génériques sont des questionnaires généraux 
+qui explorent des questions importantes pour l’ensemble des patients, quel que soit leur problème de santé. 
+Les questions portent sur l’impact sur la vie globale, sur leur qualité de vie ou sur des dimensions plus 
+spécifiques comme le fonctionnement physique. Ces PROMS génériques sont forcément moins sensibles 
+à des variations modestes – mais cliniquement pertinentes – des résultats de certaines interventions. C’est 
+pourquoi des PROMS spécifiques complètent le dispositif et mesurent les résultats touchant à une pathologie 
+particulière (diabète) ou à un groupe de pathologies (le cancer), un domaine (douleur), une population 
+(enfants), ou une partie du corps (yeux).
+Patient traceur
+Méthode d’évaluation permettant d’évaluer la qualité et la sécurité de la prise en charge d’un patient dans 
+l’établissement de santé. Elle permet de recueillir, après l’obtention de son consentement, l’expérience du 
+patient et/ou de ses proches. C’est pourquoi le profil du patient retenu doit être le plus proche de la sortie afin 
+que l’expression de son vécu soit la plus large possible. L’évaluateur se fait présenter la situation du patient 
+par le médecin référent du patient ou son représentant puis il rencontre le patient. Il s’entretient ensuite avec 
+l’équipe assurant la prise en charge du patient. Cette méthode est pratiquée, pour les évaluations externes, 
+exclusivement par les experts-visiteurs médecins dont les médecins centrés patient traceur.
+Personne en situation de 
+vulnérabilité
+La vulnérabilité est liée à des facteurs individuels et/ou des facteurs environnementaux. Eu égard à la 
+maltraitance, une personne se sent ou est en situation de vulnérabilité lorsqu’elle se trouve en difficulté voire 
+impossibilité de se défendre ou de faire cesser une maltraitance à son égard ou de faire valoir ses droits du 
+fait de son âge (dans le cas d’un mineur), de son état de santé, d’une situation de handicap, d’un 
+environnement inadapté ou violent, d’une situation de précarité ou d’une relation d’emprise. Des facteurs 
+individuels relatifs au genre, à l’orientation sexuelle, à la race, l’ethnie ou à la nationalité peuvent constituer un 
+risque accru de vulnérabilité.

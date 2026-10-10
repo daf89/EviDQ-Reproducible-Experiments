@@ -1,0 +1,117 @@
+better-preserved GFRs, earlier blood sampling is most accurate,
+and in people with extensive edema or ascites, plasma clearance
+protocols are very inaccurate and not recommended; instead,
+urinary clearance protocols are recommended.167 Finally, it is
+well recognized that assessing GFR using the imaging of
+nuclear tracers is less accurate than eGFR, and we do not
+recommend it as a method to measure GFR.168
+The evaluation of time-to-time variability of plasma
+clearance of iohexol and eGFR found a within-subject bio-
+logical coefﬁcient of variation (CV) for mGFR of 6.7% (95%
+CI: 5.6%–8.2%), whereas CVs for eGFRcr, eGFRcys, and
+eGFRcr-cys were approximately 5.0%.169 Other studies have
+observed CV for this same mGFR method ranging from
+approximately 5% to 10%.169,170 There are less data for
+other
+methods;
+for
+urinary
+clearance
+of
+iothalamate,
+estimated CVs were 6.3% and 16.6% across 2 studies.171–173
+The Work Group judged that there will be some clinical
+situations where estimating GFR from both creatinine and
+cystatin C will be insufﬁciently reliable or precise, and the
+greatest beneﬁt and least harm will be achieved by measuring
+GFR with the appropriate standardized methods.
+Costs for mGFR are variable and harder to quantify. The
+infrastructure required is greater, as testing requires both
+patient and personnel time for inserting a peripheral intra-
+venous catheter, administering the exogenous marker, col-
+lecting serial blood specimens over several hours (depending
+on the protocol), and the associated materials for the
+collection and measuring blood levels by high-performance
+liquid chromatography or mass spectrometry. Utilization of
+mGFR may require input from a nephrologist in some set-
+tings, which would also add to the costs of testing.
+All nephrologists ideally should therefore have access to at
+least1methodtomeasureGFRusingplasmaorurinaryclearance
+of exogenous markers. To ensure highly accurate measurements,
+these clearance methods should be performed using standard
+operating procedures. External quality assessment (EQA) should
+be used for assays of the exogenous markers. Special consider-
+ations in clearance methods are required for some populations to
+obtain a high level of accuracy (e.g., later sampling time for
+people with low GFR or urinary, instead of plasma clearance for
+edematous people). GFR centers, under the direction of a
+nephrologist champion or laboratory director, analogous to
+cardiac imaging, are likely to help both increase utilization and
+ensure high quality results. There willbeadditional requirements
+for storage, administration, and disposal if radionuclide meth-
+odologies are adopted. National kidney societies can work with
+payers to support reimbursement for mGFR procedures. The
+European Kidney Function Consortium (EKFC) together with
+the European Federation of Clinical Chemistry and Laboratory
+Medicine is currently harmonizing mGFR protocols for iohexol
+plasma clearance to deliver standardized operating procedures
+for GFR measurements in the near future.
+Decisions to measure GFR should be made by both ne-
+phrologists and other physicians using the framework sug-
+gested in Figure 11. Physicians should determine how accurate
+the GFR needs to be for a speciﬁc clinical decision. If greater
+accuracy is needed than can be achieved using eGFR, mGFR
+is recommended. Greater accuracy may be required due to
+inaccuracy of eGFR in the individual person due to the
+presence of non-GFR determinants or due to the requirement
+of the clinical setting. Table 10 lists indications for when one
+might consider mGFR as opposed to eGFRcr-cys.
+We describeaframeworkfor theevaluationofGFR beginning
+with an initial test and followed by additional supportive tests
+(Figure 11, Table 7). mGFR is recommended when there are
+concerns about the accuracy of eGFRcr-cys (Table 8127-142) or
+where an accurate level of GFR is required for optimal
+decision-making, as described in Table 10.
+Practice Point 1.2.2.3: Understand the value and limitations
+in both eGFR and measured glomerular ﬁltration rate
+(mGFR) as well as the variability and factors that inﬂuence
+SCr and cystatin C measurements.
+All studies evaluating the performance of eGFR compared
+with mGFR observe error in any GFR estimate. Even in
+populations where there is a high accuracy (i.e., P30 of 90%),
+10% of the population would have errors $30% relative to
+mGFR. Within these studies, error rates are likely to be higher
+in some subgroups and lower in others. A critical component
+of the recommended approach to evaluation of GFR (Figure
+11) is that physicians have a clear understanding of the
+value and limitations of eGFR and mGFR, which deﬁnes
+when a person requires one or another supportive test.
+The source of error in eGFR may be related to errors in eGFR
+or in mGFR (Figure 12174). The most important sources of error
+are non-GFRdeterminants ofeithercreatinine orcystatin C.The
+non-GFR determinants of creatinine include generation by diet
+and
+muscle
+mass,
+tubular
+secretion,
+and
+extrarenal
+elimination.130,175 The non-GFR determinants of cystatin C
+are less well understood but thought to be higher adiposity,
+smoking, hypo- and hyperthyroidism, glucocorticoid excess,
+and chronic inﬂammation (as indicated by insulin resistance,
+higher levels of C-reactive protein and tumor necrosis factor,
+or lower levels of serum albumin).129,130,176–185
+Table 10| Indications for measured GFR
+Clinical conditions in which eGFRcr-cys is inaccurate or uncertain due to potential non-GFR determinants of creatinine and cystatin C. This may include
+catabolic states, such as serious infections or inﬂammatory states, high cell turnover as in some cancers, advanced cirrhosis or heart failure, use of high-
+dose steroids, or the very frail. See Figure 12 for approach to individual decision-making.
+Clinical settings in which greater accuracy is needed than is achieved with eGFRcr-cys. For example, decisions about simultaneous kidney transplant at
+the time of other solid organ transplant, kidney donor candidacy, and drug dosing if there is a narrow therapeutic index or serious toxicity (e.g.,
+chemotherapies that are cleared by the kidney).
+eGFRcr-cys, estimated GFR by creatinine and cystatin C; GFR, glomerular ﬁltration rate.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S181

@@ -1,0 +1,3 @@
+﻿source_control_family,rule_type,n_rules
+MISSINGNESS,DETECTION_RULE,5
+NON_FINITE_NUMERIC,DETECTION_RULE,1

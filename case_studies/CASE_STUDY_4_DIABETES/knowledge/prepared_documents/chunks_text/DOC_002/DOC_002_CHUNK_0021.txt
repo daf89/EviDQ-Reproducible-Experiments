@@ -1,0 +1,121 @@
+
+
+===== PDF PAGE 41 =====
+
+Indicators and metadata  ﻿
+29
+11. 	Availability of glycated haemoglobin testing 
+Indicator name
+Availability of glycated haemoglobin (HbA1c) testing
+Purpose
+To assess the availability of testing services for diabetes diagnosis 
+and management.
+Definition
+Proportion of health facilities that are providing diabetes service and 
+performing HbA1c test.
+Numerator
+Number of health facilities that are providing diabetes service and performing 
+HbA1c test during the reporting period.
+Denominator
+Total number of health facilities
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Facility level of care type, provider ownership type (public/private), facility 
+location type (urban/rural), HbA1c testing site (laboratory-based or point-of-
+care testing)
+Sources of data
+Health facility reports, logistics information system or survey
+Limitations/comments
+In some settings, the health facilities do not provide laboratory services, so the 
+reporting units will need to come from other laboratory service providers, or 
+health facilities only collect samples on site and perform the test off site.
+Related links
+Harmonized health facility assessment (HHFA): core questions. Geneva: 
+World Health Organization; 2021 (https://www.who.int/publications/i/item/
+harmonized-health-facility-assessment-(hhfa), accessed 26 May 2024). 
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+The selection and use of essential in vitro diagnostics: report of the 
+fourth meeting of the WHO Strategic Advisory Group of Experts on In Vitro 
+Diagnostics, 2022 (including the fourth WHO model list of essential in vitro 
+diagnostics) Geneva: World Health Organization; 2023 (https://iris.who.int/
+handle/10665/373322).
+
+
+===== PDF PAGE 42 =====
+
+30
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+12. 	Availability and quality of diabetes surveillance system
+Indicator name
+Availability and quality of a diabetes surveillance system 
+Purpose
+To assess the availability of quality and comprehensive surveillance data for 
+diabetes programme management.
+Definition
+Country has an established diabetes surveillance system comprising of all 
+essential components if:
+	
+●
+Country conducts a standardized population-based health survey that 
+includes availability and quality of diabetes services every 3 to 5 years.
+	
+●
+Country has an electronic, standardized system for recording person- and 
+facility-level data that includes diabetes, with high level of coverage.
+	
+●
+Country has a type 1 diabetes registry with national level coverage.
+	
+●
+Country conducts regular standardized health facility surveys on 
+availability of health facility services including diabetes management 
+services and on capacities of health facilities to provide these services at 
+required standards of quality, every 1 to 3 years.
+	
+●
+Country has a well-functioning CRVS system for generating reliable 
+cause-specific mortality data on a routine basis. The International Form 
+of Medical Certificate of the Cause of Death is completed by certifiers. 
+The International Classification of Diseases (ICD) is used to code the 
+causes of death. Cause-of-death data are accessible to policy-makers and 
+researchers. 
+Numerator
+Not applicable
+Denominator
+Not applicable
+Method of estimation
+1.	 Country can respond “Yes” to the following questions:
+	
+●
+“Does your country conduct a population-based survey that includes 
+diabetes?”. The country indicates frequency of conducting the population-
+based survey (the country is considered to have available a regular 
+standardized population-based survey that includes diabetes if there are 
+published survey statistics at least every 3 to 5 years).
+	
+●
+“Does your country have an electronic standardized system for 
+recording person-and facility-level data that includes diabetes in public 
+facilities?”(The country is considered to have an electronic standardized 
+system if it has an electronic type of system that covers more than 50% of 
+facilities).
+	
+●
+“Does your country have a type 1 diabetes registry?”, indicate 
+coverage (national, sub-national or others) and type (population- or 
+hospital-based).
+	
+●
+“Does your country conduct standardized surveys of facilities to assess 
+availability of health facility services including diabetes management 
+services and on capacities of health facilities to provide these services 
+at required standards of quality?” – indicate the year of last facility 
+survey (The country has available regular standardized health facility 
+surveys, if there are published survey statistics on availability, readiness, 
+quality, management, and financing of diabetes management services, 
+every 1 to 3 years).
+Country needs to provide a copy of documents to support their response to 
+abovementioned questions. 

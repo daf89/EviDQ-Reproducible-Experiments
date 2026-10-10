@@ -1,0 +1,7 @@
+﻿dimension,variables,scientific_meaning,interpretation,future_fuzzy_status
+PREDICTIVE_PERFORMANCE,ROC_AUC; Accuracy; Balanced_Accuracy; Precision; Recall; F1,Predictive behavior under each experimental condition.,Metrics remain separate. No composite performance score.,NOT_YET_FUZZIFIED
+COVERAGE,Coverage,Proportion of validation observations retained after the DQ action.,Higher coverage means more observations remain analyzable.,NOT_YET_FUZZIFIED
+SHAP_BEHAVIOR,Age_MeanAbsSHAP; Age_Rank,"Explanatory importance and rank of Age, the experimentally affected feature.",Descriptive; no universal favorable direction.,NOT_YET_FUZZIFIED
+EXPLANATION_SHIFT,Age_SHAP_Delta_vs_REF; Age_SHAP_AbsShift_vs_REF; Age_Rank_Shift_vs_REF; Global_Rank_Agreement_vs_REF,Change in explanation behavior relative to REF.,"Smaller absolute shift means closer to REF, but closeness is not automatically superior.",NOT_YET_FUZZIFIED
+EXPLANATION_STABILITY,Stability_Cosine; Stability_Spearman,Similarity of explanations under small controlled perturbations.,Higher values mean greater measured stability under the STEP11 protocol.,NOT_YET_FUZZIFIED
+EXPLANATION_FIDELITY,Fidelity_Additivity_MeanError; Fidelity_Additivity_MaxError; Fidelity_Additivity_PASS,TreeSHAP local additivity / reconstruction fidelity.,PASS is primarily an integrity criterion in this experiment.,NOT_YET_FUZZIFIED

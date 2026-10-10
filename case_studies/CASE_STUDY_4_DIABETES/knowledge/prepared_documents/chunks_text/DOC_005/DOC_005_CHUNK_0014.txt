@@ -1,0 +1,98 @@
+
+
+===== PDF PAGE 27 =====
+
+15
+4. Automated non-invasive BPMDs with cuff 
+an electronic sensor with a high accuracy of ± 0.1 mm Hg, and compared with a well-maintained mercury 
+sphygmomanometer with a rated accuracy of only ± 3 mm Hg.
+ 
+It is important to remember that the accuracy of the device is just one of the factors necessary for an accurate 
+measurement (Fig. 5). The United Nations Development Programme (UNDP) GEF Global Healthcare 
+Waste Project provides guidance on maintaining and calibrating non-mercury clinical thermometers and 
+sphygmomanometers (29).
+Fig. 5. Factors in the accuracy of BP measurement 
+Source: Reference (29).
+Patient
+condition
+Observer bias
+Training in BP 
+measurement
+Calibration of device
+Accuracy of BP 
+measurement
+Annex 4 provides further information on laboratory testing of auscultative sphygmomanometers, including aneroid 
+mechanical dial and face gauges, shock-resistant gearless gauges, digital auscultative sphygmomanometers 
+and automated or semi-automated electronic sphygmomanometers with an auscultative or calibration check 
+mode.
+4.6	 Maintenance
+Preventive maintenance reduces the risks associated with operation of medical devices, decreases the time 
+during which a device cannot be used and contributes to improving diagnosis and therapy. The quality and 
+safety of medical devices are ensured not only by acquisition of validated devices but also with a periodic 
+preventive maintenance programme.
+Most maintenance tasks are performed by technical clinical engineering personnel, although some easy, 
+routine or defined tasks may be completed by users. This saves time for technical personnel and gives the 
+user a sense of ownership (30).
+The following elements are necessary for a successful maintenance programme:
+•	 skilled technical staff;
+•	 an adequate number of good-quality tools;
+•	 calibrated test equipment; 
+•	 proper forecasting of accessories and spare parts;
+•	 user’s instructions, troubleshooting and service manuals; and 
+•	 a computerized health technology management system (if possible).
+
+
+===== PDF PAGE 28 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+16
+Routine maintenance of electronic BPMD should comprise cleaning and disinfecting the exterior of the device; 
+maintaining any quantitative measurement that is out of the specification according to the manufacturer’s 
+instructions; and replacing tubing, electrical safety hoses, connectors, cuffs and batteries as necessary.
+The following is an example of a procedure for preventive maintenance of an electronic non-invasive BPMD (31). 
+The suggested interval for preventive maintenance is at least every 12 months, according to the manufacturer’s 
+recommendations or according to the internal plan for maintaining medical equipment. The protocol takes 
+approximately 0.5 h to complete. The following equipment is needed:
+•	 analyzer (acceptance),
+•	 pressure meter (0–500 mm Hg), 
+•	 stopwatch or watch with a second hand,
+•	 limb simulator,
+•	 inflation bulb, tubing and T-connector and 
+•	 non-invasive BP simulator (optional).
+Tables 4 and 5 list the procedures for qualitative and quantitative tasks for “acceptance” and scheduled 
+inspections or both.
+Table 4. Qualitative tasks according to the kind of inspection
+Quantitative tasks
+Acceptance inspection
+Scheduled inspection
+Both kind of inspection
+Chassis and housing
+Mount and fasteners
+Casters and brakes
+AC plug
+Line cord
+Strain reliefs
+Circuit breaker and fuse
+Tubes and hoses
+Fittings and connectors
+Transducers (non-oscillometric units)
+Controls and switches
+Battery and charger
+Battery
+Time and date settings
+Cybersecurity
+User calibration
+Alarms
+Labelling
+Accessories
+Table 5. Quantitative tasks according to the kind of inspection
+Quantitative tasks
+Acceptance inspection
+Scheduled inspection
+Both kind of inspection
+Grounding resistance
+Touch leakage current
+Air leakage
+Static pressure accuracy
+Maximum pressure
+Heart rate

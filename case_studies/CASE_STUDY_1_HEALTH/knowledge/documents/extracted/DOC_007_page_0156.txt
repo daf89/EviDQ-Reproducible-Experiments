@@ -1,0 +1,122 @@
+Chapter 1. Evaluation of CKD: Improving the accuracy
+and sophistication of evaluation of kidney functions is
+critical to advancing the science and care of people with
+CKD.
+ Imaging techniques
+B Determine which imaging techniques, or combi-
+nation of imaging techniques, may be used to
+assess kidney damage and evaluation of speciﬁc
+causes of CKD.
+B Develop more sophisticated imaging methods for
+assessment and follow-up to aid in noninvasive
+evaluation of kidney functions (GFR, tubular, and
+plasma clearance).
+ Genetic testing
+B Determine the additional value of genetic testing in
+people with CKD, both with and without kidney
+biopsy, for determination of cause, prognosis, and
+treatment choices.
+ Kidney biopsy
+B Determine the prevalence of kidney biopsy–related
+complications in different clinical circumstances
+(age, size of kidneys, acute vs. chronic, and comor-
+bidities) to inform risk estimates appropriate to
+those in the current era dependent on methods (e.g.,
+blind, ultrasound-guided, CT-guided, open, and
+transjugular) used to obtain kidney tissue.
+ Novel urinary biomarkers
+B Determine which novel urinary biomarkers, or com-
+bination of biomarkers, aid the identiﬁcation of CKD
+cause (e.g., interleukin [IL]-18, kidney injury mole-
+cule [KIM]-1, neutrophil gelatinase-associated lip-
+ocalin [NGAL], monocyte chemoattractant protein
+[MCP]-1, tissue inhibitor matrix metalloproteinase
+[TIMP]-1,
+alpha-1-microglobulin,
+uromodulin,
+epidermal growth factor [EGF], and YKL-40).
+B Determine how urine cytology may aid the iden-
+tiﬁcation of CKD cause in speciﬁc circumstances.
+ Develop clinically robust and accessible tests for kidney
+functional reserve
+B Determine how kidney functional reserve varies by
+demographic characteristics including birthweight,
+in people with and without CKD of different eti-
+ologies, in kidney donors, and at different levels of
+GFR and ACR.
+B Evaluate sex (e.g., female, male, or intersex) dif-
+ferences in GFR and kidney functional reserve at
+various hormonal stages such as puberty, men-
+strual cycle, pregnancy, menopause, and gender
+differences (e.g., identity, roles, or relations) in
+people across the life cycle.
+B Evaluate changes in kidney functional reserve after AKI
+episodes irrespective of baseline GFR and recovery.
+ Develop better tests for tubular function.
+ Measurement of GFR
+B Harmonize andstandardizeexisting mGFRprotocols
+and determine their accuracy and comparability.
+B Determine whether more efﬁcient methods for GFR
+measurement (POC, shorter protocols, and subcu-
+taneous administration) have adequate accuracy
+and precision to be considered a “gold standard.”
+B Identify barriers to the performance and imple-
+mentation of mGFR in the nephrology diagnostic
+repertoire.
+ Estimations of GFR
+B Assess the diagnostic accuracy and utility of GFR
+estimates using endogenous ﬁltration markers such
+as SCr and cystatin C in children and young adults
+and in frail, acute, or chronically ill populations;
+obese
+and
+pregnant
+populations;
+transgender,
+gender-diverse, and nonbinary populations; and
+transplant recipients.
+B When reporting performance of eGFR in research
+studies, future studies should report P15 in addi-
+tion to P30, with expectation that improved equa-
+tions may achieve levels of accuracy approaching
+that of mGFR.
+B Assess the non-GFR determinants of endogenous
+ﬁltration markers such as cystatin C.
+B Assess the utility of changes in eGFRcr versus
+eGFRcys versus eGFRcr-cys over time for clinical
+decision-making, enrollment into clinical trials,
+and so on.
+B Examine the effect of sex hormone status (e.g., pu-
+berty, gonadectomy, or menopause), exogenous
+hormone use (e.g., contraception, assisted repro-
+ductive technologies, menopausal hormone therapy,
+testosterone replacement therapy, or gender-afﬁrm-
+ing hormone therapy), or sex hormone deprivation
+therapy (e.g., antiandrogen or antiestrogen therapy)
+on serum levels of creatinine and cystatin C and their
+corresponding GFR estimates and mGFR.
+B Evaluate the accuracy of the CKiD U25 2021 eGFRcr
+and EKFC equations in diverse cohorts outside of
+North America and Europe in children younger than
+5 years, in children and adolescents with obesity, and
+in those with eGFR <30 ml/min per 1.73 m2.
+ Determine validity of different estimating equations for
+GFR in children at different points in time (2–5 years, 5–10
+years, 10–14 years, and >14 years).
+B Evaluate which estimating equations should be
+used for eGFR in young adults and what criteria
+should be used to transition to adult eGFR equa-
+tions if not using EKFC equations.
+ Evaluate the utility of total urine protein loss or PCR in
+comparison with ACR in the evaluation of speciﬁc kidney
+diseases in both children and adults.
+ Evaluate the role of detection and measurement of speciﬁc
+tubular proteins to identify and quantify kidney damage
+across the age, sex, and gender spectrum.
+ Evaluate the clinical utility and diagnostic accuracy of
+cystatin C/eGFR in POCT devices using standardized
+criteria.
+www.kidney-international.org
+chapter 6
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S271

@@ -1,0 +1,13 @@
+﻿feature,document_knowledge_items,statistical_observations,statistical_conditions,total_statistical_items,alignment_candidates,ready_for_semantic_alignment
+cost_emergency_tm1,45,2,1,3,135,True
+cost_home_health_tm1,45,2,1,3,135,True
+cost_ip_medical_tm1,45,2,1,3,135,True
+cost_laboratory_tm1,45,3,2,5,225,True
+cost_op_specialists_tm1,45,2,1,3,135,True
+cost_op_surgery_tm1,45,2,1,3,135,True
+cost_other_tm1,42,2,1,3,126,True
+cost_pharmacy_tm1,46,3,3,6,276,True
+cre_tests_tm1,10,2,1,3,30,True
+dem_age_band_65-74_tm1,0,1,0,1,0,False
+dem_age_band_75+_tm1,0,1,0,1,0,False
+gagne_sum_tm1,0,2,1,3,0,False

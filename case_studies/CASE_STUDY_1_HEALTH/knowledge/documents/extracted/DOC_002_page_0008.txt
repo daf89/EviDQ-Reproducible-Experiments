@@ -1,0 +1,181 @@
+that can rapidly change to severe hyper
+glycemia and/or DKA with infection or 
+other stress. Adults may retain sufficient 
+β-cell function to prevent DKA for many 
+years; such individuals may have remission 
+characterized by decreased insulin needs 
+for months or years, but they eventually 
+become insulin dependent and are at risk 
+for DKA (30,31,55–57). At this later stage 
+of the disease, there is little or no insulin 
+secretion, as manifested by low or unde
+tectable levels of plasma C-peptide. Auto
+immune destruction of β-cells has multiple 
+genetic factors and is also related to en
+vironmental factors that are still poorly 
+defined. Although individuals do not clas
+sically have obesity when they present 
+with type 1 diabetes, obesity is increas
+ingly common in the general population; 
+as such, obesity should not preclude test
+ing for type 1 diabetes. People with type 1 
+diabetes are also prone to other autoim
+mune disorders, such as Hashimoto thy
+roiditis, Graves disease, celiac disease, 
+Addison disease, vitiligo, autoimmune 
+hepatitis, myasthenia gravis, and pernicious 
+anemia (see section 4, “Comprehensive 
+Medical Evaluation and Assessment of 
+Comorbidities”). Type 1 diabetes can be 
+associated with monogenic polyglandular 
+autoimmune syndromes, including immune 
+dysregulation, polyendocrinopathy, en
+teropathy, and X-linked (IPEX) syndrome, 
+which is an early-onset systemic autoim
+mune, genetic disorder caused by muta
+tion of the forkhead box protein 3 (FOXP3) 
+gene, and another disorder caused by the 
+autoimmune regulator (AIRE) gene muta
+tion (58,59).
+Certain viruses have been associated 
+with type 1 diabetes, including enterovi
+ruses (e.g., Coxsackievirus B). During the 
+early coronavirus disease 2019 (COVID-19) 
+pandemic, several reports noted an in
+creased incidence of hyperglycemia, DKA, 
+and new-onset type 1 diabetes, raising the 
+possibility that severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) is a 
+trigger or accelerator of disease in suscepti
+ble individuals (60). More recent large co
+hort and registry studies from multiple 
+countries report mixed findings, with some 
+showing a modest increased risk of type 1 
+diabetes following COVID-19 infection and 
+others reporting that the association is 
+largely due to challenges with health care 
+access and diagnostic delays (61,62). These 
+data suggest that both viral effects and in
+direct pandemic-related factors may have 
+contributed to the initial observed spike of 
+type 1 diabetes. Research is ongoing to 
+clarify the long-term relationship between 
+SARS-CoV-2 infection and type 1 diabetes 
+risk, including the development of a global 
+registry, the CoviDIAB Registry (63).
+Immune Checkpoint 
+Inhibitor–Induced Autoimmune 
+Diabetes
+The introduction of immunotherapy, 
+specifically immune checkpoint inhibi
+tors (ICIs), for cancer treatment has led 
+to unexpected adverse events, including 
+immune system activation precipitating 
+autoimmune disease. Fulminant onset 
+of autoimmune diabetes can occur with 
+DKA and low or undetectable levels of 
+C-peptide as a marker of endogenous β-cell 
+function (64,65). Fewer than half of these 
+individuals have islet autoantibodies, and 
+most do not experience a phase of par
+tial remission, which is commonly seen in 
+type 1 diabetes, supporting the emerging 
+view of a partially distinct pathophysiology. 
+ICI-induced diabetes occurs in 0.6–1.4% of 
+treated individuals and is more frequent 
+with agents that block the programmed 
+cell death protein 1 (PD-1)/programmed 
+cell death ligand 1 (PDL-1) pathway, 
+alone or in combination with other check
+point inhibitors (e.g., anticytotoxic T-cell 
+4-antigen [CTLA-4] antibody) (66). Also, 
+the majority of ICI-related cases of auto
+immune diabetes occur in people with 
+high-risk HLA susceptibility haplotype for 
+type 1 diabetes; however, people with ei
+ther a neutral or typically protective HLA 
+haplotype for type 1 diabetes can also de
+velop ICI-associated diabetes (67). To date, 
+risk cannot be predicted by family history 
+or autoantibodies, so all health care 
+professionals administering these medi
+cations or caring for people who have a 
+history of current or past exposure to 
+these agents should be mindful of this 
+adverse effect and educate and monitor 
+individuals appropriately.
+Idiopathic Type 1 Diabetes
+Some forms of type 1 diabetes have no 
+known etiologies. Individuals have perma
+nent insulinopenia and are prone to DKA 
+but have no evidence of β-cell autoimmu
+nity. However, only a minority of people 
+with type 1 diabetes fall into this category.
+Screening for Type 1 Diabetes Risk
+The incidence and prevalence of type 1 
+diabetes are increasing (68). People with 
+type 1 diabetes often present with acute 
+symptoms of diabetes and markedly ele
+vated blood glucose levels, and 25–50% 
+are diagnosed with life-threatening DKA 
+(27–29). Family history of type 1 diabe
+tes increases the risk of developing type 1 
+diabetes compared with the general pop
+ulation, but the majority, ∼90%, of indi
+viduals who develop type 1 diabetes do 
+not have a known relative with the dis
+ease. Multiple studies indicate that mea
+suring islet autoantibodies in relatives of 
+those with type 1 diabetes (41), in chil
+dren from the general population (69,70), 
+or in children from the general population 
+with high genetic risk (71) can identify 
+many individuals who will develop type 1 
+diabetes. A study reported the risk of pro
+gression to type 1 diabetes from the time 
+of seroconversion to autoantibody posi
+tivity in three pediatric cohorts from Fin
+land, Germany, and the U.S. Of the 585 
+children who developed more than two 
+autoantibodies, nearly 70% developed 
+type 1 diabetes within 10 years and 84% 
+within 15 years (36). These findings are 
+highly significant, because while the Ger
+man group was recruited from offspring 
+of parents with type 1 diabetes, the Finn
+ish and American groups were recruited 
+from the general population. Remarkably, 
+the findings in all three groups were the 
+same, suggesting that the same sequence 
+of events led to clinical disease in both 
+“sporadic” and familial cases of type 1 di
+abetes. Indeed, the risk of type 1 diabetes 
+increases as the number of relevant auto
+antibodies detected increases (46,72,73). 
+In The Environmental Determinants of Di
+abetes in the Young (TEDDY) study, type 1 
+diabetes developed in 21% of 363 sub
+jects with at least one autoantibody at 3 
+years of age (74). Such testing, coupled 
+with education about diabetes symptoms 
+and close follow-up, has been shown to 
+enable earlier diagnosis and to prevent 
+DKA (75,76). In several cohort studies, up 
+to 50% of children with only a single au
+toantibody revert to being islet autoanti
+body negative during follow-up (77,78). 
+Therefore, it is recommended that the first 
+autoantibody-positive test be confirmed 
+with a second test within 3 months, pref
+erably in a laboratory that meets the 
+performance standards set by the Islet 
+Autoantibody Standardization Program 
+(IASP) (51).
+Type 1 diabetes genetic risk scores 
+have been used in newborn screening 
+to identify those at risk for future pre
+sentation of the disease. In a simulation 
+S34 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

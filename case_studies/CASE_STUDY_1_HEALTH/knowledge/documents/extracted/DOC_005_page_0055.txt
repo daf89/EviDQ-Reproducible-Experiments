@@ -1,0 +1,69 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+55
+Objectif 1.2 
+Le patient est respecté
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.2-08 Le patient bénéficie de soins visant 
+à anticiper ou à soulager rapidement sa douleur
+Le patient est seul capable d’indiquer l’intensité de sa douleur. Il est écouté par les équipes de soins 
+afin que soit mis en place le traitement médicamenteux approprié ou toute autre forme d’analgésie non 
+médicamenteuse. Tous les moyens sont mis en œuvre pour évaluer la douleur du patient, quel que soit 
+son secteur de prise en charge. L’entourage peut également informer l’équipe de soins. Pour les patients 
+non communicants, une échelle d’hétéro-évaluation est utilisée. Dès lors que le patient ressent ou est 
+susceptible de ressentir la douleur, celle-ci est évaluée avec lui et ce jusqu’à disparition complète et durable 
+de la douleur. Ces réévaluations sont notées dans le dossier du patient et les résultats permettent, le cas 
+échéant, d’adapter les modalités de prise en charge du patient.
+ Tout l’établissement Impératif 
+Éléments d’évaluation
+ Patient 
+• Le patient évalue sa douleur dès lors qu'il la ressent ou est 
+susceptible de la ressentir et ce jusqu’au soulagement de 
+la douleur et une amélioration de sa qualité de vie.
+ Professionnels 
+• Pour les patients vivant avec un handicap ou en situation 
+de vulnérabilité, une attention particulière est portée sur les 
+modalités d’évaluation adaptées de la douleur.
+• L’anticipation, le soulagement de la douleur et les réévalua
+tions régulières sont retrouvés dans le dossier (quand une 
+prescription « si besoin » est réalisée, le besoin – niveau de 
+douleur – est précisé).
+Patient traceur
+• Évaluation et prise en charge de la douleur 
+MCO.
+• Traçabilité de l'évaluation de la douleur post 
+opératoire avec une échelle en SSPI
+• Sortie de SSPI avec un score de douleur 
+faible.
+• Évaluation et prise en charge de la douleur 
+SMR.
+• Évaluation et prise en charge de la douleur 
+HAD.
+• Évaluation de la prise en charge de la 
+douleur somatique PSY.
+• e-Satis +48h MCO (questions ad'hoc).
+• e-Satis MCOCA (questions ad'hoc).
+• e-Satis SMR (questions ad'hoc).
+Fiches pédagogiques
+Évaluation de la prise en charge des 
+personnes vivant avec un handicap.
+ Évaluation de la douleur et des soins 
+palliatifs.
+Références HAS
+Antalgie des douleurs rebelles et
+pratiques sédatives chez l’adulte : prise
+en charge médicamenteuse en situations
+palliatives jusqu’en fin de vie, 2020.
+Prise en charge médicamenteuse
+de la douleur chez l’enfant : alternatives
+à la codéine, 2016.
+Douleur chronique : reconnaître
+le syndrome douloureux chronique,
+l’évaluer et orienter le patient, 2009.
+Douleur chronique : les aspects
+organisationnels : le point de vue
+des structures spécialisées, 2009.
+Douleur postopératoire, 2006.
+Prévention et traitement de la douleur
+postopératoire en chirurgie buccale, 2005.

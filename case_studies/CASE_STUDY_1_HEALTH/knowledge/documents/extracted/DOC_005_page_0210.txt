@@ -1,0 +1,44 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+210
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+La décision et sa diffusion
+L’implication des représentants des usgers
+La visite
+Les méthodes d’évaluation
+Engagement dans la démarche
+Comment valider ?
+Lorsque vos modifications sont finalisées ou si vous n’avez pas de changement à formuler, appuyez sur le bouton 
+« Enregistrer et Fermer » 
+ puis sur « Transmettre à la HAS » 
+ 5 .
+Il est conseillé de toujours cliquer sur TERMINER ou TRANSMETTRE À LA HAS pour ne pas maintenir une demande 
+en cours ce qui génèrerait des relances de la part de CALISTA.
+Il est possible de retrouver les demandes en cours de saisie depuis les Tâches assignées et Tâches d’équipe dans 
+le menu CALISTA.
+Les mises à jour du profil sont annuelles. Elles font l’objet d’une notification dans CALISTA. Vous disposerez de 
+15 jours pour valider votre profil. La HAS décidera au regard de vos demandes et justificatifs de l’acceptation ou 
+du refus de votre demande.
+Comment obtenir ses critères applicables ?
+Une fois vos champs d’applicabilité validés par la HAS, vous retrouverez la liste de vos critères applicables dans 
+l’onglet « Critères ». Ils correspondent à votre périmètre final.
+Vous pouvez désormais éditer votre référentiel personnalisé qui correspond au référentiel Qualité des soins intégrant 
+les critères génériques des chapitres 1, 2 et 3 ainsi que les critères spécifiques qui vous sont applicables.
+Un tableau des critères et éléments d’évaluation pouvant être cotés « Non Applicable » (NA) est disponible dans 
+la fiche d’information spécifique annexée au guide méthodologique. À l’issue de l’étape de validation de votre 
+profil par la HAS, il vous guidera pour valider les critères ou éléments d’évaluation susceptibles d’être cotés « NA » 
+dans votre évaluation interne. Tout critère ou élément d’évaluation non présent dans ce tableau néanmoins coté 
+« NA » par votre établissement dans son évaluation interne, sera susceptible d’être coté « Applicable » par les 
+experts-visiteurs lors de l’évaluation externe de l’établissement.
+Pour aller plus loin
+Les champs d’applicabilité des critères spécifiques (secteurs d’activité, populations et modes de prise en charge) 
+et des critères génériques relatifs au groupement sont issus des bases de données nationales comme les données 
+issues de la SAE.
+En complément, deux fiches d’information sont à votre disposition :
+• • Quelles sont les règles utilisées dans CALISTA pour l’ouverture des champs d’applicabilité des critères du 
+référentiel Qualité des soins ?
+• • Quels sont les liens entre les champs d’applicabilité et les critères du référentiel Qualité des soins ?
+ Fiche pratique opératoire_E6

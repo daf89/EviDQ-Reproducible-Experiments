@@ -1,0 +1,94 @@
+Important 
+Health IT Laws 
+and Regulations 
+Summary 
+Impact On Health IT 
+Advisors ’Work 
+Created Meaningful Use, which drove EHR adoption 
+by hospitals and office-based care providers. Also 
+advanced standards in CQMs. 
+Medicare Access 
+and CHIP 
+Reauthorization 
+Act (MACRA; 
+2015) 
+Adjusted how physicians were paid for their 
+services. Sped the adoption of value-based 
+payment programs that achieve the Triple Aim. 
+Consolidated several QI reporting programs. 
+Authorized the Quality Payment Program, creating 
+the Merit-based Incentive Program and Advanced 
+Alternative Payment Models Tracks 1 and 2. 
+Continues down path of 
+CQM reporting. Focuses 
+more on electronic CQM 
+(eCQM) reporting through 
+EHR or third-party registry. 
+Moves away from self-
+reporting metrics from 
+EHR. 
+Health Insurance 
+Portability and 
+Accountability 
+Act (HIPAA; 
+1996) 
+Defined protected information with focus on 
+privacy and security of patient health information. 
+Determines rules around permissible electronic 
+health data exchange. 
+Focus on Security Risk 
+Analysis. This was started 
+under HIPAA and re-
+emphasized under the 
+HITECH Act. 
+Certified 
+Electronic Health 
+Record 
+Technology 
+(CEHRT; 2010) 
+Rules established within Meaningful Use by the 
+Office of the National Coordinator for Health IT 
+(ONC) defining certified electronic health record 
+technology (CEHRT). This helped standardize many 
+of the requirements that EHR vendors had to follow 
+in designing new EHR systems. 
+With certified technology, 
+practices have a base-level 
+capability for CQM 
+reporting. 
+21st Century 
+Cures Act (2016; 
+2020) 
+Among other goals, aims to reduce regulatory 
+burdens of using EHR systems and other health IT. 
+Provisions are focused on making progress toward 
+interoperability and ensuring that IT developers do 
+not engage in “information blocking,” 
+which is the 
+prevention of or creation of barriers to accessing, 
+sharing, and/or using electronic health data. As part 
+of the “next phase” 
+of the Cures Act, CMS and ONC 
+finalized rules about this in March 2020. 
+Vendors are increasingly 
+opening their EHR systems 
+to application 
+programming interfaces 
+(APIs) using a platform-
+agnostic interoperability 
+standard called FHIR®, 
+which has been developed 
+by Health Level Seven 
+International (HL7®). 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+1.12 Understanding Legal Issues 
+Health IT Advisors will encounter a variety of scenarios that are covered by legal protections of various 
+types. The development of several types of agreements between the Health IT Advisor’s organization 
+and a practice and/or its health system will define the relationship between the various organizations, 
+outline the use of data as part of this relationship, and protect the practice, its patients, and the Health 
+IT Advisor. While Health IT Advisors will not generally be responsible for developing agreements 
+between organizations, they need to be aware of key regulations and whether appropriate agreements 
+are in place early in the process of working with a practice. 
+Health IT Advisor Handbook 
+Page 19

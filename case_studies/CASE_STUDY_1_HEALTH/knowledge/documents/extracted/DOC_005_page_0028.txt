@@ -1,0 +1,66 @@
+28
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+HAS • Manuel : Certification des établissements de santé • Version 2024
+Objectif 1.1 
+Le patient est informé et son implication est recherchée
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 1.1-03 Le patient exprime son consentement 
+libre et éclairé sur son projet de soins et ses modalités
+Le rôle du patient comme acteur de sa prise en charge est reconnu afin d’en améliorer la qualité et l’efficacité 
+et de réduire les effets indésirables liés à une non-adhésion à son projet de soins. Ce projet nécessite la 
+participation, la compréhension, l’adhésion du patient pour formaliser la proposition et les objectifs de prise 
+en charge en accord avec lui. Il est un fil conducteur décliné tout au long de la prise en charge du patient. 
+Il constitue une condition transversale de qualité, une condition d’observance, et fait l’objet d’un suivi et 
+d’un ajustement en collaboration avec le patient. Le consentement doit être libre (absence de contrainte) 
+et éclairé (précédé par une information claire et adaptée).
+ Tout l’établissement Impératif 
+Éléments d’évaluation
+ Patient 
+• L’évaluation bénéfice/risque a été expliquée et partagée 
+avec le patient ou, le cas échéant, avec le patient et/ou la 
+personne de confiance qu’il a désignée.
+• Le patient consent à son projet de soins et à ses modalités 
+(HAD, hôpital de jour, ambulatoire…).
+ Professionnels 
+• Une évaluation bénéfice/risque a été partagée avec le 
+patient. Ses préférences ont été recherchées et prises en 
+compte, si possible.
+• Les moyens de communication utilisés par les profession
+nels pour recueillir le consentement sont adaptés au patient.
+Patient traceur
+• e-Satis + 48h MCO (questions ad hoc).
+• e-Satis MCOCA (questions ad hoc).
+• e-Satis SSR (questions ad hoc).
+• e-Satis HAD (questions ad'hoc).
+Fiches pédagogiques
+Évaluation de la gestion des droits des 
+patients.
+Évaluation de la prise en charge des 
+patients privés de liberté du fait d'un séjour 
+en milieu carcéral.
+Évaluation de la prise en charge des 
+personnes âgées.
+Évaluation de la prise en charge des 
+urgences-SAMU-SMUR et soins critiques.
+Évaluation de l'activité Greffe par 
+prélèvement d'organes et de tissus sur 
+donneur décédé.
+Références HAS
+La médiation en santé pour les personnes 
+éloignées des systèmes de prévention et 
+de soins, 2017.
+Interprétariat linguistique dans le domaine 
+de la santé, 2017. Faire dire, 2016.
+Démarche centrée sur le patient : 
+information, conseil, éducation 
+thérapeutique, suivi, 2015.
+Annonce et accompagnement du 
+diagnostic d’un patient ayant une maladie 
+chronique, 2014.
+Délivrance de l’information à la personne 
+sur son état de santé, 2012.
+Faire dire, 2016.

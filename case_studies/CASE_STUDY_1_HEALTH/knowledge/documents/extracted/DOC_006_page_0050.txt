@@ -1,0 +1,48 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+PHI is defined by the HIPAA Privacy Rule as demographic data, which relates to: the individual’s past, 
+present or future physical or mental health or condition; the provision of healthcare to the individual; or 
+the past, present, or future payment for the provision of healthcare to the individual. It is also data that 
+identifies the individual or for which there is a reasonable basis tobelieve it canbe usedto identify the 
+individual. Individually identifiable health information includes many common identifiers (e.g., name, 
+address, birthdate, Social Security Number).[43] 
+As discussed in Section 1, Health IT Advisors working with EHRs will have access not only to PHI, but 
+other types of data protected by national and/or state regulations. Any quality team members who 
+work with these data should have, at a minimum, documented HIPAA training and a thorough 
+understanding of their obligations to the clinic as a participant in a Business Associate Agreement or 
+through a Data Use Agreement mentioned earlier in the handbook. 
+In addition to HIPAA, other laws or regulations may constrain how EHR data can be used in a project, 
+and how it must be managed and disposed of if taken out of the clinic on paper or electronically. 
+Examples include the following: 
+• 
+Rules set by the Institutional Review Board that approved the project 
+• 
+Organizational rules for protecting and storing sensitive data 
+• 
+Additional protections for data relating to mental health and substance use (code of federal 
+regulations (CFR) 42 Part 2) [44] 
+• 
+Special protections for educational records [Family Educational Rights and Privacy Act 
+(FERPA)][45] 
+• 
+Financial and administrative data that should not be shared outside the team. 
+2.6 
+Extracting Data from an EHR 
+This sectionaddresses how EHR data can be retrievedfrom built-in EHR reports and dashboards, 
+extracted to an electronic data file, or abstracted by visual inspection of the electronic chart for use in a 
+QI project. 
+Using Built-In EHR Reports and Audits 
+EHRs offer many standard reports and audits that can be useful for QI work. Unfortunately, few users 
+take the time to explore all of the reporting options available to them and may overlook a relatively easy 
+way to retrieve data for a project. 
+Built-in, or “canned,” reports and audits cover the spectrum from financial reports (daily charge 
+summaries, missing billing codes), security audits and logs (login attempts, clinical decision support 
+system (CDSS) overrides), administrative reports (patient no-shows), and enrollment and management 
+for special programs (Medicare Chronic Care Management services). 
+Clicking through the “Report” or “Quality” menus in an EHR can uncover a variety of useful reports 
+including patient lists, quality measures, clinical decision support logs, and specialty reports. Often, the 
+clinic may not be aware that these reports are there, but make sure you have permission before you 
+browse. 
+Health IT Advisor Handbook 
+Page 45

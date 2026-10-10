@@ -1,0 +1,127 @@
+{
+    "experiment": "DEMARCHE_ENCAD3_CASE_STUDY_3",
+    "step": "01_CONSTRUCTION_DATASET_REF",
+    "creation_time": "2026-09-26T13:41:19.240592",
+    "source": {
+        "dataset_name": "Beijing Multi-Site Air Quality",
+        "repository": "UCI Machine Learning Repository",
+        "doi": "10.24432/C5RK5G",
+        "number_source_files": 12
+    },
+    "dataset_ref": {
+        "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\data\\reference\\Dataset_REF.csv",
+        "rows": 420768,
+        "columns": 19,
+        "stations": 12,
+        "date_min": "2013-03-01 00:00:00",
+        "date_max": "2017-02-28 23:00:00",
+        "duplicate_station_timestamp": 0,
+        "sha256": "60286d59f5a7c22290e527bf0381b56ddee9223f4f93f856fb6f08912406278f"
+    },
+    "transformation": {
+        "source_files_concatenated": true,
+        "timestamp_added": true,
+        "rows_deleted": 0,
+        "missing_values_imputed": false,
+        "outliers_modified": false,
+        "measurements_corrected": false
+    },
+    "source_files": [
+        {
+            "source_file": "PRSA_Data_Aotizhongxin_20130301-20170228.csv",
+            "station": "Aotizhongxin",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 7271,
+            "sha256": "a94fbcfc71708b6ffdc033360163d91efb7f675e496f6b5860929aa96b96351b"
+        },
+        {
+            "source_file": "PRSA_Data_Changping_20130301-20170228.csv",
+            "station": "Changping",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 5166,
+            "sha256": "a2e21402a6d95fb7043f87959e6e3dcbecb957aac356a6f8028a85b047c772e7"
+        },
+        {
+            "source_file": "PRSA_Data_Dingling_20130301-20170228.csv",
+            "station": "Dingling",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 7015,
+            "sha256": "3d8dff81f18a80d9f455876a785642bffe1e9b9924ec1e6b7ce8cca790432eeb"
+        },
+        {
+            "source_file": "PRSA_Data_Dongsi_20130301-20170228.csv",
+            "station": "Dongsi",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 7600,
+            "sha256": "9c0020214425e5ee2a64d42f97a1f632e1d8f6b53ad50edd85a686cc7999f27e"
+        },
+        {
+            "source_file": "PRSA_Data_Guanyuan_20130301-20170228.csv",
+            "station": "Guanyuan",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 5279,
+            "sha256": "59390fee3b032597b387491f5230e7edb90a8558e30217ebd6d9befbe669fbf9"
+        },
+        {
+            "source_file": "PRSA_Data_Gucheng_20130301-20170228.csv",
+            "station": "Gucheng",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 4728,
+            "sha256": "10ae48801ea55869fee56a48b885fb1127859c130551888d71673f34216ba951"
+        },
+        {
+            "source_file": "PRSA_Data_Huairou_20130301-20170228.csv",
+            "station": "Huairou",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 7485,
+            "sha256": "812dcbe848b3ba2c2d25731064797bff803c46eb0c602156a1fa044df136dc26"
+        },
+        {
+            "source_file": "PRSA_Data_Nongzhanguan_20130301-20170228.csv",
+            "station": "Nongzhanguan",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 4090,
+            "sha256": "572cf87b65ef543cd55d3a711b28474def224a46b0ec3fc8add8aaf13b67a487"
+        },
+        {
+            "source_file": "PRSA_Data_Shunyi_20130301-20170228.csv",
+            "station": "Shunyi",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 8523,
+            "sha256": "520b59e4ead3b0cfe7f1ed673e30275de8441e999db6f413d5172d2277b8c15a"
+        },
+        {
+            "source_file": "PRSA_Data_Tiantan_20130301-20170228.csv",
+            "station": "Tiantan",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 5277,
+            "sha256": "0743e34799cf1ee36195b73321b91baa5625276532e7263c588f68cdef3b4daa"
+        },
+        {
+            "source_file": "PRSA_Data_Wanliu_20130301-20170228.csv",
+            "station": "Wanliu",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 6447,
+            "sha256": "0b1a6d754a07f0def2f55434ddfa3870dcd0063b7f766a6f66b6c11bb05a377a"
+        },
+        {
+            "source_file": "PRSA_Data_Wanshouxigong_20130301-20170228.csv",
+            "station": "Wanshouxigong",
+            "n_rows": 35064,
+            "n_columns": 18,
+            "missing_cells": 5146,
+            "sha256": "ab1d6a356d6997a45f6d657ad47de1e05a4a08d4a7015b38a329a90665ab74d0"
+        }
+    ]
+}

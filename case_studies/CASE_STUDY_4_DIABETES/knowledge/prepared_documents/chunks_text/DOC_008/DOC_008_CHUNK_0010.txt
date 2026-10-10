@@ -1,0 +1,106 @@
+
+
+===== PDF PAGE 19 =====
+
+Management of hypoglycaemia
+Hypoglycaemia is managed by ingestion of carbohydrate if the patient is able to 
+swallow, or by i.v. administration of hypertonic glucose.1
+•• If the patient is able to ingest food or drink, they should ingest 15–20 g of 
+glucose. If glucose is not available, give oral carbohydrate that contains 15–20 g 
+of rapidly absorbing forms of glucose (e.g. sugar-sweetened soft drink, 1–2 
+teaspoons of sugar, 5–6 hard candies, cup of milk). Plasma glucose levels 
+typically increase by 2.8 mmol/l (50 mg/dL) within ~15 minutes; repeat the 
+treatment if hypoglycaemia persists.
+•• If rapidly absorbing glucose is not available, it can be substituted by any foods 
+containing carbohydrate (e.g. bread, rice, potato).
+•• Follow by a small meal with complex carbohydrate. 
+•• Unconscious patients, those with plasma glucose ≤2.8 mmol/L (50 mg/dL) 
+and those unable to to ingest drink should be given hypertonic glucose 
+(dextrose) intravenously (20–50 mL of 50% glucose over 1–3 minutes). If this 
+concentration is not available, substitute with any hypertonic glucose solution.
+•• Food should be provided as soon as the patient is able to ingest food safely.
+•• Discuss hypoglycaemia risk factors with the patient (skipping meals, physical 
+activity more intense than usual, alcohol ingestion) and adjust medication if 
+necessary.
+Hyperglycaemic emergencies
+Diabetic ketoacidosis (DKA) and hyperosmolar hyperglycaemic state (HHS) 
+are life-threatening conditions with somewhat different biochemical features 
+(Table 5). Although uncommon, DKA can occur in people with type 2 diabetes.
+Symptoms and signs of DKA and HHS:
+•• Frequent symptoms and signs of DKA are nausea, vomiting and abdominal pain.
+•• Severe cases of DKA can present with Kussmaul’s breathing.
+•• Changes in sensorium in DKA range from alertness to stupor or coma, 
+depending on the severity.
+•• Patients with HHS typically present with altered consciousness (stupor or coma).
+Table 5 Biochemical characteristics of DKA and HHS measurable in primary care 
+facilities
+DKA
+HHS
+Plasma glucose level
+≥13.9 mmol/L (250 mg/dL), 
+occasionally lower
+≥33.3 mmol/L (600 mg/dL)
+Urine ketones
+Positive
+Negative (or weakly positive)
+1 Intramuscular injection of glucagon can also resolve hypoglycaemia, but it is rarely available in 
+primary care.
+19
+HEARTS – D  Diagnosis and management of Type 2 diabetes 
+
+
+===== PDF PAGE 20 =====
+
+Management of hyperglycaemic emergencies
+Hyperglycaemic emergencies should be managed in hospital by correction of 
+dehydration and electrolyte disbalance and administration of insulin.
+•• Refer to hospital all patients with suspected DKA or HHS. (DKA or HHS should 
+be suspected in every ill patient with hyperglycaemia.)
+•• Correction of dehydration is the critical first step for transport. Hyperglycaemia 
+slows gastric emptying, and oral rehydration might not be effective even in 
+patients who are not vomiting.
+•• Infuse isotonic saline (0.9% NaCl) at a rate of 1000 mL in the first 2 hours. 
+Continue with 1000 mL every 4 hours until reaching a hospital.
+Screening and management of chronic complications of 
+diabetes 
+Microvascular complications
+Longstanding diabetes with uncontrolled blood glucose levels can lead to multiple 
+organ damage, leading to diabetic retinopathy, nephropathy, neuropathy, and 
+diabetic foot complications. These complications are typically clinically “silent” until 
+far advanced.
+Diabetic eye disease
+•• Diabetic retinopathy is a 
+highly specific microvascular 
+complication of diabetes. It is 
+among the leading causes of 
+blindness. 
+•• Diabetes is also associated with 
+an increased risk of other vision-
+threatening conditions, such as 
+cataract and glaucoma.
+Diagnosis of diabetic retinopathy
+Signs and symptoms of diabetic retinopathy:
+•• Vision-threatening retinopathy and macular changes may be asymptomatic. 
+•• Vision loss occurs at advanced stages. 
+Diabetic retinopathy can be diagnosed through the presence of specific retinal 
+abnormalities on examination of the fundus after pupil dilation (microaneurysms, 
+haemorrhages, venous beading, hard exudates, cotton-wool spots and 
+neovascularization) and/or macular oedema (retinal thickening). 
+Retinal examination can be performed through ophthalmoscopy (direct or indirect), 
+slit lamp biomicroscopy, or retinal fundus photography.
+Diagnosis of diabetic macular oedema requires a three-dimensional assessment 
+that is best performed by a dilated examination using slit-lamp biomicroscopy and/
+or stereo fundus photography.
+Risk factors for diabetic retinopathy 
+••
+duration of diabetes 
+••
+poor glycaemic control
+••
+hypertension
+••
+diabetic kidney disease
+••
+dyslipidaemia
+20
+HEARTS – D  Diagnosis and management of Type 2 diabetes 

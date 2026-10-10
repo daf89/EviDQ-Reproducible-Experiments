@@ -1,0 +1,114 @@
+
+
+===== PDF PAGE 455 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-96 
+WHO STEPS Surveillance 
+Waist / 
+Description: Mean waist-to-hip ratio among all respondents (excluding pregnant 
+ 
+ 
+hip ratio 
+women). 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Waist circumference measurement 
+• Hip circumference measurement 
+ 
+Mean waist / hip ratio 
+Age Group 
+(years) 
+Men 
+Women 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M14, M15 
+• Epi Info program name: Mwaisthipratio (unweighted); MwaisthipratioWT (weighted) 
+ 
+
+
+===== PDF PAGE 456 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-97 
+WHO STEPS Surveillance 
+ 
+ 
+Biochemical Measurements 
+ 
+ 
+Mean 
+fasting 
+blood 
+glucose 
+Description: mean fasting blood glucose results including those currently on 
+medication for diabetes (non-fasting recipients excluded). 
+ 
+Instrument questions: 
+• During the last 12 hours have you had anything to eat or drink, other than 
+water? 
+• Blood glucose measurement 
+ 
+Mean fasting blood glucose (mmol/L) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean fasting blood glucose (mg/dl) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used:  B1, B5 
+• Epi Info program name: 
+• measurement in mmol/L: Bglucose (unweighted); BglucoseWT (weighted) 
+• measurement in mg/dl: BglucoseMg (unweighted); BglucoseMgWT (weighted) 
+ 

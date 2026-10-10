@@ -1,0 +1,132 @@
+When evaluating a change in GFR using mGFR, the com-
+bined effect of changes in biological and analytical variation
+should be considered as part of the interpretation of the re-
+sults (Figure 12174).169
+Practice Point 1.2.2.6: Consider the use of cystatin C–based
+estimated glomerular ﬁltration rate (eGFRcys) in some
+speciﬁc circumstances.
+The combination of eGFRcr and eGFRcys together is more
+accurate than eGFRcr or eGFRcys alone.91,147 The greater
+accuracy is due to the fact that the non-GFR determinants
+for each marker are different, and therefore using both
+leads to convergence on the estimate of GFR and minimizes
+the effect of either marker.188
+In individuals where non-GFR determinants of creatinine
+or cystatin C are substantially greater than for the other
+marker, eGFRcr-cys would not provide the more accurate
+estimate. This imbalance is more likely to occur for creati-
+nine, given its association with diet and muscle mass, which
+can vary greatly across various people. In such cases, it would
+be reasonable to use eGFRcys.
+The non-GFR determinants for cystatin C are less well
+studied, and it is erroneous to assume that eGFRcys provides
+the more accurate estimate in all circumstances. We, there-
+fore, advise limiting this strategy to selected clinical settings
+where people are otherwise healthy with known changes in
+non-GFR determinants of creatinine. For example, in 1 study
+that compared eGFRcr and eGFRcys before and after ampu-
+tation in otherwise healthy military veterans, there was a
+sizable change in eGFRcr as would be expected with the loss
+of a limb and loss of mobility, but no change in eGFRcys.128
+In another study of people with anorexia, serum levels of
+cystatin C were more strongly correlated with mGFR than
+were levels of SCr, but this has not been further evaluated
+using eGFR and standardized assays.127 Other situations
+may be where there are medications that inhibit tubular
+secretion of creatinine, although there are no studies to
+provide evidence to drive guidance.
+Practice Point 1.2.2.7: Understand the implications of dif-
+ferences between eGFRcr and eGFRcys, as these may be
+informative, in both direction and magnitude of those
+differences.
+For people who have simultaneous SCr and cystatin C
+values, the agreement or discrepancy between eGFRcr and
+eGFRcys may help to guide further actions. Several studies
+have demonstrated that 25%–30% of people have discordance
+between eGFRcr and eGFRcys as large as or larger than 15 ml/
+min per 1.73 m2 or $20%.82,138,189 One study demonstrated
+that factors associated with higher values for eGFRcr
+compared with eGFRcys included older age, female sex,
+non–Black race, higher eGFR, higher BMI, weight loss, and
+current smoking.190 Two recent studies demonstrate that
+when there is concordance between eGFRcr and eGFRcys,
+there is high and similar accuracy for eGFRcr, eGFRcys, and
+eGFRcr-cys with estimated P30 of 87%–91%.82,138,189 In
+contrast, when there is discordance, eGFRcr-cys is more
+accurate than either eGFRcr or eGFRcys. This suggests that
+when eGFRcr and eGFRcys are discordant, it is reasonable
+to continue to measure cystatin C serially in addition to
+creatinine in those settings where GFR will affect clinical
+decisions. It is also reasonable to consider performing/
+conducting mGFR when using medications with narrow
+therapeutic index or high toxicity or to inform critical
+treatment decisions (Chapter 4).
+Practice Point 1.2.2.8: Consider timed urine collections for
+measured creatinine clearance if mGFR is not available and
+eGFRcr-cys is thought to be inaccurate.
+mGFR is not available everywhere. In these settings, it
+might be reasonable to consider measured urinary creatinine
+clearance
+(CrCl).
+It
+is
+widely
+available
+and
+therefore
+commonly used but is highly prone to error due to under- or
+overcollection. A systematic review of GFR methods observed
+a mean bias of 25% across 23 studies, and as such, did not
+ﬁnd this method to reach sufﬁcient accuracy.166 The errors
+occur in both directions and thus do not appear solely due
+to the presence of tubular secretion of creatinine, which
+would be expected to overestimate mGFR. For example, in
+the pilot study for the African American Study of Kidney
+Disease
+(AASK),
+25%
+of
+participants
+had
+a
+24-hour
+measured CrCl that was at least 18% lower than the mGFR,
+and another 25% had measured CrCl at least 23% greater
+than the GFR. Of note, measured CrCl had substantially
+better correlation with mGFR when it was measured during
+an mGFR procedure191; therefore, if measured CrCl is to be
+performed, then it should ideally be supervised given the
+high risk of inaccuracy with urine collection.
+Special considerations
+Sex and gender considerations. It is unclear how best to
+estimate GFR in people who are transgender, gender-diverse,
+or nonbinary, where a person’s gender identity is different
+from their sex assigned at birth. Gender-afﬁrming testos-
+terone therapy is associated with an increase in SCr concen-
+tration,192 with less certainty for the impact of estrogen.
+Gender-afﬁrming testosterone therapy is associated with an
+increase in serum cystatin C and gender-afﬁrming estradiol,
+and antiandrogen therapy is associated with a decrease in
+serum
+cystatin
+C.193
+The
+impact
+of
+gender-afﬁrming
+hormone therapy, if any, on true GFR is unknown. In
+keeping with guidance from the American Association of
+Clinical Chemistry and the National Kidney Foundation,194
+evaluation of eGFR should use a shared decision-making
+approach with the person with CKD, taking into account
+muscle mass, sex hormone milieu, sex assigned at birth,
+and gender identity. We also note that the new EKFC
+cystatin equation does not include a variable for sex.
+Pediatric considerations. There are currently insufﬁcient
+externally validated data to assess if combining creatinine and
+cystatin improves the performance of pediatric eGFR equa-
+tions. Internal analysis of the Chronic Kidney Disease in
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S183

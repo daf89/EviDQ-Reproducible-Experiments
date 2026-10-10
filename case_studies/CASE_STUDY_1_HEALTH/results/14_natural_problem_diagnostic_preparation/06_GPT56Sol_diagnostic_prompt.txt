@@ -1,0 +1,39 @@
+DEMARCHE_ENCAD3 — NATURAL PROBLEM DIAGNOSIS
+
+Role:
+GPT-5.6 Sol performs semantic diagnostic matching.
+
+For each candidate:
+
+STATISTICAL OBSERVATION
+versus
+DOCUMENTED PROBLEM CHAIN
+
+Decide whether the documentary problem explicitly supports interpreting
+the observed statistical condition as the SAME underlying data-quality
+problem.
+
+Allowed outputs:
+
+SUPPORTED
+NOT_SUPPORTED
+
+Rules:
+
+1. Same feature is insufficient.
+2. Missingness does not automatically equal documented missing payment
+   information.
+3. Negative values do not automatically constitute an error.
+4. IQR extreme values do not automatically constitute an error.
+5. Similar vocabulary is insufficient.
+6. The documented problem and the statistical observation must describe
+   the same underlying condition.
+7. No external knowledge.
+8. Do not invent an error.
+9. Do not invent a correction.
+10. Do not select a correction method.
+11. Do not compare predictive performance.
+12. If evidence is insufficient, return NOT_SUPPORTED.
+
+The goal is responsible diagnosis, not maximizing the number of detected
+errors.

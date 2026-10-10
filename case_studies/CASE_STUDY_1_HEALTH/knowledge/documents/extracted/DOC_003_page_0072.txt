@@ -1,0 +1,115 @@
+9.14.4. Phaeochromocytoma/paraganglioma 
+Phaeochromocytomas are rare adrenal tumours that secrete catecho-
+lamines and are present in <0.2% of patients with hypertension. A small 
+percentage (<10%) of catecholamine-producing tumours are extra- 
+adrenal and are derived from sympathetic and non-sympathetic nerves. 
+More than 35% of the non-syndromic PPGLs are due to germline mu-
+tations.338 These mutations should be screened for because, when 
+found, they can drive management of the proband and the family and 
+also inform the choice of functional imaging. Moreover, some germline 
+mutations, such as those involving succinate dehydrogenase B, carry a 
+risk of malignant adrenal tumours.301,336 
+Sympathetic PPGLs are usually secreting and present with chron-
+ic, episodic, or labile hypertension. Adrenergic crises cause hyper-
+tensive emergencies and should be treated with an intravenous 
+(i.v.) alpha-1-blocker, such as phentolamine, doxazosin or terazosin, 
+or labetalol. When given i.v. (1–2 mg/kg) twice weekly as a bolus over 
+1 min followed by a continuous infusion, labetalol also has alpha- 
+blocker properties and has the advantage of allowing titration of 
+the infusion based on the BP response, and avoids tachycardia via 
+beta-blockade. 
+Identifying a single tumour mandates surgical excision after ad-
+equate pharmacological preparation, because secreting PPGLs can 
+cause fatal events with no warning. Administering doxazosin or ter-
+azosin, followed by a beta-blocker, usually controls BP and adrener-
+gic crises. As PPGLs are associated with a redistribution of volume 
+from the periphery to the cardiopulmonary system,944 patients 
+with PPGLs have peripheral hypovolaemia that exposes them to 
+the risk of profound hypotension, particularly right after tumour ex-
+cision. Therefore, adequate fluid administration should be carefully 
+managed. 
+9.14.5. Obstructive sleep apnoea syndrome 
+The management of this prevalent condition should be driven by the 
+result of a polysomnography study, which should provide the value 
+of the AHI (the average number of episodes per hour) and the sleep 
+position in which apnoeic–hypopnoeic episodes occur. For mild 
+OSAS (AHI < 15), weight loss and advice on sleep hygiene are usu-
+ally sufficient. For moderate (AHI of 15–30) and severe (AHI > 30) 
+OSAS, continuous positive airway pressure (CPAP) is indicated 
+and usually improves BP control and helps to resolve resistant 
+hypertension. If CPAP is not tolerated, the site of upper airway ob-
+struction should be determined by an Ear, Nose, and Throat evalu-
+ation with drug-induced sleep endoscopy as a potential step to 
+corrective surgery. 
+9.14.6. Drug-induced hypertension 
+Over-the-counter medications, prescribed drugs, and drug abuse (rec-
+reational substances and misuse of drugs) can cause hypertension 
+(Supplementary data online, Table S4). 
+9.14.6.1. Anticancer drug-induced hypertension 
+Growing evidence indicates that, while contemporary anticancer and 
+anti-angiogenic drugs improve cancer survival, they can also cause hyper-
+tension (Supplementary data online, Table S4). This is especially evident 
+in patients treated with vascular endothelial growth factor inhibitors, in 
+whom BP increases in 80%–90%.945 Tyrosine kinase inhibitors and pro-
+teasome inhibitors also increase BP, as do adjuvant therapies (corticos-
+teroids, calcineurin inhibitors, non-steroidal anti-inflammatory drugs, and 
+anti-androgen hormone therapy). Hypertension caused by anticancer 
+drugs is often dose limiting and may be reversible after therapy interrup-
+tion or discontinuation. Evidence-based clinical trials specifically addres-
+sing patients who develop hypertension due to cancer therapy are 
+lacking. It is recommended that management of hypertension in these pa-
+tients follows that for the general population.945,946 Managing these com-
+plex patients requires multidisciplinary healthcare involving oncologists, 
+hypertension specialists, cardiologists, and nephrologists,945,946 as high-
+lighted in the 2022 ESC Guidelines on cardio-oncology.946 
+9.14.7. Other forms of secondary hypertension 
+Other forms of secondary hypertension, such as genetic causes of 
+hypertension (Liddle’s syndrome, glucocorticoid-remediable aldoster-
+onism), excess liquorice, Cushing’s syndrome, thyroid disease, hyper-
+parathyroidism, aortic coarctation, and acromegaly are rare. Affected 
+patients should be referred to specialized centres for treatment. 
+10. Acute and short-term lowering 
+of blood pressure 
+10.1. Acute blood pressure management in 
+hypertensive emergencies 
+10.1.1. Definition and characteristics of hypertensive 
+emergencies 
+Hypertensive emergency is defined as BP of ≥180/110 mmHg (see 
+Figure 10) associated with acute HMOD, often in the presence of 
+symptoms. Hypertensive emergencies are potentially life-threatening 
+and require immediate and careful intervention to reduce BP, often 
+with i.v. therapy. 
+Symptoms of hypertensive emergency depend on the organs affected 
+but may include headache, visual disturbances, chest pain, shortness of 
+breath, dizziness, and other neurological deficits. In patients with hyper-
+tensive encephalopathy, somnolence, lethargy, tonic–clonic seizures, and 
+cortical blindness may precede a loss of consciousness; however, focal 
+neurological lesions are rare and should raise the suspicion of stroke. 
+As outlined in Section 7, we define HMOD among patients with 
+chronically elevated BP or hypertension as the presence of specific car-
+diac, vascular, and renal alterations.31,159 However, in the setting of 
+hypertensive emergency, more acute manifestations of organ damage 
+are relevant for management. 
+Acute manifestations of organ damage include: 
+• Patients with severe acute hypertension associated with other clinical 
+conditions likely to require urgent reduction in BP, e.g. acute onset of 
+aortic dissection, myocardial ischaemia, eclampsia, or heart failure. 
+In patients with an indication to renal artery 
+revascularization and technically unfeasible, or failed, 
+renal artery angioplasty and stenting, open surgical 
+revascularization may be considered. 
+IIb 
+C 
+Renal artery angioplasty is not recommended in 
+patients without confirmed haemodynamically 
+significant renal artery stenosis.c 938,939 
+III 
+A 
+© ESC 2024
+CKD, chronic kidney disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+cA haemodynamically relevant stenosis is usually defined by a luminal narrowing of >70% or 
+50%–70% with post-stenotic dilatation. 
+ESC Guidelines 3983 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

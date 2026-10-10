@@ -1,0 +1,41 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+259
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+• • d’autre part :
+• • la concordance des résultats des évaluations avec les indicateurs de qualité et de sécurité des soins. 
+Ce point doit tenir compte de la date de diffusion du résultat de l’indicateur par rapport à la date de 
+visite. Un écart temporel peut expliquer une discordance. 
+En cas de discordance, les experts-visiteurs approfondissent l’évaluation et celle-ci sera mentionnée dans les synthèses 
+du rapport de fin de visite.
+D’autres données chiffrées mobilisables, importées des bases nationales (SAE, PMSI, ARHGOS, HOP’EN…), peuvent 
+compléter ces indicateurs.
+Exemple 1 : le dernier résultat de l’indicateur : taux de satisfaction e-Satis-CA « Organisation de la sortie » est de 
+70 %. L’évaluateur qui réalise un parcours en chirurgie ambulatoire utilisera, lors de l’entretien avec les professionnels, 
+ce résultat pour apprécier les deux éléments d’évaluation du critère 2.4-03 (Les équipes mettent en place des actions 
+d’amélioration fondées sur l’analyse collective des résultats des indicateurs qualité et sécurité des soins) sur l’analyse 
+et la mise en place d’actions d’amélioration.
+Exemple 2 : le dernier résultat de l’indicateur : « Consommation de solutions hydro-alcooliques en secteur MCO/
+HAD/SMR » est positionné en classe A. Or, les observations réalisées font remonter une absence de gel hydro-
+alcoolique aux endroits le nécessitant, des flacons non datés… Il existe alors une discordance entre le résultat de 
+l’indicateur et les constats réalisés en visite que l’équipe d’experts- visiteurs va devoir explorer pour apprécier au plus 
+juste les réponses au critère 2.3-10 (Les équipes maîtrisent le risque infectieux en appliquant les bonnes pratiques 
+d’hygiène des mains).
+Prise en compte de l'absence de recueil ou de résultats non validés suite à un contrôle ARS
+Du fait de l’utilisation croissante des indicateurs (diffusion publique aux usagers, tableaux de bord de pilotage, 
+contrats pluriannuels d’objectifs et de moyens (CPOM), dispositifs d’incitation financière à la qualité (IFAQ)…), 
+un contrôle qualité de leur recueil est effectué. Depuis 2013, une orientation nationale inspection-contrôle de 
+l’IGAS coordonnée par la DGOS et la HAS s’applique à l’ensemble des indicateurs nationaux de qualité et de 
+sécurité des soins diffusés publiquement. Le principe de ce contrôle qualité du recueil des IQSS diffusés publi
+quement est de s’assurer de la fiabilité de l’autoévaluation réalisée lors des campagnes nationales de mesure, 
+par l’utilisation d’une procédure de contrôle aléatoire. Le champ de cette inspection vise chaque année jusqu’à 
+25 % des établissements de santé, ayant réalisé le recueil, par région : la moitié est tirée au sort aléatoirement 
+et l’autre moitié est au choix de l’ARS. Le recueil des indicateurs peut être non validé par le contrôle : dans ce 
+cas le résultat est annulé.
+Lorsqu’un IQSS n’est pas recueilli ou que son résultat a été invalidé à la suite du contrôle ARS, la réponse aux 
+éléments d’évaluation des critères appréciés par les experts-visiteurs lors d’un parcours traceur, est automati
+quement une réponse « Non ». Cela est susceptible de générer une fiche anomalie pour les critères impératifs.
+ Fiche pratique informative_V4

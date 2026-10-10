@@ -1,0 +1,199 @@
+
+
+===== PDF PAGE 35 =====
+
+23
+4. Automated non-invasive BPMDs with cuff 
+TECHNICAL SPECIFICATIONS OF AUTOMATED NON-INVASIVE BP MEASURING DEVICES WITH CUFF
+(Including information on the following where relevant or appropriate)
+20
+User adjustable settings
+Inflation pressure should be adjustable or automatically set according to a previous or current pressure 
+reading or individual requirements. Time between automatic BP measurement cycles should be 
+selectable from at least five values over a range of 1 to 60 min. Set alarm volume and limits within the 
+specified measurement ranges.
+Physical and chemical characteristics
+21
+Components (if relevant)
+Rubber tubes to be detachable from other parts, allowing periodic cutting of decayed ends. Gauge body 
+to include clip for mounting on cuff. Tube length to be > 30 cm. Different cuff sizes available (small 
+or neonate, medium or paediatric, large or adult and extra-large or large adult). Cuff material to be 
+removable and washable. 
+22
+Mobility, portability (if 
+relevant)
+Wall, portable, table-top, mobile stand
+23
+Raw materials (if relevant)
+Not applicable
+Utility requirements
+24
+Electricity, water and/or gas 
+(if relevant)
+AC: 120/240, 50/60 Hz 
+DC: Rechargeable battery (for at least 1 h of operation, single-use or rechargeable)
+Accessories, consumables, spare parts, other components
+25
+Accessories (if relevant)
+Mobile stand
+26
+Sterilization process for 
+accessories (if relevant)
+Not applicable
+27
+Consumables and reagents 
+(if relevant)
+Single-use cuffs in the following sizes: neonatal (10–15 cm), paediatric (14–22 cm), adult (25–36 cm), 
+large adult (34–43 cm), thigh (40–55 cm). The sizes of the cuffs depend on the manufacturer but 
+should not deviate by ± 5 cm from the stated sizes.
+Batteries
+28
+Spare parts (if relevant)
+Rubber tube (length > 30 cm), reusable cuffs in the following sizes: neonatal (10–15 cm), paediatric 
+(14–22 cm), adult (25–36 cm), large adult (34–43 cm), thigh (40–55 cm). The sizes of the cuffs 
+depend on the manufacturer but should not deviate by ± 5 cm from the stated sizes.
+Tubing, valve
+29
+Other components (if 
+relevant)
+Protective case
+Packaging
+30
+Sterility status on delivery 
+(if relevant)
+Single-use cuffs must be delivered sterile.
+31
+Shelf life (if relevant)
+Minimum shelf life for single-use cuffs must be 1 year from the date of reception.
+32
+Transport and storage (if 
+relevant)
+Storage environment humidity: 10–95% relative humidity. Storage environment 
+temperature: –20 to 60 °C 
+33
+Labelling (if relevant)
+With the proper certification and validation requested, plus those required in each country
+Environmental requirements
+34
+Depend on context 
+Handling environment temperature: –20 to 60 °C 
+Installation 
+35
+Pre-installation 
+requirements (if relevant)
+Not applicable
+36
+Requirements for 
+commissioning (if relevant)
+Battery, uninterruptable power source, appropriate cuffs
+37
+Training of users (if 
+relevant)
+All users (physicians nurses, other medical staff) shall have initial training in operation.
+Biomedical or clinical engineer or technician, medical staff, manufacturer or servicer shall have initial 
+training in operation and basic maintenance by manufacturer, and subsequently if necessary. 
+38
+User care (if relevant)
+Clean surface of device and wash reusable cuffs as stated by manufacturer.
+Warranty and maintenance
+39
+Warranty
+2 years 
+40
+Maintenance tasks
+Cables and lead wires should be inspected periodically for breaks and cracks.
+41
+Type of service contract
+Not applicable
+42
+Availability of spare parts 
+after warranty
+5 years after discontinuation by factory
+
+
+===== PDF PAGE 36 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+24
+TECHNICAL SPECIFICATIONS OF AUTOMATED NON-INVASIVE BP MEASURING DEVICES WITH CUFF
+(Including information on the following where relevant or appropriate)
+43
+Availability of software and 
+hardware upgrades
+Software upgrade required and if available from factory
+Documentation
+44
+Documentation 
+requirements
+User, troubleshooting and service manuals must be available to the client, preferably in the national 
+language(s) and/or in another language authorized by the national regulatory agency. 
+Certificate of calibration and validation to be provided.
+List of equipment and procedures required for local calibration and routine maintenance to be provided
+List of important spares and accessories, with their part numbers and cost, to be provided.
+Contact details of manufacturer, supplier and local service agent to be provided.
+Decommissioning
+45
+Estimated life span
+10 years
+Safety and standards
+46
+Risk classification
+Depends on the country. Examples: Class A (Global Harmonization Task Force Rule 4); Class II (USA); 
+Class I (Australia, Canada and Japan); Class IIa (European Union)
+47
+Regulatory approval or 
+certification
+Proof of regulatory compliance (e.g. registration, clearance, approval) must be provided as appropriate 
+per the product’s risk classification, by regulatory agency (e.g. by a founding member of IMDRF-EU, USA, 
+Canada, Australia, Japan). Else approved by local national regulatory agency. 
+48
+International standards
+Standards applicable to the product and to the manufacturing process are listed below. Compliance 
+to the last available version of the international standard or to its local equivalent standard is 
+recommended and proof of compliance must be provided. 
+Non-exhaustive list of standards applicable to general quality systems for medical devices and specific 
+for BPMD:
+•	 ISO 13485:2016, Medical devices – Quality management systems – Requirements for regulatory 
+purposes
+•	 EN ISO 14971:2012, Medical devices – Application of risk management to medical devices
+•	 ISO 14155:2011, Clinical investigation of medical devices for human subjects – Good clinical 
+practice
+•	 ISO 14971:2007, Medical devices – Application of risk management to medical devices
+•	 IEC 80601-2-30:2018 Medical electrical equipment – Part 2-30: Particular requirements for basic 
+safety and essential performance of automated non-invasive sphygmomanometers
+•	 ISO 16142-1:2016, Medical devices – Recognized essential principles of safety and performance of 
+medical devices – Part 1: General essential principles and additional specific essential principles for 
+all non-IVD medical devices and guidance on the selection of standards
+Non-exhaustive list of standards applicable to electronic BP devices:
+•	 AAMI/ESH/ISO 81060 Universal Standard for the Validation of Blood Pressure Measuring Devices Non-
+invasive phygmomanometers – Part 2: Clinical investigation of automated measurement type
+•	 ISO 81060-2:2018(E) Non-invasive sphygmomanometer standard Part 2: Clinical investigation of 
+intermittent automated measurement type
+•	 ISO/IEEE 11073-10407:2010 (Part 10407: Device specialization – Blood pressure monitor)
+•	 IEC 80601-2-30:2009 (Part 2-30: Particular requirements for the basic safety and essential 
+performance of automated non-invasive sphygmomanometers)
+•	 DS/EN 1060-3 Non-invasive sphygmomanometers – Part 3: Electro-mechanical blood pressure 
+measuring system 
+49
+Regional and local 
+standards
+ANSI/AAMI SP10:2002 & ANSI/AAMI SP10:2002/A1:2003 (Manual, electronic or automated 
+sphygmomanometers) DS/EN 1060-3 Non-invasive sphygmomanometers - Part 3: Electro-mechanical 
+blood pressure measuring system 
+GOST R 50267.30 Medical electrical equipment. Part 2. Particular requirements for safety of automatic 
+cycling indirect blood pressure monitoring equipment
+JIS T 1115:2005 Non-invasive automated sphygmomanometers
+50
+Regulatory requirements
+Compliance with (where applicable, but not limited to, and last available version): 
+USA: 
+CFR - Code of Federal Regulations, Title 21, Part 820
+CFR - Code of Federal Regulations, Title 21, Part 870, Section 1130 / Non-invasive blood pressure 
+measurement system 
+Japan: 
+MHLW Ordinance No. 16916156000 Aneroid sphygmomanometer
+European Commission:
+Council Directive 93/42/EEC of 14 June 1993 on Medical Devices
+Regulation (EU) 2017/745 of the European Parliament and the Council on Medical Devices
+GMDN, General Medical Device Nomenclature; UMDNS, Universal Medical Device Nomenclature System; UNSPSC, United Nations Standard Products 
+and Services Code.

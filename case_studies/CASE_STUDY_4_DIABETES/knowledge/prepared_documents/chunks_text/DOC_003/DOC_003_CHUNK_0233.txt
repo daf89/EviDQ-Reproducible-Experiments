@@ -1,0 +1,163 @@
+
+
+===== PDF PAGE 465 =====
+
+Triglycerides 
+Description: Mean fasting triglycerides among all respondents and percentage of 
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-106 
+WHO STEPS Surveillance 
+ 
+ 
+respondents with raised fasting triglycerides (non-fasting recipients excluded). 
+ 
+Instrument questions: 
+• During the last 12 hours have you had anything to eat or drink, other than 
+water? 
+• Triglyceride measurement 
+ 
+Mean fasting triglycerides (mmol/L) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean fasting triglycerides (mg/dl) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of respondents with fasting triglycerides ≥ 1.7 mmol/L or ≥ 150 mg/dl 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Percentage of respondents with fasting triglycerides ≥ 2.0 mmol/L or ≥ 180 mg/dl 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+Analysis Information: 
+• Questions used: B1, B17 
+• Epi Info program name: 
+• measurement in mmol/L: Btriglyceride (unweighted); BtriglycerideWT (weighted) 
+• measurement in mg/dl: BtriglycerideMg (unweighted); BtriglycerideMgWT 
+(weighted) 
+ 
+
+
+===== PDF PAGE 466 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-107 
+WHO STEPS Surveillance 
+ 
+ 
+Cardiovascular disease risk 
+ 
+ 
+CVD risk of 
+≥30% or 
+existing 
+CVD 
+Description: Percentage of respondents aged 40-69 years with a 10-year 
+cardiovascular disease (CVD) risk* ≥30% or with existing CVD 
+Instrument questions: combined from Step 1, 2 and 3 
+• Gender, age 
+• Current and former smoking 
+• History of diabetes, CVD 
+• Systolic blood pressure measurements 
+• Fasting status, glucose and total cholesterol measurements. 
+ 
+Percentage of respondents with a 10-year CVD risk ≥30% or with existing CVD 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+40-54 
+55-69 
+40-69 
+ 
+* A 10-year CVD risk of ≥30% is defined according to age, sex, blood pressure, smoking status (current smokers OR those 
+who quit smoking less than 1 year before the assessment), total cholesterol, and diabetes (previously diagnosed OR a fasting 
+plasma glucose concentration >7.0 mmol/l (126 mg/dl)). 
+ 
+Analysis Information: 
+• Questions used: C1, C2, C3, T1, T8T10, T11a-c, H6, H7a, H17, M4a, M5a, M6a, M7, B1, B5, 
+B8 
+• Epi Info program name: CVDrisk (unweighted); CVDriskWT (weighted) 
+ 

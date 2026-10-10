@@ -1,0 +1,139 @@
+
+
+===== PDF PAGE 461 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-102 
+WHO STEPS Surveillance 
+Raised total 
+Description: Percentage of respondents with raised total cholesterol. 
+ 
+ 
+cholesterol 
+ 
+Instrument questions: 
+• Total cholesterol measurement 
+ 
+ 
+ 
+ 
+ 
+ 
+Total cholesterol ≥ 5.0 mmol/L or ≥ 190 mg/dl 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Total cholesterol ≥ 6.2 mmol/L or ≥ 240 mg/dl 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: B8 
+• Epi Info program name: 
+• measurement in mmol/L: Btotallipids (unweighted); BtotallipidsWT (weighted) 
+• measurement in mg/dl: BtotallipidsMg (unweighted); BtotallipidsMgWT (weighted) 
+ 
+
+
+===== PDF PAGE 462 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-103 
+WHO STEPS Surveillance 
+ 
+ 
+Raised 
+total 
+cholesterol 
+Description: Percentage of respondents with raised total cholesterol and percentage 
+of respondents currently on medication for raised cholesterol. 
+ 
+Instrument questions: 
+• Total cholesterol measurement 
+• During the past two weeks, have you been treated for raised cholesterol with 
+drugs (medication) prescribed by a doctor or other health worker? 
+ 
+Total cholesterol ≥ 5.0 mmol/L or ≥ 190 mg/dl or currently on medication for raised cholesterol 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Total cholesterol ≥ 6.2 mmol/L or ≥ 240 mg/dl or currently on medication for raised cholesterol 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: B8, B9 
+• Epi Info program name: 
+• measurement in mmol/L: Btotallipids (unweighted); BtotallipidsWT (weighted) 
+• measurement in mg/dl: BtotallipidsMg (unweighted); BtotallipidsMgWT (weighted) 
+ 

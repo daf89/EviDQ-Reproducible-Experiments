@@ -1,0 +1,7 @@
+﻿condition,spearman_rank_vs_REF,spearman_rank_vs_DQ
+REF,1.0,0.97619
+DQ,0.97619,1.0
+DOC,0.97619,1.0
+MEDIAN,0.97619,1.0
+KNN,0.904762,0.928571
+ITERATIVE,0.928571,0.97619

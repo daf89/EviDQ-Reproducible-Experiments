@@ -1,0 +1,135 @@
+
+
+===== PDF PAGE 429 =====
+
+No 
+Description: Percentage of respondents not engaging in vigorous physical activity. 
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-70 
+WHO STEPS Surveillance 
+ 
+ 
+vigorous 
+physical 
+activity 
+ 
+Instrument questions: 
+• activity at work 
+• recreational activities 
+ 
+No vigorous physical activity 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% no 
+n 
+vigorous 
+95% CI 
+activity 
+% no 
+n 
+vigorous 
+95% CI 
+activity 
+% no 
+n 
+vigorous 
+95% CI 
+activity 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Pnovigorous(unweighted); PnovigorousWT (weighted) 
+ 
+
+
+===== PDF PAGE 430 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-71 
+WHO STEPS Surveillance 
+Sedentary 
+Description: Minutes spent in sedentary activities on a typical day. 
+ 
+ 
+ 
+Instrument question: 
+• sedentary behaviour 
+ 
+Minutes spent in sedentary activities on average per day 
+Age Group 
+(years) 
+Men 
+Mean 
+ 
+Median 
+Inter-quartile 
+n 
+minutes 
+95% CI 
+minutes 
+ 
+range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Minutes spent in sedentary activities on average per day 
+Age Group 
+(years) 
+Women 
+Mean 
+ 
+Median 
+Inter-quartile 
+n 
+minutes 
+95% CI 
+minutes 
+ 
+range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Minutes spent in sedentary activities on average per day 
+Age Group 
+(years) 
+Both Sexes 
+Mean 
+ 
+Median 
+Inter-quartile 
+n 
+minutes 
+95% CI 
+minutes 
+ 
+range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used : P16a-b 
+• Epi Info program name: Psedentary (unweighted); PsedentaryWT and 
+PsedentarymedianWT (weighted) 
+ 

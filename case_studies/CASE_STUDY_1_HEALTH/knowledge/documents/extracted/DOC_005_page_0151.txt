@@ -1,0 +1,73 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+151
+Objectif 3.2 
+L’établissement favorise l’engagement des patients individuellement et collectivement
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 3.2-01 L’établissement promeut toutes 
+les formes de recueil de l’expression du patient
+Le recueil et l’expression du point de vue du patient participent à la politique d’amélioration de la qualité et 
+de la sécurité des soins de l’établissement et contribuent à rendre le patient acteur de ses soins.
+Son expression peut prendre différentes formes : des enquêtes de satisfaction et des questionnaires sur 
+l’expérience des patients. L’exploitation doit se faire en lien avec la commission des usagers (CDU) et les 
+résultats doivent être restitués à l’échelle de l’établissement pour alimenter les actions d’amélioration de la 
+qualité dans les services de soins ou plateaux techniques.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Gouvernance 
+• L’établissement soutient le recueil de la satisfaction des 
+patients avec e-Satis (ou autres dispositifs complémen
+taires, le cas échéant).
+• Les mesures promouvant la participation des patients 
+à e-Satis sont adaptées en fonction des résultats suivis 
+par la gouvernance. Des questionnaires de satisfaction 
+développés intra-établissement, en lien avec la commission 
+des usagers, peuvent venir compléter le dispositif national 
+e-Satis.
+• L’établissement promeut et favorise l’élaboration et 
+l’exploitation de questionnaires spécifiques sur l’expérience 
+patients dans les unités de soins ou plateaux techniques 
+(PREMS) ou sur le résultat de leur santé de leur point de 
+vue (PROMS). 
+ Professionnels 
+• L’exploitation des résultats e-Satis ou autre indicateur de 
+satisfaction et d’expérience patient est restituée aux unités 
+de soins pour alimenter leurs actions d’amélioration de la 
+qualité. 
+ Représentants des usagers 
+• Les résultats des enquêtes de satisfaction et des 
+questionnaires sur l’expérience patients sont analysés 
+en collaboration avec les représentants des usagers et 
+présentés à la commission des usagers (art. R. 1112-80).
+Audit système
+• e-Satis + 48h MCO (questions ad hoc)
+• e-Satis MCOCA (questions ad hoc)
+• e-Satis SSR (questions ad hoc)
+• e-Satis HAD (questions ad hoc).
+Fiches pédagogiques
+Évaluation de l’engagement des usagers et 
+de l’expérience patients.
+Évaluation de la douleur et des soins 
+palliatifs.
+Références HAS
+IQSS – e-Satis +48 h MCO : mesure de
+la satisfaction et de l’expérience des 
+patients hospitalisés plus de 48 h, 2020.
+IQSS – e-Satis MCOCA : mesure de la 
+satisfaction et de l’expérience des patients 
+hospitalisés pour une chirurgie ambula
+toire, 2020.
+IQSS – e-Satis SSR : expérimentation
+du dispositif de mesure de la satisfaction
+et de l’expérience des patients hospitalisés
+en soins de suite et réadaptation, 2020.
+Méthode de validation du dispositif 
+national de mesure de l’expérience et de la 
+satisfaction des patients, 2019.
+Références légales 
+et réglementaires
+• Programme « ma santé 2022 ». Travaux 
+de l’Institut français de l’expérience patient. 
+Gross O. L’engagement des patients au 
+service du système de santé, Douin, 2017.

@@ -1,0 +1,50 @@
+I N T R O D U C T I O N
+I N T R O D U C T I O N 
+intended for external coaches working with primary care practices, we believe the content could also be 
+useful for practice-basedstaffresponsible for addressing healthIT needs relatedto QI. 
+The handbook assumes readers already have a basic level of comfort with EHR use and with extracting 
+and using electronic data for QI. While the handbook does not cover advanced health IT topics, it does 
+include links to supplementaryinformation in these areas where appropriate. Finally, the handbook 
+does not include practice facilitation information already covered in other resources (described above). 
+The handbook is organized into nine sections and four appendices: 
+• 
+Section 1: Strategies for Health ITAdvisors. This section is a review of general strategies for 
+Health IT Advisors working with practices to promote QI using EHRs and other health IT and 
+includes information about assessing QI practice capacity; different healthIT systems that 
+coaches will see in the field; obtaining practice buy-in and engaging leadership; collaborating 
+with practice QI staff; establishing shared QI goals; monitoring adoption and providing feedback; 
+incentivizing QI; establishing data protocols; and understanding policy and legal issues as well as 
+patient attribution and empanelment. 
+• 
+Section 2: Working with Electronic Health Records. This section is a review of foundational 
+concepts for Health IT Advisors working with practice electronic EHRs, including data structures; 
+how workflows impact data; how to assess data quality; best practices for handling EHR data; 
+privacy and security considerations; tips for extracting data and obtaining EHR support; and 
+suggestions for documenting and sharing best practices. 
+• 
+Section 3: Clinical Decision Support. This section provides a review of clinical decision support 
+(CDS) and includes a discussionof CDS applications for QI. Types of CDScommonly found in 
+EHRs and best practices for using CDS in QI work are also discussed. 
+• 
+Section 4: Patient Portals and EngagementTechnologies. This section provides a review of 
+patient portals and relatedpatient-engagement tools andtheir applications for QI, including a 
+discussion of common features of patient portals and how they may be used in practice 
+improvement efforts. 
+• 
+Section 5: Incorporating Patient-GeneratedDatafor Quality Improvement. This section 
+provides an introduction to patient-generateddata andapplications for QI, including a 
+discussion of the advantages of patient-reported outcomes and patient-generated data; data 
+examples and sources; technical, privacy, and securityconcerns; patient-reportedsymptoms 
+and health-relatedquality of life; electronic healthscreenings for preventive care; and data 
+collection and use challenges. 
+• 
+Section 6: EHRUse Cases for Quality Improvement.This section serves as a practical guide to 
+using EHR data as a platform for delivering QI interventions, including a diabetes case study and 
+use cases for using EHR data for quality measurement and improving preventive care. 
+• 
+Section 7: Beyond theEHR: AlternativeDataSourcesfor Quality Improvement Data. This 
+section provides a look at how to use claims data and how health IT platforms beyond the EHR 
+(including registries, population health platforms, and health information exchanges [HIEs]) can 
+be used for QI. 
+Health IT Advisor Handbook 
+Page 2

@@ -1,0 +1,78 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+220
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_E8 
+Secteurs d’activité : psychiatrie, chirurgie et interventionnel, maternité, SSR, SLD
+Champ d’applicabilité
+Sous-champ d’applicabilité
+Règles 
+Maternité
+Périnatalité
+Table : filtre (select statut=INIT) – PERINAT
+(select AUTOR=TYPE 1 + AUTOR=TYPE 2 + AUTOR=TYPE 3)
+Clef : FI
+If filtre.HEB_PERINAT=1 and
+[PERINAT.LIT_OBS>0 or
+PERINAT.LIT_NEO_HSI>0 or
+PERINAT.LIT_SIN>0 or
+PERINAT.LIT_REA>0 or
+PERINAT.SEJ_OBS>0 or
+PERINAT.SEJ_NEO_HSI>0 or
+PERINAT.SEJ_SIN>0 or
+PERINAT.SEJ_REA>0 or
+PERINAT.SEJ_BAM>0 or
+PERINAT.SEJACC>0 or
+PERINAT.JOUACC>0 or
+PERINAT.JOU_OBS>0 or
+PERINAT.JOU_SIN>0 or
+PERINAT.JOU_REA>0 or
+PERINAT.JOU_BAM>0 or
+PERINAT.JOU_NEO_HSI>0]
+then SCA0017= true
+else SCA0017= false
+IVG pour motif médical ou 
+AMP clinique
+Table : filtre (select statut=INIT) – PERINAT
+Clef : FI
+If FILTRE.IVGAMP=1 and
+PERINAT.IMG>0
+then SCA0018= true 
+else SCA0018= false
+or
+Table : filtre (select statut=INIT) – PERINAT (select AMP=1)
+Clef : FI
+If FILTRE.IVGAMP=1 and
+PERINAT.PAT_AMP>0 
+then SCA0018= true 
+else SCA0018= false
+Centre périnatal de proximité
+Table : filtre (select statut=INIT) – PERINAT (select AUTOR=CPPR)
+Clef : FI
+If filtre.CPP=1 and
+then SCA0019= true
+else SCA0019= false
+SSR (SMR)
+SSR (SMR)
+Table : filtre (select statut=INIT) – SSR (select GED=SSR_TOT)
+Clef : FI
+If (filtre.HEB_SSR=1 or filtre.SSR=1) and
+[SSR.LIT>0 or
+SSR.Pla>0 or
+SSR.SejHC>0 or
+SSR.JouHC>0 or
+SSR.JouHP>0]
+then SCA0036= true
+else SCA0036= false
+SLD
+SLD
+Table : filtre (select statut=INIT) – SLD
+Clef : FI
+If filtre.HEB_SLD=1 and
+SLD.LIT>0 or
+SLD.JOU>0
+then SCA0035= true
+else SCA0035= false

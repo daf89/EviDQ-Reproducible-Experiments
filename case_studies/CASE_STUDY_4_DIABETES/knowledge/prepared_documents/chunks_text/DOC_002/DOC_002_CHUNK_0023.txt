@@ -1,0 +1,105 @@
+
+
+===== PDF PAGE 45 =====
+
+Indicators and metadata  ﻿
+33
+13.	 Overweight and obesity assessment 
+Indicator name
+Overweight and obesity assessment
+Purpose
+To assess the level of overweight and obesity assessment in health facilities.
+Definition
+Proportion of people who were attending health facilities and assessed for 
+overweight and obesity using height, weight and/or body mass index (BMI) 
+measurements.
+Numerator
+Number of people who were attending health facilities and were assessed for 
+overweight and obesity using height, weight and/or BMI measurements during 
+the reporting period.
+Denominator
+Total number of people who attended health facilities in the reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by diabetes status, obesity or overweight 
+status and individual-level characteristics such as age, sex, race/ethnicity, 
+comorbidity status, high-risk groups, socioeconomic status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+For any comparison over time or with other populations, age 
+standardization is needed.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+
+
+===== PDF PAGE 46 =====
+
+34
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+14.	 Tobacco use assessment
+Indicator name
+Tobacco use assessment
+Purpose
+To assess the level of tobacco use assessment 
+Definition
+Proportion of people with diabetes who were attending health facilities and 
+were assessed for tobacco use by a health professional in the facility during the 
+reporting period.
+Tobacco products include cigarettes, pipes, cigars, cigarillos, waterpipes (hookah, 
+shisha), bidis, kretek, heated tobacco products, and all forms of smokeless (oral 
+and nasal) tobacco. Tobacco products exclude products that do not contain 
+tobacco, such as electronic nicotine delivery system (ENDS) of which e-cigarettes 
+are a common type, as well as ‘e-cigars’, ‘e-hookahs’, JUUL and ‘e-pipes’.
+Currently using means either daily or non-daily (occasional) use at the 
+time of visit.
+The assessment of tobacco use, defined as a series of questions on intensity, 
+prolongation, type of product and method of consumption, in the current and 
+in the past.
+Numerator
+Number of people with diabetes who were attending health facilities and were 
+assessed for tobacco use during the reporting period
+Denominator
+Number of people with diabetes who attended health facilities during the 
+reporting period
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, facility level of care type, provider ownership 
+type (public/private), and individual-level characteristics such as age, sex, race/
+ethnicity, comorbidity status, high-risk groups, socioeconomic status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records
+Limitations/comments
+None
+Related links
+Non-age-standardized estimates of current tobacco use, tobacco smoking 
+and cigarette smoking (Tobacco control: Monitor) [website]. Geneva: World 
+Health Organization; 2024 (https://www.who.int/data/gho/data/indicators/
+indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-
+tobaccosmoking-cigarrettesmoking-nonagestd-tobnonagestdcurr, accessed 
+26 May 2024).
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Non-age-standardized estimates of current tobacco use, tobacco smoking 
+and cigarette smoking (Tobacco control: Monitor). [website]. Geneva: World 
+Health Organization; 2024 (https://www.who.int/data/gho/data/indicators/
+indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-
+tobaccosmoking-cigarrettesmoking-nonagestd-tobnonagestdcurr, accessed 
+26 May 2024).
+Strengthening health systems for treating tobacco dependence in primary 
+care. Geneva: World Health Organization; 2013 (https://apps.who.int/iris/
+handle/10665/84388).
+WHO Framework Convention on Tobacco Control. Geneva: World Health 
+Organization; 2003  (https://iris.who.int/handle/10665/42811). 
+WHO Framework Convention on Tobacco Control: guidelines for implementation 
+article 5.3; Article 8; Articles 9 and 10; Article 11; Article 12; Article 13; Article 14, 
+2013 edition. Geneva: World Health Organization; 2013 (https://iris.who.int/
+handle/10665/80510). 

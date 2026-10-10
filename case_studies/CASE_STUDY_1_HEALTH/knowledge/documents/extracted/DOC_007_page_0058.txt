@@ -1,0 +1,115 @@
+Special considerations
+Pediatric considerations. Newborns who clearly have kidney
+disease (e.g., severe congenital malformations of the kidney and
+urinary tract) do not need to wait 3 months to conﬁrm CKD.
+1.1.4 Evaluation of cause
+Practice Point 1.1.4.1: Establish the cause of CKD using
+clinical context, personal and family history, social and
+environmental factors, medications, physical examination,
+laboratory measures, imaging, and genetic and pathologic
+diagnosis (Figure 8).
+Practice Point 1.1.4.2: Use tests to establish a cause based
+on resources available (Table 622,98-100).
+In evaluation of cause, healthcare providers should select
+speciﬁc diagnostic tests based on the pretest probability of a
+speciﬁc diagnosis informed by clinical presentation. Identiﬁca-
+tion of cause confers beneﬁt for targeting therapy to slow pro-
+gression to kidney failure, understanding contributing factors,
+and prognosis. In addition, identiﬁcation of cause can help
+people communicate information about a genetic or familial
+cause to relatives, improve understanding of their condition in
+thecontextofself-caremanagement,and improvehealthliteracy.
+Genetic testing is emerging as a valuable component for
+evaluation of cause. In some studies, >10% of people with
+CKD, regardless of family history, were observed to carry
+genetic pathogenic and likely pathogenic variant(s) that
+represent a plausible molecular cause for the development or
+progression of CKD.101–103 In some cases, identiﬁcation of
+actionable genes through genetic testing can impact the
+clinical management of people with CKD (Figure 9100).104,105
+The prevalence of genetic causes to CKD is expected to
+increase in future years through increased recognition.
+ArecentKDIGOControversiesConferencelistedthefollowing
+recommendations for when genetic testing can be particularly
+informative:(i)highprevalenceofmonogenicsubtypeswithinthe
+clinical category, (ii) early age of onset of CKD, (iii) syndromic/
+multisystem features, (iv) consanguinity, (v) possibility of iden-
+tifying a condition amenable to targeted treatment, and (vi) CKD/
+kidneyfailureofunknownetiologywhenkidneybiopsywouldnot
+be informative due to advanced disease.100
+The KDIGO Controversies Conference also highlighted
+the importance of an educated workforce with expertise in
+kidney genetics, genomics, and computational research for
+appropriate use and interpretation of these tests (Figure
+10100). Access to genetic counseling and medical genetics is
+important for psychosocial support, appropriate use of
+genetic testing, and to limit costs.102
+Most people with a new diagnosis of CKD and their
+healthcare providers would prefer to undertake evaluation for
+the underlying cause to ensure that the best possible care is
+provided. Although some people identiﬁed as having CKD
+may prefer not to undergo the (sometimes invasive) pro-
+cedures to evaluate cause, establishing cause enables the most
+appropriate management strategy to be implemented.
+Resources available for evaluation of cause will vary
+worldwide. People may not be able to pay for some diagnostic
+tests. Therefore, healthcare providers should tailor the eval-
+uation of cause based on these resource constraints (e.g.,
+urine protein reagent strip testing instead of ACR).
+Education on the value of establishing a diagnosis of CKD
+is critical. This can be done through local, national, and in-
+ternational kidney societies and within healthcare training
+programs (Chapter 5). Additional resources may be required
+to support wider scale implementation of diagnostic tests,
+especially genetic testing, availability of biopsies, and the
+support required for implementation.
+Identiﬁcation of cause is often achieved by standard clin-
+ical methods (i.e., history and examination), knowledge of the
+causes of CKD and their manifestations (i.e., level of GFR and
+speciﬁc marker of kidney damage such as hematuria, urine
+albumin, or cysts), together with specialized investigations
+(Figure 8). Not all evaluations of cause are required in all
+people. Information from the clinical context and initial
+tests may lead to further evaluations (Table 6), which are
+likely to be conducted as part of specialized kidney care
+services and dependent on resources (Chapter 5).
+Recommendation 1.1.4.1: We suggest performing a
+kidney biopsy as an acceptable, safe, diagnostic test
+to evaluate cause and guide treatment decisions
+when clinically appropriate (2D).
+This recommendation places a high value on an acceptable safety
+proﬁle of kidney biopsies when used to evaluate the cause of
+CKD and to plan appropriate treatment.
+Key information
+Balance of beneﬁts and harms. The beneﬁts of kidney bi-
+opsy in terms of diagnosis, prognosis, and planning appro-
+priate treatment for both the person with CKD and healthcare
+Physical
+exam
+Nephrotoxic
+medications
+Symptoms and signs
+of urinary tract
+abnormalities
+Symptoms and signs
+of systemic diseases
+Laboratory tests, imaging, and tissue sample, such as:
+• Urinalysis and urine sediment
+• Urine albumin-to-creatinine ratio
+• Serologic tests
+• Ultrasound
+• Kidney biopsy
+• Genetic testing
+Medical
+history
+Social and
+environmental
+history
+Obtain careful family history
+for possible genetic causes,
+including family pedigree for CKD
+Figure 8 | Evaluation of cause of chronic kidney disease (CKD).
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S173

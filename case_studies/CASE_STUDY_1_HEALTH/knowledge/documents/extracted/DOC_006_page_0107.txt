@@ -1,0 +1,47 @@
+9. Section 9: Review of Risk-Stratification in Primary Care 
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N P R I M A R Y
+C A R E
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N 
+P R I M A R Y C A R E 
+Risk stratification is the process of separating patient populations into high-risk, low-risk, and rising-risk 
+groups. Risk stratification in healthcare settings involves the division of patient panels (patients 
+attributed to a specific provider) into tiers or levels based on health and social factors to identify and 
+address potentially avoidable and expensive adverse health outcomes. Data andfactors utilized include, 
+e.g., medical diagnoses, age, healthcare costs, inpatient and emergency room utilization, prescriptions. 
+A key step in risk stratification is the identification of high-risk patients through these divisions and then 
+referring them to appropriate resources based on their risk levels. 
+Segmenting patient populations by risk using objective and subjective data to assign patients to risk 
+levels allows primary care teams to identify individuals with specific needs and effectively manage 
+patients with complex medical conditions and socioeconomic issues and/or challenges.[97] 
+There is a significant opportunity for unconscious and/or conscious bias to arise in this process. Health IT 
+Advisors will want to help practices think through these potential biases to ensure that some 
+populations are not unfairly treated or risk stratified in a way that may lead to poorer access to needed 
+resources. Also, it is important to acknowledge that biases in how data are recorded in the EHR may lead 
+to biases in risk stratification. 
+A Health IT Advisor will help providers and practice staff understand risk stratification, generate accurate 
+quality reports, and identify patients who require more coordinated care and more frequent visits. 
+9.1 
+Identification of High-Risk Patients 
+Data utilized to identify a patient’s risk include diagnosis,inpatient and emergency room utilization, 
+emergencyroomvisits,biometricdata (e.g.,bloodpressure,age),andtest results. Patientsvarywidelyinthe 
+number ofservices requiredbasedonmedical, behavioral,andsocialcomplexities.Risk stratificationassists 
+providers andsupport staffby assigning a numericor categorical(low,high,severe) riskleveltobetter 
+allocate limited resources,anticipateneeds,and more proactively manage their patientpopulations.[98] 
+SDOH, such as income or educational level, are also risk-stratification factors as they can affect 
+healthcare access and utilization. SDOH include the conditions in which people live, learn, work, and 
+play, which in turn affect a wide range of health and quality-of-life risks and health outcomes. 
+Depending on a clinic’s EHR and other health IT resources, a Health IT Advisor may be able to leverage 
+the EHR and available tools/instruments to help a clinic do the following, for example: 
+• 
+Obtain electronic notifications of inpatient and emergency visits and track the numbers of these 
+visits 
+• 
+Monitor the timeliness of a follow-up visit after hospitalization or an emergency-department 
+encounter and/or prompt the provision of follow-up care with, e.g., appointment reminders 
+• 
+Assist with workflows to receive data directly from acute care settings (such as lab results, chief 
+complaint, vital signs) 
+• 
+Capture and use SDOH data in EHRs in a standardized manner. 
+Health IT Advisor Handbook 
+Page 102

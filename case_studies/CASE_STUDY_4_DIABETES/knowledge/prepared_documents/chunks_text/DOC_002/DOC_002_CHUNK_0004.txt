@@ -1,0 +1,92 @@
+
+
+===== PDF PAGE 7 =====
+
+v
+Acknowledgements
+The World Health Organization (WHO) would like to thank the many individuals who contributed 
+to the development of this guidance document. 
+The preparation of this document was coordinated by Farshad Farzadfar, Bianca Hemmingsen, Arlene 
+Quiambao and Leanne Riley from the Department of Noncommunicable Diseases, Rehabilitation 
+and Disability, WHO. 
+The design and implementation of the systematic review and modified Delphi process were carried 
+out by a team of WHO staff and consultants including Dominika Bhatia, Farshad Farzadfar, Bianca 
+Hemmingsen, Mohammad-Reza Malekpour, Arlene Quiambao, Leanne Riley and Slim Slama 
+(Department of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland). Additionally, 
+Edward Gregg, Samira Jabakhanji, Steven James, Maisoon Mairghani and John McCaffrey from 
+the School of Population Health, RCSI University of Medicine and Health Sciences, Ireland were 
+involved in this effort.
+Additionally, the following WHO staff and consultants also contributed to the development of the 
+guidance: Kouamivi Agboyibor (Universal Health Coverage Communicable and Noncommunicable 
+Diseases Cluster, Regional Office for Africa, Congo), Abdulwahab Al-Nehmi (Country Office, Yemen), 
+Carmen Antini Irribarra (Department of Noncommunicable Diseases and Mental Health, Regional 
+Office for the Americas, United States of America), Armando Antonio (Universal Health Coverage 
+Communicable and Noncommunicable Diseases Cluster, Regional Office for Africa, Congo), Prebo 
+Barango (Universal Health Coverage Communicable and Noncommunicable Diseases Cluster, Regional 
+Office for Africa, Congo), Tsogzolmaa Bayandorj (Country Office, Solomon Islands), Lubna Bhatti 
+(Country Office, Indonesia), Fiona Bull (Department of Health Promotion, Switzerland), Roberta Caixeta 
+(Department of Noncommunicable Diseases and Mental Health, Regional Office for the Americas, 
+United States of America), Shelly Chadha (Department of Noncommunicable Diseases, Rehabilitation 
+and Disability, Switzerland), Sulia Celebi (Special Initiative on NCDs and Innovation, Regional Office 
+for Europe, Denmark), Li-ling Chen (Department of Noncommunicable Diseases, Rehabilitation and 
+Disability, Switzerland), Hong Anh Chu (Department of Data and Analytics, Switzerland), Alarcos 
+Cieza (Department of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), 
+Alison Commar (Department of Health Promotion, Switzerland), Melanie Cowan (Department of 
+Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), Dana Darwish (Country Office, 
+Jordan), Nadim Dawoud (WHO Office for West Bank and Gaza (oPt)), Wouter De Groote (Department 
+of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), Cheick Diallo (Universal 
+Health Coverage Communicable and Noncommunicable Diseases Cluster, Regional Office for Africa, 
+Congo), Rolando Enrique Domingo (Division of Programmes for Disease Control, Department of 
+Regional Office for the Western Pacific, Philippines), Farzana Dorin (Country Office, Bangladesh), 
+Hicham El Berri (Country Office, Sudan), James Elliott (Department of Noncommunicable Diseases, 
+Rehabilitation and Disability, Switzerland), Mai Eltigany (Department of Noncommunicable Diseases, 
+
+
+===== PDF PAGE 8 =====
+
+vi
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Rehabilitation and Disability, Switzerland), Katrin Engelhardt (Department of Nutrition and Food 
+Safety, Switzerland), Kaia Engesveen (Department of Nutrition and Food Safety, Switzerland), Bashier 
+Enoos (Department of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), Jill 
+Farrington (Special Initiative on NCDs and Innovation, Regional Office for Europe, Denmark), David 
+Flood (Department of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), Heba 
+Fouad (Department of Noncommunicable Diseases and Mental Health, Egypt), Nalika Gunawardena 
+(Department of Noncommunicable Diseases and Mental Health, Regional Office for South-East 
+Asia, India), Martyna Hogendorf (Department of Noncommunicable Diseases, Rehabilitation and 
+Disability, Switzerland), Swathi Bhargav Iyengar (Department of Health Product Policy and Standards, 
+Switzerland), Tomo Kanda (Division of Pacific Technical Support, Fiji), Laura Kann (Department of 
+Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), Pradeep Joshi, Stuart Keel 
+(Department of Noncommunicable Diseases and Mental Health, Regional Office for South-East Asia, 
+India), Kafi Lubis (Country Office, Indonesia), Aye Moe Moe Lwin (Country Office, Myanmar), Sanjana 
+Marpadga (Department of Noncommunicable Diseases, Rehabilitation and Disability, Switzerland), 
+Bente Mikkelsen (Department of Noncommunicable Diseases, Rehabilitation and Disability, 
+Switzerland), Elick Narayan (Division of Programmes for Disease Control, Department of Regional 
+Office for the Western Pacific, Philippines), Esther Njinembo (Department of Noncommunicable 
+Diseases, Rehabilitation and Disability, Switzerland), Kofi Nyarko (Universal Health Coverage 
+Communicable and Noncommunicable Diseases Cluster, Regional Office for Africa, Congo), Pedro 
+Ordunez, Farrukh Qureshi, Ivo Rakovac (Special Initiative on NCDs and Innovation, Regional Office 
+for Europe, Denmark), Patricia Rarau (Department of Noncommunicable Diseases, Rehabilitation 
+and Disability, Switzerland), Gojka Roglic (Department of Noncommunicable Diseases, Rehabilitation 
+and Disability, Switzerland), Olfa Saidi (Country Office, Tunis), Rauell John Santos (Country Office, 
+Philippines), Gretchen Stevens (Department of Noncommunicable Diseases, Rehabilitation and 
+Disability, Switzerland), Fatima Suleman (Department of Noncommunicable Diseases, Rehabilitation 
+and Disability, Switzerland), Douangkeo Thochongliachi (Country Office, Lao People’s Democratic 
+Republic), Josaia Tiko (Country Office, Papua New Guinea), Klara Tisocki (Department of Health 
+Product Policy and Standards, Switzerland), Cherian Varghese (Department of Noncommunicable 
+Diseases, Rehabilitation and Disability, Switzerland), Wendy Venter (Department of Data and 
+Analytics, Switzerland), Juana Willumsen and Hongyi Xu (Department of Noncommunicable Diseases, 
+Rehabilitation and Disability, Switzerland).
+WHO acknowledges the generous contribution of the following external experts: Mohammed Ali 
+(Emory University, United States of America), Ranjit Mohan Anjana (Madras Diabetes Research 
+Foundation, India), Felicia Anumah (University of Abuja, Nigeria), Goodarz Danaei (Harvard University, 
+United States of America), Justine Davies (University of Birmingham, United Kingdom of Great Britain 
+and Northern Ireland), Paula Andrea Diaz-Valencia (University of Antioquia, Colombia), Bruce Duncan 
+(Universidade Federal do Rio Grande do Sul, Brazil), Majid Ezzati (Imperial College London, United 
+Kingdom of Great Britain and Northern Ireland), Ibtihal Fadhil (Eastern Mediterranean NCD Alliance, 
+Kuwait), Leyden Florido (Philippine Association of Diabetes Educators, Philippines), Dismand Houinato 
+(Laboratoire d’Epidémiologie des Maladies Non Transmissibles, Benin), Khaleda Islam (Directorate 
+General of Health Services, Bangladesh), Bagher Larijani (Tehran University of Medical Sciences, Iran 
+(Islamic Republic of)), Molly Lepeska (Health Action International, Netherlands (Kingdom of the)), 
+Naomi Levitt (University of Cape Town, South Africa), Lee-Ling Lim (Universiti Malaya, Malaysia), 
+Jaana Lindström (Finnish Institute for Health and Welfare, THL, Finland), Dianna Magliano (Baker 

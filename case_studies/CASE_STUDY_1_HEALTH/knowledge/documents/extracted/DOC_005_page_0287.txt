@@ -1,0 +1,77 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+287
+Lexique
+Libellé
+Définition
+Accréditation 
+des médecins et 
+des équipes médicales 
+Méthode volontaire de gestion des risques fondée sur la déclaration d’événements indésirables associés 
+aux soins (EIAS) et l’amélioration de la qualité des soins et de la sécurité des patients. Elle permet aussi 
+de réaliser des actions d’évaluation et d’amélioration des pratiques et de formation.
+Antibioprophylaxie 
+(ou antibiothérapie 
+préventive) 
+Vise à réduire le risque d’infection bactérienne chez un patient donné. Elle peut être utile après une exposition 
+à un pathogène (infections invasives à méningocoque, coqueluche, etc.), avant ou pendant une chirurgie, 
+après une infection pour en éviter la récidive, ou chez des patients particuliers, à risque élevé d’infection 
+bactérienne (en hématologie notamment). Elle sera d’autant plus pertinente et efficace que l’agent pathogène 
+ciblé est unique (permettant l’utilisation d’antibiotique à spectre étroit), que l’exposition est limitée dans 
+le temps, que la maladie est potentiellement grave et que l’antibiotique est facile à utiliser et bien toléré.
+Amélioration continue
+Activité régulière permettant d’accroître la capacité à satisfaire aux exigences. Le processus de définition 
+des objectifs et de recherche d’opportunités d’amélioration est un processus permanent utilisant les 
+constatations d’audit et les conclusions d’audit, l’analyse des données, les revues de direction ou d’autres 
+moyens, et qui mène généralement à des actions correctives ou préventives.
+Amélioration de la qualité 
+Partie du management de la qualité axée sur l’accroissement de la capacité à satisfaire les exigences 
+pour la qualité.
+Analyse pharmaceutique 
+L’analyse pharmaceutique de l’ordonnance ou l’analyse pharmaceutique liée à une demande de médicament 
+à prescription médicale facultative fait partie intégrante de l’acte de dispensation et permet la vérification 
+des posologies, des doses, des durées de traitement, du mode et des rythmes d’administration, de l’absence 
+de contre-indications, d’interactions et de redondances médicamenteuses.
+Assistant de régulation 
+médicale
+Assure la réception des appels reçus par les SAMU-Centres 15, contribue sur décision médicale 
+au traitement optimal des demandes et participe à la gestion des moyens, au suivi des appels et 
+des interventions, au quotidien, en situation dégradée et en situation sanitaire exceptionnelle.
+Audit système
+Méthode consistant à investiguer l’organisation d’un processus pour s’assurer de sa maitrise et de sa capacité 
+à atteindre les objectifs. 
+Aval des urgences 
+Prise en charge par un ou des service(s) clinique (s) des patients en provenance d’un service d’urgence.
+Besoin journalier 
+minimum en lits (BJML)
+Permet d’anticiper le nombre de lits d’aval nécessaires a minima chaque semaine par analyse des résumés 
+de passage aux urgences (RPU) des 7 dernières années. Sans être prédictive, cette valeur donne 
+un minimum de lits d’aval nécessaires pour lequel le risque de surréservation est faible du point de vue 
+du chef d’établissement.
+Bientraitance
+Culture inspirant les actions individuelles et les relations collectives au sein d’un établissement ou d’un 
+service. Elle vise à promouvoir le bien-être de l’usager en gardant présent à l’esprit le risque de maltraitance.
+Bonnes pratiques 
+de précautions 
+complémentaires contact 
+Indicateur évaluant la conformité traçable des pratiques de précautions complémentaires contact mises en 
+œuvre chez les patients porteurs ou infectés par une entérobactérie productrice de beta-lactamase à spectre 
+étendu (EBLSE), bactérie hautement résistante émergente (BHRE), staphylococcus aureus résistant à 
+la méticilline (SARM), le clostridium difficile ou la gale.
+Confidentialité 
+Toute personne prise en charge par un professionnel de santé, un établissement ou service, un professionnel 
+ou organisme concourant à la prévention ou aux soins a droit au respect de sa vie privée et du secret 
+des informations la concernant.
+Excepté dans les cas de dérogation expressément prévus par la loi, ce secret couvre l’ensemble des 
+informations concernant la personne venue à la connaissance du professionnel, de tout membre du personnel 
+de ces établissements, services ou organismes et de toute autre personne en relation, de par ses activités, 
+avec ces établissements ou organismes. Il s’impose à tous les professionnels intervenant dans le système 
+de santé.
+Consentement éclairé
+Toute personne prend, avec le professionnel de santé et compte tenu des informations et des préconisations 
+qu’il lui fournit, les décisions concernant sa santé.
+Toute personne a le droit de refuser ou de ne pas recevoir un traitement. Le suivi du malade reste cependant 
+assuré par le médecin, notamment son accompagnement palliatif.
+Le médecin a l’obligation de respecter la volonté de la personne après l’avoir informée des conséquences 
+de ses choix et de leur gravité. Si, par sa volonté de refuser ou d’interrompre tout traitement, la personne 
+met sa vie en danger, elle doit réitérer sa décision dans un délai raisonnable. Elle peut faire appel à un autre 
+membre du corps médical. L’ensemble de la procédure est inscrite dans le dossier médical du patient.

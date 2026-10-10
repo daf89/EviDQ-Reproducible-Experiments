@@ -1,0 +1,48 @@
+Practice Point 3.3.2.1: Dietary sodium restriction is usually not appropriate for patients with sodium-wasting nephropathy
+Special considerations
+Pediatric considerations.
+Practice Point 3.3.2.2: Follow age-based Recommended Daily Intake when counseling about sodium intake for children with
+CKD who have systolic and/or diastolic blood pressure >90th percentile for age, sex, and height.
+3.4 Blood pressure control
+The Work Group concurs with the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic
+Kidney Disease, which encourages individualized BP targets and the use of agents according to age, coexistent CVD, and other
+comorbidities; risk of progression of CKD; and tolerance to treatments.21 We highlight the following guidance:
+Recommendation 3.4.1: We suggest that adults with high BP and CKD be treated with a target systolic blood pressure
+(SBP) of <120 mm Hg, when tolerated, using standardized ofﬁce BP measurement (2B).
+Practice Point 3.4.1: Consider less intensive BP-lowering therapy in people with frailty, high risk of falls and fractures,
+very limited life expectancy, or symptomatic postural hypotension.
+Special considerations
+Pediatric considerations.
+The Work Group concurs with the KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic
+Kidney Disease, and we highlight the following guidance21:
+Recommendation 3.4.2: We suggest that in children with CKD, 24-hour mean arterial pressure (MAP) by
+ambulatory blood pressure monitoring (ABPM) should be lowered to £50th percentile
+for age, sex, and height (2C).
+Practice Point 3.4.2: Monitor BP once a year with ABPM and every 3–6 months with standardized auscultatory ofﬁce
+BP in children with CKD.
+Practice Point 3.4.3: In children with CKD, when ABPM is not available, it is reasonable to target manual auscultatory
+ofﬁce SBP, obtained in a protocol-driven standardized setting, of 50th–75th percentile for age, sex, and
+height unless achieving this target is limited by signs or symptoms of hypotension.
+3.5 Glycemic control
+Please refer to the KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease for speciﬁc
+recommendations, practice points, and research recommendations.
+3.6 Renin-angiotensin system inhibitors
+The Work Group highlights recommendations from the KDIGO 2021 Clinical Practice Guideline for the Management of Blood
+Pressure in Chronic Kidney Disease and selected practice points for treatment with RASi from the KDIGO 2021 Clinical
+Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease21 and the KDIGO 2022 Clinical
+Practice Guideline for Diabetes Management in Chronic Kidney Disease.23 The Work Group considers several
+recommendations to apply even in the absence of high BP and has adapted the recommendations from the BP guideline to
+remove this requirement. Key recommendations and practice points are highlighted:
+Recommendation 3.6.1: We recommend starting renin-angiotensin-system inhibitors (RASi) (angiotensin-con-
+verting enzyme inhibitor [ACEi] or angiotensin II receptor blocker [ARB]) for people
+with CKD and severely increased albuminuria (G1–G4, A3) without diabetes (1B).
+Recommendation 3.6.2: We suggest starting RASi (ACEi or ARB) for people with CKD and moderately increased
+albuminuria (G1–G4, A2) without diabetes (2C).
+Recommendation 3.6.3: We recommend starting RASi (ACEi or ARB) for people with CKD and moderately-to-
+severely increased albuminuria (G1–G4, A2 and A3) with diabetes (1B).
+Recommendation 3.6.4: We recommend avoiding any combination of ACEi, ARB, and direct renin inhibitor
+(DRI) therapy in people with CKD, with or without diabetes (1B).
+summary of recommendation statements and practice points
+www.kidney-international.org
+S158
+Kidney International (2024) 105 (Suppl 4S), S117–S314

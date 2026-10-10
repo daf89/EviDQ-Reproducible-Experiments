@@ -1,0 +1,37 @@
+3.16 CKD and atrial ﬁbrillation
+Practice Point 3.16.1: Follow established strategies for the diagnosis and management of atrial ﬁbrillation (Figure 40).
+Recommendation 3.16.1: We recommend use of non–vitamin K antagonist oral anticoagulants (NOACs) in
+preference to vitamin K antagonists (e.g., warfarin) for thromboprophylaxis in atrial
+ﬁbrillation in people with CKD G1–G4 (1C).
+Practice Point 3.16.2: NOAC dose adjustment for GFR is required, with caution needed at CKD G4–G5.
+Practice Point 3.16.3: Duration of NOAC discontinuation before elective procedures needs to consider procedural bleeding
+risk, NOAC prescribed, and level of GFR (Figure 44).
+ Step 1
+Diagnosis
+• In people with CKD, use opportunistic pulse-based screening (e.g., taking at when measuring BP), followed by a
+ wearable device or Holter ECG testing
+Step 2
+Prophylaxis against
+stroke and systemic
+thromboembolism
+ (they are likely to have an increased CHA2DS2-VASc risk factor for stroke and are at high risk even with a score of 0–1)
+ managed (e.g., alcohol advice, use of a proton pump inhibitor) 
+Step 3
+Rate/rhythm control
+†
+• Use medical therapy (e.g., beta blockade) to control ventricular rate to less than about 90 bpm at rest to decrease
+ symptoms and related complications
+• For people with persistent symptoms despite adequate rate control, consider rhythm control with cardioversion,
+ antiarrhythmic therapy and/or catheter ablation 
+Figure 40 | Strategies for the diagnosis and management of atrial ﬁbrillation. *Consider dose adjustments necessary in people with
+chronic kidney disease (CKD). †The following has been recommended as a standard package for diagnostic evaluation of new atrial ﬁbrillation:
+(i) a 12-lead electrocardiogram (ECG) to establish the diagnosis, assess ventricular rate, and check for the presence of conduction defects,
+ischemia, or structural heart disease; (ii) laboratory testing for thyroid and kidney function, serum electrolytes, and full blood count; and (iii)
+transthoracic echocardiography to assess left ventricular size and function, left atrial size, for valvular disease, and right heart size and function.
+BP, blood pressure; CHA2DS2-VASc, Congestive heart failure, Hypertension, Age $75 (doubled), Diabetes, Stroke (doubled), Vascular disease,
+Age 65 to 74, and Sex category (female); HAS-BLED, Hypertension, Abnormal liver/kidney function, Stroke history, Bleeding history or
+predisposition, Labile international normalized ratio (INR), Elderly, Drug/alcohol usage.
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S163

@@ -1,0 +1,115 @@
+high-intensity interval training elicits comparable BP reductions to mod-
+erate continuous exercise, with high-intensity interval training achieving 
+greater improvement in physical fitness.386 
+In patients with known hypertension, engaging in physical activity is 
+associated with reduced CVD mortality risk vs. sedentary patients 
+with hypertension.387 
+An exaggerated BP response to exercise may yield diagnostic merits for 
+predicting incident hypertension and CVD. In a meta-analysis, an exagger-
+ated BP response to exercise was associated with an increased risk for 
+masked hypertension.388 The risk of coronary heart disease also increases 
+with higher systolic BP during exercise, independent of systolic BP at rest.389 
+Prior recommendations for at least 150 min/week of moderate inten-
+sity aerobic exercise (≥30 min, 5–7 days/week) can be maintained.1,390 
+Alternatively, 75 min of vigorous-intensity exercise per week over 3 days 
+may be performed, with additional benefits derived by achieving 300 min 
+of moderate-intensity or 150 min of vigorous-intensity aerobic physical 
+activity per week.390,391 As acute aerobic exercise induces intensity- 
+dependent short-term reductions in ambulatory BP after exercise, patients 
+with elevated BP and hypertension may benefit from daily exercise to im-
+prove their 24 h BP profile and avoid BP peaks on sedentary days.392 
+Aerobic exercise should be complemented by low- or moderate-intensity 
+resistance training (2–3 times per week), e.g. dynamic resistance, starting at 
+2–3 sets of 10–15 repetitions at 40%–60% of one-repetition maximum393 
+or isometric resistance training with three sets of 1–2 min contractions, 
+such as hand-grip, plank, or wall sit (Figure 16).381,394 
+In uncontrolled hypertension at rest, high-intensity exercise should 
+be applied with caution, with resting systolic BP of >200 mmHg and dia-
+stolic BP of >110 mmHg indicating relative contraindications.395 Age, 
+sex, gender,396 ethnicity, and comorbidities, as well as individual prefer-
+ences, should be considered for individual exercise prescription. 
+Detailed information on exercise prescription in terms of frequency, in-
+tensity, time (duration) and type and progression are available in the 
+2020 ESC Guidelines on sports cardiology and exercise in patients 
+with cardiovascular disease,390 which include recommendations for 
+pre-participation screening and cardiopulmonary exercise testing.390 
+8.2.3. Weight reduction and diet 
+Visceral obesity is common and associated with incident hyperten-
+sion.397,398 An average weight loss of 5 kg has been associated with 
+an average systolic and diastolic BP reduction of 4.4 and 3.6 mmHg, re-
+spectively.399 Data show that, starting at an index body mass index 
+(BMI) of 40 kg/m2, a median weight loss of 13% is associated with a 
+22% lower risk for hypertension.400,401 Maintaining even moderate 
+weight loss of 5%–10% of initial body weight can improve not only 
+BP, but also glucose and lipid metabolism, and potentially reduce pre-
+mature all-cause mortality.402–404 However, achieving long-term effects 
+in patients with hypertension via weight loss is challenging and the mag-
+nitude of these effects remains unclear.405,406 Weight stabilization dur-
+ing middle-age appears to be an important and attainable goal to 
+prevent obesity-related increase in BP later in life.407 
+Evidence-based diets, such as the Mediterranean diet and the Dietary 
+Approaches to Stop Hypertension (DASH) diet, are established inter-
+ventions in patients with hypertension to reduce their BP and CVD 
+risk.408,409 Additional information on healthy dietary patterns is pro-
+vided in the 2021 ESC Guidelines on cardiovascular disease prevention 
+in clinical practice and Supplementary data online.170 
+In combination with weight-loss and exercise interventions410 and 
+low sodium intake,411 the DASH diet has added effect on BP reduc-
+tion.412 Pharmacological treatment of obesity with orlistat achieved a 
+slight reduction of 2.6 mmHg in systolic BP.413 The greatest 
+BP-lowering effects of weight-loss medications may be achieved with 
+the glucagon-like peptide 1 (GLP-1) receptor agonists.414–416 For ex-
+ample, in the Semaglutide Treatment Effect in People with Obesity 
+(STEP-1) trial, the GLP-1 analogue semaglutide resulted in a mean 
+weight reduction of 12.4% and a 5.1 mmHg reduction in systolic BP.415 
+8.2.4. Alcohol, coffee, and soft drinks 
+In a 2020 Cochrane review, the short-term effects of alcohol on BP were 
+dose dependent; low-dose alcohol (<14 g) did not affect BP within 6 h, 
+medium-dose (14–28 g) decreased both systolic and diastolic BP, and high- 
+dose alcohol (>30 g) first decreased BP up to 12 h and then increased BP 
+following >13 h of consumption by 3.7 mmHg systolic and 2.4 mmHg dia-
+stolic.417 The trials in this Cochrane review included small numbers of wo-
+men. In the longer term, no evidence has been found for a protective effect 
+of chronic alcohol consumption on hypertension, for either sex. In con-
+trast, even low-dose alcohol consumption (10 g/day) increases chronic 
+risk of hypertension by 14% in men, but not in women.418 As per the 
+2021 ESC Guidelines on cardiovascular disease prevention in clinical prac-
+tice, men and women are recommended to stay within the upper limit of 
+drinking alcoholic beverages (100 g/week of pure alcohol). Defining num-
+ber of drinks depends on portion size, the standards of which differ per 
+country, but translates to 8–14 g/drink.170 Emerging data indicate it is likely 
+healthiest to avoid all alcohol, where possible.419 
+Coffee intake is not associated with a higher risk of hypertension in 
+the general population; in fact, higher coffee consumption may be asso-
+ciated with a lower risk for incident hypertension.420 Data regarding the 
+association between tea drinking and CVD are inconclusive, though 
+mechanistic trials have suggested benefits on BP lowering.421 In con-
+trast, energy drinks with high concentrations of ingredients such as 
+taurine and caffeine increase BP and may lead to acute or chronic car-
+diovascular complications in young adults.422–424 
+Consuming two or more servings per day of sugar-sweetened bev-
+erages was associated with a 35% higher risk of coronary artery disease 
+in women in the Nurses’ Health Study.425 In the European Prospective 
+Investigation into Cancer and Nutrition (EPIC) cohort, both sugar- and 
+artificially sweetened soft drinks were associated with higher all-cause 
+mortality.426 In children and adolescents, sugar-sweetened beverages 
+increased systolic BP and the risk for incident hypertension.427 It is re-
+commended to restrict free sugar consumption, in particular 
+sugar-sweetened beverages, to a maximum of 10% of energy intake. 
+8.2.5. Smoking 
+To stop smoking is arguably the most effective measure in preventing 
+major CVD events at the individual level, likely through improved vas-
+cular health.428–431 Estimated health benefits will be even more sub-
+stantial looking at all-cause morbidity and mortality, e.g. including 
+smoking cessation for cancer prevention. 
+The effects of electronic cigarettes (e-cigarettes) on BP remain un-
+clear and to date there are no robust outcomes data. However, grow-
+ing evidence suggests that e-cigarettes can increase BP (see 
+Supplementary data online).432,433 
+Among adults, smoking affects ambulatory BP by raising daily BP,434 but 
+effects of chronic smoking on office BP appear to be small.435 Smoking ces-
+sation advice helps, but more intensive interventions are superior.436,437 As 
+recommended by previous ESC Guidelines, smoking cessation is recom-
+mended to reduce CVD risk and improve non-CVD health.1,170 
+ESC Guidelines 3957 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

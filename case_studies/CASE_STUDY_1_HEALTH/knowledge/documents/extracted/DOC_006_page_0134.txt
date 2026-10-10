@@ -1,0 +1,48 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+provide one of these solutions on their servers, which is also a great, secure, option. No matter what, 
+when working with sensitive data on our personal computers, it is important to keep in mind that we 
+are taking on a much higher level of securityresponsibility and vulnerability to cyber-attacks. Our 
+computers need extra protection, and we need additional training. User behavior is the number one 
+reason why sensitive data are compromised. Consult with your IT department and let them know that 
+you plan to store sensitive data on your computer prior to doing so. If you plan to develop on a laptop or 
+portable device, we suggest that you implement “full disk encryption.” With full disk encryption 
+enabled, if your laptop is lost or stolen, the contents of your hard drive remain secure. We will not go 
+into detail on how to set this up, so contact your IT department to learn more. When you are finished 
+developing a data visualization, the next step is to share it. Be aware that some solutions make the 
+underlying data accessible to the viewer. For example, if you share a Tableau Workbook, even if data 
+being presented are aggregate and de-identified, the data source containing row level (patient level?) 
+data is accessible. We will go into more detail on this and other considerations such as small cell sizes 
+later. 
+Costs 
+The costs of software licensing can vary wildly depending on the specific situation. For example, if the 
+organization currently supports an Office 365 environment, Power BI is currently available as part of the 
+Office 365 Enterprise E5 version. If the organization does not have E5, it is available as a stand-alone 
+cloud-based software as a service (SaaS). If the organization currently contracts with SAS, SAS VA may 
+already be available (SAS VA is included with SAS Viya). The same goes for Tableau Enterprise. Your 
+organization may already be using one of these solutions for internal reporting, which may provide the 
+most cost-effective path for your project. Tableau Desktop is free if the intent is to publish to Tableau 
+Public, however, given the sensitivity of the Health IT Advisor’s work, this is typically not an option. 
+Tableau does not allow the user to save any data locally in the free version, only to the Tableau public 
+server. Most likely clinic-based reporting will need to be hosted on a solution paid for by the 
+organization. 
+Please note, if hosted with a 3rd party vendor such as a cloud-based hosting solution, most organizations 
+require a BAA to set expectations for liability associated with HIPAA. 
+Once you have identified which solutions, if any, most closely align with your organization’s existing 
+infrastructure, you will need to determine if you can handle the work or if you need to identify a 
+developer. Most larger organizations have in-house business/data analytics teams that can help. This 
+would likely be the most cost-effective route. If your organization does not provide this service, there 
+are plenty of 3rd party contractors available. Just doa searchon the most popular job community 
+websites such as (e.g., Linked-In, Indeed, or Upwork) for your intended solution. For example, “Tableau 
+Developer” or “Power-BI developer.” At the time of this writing, you can expect to pay between $100
+$175 per hour for an experienced developer that has prior experience designing visualizations with 
+health data. 
+Keep it Simple 
+In general, many of these solutions provide default color schemes and default visualization options such 
+as traditional/stacked/groupedbar charts, (multiple)line graphs, andpre-defined axis title and tooltip 
+locations. If possible, stick with the defaults as this will simplify development and allow the developer to 
+focus on what matters most. Do not underestimate the amount of effort it takes to customize these 
+Health IT Advisor Handbook 
+Page 129

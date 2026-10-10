@@ -1,0 +1,5 @@
+﻿rule_id,knowledge_source,feature,dq_problem,rule_expression
+R_DOC_001,DOCUMENT,Age,MISSING_VALUE,"IF feature == ""Age"" AND dq_problem == ""MISSING_VALUE"" AND is_missing(Age) == TRUE THEN Valid = 2 AND EXCLUDE_FROM_ANALYSIS"
+R_STAT_001,STATISTICAL,Age,MISSING_VALUE,"IF feature == ""Age"" AND dq_problem == ""MISSING_VALUE"" AND is_missing(Age) == TRUE THEN IMPUTE Age USING MEDIAN"
+R_STAT_002,STATISTICAL,Age,MISSING_VALUE,"IF feature == ""Age"" AND dq_problem == ""MISSING_VALUE"" AND is_missing(Age) == TRUE THEN IMPUTE Age USING KNN"
+R_STAT_003,STATISTICAL,Age,MISSING_VALUE,"IF feature == ""Age"" AND dq_problem == ""MISSING_VALUE"" AND is_missing(Age) == TRUE THEN IMPUTE Age USING ITERATIVE"

@@ -1,0 +1,245 @@
+
+
+===== PDF PAGE 275 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-11 
+ 
+ 
+ 
+CORE: Physical Activity, Continued 
+Question 
+Response 
+Code 
+How much time do you spend walking or bicycling for travel on a typical 
+day? 
+Ask the participant to think of a typical day he/she can recall easily in which 
+he/she engaged in transport-related activities. The participant should only 
+consider those activities Probe very high responses (over 4 hrs) to verify. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P9 
+(a-b) 
+Recreational activities 
+The next questions exclude the work and transport activities that you have already mentioned. 
+Now I would like to ask you about sports, fitness and recreational activities (leisure) [Insert relevant terms]. 
+This introductory statement directs the participant to think about recreational activities. This can also be called discretionary or leisure time. It includes sports 
+and exercise but is not limited to participation in competitions. Activities reported should be done regularly and not just occasionally. It is important to focus on 
+only recreational activities and not to include any activities already mentioned. This statement should not be omitted. 
+Do you do any vigorous-intensity sports, fitness or recreational (leisure) 
+activities that cause large increases in breathing or heart rate like [running 
+or football]? 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+Ask the participant to think about recreational vigorous-intensity activities 
+only. Activities are regarded as vigorous intensity if they cause large 
+increases in breathing and/or heart rate. 
+Yes 
+No 
+1 
+2 
+If No, go to P 13 
+P10 
+In a typical week, on how many days do you do vigorous-intensity sports, 
+fitness or recreational (leisure) activities? 
+“Typical week” means a week when the participant is engaged in his/her 
+usual activities. Valid responses range from 1-7. 
+Number of days 
+└─┘ 
+P11 
+How much time do you spend doing vigorous-intensity sports, fitness or 
+recreational activities on a typical day? 
+Ask the participant to think of a typical day he/she can recall easily in which 
+he/she engaged in recreational vigorous-intensity activities. The participant 
+should only consider those activities undertaken. Probe very high 
+responses (over 4 hrs) to verify. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P12 
+(a-b) 
+Do you do any moderate-intensity sports, fitness or recreational (leisure) 
+activities that cause a small increase in breathing or heart rate such as 
+brisk walking, [cycling, swimming, volleyball]? 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+Ask the participant to think about recreational moderate-intensity activities 
+only. Activities are regarded as moderate intensity if they cause small 
+increases in breathing and/or heart rate. 
+Yes 
+No 
+1 
+2 
+If No, go to P16 
+P13 
+In a typical week, on how many days do you do moderate-intensity sports, 
+fitness or recreational (leisure) activities? 
+“Typical week” means a week when the participant is engaged in his/her 
+usual activities. Valid responses range from 1-7. 
+Number of days 
+└─┘ 
+P14 
+How much time do you spend doing moderate-intensity sports, fitness or 
+recreational (leisure) activities on a typical day? 
+Ask the participant to think of a typical day he/she can recall easily in which 
+he/she engaged in recreational moderate-intensity activities. The participant 
+should only consider those activities undertaken. Probe very high 
+responses (over 4 hrs) to verify. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P15 
+(a-b) 
+ 
+EXPANDED: Physical Activity 
+Sedentary behaviour 
+The following question is about sitting or reclining at work, at home, getting to and from places, or with friends including time spent sitting at a 
+desk, sitting with friends, traveling in car, bus, train, reading, playing cards or watching television, but do not include time spent sleeping. 
+[INSERT EXAMPLES] (USE SHOWCARD) 
+How much time do you usually spend sitting or reclining on a typical 
+day? 
+Ask the participant to consider total time spent sitting at work, in an 
+office, reading, watching television, using a computer, doing hand craft 
+like knitting, resting etc. The participant should not include time spent 
+sleeping. 
+Hours : minutes 
+└─┴─┘: └─┴─┘ 
+hrs 
+mins 
+P16 
+(a-b) 
+
+
+===== PDF PAGE 276 =====
+
+Participant Identification Number 
+└─┴─┴─┘└─┴─┴─┘└─┴─┴─┘ 
+WHO STEPwise approach to surveillance- Q-by-Q Guide v.3.2
+5-2-12 
+ 
+ 
+ 
+CORE: History of Raised Blood Pressure 
+Question 
+Response 
+Code 
+Have you ever had your blood pressure measured by a doctor 
+Yes 
+No 
+1 
+2 
+or other health worker? 
+Ask the participant to only consider measurements done by a 
+doctor or other health worker. 
+If No, go to H6 
+H1 
+Have you ever been told by a doctor or other health worker that 
+you have raised blood pressure or hypertension? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+If No, go to H6 
+H2a 
+Were you first told in the past 12 months? 
+Only for those that have previously been diagnosed with raised 
+blood pressure. 
+Yes 
+No 
+1 
+2 
+H2b 
+In the past two weeks, have you taken any drugs (medication) 
+Yes 
+No 
+1 
+2 
+for raised blood pressure prescribed by a doctor or other health 
+worker? 
+H3 
+Ask the participant to only consider drugs for raised blood 
+pressure prescribed by a doctor or other health worker. 
+Have you ever seen a traditional healer for raised blood 
+pressure or hypertension? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H4 
+Are you currently taking any herbal or traditional remedy for your 
+raised blood pressure? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H5 
+ 
+CORE: History of Diabetes 
+Have you ever had your blood sugar measured by a doctor or 
+other health worker? 
+Ask the participant to only consider measurements done by a 
+doctor or other health worker. 
+Yes 
+No 
+1 
+2 
+If No, go to H12 
+H6 
+Have you ever been told by a doctor or other health worker that 
+you have raised blood sugar or diabetes? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+If No, go to H12 
+H7a 
+Were you first told in the past 12 months? 
+Only for those that have previously been diagnosed with 
+diabetes. 
+Yes 
+No 
+1 
+2 
+H7b 
+In the past two weeks, have you taken any drugs (medication) 
+for diabetes prescribed by a doctor or other health worker? 
+Ask the participant to only consider drugs for diabetes 
+prescribed by a doctor or other health worker. 
+Yes 
+No 
+1 
+2 
+H8 
+Are you currently taking insulin for diabetes prescribed by a 
+doctor or other health worker? 
+Ask the participant to only consider insulin that was prescribed 
+by a doctor or other health worker. 
+Yes 
+No 
+1 
+2 
+H9 
+Have you ever seen a traditional healer for diabetes or raised 
+blood sugar? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H10 
+Are you currently taking any herbal or traditional remedy for your 
+diabetes? 
+Select the appropriate response. 
+Yes 
+No 
+1 
+2 
+H11 

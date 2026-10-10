@@ -1,0 +1,89 @@
+Patient with elevated BPa
+office SBP 120–139 mmHg or
+DBP 70–89 mmHg
+Y
+Established CVD,
+moderate/severe CKD,
+HMOD, DM, or FH
+(Class I)
+N
+Calculate 
+SCORE2 or SCORE2-OP
+(Class I)
+Patient with
+T2DM (only)
+and
+<60 years old
+10-year predicted CVD risk
+Any of the following:
+Gestational diabetes
+Gestational hypertension
+Pre-eclampsia
+Pre-term delivery
+One or more still births
+Recurrent miscarriage
+N
+Consider shared risk modifiers
+(Class IIa)
+Any of the following:
+High-risk ethnicity
+Family history of premature
+onset ASCVD
+Socio-economic deprivation
+Auto-immune diseases
+Severe mental illness
+HIV
+N
+If still uncertain, shared
+decision-making informed by risk tools
+(Class IIb)
+Any of the following meeting
+abnormal criteria:
+CAC score
+Carotid or femoral plaque
+High-sensitivity cardiac troponin
+NT-proBNP
+Pulse wave velocity
+Lifestyle measures
+to reduce BP
+(Class I)
+Reassess risk/BP
+one year later
+(Class IIa)
+N
+Lifestyle measures
+to reduce BP
+(Class I)
+After 3 months of lifestyle
+measures, pharmacological
+treatment for patients with
+≥130/80 mmHg 
+(Class I)
+Y
+N
+Y
+Y
+Calculate
+SCORE2- Diabetes
+(Class IIa)
+Y
+ <5%
+5% – <10%
+≥10% 
+Consider sex-specific risk modifiers
+(Class IIa)
+aExercise caution when considering
+treating persons with elevated
+BP and;
+Moderate-to-severe frailty
+Symptomatic orthostatic
+hypotension
+Age ≥85 years
+Figure 9 Summary of cardiovascular disease risk-stratification approach for blood pressure treatment in adults with elevated blood pressure. ASCVD, 
+atherosclerotic cardiovascular disease; BP, blood pressure; CAC, coronary artery calcium; CKD, chronic kidney disease; CVD, cardiovascular disease; 
+DBP, diastolic blood pressure; DM, diabetes mellitus; FH, familial hypercholesterolaemia; HMOD, hypertension-mediated organ damage; NT-proBNP, 
+N-terminal pro-brain natriuretic peptide; SBP, systolic blood pressure; SCORE2, Systematic COronary Risk Evaluation 2; SCORE2-OP, Systematic 
+COronary Risk Evaluation 2–Older Persons. 
+3942 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

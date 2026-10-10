@@ -1,0 +1,57 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+2.7 
+Obtaining EHR support for Quality Improvement Projects 
+Health IT Advisors will encounter a wide range of EHR vendors, products, and versions when working 
+with clinics. While this handbook emphasizes common themes, no individual can be an expert on every 
+EHR. In this section, we provide tips on where to turn for support. 
+In most cases, the type of support required will determine whether an experienced colleague on the 
+quality team, local experts within the clinic, or direct contact with the EHR vendor (with a representative 
+of the clinic present) is needed to address a question or issue. Below are some common areas where 
+EHR support may be needed: 
+• 
+Education and training 
+• 
+Custom reports and programming 
+• 
+Population health reporting 
+• 
+Peer group support 
+• 
+Clinical decision support 
+• 
+Best practices 
+• 
+Design and configuration options 
+• 
+IT and communications infrastructure 
+• 
+Clinical content 
+• 
+Security and compliance 
+• 
+Troubleshooting and bug fixes 
+• 
+Health information exchange and 
+• 
+Enhancement requests 
+interoperability 
+The EHR support most accessible to a Health IT Advisor will be the quality team assigned to the project. 
+Often, another Health IT Advisor will have run into a given situation or have previous experience with a 
+specific EHR product. 
+The second-best resource is the clinic’s internalEHR support. Inmany small practices this might be a 
+medical assistant trainedas a “super-user” or a tech-savvy clinician. In larger organizations there may be 
+dedicated IT support that can help with EHR or data questions. Be sure to get approval before 
+approaching clinic staff outside of the project team. Going outside of the official contacts for the clinic, 
+even with the best intentions, may damage relationships. 
+The last line of support will be the EHR vendor. Health IT Advisors will rarely have direct access to a 
+vendor’s help desk or online support tools unless working for the clinic or having access through their 
+own organizations. 
+EXAMPLE: 
+Your team has a great idea for a quality intervention that uses the EHR’s CDS capabilities to 
+generate an alert that blocks providers from ending a visit without asking about smoking. It is 
+tempting to ask IT directly whether this alert is feasible and how long it would take to 
+implement but doing this runs the risk of damaging your relationships. 
+Health IT Advisor Handbook 
+Page 51

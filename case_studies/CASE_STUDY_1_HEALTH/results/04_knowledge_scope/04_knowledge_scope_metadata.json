@@ -1,0 +1,57 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_04_KNOWLEDGE_SCOPE_PREPARATION",
+    "global_phase": "PHASE_02_KNOWLEDGE",
+    "timestamp": "2026-09-17T17:15:12.142644",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "unchanged": true
+    },
+    "selection_origin": {
+        "method": "GLOBAL_MEAN_ABSOLUTE_SHAP",
+        "threshold": 0.8,
+        "final_cumulative_importance": 0.8066961952959217,
+        "selected_feature_count": 12
+    },
+    "dictionary": {
+        "filename": "data_dictionary.md",
+        "sha256": "8586f11656ef3217bf492ae87d1cb69b5377d1c81c04c5b8b9bfc941c9232882",
+        "features_found": 12,
+        "features_not_found": 0
+    },
+    "selected_features": [
+        "gagne_sum_tm1",
+        "cost_op_specialists_tm1",
+        "cost_laboratory_tm1",
+        "cost_ip_medical_tm1",
+        "cost_other_tm1",
+        "cost_op_surgery_tm1",
+        "dem_age_band_65-74_tm1",
+        "cost_pharmacy_tm1",
+        "cre_tests_tm1",
+        "cost_emergency_tm1",
+        "dem_age_band_75+_tm1",
+        "cost_home_health_tm1"
+    ],
+    "knowledge_sources_planned": [
+        "DOCUMENT",
+        "EXPERT",
+        "STATISTICAL"
+    ],
+    "principles": {
+        "source_priority": false,
+        "statistical_anomaly_means_error": false,
+        "automatic_correction": false,
+        "dictionary_is_correction_source": false
+    },
+    "safety": {
+        "dataset_modified": false,
+        "documents_official_read": false,
+        "rag_used": false,
+        "knowledge_base_created": false,
+        "error_confirmed": false,
+        "error_injected": false,
+        "correction_applied": false
+    }
+}

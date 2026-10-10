@@ -1,0 +1,82 @@
+
+
+===== PDF PAGE 27 =====
+
+Application of the Guidance on global monitoring for diabetes prevention and control in countries  ﻿
+15
+Setting baseline values, thresholds, and targets for each indicator
+Establishing baseline values for selected 
+indicators is crucial for monitoring progress over 
+time. Countries should use recent, reliable data 
+to set these baselines, along with thresholds for 
+triggering immediate responses, and realistic 
+targets that reflect both national ambitions and 
+international goals. 
+Address major gaps in data using standards, innovative methods, 
+and digital technologies
+Accurate, reliable and timely data depends on 
+robustness of data systems. To enhance health 
+information systems, it is essential to invest in 
+human resources and infrastructure, engage 
+stakeholders such as the private sector and civil 
+society, establish data policies and adopt global 
+standards, tools, innovative methods and digital 
+technologies. These strategic actions are crucial 
+to sustainably and effectively monitoring health 
+programmes. Specifically for national diabetes 
+programmes, strategic initiatives may include 
+implementing standardized methods outlined in 
+WHO STEPS for conducting NCD and risk factor 
+population-based surveys, enhancing effective 
+longitudinal monitoring systems for people 
+with diabetes through the use of electronic 
+health records and interoperability standards, 
+implementing ICD-11 for systematic recording 
+and reporting of mortality and morbidity data, 
+establishing private–public partnerships, 
+adopting data governance policies, training 
+staff across all levels of the health system to 
+improve capacity for data collection, analysis, 
+interpretation and use. 
+Strengthening capacities for data analysis, interpretation, and 
+dissemination
+Building local capacities in data analysis and 
+interpretation is essential for turning data into 
+actionable insights. This includes training for 
+health care professionals and policy-makers 
+in epidemiological methods, statistics and 
+health informatics. Moreover, creating effective 
+channels for data dissemination ensures 
+that insights reach all relevant stakeholders, 
+facilitating informed decision-making at all 
+levels of the health system.
+Conducting regular reviews to guide decisions and actions
+Continuous evaluation of the national 
+diabetes programme’s effectiveness is key 
+to adaptive management and improvement. 
+Regularly scheduled reviews, informed by the 
+latest data and analysis, can identify areas 
+of success and aspects needing adjustment. 
+These reviews should culminate in actionable 
+recommendations, guiding policy adjustments, 
+resource allocation and other strategic decisions 
+to enhance the national response to diabetes.
+Implementing the framework at a national level 
+offers a comprehensive strategy to combat 
+diabetes through structured monitoring and 
+evaluation. By tailoring the framework to fit 
+national contexts and priorities, countries 
+can ensure a coordinated, evidence-based 
+approach to diabetes prevention, management 
+and control, ultimately leading to better health 
+outcomes for their populations.
+
+
+===== PDF PAGE 28 =====
+
+16
+5.	 Indicators and metadata
+Metadata offers critical details for each indicator, encompassing its purpose and definition, target 
+population, estimation method, variables for disaggregation, and data sources. This foundational 
+information ensures uniform understanding and application across different settings, enhancing 
+the comparability and reliability of data collected for monitoring and evaluation purposes.

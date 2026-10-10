@@ -1,0 +1,29 @@
+22 
+of visits, diagnosis and procedure codes, charges, and payments. The Pharmacy Component (PC), 
+a subcomponent of the MPC, does not collect charges or diagnosis and procedure codes but does 
+collect detailed information on prescriptions, including National Drug Code (NDC) and medicine 
+name, as well as date(s) prescriptions were filled and sources and amounts of payment. The MPC 
+is not designed to yield national estimates. It is primarily used as an imputation source to 
+supplement and/or replace household-reported expenditure information. 
+Medical Organizations Survey 
+The Robert Wood Johnson Foundation provided support and funding to the Agency for 
+Healthcare Research and Quality (AHRQ) to conduct a new pilot survey of health care providers 
+called the Medical Organizations Survey (MOS) in 2015 and 2016. Designed as an add-on to the 
+MPC, the MOS is intended to collect supplemental information on usual source of care (USC) 
+practice characteristics for MEPS sample persons who saw their USC during the year. The MOS 
+data collection is for a subset of office-based care providers already included in the MPC sample. 
+The design of the MOS is multi-modal including phone, fax, mail, self-administration, electronic 
+transmission, and secure email. The MEPS MOS data file includes a population weight from 
+which national estimates can be derived. 
+Survey Management 
+MEPS HC and MPC data are collected under the authority of the Public Health Service Act. Data 
+are collected under contract with Westat (HC) and RTI International (MPC). Data sets and 
+summary statistics are edited and published in accordance with the confidentiality provisions of 
+the Public Health Service Act and the Privacy Act. The National Center for Health Statistics 
+(NCHS) of the Centers for Disease Control and Prevention provides consultation and technical 
+assistance related to the selection of the MEPS household sample. 
+As soon as data collection and editing are completed, the MEPS survey data are released to the 
+public in staged releases of summary reports, micro data files, and tables via the MEPS Web site 
+at www.meps.ahrq.gov. Selected data can be analyzed through a summary tables app and through 
+MEPSnet, a set of online interactive tools designed to give data users the capability to statistically 
+analyze MEPS data in a menu-driven environment.

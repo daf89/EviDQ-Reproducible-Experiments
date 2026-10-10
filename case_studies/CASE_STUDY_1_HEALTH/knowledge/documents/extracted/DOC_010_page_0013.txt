@@ -1,0 +1,27 @@
+Cohen, J. Design and Methods of the Medical Expenditure Panel Survey Household 
+Component. MEPS Methodology Report No. 1. AHCPR Pub. No. 97-0026. Rockville, 
+Md.: Agency for Health Care Policy and Research, 1997. 
+Cohen, J., Monheit, A., Cohen, S., et al. The Medical Expenditure Panel Survey: A 
+National Health Information Resource. Inquiry, 33: 373-389 (Winter 1996/97). 
+Cohen, S. Sample Design of the 1996 Medical Expenditure Panel Survey Household 
+Component. MEPS Methodology Report No. 2. AHCPR Pub. No. 97-0027. Rockville, 
+Md.: Agency for Health Care Policy and Research, 1997. 
+Cox, B. The weighted sequential hot deck imputation procedure. American Statistical 
+Association 1980 Proceedings of the Section on Survey Research Methods, 721-726. 
+1980. 
+Korn, E. and Graubard, B. Analysis of Health Surveys. Wiley Series in Probability and 
+Statistics. 1999. 
+Machlin, S. and Taylor, A. Design, Methods, and Field Results of the 1996 Medical 
+Expenditure Panel Survey Medical Provider Component. MEPS Methodology Report 
+No.9. AHRQ Pub. No.00-0028. Rockville, Md.: Agency for Healthcare Research and 
+Quality, 2000. 
+National Center for Health Statistics. Health, United States, 2002 (361-362). Hyattsville, 
+Md.: 2002. 
+Winglee, M., Valliant, R., Brick, M., and Machlin, S. Probability matching of medical 
+events. Journal of Economic and Social Measurement 23 (1999) 1-12. 
+Zuvekas, S. H. and Cohen, J. W. A guide to comparing health care expenditures in the 
+1996 MEPS to the 1987 NMES. Inquiry, Spring 2002; 39:76-86. 
+Acknowledgments 
+The authors wish to thank Trena Ezzati-Rice, Joel Cohen, and Steven Cohen for their 
+helpful reviews of the paper. 
+7

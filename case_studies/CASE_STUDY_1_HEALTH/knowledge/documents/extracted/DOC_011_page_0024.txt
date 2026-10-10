@@ -1,0 +1,32 @@
+21 
+Additional Background on MEPS HC, MEPS MPC, and MEPS MOS 
+Household Component 
+The Medical Expenditure Panel Survey (MEPS) provides nationally representative estimates of 
+health care use, expenditures, sources of payment, and health insurance coverage for the U.S. 
+civilian noninstitutionalized population. The MEPS Household Component (HC) also provides 
+estimates of respondents’ health status, demographic and socioeconomic characteristics, 
+employment, access to care, and satisfaction with health care. Estimates can be produced for 
+individuals, families, and selected population subgroups. The panel design of the survey, which 
+includes five rounds of interviews covering two full calendar years, provides data for 
+examining person level changes in selected variables such as expenditures, health insurance 
+coverage, and health status. Using computer assisted personal interviewing (CAPI) technology, 
+information about each household member is collected, and the survey builds on this 
+information from interview to interview. All data for a sampled household are reported by a 
+single household respondent. 
+The MEPS HC was initiated in 1996. Each year a new panel of sample households is selected. 
+Because the data collected are comparable to those from earlier medical expenditure surveys 
+conducted in 1977 and 1987, it is possible to analyze long-term trends. Each annual MEPS HC 
+sample size is about 14,000 households. Data can be analyzed at either the person or event level. 
+Data must be weighted to produce national estimates. 
+The set of households selected for each panel of the MEPS HC is a subsample of households 
+participating in the previous year’s National Health Interview Survey (NHIS) conducted by the 
+National Center for Health Statistics of the Centers for Disease Control and Prevention. The 
+NHIS sampling frame provides a nationally representative sample of the U.S. civilian 
+noninstitutionalized population and reflects an oversample of blacks, Hispanics and, starting in 
+2006, Asians. The linkage of the MEPS to the previous year’s NHIS provides additional data for 
+longitudinal analytic purposes. 
+Medical Provider Component 
+Upon completion of the household CAPI interview, and after obtaining permission from the 
+household survey participants, a sample of medical providers are contacted by telephone to obtain 
+information on medical events that household respondents cannot accurately provide. This part of 
+the MEPS is called the Medical Provider Component (MPC) and information is collected on dates

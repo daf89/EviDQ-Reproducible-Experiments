@@ -1,0 +1,163 @@
+
+
+===== PDF PAGE 33 =====
+
+SCREEN ALL ADULTS
+step
+1
+step
+3
+After 
+4 weeks
+IF still ≥140 or ≥90†  
+INCREASE to single pill per day
+step
+4
+After 
+4 weeks
+IF still ≥140 or ≥90†
+INCREASE to 2 pills per day
+step
+5
+After 
+4 weeks
+IF still ≥140 or ≥90†
+Add chlorthalidone 12.5 mg††
+step
+6
+After 
+4 weeks
+IF still ≥140 or ≥90
+CHECK that patient has been taking drugs 
+regularly and correctly – IF this is the case, 
+REFER patient to a specialist‡
+PROVISION FOR SPECIFIC PATIENTS
+• Manage diabetes as indicated by national 
+protocol
+• Aim for BP <130/80 for people with diabetes 
+or otherwise at high risk
+• Start statin and aspirin in people with prior 
+heart attack or ischemic stroke
+• Start beta blocker in people with heart 
+attack in past 3 years
+• Consider statin in people at high risk 
+• Stop all tobacco use, avoid secondhand 
+tobacco smoke.
+• Avoid unhealthy alcohol intake.
+• Increase physical activity to equivalent of 
+brisk walk 150 minutes per week.
+• If overweight, lose weight.  
+• Eat heart-healthy diet:
+• Eat less than 1 teaspoon of salt per day. 
+• Eat ≥5 servings of vegetables/fruit per 
+day. 
+• Use healthy oils.
+• Eat nuts, legumes, whole grains and 
+foods rich in potassium.
+• Limit red meat to once or twice a week at 
+most.
+• Eat ﬁsh or other food rich in omega 3 
+fatty acids at least twice a week.
+• Avoid added sugar.
+LIFESTYLE MANAGEMENT ADVICE 
+FOR ALL PATIENTS
+step
+2
+IF BP ≥140 OR ≥90**
+PRESCRIBE half pill per day
+* 
+Telmisartan 40 mg can be replaced with 
+any once-daily angiotensin receptor 
+blocker (ARB) (e.g., losartan 50 mg) or 
+once daily angiotensin converting 
+enzyme inhibitor (ACE-I) (e.g., lisinopril 
+20 mg, ramipril 5 mg, perindopril 4 mg). 
+ACE-I and ARB should NOT be given to 
+women who are or who may become 
+pregnant. Before initiating and several 
+weeks after starting ACE-Is or ARBs 
+check serum creatinine and potassium 
+if possible.
+§ 
+Amlodipine can be replaced with 
+another once-daily dihydropyridine 
+calcium channel blockers. Alternatively, 
+amlodipine can be replaced with 
+chlorthalidone 12.5 mg, indapamide 
+1.25 mg, or indapamide SR 1.5 mg. If 
+neither chlorthalidone nor indapamide 
+is available, hydrochlorothiazide 25 mg 
+can be used. If a diuretic is used instead 
+of amlodipine, check serum potassium 
+if possible and see ‡ below.
+¥ 
+Medications can be used as individual 
+agents if single-pill combinations are 
+not available.
+** If BP ≥160 or ≥100, start same day. If 
+140–159 or 90–99, check on a diﬀerent 
+day, and if still elevated, start.
+†  If systolic BP repeatedly <110, consider 
+going to prior, less intensive regimen.
+†† If a diuretic is used initially instead of 
+amlodipine, then amlodipine or 
+another once-daily dihydropyridine 
+calcium channel blocker would be used 
+at this step.
+‡  Consider increase to full-dose diuretic 
+(chlorthalidone 25 mg or indapamide 
+2.5 mg; indapamide SR 1.5 mg is both 
+the start and the full dose). 
+Hypokalemia is more common using 
+full-dose diuretic – consider regular lab 
+monitoring. If a diuretic is used instead 
+of amlodipine in the initial treatment, 
+this consideration would apply earlier 
+in the protocol.
+16 February 2018
+HYPERTENSION PROTOCOL
+Adapted example: telmisartan 40 mg*/
+amlodipine 5 mg§ single-pill combination¥ regimen
+9
+31
+
+
+===== PDF PAGE 34 =====
+
+2	 Diabetes detection and 
+treatment	
+Treatment protocols are for patients in the primary care setting with established 
+or newly diagnosed type 2 diabetes and are derived from the WHO Package of 
+Essential NCD interventions (27).
+Diabetes risk factors and symptoms
+Risk factors for type 2 diabetes include:
+•• overweight/obesity
+•• physical inactivity
+•• having a first-degree relative with diabetes
+•• history of gestational diabetes, or preeclampsia
+•• history of CVD, HTN, dyslipidaemia, or polycystic ovary syndrome.
+On average, people have type 2 diabetes (with or without symptoms) for between 
+five and seven years before it is diagnosed. Symptoms of diabetes include:
+•• polyuria (excessive passing of urine)
+•• polydipsia (excessive thirst)
+•• unexplained weight loss
+•• polyphagia (excessive hunger)
+•• vision changes
+•• fatigue.
+Diagnostic testing for diabetes
+Test adults who are 40+ years old and who are overweight (BMI >25) or obese 
+(BMI >30)* (28), or follow national guidelines.
+Fasting plasma glucose (FPG) is the most practical test for low-resource settings, 
+given its low cost**. HbA1c can also be used, but it is considerably more costly. 
+Plasma glucose two hours after a 75 g oral glucose load (OGTT) can also be used 
+to screen for and diagnose diabetes, but is less practical and more costly.
+If patient is not fasting and has symptoms, a random plasma glucose (RPG) test can 
+also be performed. It is the least accurate of the diagnostic tests. It is useful to con­
+firm the diagnosis in person with symptoms; however, a negative test does not rule 
+out the diagnosis of diabetes.
+* Calculate body mass index (BMI, kg/m2) in all adults. For some populations (e.g., South Asian), 
+weight-associated risks similar to those at a BMI of 25 in Caucasian populations are found at a BMI of 
+approximately 23, and intensify at a BMI of approximately 28.
+** Point of care devices can be used in diagnosing diabetes if laboratory services are not available. 
+32
+HEARTS: Evidence-based treatment protocols

@@ -1,0 +1,6 @@
+﻿feature,DOC01_ENCR_DQ_CHECKS,DOC02_IARC_SP95,DOC03_ENCR_STANDARD_2023,DOC04_WHO_ICDO3,DOC05_JRC_ENCR_QCS
+registry_stage_code,19,0,1,0,0
+icdo3_m_code,0,0,0,20,0
+age_diag,4,16,0,0,0
+administr_unit,7,9,0,2,2
+mkb10_code,0,8,0,12,0

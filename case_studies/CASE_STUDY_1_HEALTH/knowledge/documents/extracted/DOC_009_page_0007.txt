@@ -1,0 +1,68 @@
+Names and specialties of any health professionals who saw the patient during the Hospital event and who charged for
+services separately from the Hospital’s billing record (SBDs).
+Concurrent with the request for this information, the DCS also contacted the patient accounts department to collect the
+services provided, charges, and sources and amounts of payment for each event identified. Finally, after records
+abstraction was completed, a DCS contacted the Hospital’s administrative offices (AO) to obtain the billing status of each
+health professional identified in the medical records and contact information for confirmed SBDs.
+Institutions3
+3 Institution data collection not conducted during the 2024 cycle.
+The procedures for Institutional care settings were similar to Hospital. The Institution sample consisted of long‑term
+healthcare facilities, such as skilled nursing or rehabilitation facilities. Non‑profit organizations are excluded.
+Office‑Based Doctors (OBDs)
+Compared with Hospital providers, the information required from OBD practices was often less complicated. In addition,
+OBDs were typically associated with fewer pairs per contact group than Hospital providers. For both reasons, OBD data
+collection was more amenable to telephone data collection and DCSs encouraged OBD providers to give information
+during the telephone contact when they had few patient records or only a few events to report. The Contact Guide was
+designed to factor in OBDs who use off‑site billing services. DCSs were trained to collect information from off‑site
+billing services during their contacts.
+Home Health Providers
+Data collection for Home Health providers followed the same basic protocol as the OBD sample. In certain cases, the
+DCSs contacted social service agencies or corporate offices to locate the necessary records. The Home Health Event Form
+was programmed to conform to Medicare Home Health Prospective Payment System. The system allowed the option of
+collecting payment data in 2‑month or 1‑month time frames as appropriate.
+Pharmacy
+For small retail Pharmacies unassociated with a chain, and for Pharmacies associated with small chains, the DCS
+contacted the Pharmacy to explain the study purpose and determine if patient profiles were available. If they were, the
+DCS verified the profile contained required data elements. If patient profiles were not available or if the profiles did not
+contain all required data, the DCS collected the information by telephone or requested supplemental reports from the
+pharmacist. Pharmacy data were received in any format including hardcopy patient profiles, electronic files with patient
+profile data, and/or collecting or supplementing the profiles by telephone data collection.
+For large retail Pharmacy chains, individual pharmacies were grouped by chain using a unique code. Historical contact
+information from previous data collection years was reviewed for each chain to develop a contact approach.
+Specially‑trained negotiators followed up in one of two ways:
+If the corporate office preferred to collect data from the local stores, the data collection followed the small retail model.
+However, an endorsement from the corporate office was requested to be included with each contact packet.
+If the corporate entity preferred the data request be handled with a regional or central contact, the negotiator facilitated the
+most efficient method for data collection.
+Separately Billing Doctors (SBDs)
+Hospital, Institution, OBD, Home Health, and Pharmacy providers were all identified by household respondents during
+the HC. The balance of the MPC sample consisted of physicians (reported by Hospitals and Institutions) who provided
+services during a Hospital‑ or Institution‑based event. These events often resulted in charges from providers who may or
+may not have direct patient contact (e.g., pathologists or radiologists) and whose fees may or may not have been included
+in the Hospital charge. These charges are a key part of Hospital event costs, and this information can only be obtained
+from the MPC.
+For all doctor names abstracted from the medical record, DCSs contacted the Hospital medical records or professional
+staffing department to confirm the SBD status. Either working with medical records personnel by telephone or from
+records, the DCS recorded each provider who provided any services and whose charge might not have been included in
+the Hospital charge. The DCS then contacted the Hospital’s administrative office to verify the SBD billed separately. If
+there was any possibility of a separate charge, the DCS obtained complete contact information and created a link within
+the IDCS to connect the Hospital provider, patient, event type, event date, and SBD. This link is referred to as a node, that
+is, a unique combination of Hospital, patient, event type, event date, and SBD provider.
+Similar to prior MPC cycles, fielded SBD nodes were based on a priority status where higher priorities were expected to
+yield nodes more likely to be eligible and to be associated with higher charges. Physician’s role, specialty, and location of
+service were used to define SBD fielding priority. In 2018 and earlier, three priority levels (High, Medium, and Low)
+were used. The priority categories were revised in 2019 and four levels (High, Medium, Low, and Extra Low) were
+assigned to the 2024 SBD nodes, as follows.
+High priority was assigned when the physician’s role was Active Physician/Providing Direct Care, Don’t know, blank or
+missing, and the physician specialty and Hospital location of service was one of the following combinations:
+Anesthesiology or Surgery, with any location of service;
+General/Family Practice, Internal Medicine, Psychiatry, or missing specialty with Hospital Inpatient or Institution location
+of service; or
+OB/GYN or Pediatrics with Hospital Inpatient location of service
+Medium priority was assigned when the physician’s role was Active Physician/Providing Direct Care, Don’t know, blank
+or missing and the physician specialty, location of service, and Hospital event CPT codes were one of the following
+combinations:
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+7/40

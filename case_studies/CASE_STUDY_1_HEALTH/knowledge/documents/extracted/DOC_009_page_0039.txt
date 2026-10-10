@@ -1,0 +1,113 @@
+Item
+Item is
+complete
+if:
+Hospital
+OBD
+Home Health
+Agency
+HCH‑Health
+HCN‑Non‑Health
+Institution
+SBD
+Don't
+Know
+Refusal
+15. What kind of
+insurance plan
+covered the patient
+for (this visit/these
+visits/this stay)?
+Medicare
+Medicaid
+Private
+insurance
+VA/CHAMPVA
+Tricare
+Worker's
+compensation
+(For each
+source)
+Yes
+No
+Don't
+Know
+Refusal
+C7a
+C7a
+16. Payment source for
+ancillary charges
+Patient or
+patient's family
+Medicare
+Medicaid
+Private
+insurance
+VA/CHAMPVA
+Tricare
+Worker's
+compensation
+Dollar
+value
+(includes
+0)
+Don't
+Know
+Refusal
+Q20
+17. Other payment
+source for ancillary
+charges
+Dollar
+value
+(includes
+0)
+Don't
+Know
+Refusal
+Q20 Other
+Loop
+18. Who paid
+co‑payment?
+Patient or
+patient's family
+Medicare
+Medicaid
+Private
+insurance
+Yes
+No
+Don't
+Know
+Refusal
+Q21f
+Non‑Pharmacy Providers. For hospital, OBD, HMO, Home Health, Institution, and SBD providers, the definition of
+partially complete events was expanded. In the 2010 MPC data collection and earlier, for a pair to be considered partially
+complete at least one event had to have a valid response for all critical items (no "don't know," "refusal," or missing
+entries). At the event level, if one critical item has a "don't know," "refusal," or missing entry, the event is coded as "final
+critical item missing." Because of a modification in the procedures for matching MPC events to HC events in the 2010
+MPC, events coded as "final critical item missing" are included as events that could be matched. For this reason,
+beginning with the 2011 data collection and in subsequent cycles, criteria for partially complete events were revised to
+include events with at least one critical item answered.
+Pharmacy Critical Items
+Item
+Item is complete if:
+Item Number
+1. NDC or Drug Name
+NDC: 11 DIGITS
+Don't Know
+Refusal
+Drug Name: Text
+Don't Know
+Refusal
+Q2a / Q2b
+2. If Drug Name:
+Strength
+Numeric value
+Don't Know
+Refusal
+Q2c / Q2c1
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+39/40

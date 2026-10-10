@@ -1,0 +1,30 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+TIP: 
+Health IT Advisors can drastically cutdown the time it takes to produce policy and training 
+documents by sharingexamples from otherpractices with which they work. Justrememberto 
+ask for permission from theexamplepractice first. Ensurethatpolicies and trainingdocuments 
+are reviewed and updated on a regularbasis, in accordance withan established schedule. 
+• 
+Advancing interoperability. The ecosystem of interoperable health data systems continues to 
+expand. Health information exchanges (HIEs) vary by region, state, EHR platform, and even data 
+type. Health IT Advisors can link practices with organizations and services that provide clean and 
+useful data affordably. While data and reports for some of these purposes are slowly being 
+included in new versions of EHRs, Health IT Advisors can often help practices in navigating this 
+important space through recommending and assisting in the implementation of third-party 
+solutions, such as various types of registries, HIEs,behavioralsymptomscreening assessments, 
+self-management support platforms, and many others. 
+TIP: 
+HIEs areoften able to generatereportswith lists of a practice’spatients admitted,discharged, 
+or transferred (ADT) reports from local hospitals.Managingtransitions of care using theseADT 
+reports can be a sustainably reimbursableactivity through Medicareand other payers and a 
+key lever for controlling costs in value-based payment programs. The Centers for Medicare & 
+Medicaid Services (CMS) now has a Conditions of Participation (CoP) requirementregarding 
+receiving ADTalerts from hospitals. 
+1.11 Understanding Policy Issues 
+Federal and state laws have had a dramatic impact on health IT adoption through policies, regulations, 
+and incentive programs. The health IT Timeline in Exhibit 7 shows how key legislative efforts reach back 
+decades and have progressivelyincreasedpressure on practices touse data systems toimprove health 
+outcomes. 
+Health IT Advisor Handbook 
+Page 17

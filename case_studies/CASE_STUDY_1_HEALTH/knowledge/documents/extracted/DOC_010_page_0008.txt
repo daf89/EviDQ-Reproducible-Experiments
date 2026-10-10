@@ -1,0 +1,44 @@
+households that responded to the 1995 NHIS (Cohen S., 1997). This selection was 
+comprised of 195 PSUs and 1,675 sample segments (second-stage sampling units). Over 
+sampling of households with Hispanics and blacks carries over from the NHIS to the 
+MEPS sample design. 
+The sample design of the Medical Expenditure Panel Survey is an overlapping panel 
+design, with data collected for each new MEPS panel covering a two-year period (Cohen 
+J., 1997). As a result of the overlapping panel design, MEPS annual data for 1997 and 
+beyond are constructed based on data collected from two consecutive panels. 
+MEPS Expenditures Defined 
+Total medical expenditures in MEPS are defined as the sum of direct payments for care 
+provided during the year, including out-of-pocket payments and payments by third-party 
+payers (e.g., private insurance, Medicare, Medicaid, and other sources), rather than the 
+amount billed by the provider for the care provided (i.e., charges). Payments for hospital 
+and physician services, ambulatory physician and nonphysician services, prescribed 
+medicines, home health services, dental services, and various other medical equipment 
+and services that were purchased or rented during the year are included. Payments for 
+over-the-counter drugs and phone contacts with providers are not collected in MEPS. 
+Provider charges for health care are not considered a proxy for payments, primarily due 
+to two important trends that have occurred since the mid 1990s (Zuvekas and Cohen, 
+2002). First, pressure to contain health care costs by employers has increased insurers’ 
+leverage to negotiate substantial discounts with providers. Second, the insurance 
+industry made significant movement toward capitation as a way of increasing the 
+incentive for providers to contain costs by being subjected to financial risk for high 
+levels of utilization. As a result, for a sizeable number of medical events, charges have 
+become virtually meaningless as a measure of payments. Nevertheless, charges are 
+collected in MEPS because they are highly correlated with payments and are 
+incorporated in the imputation process for missing expenditure data wherever possible 
+(see Example 3 below). 
+MEPS Household Expenditure Data Collection 
+Primary data collection in the MEPS-HC employs computer-assisted personal 
+interviewing (CAPI). The HC questionnaire is designed to collect use and expenditure 
+data for two consecutive years through a series of five interviews. In general, annual 
+health care utilization and expenses for sample persons are derived from information 
+collected in three of the five interviews (Cohen J., 1997). 
+Figure 1 provides a pictorial summary of the data collection process for medical events 
+and expenses in MEPS. For each person in a sample household, the core instrument 
+collects detailed data about medical care received as well as charges and payments for 
+each health care event reported in the utilization section. Medical events reported are 
+grouped into the following categories: office-based medical provider visits, hospital 
+emergency room visits, hospital outpatient visits, hospital inpatient stays, dental visits, 
+home health, prescribed medicines, and other medical expenses. Payments for each event 
+are itemized according to the following 10 source of payment categories: out of pocket, 
+Medicare, Medicaid, private insurance, Veteran’s Administration, TRICARE, Other 
+2

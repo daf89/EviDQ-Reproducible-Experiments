@@ -1,0 +1,6 @@
+﻿feature,control_family,measurement_status,result,interpretation
+age_diag,DISTRIBUTION_PROFILE,COMPUTED,"{""n_finite"": 1865, ""mean"": 68.15806970509384, ""std"": 10.921263295979873, ""min"": 31.0, ""q25"": 61.0, ""median"": 68.0, ""q75"": 76.0, ""max"": 100.8}",DESCRIPTIVE_ONLY_NO_ANOMALY_DECISION
+mkb10_code,CARDINALITY,COMPUTED,"{""n_unique_non_missing"": 7}",DESCRIPTIVE_ONLY_NO_ANOMALY_DECISION
+mkb10_code,CATEGORY_FREQUENCY,COMPUTED,"{""n_categories_including_missing"": 7, ""max_category_count"": 565, ""max_category_fraction"": 0.30294906166219837}",DESCRIPTIVE_ONLY_NO_ANOMALY_DECISION
+registry_stage_code,CARDINALITY,COMPUTED,"{""n_unique_non_missing"": 4}",DESCRIPTIVE_ONLY_NO_ANOMALY_DECISION
+registry_stage_code,CATEGORY_FREQUENCY,COMPUTED,"{""n_categories_including_missing"": 4, ""max_category_count"": 621, ""max_category_fraction"": 0.3329758713136729}",DESCRIPTIVE_ONLY_NO_ANOMALY_DECISION

@@ -1,0 +1,156 @@
+
+
+===== PDF PAGE 411 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-52 
+WHO STEPS Surveillance 
+ 
+ 
+Fruit and 
+vegetable 
+consumption 
+per day 
+Description: Frequency of fruit and/or vegetable consumption. 
+ 
+Instrument questions: 
+• In a typical week, on how many days do you eat fruit? 
+• How many servings of fruit do you eat on one of those days? 
+• In a typical week, on how many days do you eat vegetables? 
+• How many servings of vegetables do you eat on one of those days? 
+ 
+Number of servings of fruit and/or vegetables on average per day 
+Age 
+Group 
+(years) 
+Men 
+% no fruit 
+% 1-2 
+% 3-4 
+% ≥5 
+n 
+and/or 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+vegetables 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Number of servings of fruit and/or vegetables on average per day 
+Age 
+Group 
+(years) 
+Women 
+% no fruit 
+% 1-2 
+% 3-4 
+% ≥5 
+n 
+and/or 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+vegetables 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Number of servings of fruit and/or vegetables on average per day 
+Age 
+Group 
+(years) 
+Both Sexes 
+% no fruit 
+% 1-2 
+% 3-4 
+% ≥5 
+n 
+and/or 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+servings 
+95% CI 
+vegetables 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: D1, D2 , D3, D4 
+• Epi Info program name: Dfiveormore (unweighted); DfiveormoreWT (weighted) 
+ 
+
+
+===== PDF PAGE 412 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-53 
+WHO STEPS Surveillance 
+ 
+ 
+Fruit and 
+vegetable 
+consumption 
+per day 
+Description: Percentage of those eating less than five servings of fruit and/or 
+vegetables on average per day. 
+ 
+Instrument questions: 
+• In a typical week, on how many days do you eat fruit? 
+• How many servings of fruit do you eat on one of those days? 
+• In a typical week, on how many days do you eat vegetables? 
+• How many servings of vegetables do you eat on one of those days? 
+ 
+ 
+Less than five servings of fruit and/or vegetables on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% < five 
+n 
+servings 
+95% CI 
+per day 
+% < five 
+n 
+servings 
+95% CI 
+per day 
+% < five 
+n 
+servings 
+95% CI 
+per day 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: D1, D2 , D3, D4 
+• Epi Info program name: Dfiveormore (unweighted); DfiveormoreWT (weighted) 
+ 

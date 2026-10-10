@@ -1,0 +1,117 @@
+• Malignant hypertension, defined as extreme BP elevations and acute 
+microvascular damage (microangiopathy) affecting various organs.947 
+The hallmark of this condition is small-artery fibrinoid necrosis in the kid-
+neys, retina, and brain. The acute microangiopathy is typically character-
+ized clinically by retinopathy (flame haemorrhages, cotton wool spots, 
+and/or papilloedema). Other manifestations of microangiopathy include 
+disseminated intravascular coagulation, encephalopathy (in about 15% of 
+cases), acute heart failure, and acute deterioration in renal function. 
+• Patients with sudden severe hypertension due to phaeochromocyto-
+ma, which can result in severe acute organ damage. 
+The term ‘hypertension urgency’ describes severe hypertension in pa-
+tients without clinical evidence of acute organ damage. While these pa-
+tients require BP reduction, they do not usually require admission to 
+hospital, and BP reduction is best achieved with oral medication accord-
+ing to the drug treatment algorithm presented in Section 8. However, 
+these patients may require more urgent outpatient review to ensure 
+that their BP is controlled. 
+Acute and severe increases in BP can sometimes be precipitated by 
+sympathomimetics such as methamphetamine or cocaine, when cau-
+tion around beta-blocker use is also needed. Many patients in an emer-
+gency department with acute pain or distress may have acutely elevated 
+BP that will normalize when the pain and distress are relieved, rather 
+than requiring any specific intervention to lower BP. 
+A diagnostic work-up is necessary for patients with a suspected 
+hypertensive emergency (see Supplementary data online, Table S12). 
+10.1.2. Acute management of hypertensive 
+emergencies 
+Key considerations in defining treatment are: 
+(1) Establishing the affected target organ(s) and whether they require 
+any specific interventions other than BP lowering. 
+(2) Determining whether there is a precipitating cause for the acute 
+rise in BP and/or another concomitant health condition present 
+that might affect the treatment plan (e.g. pregnancy). 
+(3) The recommended timing and magnitude of BP lowering required 
+for safe BP reduction. 
+These considerations will inform the type of BP-lowering treatment re-
+quired. Regarding BP-lowering drugs, i.v. treatment using a short half- 
+life drug is typically ideal to allow careful titration of the BP response 
+to treatment. This requires a higher dependency clinical area with facil-
+ities for continuous or near-continuous haemodynamic monitoring. 
+Recommended drug treatments for specific hypertensive emergencies 
+are provided in the Supplementary data online, Table S13. 
+Rapid and uncontrolled or excessive BP lowering is not recommended 
+in hypertensive emergency as this can lead to further complications. 
+Although i.v. drug administration is recommended for most hypertensive 
+emergencies, oral therapy with ACE inhibitors, ARBs, or beta-blockers 
+(shorter-acting formulations like captopril or metoprolol) can also be ef-
+fective. However, low initial doses should be used because these patients 
+can be very sensitive to these agents, and treatment should take place in 
+hospital. Further comprehensive details on the clinical management of 
+hypertensive emergencies are available elsewhere.242 
+10.1.3. Prognosis and follow-up 
+The survival of patients with hypertensive emergencies has improved 
+over the past few decades, but these patients remain at high risk and 
+should be screened for secondary hypertension. 
+10.2. Acute blood pressure management in 
+acute intracerebral haemorrhage 
+In acute intracerebral haemorrhage, an increased BP is common and is 
+associated with a greater risk of haematoma expansion and death, and a 
+worse prognosis for neurological recovery. In trials testing immediate 
+BP lowering (within <6 h) to a systolic target of <140 mmHg, the 
+achieved systolic BP in the intervention group was typically 140–160 
+mmHg and was reported to reduce the risk of haematoma expan-
+sion.948,949 Excessive acute drops in systolic BP (>70 mmHg) may be 
+associated with acute renal injury and early neurological deterioration 
+and should be avoided.950,951 
+10.3. Acute blood pressure management in 
+acute ischaemic stroke 
+The beneficial effects of BP reduction in acute ischaemic stroke remain un-
+clear. In patients not receiving i.v. thrombolysis or mechanical thrombec-
+tomy, there is no evidence for actively lowering BP unless it is extremely 
+high (e.g. >220/120 mmHg). If BP is extremely high, an initial moderate 
+relative reduction of 10%–15% over a period of hours may be consid-
+ered.952 The reason for a more conservative approach to acute BP man-
+agement is that cerebral autoregulation may be impaired in acute stroke, 
+and maintaining cerebral perfusion relies on systemic BP. 
+In contrast, patients who are treated with i.v. thrombolysis or mechan-
+ical thrombectomy (or both) should have more proactive management of 
+severe hypertension, because they have an increased risk of reperfusion 
+injury and intracranial haemorrhage. In patients undergoing treatment 
+with i.v. thrombolysis, BP should be lowered to <185/110 mmHg prior 
+to thrombolysis and then maintained at <180/105 mmHg over the 
+following 24 h.953 In patients undergoing treatment with mechanical 
+thrombectomy (with or without i.v. thrombolysis) there is limited 
+evidence from clinical trials, but BP should also be lowered to 
+<180/105 mmHg prior to thrombectomy and maintained over the 
+next 24 h.953,954 Therefore, patients with acute ischaemic stroke and a 
+BP of <180/105 mmHg in the first 72 h after stroke do not seem to bene-
+fit from the introduction or reintroduction of BP-lowering medication.955 
+For stable patients who remain hypertensive (≥140/90 mmHg) ≥3 days 
+after an acute ischaemic stroke, initiation or reintroduction of 
+BP-lowering medication is recommended. 
+Recommendation Table 32 — Recommendations for 
+acutely managing blood pressure in patients with intra-
+cerebral haemorrhage or acute ischaemic stroke 
+Recommendations 
+Classa 
+Levelb 
+For patients with ischaemic stroke or TIA and an 
+indication for BP lowering, it is recommended that 
+BP-lowering therapy be commenced before hospital 
+discharge.819,820,823 
+I 
+B 
+In patients with acute ischaemic stroke, early BP lowering with BP-lowering 
+therapy should be considered in the first 24 h in the following settings: 
+• In patients who are eligible for re-perfusion 
+therapy with intravenous thrombolysis or 
+mechanical thrombectomy, BP should be carefully 
+lowered and maintained at <180/105 mmHg for at 
+least the first 24 h after treatment.956–960 
+IIa 
+B 
+Continued 
+3984 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

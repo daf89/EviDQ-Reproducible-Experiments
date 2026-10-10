@@ -1,0 +1,108 @@
+Referral to specialists for assessment does not necessarily
+equate to access to or need for multidisciplinary care, and
+differentiation of the value of each is important. Specialist
+referral to aid in ascertainment of cause and prognosis can be
+seen as separate from care and support services targeted at
+complications, and delay of, and preparation for progressive
+CKD. Application of risk prediction tools (Chapter 2) may aid
+decision-making in terms of identifying those at risk of
+progression and determining action thresholds for multidis-
+ciplinary care and placement of access for KRT or referral to
+transplantation. Current recommendations to use validated
+risk equations to ascertain those at high probability of kidney
+failure within 2 years should prompt actions that align with
+provision of appropriate education activities, review of un-
+derstanding, and decision-making, and prompting referrals to
+other healthcare providers (e.g., vascular access surgeons,
+transplant teams, etc.).
+Risk-based referral was compared with guideline referral
+criteria in a cross-sectional study from the UK.829 Analysis
+revealed that approximately 40% of patients classiﬁed as at
+high risk of progression to kidney failure by KFRE (>3% by 5
+years) were missed by guideline referral criteria. Moreover, a
+model predicting the timing of clinical outcomes, validated in
+a multicenter prospective cohort study of 1517 people aged
+$65 years with eGFR 10–30 ml/min per 1.73 m2, showed
+good performance for predicting the timing and occurrence
+of KRT. Using this prediction model to guide referral for
+vascular access preparation resulted in less unnecessary
+arteriovenous ﬁstula surgeries than using eGFR thresholds.830
+In this section, we consider the evidence relating to timely
+referral for planning KRT in people with progressive CKD.
+The literature concerning late referral has been remarkably
+consistent with both clinical studies and narrative reviews
+identifying several adverse consequences of late referral and
+related beneﬁts of early referral (Table 34).
+Both individual and healthcare system factors are associ-
+ated with late referral for KRT planning. A systematic review
+of 18 studies and physician surveys identiﬁed speciﬁc factors
+responsible for late referral for KRT as shown in Table 35.831
+We encourage each nephrology program to explore factors
+associated with late referral to improve referral patterns
+appropriately.
+People with kidney disease have never been randomized to
+early or late referral to nephrology services, and the deﬁnition of
+late referral in the published studies varies between 1 and 12
+months before the start of KRT. Three months is probably less
+than the absolute minimum amount of time required for
+assessment, education, preparation for KRT, and creation of
+access,but3 months is the mostfrequentlyemployed deﬁnition.
+A systematic review of 40 studies showed that early referral
+was associated with better clinical and biochemical outcomes
+such as improvement in mortality at 3 and 5 years, decrease in
+hospitalizations, better access to vascular access and KRT with
+peritoneal dialysis, as well as improvements in BP, hemoglobin,
+and serum albumin (Table 36).832 A retrospective study of
+105,219 patients (early referral 21,024 patients and late referral
+84,195 patients) showed that early referral to nephrology care
+was associated with slower progression of CKD as signiﬁcantly
+more patients in early referral group did not change their CKD
+stage (65%–72.9% vs. 52%–64.6%, P < 0.05).833
+Local practice and resources will dictate local referral
+practices. Regardless of the healthcare system, delay, or pre-
+vention of progression of both CKD and its complications
+will be of value to both individuals and healthcare systems.
+Local organizations will determine the best methods of
+communication and interaction between people with CKD,
+kidney care specialists, the multidisciplinary team, and pri-
+mary care physicians.
+Technology
+may
+be
+used
+to
+promote
+appropriate
+nephrology referral. Embedding clinical practice guidelines
+into clinical information systems may effectively create a
+reminder system for primary care physicians. Clinical deci-
+sion support systems could also improve referral criteria
+adherence. The smartphone application, Nefroconsultor,
+which uses KDIGO referral criteria was shown to increase the
+rate of appropriate referral by 28.8%.834
+Table 34| Beneﬁts and consequences of early versus late referral
+Consequences of late referral
+Beneﬁts of early referral
+Severe hypertension and ﬂuid overload, and increased cardiovascular
+comorbidity
+Delay requirement for KRT, better management of CVD, and
+comorbid conditions
+Low prevalence of permanent access
+Reduced need for urgent dialysis using temporary access
+Delayed referral for transplant
+Greater choice of treatment options and pre-emptive transplantation
+Higher initial hospitalization rate
+Reduced hospital length of stay and costs
+Higher 1-year mortality rate
+Lower 1-year mortality rate
+Less choice of KRT modality
+Increased informed freedom of choice of KRT modality
+Worse psychosocial adjustment and increase in DALYs
+Early access to psychosocial counseling and support for care partners
+Malnutrition
+Improved nutritional status
+CVD, cardiovascular disease; DALY, disability-adjusted life-year; KRT, kidney replacement therapy.
+chapter 5
+www.kidney-international.org
+S256
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,7 @@
+﻿condition,action,total_rows,train_rows,val_rows,test_rows,age_missing_train,age_missing_val,age_missing_test,coverage_train_val
+REF,NONE,768,460,154,154,0,0,0,1.0
+DQ,INJECT_MCAR,768,460,154,154,46,15,0,1.0
+DOC,EXCLUDE_FROM_ANALYSIS,707,414,139,154,0,0,0,0.9006514657980456
+MEDIAN,IMPUTE_MEDIAN,768,460,154,154,0,0,0,1.0
+KNN,IMPUTE_KNN,768,460,154,154,0,0,0,1.0
+ITERATIVE,IMPUTE_ITERATIVE,768,460,154,154,0,0,0,1.0

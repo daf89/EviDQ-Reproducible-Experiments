@@ -1,0 +1,16 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+Exhibit 63: Example Dashboard 
+Graphic included with permission from the Gillings Global School of Public Health COVID-19 Dashboard at the University of 
+North Carolina at Chapel Hill: https://gillingscovid19.unc.edu/visualization/long-term-care-facilities [121] 
+Tableau expects the data structure to look like the table included in Exhibit 64. 
+Exhibit 64: Example Data Structure for Tableau 
+Because the visualization allows the user to select multiple measures in the first drop-down, we need a 
+column for each measure. The viz also allows the user to drag a slider to select the date they would like 
+to view COVID-19 data for. Without the date selector, you would only need one row per county. With 
+the date selector, you must have one row per county per date. As you can see, adding features to your 
+data viz can drastically change the data structure required. 
+Health IT Advisor Handbook 
+Page 132

@@ -1,0 +1,203 @@
+
+
+===== PDF PAGE 375 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-16 
+WHO STEPS Surveillance 
+Daily 
+Description: Percentage of current daily smokers among smokers. 
+ 
+ 
+smoking 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+ 
+Current daily smokers among smokers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% Daily 
+95% CI 
+smokers 
+n 
+% Daily 
+95% CI 
+smokers 
+n 
+% Daily 
+95% CI 
+smokers 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2 
+• Epi Info program name: Tsmokefreq (unweighted); TsmokefreqWT (weighted) 
+ 
+ 
+Initiation 
+and 
+duration 
+of 
+smoking 
+Description: Mean age of initiation and mean duration of smoking, in years, among 
+daily smokers (no total age group for mean duration of smoking as age influences 
+these values). 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or pipes? 
+• Do you currently smoke tobacco products daily? 
+• How old were you when you first started smoking? 
+• Do you remember how long ago it was? 
+ 
+Mean age started smoking 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+age 
+n 
+Mean 
+95% CI 
+age 
+n 
+Mean 
+95% CI 
+age 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean duration of smoking 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+duration 
+n 
+ Mean 
+95% CI 
+duration 
+n 
+ Mean 
+95% CI 
+duration 
+18-29 
+30-44 
+45-59 
+60-69 
+Analysis Information: 
+• Questions used: T1, T2, T3, T4a-c 
+• Epi Info program name: Tsmokeagetime (unweighted); TsmokeagetimeWT (weighted) 
+ 
+
+
+===== PDF PAGE 376 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-17 
+WHO STEPS Surveillance 
+Manufactured 
+Description: Percentage of smokers who use manufactured cigarettes among 
+ 
+ 
+cigarette 
+smokers 
+daily smokers and among current smokers. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or 
+pipes? 
+• Do you currently smoke tobacco products daily? 
+• On average, how many of the following products do you smoke each day? 
+ 
+Manufactured cigarette smokers among daily smokers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Manufactured cigarette smokers among current smokers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+% 
+Manu- 
+n 
+ factured 
+95% CI 
+cigarette 
+smoker 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T5a, T5aw 
+• Epi Info program name: Tsmokeman (unweighted); TsmokemanWT (weighted) 
+ 

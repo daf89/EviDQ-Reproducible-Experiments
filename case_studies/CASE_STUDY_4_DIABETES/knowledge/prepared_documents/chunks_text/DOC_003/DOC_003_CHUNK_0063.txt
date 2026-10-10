@@ -1,0 +1,73 @@
+
+
+===== PDF PAGE 125 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-8 
+WHO STEPS Surveillance 
+Preparing the online eSTEPS platform, Continued 
+ 
+ 
+ 
+ 
+ 
+ 
+Adding forms 
+to the eSTEPS 
+project (cont.) 
+If there are any errors in the XLSForm file, you will be informed during the 
+upload process and the upload will not complete. Please contact the WHO 
+STEPS team for help in correcting any errors. 
+ 
+ 
+ 
+Modifying 
+forms in the 
+eSTEPS project 
+Once a form has been uploaded to the site, you may wish to modify it during 
+the testing process to correct any issues that have been discovered while 
+testing. Any modifications must be done in the XLSForm Excel file and then 
+this file must be re-uploaded to the eSTEPS project. 
+ 
+To update a form that has already been uploaded to a project, click on the 
+small arrow to the right of the screen and click on “Replace Form” from the 
+drop-down menu that appears (see screenshot below). 
+ 
+ 
+ 
+Confirm that you definitely want to replace the form and follow the 
+instructions in the pop-up window to re-upload the XLSForm file. 
+Important: Forms should not be modified once data collection has begun. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 126 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-9 
+WHO STEPS Surveillance 
+Preparing the online eSTEPS platform, Continued 
+ 
+ 
+ 
+Adding images 
+(show cards) 
+If show cards are included in the XLSForm file, these images must be  
+uploaded to the eSTEPS project along with the XLSForm file. Once the form 
+has been uploaded, click on the title of the form, then click on “Settings” 
+towards the top of the screen. On the Settings screen, click on “Form Media 
+Files” on the left-hand side of the screen (see screenshot below). 
+ 
+ 
+ 
+ 
+In the Form Media Files page, all images (show cards) will be listed, if any, 
+associated with the XLSForm file. Click on “Select file to upload” in the 
+upper right-hand corner of the screen to upload additional files. Both .jpeg 
+and .png images are allowed. 
+ 

@@ -1,0 +1,34 @@
+8 
+were designed for electronic data collection and were specific to a provider type (hospitals, 
+office-based providers, home care providers, long-term care providers, pharmacies, and SBDs), 
+allowing for the collection of data elements that were unique to the provider type, as well as a 
+core set of data elements common to all provider types. The event forms that were used to collect 
+MPC data for 2016 can be found at the following link: 
+https://meps.ahrq.gov/mepsweb/survey_comp/survey_results_MPC_ques.jsp?MPC=All&MPCYr
+=2016&Submit4=Search. 
+The instruments collected financial and medical characteristics about each event recorded in the 
+provider’s records for a sample person in calendar year 2016. As stated previously, for data 
+collection purposes, an event was defined as a distinct visit or stay on a specific date with a 
+specific health care provider by a member of a participating household. Consequently, all events 
+reported by MPC-sampled providers from January 1, 2016, through December 31, 2016, were 
+collected. Matching the MPC data collected to the HC-reported data was performed after all MPC 
+data for a provider type was collected. Table 1 summarizes the data elements that were collected 
+for each provider type. 
+There were two primary modes of data collection: telephone interview and abstraction. 
+ 
+Telephone interview: If the provider (or their staff) elected to participate in a telephone 
+interview, a DCS trained in telephone interviewing conducted the interview, administering 
+the data collection instrument specific to the provider type. 
+ 
+Abstraction: As an alternative to the telephone interview, providers were given the option to 
+send medical and billing records. If the provider (or their staff) elected to send records, those 
+records were reviewed by an abstractor trained in medical and billing chart review. The 
+abstractor utilized the same data collection instrument that was used for telephone 
+interviewing to extract the same set of data elements from the records. 
+For the 2016 data year, approximately 90 percent of hospital providers and 48 percent of office-
+based providers opted to send the medical and billing records for abstraction, as opposed to 
+participating in a telephone interview. Additionally, 43 percent of home care providers and 26 
+percent of SBDs elected to send medical and billing records for abstraction. When necessary, 
+providers were reimbursed for copying and administrative fees. 
+The data collection protocol for pharmacy providers is slightly different from that for other 
+provider types in that data collection focuses on the request for a patient profile (a computer-

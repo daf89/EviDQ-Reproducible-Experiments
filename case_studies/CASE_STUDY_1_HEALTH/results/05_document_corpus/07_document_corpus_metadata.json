@@ -1,0 +1,65 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_05_DOCUMENT_CORPUS",
+    "global_phase": "PHASE_02_KNOWLEDGE",
+    "timestamp": "2026-09-17T17:47:04.090003",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "unchanged": true
+    },
+    "knowledge_scope": {
+        "prediction_relevant_features": 12,
+        "features": [
+            "gagne_sum_tm1",
+            "cost_op_specialists_tm1",
+            "cost_laboratory_tm1",
+            "cost_ip_medical_tm1",
+            "cost_other_tm1",
+            "cost_op_surgery_tm1",
+            "dem_age_band_65-74_tm1",
+            "cost_pharmacy_tm1",
+            "cre_tests_tm1",
+            "cost_emergency_tm1",
+            "dem_age_band_75+_tm1",
+            "cost_home_health_tm1"
+        ]
+    },
+    "document_source": {
+        "type": "OFFICIAL_DOCUMENTS",
+        "directory": "<LOCAL_PROJECT_ROOT>\\knowledge\\documents\\official",
+        "documents": 11,
+        "pages": 894
+    },
+    "chunking": {
+        "strategy": "PAGE_BOUNDED_CHARACTER_CHUNKING",
+        "chunk_size_characters": 1800,
+        "overlap_characters": 300,
+        "minimum_chunk_characters": 100,
+        "chunks_cross_pages": false
+    },
+    "corpus": {
+        "pages_with_extractable_text": 894,
+        "pages_without_extractable_text": 0,
+        "extracted_characters": 3223366,
+        "chunks": 2448,
+        "duplicate_chunk_ids": 0,
+        "empty_chunks": 0,
+        "extraction_failures": 0
+    },
+    "methodological_state": {
+        "documents_read": true,
+        "document_corpus_created": true,
+        "semantic_retrieval_performed": false,
+        "feature_chunk_relevance_decided": false,
+        "knowledge_extracted": false,
+        "knowledge_base_created": false,
+        "candidate_actions_created": false
+    },
+    "safety": {
+        "dataset_modified": false,
+        "dq_problem_confirmed": false,
+        "error_injected": false,
+        "correction_applied": false
+    }
+}

@@ -1,0 +1,69 @@
+Systematic COronary Risk Evaluation 2 (SCORE2)-Diabetes risk- 
+prediction model should be considered to confirm CVD risk is sufficient-
+ly high (≥10%) among individuals with type 2 diabetes mellitus who are 
+aged <60 years.164 
+In the absence of these sufficiently high-risk conditions, risk-prediction 
+models (SCORE2 and SCORE-OP) have been developed in the general 
+population to predict 10-year risk of CVD.165,166 In adults with elevated 
+BP without the above sufficiently high-risk conditions, risk-prediction 
+models are recommended to inform BP-lowering treatment decisions. 
+Risk-prediction models are more accurate than clinical judgment or tally-
+ing of individual risk factors.167–169 
+6.3.1. 10-year cardiovascular disease risk-prediction 
+models 
+Prediction models differ in their input variables, predicted endpoints 
+(outputs), and populations in which they were derived and validated. 
+We endorse the use of SCORE2 for individuals aged 40–69 years 
+and SCORE2–Older Persons (SCORE2-OP) for individuals aged 
+≥70 years for predicting 10-year global risk of fatal and non-fatal 
+CVD events (stroke or myocardial infarction).165,166 The management 
+of adults aged <40 years is discussed in Section 9.1. The SCORE2 and 
+SCORE2-OP models are preferred over other 10-year risk-prediction 
+models, as they predict both fatal and non-fatal CVD events, have 
+been validated and recalibrated to European populations, and because 
+SCORE2-OP is adjusted for the competing risk of non-cardiovascular 
+mortality. Calculating SCORE2 or SCORE2-OP is recommended for 
+individuals with elevated BP who are not already at sufficiently high 
+CVD risk due to established CVD, moderate or severe CKD, prob-
+able or definite familial hypercholesterolaemia, diabetes mellitus, or 
+HMOD.165,166,170 
+For the purpose of BP-lowering treatment decisions, individuals with 
+elevated BP and a predicted 10-year CVD risk of ≥10% by SCORE2 or 
+SCORE2-OP are considered in these guidelines to be sufficiently high 
+risk, with details on the choice of lifestyle or drugs to facilitate 
+BP-lowering treatment in this setting provided in Section 8.171,172 A 
+number of considerations influenced our choice to recommend a single 
+risk threshold of ≥10%, vs. the alternative option of using age-specific 
+risk thresholds, such as those provided in the 2021 ESC Guidelines 
+on cardiovascular disease prevention in clinical practice.170 For ex-
+ample, contemporary data indicate the heightened importance of BP 
+control in older adults due to their higher absolute CVD risk (resulting 
+in a lower NNT) and concomitantly to reduce age-dependent adverse 
+outcomes attributable to increased BP, such as dementia. Recent 
+treat-to-target trials (testing systolic BP targets of approximately 
+120 mmHg) used a single CVD risk inclusion threshold and were also 
+Moderate or severe
+CKD
+eGFR <60 mL/min/1.73 m2 or
+albuminuria ≥30 mg/g (≥3 mg/mmol)
+Familial
+hypercholesterolaemia
+Probable or definite familial hypercholesterolaemia
+Diabetes
+mellitus
+Type 1 and type 2 diabetes mellitusc
+Established clinical
+cardiovascular disease
+Atherosclerotic cardiovascular diseasea
+Heart failure
+Other forms of hypertension-
+mediated organ damage
+Cardiacb
+Vascularb
+Figure 7 Sufficiently high cardiovascular risk conditions that warrant blood pressure-lowering treatment among adults with elevated blood pressure. 
+CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate. aCoronary heart disease, cerebrovascular disease, peripheral arterial disease. 
+bSee Section 7. cSCORE2-Diabetes should be considered to identify lower-risk individuals (<10% 10-year CVD risk), who may not require BP-lowering 
+medication, particularly in individuals <60 years. 
+3938 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

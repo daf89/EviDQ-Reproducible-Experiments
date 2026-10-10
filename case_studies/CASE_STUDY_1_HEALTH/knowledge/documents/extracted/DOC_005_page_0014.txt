@@ -1,0 +1,45 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+14
+L’évaluateur répond à la grille qui lui est confiée :
+• • « Oui » signe la satisfaction globale à l’élément d’évaluation ;
+• • « Non » signe la non-satisfaction globale à l’élément d’évaluation ;
+• • « NA » lorsque l’élément d’évaluation est non applicable à la situation de 
+l’évaluation ;
+• • « RI » lorsque la réponse du patient est inappropriée.
+Les réponses de chaque grille sont agrégées par élément d’évaluation de chaque critère. 
+Pour chaque élément d’évaluation, est comptabilisé le ratio rapporté à 100 : nb d’évalua
+tions positives / nb d’évaluations. Les réponses « Non applicable » ou « Réponse inappro
+priée » n’affectent pas le résultat obtenu.
+Exemple : pour un élément d’évaluation, les évaluateurs réalisent 12 patients traceurs. 
+Ils obtiennent donc 12 réponses : 
+• • huit « oui » ;
+• • deux « non » ;
+• • une « non applicable » ;
+• • une « réponse inappropriée ».
+Le résultat de l’élément d’évaluation est de 80 % (8 « oui » pour 10 réponses valides).
+La multiplication des grilles par les différents évaluateurs assure ainsi la robustesse des 
+résultats.
+Le résultat attribué à un critère est la moyenne des résultats attribués à ses éléments 
+d’évaluation. Le résultat attribué à un objectif est la moyenne des résultats attribués à 
+ses critères. Le résultat attribué à un chapitre est la moyenne des résultats attribués à 
+ses objectifs.
+Le score global de l’établissement est la moyenne des résultats des chapitres 1 à 3 du 
+référentiel. 
+Les résultats des critères avancés n’entrent pas dans cette cotation, ils le sont uniquement 
+au moment de la décision.
+La certification s’appuyant davantage sur les résultats pour le patient, elle fait des indi
+cateurs qualité et sécurité des soins (IQSS) un marqueur de la dynamique d’amélioration 
+des établissements de santé. Le résultat des IQSS portant sur tout ou partie des exigences 
+d’un critère d’évaluation est mobilisé. Il s’agit d’évaluer d’une part l’effectivité du recueil, 
+du partage, de l’analyse et de l’exploitation ; la mise en place des plans d’amélioration ; 
+et d’autre part : la concordance des résultats des évaluations avec les IQSS.
+Une évaluation interne à la main de l’établissement
+L’évaluation interne permet à l’établissement de santé :
+• • de faciliter l’appropriation du référentiel par les professionnels ;
+• • de s’évaluer sur les critères du référentiel qui lui sont applicables.
+Pour ne pas mobiliser l’énergie des professionnels au détriment de réalisations concrètes 
+au bénéfice direct des patients, il n’y a plus lieu de transmettre l’évaluation interne de 
+l’établissement à la HAS.
+Une appréciation 
+ciblée sur le 
+résultat

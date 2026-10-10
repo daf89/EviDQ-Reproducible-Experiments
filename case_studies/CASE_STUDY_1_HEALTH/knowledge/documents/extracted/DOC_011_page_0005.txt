@@ -1,0 +1,30 @@
+2 
+the course of three interviews that were conducted during calendar year 2016 and the early part of 
+2017 using computer assisted personal interviewing. The medical providers who were identified 
+during these interviews were eligible for inclusion in the MPC sample. 
+Objectives of the MPC 
+The primary objective of the MPC data collection effort described in this report was to collect 
+data from medical providers (hospitals, physicians, home care agencies, pharmacies, and long-
+term health care facilities) on charges, payments, and sources of payments for specific health care 
+services provided to HC sample persons from January 1, 2016, to December 31, 2016. MPC data 
+are collected annually for MEPS and are used to validate, supplement, and/or replace expenditure 
+data collected in the HC for selected persons and medical events. More specifically, MPC data 
+were used to: 
+1) serve as the primary imputation source for item nonresponse to reduce the potential for bias 
+in survey estimates of medical expenditures 
+2) serve as the main source of expenditure information on physician charges that are associated 
+with hospital care but not billed by the hospital (e.g., separately billing doctors such as 
+radiologists and lab technicians) 
+3) serve as the primary source of expenditure information for Medicaid recipients 
+4) replace expenditure information reported in the HC with information reported by providers 
+which is generally more complete and may be less prone to reporting errors 
+5) provide data that can be used to conduct methodological studies to validate the accuracy and 
+completeness of household-reported data 
+The MPC was not designed as an independent nationally representative sample of providers for 
+estimation purposes. Accordingly, the 2016 MPC data were used solely for expenditure editing 
+and imputation purposes and the data were not released publicly as a stand-alone data file. 
+Objective of the MOS 
+The objective of the MOS is to provide data that can be used for evaluating relationships between 
+provider organization characteristics and individuals’ health care use and expenditures. More 
+specifically, these data support studies of the association between practice characteristics and 
+consumer access, service use, expenditures, and quality of care. Analytic weights were developed

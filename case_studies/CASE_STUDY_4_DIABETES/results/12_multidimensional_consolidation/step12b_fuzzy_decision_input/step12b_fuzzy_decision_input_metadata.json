@@ -1,0 +1,54 @@
+{
+  "step": "STEP_12B",
+  "name": "Fuzzy Decision Input Matrix",
+  "timestamp": "2026-10-02T17:54:35.493938",
+  "scientific_baseline": "DQ",
+  "reference_policy": {
+    "REF_used_for_action_comparison": false,
+    "REF_used_for_XAI_comparison": false,
+    "REF_used_for_fuzzy": false,
+    "REF_role": "Pre-injection dataset used previously to construct the controlled DQ state only."
+  },
+  "comparison_population": {
+    "type": "COMMON_VALIDATION",
+    "n": 139,
+    "reason": "All candidate actions are compared on the same validation observations."
+  },
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "fuzzy_candidate_inputs": [
+    "Delta_AUC_vs_DQ",
+    "Delta_BalancedAccuracy_vs_DQ",
+    "Delta_F1_vs_DQ",
+    "Delta_Age_SHAP_vs_DQ",
+    "Abs_Delta_Age_SHAP_vs_DQ",
+    "RankAgreement_Spearman_vs_DQ",
+    "Stability_Cosine_Mean",
+    "Stability_Spearman_Mean",
+    "Coverage"
+  ],
+  "fidelity_policy": "TreeSHAP additivity is retained as a PASS/FAIL validity gate and is not used as a fuzzy discriminator at STEP 12B.",
+  "new_model_training": false,
+  "new_shap_computation": false,
+  "new_dq_action": false,
+  "test_accessed": false,
+  "source_files": {
+    "performance_common": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_common_population_performance.csv",
+    "coverage": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\10_controlled_experiment\\step10_predictive_evaluation_corrected\\step10_predictive_performance.csv",
+    "xai": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\11_xai_reliability\\tables\\Table_STEP11_XAI_Summary.csv"
+  },
+  "outputs": {
+    "full_matrix": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\12_multidimensional_consolidation\\step12b_fuzzy_decision_input\\FUZZY_DECISION_INPUT_MATRIX_FULL.csv",
+    "fuzzy_matrix": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\12_multidimensional_consolidation\\step12b_fuzzy_decision_input\\FUZZY_DECISION_INPUT_MATRIX.csv",
+    "publication_table": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\12_multidimensional_consolidation\\step12b_fuzzy_decision_input\\Table_STEP12B_Fuzzy_Decision_Input.csv"
+  },
+  "sha256": {
+    "full_matrix": "028d2f5e8fd29711627212fee1cdbd417e309536053889c7188c3339b5a3f377",
+    "fuzzy_matrix": "2a32abe1a49c2b9d72938a84dc4aa38e27323dcd06ceb0c02ce76bc2ec54436a",
+    "publication_table": "a0d61d60a61ccae0a7672098c7b53f2a74b5f32da663624c68227ffadb68af08"
+  }
+}

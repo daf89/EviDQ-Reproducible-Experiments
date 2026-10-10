@@ -1,0 +1,103 @@
+
+
+===== PDF PAGE 421 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-62 
+WHO STEPS Surveillance 
+ 
+ 
+Former 
+recommen- 
+dations for 
+comparison 
+purposes 
+For comparison purposes, tables presenting cut-offs from former 
+recommendations are also included in GPAQ data analysis. 
+ 
+The three levels of physical activity suggested for classifying populations were 
+low, moderate, and high. The criteria for these levels are shown below. 
+ 
+• High 
+A person reaching any of the following criteria is classified in this category: 
+- Vigorous-intensity activity on at least 3 days achieving a minimum of at 
+least 1,500 MET-minutes/week OR 
+- 7 or more days of any combination of walking, moderate- or vigorous- 
+intensity activities achieving a minimum of at least 3,000 MET-minutes per 
+week. 
+ 
+• Moderate 
+A person not meeting the criteria for the "high" category, but meeting any of 
+the following criteria is classified in this category: 
+- 3 or more days of vigorous-intensity activity of at least 20 minutes per day 
+OR 
+- 5 or more days of moderate-intensity activity or walking of at least 30 
+minutes per day OR 
+- 5 or more days of any combination of walking, moderate- or vigorous- 
+intensity activities achieving a minimum of at least 600 MET-minutes per 
+week. 
+ 
+• Low 
+A person not meeting any of the above mentioned criteria falls in this 
+category. 
+ 
+ 
+
+
+===== PDF PAGE 422 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-63 
+WHO STEPS Surveillance 
+ 
+ 
+Not meeting WHO 
+recommendations on 
+physical activity for 
+health (“Insufficient 
+physical activity”) 
+Description: Percentage of respondents not meeting WHO 
+recommendations on physical activity for health (respondents doing less 
+than 150 minutes of moderate-intensity physical activity per week, or 
+equivalent). 
+ 
+Instrument questions 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+ 
+ 
+Not meeting WHO recommendations on physical activity for health 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% not 
+n 
+meeting 
+95% CI 
+recs 
+% not 
+n 
+meeting 
+95% CI 
+recs 
+% not 
+n 
+meeting 
+95% CI 
+recs 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Pnotmeetingrecs (unweighted); PnotmeetingrecsWT (weighted) 
+ 

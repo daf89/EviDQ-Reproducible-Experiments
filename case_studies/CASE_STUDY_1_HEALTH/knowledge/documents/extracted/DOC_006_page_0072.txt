@@ -1,0 +1,38 @@
+6. Section 6: EHR Use Cases for Quality Improvement 
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+This section contains a practical guide for the two major applications (or use cases) of an EHR in QI work. 
+The first is to provide a source for the various data elements needed to inform, monitor, and evaluate a 
+QI project (a CQM for example); the second is to act as a platform for delivering a wide range of 
+interventions (CDS). 
+Choosing from the range of potential uses for an EHR can be overwhelming. For each project it is 
+important to anticipate whether an EHR is capable of meeting the project’s needs and whether the time, 
+resources, knowledge, and skill exist to support its use. 
+We begin this section with a case study that illustrates how one large health system strategically used 
+their EHR as the cornerstone for improvements to diabetes care, both as a data source and as a platform 
+for interventions. (Alternative data sources are addressed in Section 7.) 
+6.1 
+Case Study: Leveraging an EHR to Transform Ambulatory Diabetes Care 
+The following is a published case study from MetroHealth System in Cleveland, Ohio (MHS), a large 
+organization that leveraged their EHR in a comprehensive QI initiative to improve ambulatory diabetes 
+care between 2007 and 2014.[64, 65] 
+MHS is a large organization with a robust EHR (Epic) and strong technology support. When reviewing 
+this case study, Health IT Advisors should keep the following points in mind: 
+• 
+There were eight specific EHR-related interventions deployed in phases over seven years. 
+• 
+Each phase built on previous interventions in a sustained and comprehensive QI project. 
+• 
+The length and scope of this project is not typical of most practice facilitationefforts . 
+• 
+MHS used theirEHR to improve theirperformance on key process and outcome measures. 
+• 
+Data showed a significant improvement in measures of quality for diabetes care. 
+MHS introduced eight EHR interventions one after another with two evaluation points. The first was 
+between 2005 and 2006 and the second between 2007 and 2014. 
+Measuring Quality of Care for Diabetes 
+A difficult step in any QI project is in selecting (or creating) CQMs. MHS used data from their EHR to 
+provide the data for nine custom-developed quality measures (five process and four outcome measures) 
+to inform and evaluate their progress. The nine measures are included in Exhibit 31. 
+Health IT Advisor Handbook 
+Page 67

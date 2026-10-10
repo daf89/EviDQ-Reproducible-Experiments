@@ -1,0 +1,116 @@
+
+
+===== PDF PAGE 111 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-24 
+WHO STEPS Surveillance 
+Documenting the Sample Design 
+ 
+ 
+ 
+Introduction 
+Once the sample design and methodology have been chosen, all aspects of the 
+sample need to be clearly documented. 
+ 
+ 
+Purpose 
+The purpose of documenting the sample design is primarily for the data 
+analyst to understand how the sample was drawn in order to appropriately 
+adjust the results to the target population. Additionally, an abbreviated 
+version of the documentation should always accompany any presentation of 
+the survey data to explain how the data were collected. 
+ 
+ 
+Recordkeeping 
+during data 
+collection 
+Sufficient records must be kept during data collection to ensure that the data 
+analyst can do all possible adjustments to make the results representative of  
+the target population. Most importantly, the data analyst must know: 
+ 
+• the probability of selection of each sampling unit at every stage of sampling 
+(i.e. probability of selection for each PSU, SSU, household, individual); 
+• the age and sex of any non-responders. 
+ 
+Thus, it is critical to keep a record of the following: 
+ 
+• all sampling frames used at each stage of sampling 
+• sample selection method used at each stage of sampling 
+• stratification design, if stratification is used 
+• for each respondent, the PSU, SSU, etc. from which he/she was selected. 
+ 
+ 
+ 
+ 
+Future surveys 
+Documenting the sample design and methodology is also important for future 
+surveys when changes in risk factors over time are being examined, since 
+methods chosen in future surveys may differ from this one and thus affect 
+comparability. 
+ 
+ 
+Archiving 
+documents 
+It is important that all relevant sampling materials be archived. This includes 
+the forms discussed in the next topic of this Section, "Preparing Data 
+Collection Forms", as well as all information used to design and draw the 
+sample. 
+ 
+If the sample is drawn by another government entity (e.g. the Statistics 
+Bureau), be sure to obtain from them all materials and information that were 
+used to draw the sample. 
+ 
+ 
+
+
+===== PDF PAGE 112 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-25 
+WHO STEPS Surveillance 
+Preparing Data Collection Forms 
+ 
+ 
+ 
+Introduction 
+Once the sample has been drawn, the Interview Tracking Forms and the Step  
+3 Appointment Cards should be prepared for the data collection team. It is 
+recommended that the field team supervisors and the statistical adviser 
+collaborate on this task to ensure the forms are correctly filled out and 
+properly organized for data collection. 
+ 
+ 
+Assigning 
+Unique 
+Identifiers and 
+preparing 
+stickers QR 
+codes 
+Before preparing the data collection forms, ID Numbers must be assigned to 
+all interviewers and to all selected clusters from which households and/or 
+individuals will be selected. Additionally, all households and all participants  
+to be selected should each be assigned a unique ID. 
+ 
+Due to the fasting requirement for Step 3 measurements, data collection for 
+Step 1 and 2 generally takes place a day before data collection for Step 3. 
+The unique ID of the participant will help match the Step 1 and 2 data with 
+Step 3 data. In order to exclude errors during this matching process, it is 
+recommended to also use Quick Response (QR) codes. 
+ 
+In preparation of the field work, the QR codes are printed on stickers. It is 
+recommended to put one sticker on each container for urine collection or on 
+each Step 3 Appointment Card as they are prepared, before handing them out 
+to the interviewers. The Geneva STEPS team can help print the stickers. 
+ 
+During data collection, the QR codes are scanned for each participant with the 
+Android device: once during data collection for Step 1 and 2, and once during 
+data collection for Step 3. 
+ 
+The table below provides further instructions for assigning ID Numbers. 
+ 
+Continued on next page 

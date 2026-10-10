@@ -1,0 +1,2 @@
+﻿feature,n_train,missing_n,missing_rate,min,q1,median,mean,q3,max,std,statistical_observation,knowledge_source,dataset_scope
+Age,460,0,0.0,21.0,24.0,29.0,33.30652173913043,40.0,81.0,11.633265017944845,NO_NATURAL_MISSING_VALUE,STATISTICAL,TRAIN_ONLY

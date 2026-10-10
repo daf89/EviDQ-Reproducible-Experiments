@@ -1,0 +1,48 @@
+Apixaban–Edoxaban–Rivaroxaban
+Dabigatran
+Low risk
+High risk
+No important bleeding risk and/or adequate local hemostasis possible: 
+perform at trough level (i.e., ≥12 or 24 h after last intake)
+Low risk
+High risk
+CrCl ≥80 ml/min
+≥24 h
+≥48 h
+≥24 h
+≥48 h
+CrCl 50–80 ml/min
+≥36 h
+≥72 h
+≥24 h
+≥48 h
+CrCl 30–50 ml/mina
+≥48 h
+≥96 h
+≥24 h
+≥48 h
+CrCl 15–30 ml/mina
+No official indication
+No official indication
+≥36 h
+≥48 h
+CrCl <15 ml/min
+No official indication for use
+There is no need for bridging with LMWH/UFH
+Figure 44 | Advice on when to discontinue non–vitamin K antagonist oral anticoagulants (NOACs) before procedures (low vs. high risk).
+The bold values deviate from the common stopping rule of $24-hour low risk, $48-hour high risk. Low risk is deﬁned as a low frequency of
+bleeding and/or minor impact of a bleed. High risk is deﬁned as a high frequency of bleeding and/or important clinical impact. Adapted from
+Heidbuchel H, Verhamme P, Alings M, et al. Updated European Heart Rhythm Association practical guide on the use of non–vitamin-K
+antagonist anticoagulants in patients with non-valvular atrial ﬁbrillation: executive summary. Eur Heart J. 2017;38:2137–2149.724 aMany of these
+people may be on lower dose of dabigatran (110 mg twice per day [b.i.d.]) or apixaban (2.5 mg b.i.d.), or have to be on the lower dose of
+rivaroxaban (15 mg QD) or edoxaban (30 mg QD). Dabigatran 110 mg b.i.d. has not been approved for use by the US Food and Drug
+Administration. CrCl, creatinine clearance, LMWH, low-molecular-weight heparin; UFH, unfractionated heparin. Reproduced from Turakhia MP,
+Blankestijn PJ, Carrero JJ, et al. Chronic kidney disease and arrhythmias: conclusions from a Kidney Disease: Improving Global Outcomes
+(KDIGO) Controversies Conference. Eur Heart J. 2018;39:2314–2325.710 ª The Author(s) 2018. Published by Oxford University Press on behalf of
+the European Society of Cardiology. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-
+Commercial License (http://creativecommons.org/licenses/by-nc/4.0/).
+For research recommendations, please see Chapter 6: Research recommendations.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S245

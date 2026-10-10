@@ -1,0 +1,43 @@
+1. Section 1: Strategies for Health IT Advisors 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+This section reviews general strategies for working with practices to improve EHR and other data 
+capabilities and to promote ongoing QI. Some of the topics introduced in this section are covered in 
+greater detail in subsequent sections. As a general approach, we recommend that the strategies 
+described here should be employed with the goal of building a true partnership with each practice, 
+rather than providing expert instruction. 
+1.1 
+Assessing Practice Capacity, Motivation, and Interest in Quality Improvement 
+A careful assessmentofpractice data capacity, both broadly and specificto the needs of a QI project, is 
+a crucial initial step. This includes determining the specific EHR version and other data systems in use, 
+the ability of the practice to generate key measures and data, the ability of the practice to produce 
+usable, clean, and accurate data, and the use of data in QI and other practice management activities. 
+Potential delays or barriers in producing data should be identified and addressed as early as possible in 
+the process. Practices can vary widely in their data culture, and the promotion of a practice culture of 
+data-driven process and improvement—in close collaboration with practice staff—should be a primary 
+mission of the Health IT Advisor. 
+For practices to use data to guide their quality efforts, the data must be accessible, timely, accura te, and 
+trusted. Health IT Advisors can assess these important aspectsofa practice’s health IT capacity through 
+informal conversations or structured assessments. Section 1.2, Health IT Systems and Platforms, 
+discusses core aspects of clinical health IT that advisors can assess across the practices they serve. 
+1.2 
+Health IT Systems and Platforms 
+Health IT Advisors may need to work across dozens of practices and health systems where EHRs and 
+other health IT can vary substantially. By keeping an inventory of key health IT by practice, Health IT 
+Advisors can more quickly spot common barriers and spread useful solutions. Listed below are some 
+examples of important systems and functions that Health IT Advisors can consider documenting for their 
+own information or through a standard questionnaire like the example showed in Exhibit 1. 
+• 
+EHR system name and version 
+• 
+Population health software and patient registry tools 
+• 
+Certified Health IT Products List (CHPL) identification number(s) of health IT systems 
+• 
+Name and functions of Health Information Exchanges used by the practice 
+• 
+Adequacy of broadband connectivity, and 
+• 
+Contact information for IT support and troubleshooting. 
+Health IT Advisor Handbook 
+Page 4

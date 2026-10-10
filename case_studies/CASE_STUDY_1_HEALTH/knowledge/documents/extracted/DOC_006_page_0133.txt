@@ -1,0 +1,48 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+When getting started developing a data visualization, many people want to start by designing a data 
+structure before they know what they want to present. While digging into and knowing the data is good 
+from the standpoint of identifying what is possible, it is difficult to know exactly what structure is 
+needed until there is a plan for the presentation and an intended purpose for the presentation. In this 
+section we will discuss choosing a data visualization software solution, identifying the right data 
+visualization for an intended purpose, as well as how to prep and structure data to feed the 
+visualization. 
+Choosing a Software Tool 
+For simplification, all the examples in this section use Tableau Desktop, which is a popular software 
+solution. However, it is important to note that there are many other software solutions available such as 
+SAS Visual Analytics, Microsoft Power BI, Qlik, Microsoft Excel, and many more. There are also free tools 
+such as Google Charts and Tableau Public. There are also several open-source programming frameworks 
+that are powerful such as D3.js and Chart.js. The intention of this section is not to promote any one 
+solution, however, there are some important considerations to take into account as a Health IT Advisor. 
+Ease of Use 
+If you do not currently have experience working with a particular tool, it is important to assess how 
+much effort you are willing to put into learning a one. Are you a programmer or plan to become one? 
+Using programming frameworks such as D3.js provide the most flexibility and capability but come at the 
+steepest learning curve. Prior knowledge of JavaScript, at a minimum, is required. Non-programming 
+tools suchas Tableauand Microsoft Power BI, try to assist the user throughout the entire workflow 
+starting with data ingest, such as connectors to some of the most popular data sources (excel, CSV files, 
+database servers, SASdatasets, etc.), toidentifying data types such as text/strings, numeric, dates, 
+true/false, IDs, geographic variables, etc., to suggesting visualizations based on selected data (bar charts, 
+line graphs, etc.), to publishing (export to a portable document format (PDF), embed in a website, 
+upload to a tool-specific cloud hosting provider). Simplification usually comes at the cost of capability 
+and flexibility. For example, a tool may enable you to easily build a beautiful, stacked bar chart by just 
+pointing it to your data and dragging and dropping specific variables. However, if you want to customize 
+the labels in the legend, change the display of hover values, or add click-through events when clicking on 
+the chart, it simply may not be possible. Choosing a tool that meets your needs without exceeding the 
+amount of time you are willing to dedicate is critical to your success. There are many online training 
+resources available such as LinkedIn Learning, Coursera, and Udemy as well as many books on 
+developing data visualizations and using specific tools. 
+Security / HIPAA 
+As health IT professionals we must take patient privacy and security seriously, which eliminates many 
+data visualization tools from consideration. Cloud-hosted tools are numerous and growing in popularity. 
+However, we cannot publish sensitive data to a cloud provider such as Google Charts or Tableau Public, 
+without consulting with legal counsel. Doing so is usually only possible with a Business Associate 
+Agreement (BAA) in which the cloud provider agrees to accept responsibility for keeping the data secure 
+and private specifically for your organization. This limits us to locally hosted (on our Desktop) or 
+organization hosted (company server) solutions. Luckily, there are many great options to choose from. 
+Tableau Desktop, Microsoft Power BI, SAS Visual Analytics, and Excel, just to name a few, can all be 
+installed on your desktop with a paid license and/or subscription. Your organization may choose to 
+Health IT Advisor Handbook 
+Page 128

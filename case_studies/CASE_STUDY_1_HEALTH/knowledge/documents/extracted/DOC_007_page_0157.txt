@@ -1,0 +1,112 @@
+ Evaluate the cost-effectiveness and cost-utility of POCT for
+creatinine and urine albumin in speciﬁc situations (rural,
+remote, high risk, and children).
+ Deﬁne different clinical settings and speciﬁc circumstances
+in which POCT would be valuable to patients, clinicians,
+and/or researchers.
+Chapter 2. Risk assessment in people with CKD:
+Improving the accuracy of risk assessment and demon-
+strating utility and usefulness of validated risk assessment
+tools in clinical practice are critical to uptake.
+ Determine whether persons who have a >30% decline in
+eGFR while using RASi, SGLT2i, and MRAs have better out-
+comes if they continue versus discontinue these medications.
+ Determine the clinical importance/meaning of divergence of
+eGFRcys and eGFRcr in clinical practice, and whether the
+divergence magnitude and/ordirectionvaries bydemography.
+ Evaluate the clinical and cost utilities of equations guiding
+clinical decision-making in people with CKD including
+children and young people, for individual people, clini-
+cians, and the healthcare system.
+ Develop implementation strategies and evaluation frame-
+works to enable assessment of the potential barriers and
+facilitators of validated equations for CKD populations,
+including the new equations for CVD and mortality out-
+comes as well as for proximal CKD progression.
+ Risk scores derived fromvalidated equations should be tested
+as both inclusion criteria for enrichment of study cohorts as
+well as potential surrogate endpoints in clinical trials.
+ Evaluate the difference in performance characteristics of
+validated risk equations for eGFR using endogenous ﬁltration
+markers such as cystatin C, creatinine, or both (eGFRcys,
+eGFRcr, and eGFRcr-cys) for kidney failure, cardiovascular
+events, and all-cause mortality, and pregnancy and fetal out-
+comes in a variety of populations (i.e., age, sex, and region).
+Chapter 3. Delaying CKD progression and managing its
+complications: There is a paucity of well-designed studies
+evaluating combination therapies and nutritional strategies
+in different populations with CKD and evaluating speciﬁc
+target values for interventions in laboratory abnormalities,
+which generates uncertainty and confusion for both clini-
+cians and patients.
+ Generate more evidence on the effect of nutritional thera-
+pies (e.g., varying levels of protein restriction with and
+without supplementation [e.g., ketoanalogs]) documenting
+beneﬁts (e.g., delaying progression) versus potential harms
+(e.g., patient intolerance and malnutrition).
+ Evaluate different nutrition regimens in larger, longer-term
+RCTs than those performed to date using pragmatic designs
+to enable generalizability.
+ Evaluate the effects of plant-based protein diets and diets such
+as the Mediterranean, Okinawan, and DASH diets versus
+animal-based protein diets on risk of CKD progression,
+metabolic acidosis, hyperphosphatemia, and hyperkalemia.
+ Evaluate the beneﬁt-risk ratio and impact on QoL of dietary
+restriction (i.e., protein restriction vs. no protein restric-
+tion) in people with CKD receiving optimal medical ther-
+apy (e.g., ACEi/SGLT2i/ns-MRA).
+B Does this vary by age, sex, ACR, initial eGFR, and
+etiology of CKD?
+ Evaluate the role of sodium restriction in combination with
+optimal medical therapy in prevention of progression of
+CKD in people with CKD, including a range of baseline
+BPs, ages, sex, and etiology of CKD.
+ Examine the safety and efﬁcacy of SGLT2i in the CKD
+population subgroups understudied in completed large
+RCTs (e.g., people with PKD and T1D, children, young or
+older adults, transgender, gender-diverse and nonbinary
+people, and women at different ages/hormonal status
+including pregnancy and lactation).
+ Evaluate the cost-effectiveness of strategies to prevent the
+progression of CKD in people with relatively low (e.g.,
+<5%) risk of kidney failure within 5 years, by etiology, age,
+sex, and gender.
+ Evaluate and determine if additional clinically available
+biomarkers predict outcomes in people with CKD without
+diabetes and with lower ACR <30 mg/g (<3 mg/mmol).
+ Determine the safety and efﬁcacy of SGLT2i for prevention of
+progression of CKD in children and young adults with CKD.
+ Do inhibitors of the aldosterone pathway have a role in
+prevention of progression of CKD and cardiovascular
+outcomes in people with CKD, including those with an
+ACR <30 mg/g (<3 mg/mmol), with and without T2D?
+What are the net beneﬁt-risks particularly at higher baseline
+serum potassium (e.g., Kþ >5.0 mmol/l), and are effects
+modiﬁed by concurrent use of an SGLT2i?
+B Including young adults, women with different hor-
+monal status/supplementation, and varying etiology.
+ Evaluate the safety and efﬁcacy of introducing therapy with
+an SGLT2i and an inhibitor of the aldosterone pathway
+simultaneously as compared with sequentially in people
+with CKD.
+ Evaluate the effects of GLP-1 RA on risk of adverse car-
+diovascular outcomes and kidney disease progression in
+people with various etiologies of CKD. Trials should include
+people without diabetes, particularly if they are overweight
+or obese.
+ Evaluate the impact of correction of metabolic acidosis, at
+different levels of serum bicarbonate with respect to beneﬁts
+in terms of CKD progression, muscle wasting, development,
+or exacerbation of bone disease, protein malnutrition,
+growth (in children and adolescents), and mortality.
+ Evaluate the efﬁcacy and safety of dietary interventions in
+speciﬁc groups of people with CKD (e.g., diabetes vs. no
+diabetes). Outcomes should include PROMs and clinically
+important cardiovascular and kidney outcomes, as well as
+serum potassium concentration.
+ Evaluate the impact on kidney, cardiovascular, and safety
+outcomes by maintaining and optimizing RAASi despite
+chapter 6
+www.kidney-international.org
+S272
+Kidney International (2024) 105 (Suppl 4S), S117–S314

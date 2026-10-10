@@ -1,0 +1,88 @@
+
+
+===== PDF PAGE 49 =====
+
+37
+References
+35.	World Health Organization, Medical device donations: considerations for solicitation and provision, 
+Geneva, 2016. 
+36.	World Health Organization, Decontamination and reprocessing of medical devices for health-care 
+facilities., Geneva, 2016. 
+37.	World Health Organization, Decommissioning Medical Devices., Geneva, 2019. 
+38.	P. K. Whelton, R. M. Carey, W. S. Aronow, D. E. Casey, K. J. Collins, C. Dennison Himmelfarb and J. 
+T. Wright, PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood 
+Pressure in Adults, ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA, 2018. 
+39.	K. A. Nerenberg, K. B. Zarnke, A. A. Leung, K. Dasgupta, S. Butalia and K. McBrien, Hypertension 
+Canada’s 2018 Guidelines for Diagnosis, Risk Assessment, Prevention, and Treatment of Hypertension 
+in Adults and Children, Hypertension, C., 2018. 
+40.	Hypertension: The Clinical Management of Primary Hypertension in Adults: Update of Clinical 
+Guidelines 18 and 34 [Internet]. NICE Clinical Guidelines, No. 127., London: Royal College of 
+Physicians (UK): National Clinical Guideline Centre, 2011 Aug. 
+41.	B. Williams, G. Mancia, W. Spiering, E. Rosei, M. Azizi, M. Burnier and I. Desormais, Guidelines for 
+the management of arterial hypertension. The Task Force for the management of arterial hypertension, 
+Rome: (ESC) (ESH), 2018. 
+42.	N. Kallioinen, A. Hill, M. Horswill, H. Ward and M. Watson, Sources of inaccuracy in tehe 
+measurement of adult patients´ resting blood pressure in clinical settings: a systematic review., Journal 
+of Hypertension, 2017. 
+43.	E. Sprague and R. S. Padwal, Adequacy of validation of wide-range cuffs used with home blood 
+pressure monitors: a systematic review. Blood Press Monit, 23(5), 219-224., 2018. 
+44.	G. Beevers, G. Y H Lip and E. O´Brien, Part II-Conventional sphygmomamanometry: technique of 
+auscultatory blood pressure measurement. Clinical Revie: ABC of hypertension Blood pressure 
+measurement., BMJ, 2001. 
+45.	A. Meidert, Techniques for Non-Invasive Monitoring of Arterial Blood Pressure, 2018. 
+46.	X. Ding, Z. N, G. Yang, R. Pettigrew, B. Lo, M. F, Y. Li, L. J and Y. Zhang, Continuous Blood Pressure 
+Measurement from Invasive to Unobstrusive, 2016. 
+47.	Y. Chen, L. Lei and J. Wang, Methods of blood pressure assessment used in milestone hypertension 
+trials. 6:112-123., Pulse, 2018. 
+48.	N. Watanabe, Y. K. Bando, T. Kawachi, H. Yamakita, K. Futatsuyama, Y. Honda and T. Murohara, 
+Development and Validation of a Novel Cuff-Less Blood Pressure Monitoring Device., JACC Basic 
+Transl Sci, 2(6), 631-642., 2017. 
+49.	E. Goldberg and P. Levy, New approaches to evaluating and monitoring blood pressure., Curr 
+Hypertens Rep 18:49., 2016. 
+50.	R. Mukkamala, J. Hahn, O. Inan and e. al., Toward ubiquitous blood pressure monitoring via pulse 
+transit time: theory and practice., IEEE Trans Biomed Eng 62:1879–901., 2015. 
+51.	M. S. Key, “Features hypertension apps need to have based on an extensive review of medical 
+literature,” 2014. 
+52.	N. Kizilova, “Review of emerging methods and techniques for arterial pressure and flow waves 
+acquisition and analyses.,” Int J Biosen Bioelectron., 2018.
+
+
+===== PDF PAGE 50 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+38
+Annex 1
+Annex 1
+Phasing out mercury 
+The WHO document, Decommissioning Medical Devices (1), part of the WHO Medical Device Technical Series, 
+includes devices containing mercury. Mercury evaporates readily into the atmosphere, which can result in 
+breathing air containing elemental mercury vapours, which can have harmful effects on the nervous, digestive 
+and immune systems and the lungs and kidneys. In the environment, mercury can be transformed by bacteria 
+into methylmercury, which is toxic to the nervous system and developing foetuses. People are exposed to 
+methylmercury by eating contaminated fish and shellfish. Mercury waste is therefore a global concern (2).
+The Sixty-Seventh World Health Assembly adopted resolution WHA67.11 for the protection of public health 
+from exposure to mercury and mercury compounds by implementation of the Minamata Convention on 
+Mercury (3). The resolution encouraged Member States to
+address the health aspects of exposure to mercury and mercury compounds in the context of 
+their health sector uses, and also the other negative health impacts that should be prevented or 
+treated, by ensuring the sound management of mercury and mercury compounds throughout 
+their life cycle.
+The Convention established 2020 as the date for phasing out the manufacture, export or import of mercury-
+containing thermometers and sphygmomanometers, with possible exemptions up to 2030. An open-ended 
+exemption was also granted to products for research, calibration of instruments and use as a reference 
+standard. Further information is available in the WHO guidelines on phasing out mercury-containing 
+thermometers and sphygmomanometers in health care (4).
+Discarded medical devices are a source of mercury in the atmosphere. The devices include sphygmomanometers, 
+thermometers, dental amalgams and batteries. Care must be taken in handling devices that contain elemental 
+mercury, from collecting and storing to transporting the devices and their disposal. Any mercury spill from 
+broken devices should be removed immediately with proper procedures to avoid inhalation. Kits and guidelines 
+for cleaning up spills of mercury in a proper, safe way are widely available, and responsible users and personnel 
+should be trained in disposal. Mercury devices must not be placed in biohazard medical waste containers or 
+sharps containers but should be collected for hazardous waste disposal or for designated recycling. An area 
+for mercury waste should be determined in a health care facility before the waste is collected for disposal. 
+Mercury waste must be sent to authorized facilities or to the suppliers, if applicable. An alternative is to send 
+it to a disposal or storage site designated for hazardous industrial waste. For more information, see the WHO 
+guidelines on safe management of wastes from health-care activities (5).
+European Union regulation 2017/852, Article 5 (6), states that “the export, import and manufacturing 
+in the Union of the mercury-added products (…) shall be prohibited. This prohibition is applicable to 
+sphygmomanometers from 31st of December 2020 on.” 

@@ -1,0 +1,52 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+Practice Facilitation Training Module Process Mapping. AHRQ has also developed a comprehensive 
+toolkit for Health IT workflow analysis with a detailed discussion of workflow tools and techniques. 
+2.3 
+Assessing EHR Data Quality 
+A clinic’s EHR will often be the best (and sometimes only) option to facilitate QI. Care must be taken, 
+however, to ensure that the quality of underlying data elements is sufficient to accurately measure 
+quality, inform practice transformation, and/or trigger health-IT based interventions. 
+This section reviews data problems often encountered in QI projects and provides tips to prevent, 
+identify, and address troublesome data you will find in EHRs and other electronic data sources. 
+Common Problemswith EHR Data 
+Before discussing what can go wrong with EHR data, it may help to consider what “good” data looks like. 
+There are numerous practical and scholarly approaches that define (and even quantify) various aspects 
+of data quality. The ONC model below defines five dimensions of data quality that can serve as a 
+framework to discuss the characteristics of “good” EHR data.[40] 
+Each of the five dimensions shown in Exhibit 18 should be a prompt for Health IT Advisors to think 
+critically about any EHR data they use in quality work. 
+Exhibit 18: ONC’sFive Quality Dimensions for EHR Data 
+Data Quality Dimension 
+Definition 
+Completeness 
+Is the truth about a patient present in the EHR? 
+Correctness 
+Is an element that is present in the EHR true? 
+Concordance 
+Is there agreement between elements in the EHR or between the EHR 
+and another data source? 
+Currency 
+Is an element in the EHR a relevant representation of the patient state 
+at a given time? 
+Plausibility 
+Does an element in the EHR make sense in light of other knowledge 
+about what the element is measuring? 
+1. Completeness: Are any neededdatamissing or incomplete? 
+Consider asking each of these questions as you assess project data: 
+Despite our best efforts, healthcare is delivered in multiple places by multiple providers and caregivers. 
+This leads to a fragmented medical record scattered across many instances of electronic (and paper) 
+records used by hospitals, laboratories, specialists,behavioraland community service providers, and 
+other “silos” where health data can be found. Examples of incomplete data include the following: 
+• 
+Inconsistent user workflows can lead to missing data. Example: Not all A1c values are recorded 
+as structured data. 
+• 
+The clinic does not receive key data elements needed for QI. Example: Outside care summaries 
+or specialty reports are not received. 
+• 
+Needed historical data might pre-date new workflows or system configurations. Example: New 
+fields were created for a recent health screening assessment. 
+Health IT Advisor Handbook 
+Page 37

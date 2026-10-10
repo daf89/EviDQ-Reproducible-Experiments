@@ -1,0 +1,69 @@
+
+
+===== PDF PAGE 53 =====
+
+41
+Annex 3. Universal standard for the validation of blood pressure measuring devices
+Annex 3
+Annex 3
+Universal standard for the 
+validation of blood pressure 
+measuring devices
+A Universal Standard for Validation of Blood Pressure Measuring Devices was developed by: The Association 
+for the Advancement of Medical Instrumentation/European Society of Hypertension/International Organization 
+for Standardization (AAMI/ESH/ISO) in 2018.
+It is named: ISO 81060-2:2018(en), Non-invasive sphygmomanometers — Part 2: Clinical investigation of 
+intermittent automated measurement type
+History of validation protocols
+Publication
+Organization
+1987, 1992, 2002
+US Association for the Advancement of Medical Instrumentation (AAMI)3, 5
+1990, 1993
+British Hypertension Society (BHS)4, 6
+1999
+German Hypertension League (Deutsche Hochdruckliga) (DHL)7
+2002, 2010
+European Society of Hypertension International Protocol (ESH-IP)8, 9
+2004
+European Committee for Standardization (CEN)10
+2009
+International Organization for Standardization (ISO)11
+2009, 2013
+American National Standards Institute/Association for the Advancement of Medical Instrumentation/International 
+Organization for Standardization (ANSI/AAMI/ISO)12, 13
+2018
+Association for the Advancement of Medical Instrumentation/European Society of Hypertension/International 
+Organization for Standardization (AAMI/ESH/ISO)14.
+Scope
+This document specifies the requirements and methods for the clinical investigation of me equipment used 
+for the intermittent non-invasive automated estimation of the arterial blood pressure by utilizing a cuff.
+This document is applicable to all sphygmomanometers that sense or display pulsations, flow or sounds for 
+the estimation, display or recording of blood pressure. These sphygmomanometers need not have automatic 
+cuff inflation.
+This document covers sphygmomanometers intended for use in all patient populations (e.g. all age and weight 
+ranges), and all conditions of use (e.g. ambulatory blood pressure monitoring, stress testing blood pressure 
+monitoring and blood pressure monitors for the home healthcare environment for self-measurement as well 
+as use in a professional healthcare facility).
+
+
+===== PDF PAGE 54 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+42
+The AAMI, ESH, and ISO experts agreed to develop a single universally acceptable standard (AAMI/ESH/ISO), 
+which will replace all previous protocols. This major international initiative has been undertaken to best serve 
+the needs of patients with hypertension, a public interested in cardiovascular health, practicing physicians, 
+scientific researchers, regulatory bodies, and manufacturers. There is an urgent need to influence regulatory 
+authorities throughout the world to make it mandatory for all BP measuring devices to have undergone 
+independent validation before approval for marketing. Efforts need to be intensified to improve the accuracy 
+of BP measuring devices, further optimize the validation procedure, and ensure that objective and unbiased 
+validation data become available.
+References
+A Universal Standard for Validation of Blood Pressure Measuring Devices, Association for the Advancement 
+of Medical Instrumentation/European Society of Hypertension/International Organization for Standardization 
+(AAMI/ESH/ISO) Collaboration Statement. https://www.ncbi.nlm.nih.gov/pubmed/29386350.
+Validation protocols for blood pressure measuring devices in the 21st century. George S. Stergiou MD, PhD, 
+FRCP, Bruce S. Alpert MD, Stephan Mieke PhD, Jiguang Wang MD, PhD, Eoin O’Brien MD, DSc, FRCP. First 
+published:13 July 2018 https://doi.org/10.1111/jch.13294.
+https://www.iso.org/obp/ui/#iso:std:iso:81060:-2:ed-3:v1:en

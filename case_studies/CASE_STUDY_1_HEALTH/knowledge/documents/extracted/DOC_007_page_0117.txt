@@ -1,0 +1,121 @@
+Practice Point 3.14.3: For symptomatic treatment of acute
+gout in CKD, low-dose colchicine or intra-articular/oral
+glucocorticoids are preferable to nonsteroidal anti-inﬂam-
+matory drugs (NSAIDs).
+The American College of Rheumatology recommended that
+colchicine, NSAIDs, or glucocorticoids are preferred ﬁrst-line
+therapies for acute gout treatment based on demonstrated high
+levels of evidence for efﬁcacy, low cost, and tolerability.607
+Administration early after symptom onset is encouraged. For
+colchicine, the US Food and Drug Administration (FDA)-
+approved dosing (1.2 mg immediately followed by 0.6 mg an
+hour later, with ongoing anti-inﬂammatory therapy until the
+ﬂare resolves) was highlighted.607 Dose adjustment should be
+considered for CKD G5. Anti-inﬂammatory treatment may be
+useful as prophylaxis against a symptomatic ﬂare when
+initiating uric acid–lowering therapy and may sometimes be
+required long term (without diarrhea). We have advised that
+low-dose colchicine is preferable to NSAIDs given the safety
+and
+tolerability
+proﬁle
+and
+may
+also
+reduce
+risk
+of
+cardiovascular events.626 In contrast, NSAIDs can cause toxicity
+in CKD and need to be used cautiously.627 Short courses of
+glucocorticoids titrated to symptoms response (e.g., 30 mg
+prednisolone orally for 3–5 days) could be used as an alternative.
+Dietary approaches.
+Practice Point 3.14.4: Nonpharmacological interventions
+which may help prevent gout include limiting alcohol,
+meats, and high-fructose corn syrup intake.
+High alcohol intake, high purine intake, and consumption
+of carbonated drinks are associated with higher levels of
+serum uric acid. Consumption of these products in higher
+amounts is associated with both higher levels and gout
+symptoms. In contrast, diets that are low in fat and dairy, and
+high ﬁber, plant-based diets are associated with lower inci-
+dence of gout. Thus, diet modiﬁcation may be of value in
+people with CKD, high uric acid, and gout.
+Serum uric acid levels among people with a history of gout
+are higher in those with higher versus moderate levels of
+alcohol intake ($30 units/wk vs. <20 units/wk), as is the risk
+of recurrence.624,628 The odds of gout also appear higher
+among those with higher median purine intake ($850 mg
+vs. <850 mg estimated purine intake in the last 24 hours).624
+Experimentally, 2 hours after ingestion of 1 g/kg of body
+weight of fructose, serum uric acid concentration increases
+by 1–2 mg/dl (59.5–119 mmol/l),629 and its consumption in
+carbonated drinks is observationally associated with higher
+serum uric acid concentration levels,630,631 and incident gout
+(whereas diet versions of these drinks are not).632 Foods
+associated with a low incidence of gout include low-fat dairy,
+and high-ﬁber and plant-based diets.633
+Special considerations
+Pediatric considerations. There are no uric acid–lowering
+trials in children.
+International considerations. Asian (as opposed to African
+and Caucasian) ethnicities may be at higher risk of serious
+skin cutaneous reactions if they carry the HLA-B*5801 allele.
+It has been suggested that HLA-B*5801 allele screening may
+be considered in people who will be treated with allopurinol
+(although there is uncertainty that screening would be cost-
+effective).634
+Recommendation 3.14.2: We suggest not using
+agents to lower serum uric acid in people with CKD
+and asymptomatic hyperuricemia to delay CKD
+progression (2D).
+The Work Group judged that most well-informed people with
+CKD would prefer to optimize medical therapies that have
+proven beneﬁt for CKD progression, and that the evidence does
+not support treatment of asymptomatic hyperuricemia to modify
+risk of CKD progression.
+Key information
+Balance of beneﬁts and harms. On balance, despite obser-
+vational studies implicating elevated serum uric acid levels in
+the progression of CKD, the data from systematic reviews and
+multiple RCTs do not support treatment in the absence of
+symptoms. Given the pill burden and lack of data, there is
+little support for the use of uric acid–lowering agents.
+Observational data that implicate elevated serum uric acid
+levels in the progression of CKD have not been shown to
+reﬂect causal associations,635,636 as RCTs evaluating uric acid
+lowering on progression of CKD do not demonstrate clear
+beneﬁt on progression, including data summarized in a
+Cochrane systematic review comprising 12 RCTs that had
+randomized 1187 participants.609 Since the 2017 Cochrane
+review, 3 large, important RCTs with negative results have
+been conducted in people with CKD and asymptomatic
+hyperuricemia (Table 30).615,616,637
+The ERT review identiﬁed 25 studies (26 publications) that
+compared a uric acid–lowering therapy with placebo, usual
+care, or another uric acid–lowering therapy among people with
+CKD
+and
+hyperuricemia.150,612–619,622,637–652
+Twenty-two
+studies (23 publications)150,612–619,622,637–652 were new studies
+published since the Cochrane review or were not captured by
+the Cochrane 2017 review.609 We did not include 9 studies
+from the Sampson et al.609 review because they did not
+include a separate analysis among people with CKD or
+because the study was reported as a meeting abstract only.
+Among people with CKD and hyperuricemia, the effects of
+uric acid–lowering therapy compared with placebo or usual
+care were unclear in terms of progression of kidney failure
+(pooled RR: 0.92; 95% CI: 0.43–1.98 for studies ranged in
+follow-up from 3 months to 7 years), cutaneous reactions
+and hypersensitivity (pooled RR: 1.00; 95% CI: 0.60–1.65),
+and hepatotoxicity (pooled RR: 0.92; 95% CI: 0.37–2.30).
+Lastly, within the various therapies among people with CKD
+and hyperuricemia, the effects of febuxostat compared with
+benzbromarone on cutaneous reactions and hypersensitivity
+were unclear (RR: 0.20; 95% CI: 0.01–4.01).
+chapter 3
+www.kidney-international.org
+S232
+Kidney International (2024) 105 (Suppl 4S), S117–S314

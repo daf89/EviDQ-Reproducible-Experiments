@@ -1,0 +1,592 @@
+Je travaille sur une étude scientifique intitulée DEMARCHE_ENCAD3.
+
+CONTEXTE
+
+L'objectif général de DEMARCHE_ENCAD3 est d'étudier si une gestion des problèmes de qualité des données guidée par des connaissances documentaires peut fournir une alternative explicable, traçable et contrôlée à une correction statistique directe des données.
+
+Dans cette étude de cas, le dataset est le Beijing Multi-Site Air Quality Data Set.
+
+Une étape antérieure, indépendante de cette tâche, a déjà construit un modèle de référence et réalisé une analyse SHAP sur l'ensemble de VALIDATION.
+
+Les variables mesurées importantes qui ont été retenues sont :
+
+- PM2.5
+- PM10
+- WSPM
+- DEWP
+- CO
+
+Cette sélection est FIXÉE. Vous ne devez pas la recalculer ni la remettre en question.
+
+Deux problèmes de qualité des données doivent maintenant être étudiés :
+
+1. MISSING_VALUE
+2. POTENTIAL_OUTLIER
+
+
+============================================================
+VOTRE RÔLE
+============================================================
+
+Vous êtes le LLM chargé du FILTRAGE SÉMANTIQUE DIRECT et de l'EXTRACTION DE CONNAISSANCES à partir des documents officiels fournis.
+
+Vous devez lire sémantiquement L'ENSEMBLE des documents PDF fournis.
+
+Vous ne devez PAS utiliser :
+
+- TF-IDF
+- similarité cosinus
+- embeddings pour présélectionner les passages
+- BM25
+- recherche Top-K
+- filtrage préalable par mots-clés
+- simple présence du nom de la feature comme critère de pertinence
+
+Vous devez raisonner directement sur le contenu documentaire.
+
+IMPORTANT :
+
+Le LLM n'est PAS considéré comme une source de connaissance.
+
+Les sources de connaissance sont exclusivement les documents officiels fournis.
+
+Votre rôle consiste uniquement à :
+
+- lire ;
+- filtrer sémantiquement ;
+- extraire ;
+- structurer ;
+- comparer ;
+- relier les connaissances documentaires aux features et aux problèmes DQ.
+
+
+============================================================
+PRINCIPES ÉPISTÉMIQUES OBLIGATOIRES
+============================================================
+
+Vous devez impérativement respecter les distinctions suivantes :
+
+Observation ≠ Anomalie
+
+Anomalie ≠ Erreur
+
+Outlier statistique ≠ valeur erronée
+
+Valeur extrême ≠ valeur invalide
+
+Valeur manquante ≠ panne du capteur
+
+Valeur manquante ≠ obligation d'imputation
+
+Dépassement d'un seuil environnemental ou réglementaire
+≠ erreur de qualité des données
+
+Amélioration de la prédiction
+≠ amélioration de la qualité des données
+
+Une recommandation EPA
+≠ preuve que le dataset Beijing a été collecté selon cette procédure.
+
+Les documents EPA doivent être utilisés comme SOURCE EXTERNE INDÉPENDANTE DE CONNAISSANCE.
+
+Ne jamais affirmer que les procédures EPA ont été appliquées au dataset Beijing.
+
+
+============================================================
+FEATURES À ÉTUDIER
+============================================================
+
+Étudier exactement les cinq features suivantes :
+
+1. PM2.5
+2. PM10
+3. WSPM
+4. DEWP
+5. CO
+
+
+============================================================
+PROBLÈMES DQ À ÉTUDIER
+============================================================
+
+Pour CHAQUE feature, étudier séparément :
+
+A. MISSING_VALUE
+
+B. POTENTIAL_OUTLIER
+
+Il faut donc obligatoirement examiner les 10 couples :
+
+PM2.5 × MISSING_VALUE
+PM2.5 × POTENTIAL_OUTLIER
+
+PM10 × MISSING_VALUE
+PM10 × POTENTIAL_OUTLIER
+
+WSPM × MISSING_VALUE
+WSPM × POTENTIAL_OUTLIER
+
+DEWP × MISSING_VALUE
+DEWP × POTENTIAL_OUTLIER
+
+CO × MISSING_VALUE
+CO × POTENTIAL_OUTLIER
+
+
+============================================================
+CE QU'IL FAUT RECHERCHER
+============================================================
+
+Pour chaque couple Feature × DQProblem, recherchez TOUTE connaissance documentaire utile concernant notamment :
+
+- détection ;
+- screening ;
+- vérification ;
+- validation ;
+- plausibilité ;
+- complétude ;
+- data recovery ;
+- valeurs manquantes ;
+- gaps ;
+- récupération éventuelle d'une donnée ;
+- valeurs négatives ;
+- valeurs répétées ;
+- stuck values ;
+- limites physiques ;
+- limites instrumentales ;
+- rate of change ;
+- variations temporelles ;
+- relations physiques entre variables ;
+- comparaison avec d'autres variables ;
+- comparaison avec une station proche ;
+- comparaison avec l'historique ;
+- contrôle QA/QC ;
+- calibration ;
+- documentation nécessaire ;
+- conditions d'invalidation ;
+- conditions de qualification/flagging ;
+- conditions de conservation d'une valeur ;
+- conditions de correction ;
+- conditions de récupération ;
+- situations nécessitant une revue humaine ;
+- situations dans lesquelles les preuves sont insuffisantes.
+
+Cette liste sert à expliquer le type de connaissance recherché.
+
+Elle NE doit PAS être utilisée comme filtre lexical obligatoire.
+
+
+============================================================
+VARIABLES AUXILIAIRES
+============================================================
+
+Une règle concernant une feature importante peut utiliser une autre variable du dataset comme variable de contrôle.
+
+Exemple :
+
+si un document officiel indique une relation physique entre DEWP et TEMP, cette connaissance est pertinente pour DEWP même si TEMP ne fait pas partie des cinq features importantes.
+
+Les variables auxiliaires potentiellement disponibles dans le dataset sont :
+
+PM2.5
+PM10
+SO2
+NO2
+CO
+O3
+TEMP
+PRES
+DEWP
+RAIN
+WSPM
+wd
+station
+timestamp
+
+Cependant, n'inventez aucune relation entre ces variables.
+
+Une relation doit être explicitement supportée par un document fourni.
+
+
+============================================================
+RÈGLES D'EXTRACTION
+============================================================
+
+Pour chaque connaissance pertinente trouvée, extraire :
+
+1. feature
+
+2. dq_problem :
+   - MISSING_VALUE
+   - POTENTIAL_OUTLIER
+
+3. knowledge_type :
+   - SEMANTIC
+   - PHYSICAL
+   - INSTRUMENT
+   - QA_QC
+   - STATISTICAL_DOCUMENTED
+   - TEMPORAL
+   - SPATIAL
+   - COMPLETENESS
+   - VALIDATION
+
+4. criterion_description
+
+5. criterion_expression
+
+Si le document permet une expression opérationnelle, l'écrire.
+
+Exemple uniquement si documenté :
+
+DEWP <= TEMP
+
+Sinon écrire :
+
+NOT_EXPLICITLY_SPECIFIED
+
+Ne jamais inventer une formule ou un seuil.
+
+6. control_features
+
+Variables supplémentaires nécessaires pour appliquer le critère.
+
+7. document
+
+Nom exact du PDF source.
+
+8. document_title
+
+9. organization
+
+10. publication_year
+
+11. source_section
+
+Section exacte lorsque identifiable.
+
+12. source_page
+
+Page du document lorsque identifiable.
+
+13. evidence_text
+
+Donner un extrait MINIMAL du passage réellement nécessaire pour justifier l'extraction.
+
+Ne pas recopier de longues sections du document.
+
+14. documentary_interpretation
+
+Expliquer précisément ce que le passage permet de conclure.
+
+15. applicability :
+
+DIRECT
+CONDITIONAL
+DIAGNOSTIC_ONLY
+NOT_APPLICABLE
+
+Définitions :
+
+DIRECT =
+la connaissance est explicitement documentée et peut être testée avec les variables disponibles dans le dataset.
+
+CONDITIONAL =
+la connaissance est documentée mais nécessite une information supplémentaire que nous ne possédons pas nécessairement, par exemple spécification de l'instrument, calibration, logbook, maintenance ou documentation QA/QC.
+
+DIAGNOSTIC_ONLY =
+la connaissance aide à investiguer ou interpréter le problème mais ne suffit pas à déterminer directement la validité de la valeur.
+
+NOT_APPLICABLE =
+la connaissance existe mais son champ d'application ne permet pas de l'utiliser pour cette feature/dataset sans hypothèse injustifiée.
+
+16. applicability_reason
+
+17. operational_status :
+
+EXECUTABLE
+REQUIRES_ADDITIONAL_INFORMATION
+DIAGNOSTIC_ONLY
+NO_SUPPORTED_RULE
+
+18. candidate_action
+
+Utiliser uniquement :
+
+KEEP
+FLAG
+REVIEW
+RECOVER
+CORRECT
+IMPUTE
+EXCLUDE
+INVALIDATE
+ABSTAIN
+NONE
+
+IMPORTANT :
+
+Une action ne doit être indiquée que si le document la supporte réellement.
+
+Ne jamais transformer automatiquement :
+
+MISSING_VALUE → IMPUTE
+
+ou
+
+POTENTIAL_OUTLIER → EXCLUDE/CORRECT.
+
+19. action_conditions
+
+Préciser les conditions documentaires nécessaires pour autoriser l'action.
+
+20. missing_information
+
+Préciser les informations nécessaires mais absentes du dataset si applicable.
+
+21. limitations
+
+22. epistemic_status
+
+Utiliser une formulation explicite parmi :
+
+DOCUMENTED_DIRECT_KNOWLEDGE
+DOCUMENTED_CONDITIONAL_KNOWLEDGE
+DOCUMENTED_DIAGNOSTIC_KNOWLEDGE
+INSUFFICIENT_DOCUMENTARY_EVIDENCE
+
+
+============================================================
+RÈGLES SPÉCIALES POUR LES MISSING VALUES
+============================================================
+
+Ne jamais supposer qu'une valeur manquante doit être imputée.
+
+Chercher séparément si les documents supportent :
+
+- identification du gap ;
+- recherche de la cause ;
+- récupération de la mesure originale ;
+- qualification/codage de la valeur absente ;
+- utilisation d'informations auxiliaires ;
+- remplacement ;
+- interpolation ;
+- imputation ;
+- exclusion ;
+- abstention.
+
+Si aucune méthode de remplacement n'est explicitement supportée :
+
+NE PAS INVENTER D'IMPUTATION.
+
+La conclusion peut parfaitement être :
+
+ABSTAIN.
+
+
+============================================================
+RÈGLES SPÉCIALES POUR LES POTENTIAL OUTLIERS
+============================================================
+
+Un outlier détecté statistiquement est uniquement :
+
+POTENTIAL_OUTLIER
+
+Il ne devient jamais automatiquement une erreur.
+
+Chercher si les documents proposent des preuves permettant de distinguer :
+
+REAL_EXTREME_VALUE
+
+SUSPECT_VALUE
+
+INVALID_VALUE
+
+INSTRUMENT_PROBLEM
+
+INSUFFICIENT_EVIDENCE
+
+Chercher notamment les connaissances documentées permettant de confronter une valeur suspecte avec :
+
+- historique ;
+- station proche ;
+- autres variables ;
+- comportement physique ;
+- QA/QC ;
+- calibration ;
+- fonctionnement du capteur ;
+- répétition/stuck values ;
+- variation temporelle.
+
+Si les preuves sont insuffisantes :
+
+ABSTAIN ou REVIEW,
+
+selon ce que supporte réellement le document.
+
+
+============================================================
+INTERDICTIONS
+============================================================
+
+Il est strictement interdit de :
+
+- fabriquer une plage de validité ;
+- inventer un seuil ;
+- inventer une règle métier ;
+- inventer une procédure EPA ;
+- utiliser votre connaissance générale pour compléter un PDF ;
+- transformer un standard environnemental en limite de validité des données ;
+- considérer une valeur élevée de pollution comme erronée simplement parce qu'elle est élevée ;
+- supposer le type d'instrument utilisé à Beijing ;
+- supposer que les procédures EPA ont été appliquées à Beijing ;
+- recommander une imputation simplement parce qu'une valeur est manquante ;
+- recommander une suppression simplement parce qu'une valeur est statistiquement atypique ;
+- sélectionner une action sur la base des performances du modèle prédictif.
+
+
+============================================================
+COUVERTURE EXHAUSTIVE
+============================================================
+
+Vous devez produire un résultat pour CHACUN des 10 couples Feature × DQProblem.
+
+Si aucune connaissance pertinente n'est trouvée pour un couple, ne l'omettez pas.
+
+Écrire explicitement :
+
+NO_SUPPORTED_RULE
+
+et expliquer pourquoi.
+
+Cela constitue un résultat scientifique valide.
+
+
+============================================================
+SORTIE 1 — TABLEAU SYNTHÉTIQUE
+============================================================
+
+Produire d'abord un tableau avec exactement une ligne pour chacun des 10 couples :
+
+Feature
+DQ_problem
+Documentary_evidence_found
+Number_of_relevant_knowledge_items
+Strongest_applicability
+Executable_rule_available
+Main_supported_actions
+Additional_information_required
+Final_documentary_status
+
+Final_documentary_status doit être l'un de :
+
+SUPPORTED_EXECUTABLE
+SUPPORTED_CONDITIONAL
+DIAGNOSTIC_ONLY
+NO_SUPPORTED_RULE
+
+
+============================================================
+SORTIE 2 — EXTRACTION DÉTAILLÉE
+============================================================
+
+Produire ensuite toutes les connaissances documentaires pertinentes.
+
+Une même feature × problème peut avoir plusieurs connaissances provenant de plusieurs documents.
+
+Ne fusionnez pas artificiellement des règles différentes.
+
+
+============================================================
+SORTIE 3 — MATRICE D'ACTIONS
+============================================================
+
+Produire une matrice :
+
+Feature
+DQ_problem
+Potential_action
+Documentary_support
+Conditions
+Executable_with_current_dataset
+Missing_information
+Decision_status
+
+Cette matrice doit montrer clairement ce que les documents permettent et ce qu'ils ne permettent pas.
+
+
+============================================================
+SORTIE 4 — JSON STRUCTURÉ
+============================================================
+
+À la fin, fournir un bloc JSON nommé :
+
+LLM_EXTRACTED_KNOWLEDGE
+
+contenant l'ensemble des connaissances retenues.
+
+Chaque objet doit contenir exactement :
+
+{
+  "knowledge_id": "...",
+  "feature": "...",
+  "dq_problem": "...",
+  "knowledge_type": "...",
+  "criterion_description": "...",
+  "criterion_expression": "...",
+  "control_features": ["..."],
+  "document_id": "...",
+  "document_title": "...",
+  "organization": "...",
+  "publication_year": 0,
+  "source_section": "...",
+  "source_page": "...",
+  "evidence_text": "...",
+  "documentary_interpretation": "...",
+  "applicability": "...",
+  "applicability_reason": "...",
+  "operational_status": "...",
+  "candidate_action": "...",
+  "action_conditions": "...",
+  "missing_information": "...",
+  "limitations": "...",
+  "epistemic_status": "..."
+}
+
+
+Utiliser les document_id suivants :
+
+EPA_VALIDATION_2021
+EPA_QA_HANDBOOK_VOLII_2017
+EPA_PM25_QA_2016
+EPA_METEO_VOLIV_2008
+EPA_QAPP_GUIDE_2018
+
+
+============================================================
+SORTIE 5 — CONTRÔLE FINAL
+============================================================
+
+Terminer par un contrôle méthodologique répondant explicitement à ces questions :
+
+1. Les 5 features ont-elles toutes été examinées ?
+
+2. MISSING_VALUE a-t-il été examiné pour les 5 features ?
+
+3. POTENTIAL_OUTLIER a-t-il été examiné pour les 5 features ?
+
+4. Des seuils non documentés ont-ils été introduits ?
+
+5. Une imputation automatique a-t-elle été proposée ?
+
+6. Un outlier a-t-il été assimilé automatiquement à une erreur ?
+
+7. Une règle EPA a-t-elle été présentée comme procédure réellement utilisée à Beijing ?
+
+8. Les cas sans preuve suffisante ont-ils été conservés comme ABSTAIN/NO_SUPPORTED_RULE ?
+
+9. Chaque connaissance retenue possède-t-elle une provenance documentaire identifiable ?
+
+10. Quelles règles sont réellement exécutables avec les variables actuellement disponibles dans le dataset ?
+
+Le résultat doit être suffisamment rigoureux et traçable pour être intégré ultérieurement dans une base de connaissances scientifique de DEMARCHE_ENCAD3.

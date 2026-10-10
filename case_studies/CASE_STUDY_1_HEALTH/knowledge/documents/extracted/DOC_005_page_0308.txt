@@ -1,0 +1,61 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+308
+Ajustements
+Critère 3.5-01
+Regroupement d’éléments.
+La gouvernance a une politique de qualité de vie au travail (QVT)
+Libellé 2023 : Il existe au sein des unités de travail des espaces – temps de discussions collectives qui 
+permettent de faire un diagnostic et des propositions concrètes sur les conditions et l’organisation du 
+travail.
+Suppression de l’élément d’évaluation.
+Libellé 2023 : Il existe au sein des unités de travail des espaces – temps de discussions collectives qui 
+permettent de faire un diagnostic et des propositions concrètes sur les conditions et l’organisation du 
+travail.
+Libellé 2024 : Des espace-temps de discussions collectives et/ou des dispositifs de soutien des 
+professionnels dans la recherche de solutions visant à améliorer l’organisation du travail existent au plus 
+près du terrain.
+Création d’un élément d’évaluation par transfert depuis le critère 3.5-02 : Des dispositifs d’écoute pour un 
+soutien psychologique sont accessibles à tous les professionnels quels que soient leur métier ou leur 
+statut.
+Critère 3.5-02
+Augmentation de l'exigence des éléments d’évaluation.
+La Gouvernance met en place des mesures de gestion des difficultés interpersonnelles et des 
+conflits
+Libellé 2023 : En cas de conflits interpersonnels, il existe une possibilité de médiation respectant la 
+confidentialité.
+Suppression de l’élément d’évaluation en nouveaux éléments d’évaluation plus explicites sur les attendus. 
+Création d’un élément d’évaluation : La gouvernance soutient pour tous (professionnels permanents, 
+temporaires ou en cours de formation) des mesures d’anticipation et de prévention des difficultés 
+interprofessionnelles et des conflits en lien avec le service de prévention et de santé au travail.
+Création d’un élément d’évaluation : La gouvernance soutient pour les personnels en situation 
+d’encadrement des mesures de formation sur la prévention, la gestion des différends entre professionnels 
+(y compris ceux en formation).
+Création d’un élément d’évaluation : La gouvernance met en place un dispositif gradué de réponse aux 
+professionnels (y compris ceux en formation) dans la résolution des conflits.
+Création d’un élément d’évaluation : La gouvernance organise l’accompagnement des professionnels 
+après la phase de conciliation et/ou médiation.
+Création d’un élément d’évaluation : Les professionnels connaissent les dispositifs de résolution des 
+conflits à l’extérieur de l’établissement.
+Création d’un élément d’évaluation : Les professionnels bénéficient d’un accompagnement à l’issue de la 
+gestion d’une situation de conflit interprofessionnel.
+Critère 3.6-01
+La gestion des tensions hospitalières et des situations sanitaires exceptionnelles est maîtrisée
+Texte introductif :
+Libellé 2023 : L’établissement a anticipé les risques et menaces auxquels il peut être confronté, pouvant 
+se traduire par une situation de tension hospitalière : tensions liées à l’afflux de patients, la fragilisation 
+des structures d’urgence, du fait d’une carence en lits d’aval ou de crise sanitaire exceptionnelle : 
+augmentation prévisible de la demande en soins critiques à cinétique rapide (attentats, accidents 
+collectifs…) ou lente (épidémie, pandémie de type Covid, épisode climatique exceptionnel…). La réponse 
+graduée de l’établissement de santé à une situation sanitaire exceptionnelle, repose sur le plan de gestion 
+des tensions hospitalières et des situations sanitaires exceptionnelles avec 2 niveaux de mobilisation de 
+l’établissement (niveau 1 : plan de mobilisation interne, niveau 2 : plan blanc). 
+Libellé 2024 : L’établissement a anticipé les risques et menaces auxquels il peut être confronté, pouvant 
+se traduire par une situation de tension hospitalière : tensions liées à l’afflux de patients, la fragilisation 
+des structures d’urgence, du fait d’une carence en lits d’aval… de dommage majeur du système 
+d’information ou de crise sanitaire exceptionnelle : augmentation prévisible de la demande en soins 
+critiques à cinétique rapide (attentats, accidents collectifs…) ou lente (épidémie, pandémie de type Covid, 
+épisode climatique exceptionnel…). La réponse graduée de l’établissement de santé à une situation 
+sanitaire exceptionnelle, repose sur le plan de gestion des tensions hospitalières et des situations 
+sanitaires exceptionnelles avec 2 niveaux de mobilisation de l’établissement (niveau 1 : plan de 
+mobilisation interne, niveau 2 : plan blanc). Le plan blanc comporte un volet relatif aux risques 
+numériques.

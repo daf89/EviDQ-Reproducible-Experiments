@@ -1,0 +1,21 @@
+item,value
+Dataset_REF valid,True
+Dataset unchanged,True
+Target,risk_score_t
+Model,GradientBoostingRegressor
+Original predictors,150
+Transformed predictors,151
+Train rows,39027
+Test rows,9757
+TRAIN MAE,1.5940964160195092
+TRAIN RMSE,2.8773799941117386
+TRAIN R2,0.7329469387693637
+TEST MAE,1.656465647453706
+TEST RMSE,3.082701235963995
+TEST R2,0.6643850524546406
+SHAP sample,5000
+SHAP cumulative threshold,0.8
+Prediction-relevant features,12
+RAG used,False
+Errors injected,False
+Corrections applied,False

@@ -1,0 +1,125 @@
+
+
+===== PDF PAGE 473 =====
+
+Part 6: Templates and Forms 
+Section 3D: Country Report Template 
+6-3D-4 
+WHO STEPS Surveillance 
+Methods 
+ 
+ 
+ 
+Introduction 
+The methods should explain the scope of the STEPS survey, the methods 
+used for data collection, and the implementation process. Also describe the 
+sample and analytical methods in sufficient detail to demonstrate that the 
+survey results are reliable and represent the intended population(s). 
+ 
+ 
+Content guide 
+Follow the guidelines in the table below to help complete the methods 
+section. 
+ 
+Heading 
+Guidelines for completion 
+Scope 
+• Identify which core Steps (1-3) were covered and if 
+any expanded and optional items have been added. 
+Study population 
+• Explain who the results/findings will be representative 
+for (Geographical coverage, age-groups, general 
+population). 
+• Mention inclusion/exclusion criteria (e.g., pregnant 
+women excluded for height and weight 
+measurements). 
+• If the whole country was not covered, explain the 
+reasons. 
+Sample size 
+• Explain how the initial sample size was calculated. 
+Sampling 
+• Describe the sampling method used for the survey 
+• Mention what sampling frame was used. 
+• Describe how the sampling units were derived, and 
+how this was applied in the field. 
+• Detail the use of clusters (if relevant). 
+Timeframes 
+• Include information on the overall starting and 
+completion dates of the survey. 
+• Specify dates/seasons of data collection. 
+Staff recruitment 
+and training 
+• Describe the training programmes provided for the 
+survey personnel, the number of persons trained, and 
+the background of trainees. 
+• Describe the format, content and duration of the 
+training provided for the survey. 
+Pilot study 
+• Mention whether a pilot study was done before 
+conducting the actual survey. 
+• Explain how the pilot study has been conducted. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 474 =====
+
+Part 6: Templates and Forms 
+Section 3D: Country Report Template 
+6-3D-5 
+WHO STEPS Surveillance 
+ 
+ 
+Methods, Continued 
+ 
+ 
+Content guide (cont.) 
+ 
+ 
+Heading 
+Guidelines for completion 
+Instrument and data 
+collection 
+• Describe the STEPS Instrument used. 
+• Describe how the measurements (Step 2 and 3) were 
+done. 
+• Outline which core and expanded items were covered. 
+• Describe any adaptations made to the standard STEPS 
+Instrument and any optional items added. 
+• Mention if/add pictures of show-cards that have been 
+used. 
+• Specify languages used (and translation issues) in the 
+survey. 
+• Describe the organization of data collection teams 
+including supervision, numbers involved, quality 
+control, timeframe for data collection, etc. 
+• Explain how and where the data collection teams 
+made contact with survey participants. Describe the 
+data collection setting(s). 
+• Describe electronic devices for data collection, 
+including automatic skip patterns and error checks. 
+Data downloading 
+• Describe the data download processes during the field 
+work for data quality checking. 
+• Describe the data download processes at the end of the 
+field work to compile the final dataset. 
+Analysis 
+information 
+• Describe the data analysis processes, methods (such as 
+cleaning of data), timeframes  and  software  used. 
+Refer to the software capability to handle complex 
+sampling design. 
+• Explain that most results generated are presented as 
+means or percentages, with associated standard errors 
+and derived confidence intervals. 
+• Describe which methods (i.e. weighting) were used to 
+adjust the results for  non-response,  population 
+structure and the sampling design so they represent the 
+population. 
+• Insert the weighting formulas used. 
+• Describe which statistical tests were used, if any, to 
+test for differences between groups. 
+Response 
+proportions 
+• Describe how response proportions were calculated. 
+ 

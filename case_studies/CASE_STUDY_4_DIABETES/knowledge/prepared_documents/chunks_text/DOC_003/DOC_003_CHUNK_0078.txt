@@ -1,0 +1,143 @@
+
+
+===== PDF PAGE 155 =====
+
+Part 3: Data Collection 
+Section 3: Data Collection Process 
+Last Updated: 26 January 2017 
+3-3-10 
+WHO STEPS Surveillance 
+Selecting a Participant within a Selected Household 
+ 
+ 
+ 
+Introduction 
+From each selected household, one participant needs to be randomly chosen. 
+The STEPS app on the Android device will assist you in performing this 
+selection. 
+ 
+ 
+Create a new 
+household 
+Prior to selecting a participant within a household, an entry for the household 
+must first be made in the STEPS app. To create a new household simply tap 
+on “Add New Household” on the STEPS home screen. You can then add a 
+contact phone number or any comments (e.g. how to locate the household) 
+pertaining to this household. Entering this information is optional. 
+ 
+ 
+ 
+Enter all 
+eligible 
+household 
+members 
+To add a new household member, tap on “Add New Member”. Then enter 
+the individual’s name, age, and sex. 
+ 
+Continue to add new household members until  all  eligible  members  have 
+been listed. Even if there is only one eligible household member, a household 
+entry must be created and that person must be listed as (the sole) household 
+member. 
+ 
+Eligibility criteria for household and members of the households to be 
+included in the survey will need to be defined in advance of the fieldwork. 
+ 
+ 
+ 
+Select 
+participant 
+using the 
+electronic 
+device for data 
+collection 
+Once all eligible household members have been added to the household, 
+confirm that the list of eligible members entered on your Android device 
+reflects the eligible members of this household. Once you have confirmed the 
+accuracy of the list of eligible household members, simply tap on “Select 
+Participant” to select one household member at random. 
+ 
+The selected participant will be highlighted on your screen and you will be 
+given the option to conduct the interview now, defer the interview for a later 
+time, or a refusal. 
+ 
+While there is an option at this point to cancel the selection, this option    
+should be used very rarely, in the event that an error has been made in the 
+household listing. This option should never be used in the event of a refusal. 
+Note that canceled selections are recorded by the device and submitted to the 
+server along with the household listing data so that canceled selections can be 
+monitored by the local STEPS Coordinating Committee. 
+ 
+ 
+
+
+===== PDF PAGE 156 =====
+
+Informing Participants 
+Part 3: Data Collection 
+Section 3: Data Collection Process 
+Last Updated: 26 January 2017 
+3-3-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+After having chosen a survey participant from a household, this participant 
+needs to be informed on the details of the study before he/she will be asked to 
+sign the Consent Form. For informing the participant, the Participant 
+Information Form can be read out (see Part 6, Section 2). 
+ 
+ 
+Explaining aim 
+of the survey 
+Explain that the aim of the survey is to determine population levels of major 
+NCD risk factors. Also explain how the information will be used, i.e. for 
+policy making in order to decrease risk factor levels. 
+ 
+ 
+ 
+Explaining 
+survey process 
+Explain that you will collect information from a number of pre-selected 
+households throughout the country. Explain how data will be collected, as 
+appropriate, i.e. through: 
+• interview questions (Step 1) 
+• measurements of blood pressure, height, weight, waist, and hip (Step 2) 
+• urine samples and blood tests for sugar and fats (Step 3). 
+ 
+ 
+ 
+Explaining 
+collection 
+methods 
+Use the table below to help run through the whole data collection process 
+with the participant: 
+ 
+Stage 
+Description 
+1 
+Step 1, asking questions about participant's: 
+• age; 
+• education, ethnicity, marital status; 
+• employment, income; 
+• tobacco and alcohol use; 
+• fruit and vegetable intake, salt in diet; 
+• physical activity; 
+• knowledge and history of raised blood pressure, diabetes, raised 
+total cholesterol, cardiovascular diseases; 
+• lifestyle advice; 
+• cervical cancer screening 
+2 
+Step 2, taking the following measurements: 
+• blood pressure and heart rate 
+• height and weight 
+• waist and hip circumference. 
+3 
+Step 3, taking urine samples to determine urinary sodium, and a 
+small amount of blood from a prick on your finger to determine 
+blood sugar and blood lipid levels.* 
+*Note: This may cause some mild pain 
+4 
+Respond to any questions the participant may have. 
+ 
+Continued on next page 

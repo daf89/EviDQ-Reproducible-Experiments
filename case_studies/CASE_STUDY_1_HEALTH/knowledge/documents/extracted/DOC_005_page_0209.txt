@@ -1,0 +1,32 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+209
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ En pratique
+Comment vérifier les champs d’applicabilité ?
+Dans la zone « Créer » appuyer sur « Actualisation profil établissement  » 1 et dans « Tâches » sur « Vérification des 
+champs d’applicabilité » 2  : vérifier que la réponse 
+ ou 
+ correspond à la réalité de votre établissement 
+pour chaque champ d’applicabilité. Pour visualiser le détail de chaque champ, il vous faut appuyer sur « 
+ » 3 . 
+Que faire en cas d’informations erronées ?
+Si vous souhaitez faire des changements sur les données pré-renseignées :
+• • connecter vous avec un profil Administrateur ES ;
+• • cliquer sur « Modifier » 1   ;
+• • cliquer sur les champs ou sous-champs à rajouter ou à supprimer 2   ;
+• • mentionner un commentaire 3   ;
+• • déposer un justificatif par sous-champ rajouté (arrêté ARS justifiant la nature de l’autorisation) 4  . Il est possible de 
+déposer plusieurs fois le même document à condition de modifier son nom ;
+• • appuyer sur le bouton « Transmettre à la HAS » 5 (l’encadré devient vert et passe de NON à OUI 6 ).
+ Fiche pratique opératoire_E6 
+1
+2
+1
+6
+2
+3
+4

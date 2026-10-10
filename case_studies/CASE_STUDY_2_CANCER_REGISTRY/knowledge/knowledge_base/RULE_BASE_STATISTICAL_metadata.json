@@ -1,0 +1,60 @@
+{
+  "step": "STEP21_RULE_BASE_STATISTICAL_CONSTRUCTION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-23T15:56:37.372837+00:00",
+  "processor": "Python / Jupyter",
+  "rule_base": "RULE_BASE_STATISTICAL",
+  "construction_principle": "Only KB_STATISTICAL items classified as READY_FOR_DETECTION_RULE in Step20B are converted into deterministic IF/AND-OR/THEN detection rules.",
+  "counts": {
+    "kb_statistical_items": 15,
+    "step20b_ready_items": 6,
+    "measurement_only_items": 5,
+    "not_ready_items": 4,
+    "generated_rules": 6
+  },
+  "rule_coverage": 0.4,
+  "rule_types": {
+    "DETECTION_RULE": 6
+  },
+  "control_family_distribution": {
+    "MISSINGNESS": 5,
+    "NON_FINITE_NUMERIC": 1
+  },
+  "controls": {
+    "all_15_kb_items_mapped": true,
+    "only_ready_items_generated_rules": true,
+    "measurement_only_generated_rules": false,
+    "not_ready_generated_rules": false,
+    "dataset_ref_used": false,
+    "dataset_values_used": false,
+    "dataset_diagnosis_performed": false,
+    "anomaly_detection_performed": false,
+    "unsupported_method_invented": false,
+    "unsupported_threshold_invented": false,
+    "unsupported_parameter_invented": false,
+    "error_established": false,
+    "correction_generated": false,
+    "correction_applied": false,
+    "dataset_modified": false,
+    "kb_document_used": false,
+    "rule_base_document_used": false,
+    "hidden_reference_used": false,
+    "external_knowledge_used": false,
+    "internet_used": false,
+    "gpt_used": false,
+    "if_then_rules_generated": true,
+    "rules_are_flag_only": true
+  },
+  "outputs": {
+    "rule_base_csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\RULE_BASE_STATISTICAL.csv",
+    "rule_base_jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\knowledge_base\\RULE_BASE_STATISTICAL.jsonl",
+    "mapping": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step21_rule_base_statistical\\tables\\Table_KB_STATISTICAL_to_RULE_BASE_STATISTICAL.csv",
+    "summary_rules": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step21_rule_base_statistical\\tables\\Table_RULE_BASE_STATISTICAL_Summary.csv",
+    "summary_by_feature": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step21_rule_base_statistical\\tables\\Table_RULE_BASE_STATISTICAL_By_Feature.csv",
+    "coverage": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step21_rule_base_statistical\\tables\\Table_RULE_BASE_STATISTICAL_Coverage.csv"
+  },
+  "sha256": {
+    "RULE_BASE_STATISTICAL.csv": "b8fae70bff123574951da97daebc1803d5d5071a14f53142c5cc4394b7950240",
+    "RULE_BASE_STATISTICAL.jsonl": "6e3530c87a0c75aef3eb0fa8ee2a1a3393fca0554ace62778f3061d88bedd8ae"
+  }
+}

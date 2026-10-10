@@ -1,0 +1,46 @@
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+email. The reason emails work so ubiquitously is because there are standards on both the structure and 
+the actions. Without those syntactical agreements you could not effectively send or receive messages – 
+no system would know how to send, receive, or display the message contents. To oversimplify, 
+healthcare systems work like very complex email systems; sending and receiving messages related to 
+admissions, orders, results, and the other rich aspects of care. 
+It is common to find that specific areas of clinical focus will have their own defined standards for storing 
+and transmitting data. Once you have common syntactical structures (and semantics), you can define 
+methods of communication that specify the types of operations that can be initiated and how they can 
+be used. 
+The dominant standards body that drives most syntactic healthcare interoperability is Health Level 7 
+(HL7). You often hear “HL7” expressedin a clinical setting. What might be a bit confusing is that “HL7” is 
+not only the standards organization, but alsoone of their primary medicalrecord s tandards, 
+“HL7v2.”[105] One of the reasons the HL7standards are soprevalent is that they define most core types 
+of messages and actions you might need for normal hospital operations. It covers everything from 
+“basic” patient administration like admission, discharge, and transfer, order management (for 
+everything you could imagine), communication of observations, management of patient demographics, 
+and a host of other activities and data. When you look at a more complex environment like an academic 
+medical center it is extremely common to have individual systems for specialized functions. Interface 
+and messaging standards like HL7 allow for “best of breed” applications to be installed into an overall 
+ecosystem that makes up the medical enterprise. 
+This approach – leveraging syntactic interoperability standards to allow applications to be broken into 
+components – alsoallows for federation of functionality beyond the immediate EHR. If you think more 
+broadly and consider the local practice’s medicalrecord systemas one component in a state orfederal 
+network, you can envision how these interface standards might be used to support patient registries for 
+state-wide immunizations. Each provider might now be able to submit or retrieve records of 
+immunizations to ensure a patient’s list of administeredvaccines is up to date. Another common 
+scenario is syndromic surveillance, where organizations are asked to submit arrival diagnosis from the 
+emergency department to monitor outbreaks of diseases. 
+The evolution of syntactic interoperability is helping drive the interconnected medical system forward. If 
+you have a watch or phone that records data which can now be integratedinto your provider’s chart – 
+that is only possible due to standards. 
+Policy Interoperability 
+We described policy interoperability as governance of the allowable use and methods of interacting with 
+the systems and data. To have meaning (semantic) and structural (syntactic) interoperability defines 
+what we could do, not what we are allowed or required to do. Policy defines how and when data may be 
+used as well as the manner and method in which they may be interacted. 
+One of the most important and widely known interoperability policies within the United States is the 
+“HealthInsurance Portabilityand Accountability Act of 1996” (HIPAA).[106] We typically know HIPAA as 
+having a privacy rule (see Section 2), but it and its subsequent “Administrative Simplification Standard” 
+alsocontained severalother criticalprovisions: 
+Health IT Advisor Handbook 
+Page 112

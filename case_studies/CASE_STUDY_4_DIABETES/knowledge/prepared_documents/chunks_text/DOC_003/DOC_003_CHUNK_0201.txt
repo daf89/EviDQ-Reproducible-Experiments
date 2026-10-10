@@ -1,0 +1,207 @@
+
+
+===== PDF PAGE 401 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-42 
+WHO STEPS Surveillance 
+ 
+ 
+Past 7 
+days 
+drinking 
+Description: Frequency of alcohol consumption in the past 7 days by current (past 
+30 days) drinkers. 
+ 
+Instrument question: 
+• During each of the past 7 days, how many standard drinks of any alcoholic drink 
+did you have each day? 
+ 
+Frequency of alcohol consumption in the past 7 days 
+Age 
+Group 
+(years) 
+Men 
+n 
+% Daily 
+95% CI 
+% 5-6 
+days 
+95% CI 
+% 3-4 
+days 
+95% CI 
+% 1-2 
+days 
+95% CI 
+% 0 
+days 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of alcohol consumption in the past 7 days 
+Age 
+Group 
+(years) 
+Women 
+n 
+% Daily 
+95% CI 
+% 5-6 
+days 
+95% CI 
+% 3-4 
+days 
+95% CI 
+% 1-2 
+days 
+95% CI 
+% 0 
+days 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of alcohol consumption in the past 7 days 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% Daily 
+95% CI 
+% 5-6 
+days 
+95% CI 
+% 3-4 
+days 
+95% CI 
+% 1-2 
+days 
+95% CI 
+% 0 
+days 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A10a-g 
+• Epi Info program name: Apastweek (unweighted); ApastweekWT (weighted) 
+ 
+
+
+===== PDF PAGE 402 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-43 
+WHO STEPS Surveillance 
+ 
+ 
+Standard 
+drinks 
+per day 
+in the 
+past 7 
+days 
+Description: Mean number of standard drinks consumed on average per day in the 
+past 7 days among current (past 30 days) drinkers. 
+ 
+Instrument question: 
+• During each of the past 7 days, how many standard drinks of any alcoholic drink 
+did you have each day? 
+ 
+Mean number of standard drinks consumed on average per day in the past 7 days among current drinkers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+number 
+n 
+ Mean 
+95% CI 
+number 
+n 
+ Mean 
+95% CI 
+number 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A10a-g 
+• Epi Info program name: Apastweek (unweighted); ApastweekWT (weighted) 
+ 
+ 
+ 
+Consumption 
+of 
+unrecorded 
+alcohol 
+Description: Percentage of respondents that consumed unrecorded alcohol 
+(homebrewed alcohol, alcohol brought over the border, not intended for drinking 
+or other untaxed alcohol) during the past 7 days among current (past 30 days) 
+drinkers. 
+ 
+Instrument questions: 
+• Have you consumed any alcohol within the past 30 days? 
+• During the past 7 days, did you consume any homebrewed alcohol, any 
+alcohol brought over the border, not intended for drinking or other untaxed 
+alcohol? 
+ 
+Consumption of unrecorded alcohol 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+ consuming 
+95% CI 
+unrecorded 
+alcohol 
+% 
+n 
+ consuming 
+95% CI 
+unrecorded 
+alcohol 
+% 
+n 
+ consuming 
+95% CI 
+unrecorded 
+alcohol 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A10a-g, A11 
+• Epi Info program name: Aunrecorded (unweighted); AunrecordedWT (weighted) 
+ 

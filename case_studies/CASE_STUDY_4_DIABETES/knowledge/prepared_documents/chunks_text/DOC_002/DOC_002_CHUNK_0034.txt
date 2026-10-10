@@ -1,0 +1,83 @@
+
+
+===== PDF PAGE 67 =====
+
+Indicators and metadata  ﻿
+55
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710). 
+Gregg E, Buckley J, Ali M, Davies J, Flood D, Griffiths B et al (for the For the 
+Diabetes Targets Expert Consultation Group). Improving health outcomes of 
+people with diabetes mellitus: target setting to reduce the global burden of 
+diabetes mellitus by 2030. Lancet. 2023;401(10384): 1302–1312. doi:10.1016/
+S0140-6736(23)00001-6.
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+Draft recommendations to strengthen and monitor diabetes responses within 
+national noncommunicable disease programmes including potential targets. 
+WHO discussion paper (9 August 2021) (https://cdn.who.int/media/docs/default-
+source/searo/eb150---annex-2-(diabetes).pdf), accessed 26 May 2024).
+
+
+===== PDF PAGE 68 =====
+
+56
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+34. 	Glycaemic control among people with diabetes based on fasting 
+plasma glucose
+Indicator name
+Glycaemic control among people with diabetes based on fasting 
+plasma glucose
+Purpose
+To measure the effectiveness of clinical services for people with diabetes for 
+achieving glycaemic control.
+Definition
+Proportion of people with diabetes with good glycaemic control based on FPG 
+measurement.
+Based on WHO guidelines: 
+Clinical target: <126 mg/dl (7 mmol/l) 
+Global target: <178 mg/dl (9.9 mmol/l)
+	
+●
+Glycaemic control can be alternatively defined in accordance with 
+national targets and guidelines.
+	
+●
+This indicator can be derived from population-based surveys or health 
+facility-based routine data.
+Numerator
+Population survey data: Number of respondents with diabetes with good 
+glycaemic control using FPG measurement.
+Facility data: Number of people with diabetes registered in health facilities with 
+good glycaemic control using FPG measurement at the last clinical visit during 
+the reporting period, excluding those who were newly diagnosed with less than 
+3 months of treatment.
+Denominator
+Population survey data: Total number of respondents with diabetes.
+Facility data: Total number of people with diabetes registered in health facilities 
+during the reporting period, excluding those who were newly diagnosed with less 
+than 3 months of treatment.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population -based surveys, with FPG 
+measurement, health facility patient registers, health records.
+Limitations/comments
+This indicator could be used only for countries with very limited resources, in 
+which HbA1c is not available or accessible.
+People with unknown status of glycaemic control (e.g. missed appointment/
+dropped out) and patients referred to higher-level care facilities during the 
+reporting quarter, will be counted in the denominator and their glycaemic 
+control status will be counted as not controlled.
+Patients known to have transferred to another facility during the reporting 
+quarter will be counted in the denominator and their last known status prior to 
+transfer will be used.
+For comparison with other health care facilities the indicator needs to be 
+age-standardized.

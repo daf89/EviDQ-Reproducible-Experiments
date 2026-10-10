@@ -1,0 +1,155 @@
+
+
+===== PDF PAGE 205 =====
+
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-7 
+WHO STEPS Surveillance 
+Urinary Sodium and Creatinine Measurement 
+ 
+ 
+ 
+Introduction 
+Urinary sodium and creatinine are measured to determine population levels of 
+high salt intake, a risk factor mainly for hypertension and cardiovascular 
+disease. 
+ 
+ 
+Storing of urine 
+samples 
+There is no specific temperature at which samples should be stored, although 
+it is sometimes more convenient to freeze them. 
+ 
+ 
+ 
+Transport of 
+urine samples 
+and Laboratory 
+analysis 
+In most countries, urine samples will be analysed at a central laboratory by a 
+laboratory technician. Results of this analysis will need to be recorded on the 
+Android devices, in order to have each participant’s data complete. The 
+participant ID plays a crucial role here, since it is the variable used for 
+matching the data. 
+ 
+If samples are stored frozen/unfrozen for future use or sent elsewhere for 
+analysis, then there may be need to consider further consent taking to account 
+of cultural beliefs. 
+ 
+ 
+
+
+===== PDF PAGE 206 =====
+
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-8 
+WHO STEPS Surveillance 
+Blood Collection 
+ 
+ 
+ 
+Introduction 
+Blood samples are taken from eligible participants to be used to perform tests 
+to measure blood glucose and blood lipids. 
+ 
+ 
+Infection 
+control 
+Infection control procedures appropriate for the setting should be followed. 
+ 
+Whole blood is more infective with regard to blood borne disease than 
+centrifuged serum or plasma. There may be an increased risk in handling 
+whole blood and universal precautions should be adopted. 
+ 
+ 
+ 
+Units of 
+measurement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Participant 
+fasting 
+requirements 
+The table below shows the standard units of measurement for biochemical 
+tests used in STEPS and their upper and lower limits for data entry purposes 
+on the Android devices. 
+ 
+Blood Test 
+Unit 
+Minimum 
+Maximum 
+Fasting glucose 
+mmol/L 
+1.1 
+33.3 
+Total cholesterol 
+mmol/L 
+2.59 
+10.36 
+HDL 
+mmol/L 
+0.30 
+2.59 
+Fasting triglycerides 
+mmol/L 
+0.56 
+5.65 
+ 
+Blood Test 
+Unit 
+Minimum 
+Maximum 
+Fasting glucose 
+mg/dl 
+20 
+600 
+Total cholesterol 
+mg/dl 
+100 
+400 
+HDL 
+mg/dl 
+10 
+100 
+Fasting triglycerides 
+mg/dl 
+50 
+500 
+ 
+ 
+To obtain accurate results, participants must fast for at least 8 hours before 
+blood collection (12 hours if triglycerides are also measured). This is 
+particularly important for the measurements of blood glucose as well as 
+triglycerides, if applicable. 
+ 
+Most blood samples are to be taken in the morning. This means participants 
+must not to eat or drink anything (except plain water) from about 10 pm the 
+night before. 
+ 
+Diabetic patients on medication are required to bring their tablets and insulin 
+with them and to take them after their blood measurement if possible (if they 
+have not done so, they should inform the relevant laboratory staff). 
+ 
+Note: Fasting Instructions for Step 3 can be found in Part 6, Section 2. 
+ 
+Continued on next page 

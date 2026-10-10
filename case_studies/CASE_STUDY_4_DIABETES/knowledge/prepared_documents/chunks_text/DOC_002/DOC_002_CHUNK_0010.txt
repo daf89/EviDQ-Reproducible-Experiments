@@ -1,0 +1,164 @@
+
+
+===== PDF PAGE 19 =====
+
+The global framework for diabetes prevention and control  ﻿
+7
+Following a comprehensive assessment of the 
+expert feedback from online surveys, focus 
+groups and email consultation, along with a 
+systematic review and consideration of global 
+priorities, the framework was completed, 
+ultimately incorporating a carefully evaluated 
+set of 44 indicators. 
+Framework
+The global monitoring framework for diabetes 
+prevention and control  (Fig. 1) aims to 
+enhance global and national monitoring of 
+diabetes, focusing on tracking the progress of 
+interventions for people living with diabetes and 
+for the general population, including those who 
+are healthy, at-risk of diabetes and with diabetes. 
+It intends to streamline the collection and 
+analysis of data related to diabetes prevention, 
+management, and care, facilitating informed 
+decision-making and policy formulation to 
+combat the diabetes epidemic effectively. 
+The framework represents a pivotal initiative 
+designed to confront the escalating challenge 
+of diabetes on a worldwide scale. Its overarching 
+goal is to integrate and improve the surveillance, 
+monitoring and management of diabetes across 
+various national health care systems, thereby 
+enabling a more coordinated and effective 
+global response to this chronic disease.
+
+
+===== PDF PAGE 20 =====
+
+8
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+Fig 1.	
+Global monitoring framework for diabetes prevention and control
+Health system determinants
+Service delivery: prevention, diagnosis and  treatment
+Risk factors
+ Outcomes and impacts
+Governance
+ Existence and implementation of national diabetes prevention and control plan
+ Existence and implementation of policies and legislation for diabetes prevention
+ Existence and enforcement of tax on alcoholic beverages, tobacco, sugar-sweetened 
+beverages, foods high in saturated fats, trans fats, free sugars and/or salt
+Processes of care: assessment of risk factors for diabetes 
+◆ 
+Overweight and obesity assessment
+◆ Tobacco use assessment
+◆ Cardiovascular disease risk assessment
+◆ Hypertension screening
+Risk factors for diabetes 
+  Physical inactivity prevalence
+  Overweight and obesity prevalence
+  Tobacco use prevalence
+  Hypertension prevalence
+Risk factors for diabetes 
+complications
+◆  Glycaemic control based on glycated 
+haemoglobin (HbA1c)
+◆  Glycaemic control based on fasting 
+plasma glucose
+◆  Blood pressure control
+Morbidity 
+  Diabetes prevalence
+Mortality 
+✦  Cardiovascular disease mortality rate
+✦  Diabetes mortality rate
+✦  Probability of premature mortality 
+from noncommunicable diseases
+Morbidity
+◆  Hospitalization for diabetes
+◆  Cardiovascular disease
+◆  Blindness 
+◆  End-stage kidney disease
+◆  Lower-extremity amputation
+Processes of care:  diagnosis, assessment of risk factor for  
+diabetes complications and assessment of complications
+Processes of care: treatment
+◆  Treatment with glucose-lowering medication
+◆  Insulin treatment 
+◆ Statin treatment
+◆  Treatment with blood pressure-lowering medication
+◆  Retinopathy treatment
+◆  Diabetic foot treatment
+Governance
+ Existence of national guidelines for diabetes management
+ Referral and back-referral system for diabetes management at secondary/tertiary levels
+Financing
+ Insulin, insulin delivery devices and blood glucose self-monitoring included in health 
+beneﬁts package
+ Insulin, insulin delivery devices and blood glucose self-monitoring aﬀordability
+Medicines and health technologies
+❖◆ Availability of diabetes, cardiovascular disease and hypertension core medicines
+❖◆ Availability of glycated haemoglobin (HbA1c) testing
+Health workforce
+❖◆ Availability of trained health care staﬀ for diabetes management 
+Medicines and health technologies
+❖◆ Availability of plasma glucose testing
+Health information
+ Availability and quality of diabetes surveillance system
+ 
+Diabetes diagnosis
+◆ 
+Diabetic ketoacidosis at 
+diagnosis
+◆  Blood glucose measurement
+◆  Retinopathy assessment 
+◆  Chronic kidney disease 
+assessment 
+◆  Diabetic foot assessment
+General population
+Population with diabetes
+Global 
+diabetes 
+coverage 
+targets
+Global 
+NCD 
+targets
+80%   People with diabetes are diagnosed
+80%   People with diagnosed diabetes 
+have good control of glycaemia
+80%   People with diagnosed diabetes 
+have good control of blood pressure
+60%   People with diabetes of 40 years or 
+older receive statins
+100% People with type 1 diabetes have 
+access to aﬀordable insulin 
+treatment and blood glucose 
+self-monitoring2
+25%  Reduction in premature mortality 
+from noncommunicable diseases
+Halt the rise of diabetes and obesity
+25%  Reduction in raised blood pressure
+15%  Reduction in physical inactivity
+30%  Reduction in tobacco use
+80%  Coverage of essential NCD medicines 
+and technologies1
+Data sources: 
+ NCD country capacity survey,  
+  
+Population-based survey
+ 
+country reports, other surveys 
+✦ Civil registration and vital 
+❖ Health facility survey 
+  
+statistics system
+ 
+◆ Routine facility reporting system  
+ Indicator for monitoring global NCD target
+ Indicator for monitoring global diabetes coverage target
+1	 Proxy indicators to monitor the NCD global target on coverage of essential NCD medicines and technologies include availability of diabetes, cardiovascular disease and hypertension core medicines, 
+availability of glycated haemoglobin (HbA1c) testing, and  availability of plasma glucose testing.
+2	 Proxy indicators to monitor the global diabetes coverage target on access to affordable insulin treatment and blood glucose self-monitoring include availability of diabetes, cardiovascular disease 
+and hypertension core medicines and insulin, insulin delivery devices and blood glucose self-monitoring affordability.  In the absence of data on affordability, insulin, insulin delivery devices and blood 
+glucose self-monitoring included in health benefits package indicator may be used.

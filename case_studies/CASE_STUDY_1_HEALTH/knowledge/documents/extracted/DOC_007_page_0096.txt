@@ -1,0 +1,129 @@
+empowers people with CKD and supports self-care manage-
+ment. People put a large value on diet, cultural preferences,
+and QoL; however, adherence to a low-protein diet remains
+challenging, may impact social and psychological well-being,
+and given that most of the trials for protein restriction were
+conducted before RASi and SGLT2i were implemented, may
+not be worth the sacriﬁce/change in lifestyle. The impact of
+protein restriction and the use of non–animal-based protein
+diets should be evaluated in the context of new care para-
+digms to ascertain the incremental gain of these strategies
+relative to the efforts and costs.
+Special considerations
+Pediatric considerations.
+Practice Point 3.3.1.4: Do not restrict protein intake in
+children with CKD due to the risk of growth impairment.
+The target protein and energy intake in children with CKD
+G2–G5 should be at the upper end of the normal range for
+healthy children to promote optimal growth.
+Children with CKD likely have similar resting energy
+expenditure to healthy children and should have total energy
+requirements in the normal range.483 As in adults, protein
+restriction was considered for children with CKD in the past.
+Two RCTs have compared low-protein versus normal-protein
+diets in children with CKD.484,485 One found poorer growth
+for those on a low-protein diet, and the other found no
+difference in eGFR between the groups. A 2007 Cochrane
+meta-analysis concluded that there was uncertainty over the
+possible harm of strict low-protein diets on growth in young
+infants.486 The 2009 KDOQI guidelines and the 2020 Pediatric
+Renal Nutrition Taskforce suggest maintaining an intake of
+dietary protein at 100%–140% of the dietary reference intake
+(DRI) or the SDI for ideal body weight in children with CKD
+G3 and at 100%–120% of the DRI/SDI in children with CKD
+G4–G5.487,488
+Older adults.
+Practice Point 3.3.1.5: In older adults with underlying
+conditions such as frailty and sarcopenia, consider higher
+protein and calorie dietary targets.
+In older adults with CKD, nutritional management should
+consider potential challenges stemming from simultaneous
+and potentially conﬂicting risks of CKD progression and
+malnutrition/protein-energy wasting. In older adults, protein
+targets should be set after careful individual assessment to
+identify the most urgent clinical challenge.
+Geriatric guidelines recommend protein intakes of 1.0–1.2 g/
+kg body weight/d to prevent age-related malnutrition and pre-
+vent sarcopenia.489 Such protein intakes may be appropriate in
+some people with stable or slowly progressing CKD, whose
+clinical picture is dominated by old age and related challenges
+to their nutritional and functional status. On the other hand,
+protein restriction may be appropriate in older adults whose
+primary clinical challenge is CKD with signiﬁcant progression,
+provided they are metabolically stable.490 The course of action
+should consider patient preferences and when necessary,
+involve family members and caregivers.
+3.3.2 Sodium intake
+The Work Group concurs with the following recommenda-
+tion from the KDIGO 2022 Clinical Practice Guideline for
+Diabetes Management in Chronic Kidney Disease23 and the
+KDIGO
+2021
+Clinical
+Practice
+Guideline
+for
+the
+Management of Blood Pressure in Chronic Kidney Disease.21
+Recommendation 3.3.2.1: We suggest that sodium
+intake be <2 g of sodium per day (or <90 mmol of
+sodium per day, or <5 g of sodium chloride per day)
+in people with CKD (2C).
+Practice Point 3.3.2.1: Dietary sodium restriction is usually
+not
+appropriate
+for
+patients
+with
+sodium-wasting
+nephropathy.
+Global average sodium intake is estimated to be 4310 mg/
+d (10.78 g of salt per day), which far exceeds the physiological
+requirement and is more than double the WHO recommenda-
+tion of <2 g of sodium (equivalent to <5 g of salt) per day in
+adults.491 This perhaps reﬂects the pervasive use of sodium in
+many commercial food products, which makes achieving
+WHO targets challenging to meet for many people. There are
+large-scale RCTs quantifying the beneﬁts of restricted salt
+intake (e.g., using 75% sodium and 25% potassium chloride
+salt
+substitutes)
+to
+lower
+BP and
+reduce
+the risk of
+cardiovascular events in the general population.492 In RCTs
+with up to 36 weeks of follow-up, reduction in dietary sodium
+has also been shown to lower BP and levels of albuminuria in
+people with CKD.492–494 Although presumed to reduce the risk
+of CKD progression and CVD, longer term trials have not
+been conducted to conﬁrm these effects translate into reduced
+risk of clinical outcomes in CKD.493 Given the effects of
+sodium restriction on BP, it is reasonable to recommend
+sodium restriction to people with CKD in combination with
+pharmacological strategies to minimize the risk of kidney and
+CVDs. People with CKD may have salt-wasting kidney disease,
+malnutrition, or be exposed to extremely hot climatic
+conditions. In such scenarios, this recommendation may not
+apply.
+Special considerations
+Pediatric considerations.
+Practice Point 3.3.2.2: Follow age-based Recommended
+Daily Intake when counseling about sodium intake for
+children with CKD who have systolic and/or diastolic blood
+pressure >90th percentile for age, sex, and height.
+The WHO recommends that the maximum intake of <2 g/d
+sodium (<5 g/d salt) in adults should be adjusted downward
+based on the energy requirements of children relative to those
+of adults (Table 22495). Children born with low birth weight
+(<2.5 kg) are at increased risk for CKD in later life and may
+also be at higher risk for hypertension and increased salt
+sensitivity. Salt sensitivity is a physiological trait by which BP
+in some people exhibits changes parallel to changes in salt
+intake. Children born with low birth weight may have a 37%
+increased salt sensitivity (deﬁned as an increase in mean BP
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S211

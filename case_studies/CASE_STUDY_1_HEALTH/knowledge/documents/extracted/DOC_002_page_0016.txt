@@ -1,0 +1,142 @@
+2.31a Before 15 weeks of gesta
+tion, test individuals with risk fac
+tors (Table 2.5) B and consider 
+testing all individuals E for undiag
+nosed diabetes at the first prenatal 
+visit using standard diagnostic criteria 
+if not screened preconception.
+2.31b Before 15 weeks of gestation, 
+screen for abnormal glucose me
+tabolism (defined as A1C 5.9–6.4% 
+[41–47 mmol/mol] or FPG 110–125 
+mg/dL [6.1–6.9 mmol/L]) to identify 
+individuals who are at higher risk of 
+adverse pregnancy and neonatal out
+comes and are at high risk of a later 
+gestational diabetes mellitus (GDM) 
+diagnosis. B
+2.32 Screen for GDM at 24–28 
+weeks of gestation in pregnant indi
+viduals not previously found to have 
+diabetes or high-risk abnormal glu
+cose metabolism detected earlier in 
+the current pregnancy. A
+2.33 Screen individuals with GDM 
+for prediabetes or diabetes at 4–12 
+weeks postpartum, using the 75-g 
+OGTT and clinically appropriate non
+pregnancy diagnostic criteria. B
+2.34 Individuals with a history of GDM 
+should have lifelong screening for the 
+development of prediabetes or diabe
+tes every 1–3 years. B
+Table 2.7—Most common causes of monogenic diabetes
+Gene
+Inheritance
+Clinical features
+MODY
+HNF1A
+AD
+HNF1A-MODY: progressive insulin secretory defect with presentation in 
+adolescence or early adulthood; lowered renal threshold for 
+glucosuria; large rise in 2-h PG level on OGTT (>90 mg/dL 
+[>5 mmol/L]); low hs-CRP; sensitive to sulfonylureas
+-
+GCK
+AD
+GCK-MODY: higher glucose threshold (set point) for glucose-stimulated 
+insulin secretion, causing stable, nonprogressive elevated fasting 
+blood glucose; typically does not require treatment in nonpregnant 
+individuals; microvascular complications are rare; small rise in 2-h PG 
+level on OGTT (<54 mg/dL [<3 mmol/L])
+-
+HNF4A
+AD
+HNF4A-MODY: progressive insulin secretory defect with presentation in 
+adolescence or early adulthood; may have large birth weight 
+(macrosomia) and transient neonatal hypoglycemia; sensitive to 
+sulfonylureas
+-
+HNF1B
+AD
+HNF1B-MODY: developmental renal disease (typically cystic); 
+genitourinary abnormalities; atrophy of the pancreas; hyperuricemia; 
+gout
+Neonatal diabetes
+-
+-
+-
+Permanent
+KCNJ11
+AD
+IUGR; possible developmental delay and seizures; responsive to 
+sulfonylureas
+ABCC8
+AD
+IUGR; rarely developmental delay; responsive to sulfonylureas
+INS
+AD
+IUGR; insulin requiring
+FOXP3
+X-linked
+Immunodysregulation, polyendocrinopathy, enteropathy X-linked (IPEX) 
+syndrome: autoimmune diabetes, autoimmune thyroid disease, 
+exfoliative dermatitis; insulin requiring
+Transient
+6q24 (PLAGL1, 
+HYMA1)
+AD for paternal 
+duplications
+IUGR; macroglossia; umbilical hernia; may be treatable with medications 
+other than insulin
+Adapted from Carmody et al. (171). AD, autosomal dominant; AR, autosomal recessive; IUGR, intrauterine growth restriction; OGTT, oral glu
+cose tolerance test; UPD6, uniparental disomy of chromosome 6; 2-h PG, 2-h plasma glucose.
+Definition
+For many years, gestational diabetes 
+mellitus (GDM) was defined as any de
+gree of glucose intolerance that was 
+first recognized during pregnancy (11) 
+regardless of the degree of hyperglyce
+mia. This definition facilitated a uniform 
+strategy for detection and classification 
+of GDM, but it also has limitations. First, 
+the best evidence reveals that many 
+cases of GDM represent preexisting hy
+perglycemia that is detected by routine 
+screening in pregnancy, as routine screen
+ing is not widely performed in nonpreg
+nant individuals of reproductive age. The 
+ongoing epidemic of obesity and diabetes 
+has led to more type 2 diabetes in people 
+of reproductive age, with an increase in 
+the number of pregnant individuals 
+with undiagnosed type 2 diabetes in 
+early pregnancy (181–183). Ideally, un
+diagnosed diabetes should be identified 
+preconception in individuals with risk fac
+tors or in high-risk populations (184–189), 
+as they are likely to benefit from precon
+ception care. The preconception care of 
+people with known preexisting diabetes 
+results in lower A1C and reduced risk of 
+birth defects, preterm delivery, perinatal 
+mortality, small-for-gestational-age birth 
+weight, and neonatal intensive care unit 
+admission (190). If individuals are not 
+screened prior to pregnancy, universal 
+early screening at <15 weeks of gesta
+tion for undiagnosed diabetes may be 
+considered over selective screening 
+(Table 2.5), particularly in populations 
+with high prevalence of risk factors 
+and undiagnosed diabetes in people 
+of childbearing age. Strong racial and 
+ethnic disparities exist in the preva
+lence of undiagnosed diabetes. There
+fore, early screening provides an initial 
+step to identify and address these health 
+disparities (186–189). Diagnostic criteria 
+S42 
+Diagnosis and Classification of Diabetes 
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

@@ -1,0 +1,154 @@
+953. Berge E, Whiteley W, Audebert H, De Marchis GM, Fonseca AC, Padiglioni C, et al. 
+European Stroke Organisation (ESO) guidelines on intravenous thrombolysis for acute 
+ischaemic stroke. Eur Stroke J 2021;6:I–LXII. https://doi.org/10.1177/2396987321989865 
+954. LeCouffe NE, Kappelhof M, Treurniet KM, Lingsma HF, Zhang G, van den Wijngaard 
+IR, et al. 2B, 2C, or 3: what should be the angiographic target for endovascular treat-
+ment in ischemic stroke? Stroke 2020;51:1790–6. https://doi.org/10.1161/strokeaha. 
+119.028891 
+955. Mistry EA, Hart KW, Davis LT, Gao Y, Prestigiacomo CJ, Mittal S, et al. Blood pressure 
+management after endovascular therapy for acute ischemic stroke: the BEST-II rando-
+mized clinical trial. JAMA 2023;330:821–31. https://doi.org/10.1001/jama.2023.14330 
+956. Lee M, Ovbiagele B, Hong KS, Wu Y-L, Lee J-E, Rao NM, et al. Effect of blood pressure 
+lowering in early ischemic stroke: meta-analysis. Stroke 2015;46:1883–9. https://doi. 
+org/10.1161/strokeaha.115.009552 
+957. Anderson CS, Huang Y, Lindley RI, Chen X, Arima H, Chen G, et al. Intensive blood 
+pressure reduction with intravenous thrombolysis therapy for acute ischaemic stroke 
+(ENCHANTED): an international, randomised, open-label, blinded-endpoint, phase 3 
+trial. Lancet 2019;393:877–88. https://doi.org/10.1016/s0140-6736(19)30038-8 
+958. Mazighi M, Richard S, Lapergue B, Sibon I, Gory B, Berge J, et al. Safety and efficacy of 
+intensive blood pressure lowering after successful endovascular therapy in acute is-
+chaemic stroke (BP-TARGET): a multicentre, open-label, randomised controlled trial. 
+Lancet Neurol 2021;20:265–74. https://doi.org/10.1016/s1474-4422(20)30483-x 
+959. Yang P, Song L, Zhang Y, Zhang X, Chen X, Li Y, et al. Intensive blood pressure control 
+after endovascular thrombectomy for acute ischaemic stroke (ENCHANTED2/MT): a 
+multicentre, open-label, blinded-endpoint, randomised controlled trial. Lancet 2022; 
+400:1585–96. https://doi.org/10.1016/s0140-6736(22)01882-7 
+960. Sandset EC, Anderson CS, Bath PM, Christensen H, Fischer U, Gąsecki D, et al. 
+European Stroke Organisation (ESO) guidelines on blood pressure management in 
+acute ischaemic stroke and intracerebral haemorrhage. Eur Stroke J 2021;6: 
+Xlviii–lxxxix. https://doi.org/10.1177/23969873211012133 
+961. Anderson CS, Heeley E, Huang Y, Wang J, Stapf C, Delcourt C, et al. Rapid blood- 
+pressure lowering in patients with acute intracerebral hemorrhage. N Engl J Med 
+2013;368:2355–65. https://doi.org/10.1056/NEJMoa1214609 
+962. Qureshi AI, Palesch YY, Barsan WG, Hanley DF, Hsu CY, Martin RL, et al. Intensive 
+blood-pressure lowering in patients with acute cerebral hemorrhage. N Engl J Med 
+2016;375:1033–43. https://doi.org/10.1056/NEJMoa1603460 
+963. Moullaali TJ, Wang X, Woodhouse LJ, Law ZK, Delcourt C, Sprigg N, et al. Lowering 
+blood pressure after acute intracerebral haemorrhage: protocol for a systematic re-
+view and meta-analysis using individual patient data from randomised controlled trials 
+participating in the blood pressure in acute stroke collaboration (BASC). BMJ Open 
+2019;9:e030121. https://doi.org/10.1136/bmjopen-2019-030121 
+964. American College of Obstetricians and Gynecologists. Gestational hypertension and 
+preeclampsia: ACOG practice bulletin, number 222. Obstet Gynecol 2020;135: 
+e237–60. https://doi.org/10.1097/aog.0000000000003891 
+965. Garovic VD, Dechend R, Easterling T, Karumanchi SA, Baird SM, Magee LA, et al. 
+Hypertension in pregnancy: diagnosis, blood pressure goals, and pharmacotherapy: a 
+scientific statement from the American Heart Association. Hypertension 2022;79: 
+e21–41. https://doi.org/10.1161/hyp.0000000000000208 
+966. Magee LA, Nicolaides KH, von Dadelszen P. Preeclampsia. N Engl J Med 2022;386: 
+1817–32. https://doi.org/10.1056/NEJMra2109523 
+967. Altman D, Carroli G, Duley L, Farrell B, Moodley J, Neilson J, et al. Do women with 
+pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie trial: 
+a randomised placebo-controlled trial. Lancet 2002;359:1877–90. https://doi.org/10. 
+1016/s0140-6736(02)08778-0 
+968. Poon LC, Magee LA, Verlohren S, Shennan A, von Dadelszen P, Sheiner E, et al. A lit-
+erature review and best practice advice for second and third trimester risk stratifica-
+tion, monitoring, and management of pre-eclampsia: compiled by the pregnancy and 
+non-communicable diseases committee of FIGO (the International Federation of 
+Gynecology and Obstetrics). Int J Gynaecol Obstet 2021;154 Suppl 1:3–31. https:// 
+doi.org/10.1002/ijgo.13763 
+969. Muhammad S, Usman H, Dawha YM, Yahya A, Yekeen A, Bako B. Comparison of intra-
+venous labetalol and hydralazine for severe hypertension in pregnancy in 
+Northeastern Nigeria: a randomized controlled trial. Pregnancy Hypertens 2022;29: 
+1–6. https://doi.org/10.1016/j.preghy.2022.05.001 
+970. Magee LA, Cham C, Waterman EJ, Ohlsson A, von Dadelszen P. Hydralazine for treat-
+ment of severe hypertension in pregnancy: meta-analysis. BMJ 2003;327:955–60. 
+https://doi.org/10.1136/bmj.327.7421.955 
+971. Wu HZ, Cheng Y, Yu D, Li J-B, Jiang Y-F, Zhu Z-N. Different dosage regimens of ni-
+fedipine, labetalol, and hydralazine for the treatment of severe hypertension during 
+pregnancy: a network meta-analysis of randomized controlled trials. Hypertens 
+Pregnancy 2022;41:126–38. https://doi.org/10.1080/10641955.2022.2056196 
+972. Halvorsen S, Mehilli J, Cassese S, Hall TS, Abdelhamid M, Barbato E, et al. 2022 ESC 
+Guidelines on cardiovascular assessment and management of patients undergoing non- 
+cardiac surgery. Eur Heart J 2022;43:3826–924. https://doi.org/10.1093/eurheartj/ehac270 
+973. Lizano-Díez I, Poteet S, Burniol-Garcia A, Cerezales M. The burden of perioperative 
+hypertension/hypotension: a systematic review. PLoS One 2022;17:e0263737. 
+https://doi.org/10.1371/journal.pone.0263737 
+974. Futier E, Lefrant JY, Guinot PG, Godet T, Lorne E, Cuvillon P, et al. Effect of individua-
+lized vs standard blood pressure management strategies on postoperative organ dys-
+function among high-risk patients undergoing major surgery: a randomized clinical trial. 
+JAMA 2017;318:1346–57. https://doi.org/10.1001/jama.2017.14172 
+975. Sanders RD, Hughes F, Shaw A, Thompson A, Bader A, Hoeft A, et al. Perioperative 
+quality initiative consensus statement on preoperative blood pressure, risk and out-
+comes for elective surgery. Br J Anaesth 2019;122:552–62. https://doi.org/10.1016/j. 
+bja.2019.01.018 
+976. Messina A, Robba C, Calabrò L, Zambelli D, Iannuzzi F, Molinari E, et al. Association 
+between perioperative fluid administration and postoperative outcomes: a 20-year 
+systematic review and a meta-analysis of randomized goal-directed trials in major vis-
+ceral/noncardiac surgery. Crit Care 2021;25:43. https://doi.org/10.1186/s13054-021- 
+03464-1 
+977. Meng L, Yu W, Wang T, Zhang L, Heerdt PM, Gelb AW. Blood pressure targets in peri-
+operative care. Hypertension 2018;72:806–17. https://doi.org/10.1161/hypertensionaha. 
+118.11688 
+978. Wanner PM, Wulff DU, Djurdjevic M, Korte W, Schnider TW, Filipovic M. Targeting 
+higher intraoperative blood pressures does not reduce adverse cardiovascular events 
+following noncardiac surgery. J Am Coll Cardiol 2021;78:1753–64. https://doi.org/10. 
+1016/j.jacc.2021.08.048 
+979. Blessberger H, Lewis SR, Pritchard MW, Fawcett LJ, Domanovits H, Schlager O, et al. 
+Perioperative beta-blockers for preventing surgery-related mortality and morbidity in 
+adults undergoing non-cardiac surgery. Cochrane Database Syst Rev 2019;9:CD013438. 
+https://doi.org/10.1002/14651858.CD013438 
+980. McGory ML, Maggard MA, Ko CY. A meta-analysis of perioperative beta blockade: 
+what is the actual risk reduction? Surgery 2005;138:171–9. https://doi.org/10.1016/j. 
+surg.2005.03.022 
+981. Kertai MD, Cooter M, Pollard RJ, Buhrman W, Aronson S, Mathew JP, et al. Is compli-
+ance with surgical care improvement project cardiac (SCIP-Card-2) measures for peri-
+operative β-blockers associated with reduced incidence of mortality and 
+cardiovascular-related critical quality indicators after noncardiac surgery? Anesth 
+Analg 2018;126:1829–38. https://doi.org/10.1213/ane.0000000000002577 
+982. Roshanov PS, Rochwerg B, Patel A, Salehian O, Duceppe E, Belley-Côté EP, et al. 
+Withholding versus continuing angiotensin-converting enzyme inhibitors or angioten-
+sin II receptor blockers before noncardiac surgery: an analysis of the vascular events in 
+noncardiac surgery patIents cOhort evaluatioN prospective cohort. Anesthesiology 
+2017;126:16–27. https://doi.org/10.1097/aln.0000000000001404 
+983. Shiffermiller JF, Monson BJ, Vokoun CW, Beachy MW, Smith MP, Sullivan JN, et al. 
+Prospective randomized evaluation of preoperative angiotensin-converting en-
+zyme inhibition (PREOP-ACEI). J Hosp Med 2018;13:661–7. https://doi.org/10. 
+12788/jhm.3036 
+984. Hollmann C, Fernandes NL, Biccard BM. A systematic review of outcomes associated 
+with withholding or continuing angiotensin-converting enzyme inhibitors and angio-
+tensin receptor blockers before noncardiac surgery. Anesth Analg 2018;127:678–87. 
+https://doi.org/10.1213/ane.0000000000002837 
+985. Ackland GL, Patel A, Abbott TEF, Begum S, Dias P, Crane DR, et al. Discontinuation vs. 
+continuation of renin–angiotensin system inhibition before non-cardiac surgery: the 
+SPACE trial. Eur Heart J 2024;45:1146–55. https://doi.org/10.1093/eurheartj/ehad716 
+986. McEvoy MD, Gupta R, Koepke EJ, Feldheiser A, Michard F, Levett D, et al. 
+Perioperative quality initiative consensus statement on postoperative blood pressure, 
+risk and outcomes for elective surgery. Br J Anaesth 2019;122:575–86. https://doi.org/ 
+10.1016/j.bja.2019.01.019 
+987. Ekman I, Swedberg K, Taft C, Lindseth A, Norberg A, Brink E, et al. Person-centered 
+care—ready for prime time. Eur J Cardiovasc Nurs 2011;10:248–51. https://doi.org/10. 
+1016/j.ejcnurse.2011.06.008 
+988. Krist AH, Tong ST, Aycock RA, Longo DR. Engaging patients in decision-making 
+and behavior change to promote prevention. Stud Health Technol Inform 2017; 
+240:284–302. https://doi.org/10.3233/ISU-170826 
+989. Johnson RA, Huntley A, Hughes RA, Hughes RA, Cramer H, Turner KM, et al. 
+Interventions to support shared decision making for hypertension: a systematic re-
+view of controlled studies. Health Expect 2018;21:1191–207. https://doi.org/10. 
+1111/hex.12826 
+990. Johnson RL, Roter D, Powe NR, Cooper LA. Patient race/ethnicity and quality of pa-
+tient–physician communication during medical visits. Am J Public Health 2004;94: 
+2084–90. https://doi.org/10.2105/ajph.94.12.2084 
+991. Williams MV, Davis T, Parker RM, Weiss BD. The role of health literacy in patient- 
+physician communication. Fam Med 2002;34:383–9. 
+992. Karmali KN, Persell SD, Perel P, Lloyd-Jones DM, Berendsen MA, Huffman MD. Risk 
+scoring for the primary prevention of cardiovascular disease. Cochrane Database Syst 
+Rev 2017;3:CD006887. https://doi.org/10.1002/14651858.CD006887.pub4 
+993. Ma C, Zhou Y, Zhou W, Huang C. Evaluation of the effect of motivational interviewing 
+counselling on hypertension care. Patient Educ Couns 2014;95:231–7. https://doi.org/ 
+10.1016/j.pec.2014.01.011 
+994. Huang X, Xu N, Wang Y, Sun Y, Guo A. The effects of motivational interviewing on 
+hypertension management: a systematic review and meta-analysis. Patient Educ 
+Couns 2023;112:107760. https://doi.org/10.1016/j.pec.2023.107760 
+ESC Guidelines 4017 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

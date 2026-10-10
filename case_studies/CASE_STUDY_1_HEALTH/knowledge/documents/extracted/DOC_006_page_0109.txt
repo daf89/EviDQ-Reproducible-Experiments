@@ -1,0 +1,57 @@
+-
+-
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N P R I M A R Y
+C A R E
+S E C T I O N 9 : R E V I E W O F R I S K S T R A T I F I C A T I O N O N 
+P R I M A R Y C A R E 
+Algorithms and other formula-based tools can risk stratify based on disease severity, functional status, 
+and other factors such as SDOH. Bias can be unintentionally “baked in” to algorithms and related 
+instruments, so it is important to continually seek to identify and eliminate it. 
+Uniform Data System (UDS) reporting [103] for the Health Resources and Services Administration (HRSA) 
+is used in federally qualified health centers (FQHCs). The National Association of Community Health 
+Centers (NACHC®) uses the groupings of diagnosis codes shown in Exhibit 52 in assigning an individual 
+patient risk level. 
+Exhibit 52: Uniform Data System Diagnostic Categories and Corresponding ICD-10-CM Codes [102] 
+Uniform Data System 
+High Risk Conditions 
+Applicable ICD 10 CM CODE1 
+Cancer (abnormal cervical 
+findings) 
+C53-, C79.82, D06-, R87.61, R87.629, R87.810, R87.820 
+Heart Disease 
+101-, 102- (exclude 102.9), 120- through 125-, 127-, 128-, 130
+through 152
+Chronic Obstructive Pulmonary 
+Disease 
+J40- through J44-, J47
+Asthma 
+J45 codes 
+Diabetes 
+E08- through E13- O24- (exclude O24.41-) 
+Hypertension 
+I10- through I16
+Obesity 
+E66-, Z68- (exclude Z68.1, Z68.20 through Z68.24, Z68.51, Z68.52) 
+Depression 
+F30- through F39
+Other mental disorders 
+F01- through F09- (exclude F06.4), F20- through F29-, F43 through 
+F48- (exclude F43.0 and F43.1), 
+F50- through F99- (exclude F55-, F84.2, F90-, F91-, F93.0, F98-), 
+099.34 R45.1, R45.2, R45.5, R45.6, R45.7, R45.81, R45.82, R48.0 
+Table included with permission. © National Association of Community Health Centers, Inc., 2019 
+As presented in the NationalAssociationof Community HealthCenters’ Population Health Management: 
+Risk Stratification Action Guide, the following four steps will provide a basic risk-stratification score 
+[102]: 
+• 
+Step 1: Generate a List of the Provider’s Patient Panel. This list should include not only patients 
+who come in for care, but also patients assigned to the provider from healthcare institutions 
+and payers. 
+1 “The select list of conditions match HRSA’s UDS 2021 Health Center Data Reporting Requirements for Table 6A, 
+includingthe diagnosticcategoriesand applicableICD-10-CMcodeson pages77-78. Selecteddiagnosesdo not 
+representthe full rangeof diagnosesorservicescapturedin Table 6A,nor offeredby ahealth center,butwere 
+selectedto represent significant high-cost, high-burdenconditions prevalent among healthcenter patients. Using 
+the above asastartingpoint,health centerscanadd/subtractconditionsbased upon localhealth conditionsand 
+clinical priorities.” 
+Health IT Advisor Handbook 
+Page 104

@@ -1,0 +1,54 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+generated measures (CQMs), most EHRs provide a dashboard that can present a selection of quality 
+measures chosen by the vendor. 
+Most certified EHRs can present both aggregate data (numerator, denominator, exceptions, exclusions, 
+and performance rates) and patient-level details using graphical and tabular formats that can be saved 
+to Excel or a CSV file. Lists of patients who meet or fail to meet a specific quality measure are often 
+called “gaplists,” and these are discussed further in Section 6. 
+A robust dashboard will allow users to filter and segment quality measures so that patient sub
+populations and measurement periods can be adjusted to fit the project (these may be available as an 
+add-on purchase to the EHR or as a third-party product). 
+Note that smaller vendors may choose to partner with a third-party or registry to provide an external 
+dashboard. For example, the PrimeRegistry is available to members of the American Board of Family 
+Medicine diplomates at little or no cost. External registries and dashboards are discussed in Section 7 
+along with tips for finding out which measures are supported by a given EHR. 
+EXAMPLE: 
+In preparing for the diabetesproject,you find that the clinic’sEHRquality dashboard has a 
+certified quality measurefor Poor Diabetes Control (CMS 122, NQF 0059)[34] that will work for 
+the project; however, it does not supportthe measure for Diabetic Eye Exam (CMS 131, NQF 
+0055).[34] 
+EHR vendors can pick and choose which quality measures they wish to develop or package as an 
+additional module for population health management. When a needed CQM is not provided by an EHR, 
+your only recourse is to seek alternatives to extract the raw data (see below) or to seek it elsewhere (see 
+Section 7). 
+Exhibit 23: Advantages and Challenges of Using EHR Dashboards 
+Advantages 
+Challenges 
+• 
+Leverages existing EHR capabilities 
+• 
+Vendor eCQMs must pass certification 
+• 
+Dashboards may provide useful filters 
+• 
+Dashboards can link to patient-level data 
+• 
+Vendor’s measure logic can be hard to validate 
+• 
+Measure logic usually cannot be changed 
+• 
+Measures rely on specific workflows for data 
+• 
+Needed measures may not be available or free 
+• 
+Need to validate data in reports 
+Extracting EHR Data to Electronic Media 
+Creating custom programs or reports to extract EHR data is an appealing option for QI work. The data 
+extracted by a custom extraction will exactly match the needs of the project and the output can be 
+tailored to streamline review, assessment, and easy integration with spreadsheets, external databases, 
+or analytics software. Unfortunately, developing the queries needed to extract EHR data comes with 
+several challenges. 
+Health IT Advisor Handbook 
+Page 47

@@ -1,0 +1,35 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+199
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+Comment valider mes données administratives 
+et la liste de mes FINESS géographiques ?
+Cibles prioritaires ES 
+ Objectifs de la fiche
+Il est déterminant, pour le bon déroulement de votre démarche dans CALISTA, de s’assurer au préalable de l’exactitude 
+des données administratives pré-renseignées et de la liste des FINESS géographiques de votre établissement.
+ Pour bien commencer
+Les données administratives dans CALISTA sont : 
+• • l’entité juridique (FINESS et adresse) ;
+• • les différents sites géographiques (FINESS, classification, catégorie et adresse postale) ;
+• • les coordonnées des contacts de votre établissement que sont le responsable légal, le responsable certification 
+et l’administrateur CALISTA (nom, prénom, fonction, téléphone et adresse de messagerie).
+Il vous est demandé de mettre à jour dès que nécessaire :
+• • les adresses de l’entité juridique et des différents sites géographiques ;
+• • les coordonnées des contacts ;
+Ces modifications ne nécessitent pas une validation de la part de la HAS. Ces éléments sont essentiels pour que 
+les courriers et courriels soient adressés aux bons interlocuteurs.
+En revanche, vous ne pouvez pas : 
+• • modifier par vous-même le nom de l’entité juridique et son FINESS ;
+• • rajouter ou supprimer un site géographique. 
+Pour effectuer ce type de modification, il faudra formuler votre demande auprès de la HAS comme précisé ci-dessous.
+ En pratique
+Comment vérifier et modifier mes données administratives ?
+Dans l’onglet « Ma démarche » puis dans la zone « Créer », cliquer sur « Actualisation des données administratives » 1 .
+Informations pratiques
+• L’actualisation des données administratives peut se faire à tout moment.
+1
+ Fiche pratique opératoire_E2

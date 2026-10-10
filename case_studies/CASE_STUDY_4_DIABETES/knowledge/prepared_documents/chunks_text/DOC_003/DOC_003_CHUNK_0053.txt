@@ -1,0 +1,140 @@
+
+
+===== PDF PAGE 105 =====
+
+Choosing the Sample Design, Continued 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-18 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Sample 
+Allocation and 
+Multi-stage 
+Cluster Design 
+Once the sampling units to be used for PSUs, SSUs, etc. have been 
+determined, the allocation of the sample must be decided. That is, the total 
+number of PSUs to be selected, the total number of SSUs to be selected per 
+PSU, etc. must be determined. 
+ 
+The table below describes the steps to take to determine how to allocate the 
+sample. 
+ 
+Step 
+Description 
+1 
+Calculate the total sample size. 
+2 
+Assess the resources available and determine the total 
+number of PSUs to be sampled, keeping in mind that at least 
+50 to 100 PSUs should be selected. 
+3 
+Divide the total sample size by the number of PSUs to be 
+sampled to determine the number of individuals to be 
+sampled per PSU. 
+4 
+Continue subdividing the sample size at each stage of 
+sampling according to the number of sampling units to be 
+selected at each stage. 
+ 
+Note: As stated previously, stratification can be combined with a multi-stage 
+cluster design. The total number of PSUs would be allocated proportionately 
+or disproportionately (depending on the requirements of the survey results) 
+across all strata and sample allocation would continue within each strata 
+following the steps above. 
+ 
+ 
+ 
+Example 
+For this example, assume that the total sample size has been calculated to be 
+2,880 individuals. It has also been decided that regions will serve as PSUs, 
+villages will serve as SSUs, and then households will be selected in each 
+village.   Resources will allow for 72 PSUs to  be selected, meaning that 40  
+(= 2880/72) individuals will be selected per PSU. 
+ 
+There is some flexibility in how the 40 individuals per PSU are allocated. At 
+this point it would be worthwhile to consider a few scenarios and select the 
+one that is feasible yet provides a good distribution of individuals across the 
+PSU (i.e. not too many or two few of the 40 individuals drawn from a given 
+village). Two scenarios are presented below: 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 106 =====
+
+Choosing the Sample Design, Continued 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-19 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Example (cont.) 
+ 
+Scenario 
+Description 
+1 
+10 individuals will be selected per village, meaning that 
+4 villages (= 40/10) must be selected per PSU. 
+Sample allocation: 
+72 regions x 4 villages/region x 10 individuals/village = 2880 
+2 
+5 individuals will be selected per village, meaning that 
+8 villages (= 40/5) must be selected per PSU. 
+Sample allocation: 
+72 regions x 8 villages/region x 5 individuals/village = 2880 
+ 
+In terms of resources, the key difference between the above scenarios is the 
+number of villages that would need to be visited within each PSU. This  
+number will likely be a deciding factor in the allocation of the sample,   
+keeping in mind that having a high number of individuals selected from only   
+a few villages would result in greater clustering of survey data and a potential 
+loss of precision in survey estimates. 
+ 
+ 
+ 
+Example with 
+stratification 
+For this example, assume again that the total sample size has been calculated   
+to be 2,880 individuals and that regions will serve as PSUs, villages will serve 
+as SSUs, and then households will be selected in each village. Resources will 
+allow for 80 PSUs to be selected.  However, the survey designers wish to 
+ensure that the sample is drawn proportionately across the 4 islands that 
+comprise the country. 
+ 
+The table below shows the proportion of the total underlying population that 
+each island represents. The right-most column shows how the number of 
+PSUs would be proportionately allocated across these 4 islands or strata. 
+ 
+Island 
+Proportion of Total Pop. 
+PSUs 
+A 
+0.50 
+40 
+B 
+0.175 
+14 
+C 
+0.125 
+10 
+D 
+0.20 
+16 
+Total 
+1.00 
+80 
+ 
+Thus, 40 regions (PSUs) will be picked out of all regions on island A, 14 
+regions will be picked out of all regions on island B, and so on. Once the 
+PSUs are selected per island, sample allocation continues just as in the 
+preceding example, with the same number of villages being selected in each 
+PSU, regardless of the island on which the PSU is located. 
+ 
+ 

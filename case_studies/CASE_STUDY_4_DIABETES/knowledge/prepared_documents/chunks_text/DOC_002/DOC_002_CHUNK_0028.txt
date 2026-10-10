@@ -1,0 +1,105 @@
+
+
+===== PDF PAGE 55 =====
+
+Indicators and metadata  ﻿
+43
+23. 	Treatment with glucose-lowering medication among people with diabetes
+Indicator name
+Treatment with glucose-lowering medication among people with diabetes
+Purpose
+To assess the level of treatment with glucose-lowering medication among people 
+with diabetes. 
+Definition
+Proportion of people with diabetes who required glucose-lowering medication 
+and were receiving it according to WHO or national guidelines:
+	
+●
+This indicator can be derived from population-level surveys or health 
+facility-based reporting systems. “Receiving medication” will be assessed 
+through self-reports in a population-based survey, while in health facility-
+based reporting system, it will be assessed through prescription data.
+Numerator
+Population survey data: number of respondents with diabetes who required 
+glucose-lowering medication and were receiving it according to guidelines.
+Facility data: number of people with diabetes registered in health facilities 
+who required glucose-lowering medication and were receiving it according to 
+guidelines during the reporting period.
+Denominator
+Population survey data: total number of respondents with diabetes who required 
+glucose-lowering medication according to guidelines.
+Facility data: total number of people with diabetes registered in health facilities 
+who required glucose-lowering medication according to guidelines during the 
+reporting period.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, stratify by facility level of care type, provider 
+ownership type (public/private), and individual-level characteristics such as age, 
+sex, race/ethnicity, comorbidity status, high-risk groups, socioeconomic status, 
+residence type (urban/rural), and health insurance type.
+Sources of data
+Health facility patient registers, health records, population-based survey
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+The selection and use of essential medicines 2023: web annex A: World Health 
+Organization model list of essential medicines: 23rd list‎. Geneva: World Health 
+Organization; 2023 (https://iris.who.int/handle/10665/371090).
+
+
+===== PDF PAGE 56 =====
+
+44
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+24. 	Insulin treatment among people with diabetes
+Indicator name
+Insulin treatment among people with diabetes
+Purpose
+To assess the level of insulin treatment among people with diabetes. 
+Definition
+Proportion of people with diabetes who required insulin treatment and were 
+receiving it according to WHO or national guidelines.
+	
+●
+This indicator can be derived from population-level surveys or health 
+facility-based reporting systems. “Receiving treatment” will be assessed 
+through self-reports in a population-based survey, while in health facility-
+based reporting system, it will be assessed through prescription data.
+Numerator
+Population survey data: number of respondents with diabetes who required 
+insulin treatment and were receiving it according to guidelines.
+Facility data: number of people with diabetes registered in health facilities who 
+required insulin treatment and were receiving it according to guidelines during 
+the reporting period.
+Denominator
+Population survey data: total number of respondents with diabetes who required 
+insulin treatment according to guidelines.
+Facility data: total number of people with diabetes registered in health facilities 
+who required insulin treatment according to guidelines.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, type of diabetes and type of insulin, stratify 
+by facility level of care type, provider ownership type (public/private), and 
+individual-level characteristics such as age, sex, race/ethnicity, comorbidity 
+status, high-risk groups, socioeconomic status, residence type (urban/rural), and 
+health insurance type.
+Sources of data
+Health facility patient registers, health records, population-based survey
+Limitations/comments
+None
+Related links
+HEARTS-D: diagnosis and management of type 2 diabetes. Geneva: World Health 
+Organization; 2020 (https://iris.who.int/handle/10665/331710).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application. Geneva: World Health Organization; 2022 (https://iris.
+who.int/handle/10665/364379).
+The selection and use of essential medicines 2023: web annex A: World Health 
+Organization model list of essential medicines: 23rd list. Geneva: World Health 
+Organization; 2023 (https://iris.who.int/handle/10665/371090). 

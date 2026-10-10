@@ -1,0 +1,9 @@
+﻿metric,value
+unique_ERROR_families,12
+unique_DETECTION_families,11
+unique_CORRECTION_families,9
+supported_semantic_chains,6
+supported_but_construct_mismatch,1
+feature_level_injection_ready_chains,3
+scenario_selected,0
+problem_injected,0

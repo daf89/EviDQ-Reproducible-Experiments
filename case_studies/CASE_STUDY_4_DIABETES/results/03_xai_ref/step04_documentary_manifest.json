@@ -1,0 +1,37 @@
+{
+    "step": "STEP_04_XAI_REF",
+    "raw_results": [
+        "step04_shap_values_validation.csv",
+        "step04_shap_importance.csv",
+        "step04_f_important.csv"
+    ],
+    "tables": [
+        "tables/table_step04_shap_ranking.csv"
+    ],
+    "figures": [
+        {
+            "name": "figure_step04_shap_importance",
+            "formats": [
+                "PNG_300_DPI",
+                "PDF_VECTOR"
+            ]
+        },
+        {
+            "name": "figure_step04_shap_cumulative",
+            "formats": [
+                "PNG_300_DPI",
+                "PDF_VECTOR"
+            ]
+        },
+        {
+            "name": "figure_step04_shap_beeswarm",
+            "formats": [
+                "PNG_300_DPI",
+                "PDF_VECTOR"
+            ]
+        }
+    ],
+    "test_used": false,
+    "dependency_analysis": false,
+    "dq_intervention": false
+}

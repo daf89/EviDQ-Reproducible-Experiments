@@ -1,0 +1,91 @@
+9. Managing specific patient groups or circumstances 
+Young adults 
+Comprehensive screening for the main causes of secondary hypertension is recommended in adults diagnosed with hypertension before 
+the age of 40 years, except for obese young adults where it is recommended to start with an obstructive sleep apnoea evaluation. 
+I 
+B 
+Since SCORE2 has not been validated for individuals <40 years, screening for HMOD may be considered in such young individuals with 
+elevated BP without other increased CVD risk conditions to identify additional individuals for possible medical treatment. 
+IIb 
+B 
+Hypertension in pregnancy 
+In consultation with an obstetrician, low- to moderate-intensity exercise is recommended in all pregnant women without contraindications 
+to reduce the risk of gestational hypertension and pre-eclampsia. 
+I 
+B 
+HBPM and ABPM should be considered to exclude white-coat and masked hypertension, which are more common in pregnancy. 
+IIa 
+C 
+Older and frail patients 
+It is recommended that treatment of elevated BP and hypertension among older patients aged <85 years who are not moderately to 
+severely frail follows the same guidelines as for younger people, provided BP-lowering treatment is well tolerated. 
+I 
+A 
+When initiating BP-lowering treatment for patients aged ≥85 years, and/or with moderate-to-severe frailty (at any age), long-acting 
+dihydropyridine CCBs or RAS inhibitors should be considered, followed, if necessary, by a low-dose diuretic if tolerated, but preferably not 
+a beta-blocker (unless compelling indications exist) or an alpha-blocker. 
+IIa 
+B 
+As the safety and efficacy of BP treatment is less certain in individuals with moderate or severe frailty, clinicians should consider screening 
+older adults for frailty using validated clinical tests; frail patients’ health priorities and a shared-decision approach should be considered when 
+deciding on BP treatments and targets. 
+IIa 
+C 
+If BP drops with progressing frailty, deprescription of BP-lowering medications (and other drugs that can reduce BP, such as sedatives and 
+prostate-specific alpha-blockers) may be considered. 
+IIb 
+C 
+Hypertension and orthostatic hypotension 
+Before starting or intensifying BP-lowering medication, it is recommended to test for orthostatic hypotension, by first having the patient sit 
+or lie for 5 min and then measuring BP 1 and/or 3 min after standing. 
+I 
+B 
+It is recommended to pursue non-pharmacological approaches as the first-line treatment of orthostatic hypotension among persons with 
+supine hypertension. For such patients, it is also recommended to switch BP-lowering medications that worsen orthostatic hypotension to 
+an alternative BP-lowering therapy and not to simply de-intensify therapy. 
+I 
+A 
+Chronic kidney disease 
+In hypertensive patients with CKD and eGFR >20 mL/min/1.73 m2, SGLT2 inhibitors are recommended to improve outcomes in the 
+context of their modest BP-lowering properties. 
+I 
+A 
+Other conditions 
+BP-lowering drug treatment is recommended for people with pre-diabetes or obesity when confirmed office BP is ≥140/90 mmHg or when 
+office BP is 130–139/80–89 mmHg and the patient is at predicted 10-year risk of CVD ≥10% or with high-risk conditions, despite a 
+maximum of 3 months of lifestyle therapy. 
+I 
+A 
+In patients with a history of aortic valve stenosis and/or regurgitation who require BP-lowering treatment, RAS blockers should be 
+considered as part of that treatment. 
+IIa 
+C 
+In patients with a history of moderate-to-severe mitral valve regurgitation who require BP-lowering treatment, RAS blockers should be 
+considered as part of that treatment. 
+IIa 
+C 
+Renovascular hypertension 
+Renal artery angioplasty without stenting should be considered for patients with hypertension and haemodynamically significant renal artery 
+stenosis due to fibromuscular dysplasia. 
+IIa 
+C 
+Renal artery angioplasty and stenting may be considered in patients with haemodynamically significant, atherosclerotic, renal artery stenosis 
+(stenosis of 70%–99%, or 50%–69% with post-stenotic dilatation and/or significant trans-stenotic pressure gradient) with: 
+• Recurrent heart failure, unstable angina, or sudden-onset flash pulmonary oedema despite maximally tolerated medical therapy; 
+• Resistant hypertension; 
+• Hypertension with unexplained unilaterally small kidney or CKD; 
+• Bilateral renal artery stenosis or unilateral renal artery stenosis in a solitary viable kidney. 
+IIb 
+C 
+Renal artery angioplasty is not recommended in patients without confirmed haemodynamically significant renal artery stenosis. 
+III 
+A 
+10. Acute and short-term lowering of blood pressure 
+In patients with intracerebral haemorrhage presenting with systolic BP ≥220 mmHg, acute reduction in systolic BP >70 mmHg from initial 
+levels within 1 h of commencing treatment is not recommended. 
+III 
+B 
+Continued 
+3922 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

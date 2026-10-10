@@ -1,0 +1,186 @@
+
+
+===== PDF PAGE 67 =====
+
+55
+Annex 6. Technical specifications and use of aneroid manual blood pressure measuring devices with cuff 
+TECHNICAL SPECIFICATIONS FOR MANUAL BLOOD PRESSURE MEASURING DEVICES
+(Including information on the following where relevant or appropriate)
+11
+Alternative code/s 
+(optional) 
+MS 30892; MS 43524; S 43839
+12
+Keywords (optional) 
+BP, non-invasive, BP set, non-invasive BP, auscultation
+13
+GMDN/UMDNS definition 
+(optional) ©
+A device designed to measure BP consisting of an inflatable cuff that fits around a limb (arm or thigh), 
+an inflation bulb for controlling the air pressure within the cuff, an aneroid manometer and tubing. The 
+aneroid manometer consists of a metal bellows, which expands as the pressure in the cuff increases, 
+and a mechanical amplifier that transmits the expansion through a lever to an indicator needle, which 
+rotates around a circular, calibrated scale. The manometer may be mounted on a wall, placed on a 
+table, or handheld (portable); BP measurement is taken in conjunction with a stethoscope.
+Purpose of use
+14
+Clinical or other purpose
+Diagnosis of hypertension, monitoring of BP
+15
+Level of use (if relevant)
+Screening site, health centre, district hospital, provincial hospital, specialized hospital
+16
+Clinical department or ward 
+(if relevant)
+All areas
+17
+Overview of functional 
+requirements
+Auscultatory, oscillometric or non-invasive BP methods. Inflatable rubber cuff surrounded by durable, 
+flexible cover that can be easily fastened around upper arm
+Aneroid pressure gauge displaying cuff pressure
+Pumping bulb and valve that allow adjustment of cuff pressure
+Technical characteristics
+18
+Detailed requirements
+Cuff arm fixing method to allow ease of use, ease of cleaning and low attraction of dirt; washable. 
+Neonatal (10–15 cm), paediatric (14–22 cm), adult (25–36 cm), large adult (34–43 cm), thigh (40–55 
+cm). The sizes of the cuffs may vary by manufacturer but should not deviate by ± 5 cm from the stated 
+sizes. Pressure gauge to allow reading of pressure to 2 mm Hg accuracy
+Maximum pressure, ≥ 300 mm Hg
+Gauge body to allow recalibration of readings but be sealed and secure in normal operation
+19
+Displayed parameters
+mm Hg
+20
+User-adjustable settings
+Physical and chemical characteristics
+21
+Components (if relevant)
+Rubber tubes to be detachable from other parts, allowing periodic cutting of decayed ends
+Gauge body to include clip for mounting on cuff
+Tube length to be > 30 cm
+Cuff material to be removable and washable
+To be supplied in protective case 
+22
+Mobility, portability (if 
+relevant)
+Portable
+23
+Raw materials (if relevant)
+Not applicable
+Utility requirements
+24
+Electrical, water and/or gas 
+supply (if relevant)
+Not applicable
+Accessories, consumables, spare parts, other components
+25
+Accessories (if relevant)
+26
+Sterilization process for 
+accessories (if relevant)
+Not applicable
+27
+Consumables and reagents 
+(if relevant)
+Single-use cuffs in the following sizes: Neonatal (10–15 cm), paediatric (14–22 cm), adult (25–36 cm), 
+large adult (34–43 cm), thigh (40–55 cm). Reusable cuffs in the following sizes: Neonatal (10–15 cm), 
+paediatric (14–22 cm), adult (25–36 cm), large adult (34–43 cm), thigh (40–55 cm). The sizes off the 
+cuffs may vary by manufacturer but should not deviate by ± 5 cm from the stated sizes.
+28
+Spare parts (if relevant)
+Rubber tube (length > 30 cm), reusable cuffs of various sizes 
+29
+Other components (if 
+relevant)
+Protective container
+
+
+===== PDF PAGE 68 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+56
+TECHNICAL SPECIFICATIONS FOR MANUAL BLOOD PRESSURE MEASURING DEVICES
+(Including information on the following where relevant or appropriate)
+Packaging
+30
+Sterility status on delivery 
+(if relevant)
+Single-use cuffs must be delivered sterile.
+31
+Shelf life (if relevant)
+Minimum shelf life for single-use cuffs must be 1 year from the date of reception.
+32
+Transport and storage (if 
+relevant)
+Storage environment humidity: 10–95% relative humidity. Storage environment temperature: 
+–20 to 60 °C 
+33
+Labelling (if relevant)
+Not applicable
+Environmental requirements
+34
+Context-dependent 
+requirements 
+Can be stored continuously at ambient temperature of 0–50 °C and 15–90% relative humidity.
+Can operate continuously in ambient temperature of 10–40 °C and 15–90% relative humidity. 
+Installation 
+35
+Pre-installation 
+requirements (if relevant)
+ 
+36
+Requirements for 
+commissioning (if relevant)
+ 
+37
+Training of users (if 
+relevant)
+Training of users in operation and basic maintenance shall be provided.
+38
+User care (if relevant)
+ 
+Warranty and maintenance
+39
+Warranty
+2 years 
+40
+Maintenance tasks
+ 
+41
+Type of service contract
+ 
+42
+Availability of spare parts 
+after warranty
+5 years after discontinuation by factory
+43
+Availability of software and 
+hardware upgrades
+ 
+Documentation
+44
+Documentation 
+requirements
+User, troubleshooting and service manuals must be available to the user and patients in the 
+language(s) of the country in which the device is used and/or in another language authorized by 
+national regulatory agencies.
+Certificate of calibration and inspection to be provided when purchased.
+List of equipment and procedures required for local calibration and routine maintenance to be provided.
+List of important spares and accessories to be provided, with their part numbers and cost
+Contact details of manufacturer, supplier and local service agent to be provided.
+Decommissioning
+45
+Estimated life span
+10 years
+Safety and standards
+46
+Risk classification
+Class A (GHTF Rule 4); Class II (USA); Class I (Australia, Canada and Japan); Class IIa (European Union)
+47
+Regulatory approval or 
+certification
+Proof of regulatory compliance (e.g. registration, clearance, approval) must be provided as appropriate 
+per the product’s risk classification, by regulatory agency (e.g. by a founding member of IMDRF-EU, USA, 
+Canada, Australia, Japan). Else, approved by local national regulatory agency.

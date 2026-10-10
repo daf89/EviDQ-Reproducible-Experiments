@@ -1,0 +1,90 @@
+
+
+===== PDF PAGE 63 =====
+
+51
+Annex 6. Technical specifications and use of aneroid manual blood pressure measuring devices with cuff 
+2.	Measurement principles
+As described above, the combination of a cuff, an inflation bulb with a release valve and a manometer is 
+called a sphygmomanometer (Fig. A6.1), which is the equipment used in the auscultatory technique. The 
+Korotkoff sounds in the artery can be detected by manual auscultation, as the manometer is used only to 
+display pressure. 
+2.1	Mercury sphygmomanometer
+For decades, the mercury sphygmomanometer was considered the gold standard and the first choice of device 
+for BP measurement. Now, mercury is recognized as a substance producing significant adverse neurological 
+and other health effects, with particular concerns expressed about its harmful effects on infants and unborn 
+children. The global transport of mercury in the environment was a key reason for taking the decision that 
+global action to address the problem of mercury pollution was required (8), 
+this leads to the Minamata Convention on Mercury, adopted in 2013 to protect human health 
+and the environment from the adverse effects of mercury. Its core purpose is to “protect human 
+health and the environment from anthropogenic emissions and releases of mercury and mercury 
+compounds.” 
+The treaty specifies that some products containing mercury are excluded, such as products for research, 
+calibration of instrumentation and as a reference standard.
+2.2	Aneroid sphygmomanometer
+Sphygmomanometers with aneroid (or mechanical) gauges and an elastic pressure-sensing element are 
+common alternatives to mercury sphygmomanometers. They may be handheld, free-standing or wall-mounted. 
+Important considerations (4) are: 
+•	 quality control of production and the technical design, which affect the reliability of a device to a greater 
+extent than for mercury manometers; 
+•	 sensitivity to mechanical shocks; and 
+•	 the requirement for frequent calibration (usually every 6 months). 
+With regard to the second consideration, most aneroid manometers cannot withstand a fall from a typical table 
+height. As this is unacceptable, the ISO/IEC Joint Working Group introduced requirements for the mechanical 
+strength of portable and handheld aneroid manometers. With the exception of stationary non-automated 
+sphygmomanometers, including aneroid types, all devices must function normally after a free fall from 25 cm. 
+When they are labelled “shock resistant”, they must withstand a fall from 1 meter without loss of performance.
+3.	Regulatory requirements and standards
+The regulations and standards listed below were valid at the time of publication of this document. Any updates 
+should be consulted. The lists are illustrative and non-exhaustive. The standards may not be required in all 
+countries.
+Standards applicable to general quality systems for medical devices: 
+•	 EN ISO 13485:2012, Medical devices – Quality management systems – Requirements for regulatory 
+purposes
+•	 EN ISO 14971:2012, Medical devices – Application of risk management to medical devices
+•	 ISO 13485:2003, Medical devices – Quality management systems – Requirements for regulatory purposes 
+(Australia, Canada and European Union)
+•	 ISO 14155:2011, Clinical investigation of medical devices for human subjects – Good clinical practice
+•	 ISO 14971:2007, Medical devices – Application of risk management to medical devices
+
+
+===== PDF PAGE 64 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+52
+•	 ISO 16142-1:2016, Medical devices – Recognized essential principles of safety and performance of 
+medical devices – Part 1: General essential principles and additional specific essential principles for all 
+non-IVD medical devices and guidance on the selection of standards
+Standards applicable to manual BP devices:
+•	 ISO 81060-1:2007, Non-invasive sphygmomanometers – Part 1: Requirements and test methods for 
+non-automated measurement type
+•	 ISO/IEEE 11073-10407:2010 (Part 10407: Device specialization -- Blood pressure monitor)
+•	 BS EN 1060-2:1995 +A1:2009, Non-invasive sphygmomanometers: Supplementary requirements for 
+mechanical sphygmomanometers
+4.	Calibration 
+Mercury devices must be inspected to ensure that the mercury column is intact, in the vertical position and 
+that the mercury meniscus is centred at zero. Otherwise, no specific calibration is required.
+Aneroid sphygmomanometers contain moving parts and lose accuracy relatively quickly. Therefore, calibration 
+by technical experts every 6 months (or as recommended by the manufacturer) is necessary to ensure that 
+accuracy is retained (9). More technical checks could be performed by an authorized laboratory (metrological 
+testing to guarantee accuracy). Digital display BPMD can be calibrated against a reference manometer, such 
+as an electronic manometer with an accuracy of ± 0.1 mm Hg or compared with a well-maintained mercury 
+sphygmomanometer with a rated accuracy of only ± 3 mm Hg. 
+5.	Maintenance
+Maintenance routines for BPMDs should include all the following aspects.
+For mercury sphygmomanometers, replacement of mercury columns is considered a high risk because of 
+potential contact with mercury. Protective equipment and protocols should be followed to minimize risk. The 
+tasks are:
+•	 Clean and disinfect the exterior of the device.
+•	 Lubricate casters and swivel wall mount.
+•	 Inspect column integrity and zero-centred mercury meniscus.
+•	 Replace tubing, hoses, connectors and cuffs as necessary.
+For aneroid sphygmomanometers:
+•	 Clean and disinfect the exterior of the device.
+•	 Calibrate the device by technical experts.
+•	 Replace tubing, hoses, connectors and cuffs as necessary.
+An example of a procedure for preventive maintenance of a manual, non-invasive BPMD (aneroid or mercury 
+sphygmomanometer) is shown in tables 8 and 9 below (10). The suggested interval is every 6 months; the 
+protocol takes 0.25 h. The test apparatus required is a pressure gauge or meter (not required for testing 
+mercury sphygmomanometers, except for initial inspection or when the glass tube is replaced) and a stopwatch. 
+The procedure includes qualitative and quantitative tasks for acceptance and scheduled inspections or both.

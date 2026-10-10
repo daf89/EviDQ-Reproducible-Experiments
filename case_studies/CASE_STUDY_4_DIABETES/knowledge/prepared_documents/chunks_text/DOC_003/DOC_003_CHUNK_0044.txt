@@ -1,0 +1,132 @@
+
+
+===== PDF PAGE 87 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-2 
+WHO STEPS Surveillance 
+Sampling Guidelines 
+ 
+ 
+ 
+Introduction 
+High quality survey techniques can provide a good picture of risk factors for 
+NCDs in a population by using a scientifically selected sample of that 
+population.  The sample will represent the entire target population if the  
+sample is drawn correctly. High standards of sample design and selection are 
+essential to achieve valuable and useful results from STEPS. 
+ 
+ 
+Reflecting the 
+survey scope in 
+the sample 
+To achieve a sample that reflects the scope of the survey it is essential to: 
+• define a target population; 
+• scientifically select a sample of the population that is representative of the 
+target population; 
+• plan ahead for reporting of survey results by sex and desired age groups. 
+ 
+ 
+ 
+Define the 
+target 
+population 
+Each country needs to define  the target population for their STEPS Survey.   
+To define the population, the purpose and use of the survey data need to be 
+taken into account. For example, should the survey to be representative of the 
+entire population or a specific region? 
+It is recommended that the target population for a STEPS NCD risk factor 
+survey be at minimum all adults aged 18 to 69 years residing in the survey 
+area. The age range may be expanded to include additional age groups, but it  
+is not recommended to have a smaller age range. 
+ 
+ 
+ 
+Sample 
+population 
+The sample population is a scientifically selected subset of the target 
+population. Once the target population has been defined, the sample of 
+participants within the target population will be selected. 
+ 
+ 
+ 
+Estimates for 
+age-sex groups 
+The prevalence of most NCD risk factors tends to increase with age and vary 
+by sex. Therefore it is recommended that survey results include estimates for 
+specific age groups for each sex, in addition to the total survey population 
+estimates, in order to provide a more nuanced picture of the prevalence of 
+NCD risk factors in your target population. 
+ 
+To ensure that precise estimates for each age-sex group can be calculated 
+from the survey data, the total number of age-sex groups must be taken into 
+consideration when calculating the sample size. Reporting estimates for a 
+greater number of age groups will require a larger sample size. The STEPS 
+recommended age groups are based on the Global Burden of Disease (GBD) 
+age groups and are as follows: 
+• 4 age groups per gender: 18-29, 30-44, 45-59, and 60-69 years 
+• 3 age groups per gender: 18-29, 30-44, and 45-69 years 
+• 2 age groups per gender: 18-44 and 45-69 years. 
+If resources are extremely limited, estimates may be obtained only for the 
+entire age span of the survey (e.g. 18-69). The next topic explains how to 
+incorporate the number of age-sex groups into sample size calculation. 
+ 
+ 
+
+
+===== PDF PAGE 88 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-3 
+WHO STEPS Surveillance 
+Determining the Sample Size 
+ 
+ 
+ 
+Introduction 
+In order to ensure a sufficient level of precision of the survey results, an 
+adequate sample must be drawn from the target population. To calculate the 
+sample size needed, the following factors must be taken into consideration: 
+ 
+• desired level of confidence of the survey results; 
+• acceptable margin of error of the survey results; 
+• design effect of the sampling methodology; 
+• estimated baseline levels of the behaviours or indicators to be measured. 
+ 
+Additionally, the sample size must be adjusted for: 
+ 
+• number of age-sex estimates 
+• anticipated non-response. 
+ 
+ 
+Helpful 
+Terminology 
+The following table provides a brief description of several key statistical 
+terms. It is important to develop a good understanding of this terminology 
+before proceeding to calculate the sample size. 
+ 
+Term 
+Description 
+Sample Mean / 
+Prevalence 
+The estimated mean or prevalence of a given 
+population parameter (e.g. mean number of days 
+fruit was consumed in a given week) that is 
+calculated from the survey data. 
+Population Mean / 
+Prevalence 
+The true mean or prevalence of a given parameter 
+for the entire target population. The sample mean is 
+an estimate of the population mean. 
+Confidence Intervals A range of values around the sample mean or 
+prevalence in which the population mean or 
+prevalence is likely to fall. For example, a 95% 
+confidence interval indicates that for 95 out of 100 
+surveys, the population mean would fall into this 
+range of values around the sample mean. 
+ 
+Continued on next page 

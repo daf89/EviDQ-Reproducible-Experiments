@@ -1,0 +1,35 @@
+ABSTRACT 
+In the Medical Expenditure Panel Survey (MEPS), expenditures are defined as 
+payments from all sources (including individuals, private insurance, Medicare, 
+Medicaid, and other sources) for health care services during the year. Data on 
+expenditures are collected for sample persons in the Household Component of the 
+survey and from a sample of their health care providers responding to the Medical 
+Provider Component of the survey. In the absence of payment information from 
+either component, expenditure data are completed through weighted hot-deck 
+imputation procedures. The MEPS collects a wide variety of data about indivi-
+duals and health care events that are correlated with expenditures and, for each 
+event type (e.g., doctor visits, hospitalizations, etc.), a selected set of these 
+variables is used in the imputation processes. Several hot-deck iterations are run 
+for each medical event type category based on factors such as whether partial 
+payment information was reported and whether payments for the event covered 
+multiple visits. This paper provides an overview of the methodological approach 
+to impute MEPS expenditure data and how class variables for the hot-deck 
+procedures were determined. 
+Suggested Citation: 
+Machlin, S. R. and Dougherty, D. D. Overview of Methodology for Imputing 
+Missing Expenditure Data in the Medical Expenditure Panel Survey. Method-
+ology Report No. 19. March 2007. Agency for Healthcare Research and Quality, 
+Rockville, Md. http://www.meps.ahrq.gov/mepsweb/data_files/publications/ 
+mr19/mr19.pdf 
+∗ ∗ ∗ 
+The estimates in this report are based on the most recent data available at the time 
+the report was written. However, selected elements of MEPS data may be revised 
+on the basis of additional analyses, which could result in slightly different 
+estimates from those shown here. Please check the MEPS Web site for the most 
+current file releases. 
+Center for Financing, Access, and Cost Trends 
+Agency for Healthcare Research and Quality 
+540 Gaither Road 
+Rockville, MD 20850 
+www.meps.ahrq.gov
+ii

@@ -1,0 +1,43 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+Takeaway: The feasibility of using claims data for QI is dependent on how a practice uses standard code 
+sets for diagnoses and procedures. Health IT Advisors can examine coding practices to assess whether 
+data required for analysis are available and provide education on expanding or enhancing use of codes 
+where necessary. 
+Claims Data for Quality Measurement by Payers (HEDIS and CMS) 
+While payers are expanding the use of clinical data from EHRs, they continue to rely on claims data as a 
+primary source for evaluating practice performance. The Healthcare Effectiveness Data and Information 
+Set (HEDIS) is one of the most widely used performance improvement tools, with 191 million people 
+enrolled in health plans that report results primarily by way of claims analysis. The National Committee 
+for Quality Assurance (NCQA)collects HEDISmeasures fromhealth plans across sixdomains of care: 
+• 
+Effectiveness of Care 
+• 
+Access/Availability of Care 
+• 
+Experience of Care 
+• 
+Utilization and Risk Adjusted Utilization 
+• 
+Health Plan Descriptive Information 
+• 
+Measures Reported Using Electronic Clinical Data Systems 
+Many HEDIS measures are reported entirely through claims and depend on accurate coding of diagnoses 
+and procedures.[86] Health plan tip sheets, which can be a useful tool for educating providers on the 
+link between claims and quality measurement, may be publicly available on the internet or upon 
+request.[87-89] Exhibit 38 is an example excerpted from an educational resource created by Aetna, 
+which identifies coding tips for the Breast Cancer Screening measure along with definitions and tips for 
+providers seeking to improve their performance. [86-89] 
+Exhibit 38: Example Health Plan Tip Sheet [89] 
+CMS’s MIPS, a participation pathwithin Medicare’s Quality Payment Program (QPP), is another national 
+payer programthat relies in part on claims to assess provider quality.[90] While Medicare has proposed 
+to phase out MIPSclaims reporting in favor of digital quality measurement by 2025, it remains a popular 
+option among small practices that have not adopted EHR software or that are using technology that is 
+not certified for MIPS quality reporting. Furthermore, administrative claims will continue to be used for 
+certainquality and cost metrics, suchas those relatedto hospitalizations and other episodes of care. 
+Reporting MIPS quality measures through the Medicare Part B claims submission method is similar to 
+reporting HEDISmeasures throughclaims. Eachmeasure has specifications that identify the measure 
+type, description, and instructions along with detailed criteria for establishing the denominator (eligible 
+Health IT Advisor Handbook 
+Page 85

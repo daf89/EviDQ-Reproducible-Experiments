@@ -1,0 +1,123 @@
+by 2025.756–759 The pathogeneses of hypertension and CKD are closely 
+entwined.760 Resistant hypertension, masked hypertension, HMOD, 
+and higher night-time BP are common in patients with CKD.761 CVD 
+is one of the largest contributors to mortality in patients with CKD, 
+with hypertension being a major risk factor.760,762 
+For the purposes of these guidelines, adults with moderate-to-severe 
+CKD and elevated BP are at sufficiently high risk to be considered for 
+BP-lowering drug therapy as outlined in Section 8 and the Central 
+Illustration (Figure 19). We use Kidney Disease: Improving Global 
+Outcomes (KDIGO) categories to define CKD-based risk, and our def-
+inition of moderate-to-severe CKD comprises persons with an eGFR of 
+<60 mL/min/1.73 m2 and/or albuminuria of ≥30 mg/g (≥3 mg/mmol).19 
+For persons with mild CKD and elevated BP, a CVD risk assessment 
+should be conducted before deciding on BP-lowering treatment. 
+9.7.2. Blood pressure lowering in chronic kidney 
+disease 
+BP lowering in patients with CKD is associated with beneficial effect on 
+CVD events and mortality.275,763–766 BP lowering reduces progression 
+of CKD and the incidence of end-stage renal disease, but this tends to 
+be only in those with significant proteinuria at baseline.766,767 
+9.7.3. Managing blood pressure in chronic kidney 
+disease 
+Patients with CKD should receive lifestyle advice, especially regarding 
+reducing sodium intake. Dietary potassium supplementation recom-
+mendations are provided in Section 8, with caution required among per-
+sons with moderate-to-severe CKD. While exercise appears to have 
+little effect on improving BP in patients with CKD768 or patients on dia-
+lysis,769 those with CKD on ACE inhibitor monotherapy have protec-
+tion against adverse kidney outcomes, CVD events, cardiovascular 
+death, and all-cause death.770,771 Both ACE inhibitors and ARBs reduce 
+the risk of CVD events and kidney failure compared with placebo; how-
+ever, ACE inhibitors appear to do so with higher probability than 
+ARBs.772,773 Patients with CKD usually require combination therapy, 
+and this should be initiated as a combination of a RAS inhibitor and a 
+CCB or diuretic. In patients with eGFR < 30 mL/min/1.73 m2, an ad-
+equately up-titrated loop diuretic is necessary to define resistant hyper-
+tension. Chlorthalidone, typically added to a loop diuretic, also effectively 
+lowers BP and reduces microalbuminuria in patients with resistant hyper-
+tension with stage 4 CKD (eGFR of 15–30 mL/min/1.73 m2).774 The 
+combination of an ACE inhibitor and an ARB is not recommended in 
+CKD or any other BP-treatment scenario. 
+9.7.4. Blood pressure targets in chronic kidney 
+disease 
+Evidence regarding BP targets in patients with CKD is complex and con-
+troversial. The 2021 KDIGO Guideline suggested that adults with ele-
+vated BP and CKD be treated to a target systolic BP of <120 mmHg, 
+when tolerated, using standardized office BP measurement (Class of 
+Recommendation IIb).19 This suggestion was based, in part, on the 
+SPRINT trial.545 It should be noted that patients with 24 h urine protein 
+excretion ≥ 1 g/day or eGFR < 20 mL/min/1.73 m2 were excluded 
+from SPRINT. In patients with CKD, after a median follow-up of 3.3 
+years, the hazard ratio for the primary composite cardiovascular out-
+come was 0.81 (95% CI 0.63–1.05) and for all-cause death it was 
+0.72 (95% CI 0.53–0.99). Although intensive BP lowering in SPRINT re-
+sulted in greater early decline in eGFR, there was no evidence that this 
+reduction in eGFR attenuated the beneficial effects of the SPRINT 
+intervention on CVD events or death.775 
+Several systematic reviews have examined the benefit of intensive BP 
+control in patients with CKD (see Supplementary data online). Some 
+have shown no benefit of intensive BP control on renal out-
+comes,764,767 while others showed lower mortality in intensively trea-
+ted vs. non-intensively treated patients.275 Highlighting the beneficial 
+effects of SGLT2 inhibitors in persons with CKD776,777 and finerenone 
+in persons with CKD and diabetes460–462,778 is relevant, though these 
+drugs are not currently marketed for BP-lowering effects alone. 
+9.8. Cardiac disease 
+9.8.1. Blood pressure thresholds and targets in 
+patients with cardiac disease 
+Recommended BP thresholds for initiating BP-lowering therapy and re-
+commended BP targets in patients receiving therapy are provided in 
+Sections 6 and 8. All patients with a history of CVD (including coronary 
+artery disease) are at increased risk of recurrent CVD. As such, these 
+patients are recommended to be treated with BP-lowering therapy 
+for confirmed baseline BP of ≥130/80 mmHg and the recommended 
+treatment target BP of 120–129/70–79 mmHg, provided treatment is 
+tolerated (see Sections 6 and 8). As stated in Section 8, it should be re-
+membered that a systolic BP of 120 mmHg (especially by out-of-office 
+assessment) is likely the optimal point in the target range recommended 
+in these guidelines. In addition to considering patients with known CVD 
+at sufficiently high risk for more intensive BP treatment targets, the 
+Recommendation Table 26 — Recommendations for 
+managing hypertension in patients with chronic kidney 
+disease 
+Recommendations 
+Classa 
+Levelb 
+In patients with diabetic or non-diabetic 
+moderate-to-severe CKD and confirmed BP ≥130/ 
+80 mmHg, lifestyle optimization and BP-lowering 
+medication are recommended to reduce CVD risk, 
+provided such treatment is well tolerated.275,766 
+I 
+A 
+In adults with moderate-to-severe CKD who are 
+receiving BP-lowering drugs and who have eGFR 
+>30 mL/min/1.73 m2, it is recommended to target 
+systolic BP to 120–129 mmHg, if tolerated. 
+Individualized BP targets are recommended for those 
+with lower eGFR or renal transplantation.274,779 
+I 
+A 
+In hypertensive patients with CKD and eGFR >20 
+mL/min/1.73 m2, SGLT2 inhibitors are 
+recommended to improve outcomes in the context 
+of their modest BP-lowering properties.776,777 
+I 
+A 
+ACE inhibitors or ARBs are more effective at 
+reducing albuminuria than other BP-lowering agents 
+and should be considered as part of the treatment 
+strategy for patients with hypertension and 
+microalbuminuria or proteinuria.780–782 
+IIa 
+B 
+© ESC 2024
+ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blocker; BP, blood 
+pressure; CKD, chronic kidney disease, eGFR, estimated glomerular filtration rate; 
+SGLT2, sodium–glucose co-transporter 2. 
+aClass of recommendation. 
+bLevel of evidence. 
+3976 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

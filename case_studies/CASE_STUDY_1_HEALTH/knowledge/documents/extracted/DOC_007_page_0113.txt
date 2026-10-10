@@ -1,0 +1,112 @@
+restriction may not be needed.546,556,591 Although guidelines
+and available information to people with CKD have heavily
+emphasized
+plant-based
+foods
+as
+potential
+causes
+of
+hyperkalemia in CKD,592 other healthy nutrients in plant-
+based
+foods
+affect
+potassium
+absorption
+and
+distribution588,593,594;
+therefore,
+the
+net
+bioavailable
+potassium from plant-based foods may be lower than
+appreciated.595 Highly processed foods (rich in potassium
+additives), meats, dairy products, juices, and salt substitutes
+made
+with
+potassium
+chloride
+are
+actually
+higher
+in
+absorbable potassium than many plant-based fresh foods
+(Figure 33592).596–598
+Teaching materials for people with CKD should place a
+greater focus on highly processed versus unprocessed food
+restriction for hyperkalemia management.592 An example of
+a patient resource for potassium management can be
+found at: http://www.bcrenal.ca/resourcegallery/Documents/
+Potassium_Management_in_Kidney_Disease.pdf.
+Cooking methods such as soaking foods for 5–10 minutes
+in previously boiled water can effectively reduce the potas-
+sium by half for some foods.599 Thus, educating people
+with CKD and healthcare providers, using clear messaging,
+on
+dietary
+approaches
+to
+potassium
+management
+is
+needed (https://www.theisn.org/initiatives/toolkits/raasi-toolkit/
+#1684867542809-330edb79-52b4), as well as a policy to
+improve food labeling by detailing the added potassium used
+in processing.
+Special considerations
+International considerations. For people with CKD and
+severe recurrent hyperkalemia (potassium >6 mmol/l), the
+balance to be considered is between the additional cost of
+the number needed to treat with potassium exchange agents
+to prevent additional costs of hyperkalemia over and above
+CKD management costs. If the price for potassium-lowering
+therapy is lower than the reduction of inpatient and
+outpatient costs due to prevented hyperkalemia, the cost-
+beneﬁt ratio will be favorable because in addition to the
+health beneﬁts, there is a net saving of healthcare costs
+resulting from potassium-lowering treatment. The key is to
+implement a successful affordable strategy for hyperkalemia
+management that allows the maintenance of other therapies
+3rd line:
+Last resort
+1st line:
+Address correctable factors
+2nd line: 
+Medications
+• Review non-RASi medications (e.g. NSAIDs, trimethoprim)
+• Assess dietary potassium intake (dietary referral) and consider
+ appropriate moderation of dietary potassium intake 
+Consider:
+• Appropriate use of diuretics
+• Optimize serum bicarbonate levels
+• Licensed potassium exchange agents
+• Reduce dose or discontinue RASi/MRA
+ (Discontinuation is associated with increased cardiovascular events.
+ Review and restart RASi or MRA at a later date if patient condition allows.)
+Figure 32 | Actions to manage hyperkalemia (potassium >5.5 mmol/l) in chronic kidney disease. MRA, mineralocorticoid receptor
+antagonists; NSAID, nonsteroidal anti-inﬂammatory drug; RASi, renin-angiotensin system inhibitors.
+Plant-based foods
+Absorption rate
+50%–60%
+Plant-based foods may have
+and carbohydrate content encourages K+
+shifts into intracellular space, minimizing
+impacts on serum K+
+Animal-based foods
+Absorption rate
+70%–90%
+Animal-based protein has higher
+in higher amounts of K+ remaining
+in serum
+Processed foods
+Absorption rate
+90%
+Potassium salts (often found in
+processed foods) absorption rate
+has been reported to be 90%
+Figure 33 | Potassium absorption rates of plant-based, animal-based, and processed foods. Data from Picard K, Grifﬁths M, Mager DR,
+Richard C. Handouts for low-potassium diets disproportionately restrict fruits and vegetables. J Ren Nutr. 2021;31:210–214.592
+chapter 3
+www.kidney-international.org
+S228
+Kidney International (2024) 105 (Suppl 4S), S117–S314

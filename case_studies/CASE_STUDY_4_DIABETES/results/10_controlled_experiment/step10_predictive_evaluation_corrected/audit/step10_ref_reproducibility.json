@@ -1,0 +1,85 @@
+{
+  "protocol": {
+    "iterations": 2000,
+    "learning_rate": 0.03,
+    "depth": 6,
+    "loss_function": "Logloss",
+    "eval_metric": "AUC",
+    "random_seed": 42,
+    "l2_leaf_reg": 3,
+    "verbose": false,
+    "allow_writing_files": false,
+    "thread_count": 1
+  },
+  "early_stopping_rounds": 100,
+  "use_best_model": true,
+  "checks": {
+    "roc_auc": {
+      "expected": 0.942222,
+      "observed": 0.9422222222222222,
+      "delta": 2.2222222217926912e-07,
+      "pass": true
+    },
+    "accuracy": {
+      "expected": 0.87013,
+      "observed": 0.8701298701298701,
+      "delta": -1.2987012987242252e-07,
+      "pass": true
+    },
+    "balanced_accuracy": {
+      "expected": 0.857407,
+      "observed": 0.8574074074074074,
+      "delta": 4.074074073656675e-07,
+      "pass": true
+    },
+    "precision": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "recall": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "f1": {
+      "expected": 0.814815,
+      "observed": 0.8148148148148148,
+      "delta": -1.8518518518639837e-07,
+      "pass": true
+    },
+    "tn": {
+      "expected": 90,
+      "observed": 90,
+      "pass": true
+    },
+    "fp": {
+      "expected": 10,
+      "observed": 10,
+      "pass": true
+    },
+    "fn": {
+      "expected": 10,
+      "observed": 10,
+      "pass": true
+    },
+    "tp": {
+      "expected": 44,
+      "observed": 44,
+      "pass": true
+    },
+    "best_iteration": {
+      "expected": 71,
+      "observed": 71,
+      "pass": true
+    },
+    "tree_count": {
+      "expected": 72,
+      "observed": 72,
+      "pass": true
+    }
+  },
+  "ref_reproducibility_pass": true
+}

@@ -1,0 +1,116 @@
+9. Managing specific patient groups 
+or circumstances 
+9.1. Young adulthood (18–40 years) 
+9.1.1. Definition and epidemiology 
+In the present guidelines ‘young adulthood’ is defined as age 18–40 years. 
+The prevalence of hypertension in young adults is increasing in men and 
+women.616–618 Unhealthy lifestyle, gender, obesity, and socio-economic 
+factors contribute.617,619–621 Hypertension-attributable CVD burden in 
+young adults, evaluated as mortality or years of living with disability, 
+has increased in the last decades, especially in low- and middle-income 
+countries and in men.622 Hypertension awareness, treatment, and con-
+trol in young adults is lower than in other age categories, a result driven 
+by worse control in young men.623 
+Systolic and diastolic hypertension and isolated diastolic hyperten-
+sion are associated with increased CVD risk in the young (see 
+Supplementary data online).624 Isolated systolic hypertension in the 
+young is discussed in Section 9.4. 
+9.1.2. Secondary hypertension in young adulthood 
+Secondary hypertension is more frequent in younger than in later- 
+onset hypertension, with a prevalence of 15%–30% in hypertensive 
+young adults reported from some referral centres.625,626 Major causes 
+of secondary hypertension include drug-induced hypertension (e.g. 
+oestrogen-progesterone oral contraceptives; cold medication) and pri-
+mary aldosteronism. The use of recreational drugs/substances, as well 
+as supplements and energy drinks should be investigated (see Section 7). 
+Combined oestrogen-progesterone contraceptives are among the most 
+common causes of drug-induced hypertension in young women,627,628 and 
+should not be used in hypertensive women unless there is no other method 
+available or acceptable to the patient.629 Conversely, progestin-only contra-
+ceptives are generally considered safe in women with hyperten-
+sion.89,630,631 Fibromuscular dysplasia should be considered as a cause of 
+secondary hypertension in young women,626,632 whereas primary aldoster-
+onism, the most common form of secondary hypertension, is equally com-
+mon in different age classes.316 Screening for secondary hypertension is 
+thus recommended in young adults with hypertension. However, in obese 
+young adults, primary hypertension is more common, though OSAS should 
+also be considered in this instance.633 
+9.1.3. Measurement and management of blood 
+pressure in young adults 
+Out-of-office BP measurement is recommended in young adults for 
+confirming diagnosis, since the white-coat phenomenon occurs in the 
+young.634 Because of the lower absolute CVD risk in this age category 
+compared with older adults, hard-endpoint randomized trials of BP 
+lowering in young adults have not been performed. However, since 
+relative risk reduction by BP-lowering treatment is homogeneous in 
+any age group, including those <55 years old,131 young adults with suit-
+able indications are also expected to benefit from BP-lowering therapy. 
+The hypertension management algorithm based on CVD risk proposed 
+in Section 6 is not fully applicable in young adults, since SCORE2 has not 
+been validated for individuals <40 years old. Even risk stratification 
+based on lifetime risk assessment does not apply to very young adults 
+(e.g. 20–30 years of age).128 In the absence of established CVD, diabetes 
+mellitus, familial hypercholesterolaemia, and moderate or severe CKD 
+a BP-lowering treatment initiation threshold of office 140/90 mmHg is 
+appropriate in most young adults. However, HMOD assessment may 
+be considered in patients aged <40 years to stratify individuals with ele-
+vated BP into a higher risk category. For example, arterial stiffness bet-
+ter reclassifies CVD risk in individuals aged <50 years than in older 
+individuals.28,215 Echocardiographic left ventricular mass also maintains 
+its added reclassification and discrimination on top of risk scores in 
+young adults (see Section 6 for discussion of risk modifiers).289 
+Irrespective of cardiovascular risk, all young adults with elevated BP 
+are recommended to follow lifestyle guidance for BP lowering. A dis-
+cussion about family planning should be taken with young women of 
+childbearing potential at each visit.635,636 
+Adherence to treatment is low in young adults, <50% in some stud-
+ies.251 Therefore, communicating the importance of adherence, educa-
+tion, and follow-up clinics is important. (see Sections 7 and 11). 
+9.2. Pregnancy 
+9.2.1. Definition and epidemiology 
+Hypertension in pregnancy is typically defined as systolic BP of 
+≥140 mmHg and/or diastolic BP of ≥90 mmHg, measured using repeated 
+BP readings in the office or hospital on two separate occasions or 
+≥15 min apart in severe hypertension (≥160/110 mmHg).1,637,638 
+Hypertension in pregnancy is the second leading cause of maternal 
+death after maternal peri-partum haemorrhage.639 Approximately 
+7% of pregnancies are complicated by hypertension, of which 3% 
+are due to pre-eclampsia and around 1% are chronic or pre-existing 
+hypertension.640 Women with a history of hypertensive disorders 
+during pregnancy are at increased risk of subsequent hypertension 
+and CVD.640–642 
+9.2.2. Classifying hypertension in pregnancy 
+Hypertension in pregnancy includes: 
+• Chronic hypertension: precedes pregnancy, develops before 20 
+weeks of gestation, persists for >6 weeks post-partum, and may be 
+associated with proteinuria. 
+• Gestational hypertension: develops after 20 weeks of gestation 
+and usually resolves within 6 weeks post-partum. 
+Recommendation Table 21 — Recommendations for 
+managing hypertension in young adults (see Evidence 
+Tables 36 and 37) 
+Recommendations 
+Classa 
+Levelb 
+Comprehensive screening for the main causes of 
+secondary hypertension is recommended in adults 
+diagnosed with hypertension before the age of 40 
+years, except for obese young adults where it is 
+recommended to start with an obstructive sleep 
+apnoea evaluation.316,626 
+I 
+B 
+Since SCORE2 has not been validated for individuals 
+<40 years, screening for HMOD may be considered in 
+such young individuals with elevated BP without other 
+increased CVD risk conditions to identify additional 
+individuals for possible medical treatment.28,215 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure; CVD, cardiovascular disease; HMOD, hypertension-mediated organ 
+damage; SCORE2, Systematic COronary Risk Evaluation 2. 
+aClass of recommendation. 
+bLevel of evidence. 
+ESC Guidelines 3969 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

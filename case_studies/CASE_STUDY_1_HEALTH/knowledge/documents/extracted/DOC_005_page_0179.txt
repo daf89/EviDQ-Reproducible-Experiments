@@ -1,0 +1,73 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+179
+Objectif 3.6 
+L’établissement dispose d’une réponse opérationnelle adaptée aux risques auxquels il peut être confronté
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 3.6-01 La gestion des tensions hospitalières 
+et des situations sanitaires exceptionnelles est maîtrisée
+L’établissement a anticipé les risques et menaces auxquels il peut être confronté, pouvant se traduire par 
+une situation de tension hospitalière : tensions liées à l’afflux de patients, la fragilisation des structures 
+d’urgence, du fait d’une carence en lits d’aval…de dommage majeur du système d’information ou de 
+crise sanitaire exceptionnelle : augmentation prévisible de la demande en soins critiques à cinétique 
+rapide (attentats, accidents collectifs…) ou lente (épidémie, pandémie de type Covid, épisode climatique 
+exceptionnel…). La réponse graduée de l’établissement de santé à une situation sanitaire exceptionnelle, 
+repose sur le plan de gestion des tensions hospitalières et des situations sanitaires exceptionnelles avec 
+2 niveaux de mobilisation de l’établissement (niveau 1 : plan de mobilisation interne, niveau 2 : plan blanc). 
+Le plan blanc comporte un volet relatif aux risques numériques. La cellule de crise hospitalière assure 
+le pilotage de la réponse de l’établissement avec la mise en œuvre des mesures de gestion adaptées 
+à la situation : organisation des sorties anticipées, transferts, ouverture de lits supplémentaires, renfort 
+des effectifs pour les services d’urgence et/ou la réanimation, disponibilité du matériel et des dispositifs 
+médicaux de type respirateur, pousse-seringue. Les établissements de santé doivent disposer dans ce 
+cadre des produits de santé et autres équipements notamment de protection individuelle nécessaire à la 
+réponse en situation sanitaire exceptionnelle pour assurer la prise en charge des patients et la protection 
+des personnels. Un volet formation complète le dispositif de réponse de l’établissement afin de former 
+les professionnels de santé et autres personnels aux situations sanitaires exceptionnelles dont le risque 
+épidémique et biologique. La formation aux situations sanitaires exceptionnelles doit être intégrée au plan 
+de formation de l’établissement. 
+L’organisation et les modalités de mise en œuvre sont connues dans la pratique par les professionnels et 
+donnent lieu à des exercices qui permettent des adaptations et révisions si besoin. La cellule de crise a 
+vocation à être opérationnelle dans les 45 minutes qui suivent l’alerte.
+ Tout l’établissement Impératif 
+Éléments d’évaluation
+ Gouvernance 
+• Les catégories de risques pouvant générer des tensions 
+hospitalières ou des crises sanitaires exceptionnelles sont 
+identifiées par l’établissement.
+• Les objectifs de l’établissement de santé pour la prise en 
+charge des patients en situation sanitaire exceptionnelle 
+en fonction de son plateau technique sont conformes au 
+plan ORSAN élaboré par l’ARS (établissement de santé 
+de première, deuxième ou troisième ligne).
+• La cellule de crise, opérationnelle dans les 45 minutes 
+suivant l’alerte, dispose des outils et procédures néces
+saires à son rôle de décision et de coordination (prise 
+en charge médicale des patients, organisation de crise, 
+sûreté/sécurité, communication, suivi des victimes et 
+accueil des familles, fonctions support).
+• Des exercices ou entraînements sont réalisés au moins 
+une fois par an.
+Audit système
+Fiches pédagogiques
+Évaluation de la gestion des risques et des 
+vigilances.
+Prise en charge des situations sanitaires 
+exceptionnelles.
+Références légales 
+et réglementaires
+• Guide d’aide à l’organisation de l’offre 
+de soins en situations sanitaires 
+exceptionnelles – Ministère des Affaires 
+Sociales et de la Santé, 2014.
+• Guide d’aide à la préparation et à la 
+gestion des tensions hospitalières et des 
+situations sanitaires exceptionnelles au 
+sein des établissements de santé – DGOS 
+– Mai 2019.
+• Gestion des épisodes de tension en 
+établissement de santé/ Focus opérationnel 
+sur le Plan de Mobilisation Interne 
+des Établissements de santé du guide 
+tensions et SSE Situations sanitaires 
+exceptionnelles – FEDORU, Avril 2019.

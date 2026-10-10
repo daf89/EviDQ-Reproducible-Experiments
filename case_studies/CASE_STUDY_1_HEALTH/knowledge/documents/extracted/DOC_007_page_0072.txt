@@ -1,0 +1,116 @@
+materials cannot be applied to settings with differences in
+assays,233 or use of equations developed in one population
+may not perform well in other populations with very
+different characteristics.153,234,235
+Values and preferences. There are now several valid equa-
+tions that can be reasonably used in local settings. The Work
+Group recognizes that different values and preferences may
+lead to different decisions in selection among validated GFR
+estimating equations. Thus, instead of being prescriptive, we
+list a set of criteria that deﬁnes a valid equation, a set of
+equations considered valid at this time, and a list of metrics to
+deﬁne better versus worse performance as evaluated in the
+local area. It is of value that GFR thresholds for deﬁnition and
+staging be standardized using valid equations optimized for a
+speciﬁc region helps to ensure this occurs. Where possible,
+inclusion of representation from key constituents in the
+population in the development of the equation and ensuring
+that it remains valid in those populations is also of value.
+Using validated eGFR equations improves the accuracy of
+assessment of true GFR but remains imperfect, and no single
+equation performs consistently across all populations. The Work
+Group judged that people with CKD and their healthcare pro-
+viders would want GFR estimated using the equation providing
+the greatest accuracy in the population of their geographical
+region. The Work Group recognizes that across the world there is
+signiﬁcant variation in the sociodemographic and ethnic
+makeup of populations and that even well-validated equations
+developed in different populations may not perform as well as
+others developed and validated in the population of interest.
+Resource use and costs. There are a number of initial costs
+including human resource costs associated with taking the time
+to decide on which equation, then time and technical infor-
+mation resources to be considered to change the computation,
+and the laboratory and nephrology teams to test the new
+equation and inform the clinical partners on the change. In
+addition, education for primary care providers, people with
+CKD, and other healthcare providers is also required, which
+incurs both direct and indirect costs. There will be costs, both
+human resource and meetings costs, associated with decision-
+making around which equation to use. Additional costs will be
+accrued if validation and impact studies are required.
+Considerations for implementation. Each region should have
+a mechanism for review and selection of equations for
+implementation by laboratories. For most countries, this
+might be through the national kidney society working in
+collaboration with laboratory physician organizations or
+regional laboratory groups, as has occurred in the United
+States and Europe, respectively.236,237 Decisions at this level by
+continental or national organizations are likely to minimize
+the likelihood that decisions for equation use will be made
+within
+small geographical
+areas
+or
+governed
+by local
+decisions,
+leading
+to
+greater
+variation
+in
+eGFR
+and
+uncertainty by people with CKD and healthcare providers.
+Considerations
+in
+decisions
+about
+implementation will
+reﬂect the balance of the criteria listed in Table 13.
+There are likely to be tradeoffs between optimal accuracy
+in local regions versus uniformity. Equations optimized for a
+speciﬁc region can help to ensure that the GFR thresholds for
+disease deﬁnition, classiﬁcation, and risk estimation have the
+same implications across regions. However, it would lead to
+barriers to implementation, as it will not be possible for all
+regions to conduct a sufﬁciently large and representative
+study to evaluate these equations and develop modiﬁcations.
+If not possible, or in the interim, we advise using equations
+that were developed in populations most similar to the
+available populations. For example, until more accurate re-
+gion-speciﬁc equations are available in countries within
+Central or South America, it may be reasonable to use CKD-
+EPI given the inclusion of Black and Hispanic participants in
+the development of equation, and within African countries, to
+use the EKFC equations using the Q-values, the median SCr
+concentration in a cohort developed in 2 African countries.234
+Table 13| Criteria for a validated GFR estimating equation
+Criteria
+Consideration
+Developed using rigorous measured GFR (mGFR) methods; ideally using comparable measurements for
+all individuals in the development populations
+Development methods
+Developed using assays for ﬁltration markers traceable to reference materials with acceptable accuracy
+and imprecision
+Development methods
+Developed with sufﬁcient sample size for the population
+Development population
+Study populations with a wide range of clinical characteristics and GFR, where possible representative
+of the clinical populations in which equations are to be applied, including representative samples
+of general population and people with kidney disease
+Development population
+Performance vs. mGFR evaluated in separate populations from that in which it was developed
+(i.e., external validation, not random split of development data)
+Accuracy
+Performance shows certain thresholds for performance compared with other equations (see Table 15)
+Accuracy
+Can be reported by laboratories (i.e., no other variables required for computation that are
+not readily available)
+Implementation by clinical laboratories
+GFR, glomerular ﬁltration rate.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S187

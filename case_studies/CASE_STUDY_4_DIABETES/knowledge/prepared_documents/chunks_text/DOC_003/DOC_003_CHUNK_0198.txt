@@ -1,0 +1,232 @@
+
+
+===== PDF PAGE 395 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-36 
+WHO STEPS Surveillance 
+ 
+ 
+Frequency 
+of alcohol 
+consumption 
+Description: Frequency of alcohol consumption in the past 12 months among 
+those respondents who drank in the last 12 months. 
+ 
+Instrument question: 
+• During the past 12 months, how frequently have you had at least one alcoholic 
+drink? 
+ 
+Frequency of alcohol consumption in the past 12 months 
+Age 
+Group 
+(years) 
+Men 
+n 
+% 
+Daily 
+95% 
+CI 
+% 5-6 
+days/ 
+week 
+95% 
+CI 
+% 3-4 
+days/ 
+week 
+95% 
+CI 
+% 1-2 
+days/ 
+week 
+95% 
+CI 
+% 1-3 
+days/ 
+month 
+95% 
+% 
+CI 
+< once 
+a month 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of alcohol consumption in the past 12 months 
+Age 
+Group 
+(years) 
+Women 
+n 
+% 
+Daily 
+95% 
+CI 
+% 5-6 
+days/ 
+week 
+95% 
+CI 
+% 3-4 
+days/ 
+week 
+95% 
+CI 
+% 1-2 
+days/ 
+week 
+95% 
+CI 
+% 1-3 
+days/ 
+month 
+95% 
+% 
+CI 
+< once 
+a month 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Frequency of alcohol consumption in the past 12 months 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% 
+Daily 
+95% 
+CI 
+% 5-6 
+days/ 
+week 
+95% 
+CI 
+% 3-4 
+days/ 
+week 
+95% 
+CI 
+% 1-2 
+days/ 
+week 
+95% 
+CI 
+% 1-3 
+days/ 
+month 
+95% 
+% 
+CI 
+< once 
+a month 
+95% 
+CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A4 
+• Epi Info program name: Afrequency (unweighted); AfrequencyWT (weighted) 
+ 
+
+
+===== PDF PAGE 396 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-37 
+WHO STEPS Surveillance 
+ 
+ 
+Drinking 
+occasions 
+in the 
+past 30 
+days 
+Description: Mean number of occasions with at least one drink in the past 30 days 
+among current (past 30 days) drinkers. 
+ 
+Instrument question: 
+• During the past 30 days, on how many occasions did you have at least one 
+alcoholic drink? 
+ 
+Mean number of drinking occasions in the past 30 days among current (past 30 days) drinkers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A6 
+• Epi Info program name: Aoccasions (unweighted); AoccasionsWT (weighted) 
+ 
+ 
+ 
+Standard 
+drinks 
+per 
+drinking 
+occasion 
+Description: Mean number of standard drinks consumed on a drinking occasion 
+among current (past 30 days) drinkers. 
+ 
+Instrument question: 
+• During the past 30 days, when you drank alcohol, on average, how many standard 
+alcoholic drinks did you have during one occasion? 
+ 
+Mean number of standard drinks per drinking occasion among current (past 30 days) drinkers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A7 
+• Epi Info program name: Anumdrinkperday (unweighted); AnumdrinkperdayWT (weighted) 

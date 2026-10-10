@@ -1,0 +1,18 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_07_LLM_A_DOCUMENT_FILTERING",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "model": "GPT-5.6 Sol (ChatGPT)",
+  "execution_mode": "assistant_llma_semantic_review",
+  "input_pairs": 5424,
+  "processed_pairs": 5424,
+  "valid_outputs": 5424,
+  "relevant_pairs": 162,
+  "not_relevant_pairs": 5262,
+  "feature_semantics_cleaned": true,
+  "semantic_preselection_in_final_table": false,
+  "error_extraction_performed": false,
+  "detection_extraction_performed": false,
+  "correction_extraction_performed": false,
+  "note": "Stage-7 relevance table for downstream use. Feature semantics were cleaned so each feature contains only its own dictionary definition. Documentary evidence is retained only for RELEVANT pairs. No ERROR/DETECTION/CORRECTION extraction is performed here."
+}

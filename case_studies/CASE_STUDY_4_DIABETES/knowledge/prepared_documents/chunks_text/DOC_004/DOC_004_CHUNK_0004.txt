@@ -1,0 +1,106 @@
+
+
+===== PDF PAGE 7 =====
+
+Discussion
+The MENDS data validation process identified multiple data quality issues, including 1) source data issues that could not be
+resolved, 2) minor issues requiring explanation, and 3) source data issues that were correctable, either during the ETL
+process to populate the MENDS database or by the MENDS algorithms that identify cases for surveillance. These issues are
+likely widespread across EHR data repositories and contain generalizable lessons for ensuring the rigor and validity of
+chronic disease surveillance using EHR data.
+MENDS validation is time and resource intensive. Data contributors receive modest funding to participate in MENDS, but the
+funds are intended to cover multiple aspects of network participation, such as legal agreements, data sharing, technical
+environment maintenance, and governance involvement, in addition to validation activities (2,9). Validation findings and
+resolution work also vary by partner sites, complicating project management. We were sensitive to the burden of validation
+and, when possible, we modified validation processes to address data contributors’ concerns about workload. For example,
+we decreased the number of stage 3 reviews asked of the sites by about half. Despite this scaling back, the validation
+efforts still improved data quality, as seen in the reduced error rate (14% to 2%) during stage 3, algorithm validation.
+Using a staged approach allowed MENDS and data contributors to track incremental progress. Validation of Stage 0
+through 2 identified high-level data quality issues, such as missing data on prescriptions and demographic characteristics,
+that would affect surveillance estimates for many conditions. Stage 3 reviews of individual cases identified nuanced and
+often condition-specific data quality problems missed by overall data assessment. In general, issues identified in earlier
+stages were easier to fix than issues found in later stages. Most issues could be resolved, improving both MENDS
+surveillance information and potential secondary uses of the source data. Two studies reported similar EHR data quality
+issues, suggesting that processing costs for EHR data may be higher than anticipated, owing to the need to find and fix
+discrepancies and inconsistencies (14,15).
+Missing data was the most common issue. Most instances could be corrected in the source data or during the ETL process.
+We implemented stage 0 validation before bringing the last data contributor on board. This stage entailed addressing
+source data issues before ETL. This contributor had the fewest missing data issues in later validation stages (16).
+Stage 1 and 2 validation methods successfully identified obvious missing data issues, but more subtle missing data issues
+were not always apparent. Determining the presence, cause, and extent of missing information was challenging due to lack
+of reliable benchmarks. Similarly, in stage 2, the frequency of biologically implausible values was challenging to interpret,
+because we lacked values for the expected proportion of biologically implausible blood pressures and other measurements
+in the source data. In Stage 3, we identified more nuanced quality issues specific to each condition. The MENDS validation
+efforts highlight the importance of an incremental validation approach: start with high-level trends and patterns and narrow
+to more specific data quality issues.
+We found that most data contributors were not routinely performing data quality monitoring for issues that might affect
+chronic disease surveillance. Data contributors rarely examine their data in the ways required by MENDS validation (eg,
+total count of encounters, a critical variable for estimating disease prevalence), underscoring the need for independent
+validation processes before using raw EHR data for public health surveillance.
+Some missing data problems could not be resolved because health systems were not consistently collecting the
+information. For example, missing data on race and ethnicity in clinical data are common (17). Standards on how best to
+collect and document race and ethnicity data within EHR systems have only recently been established, and many health
+systems have yet to adopt them (18,19). However, efforts to improve the quality of race and ethnicity data across health
+systems have resulted in steady improvements. Continuing to support health systems in making these improvements helps
+ensure accurate information for public health programs and interventions that address health equity. Awareness that the
+quality of race and ethnicity data can vary widely across systems (20) can also help researchers interpret MENDS
+surveillance estimates and facilitate use of these data — along with traditional sources of chronic disease surveillance data
+(21,22).
+Information on smoking status is another area that warrants improvement, both in what is collected and where it is
+recorded in the EHR. The Centers for Medicare & Medicaid Services’ EHR Incentive Program—also known as Meaningful
+Use program — required the structured capture of data on smoking status, which has since been standardized through the
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+7/12
+
+
+===== PDF PAGE 8 =====
+
+Top
+United States Core Data for Interoperability (USCDI) via SNOMED codes (23,24). Despite this standardization, the process
+of capturing data on smoking status retains some inconsistencies, possibly stemming from the different variables used to
+record smoking status, which can be subject to interpretation and not mutually exclusive, impeding accurate classification of
+patients’ smoking status.
+How health systems share data with contributors can also affect missingness. Some data contributors receive a large export
+of data for all patients or all care, while others employ an event notification framework through which only some conditions
+or types of events are shared. Under the event notification framework, the data contributor sends information from certain
+patients or from selected encounters. Although patient demographic traits may be available in the EHR, they may not be
+present in the encounter data sent to the MENDS data contributor (25). A high rate of missing 5-digit zip codes for some
+contributors was an unexpected data quality issue, because health systems generally collect and update patients’
+addresses consistently to facilitate billing. In many EHR systems, a 5-digit zip code is a required field and is auto-populated
+based on the address. Erroneous zip codes are far more common in EHRs than missing zip codes; large numbers of missing
+zip codes may indicate a data transmission or mapping issue rather than incompleteness of source data.
+Recommendations
+Based on our experience, we plan the following improvements to the validation framework:
+1. Expand stage 0 to examine source data more thoroughly before developing the ETL process — to reduce time
+investigating and resolving errors in later stages.
+2. Add a process in stage 1 validation to document how data refreshes occur and their effects on patient IDs to reduce
+time following up on missing IDs.
+3. Expand stage 1 to include details about additional data attributes and routine benchmarking of the expected
+distribution, range, interquartile range, median, and percentage of missing values pulled either from the literature
+(when available) or from distributions across MENDS data contributors.
+4. Rerun the stage 1 report annually to identify and resolve new data quality issues — introduced by data system
+updates at the health system or data contributor levels — that affect MENDS data quality.
+5. Incorporate care settings and encounter type stratifications throughout validation to better focus issue discovery and
+resolution efforts.
+6. Include state and local public health partners that will use the data in the validation process, when possible, to deepen
+their understanding of how clinical data are transformed into surveillance information and to build confidence in using
+EHR-based surveillance information. State and local public health partners could potentially apply the lessons
+garnered from this process to their engagement efforts with health systems and clinics to enhance the quality of their
+data, focusing on EHR documentation needs.
+Conclusion
+MENDS validation activities were resource intensive but identified multiple data quality issues that could affect the accuracy
+and representativeness of calculated indicators; most data quality issues could be resolved. Our experience highlights the
+value and importance of data validation to improve data quality and the accuracy of surveillance estimates using EHR data.
+The validation process and lessons learned can be applied broadly to other EHR-based surveillance efforts.
+Acknowledgments
+The authors acknowledge the contribution of MENDS partner sites and the project team that participated in the creation of
+this information (chronicdisease.org/mendsinfo). Specifically, the authors acknowledge the contribution of the MENDS
+organizations that participated in validation: AllianceChicago, REACHnet, OneHealthPort and Washington State
+Department of Health, Regenstrief Institute and Trustees of Indiana University, and Health Data Compass. The authors also
+thank the following people for their contributions to this work: Robert Merritt, MA, and Elin Begley, MPH, from the Division
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+8/12

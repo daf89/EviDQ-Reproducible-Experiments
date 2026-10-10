@@ -1,0 +1,30 @@
+17 
+expenditures because those data are generally regarded as more accurate than information 
+collected in the HC. 
+For prescribed medicines, the general approach to matching data was to merge drug information 
+collected from MPC pharmacy providers to HC drug data. To improve the quality of matches, all 
+HC drugs were assigned codes (Generic Product Identifier or GPI) from a proprietary database 
+(the Master Drug Data Base or MDDB) based on the medication names provided by the 
+household. These codes were also assigned to the prescriptions in the MPC by using the NDC 
+(when available) or medication names reported by the pharmacy providers. Software was 
+developed that merged MPC drug data to the HC drug data by matching drug events from each 
+file on a variety of characteristics (e.g., person id, GPI, potential payment sources, age, sex, 
+health status, geographic location, and medication names). Selected editing was done prior to the 
+matching to correct data inconsistencies in both data sets and to fill in missing data and correct 
+outliers on the MPC file. For HC events that did not have corresponding data in the MPC, the 
+MPC data were used as the imputation source. 
+Summary 
+The MEPS MPC is a voluntary survey designed to supplement and validate health care 
+expenditure and source of payment data collected in the MEPS HC. The MEPS MOS is also a 
+voluntary survey designed to expand current MPC data collection activities to include 
+information on the organization of the practices of office-based care providers identified as a 
+USC in the MEPS HC and having been seen by the HC respondent in 2016. This report, an 
+update and enhancement to MEPS Methodology Report #23: Design, Methods, and Field Results 
+of the Medical Expenditure Panel Survey Medical Provider Component—2006 Calendar Year 
+Data, focuses on the MPC data collection effort that collected information from medical 
+providers on health care events that took place between January 1, 2016, and December 31, 2016. 
+The report describes the MPC sample design, survey methodology, procedures for data 
+collection, sample sizes, and response rates as well as the relationship between the HC survey and 
+the MPC survey. Additionally, it includes information on the MOS survey which was new in the 
+2015 MPC data year collection and was fielded again in the 2016 MPC. Both the 2015 and 2016 
+MOS were funded in part by the Robert Wood Johnson Foundation.

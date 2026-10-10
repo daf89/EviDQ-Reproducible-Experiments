@@ -1,0 +1,108 @@
+
+
+===== PDF PAGE 231 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-9 
+WHO STEPS Surveillance 
+Completing the Data Book 
+ 
+ 
+ 
+Introduction 
+The Data Book is a full tabulation, by age range and sex, of the data from all  
+the questions and measurements in the STEPS Instrument. It is intended to 
+serve as the basis for the country report, to guide the writers on what results to 
+include and highlight in the report. While selected tables may be included in  
+the body of the country report, it can be included in its entirety as an appendix 
+to the report. 
+ 
+The template of the STEPS Data Book is located in Part 6, Section 3 of the 
+Manual. Additional data book pages for the optional modules are available 
+from the WHO STEPS team or can be downloaded from the STEPS website. 
+ 
+ 
+Data Book 
+layout 
+After the title page and table of contents, the remaining pages of data book 
+contain for each table of results a title, description of the table (including the 
+full question text from the questionnaire) and analysis information for the  
+data analyst. Results are presented in the same order as the questions in the 
+questionnaire. 
+ 
+The analysis information contains the standard question codes for the 
+questions required for the given analysis as well as the name of the analysis 
+program that needs to be run to complete the table. The analysis information 
+can be deleted once the data book has been completed. 
+ 
+Each of the data tables contains results for each age group for both sexes and 
+for each sex separately. For each age-sex group in the table, the point  
+estimate is given (prevalence or mean) along with 95% confidence interval 
+(except for the demographic information) and the “n” (the total number of 
+individuals included in the analysis for that age-sex group, for example, the 
+total number of men aged 18-29 included in the analysis). 
+ 
+ 
+ 
+Procedure 
+To complete the STEPS Data Book, it is recommended to first review 
+document to determine which Epi Info programs needs to be run. If the 
+relevant questions have been dropped from the local STEPS Instrument, the 
+related table(s) can be removed. Additionally, if after running an analysis 
+program the “n” is very small (i.e. less than 50 respondents), you can either 
+delete the entire table or, if there are enough respondents, only show results 
+for the overall age group. 
+ 
+Once all Epi Info analysis programs have been identified, follow the 
+instructions provided in the Epi Info Overview earlier in this Section to run 
+each program. 
+ 
+Both the point estimates (prevalences or means) and the 95% confidence 
+intervals should be rounded to one decimal point. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 232 =====
+
+Completing the Data Book, Continued 
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 2: Data Analysis 
+Last Updated: 26 January 2017 
+4-2-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Formatting 
+macros 
+There are formatting macros available from the WHO Geneva STEPS team to 
+assist you in putting together your Data Book.  These macros are located in  
+two separate Excel files, one containing macros to format unweighted tables, 
+the other containing macros to format weighted tables. Be sure only one of 
+these is open on your computer at a time, else the macros may not work 
+correctly. 
+ 
+To format a table from the Epi Info output, follow the instructions in the table 
+below: 
+ 
+Step 
+Action 
+1 
+Copy the entire table from Epi Info and paste it into cell A1 in the 
+PASTE sheet of the Excel macro file. 
+2 
+Run the macro that corresponds to your particular table.   Refer to  
+the Instructions sheet in the Excel file to see which macro should be 
+run. Which macro to run depends on the type and size of the output 
+table. For example, to format a means output table, press ctrl + m 
+while on the PASTE sheet to run the macro. 
+3 
+The macro should take a few seconds to run at most. Once it is 
+completed, you will have a formatted table you can now copy and 
+paste directly into the corresponding table in the Data Book. Be 
+sure to highlight all the relevant squares in the Data Book table 
+before pasting. 
+ 

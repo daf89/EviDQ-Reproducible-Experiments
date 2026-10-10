@@ -1,0 +1,156 @@
+
+
+===== PDF PAGE 93 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-8 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+ 
+Sample Size 
+Calculation 
+Example 3 
+(2 age groups) 
+In this example, the recommended values for all parameters of the sample 
+size equation will be used and the initial calculation proceeds just as in the 
+previous example: 
+0.5 (1-0.5) 
+n = 1.962 * 
+0.052 
+= 384 
+However, in this example the estimates will only be reported for 2 age groups 
+for each sex as the sample size required for 4 age groups per sex is too large  
+for the resources available. Thus, the initial n is then multiplied by the design 
+effect of 1.5 and 4 age-sex estimates desired for the survey results: 
+n = 384 * 1.5 * 4 = 2,304 
+Finally, n is divided by 0.80 to adjust for the anticipated 20% non-response 
+rate: 
+n = 2,304 ÷ 0.80 = 2,880 
+2,880 is the final sample size. 
+ 
+ 
+Sampling very 
+small 
+populations 
+When the target population is very small (appx. <50,000 people) the sample 
+size can be reduced using a Finite Population Correction (FPC). The steps 
+below describe how to check if the FPC is appropriate for a country and how 
+to apply it to reduce the sample size. 
+Step 
+Description 
+1 
+Complete only steps 1 and 2 in the preceding table to obtain the n 
+for each estimate. 
+2 
+Calculate the target population size for each estimate using 
+available census data or a similar reliable data source. 
+Example: If 8 age-sex groups will be the estimates, the number of 
+individuals in each age-sex group (e.g. number of males aged 18- 
+29) must be calculated. 
+3 
+The FPC should only be applied when the sample to be drawn 
+represents more than 10% of the target population. Thus for each 
+estimate the n calculated in Step 1 must be divided by the target 
+population size for that estimate to check to see if the FPC can be 
+applied. 
+Example: n has been calculated as 384. Eight age-sex estimates are 
+desired. The table below shows the target population size for the 
+first four estimates. 
+ 
+Continued on next page 
+Desired Estimates 
+Target Population Size 
+Males, 18-29 
+2548 
+Females, 18-29 
+2641 
+Males, 30-44 
+3465 
+Females, 30-44 
+3356 
+
+
+===== PDF PAGE 94 =====
+
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-9 
+WHO STEPS Surveillance 
+Determining the Sample Size, Continued 
+ 
+ 
+ 
+3 
+Divide n by the target population for each estimate: 
+(cont.) 384/2548 = 0.15 
+384/2641 = 0.15 
+384/3465 = 0.11 
+384/3356 = 0.11 
+4 
+If most or all of the quotients from step 3 are 0.10 or higher, then 
+the FPC can be applied (continue to next step). Otherwise, return to 
+step 3 in the preceding table and continue to calculate the total 
+sample size using the n already calculated. 
+5 
+Apply the FPC to the n for each estimate using the following 
+equation: 
+new n = 
+where "population" refers to the target population for a given 
+estimate, not the entire target population. 
+6 
+Sum all the "new n's" together and multiply the sum by the design 
+effect. 
+7 
+Divide the result from step 6 by the anticipated response rate to 
+attain the final sample size. 
+ 
+ 
+Further 
+modifications to 
+sample size 
+There are a variety of situations which may require an adjustment to the  
+sample size resulting from the calculations above. The table below describes 
+some of these situations with directions on how to adjust the sample size. For 
+any other situation not listed here, or if any other additional assistance is 
+required, please contact the STEPS team. 
+If … 
+Then … 
+Data for specific 
+subgroups are required 
+(e.g. ethnic  groups, 
+urban vs. rural dwellers). 
+There are two ways to proceed depending on 
+the information desired: 
+Note: It is important to keep these subgroups in 
+mind when allocating the sample to ensure a 
+sufficient number of participants can be drawn 
+from each subgroup (see next topic). 
+ 
+Continued on next page 
+If … 
+Then … 
+Data will only be 
+reported for all 
+individuals in each 
+subgroup. 
+Set the number of estimates 
+to the larger of: 
+• the number of age-sex 
+estimates desired 
+• the number of new 
+subgroups. 
+Data will be reported 
+for each age-sex 
+group within each 
+subgroup. 
+Multiply the number of age- 
+sex groups by the total 
+number of new subgroups 
+(e.g. total number of ethnic 
+groups) to determine the total 
+number of estimates. 

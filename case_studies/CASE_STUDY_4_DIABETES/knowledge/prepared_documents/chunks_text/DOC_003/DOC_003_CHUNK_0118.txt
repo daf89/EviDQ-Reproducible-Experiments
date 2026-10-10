@@ -1,0 +1,132 @@
+
+
+===== PDF PAGE 235 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 3: Reporting and Disseminating Results 
+Last Updated: 26 January 2017 
+4-3-3 
+WHO STEPS Surveillance 
+Summarizing and Displaying Data 
+ 
+ 
+ 
+Introduction 
+STEPS data on NCD risk factors that have been collected from individuals 
+need to be summarized in a meaningful way in order to give relevant 
+information on levels of risk factors in a population. 
+ 
+Summary statistics that are used for summarizing STEPS data include: 
+• mean 
+• median 
+• prevalence. 
+ 
+When using the STEPS EpiInfo Programs, your output tables will display 
+these summary statistics. The three summary statistics are described in more 
+detail below. 
+ 
+ 
+Mean 
+The mean is a measure of central tendency and is computed by adding all the 
+individual values in the group and dividing by the number of values in the 
+group. It gives information on a population's average of a specified variable, 
+such as waist circumference or blood sugar level. 
+ 
+ 
+Median 
+The median is another measure of central tendency that is often used for non- 
+normally distributed variables. It is the simplest division of a set of sorted 
+measurements into two halves - the lower and the upper half. 
+The median is often reported along with the 25th and 75th percentiles, which 
+are the values that separate the lowest 25% and highest 75% of values, 
+respectively, in the set of measurements. 
+ 
+ 
+Prevalence 
+Prevalence is defined as the number of persons with a disease or an attribute   
+in a given population at a designated time, e.g. % daily smoker in a country in 
+2015. 
+ 
+ 
+Standard error 
+and Confidence 
+Interval (CI) 
+All results from your STEPS survey, as in all sample-based surveys, are 
+estimates of true values, since they derive from a sample and not from the 
+target population (for more on sampling, see Part 2, Section 2). In order to 
+give information on how uncertain estimated values are, confidence intervals 
+are computed around the estimate. 
+ 
+A standard error is usually calculated to show the amount of uncertainty, or 
+error, in an estimated value. It takes into consideration the sample size and 
+distribution (standard deviation) of your sample. The larger the standard error 
+the larger the uncertainty in your estimate and the larger your confidence 
+intervals. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 236 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 3: Reporting and Disseminating Results 
+Last Updated: 26 January 2017 
+4-3-4 
+WHO STEPS Surveillance 
+Summarizing and Displaying Data, Continued 
+ 
+ 
+ 
+Standard error 
+and Confidence 
+Interval (CI) 
+(cont.) 
+A confidence interval shows the range of estimates that would be obtained 
+were all possible samples used. A 95% CI suggests that if 100 samples were 
+drawn, the estimate obtained from each (a mean or prevalence value) would 
+fall within that interval 95 of 100 times. 
+ 
+It is strongly recommended to always include the confidence interval 
+alongside any estimates when presenting your data. 
+ 
+ 
+ 
+Standard cut- 
+offs for 
+prevalence 
+In order to determine the prevalence of those  persons  in a  specified 
+population that are at risk to develop an NCD, cut-off points have been set for 
+continuous variables to distinguish between "at risk" and "not at risk". 
+STEPS uses cut-offs that are evidence-based, widely used and therefore 
+recommended by the WHO. Refer to the STEPS Fact Sheet (Part 6, Section 
+3A) and STEPS Data Book (Part 6, Section 3C) to see the cut-offs used in the 
+standard STEPS analysis. 
+ 
+ 
+ 
+Guidelines for 
+making good 
+tables and 
+graphs 
+The general guidelines below may help when preparing tables and graphs. 
+ 
+• Each table or graph should contain enough information so that it can be 
+interpreted without reference to the text. 
+• Titles of tables and graphs should specifically describe the numbers 
+included. 
+• Decide on the point you wish to present, then choose the appropriate 
+method. 
+• Specify the units being used clearly. 
+• Include the total number of respondents included in the analysis (i.e. the 
+denominator or the “n”). 
+• Include confidence intervals, if available. 
+ 
+ 
+ 
+PowerPoint 
+Presentation 
+There is a useful PowerPoint presentation available  on the  STEPS  website 
+that provides further information on summarizing and displaying your data. It 
+also includes examples of poorly-designed and well-designed graphs. 
+ 
+ 

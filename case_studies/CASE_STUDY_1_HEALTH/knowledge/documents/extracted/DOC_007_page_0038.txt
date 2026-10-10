@@ -1,0 +1,61 @@
+Practice Point 1.2.2.5: Assess the potential for error in eGFR when assessing a change in GFR over time.
+Practice Point 1.2.2.6: Consider the use of cystatin C–based estimated glomerular ﬁltration rate (eGFRcys) in some speciﬁc
+circumstances.
+Practice Point 1.2.2.7: Understand the implications of differences between eGFRcr and eGFRcys, as these may be infor-
+mative, in both direction and magnitude of those differences.
+Practice Point 1.2.2.8: Consider timed urine collections for measured creatinine clearance if mGFR is not available and
+eGFRcr-cys is thought to be inaccurate.
+1.2.3 Guidance to clinical laboratories
+Practice Point 1.2.3.1: Implement the laboratory standards of care outlined in Table 11 to ensure accuracy and reliability
+when assessing GFR using creatinine and cystatin C.
+Practice Point 1.2.3.2: Given available resources, clinical laboratories may consider the possibility of measurement of both
+creatinine and cystatin either as an in-house test or as a referred test.
+Special considerations
+Pediatric considerations.
+Practice Point 1.2.3.3: Laboratories measuring creatinine in infants or small children must ensure their quality control
+process include the lowest end of the expected range of values for the group of interest.
+Practice Point 1.2.3.4: Consider the consistent use of enzymatic creatinine assays in children, given the higher relative
+contribution of non-creatinine chromogens to measured creatinine in children when using the
+Jaffe assay, and the high prevalence of icteric and hemolyzed samples in the neonatal period.
+Practice Point 1.2.3.5: An eGFRcr level <90 ml/min per 1.73 m2 can be ﬂagged as “low” in children and adolescents over the
+age of 2 years.
+Table 9| Comparison of estimated GFR and measured GFR
+Estimated GFR by SCr and/or cystatin C
+Measured GFR
+Inexpensive and easy to implement
+More expensive, more time-consuming, and invasive
+Widely available and may also be used
+at point of care, easily repeatable
+Only available in certain centers
+Methods to measure that do not require urine collections are available (i.e., plasma clearance)
+Most protocols require repeat blood samples potentially over a long duration
+Microsampling tests by ﬁngerpick enable point-of-care testing. Testing has been described,
+but not routinely performed
+Not sufﬁciently accurate and precise
+for all clinical situations
+Accurate for GFR in all situations and across the GFR range. Requires individualized protocols
+Lags behind changes in GFR
+Able to identify early changes in GFR
+Subject to non-GFR determinant confounding
+Less inﬂuenced by non-GFR determinants
+GFR, glomerular ﬁltration rate; SCr, serum creatinine.
+Table 11| Implementation standards to ensure accuracy and reliability of GFR assessments using creatinine and cystatin C
+ Report eGFR in addition to the serum concentrations of ﬁltration markers using validated equations.
+ Report eGFR rounded to the nearest whole number and relative to a body surface area (BSA) of 1.73 m2 in adults using the units ml/min per 1.73 m2.
+ Reported eGFR levels <60 ml/min per 1.73 m2 should be ﬂagged as being low.
+ When reporting levels of ﬁltration markers, report:
+(i) SCr concentration rounded to the nearest whole number when expressed as standard international units (mmol/l) and rounded to the nearest
+100th of a whole number when expressed as conventional units (mg/dl);
+(ii) serum cystatin C concentration rounded to the nearest 100th of a whole number when expressed as conventional units (mg/l).
+ Measure ﬁltration markers using a speciﬁc, precise (coefﬁcient of variation [CV] <2.3% for creatinine and <2.0% for cystatin C) assay with calibration
+traceable to the international standard reference materials and desirable bias (<3.7% for creatinine and <3.2% for cystatin C) compared with reference
+methodology (or appropriate international standard reference method group target in external quality assessment [EQA] for cystatin C).
+ Use an enzymatic method to assay creatinine, where possible.
+ Separate serum/plasma from red blood cells by centrifugation within 12 hours of venipuncture.
+ When cystatin C is measured, measure creatinine on the same sample to enable calculation of eGFRcr-cys.
+eGFR, estimated glomerular ﬁltration rate; eGFRcr-cys, estimated glomerular ﬁltration rate based on creatinine and cystatin C; GFR, glomerular ﬁltration rate; SCr, serum
+creatinine.
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S153

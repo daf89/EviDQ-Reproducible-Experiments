@@ -1,0 +1,217 @@
+a uniform approach to diagnosing GDM 
+will benefit people with GDM, caregivers, 
+and policymakers. Longer-term outcome 
+studies are currently underway.
+References
+1. Sacks DB, Arnold M, Bakris GL, et al. 
+Guidelines and recommendations for laboratory 
+analysis in the diagnosis and management of 
+diabetes mellitus. Diabetes Care 2023;46:e151–e199
+2. American Diabetes Association. Diagnosis and 
+classification of diabetes mellitus. Diabetes Care 
+2014;37(Suppl. 1):S81–S90
+3. International Expert Committee. International 
+Expert Committee report on the role of the A1C 
+assay in the diagnosis of diabetes. Diabetes Care 
+2009;32:1327–1334
+4. Meijnikman AS, De Block CEM, Dirinck E, et al. 
+Not performing an OGTT results in significant 
+underdiagnosis of (pre)diabetes in a high risk 
+adult Caucasian population. Int J Obes (Lond) 
+2017;41:1615–1620
+5. Knowler WC, Barrett-Connor E, Fowler SE, et 
+al. Reduction in the incidence of type 2 diabetes 
+with lifestyle intervention or metformin. N Engl J 
+Med 2002;346:393–403
+6. Tuomilehto J, Lindström J, Eriksson JG, et al.; 
+Finnish Diabetes Prevention Study Group. Prevention 
+of type 2 diabetes mellitus by changes in lifestyle 
+among subjects with impaired glucose tolerance. N 
+Engl J Med 2001;344:1343–1350
+7. Diabetes Prevention Program Research Group. 
+HbA1c as a predictor of diabetes and as an 
+outcome in the diabetes prevention program: a 
+randomized clinical trial. Diabetes Care 2015; 
+38:51–58
+8. Echouffo-Tcheugui JB, Selvin E. Prediabetes 
+and what it means: the epidemiological evidence. 
+Annu Rev Public Health 2021;42:59–77
+9. Chadha C, Pittas AG, Lary CW, et al.; D2d 
+Research Group. Reproducibility of a prediabetes 
+classification in a contemporary population. 
+Metabol Open 2020;6:100031
+10. Expert Committee on the Diagnosis and 
+Classification of Diabetes Mellitus. Report of the 
+Expert Committee on the Diagnosis and 
+Classification of Diabetes Mellitus. Diabetes 
+Care 1997;20:1183–1197
+11. Expert Committee on the Diagnosis and 
+Classification of Diabetes Mellitus. Report of 
+the Expert Committee on the Diagnosis and 
+Classification of Diabetes Mellitus. Diabetes 
+Care 2003;26(Suppl. 1):S5–S20
+12. Klein KR, Walker CP, McFerren AL, Huffman 
+H, Frohlich F, Buse JB. Carbohydrate intake prior 
+to oral glucose tolerance testing. J Endocr Soc 
+2021;5:bvab049
+13. Conn JW. Interpretation of the glucose tolerance 
+test. The necessity of a standard preparatory diet. Am 
+J Med Sci 1940;199:555–563
+14. Wilkerson HL, Butler FK, Francis JO. The 
+effect of prior carbohydrate intake on the oral 
+glucose tolerance test. Diabetes 1960;9:386–391
+15. Centers for Medicare & Medicaid Services. 
+CLIA Brochures. Accessed 12 August 2025. Available 
+from https://www.cms.gov/regulations-and-guidance/ 
+legislation/clia/downloads/clia_compbrochure_508 
+.pdf
+16. Nathan DM, Griffin A, Perez FM, Basque E, Do 
+L, Steiner B. Accuracy of a point-of-care hemoglobin 
+A1c assay. J Diabetes Sci Technol 2019;13:1149–1153
+17. Kim PS, Woods C, Georgoff P, et al. A1C 
+underestimates glycemia in HIV infection. Diabetes 
+Care 2009;32:1591–1593
+18. Wheeler E, Leong A, Liu C-T, et al.; Lifelines Cohort 
+Study. Impact of common genetic determinants of 
+hemoglobin A1c on type 2 diabetes risk and 
+diagnosis in ancestrally diverse populations: a 
+transethnic genome-wide meta-analysis. PLoS 
+Med 2017;14:e1002383
+19. Bergenstal RM, Gal RL, Connor CG, et al.; 
+T1D Exchange Racial Differences Study Group. 
+Racial differences in the relationship of glucose 
+concentrations and hemoglobin A1c levels. Ann 
+Intern Med 2017;167:95–102
+20. Herman WH, Ma Y, Uwaifo G, et al.; Diabetes 
+Prevention Program Research Group. Differences in 
+A1C by race and ethnicity among patients with 
+impaired glucose tolerance in the Diabetes 
+Prevention Program. Diabetes Care 2007;30: 
+2453–2457
+21. Saaddine JB, Fagot-Campagna A, Rolka D, et 
+al. Distribution of HbA1c levels for children and 
+young adults in the U.S. Diabetes Care 2002;25: 
+1326–1330
+22. Selvin E, Steffes MW, Ballantyne CM, Hoogeveen 
+RC, Coresh J, Brancati FL. Racial differences in 
+glycemic markers: a cross-sectional analysis of 
+community-based data. Ann Intern Med 2011; 
+154:303–309
+23. Wojcik GL, Graff M, Nishimura KK, et al. 
+Genetic analyses of diverse populations improves 
+discovery for complex traits. Nature 2019;570: 
+514–518
+24. Chung WK, Erion K, Florez JC, et al. Precision 
+medicine in diabetes: a consensus report from 
+the American Diabetes Association (ADA) and the 
+European Association for the Study of Diabetes 
+(EASD). Diabetes Care 2020;43:1617–1635
+25. Selvin E, Rawlings AM, Bergenstal RM, 
+Coresh J, Brancati FL. No racial differences in the 
+association of glycated hemoglobin with kidney 
+disease and cardiovascular outcomes. Diabetes 
+Care 2013;36:2995–3001
+26. Selvin E, Wang D, Matsushita K, Grams ME, 
+Coresh J. Prognostic implications of single-sample 
+confirmatory testing for undiagnosed diabetes: a 
+prospective cohort study. Ann Intern Med 2018; 
+169:156–164
+27. Umpierrez GE, Davis GM, ElSayed NA, et al. 
+Hyperglycemic crises in adults with diabetes: 
+a consensus report. Diabetes Care 2024;47: 
+1257–1275
+28. Alonso GT, Coakley A, Pyle L, Manseau K, 
+Thomas S, Rewers A. Diabetic ketoacidosis at 
+diagnosis of type 1 diabetes in Colorado children, 
+2010–2017. Diabetes Care 2020;43:117–121
+29. Jensen ET, Stafford JM, Saydah S, et al. 
+Increase in prevalence of diabetic ketoacidosis at 
+diagnosis among youth with type 1 diabetes: the 
+SEARCH for Diabetes in Youth Study. Diabetes 
+Care 2021;44:1573–1578
+30. Humphreys A, Bravis V, Kaur A, et al. 
+Individual and diabetes presentation characteristics 
+associated with partial remission status in children 
+and adults evaluated up to 12 months following 
+diagnosis of type 1 diabetes: an ADDRESS-2 (After 
+Diagnosis Diabetes Research Support System-2) 
+study analysis. Diabetes Res Clin Pract 2019;155: 
+107789
+31. Thomas NJ, Lynam AL, Hill AV, et al. Type 1 
+diabetes defined by severe insulin deficiency 
+occurs after 30 years of age and is commonly 
+treated as type 2 diabetes. Diabetologia 2019; 
+62:1167–1172
+32. Holt RIG, DeVries JH, Hess-Fischl A, et al. The 
+management of type 1 diabetes in adults. A 
+consensus report by the American Diabetes 
+Association (ADA) and the European Association 
+for the Study of Diabetes (EASD). Diabetes Care 
+2021;44:2589–2625
+33. Zhong VW, Juhaeri J, Mayer-Davis EJ. Trends 
+in hospital admission for diabetic ketoacidosis in 
+adults with type 1 and type 2 diabetes in England, 
+1998–2013: a retrospective cohort study. Diabetes 
+Care 2018;41:1870–1877
+34. Leslie RD, Evans-Molina C, Freund-Brown J, 
+et al. Adult-onset type 1 diabetes: current 
+understanding and challenges. Diabetes Care 
+2021;44:2449–2456
+35. Skyler JS, Bakris GL, Bonifacio E, et al. 
+Differentiation of diabetes by pathophysiology, 
+natural history, and prognosis. Diabetes 2017;66: 
+241–255
+36. Ziegler AG, Rewers M, Simell O, et al. 
+Seroconversion to multiple islet autoantibodies 
+and risk of progression to diabetes in children. 
+JAMA 2013;309:2473–2479
+37. Ziegler A-G, Bonifacio E; BABYDIAB-BABYDIET 
+Study Group. Age-related islet autoantibody 
+incidence in offspring of patients with type 1 
+diabetes. Diabetologia 2012;55:1937–1943
+38. Parikka V, Näntö-Salonen K, Saarinen M, et 
+al. Early seroconversion and rapidly increasing 
+autoantibody concentrations predict prepubertal 
+manifestation of type 1 diabetes in children at 
+genetic risk. Diabetologia 2012;55:1926–1936
+39. Krischer JP, Lynch KF, Schatz DA, et al.; 
+TEDDY Study Group. The 6 year incidence of 
+diabetes-associated autoantibodies in genetically 
+at-risk children: the TEDDY study. Diabetologia 
+2015;58:980–987
+40. Bogun MM, Bundy BN, Goland RS, Greenbaum 
+CJ. C-peptide levels in subjects followed 
+longitudinally before and after type 1 diabetes 
+diagnosis in TrialNet. Diabetes Care 2020;43: 
+1836–1842
+41. Insel RA, Dunne JL, Atkinson MA, et al. Staging 
+presymptomatic type 1 diabetes: a scientific 
+statement of JDRF, the Endocrine Society, and 
+the American Diabetes Association. Diabetes 
+Care 2015;38:1964–1974
+42. Zhu Y, Qian L, Liu Q, et al. Glutamic acid 
+decarboxylase autoantibody detection by 
+electrochemiluminescence assay identifies latent 
+autoimmune diabetes in adults with poor islet 
+function. Diabetes Metab J 2020;44:260–266
+43. Lynam A, McDonald T, Hill A, et al. Development 
+and validation of multivariable clinical diagnostic 
+models to identify type 1 diabetes requiring rapid 
+insulin therapy in adults aged 18–50 years. BMJ 
+Open 2019;9:e031586
+44. Jones AG, McDonald TJ, Shields BM, Hagopian 
+W, Hattersley AT. Latent autoimmune diabetes of 
+adults (LADA) is likely to represent a mixed population 
+of autoimmune (type 1) and nonautoimmune (type 2) 
+diabetes. Diabetes Care 2021;44:1243–1251
+45. Smith K, Deutsch AJ, McGrail C, et al. Multi- 
+ancestry polygenic mechanisms of type 2 diabetes. 
+Nat Med 2024;30:1065–1074
+46. Steck AK, Vehik K, Bonifacio E, et al.; TEDDY 
+Study Group. Predictors of progression from the 
+appearance of islet autoantibodies to early childhood 
+diabetes: The Environmental Determinants of 
+diabetesjournals.org/care 
+Diagnosis and Classification of Diabetes
+S45 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

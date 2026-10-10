@@ -1,0 +1,59 @@
+Processing: Extracting Data from an EHR 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+The methods used to pull data from an EHR will vary depending on several factors discussed below; 
+however, the following considerations apply to all methods. HealthIT Advisors must ensure that data 
+are not lost or altered during retrieval from reports and dashboards, electronic extraction from the EHR, 
+or abstraction from manual chart audits. 
+• 
+Are required data agreements in place before accessing the EHR data? 
+• 
+Who is responsible and accountable for extracting/abstracting data fromthe EHR? 
+• 
+Who will control and monitor the quality and integrity of the data retrieved from the EHR? 
+• 
+How will you ensure privacy, security, and integrity when processing and transporting the data? 
+• 
+If required, how will the retrieved data be de-identified, encrypted, or securely transmitted? 
+• 
+Is the extraction file format appropriate for the data to be extracted [comma separated value 
+(CSV), proprietary file]? 
+Use: Managing EHR Data after Extraction/Abstraction 
+The goal of extracting EHR data is to draw meaningful and accurate conclusions about patient 
+populations, clinical quality and performance, or outcomes of quality interventions. Here are some 
+considerations for managing extracted data: 
+• 
+Who will manage, update, maintain and protect data sets after extraction (paper or electronic)? 
+• 
+Are there constraints on how EHR data can be used or shared within and outside the team? 
+• 
+Are there any data elements that require special care under HIPAA and other regulations? 
+• 
+Has the quality of the extracteddata been assessedpriortousing it for the project? 
+Storage and Disposal: Protecting and Disposing of Extracted EHR Data 
+Most data acquired from a clinic’s EHR will contain PHI falling under HIPAA privacy and security rules 
+(see Section 2.5 below). Storage and final disposition of the data used for a quality project are 
+sometimes an afterthought, but these considerations are important to meeting requirements for privacy 
+and security. 
+• 
+Will PHI and other sensitive data be removed from the clinic (electronic, paper)? 
+• 
+Does the quality team have appropriate training in handling sensitive data? 
+• 
+Are all required agreements in place authorizing the storage and use of EHR data? 
+• 
+Are procedures in place to use transfer, store, and dispose of EHR data used by the team? 
+• 
+Is the technology used to store electronic EHR data approved and configured for PHI? 
+• 
+Are the data extracted from the EHR the “minimum necessary” for the project? 
+• 
+How long can data be stored and who manages and disposes of “old” data? 
+2.5 
+Privacy and Security Considerations for EHR Data 
+No discussion of data governance would be complete without addressing the unique regulatory 
+requirements involved in retrieving, handling, and storing clinical data defined as PHI under the Health 
+Insurance Portability and Accountability Act’s (HIPAA’s) privacy rule. 
+Health IT Advisor Handbook 
+Page 44

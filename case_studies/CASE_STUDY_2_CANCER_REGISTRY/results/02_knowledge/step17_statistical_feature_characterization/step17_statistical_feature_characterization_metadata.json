@@ -1,0 +1,76 @@
+{
+  "step": "STEP17_STATISTICAL_FEATURE_CHARACTERIZATION_PREPARATION",
+  "case_study": "CASE_STUDY_2_CANCER_REGISTRY",
+  "created_at_utc": "2026-09-22T23:30:53.292320+00:00",
+  "processor": "Python / Jupyter",
+  "purpose": "Prepare F_RAG features for statistical characterization independently of anomalies observed in Dataset_REF.",
+  "f_rag": [
+    "registry_stage_code",
+    "icdo3_m_code",
+    "age_diag",
+    "administr_unit",
+    "mkb10_code"
+  ],
+  "statistical_type_taxonomy": [
+    "NUMERIC_CONTINUOUS",
+    "NUMERIC_DISCRETE",
+    "CATEGORICAL_NOMINAL",
+    "CATEGORICAL_ORDINAL",
+    "BINARY",
+    "DATE_TIME",
+    "IDENTIFIER",
+    "UNKNOWN"
+  ],
+  "control_families": [
+    "MISSINGNESS",
+    "NON_FINITE_NUMERIC",
+    "STATISTICAL_OUTLIER",
+    "DISTRIBUTION_PROFILE",
+    "LOW_VARIANCE",
+    "CATEGORY_FREQUENCY",
+    "RARE_CATEGORY",
+    "CARDINALITY",
+    "BINARY_DOMAIN_STRUCTURE",
+    "TEMPORAL_FORMAT",
+    "TEMPORAL_DISTRIBUTION",
+    "IDENTIFIER_UNIQUENESS"
+  ],
+  "counts": {
+    "f_rag_features": 5,
+    "dataset_rows_inspected": 0,
+    "dataset_schema_columns": 28,
+    "documented_features": 3,
+    "not_documented_features": 2,
+    "control_families": 12
+  },
+  "controls": {
+    "dataset_schema_used": true,
+    "dataset_values_used": false,
+    "missingness_measured": false,
+    "outliers_detected": false,
+    "rarity_measured": false,
+    "distribution_profiled": false,
+    "anomalies_detected": false,
+    "kb_document_used": false,
+    "rule_base_document_used": false,
+    "hidden_reference_used": false,
+    "external_knowledge_used": false,
+    "internet_used": false,
+    "gpt_used": false,
+    "technical_feature_name_used_to_infer_semantics": false,
+    "pandas_dtype_used_to_assign_statistical_type": false,
+    "statistical_type_assigned_locally": false,
+    "correction_generated": false,
+    "dataset_modified": false
+  },
+  "outputs": {
+    "characterization_csv": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step17_statistical_feature_characterization\\statistical_characterization_input\\GPT56_Statistical_Feature_Characterization_Input.csv",
+    "characterization_jsonl": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step17_statistical_feature_characterization\\statistical_characterization_input\\GPT56_Statistical_Feature_Characterization_Input.jsonl",
+    "control_family_reference": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step17_statistical_feature_characterization\\tables\\Table_Statistical_Control_Family_Reference.csv",
+    "statistical_type_reference": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\results\\02_knowledge\\step17_statistical_feature_characterization\\tables\\Table_Statistical_Feature_Type_Reference.csv"
+  },
+  "sha256": {
+    "GPT56_Statistical_Feature_Characterization_Input.csv": "309fea8f37c1078b5b9c544ac18505abb1bf0a008936a7ad6703533b0e2db8ca",
+    "GPT56_Statistical_Feature_Characterization_Input.jsonl": "1373bf91b638b08f7879c17ed2c8d92c2c2f4e73d66415ff2f0908757cb30b54"
+  }
+}

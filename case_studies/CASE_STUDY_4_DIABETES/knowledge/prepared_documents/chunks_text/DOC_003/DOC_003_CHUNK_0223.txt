@@ -1,0 +1,171 @@
+
+
+===== PDF PAGE 445 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-86 
+WHO STEPS Surveillance 
+Physical Measurements 
+ 
+ 
+ 
+Blood pressure 
+Description: Mean blood pressure among all respondents, including those 
+currently on medication for raised blood pressure. 
+ 
+Instrument question: 
+• Reading 1-3 systolic and diastolic blood pressure 
+ 
+ 
+ 
+Mean systolic blood pressure (mmHg) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean diastolic blood pressure (mmHg) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M4a, M4b, M5a, M5b, M6a, M6b 
+• Epi Info program name: Mbloodpressure (unweighted); MbloodpressureWT (weighted) 
+ 
+
+
+===== PDF PAGE 446 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-87 
+WHO STEPS Surveillance 
+ 
+ 
+Raised blood 
+pressure 
+Description: Percentage of respondents with raised blood pressure. 
+ 
+Instrument question: 
+• Reading 1-3 systolic and diastolic blood pressure 
+• During the past two weeks, have you been treated for raised blood pressure 
+with drugs (medication) prescribed by a doctor or other health worker? 
+ 
+ 
+ 
+SBP ≥140 and/or DBP ≥ 90 mmHg 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+SBP ≥140 and/or DBP ≥ 90 mmHg 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+SBP ≥140 and/or DBP ≥ 90 mmHg, excluding those on medication for raised blood pressure 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+SBP ≥140 and/or DBP ≥ 90 mmHg or currently on medication for raised blood pressure 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 

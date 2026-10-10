@@ -1,0 +1,27 @@
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R
+Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 5 : I N C O R P O R A T I N G P A T I E N T G E N E R A T E D D A T A F O R 
+Q U A L I T Y I M P R O V E M E N T 
+Additionally, the use of PGHD can spur patient engagement, self-monitoring, and self-management. This 
+encourages some activities to shift from being provider-driven to patient-led.[55] 
+Health IT Advisors can teachpractices toincorporate PROs and PGHD with point-of-care information to 
+improve coordination of care and include the patient as an active care participant. Workflows to include 
+this external information in the medical record and in shared decision making will also be essential for 
+practices. 
+Exhibit 29: Overview of Patient-Generated Health Data[56] 
+Graphic included with permission. © 2020 American Cancer Society. 
+5.2 
+Patient-Reported Data Examples and Sources 
+A patient’s health history can be collected in an outpatient or inpatient setting. The purpose of obtaining 
+the health history is to gather subjective data from the patient or the patient's family. The health history 
+is essential so the healthcare team and the patient can collaboratively create a care plan that will 
+promote health, address acute health problems, and minimize the effects of chronic health conditions. 
+Health history data is traditionally gathered from patient encounters at the point of care. Health history 
+data collection requires additional resources and typically must be completed during the patient visit. 
+Patients may also be provided the option to enter these data through a patient portal. Enabling patients 
+to enter this historical information through a portal has many benefits as noted above. 
+Health IT Advisors can help practices develop workflows that reinforce patient data entry of health 
+history changes into the patient portal and incorporating new patient-generateddata into point of care 
+visits. Workflow changes include asking patients during triage if they have had any ancillary treatments, 
+Health IT Advisor Handbook 
+Page 62

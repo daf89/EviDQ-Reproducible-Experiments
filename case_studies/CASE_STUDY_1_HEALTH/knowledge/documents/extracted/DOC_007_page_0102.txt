@@ -1,0 +1,181 @@
+appears to be irrespective of the level of GFR, with no
+evidence of a threshold level of eGFR below which ben-
+eﬁts start to attenuate.
+For the 1A recommendation (3.7.1), also see the 2022
+update to the KDIGO Clinical Practice Guideline in Diabetes
+Management for details of the certainty of the evidence.23 Our
+ERT speciﬁcally also undertook a systematic review limited to
+people with CKD and no diabetes and considered the
+certainty of the effect in this subgroup to be moderate. The
+ERT identiﬁed the collaborative meta-analysis,511 which
+included data from 2 RCTs evaluating an SGLT2i among
+adults with CKD without diabetes.403,513 Both RCTs were
+considered to have a low risk of bias. The collaborative
+meta-analysis
+harmonized
+the
+deﬁnition
+of
+CKD
+progression among the trials. The certainty of the evidence
+for CKD progression was graded as high (no concerns
+regarding the risk of bias of the studies or the consistency,
+directness, and precision of the results). The certainty of the
+evidence for the kidney failure outcome in people with
+CKD without diabetes was downgraded to moderate due to
+imprecision (although clear beneﬁts are demonstrated in
+the CKD trials: Figure 24518). Neither RCT reported on the
+critical outcome of hospitalizations for any cause in the
+subgroup without diabetes.
+Values and preferences. The Work Group judged that fully
+informed people with CKD with an indication for an
+SGLT2i would choose to receive SGLT2i for their proven
+beneﬁts on risk of CKD progression, AKI, and a range of
+cardiovascular outcomes, their generally good safety proﬁle,
+and simplicity to implement (assuming local availability
+and insurance coverage if required). SGLT2i also confer
+health beneﬁts that may motivate people with CKD due to
+the reduced risk of hospitalization and serious hyper-
+kalemia and uric acid levels, all of which are common
+CKD complications.
+Resource use and costs. Because of the high cost of KRT,
+SGLT2i have been found to be cost-saving in the people with
+CKD and diabetes recruited in the completed trials.519
+Generic SGLT2i are already available in some countries.
+From a healthcare system perspective, reducing the cost
+burden of hospitalizations and dialysis is highly desirable,
+and QoL may be preserved longer from their avoidance.
+Speciﬁcs as to whether people bear the costs of these
+medications will be country-dependent.
+Considerations
+for
+implementation. The
+Work
+Group
+considered it safe to continue or even initiate an SGLT2i
+when the eGFR falls below 20 ml/min per 1.73 m2 and
+continue their use until the time KRT is initiated (as was
+the
+approach
+used
+in
+the
+large
+CKD
+population
+RCTs403,513,514). We also considered that initiating SGLT2i
+does not necessitate alteration of frequency of laboratory
+monitoring. It is not routinely necessary to recheck blood
+tests after initiating an SGLT2i in adults with CKD (see
+Practice Point 3.7.3).403
+Reduced
+glomerular
+hyperﬁltration
+resulting
+from
+SGLT2i can result in a dip in eGFR which is reversible.
+None of the large trials demonstrated an increased risk of
+AKI in people treated with SGLT2i (Figure 22), and the
+intervention does not induce hyperkalemia (an important
+difference
+compared
+with
+inhibitors
+of
+the
+renin-
+angiotensin-aldosterone pathway, which generally require
+additional monitoring after initiation [Figure 21]).
+Note that adults with polycystic kidney disease were
+excluded from the large CKD trials testing SGLT2i.
+Mean 
+baseline
+eGFR (ml/min/
+1.73 m2) 
+56 
+44 
+44 
+36 
+47 
+42 
+39 
+40 
+Diabetes 
+CREDENCE 
+SCORED 
+DAPA-CKD 
+EMPA-KIDNEY 
+Subtotal: DIABETES 
+No diabetes 
+DAPA-CKD 
+EMPA-KIDNEY 
+Subtotal: NO DIABETES 
+TOTAL: OVERALL 
+45 
+Relative risk 
+(95% CI) 
+SGLT2i 
+Placebo 
+Placebo 
+116/2202 
+NA/NA 
+77/1455 
+74/1525 
+267/5182 
+165/2199 
+NA/NA 
+109/1451 
+116/1515 
+390/5165 
+32/697 
+83/1779 
+115/2476 
+52/701 
+105/1790 
+157/2491 
+382/7658 
+547/7656 
+Events/participants 
+Rate per 1000
+patient-years 
+SGLT2i
+20 
+26 
+24 
+29 
+37 
+39 
+0.68 (0.54, 0.86) 
+0.69 (0.51, 0.92) 
+0.59 (0.44, 0.79) 
+0.66 (0.56, 0.77) 
+24 
+25 
+39 
+31 
+0.56 (0.36, 0.87) 
+0.80 (0.60, 1.07) 
+0.72 (0.56, 0.91) 
+0.67 (0.59, 0.77) 
+Heterogeneity by diabetes status: P=0.54 
+Trend across 
+trials sorted 
+by eGFR 
+P=0.48 
+P=0.19 
+0.75
+0.5
+1.00 1.25 1.50
+SGLT2i better
+Placebo better
+Figure 24 | Effects of sodium-glucose cotransporter-2 (SGLT2) inhibition versus placebo on kidney failure (chronic kidney disease
+[CKD] trials). Kidney failure deﬁned as a composite of sustained estimated glomerular ﬁltration rate (eGFR) <15 ml/min per 1.73 m2 (or
+eGFR <10 ml/min per 1.73 m2 in The Study of Heart and Kidney Protection With Empagliﬂozin [EMPA-KIDNEY]), maintenance dialysis, or kidney
+transplantation. Data for kidney failure not available for Effect of Sotagliﬂozin on Cardiovascular and Renal Events in Patients with Type 2
+Diabetes and Moderate Renal Impairment Who Are at Cardiovascular Risk (SCORED).518 CI, conﬁdence interval; CREDENCE, Canagliﬂozin and
+Renal Endpoints in Diabetes with Established Nephropathy Clinical Evaluation; DAPA-CKD, Dapagliﬂozin and Prevention of Adverse Outcomes
+in Chronic Kidney Disease; NA, not applicable.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S217

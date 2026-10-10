@@ -1,0 +1,133 @@
+
+
+===== PDF PAGE 191 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-9 
+WHO STEPS Surveillance 
+Measuring Weight 
+ 
+ 
+ 
+Introduction 
+The weight of eligible participants is taken to help determine their body mass 
+index (BMI), which is their weight relative to their height, and therefore to 
+determine the prevalence of overweight and obese people in the population. 
+ 
+ 
+Equipment 
+To measure weight, you will need a portable weighting scale, such as a SECA 
+scale or the Tanita HS301 Solar Scale. Alternatively, a BMI scale measuring 
+both height and weight (e. g. Growth Management Scale) can be used. 
+ 
+ 
+Set up 
+requirements 
+Make sure the scales are placed on a firm, flat surface. Do not place the 
+scales on: 
+ 
+• 
+carpet 
+• 
+a sloping surface 
+• 
+a rough, uneven surface. 
+ 
+ 
+ 
+Set up scales 
+Follow the steps below to put the scales into operation: 
+Step 
+Action 
+1 
+Put the scale on a firm, flat surface. 
+2 
+Connect the adaptor to the main power line or generator, if the 
+scale is not battery operated. 
+3 
+Turn on the scale and wait until the display shows 0.0. 
+ 
+ 
+Procedures 
+Follow the steps below to measure the weight of a participant: 
+Step 
+Action 
+1 
+Ask the participant to remove their footwear (shoes, slippers, 
+sandals, etc) and socks. They should also take off any heavy belts 
+and empty out their pockets of mobiles, wallets and coins. 
+2 
+Ask the participant to step onto scale with one foot on each side of 
+the scale. 
+3 
+Ask the participant to: 
+• stand still 
+• face forward 
+• place arms on the side and 
+• wait until asked to step off. 
+4 
+Record the weight in kilograms on the Android device, along with 
+the device ID and your Technician ID. 
+If the participant wants to know his/her weight in pounds, convert 
+by multiplying the measured weight by 2.2. 
+ 
+
+
+===== PDF PAGE 192 =====
+
+Measuring Waist Circumference 
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+Waist circumference measurements are also taken to provide additional 
+information on overweight and obesity. 
+ 
+ 
+Equipment 
+To take waist circumference measurements you will need a: 
+ 
+• 
+constant tension tape (for example, Figure Finder or Myo Tape Body 
+Tape Measure); 
+• 
+chair or coat stand for participants to place their clothes. 
+ 
+ 
+Privacy 
+A private area is necessary for this measurement. This could be a separate 
+room, or an area that has been screened off from other people within the 
+household. 
+ 
+ 
+Preparing the 
+participant 
+This measurement should be taken without clothing, that is, directly over the 
+skin. 
+ 
+If this is not possible, the measurement may be taken over light clothing. It 
+must not be taken over thick or bulky clothing. This type of clothing must be 
+removed. 
+ 
+ 
+ 
+How to take the 
+measurement 
+This measurement should be taken: 
+ 
+• 
+at the end of a normal expiration; 
+• 
+with the arms relaxed at the sides; 
+• 
+at the midpoint between the lower margin of the last palpable rib and the 
+top of the iliac crest (hip bone). 
+ 
+Continued on next page 

@@ -1,0 +1,51 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+Exhibit 45: Specification Excerpt for Controlling High Blood Pressure (CMS 165v9)[95] 
+CQM Component 
+Specification 
+Measure Description 
+Percentage of patients 18-85 years of age who had a diagnosis of 
+hypertension overlapping the measurement period or the year 
+prior to the measurement period, and whose most recent blood 
+pressure was adequately controlled (<140/90mmHG) during the 
+measurement period. 
+Initial Population 
+Patients 18-85 years of age who had a visit and diagnosis of 
+essential hypertension overlapping the measurement period or 
+the year prior to the measurement period. 
+Denominator Statement 
+Equals initial population 
+Denominator Exclusions 
+Patients with evidence of end state renal disease (ESRD), dialysis 
+or renal transplant before or during the measurement period. 
+Also exclude patients with a diagnosis of pregnancy during the 
+measurement period. 
+Exclude patients whose hospice care overlaps the measurement 
+period. 
+Exclude patients 66 and older who are living long term in an 
+institution for more than 90 consecutive days during the 
+measurement period. 
+Exclude patients 66 and older with advanced illness and frailty 
+because it is unlikely that patients will benefit from the services 
+being measured. 
+Numerator Statement 
+Patients whose most recent blood pressure is adequately 
+controlled (systolic blood pressure <140mmHg and diastolic 
+blood pressure <90mmHg) during the measurement period. 
+Numerator Exclusions 
+Not applicable 
+Denominator Exceptions 
+None 
+8.5 Example: Working Through a Clinical Quality Measure 
+There will be situations where an existing CQM cannot be found or does not meet the needs of a 
+particular project. This example illustrates a hypothetical CQM constructed from the bottom up. 
+Dr. Chavez wants to answer the question: “What percentage of my patients have high blood pressure?” 
+The following steps show how this clinical question could be converted to a very basic CQM. 
+Dr. Chavez: “How many of my patients have with a diagnosis of hypertension?” 
+The denominator for this example will be the totalnumber of individuals in the doctor’s panel. The 
+numerator would be the total number of patients from the denominator found to have a diagnosis of 
+hypertension. Note this assumes that Dr. Chavez was explicit about how “diagnosedwith hypertension” 
+will be determined for the new metric (“real” measure specifications include all of these details). 
+150 patients with hypertension / 3000 patients = 0.05 x 100 = 5.0% 
+Health IT Advisor Handbook 
+Page 95

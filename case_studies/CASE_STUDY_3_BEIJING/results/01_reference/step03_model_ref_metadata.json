@@ -1,0 +1,83 @@
+{
+    "experiment": "DEMARCHE_ENCAD3_CASE_STUDY_3",
+    "step": "03_MODEL_REF",
+    "creation_time": "2026-09-26T14:31:27.113974",
+    "input": {
+        "modeling_view_path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\01_reference\\step02_modeling_view_ref.csv",
+        "modeling_view_sha256": "a0f2090baf731f1064d4be63769c3e62bf875a517eb1389de9518e18893f20cb",
+        "sha256_verified": true
+    },
+    "prediction_task": {
+        "target": "PM2.5(t+1)",
+        "forecast_horizon_hours": 1,
+        "same_station_target": true
+    },
+    "features": [
+        "PM2.5",
+        "PM10",
+        "SO2",
+        "NO2",
+        "CO",
+        "O3",
+        "TEMP",
+        "PRES",
+        "DEWP",
+        "RAIN",
+        "WSPM",
+        "wd",
+        "station",
+        "hour",
+        "month"
+    ],
+    "categorical_features": [
+        "wd",
+        "station"
+    ],
+    "split_counts": {
+        "TRAIN": 205977,
+        "VALIDATION": 103287,
+        "TEST": 102753
+    },
+    "missing_strategy_ref": {
+        "numerical_imputation": false,
+        "numerical_nan_preserved": true,
+        "categorical_missing_representation": "__MISSING__",
+        "categorical_missing_is_imputation": false,
+        "numerical_missing_cells_before_model": {
+            "TRAIN": 30992,
+            "VALIDATION": 6236,
+            "TEST": 9158
+        }
+    },
+    "model": {
+        "algorithm": "CatBoostRegressor",
+        "loss_function": "RMSE",
+        "initial_iterations": 2000,
+        "learning_rate": 0.05,
+        "depth": 8,
+        "l2_leaf_reg": 3,
+        "random_seed": 42,
+        "early_stopping_rounds": 100,
+        "best_iteration": 281
+    },
+    "validation_metrics": {
+        "RMSE": 20.676058765093245,
+        "MAE": 9.854728321578902,
+        "R2": 0.9362422665022695
+    },
+    "test_metrics": {
+        "RMSE": 19.607244122176976,
+        "MAE": 10.163253466086674,
+        "R2": 0.943834253691098
+    },
+    "data_quality_preservation": {
+        "dataset_ref_modified": false,
+        "numerical_predictor_imputation": false,
+        "outliers_modified": false,
+        "measurements_corrected": false
+    },
+    "model_artifact": {
+        "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\models\\Model_REF.cbm",
+        "sha256": "0a7fea887b2742f0bd4830e9f0bbde801c9666bfc6f12b93d09fe0fc09992b99"
+    }
+}

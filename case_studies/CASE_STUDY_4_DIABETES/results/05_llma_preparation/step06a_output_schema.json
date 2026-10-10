@@ -1,0 +1,130 @@
+{
+  "type": "object",
+  "required": [
+    "chunk_id",
+    "status",
+    "knowledge_items"
+  ],
+  "properties": {
+    "chunk_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "RELEVANT_KNOWLEDGE",
+        "NO_RELEVANT_KNOWLEDGE"
+      ]
+    },
+    "knowledge_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "feature",
+          "documentary_term",
+          "dq_problem",
+          "rule_role",
+          "evidence",
+          "evidence_page",
+          "evidence_type",
+          "condition",
+          "action",
+          "action_conditions",
+          "context",
+          "limitations",
+          "llma_confidence"
+        ],
+        "properties": {
+          "feature": {
+            "type": "string",
+            "enum": [
+              "Insulin",
+              "Glucose",
+              "SkinThickness",
+              "BMI",
+              "DiabetesPedigreeFunction",
+              "Age"
+            ]
+          },
+          "documentary_term": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "dq_problem": {
+            "type": "string",
+            "enum": [
+              "MISSING_VALUE",
+              "POTENTIAL_OUTLIER"
+            ]
+          },
+          "rule_role": {
+            "type": "string",
+            "enum": [
+              "DETECTION",
+              "QUALIFICATION",
+              "ACTION"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "evidence_page": {
+            "type": "integer"
+          },
+          "evidence_type": {
+            "type": "string",
+            "enum": [
+              "TEXT",
+              "TABLE",
+              "IMAGE",
+              "MULTIMODAL"
+            ]
+          },
+          "condition": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "action": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "action_conditions": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "context": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "limitations": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "llma_confidence": {
+            "type": "string",
+            "enum": [
+              "HIGH",
+              "MEDIUM",
+              "LOW"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

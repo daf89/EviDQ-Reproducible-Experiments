@@ -1,0 +1,118 @@
+
+
+===== PDF PAGE 29 =====
+
+Part 1: Introduction and Roles 
+Section 1: Introduction 
+Last Updated: 26 January 2017 
+1-1-18 
+WHO STEPS Surveillance 
+WHO STEPS Overview, Continued 
+ 
+ 
+ST 
+S 
+s 
+ 
+eSTEPS 
+WHO STEPS includes specific software and supporting materials to 
+undertake data collection electronically (eSTEPS), such as with Android 
+devices. The benefits of electronic data collection include: 
+• immediate error checking during data collection (e.g. inadvertently 
+skipped questions or out of range responses); 
+• marked reduction of materials to be carried by data collectors; 
+• remote data submission; 
+• no additional data entry from paper based questionnaires is needed, 
+and therefore 
+o no additional cost for data entry; 
+o fewer errors arising from data entry; 
+o final dataset can be created quickly following completion of data 
+collection. 
+ 
+ 
+From surveys 
+to surveillance 
+While surveys can be a one off exercise, surveillance involves commitment to 
+data collection on an ongoing, repeated basis. Repeat surveys are essential to 
+identify trends in the prevalence of risk factors. 
+ 
+The following diagram illustrates the surveillance process. Ideally, countries 
+should repeat these surveys every approximately 5 years, depending on the 
+resources available. 
+ 
+ 
+Planning and coordination 
+Instrument development 
+Sampling 
+Survey administration 
+Electronic data collection 
+(eSTEPS) 
+Conduct 
+ 
+ 
+Results 
+ 
+Electronic data 
+download 
+Epi Info training 
+Cleaning, Analysis and 
+interpretation of data 
+Report writing 
+Implement 
+Intervention 
+ 
+Policies 
+Programmes 
+Other interventions 
+ 
+STEPS 
+ 
+
+
+===== PDF PAGE 30 =====
+
+Part 1: Introduction and Roles 
+Section 1: Introduction 
+Last Updated: 26 January 2017 
+1-1-19 
+WHO STEPS Surveillance 
+Planning and Implementation Overview 
+ 
+ 
+ 
+Introduction 
+For STEPS Surveillance to be effective, the whole process needs to be 
+properly planned and organized before being implemented. Guidelines are 
+provided below to help a country plan a STEPS survey. 
+ 
+ 
+Key stages, 
+tasks and 
+timeframes 
+The optimal, recommended total timeframe to conduct a STEPS survey of 
+NCD risk factors is approximately six to eight months. This timeframe is 
+based on seasonal considerations and a country's ability to 'dedicate' staff to 
+the STEPS project for longer periods. It is by no means a hard and fast rule, 
+but an indicative guideline. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Week 
+12 
+16 
+20 
+24 
+28 
+32 
+ 
+ 
+Recruitment of data collection staff and 
+Training (2 weeks) 
+ 
+ 
+ 
+ 

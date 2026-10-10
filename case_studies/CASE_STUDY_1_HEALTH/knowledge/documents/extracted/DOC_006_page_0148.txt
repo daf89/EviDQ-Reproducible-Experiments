@@ -1,0 +1,70 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+19. 
+Bender, B.G., et al., The Colorado Asthma Toolkit Program: A Practice Coaching Intervention 
+from the High Plains Research Network. The Journal of the American Board of Family Medicine, 
+2011. 24(3): p. 240. 
+20. 
+Nutting, P.A., et al., Transforming physician practices to patient-centered medical homes: lessons 
+from the national demonstration project. Health affairs (Project Hope), 2011. 30(3): p. 439-445. 
+21. 
+Nutting, P.A., et al., Effect of Facilitation on Practice Outcomes in the National Demonstration 
+Project Model of the Patient-Centered Medical Home. The Annals of Family Medicine, 2010. 
+8(Suppl 1): p. S33. 
+22. 
+Hogg, W., et al., Improvedpreventive care in family practiceswith outreachfacilitation: 
+Understanding success and failure. Journal of health services research & policy, 2002. 7: p. 195
+201. 
+23. 
+Agency for Healthcare Research and Quality. Introduction to the AHRQ Practice Facilitation 
+Training Modules. AHRQPractice Facilitation Training Modules 2021; Available from: 
+https://www.ahrq.gov/ncepcr/tools/transform-qi/deliver
+facilitation/modules/index.html#introduction. 
+24. 
+Fernald, D.H., R. Wearner, and W.P. Dickinson, The Journeyof Primary Care Practicesto 
+Meaningful Use: A Colorado Beacon Consortium Study. The Journal of the American Board of 
+Family Medicine, 2013. 26(5): p. 603. 
+25. 
+Quesada, S. What in the world is a CHITA? 2018; Available from: 
+https://www.corhio.org/blogs/expertise/2018/3/21/what-in-the-world-is-a-chita. 
+26. 
+Knierim, K.E., et al., Primary Care Practices' Ability to Report Electronic Clinical Quality Measures 
+in the EvidenceNOW Southwest Initiative to Improve Heart Health. JAMA Netw Open, 2019. 2(8): 
+p. e198569. 
+27. 
+Jha, A.K., Meaningful Use of Electronic Health Records: The Road Ahead. JAMA, 2010. 304(15): p. 
+1709-1710. 
+28. 
+U.S. Department of Health & Human Services. Covered Entitiesand Business Associates. 
+Available from: https://www.hhs.gov/hipaa/for-professionals/covered-entities/index.html. 
+29. 
+U.S. Department of Health & Human Services. Disclosures for Emergency Preparedness - A 
+Decision Tool: Data Use Agreement. Available from: https://www.hhs.gov/hipaa/for
+professionals/special-topics/emergency-preparedness/data-use-agreement/index.html. 
+30. 
+Office of the National Coordinator for Health Information Technology. 2015 Edition Health IT 
+Certification Criteria Final Rule. 2015; Available from: 
+https://www.healthit.gov/topic/certification-ehrs/2015-edition. 
+31. 
+Office of the National Coordinator for Health Information Technology. Certified Health IT 
+Product List | Charts. Available from: https://chpl.healthit.gov/#/charts. 
+32. 
+Office of the National Coordinator for Health Information Technology 'Certified Health IT 
+Developersand Editions Reportedby HealthCare Professionals Participating in the Medicare EHR 
+Incentive Program'. Health IT Quick-Stat #30, 2017. 
+33. 
+Office of the NationalCoordinator for HealthInformation Technology. Certified Health IT 
+Product List Search Tool (CHPL). Available from: https://chpl.healthit.gov/. 
+34. 
+Office of the National Coordinator for Health Information Technology. eCQI Resource Center. 
+Available from: https://ecqi.healthit.gov/. 
+35. 
+Office of the National Coordinator for Health Information Technology. United States Core Data 
+for Interoperability (USCDI) Available from: https://www.healthit.gov/isa/united-states-core
+data-interoperability-uscdi. 
+36. 
+Department of Veterans Affairs Office of Information & Technology Product Development, 
+VistAWeb Version 16.1.88.2 User Manual. 2016, Department of Veterans Affairs,. Available 
+from: https://www.va.gov/vdl/documents/Clinical/VistaWeb/vistawebusermanual.pdf. 
+Health IT Advisor Handbook 
+Page 143

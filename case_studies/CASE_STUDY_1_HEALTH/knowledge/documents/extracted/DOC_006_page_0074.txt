@@ -1,0 +1,49 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+Discussion 
+There are three key lessons that Health IT Advisors can draw from how MHS leveraged their EHR to 
+improve diabetes care. 
+First, their choice of process and outcome measures was based on a detailed assessment of what data 
+existed in the EHR, how it was stored, and the feasibility of retrieving it for reports and letters, CDS, and 
+tailored EHR “synopsis” displays (another form of CDS). 
+Second, we caninfer that the datalimitationsfoundearlyinthe projectinformedthe selectionoflater 
+interventions.Forexample,the interventiontointroduce new fieldstocapturediabeticeye andfoot exams 
+as structureddata is a logical prerequisite tomeasuringwhethertheseserviceswere delivered. 
+Third, MHS approached this as a total transformation of ambulatory diabetes care and not as a technical 
+project to turn on EHR features. Each intervention was tied to the larger objective: leverage the EHR to 
+improve processes and outcomes for patients with diabetes. To assess the impact of each intervention 
+separately, a different designfor measurement and evaluation would have been required. 
+Among other lessons, the authors described specific examples of how their Epic EHR was used to 
+support their quality goals in diabetes care. We suggest that readers dig deeper into the design, 
+implementation, results, use of data visualizations, and lessons learned summarized and discussed in by 
+the MHS team in several publications, including the following: 
+• 
+Electronic Health Records and Quality of Diabetes Care; Cebul, et al.; NEJM 365:9 (2011) 
+• 
+MHS Case Study for the HIMSS Davies Award 
+6.2 
+Use Cases for EHR-supported Quality Improvement 
+Eachof the use cases presentedconsiders how a clinic’s EHR can be used to provide data for QI and 
+serve as a platform for delivering quality interventions. 
+Hera are some common themes across all of the use cases presented: 
+• 
+EHRs may provide a wide range of demographic, clinical, administrative, and financial data 
+useful for QI. 
+• 
+EHRs may provide optionsforreporting atleastsome CQMs,generate graphs anddashboards,and 
+generatepatient listsfiltered by demographic and clinical parameters. 
+• 
+EHR data must be captured and stored as structured data for most of the uses described here. 
+Inconsistent workflows and poor data quality (see Section 2) will lead to erroneous conclusions 
+(Issues with poor data quality are often referred to as “garbage in, garbage out”). 
+• 
+EHR-delivered interventions depend on good data, consistent workflows, proper training, 
+evidence-based design, and organizational support for success. 
+• 
+EHRs are not the only health IT tool useful for QI and may not even be the best choice for a 
+given project (see Section 7 for alternative data sources). 
+• 
+Incorporating an EHR into practice transformation can be challenging. We discuss how some of 
+these challenges can be addressed at the end of the section. 
+Health IT Advisor Handbook 
+Page 69

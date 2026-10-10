@@ -1,0 +1,154 @@
+review and meta-analysis of randomised trials. BMJ 2020;368:m315. https://doi.org/10. 
+1136/bmj.m315 
+353. Graudal N, Hubeck-Graudal T, Jürgens G, Taylor RS. Dose-response relation between 
+dietary sodium and blood pressure: a meta-regression analysis of 133 randomized con-
+trolled trials. Am J Clin Nutr 2019;109:1273–8. https://doi.org/10.1093/ajcn/nqy384 
+354. Graudal NA, Hubeck-Graudal T, Jurgens G. Effects of low sodium diet versus high so-
+dium diet on blood pressure, renin, aldosterone, catecholamines, cholesterol, and tri-
+glyceride. Cochrane Database Syst Rev 2020;12:CD004022. https://doi.org/10.1002/ 
+14651858.CD004022.pub5 
+355. Filippini T, Malavolti M, Whelton PK, Naska A, Orsini N, Vinceti M. Blood pressure ef-
+fects of sodium reduction: dose–response meta-analysis of experimental studies. 
+Circulation 2021;143:1542–67. https://doi.org/10.1161/circulationaha.120.050371 
+356. Gupta DK, Lewis CE, Varady KA, Su YR, Madhur MS, Lackland DT, et al. Effect of diet-
+ary sodium on blood pressure: a crossover trial. JAMA 2023;330:2258 . https://doi.org/ 
+10.1001/jama.2023.23651 
+357. He J, Gu D, Chen J, Jaquish CE, Rao DC, Hixson JE, et al. Gender difference in blood 
+pressure responses to dietary sodium intervention in the GenSalt study. J Hypertens 
+2009;27:48–54. https://doi.org/10.1097/hjh.0b013e328316bb87 
+358. Sacks FM, Svetkey LP, Vollmer WM, Appel LJ, Bray GA, Harsha D, et al. Effects on blood 
+pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension 
+(DASH) diet. N Engl J Med 2001;344:3–10. https://doi.org/10.1056/nejm200101043440101 
+359. MacGregor GA, Markandu ND, Sagnella GA, Singer DR, Cappuccio FP. Double-blind 
+study of three sodium intakes and long-term effects of sodium restriction in essential 
+hypertension. Lancet 1989;2:1244–7. https://doi.org/10.1016/s0140-6736(89)91852-7 
+360. Whelton PK, Appel LJ, Espeland MA, Applegate WB, Ettinger WH Jr, Kostis JB, et al. 
+Sodium reduction and weight loss in the treatment of hypertension in older persons: a 
+randomized controlled trial of nonpharmacologic interventions in the elderly (TONE). 
+JAMA 1998;279:839–46. https://doi.org/10.1001/jama.279.11.839 
+361. He FJ, Li J, Macgregor GA. Effect of longer term modest salt reduction on blood pres-
+sure: Cochrane systematic review and meta-analysis of randomised trials. BMJ 2013; 
+346:f1325. https://doi.org/10.1136/bmj.f1325 
+362. Stolarz-Skrzypek K, Kuznetsova T, Thijs L, Tikhonoff V, Seidlerová J, Richart T, et al. 
+Fatal and nonfatal outcomes, incidence of hypertension, and blood pressure changes 
+in relation to urinary sodium excretion. JAMA 2011;305:1777–85. https://doi.org/10. 
+1001/jama.2011.574 
+363. Messerli FH, Hofstetter L, Syrogiannouli L, Rexhaj E, Siontis GCM, Seiler C, et al. 
+Sodium intake, life expectancy, and all-cause mortality. Eur Heart J 2021;42: 
+2103–12. https://doi.org/10.1093/eurheartj/ehaa947 
+364. Mente A, O’Donnell M, Rangarajan S, McQueen M, Dagenais G, Wielgosz A, et al. 
+Urinary sodium excretion, blood pressure, cardiovascular disease, and mortality: a 
+community-level prospective epidemiological cohort study. Lancet 2018;392: 
+496–506. https://doi.org/10.1016/s0140-6736(18)31376-x 
+365. Au Yeung SL, Schooling CM. Impact of urinary sodium on cardiovascular disease and 
+risk factors: a 2 sample Mendelian randomization study. Clin Nutr 2021;40:1990–6. 
+https://doi.org/10.1016/j.clnu.2020.09.018 
+366. Zanetti D, Bergman H, Burgess S, Assimes TL, Bhalla V, Ingelsson E. Urinary albumin, 
+sodium, and potassium and cardiovascular outcomes in the UK Biobank: observational 
+and Mendelian randomization analyses. Hypertension 2020;75:714–22. https://doi.org/ 
+10.1161/hypertensionaha.119.14028 
+367. Nolan P, McEvoy JW. Salt restriction for treatment of hypertension—current state 
+and future directions. Curr Opin Cardiol 2024;39:61–7. https://doi.org/10.1097/hco. 
+0000000000001098 
+368. Yuan Y, Jin A, Neal B, Feng X, Qiao Q, Wang H, et al. Salt substitution and salt-supply 
+restriction for lowering blood pressure in elderly care facilities: a cluster-randomized 
+trial. Nat Med 2023;29:973–81. https://doi.org/10.1038/s41591-023-02286-8 
+369. Lechner K, Schunkert H. Recommendations on sodium intake for cardiovascular 
+health: conviction or evidence? Eur Heart J 2020;41:3374–5. https://doi.org/10.1093/ 
+eurheartj/ehaa545 
+370. O’Donnell M, Mente A, Alderman MH, Brady AJB, Diaz R, Gupta R, et al. Salt and car-
+diovascular disease: insufficient evidence to recommend low sodium intake. Eur Heart J 
+2020;41:3363–73. https://doi.org/10.1093/eurheartj/ehaa586 
+371. Aburto NJ, Hanson S, Gutierrez H, Hooper L, Elliott P, Cappuccio FP. Effect of in-
+creased potassium intake on cardiovascular risk factors and disease: systematic review 
+and meta-analyses. BMJ 2013;346:f1378. https://doi.org/10.1136/bmj.f1378 
+372. O’Donnell M, Mente A, Rangarajan S, McQueen MJ, Wang X, Liu L, et al. Urinary so-
+dium and potassium excretion, mortality, and cardiovascular events. N Engl J Med 2014; 
+371:612–23. https://doi.org/10.1056/NEJMoa1311889 
+373. Wouda RD, Boekholdt SM, Khaw KT, Wareham NJ, de Borst MH, Hoorn EJ, et al. 
+Sex-specific associations between potassium intake, blood pressure, and cardiovascu-
+lar outcomes: the EPIC-Norfolk study. Eur Heart J 2022;43:2867–75. https://doi.org/ 
+10.1093/eurheartj/ehac313 
+374. Filippini T, Naska A, Kasdagli MI, Torres D, Lopes C, Carvalho C, et al. Potassium intake 
+and blood pressure: a dose-response meta-analysis of randomized controlled trials. 
+J Am Heart Assoc 2020;9:e015719. https://doi.org/10.1161/jaha.119.015719 
+375. O’Donnell M, Yusuf S, Vogt L, Mente A, Messerli FH. Potassium intake: the Cinderella 
+electrolyte. Eur Heart J 2023;44:4925–34. https://doi.org/10.1093/eurheartj/ehad628 
+376. Kidney Disease Outcomes Quality Initiative (K/DOQI). K/DOQI clinical practice 
+guidelines on hypertension and antihypertensive agents in chronic kidney disease. 
+Am J Kidney Dis 2004;43:S1–290. https://doi.org/10.1053/j.ajkd.2004.03.006 
+377. Ndanuko RN, Ibrahim R, Hapsari RA, Neale EP, Raubenheimer D, Charlton KE. 
+Association between the urinary sodium to potassium ratio and blood pressure in 
+adults: a systematic review and meta-analysis. Adv Nutr 2021;12:1751–67. https://doi. 
+org/10.1093/advances/nmab036 
+378. Messerli FH, O’Donnell M, Mente A, Yusuf S. Settling the controversy of salt substi-
+tutes and stroke: sodium reduction or potassium increase? Eur Heart J 2022;43: 
+3365–7. https://doi.org/10.1093/eurheartj/ehac160 
+379. Yin X, Paige E, Tian M, Li Q, Huang L, Yu J, et al. The proportion of dietary salt replaced 
+with potassium-enriched salt in the SSaSS: implications for scale-up. Hypertension 2023; 
+80:956–65. https://doi.org/10.1161/hypertensionaha.122.20115 
+380. Xu X, Zeng L, Jha V, Cobb LK, Shibuya K, Appel LJ, et al. Potassium-enriched salt sub-
+stitutes: a review of recommendations in clinical management guidelines. Hypertension 
+2024;81:400–14. https://doi.org/10.1161/hypertensionaha.123.21343 
+381. Hanssen H, Boardman H, Deiseroth A, Moholdt T, Simonenko M, Kränkel N, et al. 
+Personalized exercise prescription in the prevention and treatment of arterial hyper-
+tension: a consensus document from the European Association of Preventive 
+Cardiology (EAPC) and the ESC Council on Hypertension. Eur J Prev Cardiol 2022; 
+29:205–15. https://doi.org/10.1093/eurjpc/zwaa141 
+382. Van Hoof R, Hespel P, Fagard R, Lijnen P, Staessen J, Amery A. Effect of endurance 
+training on blood pressure at rest, during exercise and during 24 hours in sedentary 
+men. Am J Cardiol 1989;63:945–9. https://doi.org/10.1016/0002-9149(89)90145-8 
+383. MacDonald HV, Johnson BT, Huedo-Medina TB, Livingston J, Forsyth KC, Kraemer 
+WJ, et al. Dynamic resistance training as stand-alone antihypertensive lifestyle ther-
+apy: a meta-analysis. J Am Heart Assoc 2016;5:e003231. https://doi.org/10.1161/jaha. 
+116.003231 
+384. Hansford HJ, Parmenter BJ, McLeod KA, Wewege MA, Smart NA, Schutte AE, et al. 
+The effectiveness and safety of isometric resistance training for adults with high blood 
+pressure: a systematic review and meta-analysis. Hypertens Res 2021;44:1373–84. 
+https://doi.org/10.1038/s41440-021-00720-3 
+385. Van Hoof R, Macor F, Lijnen P, Staessen J, Thijs L, Vanhees L, et al. Effect of strength 
+training on blood pressure measured in various conditions in sedentary men. Int J 
+Sports Med 1996;17:415–22. https://doi.org/10.1055/s-2007-972871 
+386. Leal JM, Galliano LM, Del Vecchio FB. Effectiveness of high-intensity interval training 
+versus moderate-intensity continuous training in hypertensive patients: a systematic 
+review and meta-analysis. Curr Hypertens Rep 2020;22:26. https://doi.org/10.1007/ 
+s11906-020-1030-z 
+387. Rossi A, Dikareva A, Bacon SL, Daskalopoulou SS. The impact of physical activity on 
+mortality in patients with high blood pressure: a systematic review. J Hypertens 
+2012;30:1277–88. https://doi.org/10.1097/HJH.0b013e3283544669 
+388. Cuspidi C, Gherbesi E, Faggiano A, Sala C, Carugo S, Grassi G, et al. Masked hyperten-
+sion and exaggerated blood pressure response to exercise: a review and meta-analysis. 
+Diagnostics (Basel) 2023;13:1005. https://doi.org/10.3390/diagnostics13061005 
+389. Mariampillai JE, Liestøl K, Kjeldsen SE, Prestgaard EE, Engeseth K, Bodegard J, et al. 
+Exercise systolic blood pressure at moderate workload is linearly associated with cor-
+onary disease risk in healthy men. Hypertension 2020;75:44–50. https://doi.org/10. 
+1161/hypertensionaha.119.13528 
+390. Pelliccia A, Sharma S, Gati S, Bäck M, Börjesson M, Caselli S. 2020 ESC Guidelines on 
+sports cardiology and exercise in patients with cardiovascular disease. Eur Heart J 2021; 
+42:17–96. https://doi.org/10.1093/eurheartj/ehaa605 
+391. Bull FC, Al-Ansari SS, Biddle S, Borodulin K, Buman MP, Cardon G, et al. World Health 
+Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports 
+Med 2020;54:1451–62. https://doi.org/10.1136/bjsports-2020-102955 
+392. Saco-Ledo G, Valenzuela PL, Ramírez-Jiménez M, Morales JS, Castillo-García A, 
+Blumenthal JA, et al. Acute aerobic exercise induces short-term reductions in am-
+bulatory blood pressure in patients with hypertension: a systematic review and 
+meta-analysis. Hypertension 2021;78:1844–58. https://doi.org/10.1161/hypertensionaha. 
+121.18099 
+393. Garber CE, Blissmer B, Deschenes MR, Franklin BA, Lamonte MJ, Lee I-M, et al. 
+American College of Sports Medicine position stand. Quantity and quality of exercise 
+for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor 
+fitness in apparently healthy adults: guidance for prescribing exercise. Med Sci Sports 
+Exerc 2011;43:1334–59. https://doi.org/10.1249/MSS.0b013e318213fefb 
+394. Edwards JJ, Deenmamode AHP, Griffiths M, Arnold O, Cooper NJ, Wiles JD, et al. 
+Exercise training and resting blood pressure: a large-scale pairwise and network 
+meta-analysis of randomised controlled trials. Br J Sports Med 2023;57:1317–26. 
+https://doi.org/10.1136/bjsports-2022-106503 
+395. Fletcher GF, Ades PA, Kligfield P, Arena R, Balady GJ, Bittner VA, et al. Exercise 
+standards for testing and training: a scientific statement from the American 
+Heart Association. Circulation 2013;128:873–934. https://doi.org/10.1161/CIR. 
+0b013e31829b5b44 
+396. Craft BB, Carroll HA, Lustyk MK. Gender differences in exercise habits and quality of 
+life reports: assessing the moderating effects of reasons for exercise. Int J Lib Arts Soc Sci 
+2014;2:65–76. 
+ESC Guidelines 4003 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

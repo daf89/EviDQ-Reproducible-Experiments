@@ -1,0 +1,23 @@
+A P P E N D I X B : E X A M P L E O F D A T A P L A N N I N G F O R Q U A L I T Y
+I M P R O V E M E N T
+A P P E N D I X C : E X A M P L E O F D A T A P L A N N I N G F O R 
+Q U A L I T Y I M P R O V E M E N T 
+• 
+Are you getting zero for your numerator? The practice might not have any providers using the 
+unhealthy alcohol use screening tool, or providers may not be documenting the unhealthy 
+alcohol use screening in the right place within the EHR. 
+• 
+Is the numerator lower than expected? If so, review which providers are using the screening 
+tool and look at their workflows. The Health IT Advisor should then talk to the practice staff 
+about next steps based on the outcome of this review. Staff training may be needed to create 
+consistency across the practice and improve performance on the measure. 
+Once the practice has a numeratorand denominator they cantrust, the HealthIT Advisor should work 
+with the practice to create orprovide a feedback report. This feedback report shows how the practice is 
+doing over time on the measure. It could also show how the practice is doing on the measure in 
+comparison to other practices in the same system or it could show how specific providers in a clinic are 
+performing in comparison to each other. 
+It is essential that the Health IT Advisor work closely with the practice’s QI staff so they are developing 
+something the practice will use. Ideally the practice’s health IT staff should share these feedback reports 
+with the clinic staff on a regular basis so everyone can see the progress on this measure. 
+Health IT Advisor Handbook 
+Page 126

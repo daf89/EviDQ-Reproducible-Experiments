@@ -1,0 +1,7 @@
+﻿condition,coverage_train_val
+REF,1.0
+DQ,1.0
+DOC,0.9006514657980456
+MEDIAN,1.0
+KNN,1.0
+ITERATIVE,1.0

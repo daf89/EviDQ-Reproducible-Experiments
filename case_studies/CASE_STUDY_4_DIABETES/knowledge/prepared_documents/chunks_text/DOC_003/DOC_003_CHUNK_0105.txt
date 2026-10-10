@@ -1,0 +1,96 @@
+
+
+===== PDF PAGE 209 =====
+
+Measurement of Blood Glucose and Lipids, Continued 
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-10 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Measurement 
+procedure 
+Follow the steps below to take blood measurements and record the results. 
+Note that you should also read the instructions provided with the device 
+carefully. 
+ 
+Step 
+Action 
+1 
+Put on gloves. 
+2 
+Remove a test strip, put it into the machine and close the test strip box. 
+The strips are sensitive to heat and humidity, so only take one strip at a 
+time and close the box tightly. 
+3 
+Rub and kneed a fingertip to help withdraw blood (rub the side of the 
+participant's finger closest to the thumb). 
+4 
+Wipe or swab the fingertip by using a sterile swab. 
+5 
+Lance the massaged place on the fingertip with lancing device. 
+6 
+Allow a hanging blood drop to form without applying too much pressure. 
+7 
+Carefully collect the blood with the capillary tube until the blood reaches 
+the mark on the tube. Put the blood onto the test field without touching it. 
+Note: The test field must be completely covered with blood. If too little 
+blood is applied, do not rub it in or apply a second drop, but repeat the 
+measurement with a fresh test strip. 
+8 
+Give the participant a cotton ball to press on the puncture. 
+9 
+Wait for the measurement to be displayed. The results are usually 
+displayed in mmol/L or mg/dL. 
+10 
+Record the results of the readings on the Android device and on the 
+Participant Feedback Form (Step 3). Also tick the corresponding boxes 
+on this form. 
+11 
+Record Technician ID, Device ID, time of day and answer to medication 
+questions (B6 for glucose, B9 for lipids) on the Android device. 
+ 
+
+
+===== PDF PAGE 210 =====
+
+Part 3: Data Collection 
+Section 6: Collecting Step 3 data: Biochemical Measurement 
+Last Updated: 26 January 2017 
+3-6-11 
+WHO STEPS Surveillance 
+Completing the Participant Feedback Form (Step 3) 
+ 
+ 
+ 
+Introduction 
+After having completed the Step 3 measurements, the participant should be 
+informed on his/her results. The Participant Feedback Form (Step 3) can be 
+used in order to give the participant feedback on his blood measurements (see 
+Part  6, Section 2).   This form  stays with the participant after having 
+completed the survey. 
+ 
+ 
+Filling in the 
+Participant 
+Feedback Form 
+Please follow the following guidelines when completing the Participant 
+Feedback Form: 
+ 
+• fasting blood glucose: record the result for fasting blood glucose in mmol/L 
+or mg/dL; 
+• fasting blood glucose classification: tick the appropriate box; 
+• total blood cholesterol: record the result for total blood cholesterol in 
+mmol/L or mg/dL; 
+• total blood cholesterol classification: tick the appropriate box; 
+• HDL cholesterol: record the result for HDL cholesterol in mmol/L or 
+mg/dL; 
+• HDL cholesterol classification: tick the appropriate box; 
+• fasting triglycerides: record the result for fasting triglycerides in mmol/L or 
+mg/dL; 
+• fasting triglycerides classification: tick the appropriate box. 
+ 
+ 

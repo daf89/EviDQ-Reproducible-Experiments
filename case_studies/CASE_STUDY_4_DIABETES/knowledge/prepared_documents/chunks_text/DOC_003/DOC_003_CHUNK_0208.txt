@@ -1,0 +1,195 @@
+
+
+===== PDF PAGE 415 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-56 
+WHO STEPS Surveillance 
+ 
+ 
+Self-reported quantity of salt consumed 
+Age 
+Group 
+(years) 
+Men 
+% Far 
+% Just 
+n 
+too 
+95% CI 
+% Too 
+95% CI 
+the 
+95% CI 
+% Too 
+95% CI 
+% Far 
+95% CI 
+much 
+much 
+right 
+little 
+too little 
+amount 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Self-reported quantity of salt consumed 
+Age 
+Group 
+(years) 
+Women 
+% Far 
+% Just 
+n 
+too 
+95% CI 
+% Too 
+95% CI 
+the 
+95% CI 
+% Too 
+95% CI 
+% Far 
+95% CI 
+much 
+much 
+right 
+little 
+too little 
+amount 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Self-reported quantity of salt consumed 
+Age 
+Group 
+(years) 
+Both Sexes 
+% Far 
+% Just 
+n 
+too 
+95% CI 
+% Too 
+95% CI 
+the 
+95% CI 
+% Too 
+95% CI 
+% Far 
+95% CI 
+much 
+much 
+right 
+little 
+too little 
+amount 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D8 
+• Epi Info program name: Dsaltquantity (unweighted); DsaltquantityWT (weighted) 
+ 
+
+
+===== PDF PAGE 416 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-57 
+WHO STEPS Surveillance 
+Lowering 
+Description: Percentage of respondents who think lowering salt in diet is very, 
+ 
+ 
+salt 
+somewhat or not at all important. 
+ 
+Instrument question: 
+• How important to you is lowering the salt in your diet? 
+ 
+Importance of lowering salt in diet 
+Age 
+Group 
+(years) 
+Men 
+% Very 
+% 
+% 
+n 
+important 
+95% CI 
+Somewhat 
+95% CI 
+Not at all 
+95% CI 
+important 
+important 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Importance of lowering salt in diet 
+Age 
+Group 
+(years) 
+Women 
+% Very 
+% 
+% 
+n 
+important 
+95% CI 
+Somewhat 
+95% CI 
+Not at all 
+95% CI 
+important 
+important 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Importance of lowering salt in diet 
+Age 
+Group 
+(years) 
+Both Sexes 
+% Very 
+% 
+% 
+n 
+important 
+95% CI 
+Somewhat 
+95% CI 
+Not at all 
+95% CI 
+important 
+important 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D9 
+• Epi Info program name: Dlower (unweighted); DlowerWT (weighted) 
+ 

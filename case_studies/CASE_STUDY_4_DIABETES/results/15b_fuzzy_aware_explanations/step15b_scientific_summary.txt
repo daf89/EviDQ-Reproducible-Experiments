@@ -1,0 +1,22 @@
+DEMARCHE_ENCAD3 — STEP 15B
+
+The four evaluation dimensions remain independent.
+Comparative explanations are based primarily on fuzzy linguistic states.
+Numerical micro-differences inside the same fuzzy state are not interpreted as meaningful superiority.
+
+DOC — Predictive performance is preserved relative to the DQ baseline. The change in the explanatory role of Age relative to DQ is moderate, with partial membership in LOW (0.162). Local SHAP explanations show high stability under the predefined perturbation protocol. The action retains moderate operational coverage. Compared with the other methods, Its predictive performance belongs to the same fuzzy category (PRESERVED) as MEDIAN and ITERATIVE; KNN shows a fuzzy boundary in predictive performance rather than the same single-state profile. Its explanation change belongs to a lower fuzzy category than MEDIAN and KNN; its explanation change belongs to a higher fuzzy category than ITERATIVE. Explanation stability belongs to the same fuzzy category (HIGH) for all four methods, so the small numerical differences are not treated as a meaningful linguistic distinction. Its operational coverage belongs to a lower fuzzy category than MEDIAN, KNN, and ITERATIVE.
+
+MEDIAN — Predictive performance is preserved relative to the DQ baseline. The change in the explanatory role of Age relative to DQ is high. Local SHAP explanations show high stability under the predefined perturbation protocol. The action retains full or near-full operational coverage. Compared with the other methods, Its predictive performance belongs to the same fuzzy category (PRESERVED) as DOC and ITERATIVE; KNN shows a fuzzy boundary in predictive performance rather than the same single-state profile. Its explanation change belongs to a higher fuzzy category than DOC and ITERATIVE; its explanation change belongs to the same dominant fuzzy category (HIGH) as KNN. Explanation stability belongs to the same fuzzy category (HIGH) for all four methods, so the small numerical differences are not treated as a meaningful linguistic distinction. Its operational coverage belongs to a higher fuzzy category than DOC; its operational coverage belongs to the same fuzzy category (FULL_OR_NEAR_FULL) as KNN and ITERATIVE.
+
+KNN — Predictive performance lies at the fuzzy boundary between DEGRADED (membership=0.511) and PRESERVED (membership=0.489). The change in the explanatory role of Age relative to DQ is high. Local SHAP explanations show high stability under the predefined perturbation protocol. The action retains full or near-full operational coverage. Compared with the other methods, Its predictive performance lies at a fuzzy boundary between DEGRADED and PRESERVED, unlike the methods represented by a single dominant performance state. Its explanation change belongs to a higher fuzzy category than DOC and ITERATIVE; its explanation change belongs to the same dominant fuzzy category (HIGH) as MEDIAN. Explanation stability belongs to the same fuzzy category (HIGH) for all four methods, so the small numerical differences are not treated as a meaningful linguistic distinction. Its operational coverage belongs to a higher fuzzy category than DOC; its operational coverage belongs to the same fuzzy category (FULL_OR_NEAR_FULL) as MEDIAN and ITERATIVE.
+
+ITERATIVE — Predictive performance is preserved relative to the DQ baseline. The change in the explanatory role of Age relative to DQ is low. Local SHAP explanations show high stability under the predefined perturbation protocol. The action retains full or near-full operational coverage. Compared with the other methods, Its predictive performance belongs to the same fuzzy category (PRESERVED) as DOC and MEDIAN; KNN shows a fuzzy boundary in predictive performance rather than the same single-state profile. Its explanation change belongs to a lower fuzzy category than DOC, MEDIAN, and KNN. Explanation stability belongs to the same fuzzy category (HIGH) for all four methods, so the small numerical differences are not treated as a meaningful linguistic distinction. Its operational coverage belongs to a higher fuzzy category than DOC; its operational coverage belongs to the same fuzzy category (FULL_OR_NEAR_FULL) as MEDIAN and KNN.
+
+No global aggregation.
+No score.
+No ranking.
+No recommendation.
+REF excluded.
+TEST untouched.
+
+STATUS: PASS_FUZZY_AWARE_EXPLANATION_ONLY

@@ -1,0 +1,46 @@
+10. Appendix A: Review of Interoperability and Data Standards 
+S E C T I O N 1 0 : R E V I E W O F I N T E R O P E R A B I L I T Y A N D D A T A
+S T A N D A R D S
+A P P E N D I X A : R E V I E W O F I N T E R O P E R A B I L I T Y A N D 
+D A T A S T A N D A R D S 
+Interoperability can be broadly described as the capability to work together. Critical to it is the ability 
+exchange information in a predictable, reliable way that ensures the fidelity of the information. In the 
+context of healthcare, it is intended to allow information to be communicated beyond a single device, 
+application, or vendor. If you use an electronic health record (EHR) system, you might be accustomed to 
+sending a specimen out for processing by a lab vendor or even submitting a claim to a payer. The ability 
+to do that and more is possible because there is an agreement on the standards for how data can be 
+represented and communicated so that systems can interoperate. 
+Interoperabilityprovides a whole host of additional benefits and opportunities, including: 
+• 
+Improvements to medicalreference, decision support, and automatedquality reporting 
+o Online reference and complex automation and alerting for clinical decision support, allergy 
+evaluation, and drug-drug interaction checks are made easier. These can be targeted to a 
+specific practice and patient population. 
+o Data can be harvested and used for automated electronic clinical quality reporting. 
+• 
+Addressingfragmentedcare 
+o Sections of patient data live in multiple systems andorganizations but that leads to 
+incomplete information spread around in “pockets,” each only portraying one part of the 
+story. Systems should be able to network – just like they do in other areas of business – so 
+they may seamlessly and safely share data to make sure a patient’s comprehensive health 
+history is available when they receive care. 
+• 
+New ways to for patients to engage physicians and participate in their own care 
+o Patient portals and mobile applications let patients access your health record on demand. 
+o Data feeds from smart watches or other mobile health tools can give better insights into 
+behavior that impacts patient health. In the age of “The Internet of Things,” the modern EHR 
+should be able to incorporate more of that data. A smart watch can help profile heart rates 
+and communicate that information to a provider, who might call a patient and ask them to 
+come for a visit. This can promote proactive preventive care. 
+• 
+Broadened insights andanalytics 
+o Patient data can also be federated through a central hub called a registry. A registry serves 
+to collect and broker your data so multiple facilities can “pull” that data from the central 
+hub. These registries, in turn, can act to “push” key elements back out to health practices 
+you visit as they are updated in the hub. 
+o The use of registries alsointroduces the possibility of integrating analytics intopopulation 
+health. With that information, you can endeavor to better treat specific populations who 
+might be challenged by health issues such as diabetes, cardiovascular disease, or cancer, 
+which are more prominent in their given community. Analysts can look for patterns and 
+Health IT Advisor Handbook 
+Page 107

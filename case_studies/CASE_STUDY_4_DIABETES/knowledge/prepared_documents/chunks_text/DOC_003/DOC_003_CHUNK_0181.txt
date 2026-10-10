@@ -1,0 +1,118 @@
+
+
+===== PDF PAGE 361 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-2 
+WHO STEPS Surveillance 
+Table of Contents 
+ 
+ 
+ 
+ 
+ 
+Introduction ............................................................................................................................ 3 
+Sampling and Response Proportions ...................................................................................... 6 
+Demographic Information Results ......................................................................................... 7 
+Tobacco Use ......................................................................................................................... 14 
+Alcohol Consumption .......................................................................................................... 34 
+Diet ....................................................................................................................................... 50 
+Physical Activity .................................................................................................................. 61 
+History of Raised Blood Pressure ........................................................................................ 72 
+History of Diabetes .............................................................................................................. 75 
+History of Raised Total Cholesterol ..................................................................................... 78 
+History of Cardiovascular Diseases ..................................................................................... 81 
+Lifestyle Advice ................................................................................................................... 83 
+Cervical Cancer Screening ................................................................................................... 85 
+Physical Measurements ........................................................................................................ 86 
+Biochemical Measurements ................................................................................................. 97 
+Cardiovascular disease risk ................................................................................................ 107 
+Summary of Combined Risk Factors ................................................................................. 109 
+ 
+ 
+IMPORTANT: 
+• ALL analyses use the variables AgeRange, Sex, and Valid. You may use the AgeRange1869 
+and MissingAgeSex programs to generate these variables from C1, C2, and C3. 
+• ALL weighted programs use the variables PSU, Stratum, and one of either WStep1, 
+WStep2, or WStep3. 
+• Unweighted tables will not have confidence intervals associated with them. 
+
+
+===== PDF PAGE 362 =====
+
+Introduction 
+Part 6: Templates and Forms 
+Section 3D: Data Book Template 
+6-3D-3 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+ 
+ 
+Purpose of the 
+data book 
+This data book is a tool used to compile a complete set of data results relating 
+to each question and measurement in the  STEPS  Instrument.  The  STEPS 
+data book 
+• Provides detailed information for the data analyst on producing the 
+results for the tables. 
+• Provides examples of which tables to use in the country report. 
+• Provides examples and suggestions on the layout of tables. 
+ 
+ 
+ 
+Format of the 
+data book 
+Each page in the data book contains a different table with: 
+• Title and description of the table 
+• Data tables for men, women and both sexes 
+• Questions used to produce the table (actual question text) 
+• Analysis information (Epi Info program name to produce the table). 
+ 
+ 
+ 
+Global Action 
+Plan 2013-2020 
+and Global 
+Monitoring 
+Framework 
+STEPS captures 11 of the 25 indicators outlined in the Global Action Plan 
+2013-2020 and the Comprehensive Global Monitoring Framework for the 
+Prevention and Control of NCDs1, relating to 7 of the 9 global targets. 
+ 
+Indicators captured in STEPS are marked in bold and italic in the table 
+below. 
+ 
+ 
+ 
+Tables in the 
+data book 
+relating to the 
+Global 
+Monitoring 
+Framework 
+Tables in the data book relating to the Global Monitoring Framework are 
+identified with this symbol: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 World Health Organization. Global action plan for the prevention and control of NCDs 2013- 
+2020. Geneva: World Health Organization; 2013. 

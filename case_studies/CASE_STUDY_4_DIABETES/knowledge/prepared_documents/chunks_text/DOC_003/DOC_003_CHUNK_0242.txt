@@ -1,0 +1,90 @@
+
+
+===== PDF PAGE 483 =====
+
+ 
+ 
+
+
+===== PDF PAGE 484 =====
+
+Part 7: Glossary 
+Section 1: Glossary of Terms Used in STEPS 
+Last Updated: 26 January 2017 
+7-1-1 
+WHO STEPS Surveillance 
+ 
+ 
+Section 1: Glossary of Terms Used in STEPS 
+ 
+ 
+ 
+Introduction 
+This section provides an alphabetical list of all the terms used in a STEPS 
+surveillance with definitions that are appropriate for STEPS. 
+ 
+Term 
+Definition 
+Age- 
+standardisation 
+A process of statistically adjusting rates or prevalence or mean values 
+from two or more populations with different age structures in order to 
+facilitate comparisons or understand differences between the populations. 
+Archive 
+A depository containing records or documents. 
+Average 
+See Mean 
+Bias 
+Distortion of a population estimate away from the true value. Bias can 
+arise for many reasons such as measurement error or non-response. 
+Cluster 
+A (usually geographical defined) group of individuals. 
+Cluster sampling 
+A sampling method where the target population is divided into 
+clusters/groups and a subset of each cluster is selected instead of the 
+entire cluster. Cluster sampling often uses enumeration areas for the 
+primary cluster 
+Confidence 
+interval (CI) 
+A range of  values around the sample estimate in which the true   
+population value is likely to fall. For example, a 95% confidence interval 
+indicates that for 95 out of 100 surveys, the population mean would fall 
+into this range of values around the sample mean. 
+Cross-sectional 
+design 
+A study design based on observations at a single point in time. STEPS 
+surveys will be cross-sectional unless they are especially being extended 
+to follow the sample over time. 
+Database 
+A large amount of information stored in a file that is easily searched by a 
+computer. STEPS mostly uses Microsoft Access. 
+Dataset 
+An electronic file consisting of a table in which each row contains data 
+for one individual and each column represents one variable. 
+Demographic 
+characteristics 
+The characteristics of a population, for example, age, sex, ethnicity and 
+place of residence. 
+Distribution 
+The complete summary of the frequencies of the values or categories of a 
+measurement made on a group of persons.  The distribution tells either 
+how many or what proportion of the group was found to have each value 
+(or each range of values) out of all the possible values that the 
+quantitative measure can have. 
+Enumeration Area 
+A small to medium sized geographic area that has been defined in a 
+census. 
+EpiData 
+A freely available software package designed to facilitate data entry of 
+survey data. Functions include immediate checking of ranges and legal 
+values and ability to export data to a range of analysis packages. 
+Epi Info 
+A freely available statistical software package providing basic statistical 
+functions and capable of handling complex sample designs. 
+Estimate 
+A calculated guess of the true value of a population characteristic 
+deriving from data obtained from a sample of the population. 
+Household 
+composition 
+The age and sex of all the residents in the household who are within the 
+age range of the survey. 

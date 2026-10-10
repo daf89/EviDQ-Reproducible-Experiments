@@ -1,0 +1,72 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+13
+Audit système
+L’audit système consiste à évaluer un processus pour s’assurer de sa maîtrise et de sa 
+capacité à atteindre les objectifs. Il se différencie du traceur ciblé puisque l’évaluation 
+part de la compréhension du processus jusqu’à la vérification, sur le terrain, de sa mise 
+en œuvre réelle par les professionnels. Pour ce faire, l’évaluateur consulte, dans un 
+premier temps, l’ensemble des éléments constitutifs du processus. Puis, dans un deu
+xième temps, il rencontre, selon le processus concerné, la direction, la présidence de 
+CME, la direction des soins ou équivalent ou les responsables en charge d’une structure 
+spécifique, les représentants des usagers. Le troisième et dernier temps consiste à éva
+luer, avec les professionnels, dans quelle mesure le processus est mis en œuvre sur le 
+terrain.
+Observations
+Les observations sont réalisées lors de chaque traceur. Elles sont réalisées sur la base 
+d’une liste de points directement observables sur le terrain, par exemple : le respect de 
+la dignité et de l’intimité du patient (pas de patients dénudés, portes fermées…), l’acces
+sibilité des locaux (rampe d’accès, ascenseur, signalétique…), la maîtrise du risque 
+infectieux (tenue des professionnels, containers fermés, boîtes pour objets piquants et 
+tranchants…), etc.
+… En pratique 
+Chaque méthode se décline dans une grille d’évaluation qui intègre les éléments d’éva
+luation de l’ensemble des critères, génériques et spécifiques, de la cible évaluée. 
+Par exemple, la grille d’évaluation d’un patient traceur de 81 ans pris en charge en hos
+pitalisation de jour intègre, en plus des éléments d’évaluation « patient traceur » des cri
+tères génériques, les éléments d’évaluation « patient traceur » des critères spécifiques 
+aux patients âgés et les éléments d’évaluation « patient traceur » des critères spécifiques 
+à la prise en charge ambulatoire.
+Pour une évaluation complète, les grilles réalisées doivent couvrir tous les éléments 
+d’évaluation de tous les critères applicables à l’établissement.
+Ces grilles sont structurées selon les cibles à rencontrer ou consultations documentaires 
+ou observations à réaliser : 
+Une évaluation 
+de la politique 
+jusqu’au terrain 
+Une méthode tout 
+au long de la visite
+CALISTA : 
+un outil pour 
+générer ses grilles 
+d’évaluation
+Méthodes
+Entretien
+Consultation
+Observation 
+Entretien
+Patient
+Équipe
+Gouvernance
+Dossier du 
+patient
+Autres 
+documents
+Patient traceur
+•
+•
+•
+•
+Parcours 
+traceur
+•
+•
+•
+Traceur ciblé
+•
+•
+•
+•
+Audit système
+•
+•
+•

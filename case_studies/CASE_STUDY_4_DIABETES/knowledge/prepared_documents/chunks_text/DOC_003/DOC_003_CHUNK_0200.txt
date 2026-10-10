@@ -1,0 +1,154 @@
+
+
+===== PDF PAGE 399 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-40 
+WHO STEPS Surveillance 
+ 
+ 
+Largest 
+number 
+of drinks 
+in the 
+past 30 
+days 
+Description: Largest number of drinks consumed during a single occasion in the past 
+30 days among current (past 30 days) drinkers. 
+ 
+Instrument question: 
+• During the past 30 days, what was the largest number of standard alcoholic drinks 
+you had on a single occasion, counting all types of alcoholic drinks together? 
+ 
+Mean maximum number of standard drinks consumed on one occasion in the past 30 days 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+maximum 
+95% CI 
+number 
+Mean 
+n 
+maximum 
+95% CI 
+number 
+Mean 
+n 
+maximum 
+95% CI 
+number 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A8 
+• Epi Info program name: Alargestnum (unweighted); AlargestnumWT (weighted) 
+ 
+
+
+===== PDF PAGE 400 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-41 
+WHO STEPS Surveillance 
+ 
+ 
+Six or more 
+drinks on a 
+single occasion 
+(“heavy 
+episodic 
+drinking”) 
+Description: Percentage of respondents who had six or more drinks on any 
+occasion in the past 30 days during a single occasion among the total 
+population. 
+Instrument question: 
+• During the past 30 days, how many times did you have six or more 
+standard alcoholic drinks in a single drinking occasion? 
+ 
+ 
+ 
+ 
+ 
+Six or more drinks on a single occasion at least once during the past 30 days among total population 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% ≥ 6 
+95% CI 
+drinks 
+n 
+% ≥ 6 
+95% CI 
+drinks 
+n 
+% ≥ 6 
+95% CI 
+drinks 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A9 
+• Epi Info program name: Aepisodic (unweighted); AepisodicWT (weighted) 
+ 
+ 
+ 
+Six or 
+more 
+drinks on 
+a single 
+occasion 
+Description: Mean number of times in the past 30 days on which current (past 30 
+days) drinkers consumed six or more drinks during a single occasion. 
+Instrument question: 
+• During the past 30 days, how many times did you have six or more 
+standard alcoholic drinks in a single drinking occasion? 
+ 
+Mean number of times with six or more drinks during a single occasion in the past 30 days among current 
+drinkers 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Mean 
+n 
+ number 
+95% CI 
+of times 
+Mean 
+n 
+ number 
+95% CI 
+of times 
+Mean 
+n 
+ number 
+95% CI 
+of times 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: A1, A2, A5, A9 
+• Epi Info program name: Aepisodic (unweighted); AepisodicWT (weighted) 
+ 

@@ -1,0 +1,42 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+These agreements and regulations include: 
+• 
+Business Associate Agreements. Abusiness associateagreement,or BAA, is a writtendocument 
+that details how to protect health information when it is shared between two organizations or 
+individuals. It is often required when a Health IT Advisor works for a separate organization from 
+the practice and will need to view protected health information (PHI). For a Health IT Advisor 
+this can include looking at patient information in a practice’s EHR for a QI or research project. As 
+outlined by the U.S. Department of Health and Human Services (DHHS), “if a covered entity 
+engages a business associate to help it carry out its healthcare activities and functions, the 
+covered entity must have a written business associate contract or other arrangement with the 
+business associate that establishes specifically what the business associate has been engaged to 
+do and requires the business associate tocomply with the Rules’ requirements toprotect the 
+privacy and securityof protectedhealth information.”[28] Health IT Advisors should verify if a 
+BAA is needed or in place prior to the beginning of a project. An example of a business associate 
+agreement can be found here: Model Business Associate Agreement (hhs.gov). 
+• 
+Data Use Agreements. When Health IT Advisors work on projects with practices from different 
+organizations around specific clinical data or quality measures, a data use agreement (DUA) 
+might be needed. “Adata use agreement establishes whois permitted to use and receive the 
+Limited Data Set, and the permitted uses and disclosures of such information by the 
+recipient.”[29] The DUA specifies what data will be shared and how that data will be used by 
+partnering organizations. It will also specifically list how the data will be destroyed or returned 
+at the end of a given time period. The Health IT Advisor should be aware of any DUAs prior to 
+starting a project. 
+• 
+InstitutionalReviewBoard. Institutional review boards (IRBs) help ensure that human subjects 
+research is conducted in an ethical manner and in compliance with federal and organizational 
+guidelines. Health IT Advisors often work on research projects and therefore need to be aware 
+of how IRB rules impact data covered under research protocols. This data may include clinical 
+data from an EHR, survey data, and interviews that Health IT Advisors participate in for a 
+project. When working on an IRB-approved research study, Health IT Advisors should be aware 
+of the specific descriptions of data gathering and use included in the research protocol and the 
+IRB approval documents. IRBs’ role in the protection of human subjects in research is guided by 
+DHHS’ “Common Rule.” QI research projects that involve human subjects will require IRB review, 
+but not all QI projects require IRB review and approval. 
+1.13 Understanding Patient Attribution and Empanelment 
+Empanelment and attribution are related concepts differentiated by the source of the allocation of 
+patients, among other factors; some of these are shown in Exhibit 9. 
+Health IT Advisor Handbook 
+Page 20

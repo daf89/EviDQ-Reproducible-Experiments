@@ -1,0 +1,32 @@
+{
+  "experiment": "DEMARCHE_ENCAD3",
+  "stage": "STEP_10A_DOCUMENT_STATISTICAL_ALIGNMENT_PREPARATION",
+  "global_phase": "PHASE_02_KNOWLEDGE",
+  "sources_instantiated": [
+    "DOCUMENT",
+    "STATISTICAL"
+  ],
+  "source_expert": {
+    "supported_by_framework": true,
+    "instantiated_in_current_experiment": false
+  },
+  "document_knowledge_items": 368,
+  "statistical_profiles": 12,
+  "statistical_observations": 24,
+  "statistical_conditions": 13,
+  "unified_statistical_items": 37,
+  "alignment_candidates": 1332,
+  "alignment_method": "EXHAUSTIVE_WITHIN_SAME_FEATURE",
+  "semantic_filtering": false,
+  "tfidf": false,
+  "cosine_similarity": false,
+  "embeddings": false,
+  "keyword_filtering": false,
+  "principles": {
+    "same_feature_only": true,
+    "statistical_anomaly_is_error": false,
+    "automatic_correction": false,
+    "automatic_source_priority": false,
+    "semantic_decision_performed": false
+  }
+}

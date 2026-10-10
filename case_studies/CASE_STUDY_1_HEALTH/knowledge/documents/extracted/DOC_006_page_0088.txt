@@ -1,0 +1,57 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 7 : B E Y O N D T H E E H R : A L T E R N A T I V E D A T A S O U R C E S 
+F O R Q U A L I T Y I M P R O V E M E N T 
+Health IT Advisors can support the use of claims data in QI initiatives by: 
+• 
+Understanding what data elements are included in claims 
+• 
+Recognizing the importance of coding standards inclaims-basedquality measurement 
+• 
+Educating practices on how payers use claims data to evaluate quality 
+• 
+Facilitating the designand implementation of claims-basedquality projects 
+What Data ElementsAre Found in Claims? 
+Claims for non-institutionalproviders (i.e., individual professionals and practices) include a number of 
+data points relevant to quality measurement, such as: 
+• 
+Provider information: 
+o National Provider Identifier (NPI) 
+o Location 
+• 
+Patient and insured’s information: 
+o Health plan (type, name, ID number, group number) 
+o Demographics (date of birth, sex) 
+o Contact information (address, phone number) 
+o Related hospitalization 
+• 
+Encounter information: 
+o Date(s) of service 
+o Diagnosis code(s) 
+o Procedure/service code(s) 
+o Place of service 
+o Charged amounts 
+Claims for institutions (e.g.,hospitals, skillednursing facilities, long-termcare facilities)include similar 
+provider, patient, and encounter details as well as unique fields such as: 
+• 
+Admission type and source 
+• 
+Discharge status 
+• 
+Condition code(s) 
+• 
+Occurrence code(s) and spans 
+• 
+Value code(s) 
+These data points are sufficient for quality measurement basics such as: 
+• 
+Establishing populations based on patient and encounter characteristics 
+• 
+Setting reporting periods based on dates of service 
+• 
+Identifying patients seen by each provider during the reporting period 
+• 
+Assessing delivery of recommended services 
+• 
+Linking of quality measures to cost 
+Health IT Advisor Handbook 
+Page 83

@@ -1,0 +1,90 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+218
+Engagement dans la démarche
+Les méthodes d’évaluation
+La visite
+L’implication des représentants des usagers
+La décision et sa diffusion
+ Fiche pratique informative_E8 
+Secteurs d’activité : psychiatrie, chirurgie et interventionnel, maternité, SSR, SLD
+Champ d’applicabilité
+Sous-champ d’applicabilité
+Règles 
+Psychiatrie et santé 
+mentale
+Psychiatrie en milieu 
+pénitentiaire
+Table : filtre (select statut=INIT) – PSY (select DIS=PEN)
+Clef : FI
+If (filtre.HEB_PSY=1 or filtre.PSY=1) and
+ [PSY.CAP_HTP>0 or
+PSY.CAP_HDJ>0 or
+PSY.NB_AT>0 or
+PSY.SEJ_HTP>0 or
+PSY.JOU_HTP>0 or
+PSY.VEN_HDJ>0 or
+VEN_AT>0 or
+PSY.NB_CMP_SEUL_PA>0 or
+PSY.NB_CMP_SEUL_PL>0 or
+PSY.NB_CONSULT_SEUL>0 or
+PSY.NB_CATTP>0 or
+PSY.ACT_CATTP>0 or
+PSY.ACT_AD>0 or
+PSY.ACT_UCSA>0]
+then SCA0028= true
+else SCA0028= false
+Chirurgie et 
+interventionnel
+Chirurgie
+Table : filtre (select statut=INIT) - MCO
+Clef : FI
+If [filtre.HEB_CHIR=1 and
+(MCO.LIT_CHI >0 or MCO.SEJHC_CHI>0 or MCO.JOU_CHI>0)]
+or
+[Filtre.CHIRAMBU=1 and
+(MCO.PLA_CHI >0 or MCO.SEJHP_CHI>0)]
+then SCA0006= true
+else SCA0006= false]
+Chirurgie cardiaque
+Table : filtre (select statut=INIT) – CHIRCAR (select ADU=1)
+Clef : FI
+If filtre.CHIRCAR=1 and
+(CHIRCAR.LIT_CHIRC>0 or CHIRCAR.SEJ_CHIRC>0 or CHIRCAR.JOU_
+CHIRC>0 or LIT_CAR>0)
+then SCA0007= true
+else SCA0007= false
+OR
+Table : filtre (select statut=INIT) – CHIRCAR (select ENF=1)
+Clef : FI
+If filtre.CHIRCAR=1 and
+(CHIRCAR.LIT_CHIRC>0 or CHIRCAR.SEJ_CHIRC>0 or CHIRCAR.JOU_
+CHIRC>0 or LIT_CAR>0)
+then SCA0007= true
+else SCA0007= false
+OR
+Table : filtre (select statut=INIT) – CHIRCAR (select GREF=1)
+Clef : FI
+If filtre.CHIRCAR=1 and
+(CHIRCAR.LIT_CHIRC>0 or CHIRCAR.SEJ_CHIRC>0 or CHIRCAR.JOU_
+CHIRC>0 or LIT_CAR>0)
+then SCA0007= true
+else SCA0007= false
+Chirurgie des cancers
+Table : filtre (select statut=INIT) – CANCERO
+Clef : FI
+If filtre.CHIRCANCER=1 and
+(CANCERO.CANCERO_A4 >0 or CANCERO.CANCERO_A6 > 0)
+then SCA0008= true
+else SCA0008= false
+Activités interventionnelles 
+sous imagerie médicale, 
+par voie endovasculaire, en 
+cardiologie
+Table : filtre (select statut=INIT) – CHIRCAR (select AUT=1) - BLOCS
+Clef : FI
+If filtre.CARDIO_INT=1 and
+[CHIRCAR.SEJ>0 or CHIRCAR.JOU>0 or CHIRCAR.ACT> 0
+or
+BLOCS.BLOC_C12>0]
+then SCA0009= true
+else SCA0009= false

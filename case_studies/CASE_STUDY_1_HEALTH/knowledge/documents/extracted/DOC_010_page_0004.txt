@@ -1,0 +1,55 @@
+combined with other ongoing panels, will provide continuous and current estimates of 
+health care expenditures. 
+The sampling frame for the MEPS-HC is drawn from respondents to NHIS, conducted 
+by NCHS. NHIS provides a nationally representative sample of the U.S. civilian 
+noninstitutionalized population, with oversampling of Hispanics and blacks. 
+Medical Provider Component 
+The MEPS-MPC supplements and validates information on medical care events reported 
+in the MEPS-HC by contacting medical providers and pharmacies identified by house-
+hold respondents. The MPC sample includes all hospitals, hospital physicians, home 
+health agencies, and pharmacies reported in the HC. Also included in the MPC are all 
+office-based physicians: 
+ 
+Providing care for HC respondents receiving Medicaid. 
+ 
+Associated with a 75 percent sample of households receiving care through an HMO 
+(health maintenance organization) or managed care plan. 
+ 
+Associated with a 25 percent sample of the remaining households. Data are collected 
+on medical and financial characteristics of medical and pharmacy events reported by 
+HC respondents, including: 
+ 
+Diagnoses coded according to ICD-9 (9th Revision, International Classification of 
+Diseases) and DSMIV (Fourth Edition, Diagnostic and Statistical Manual of Mental 
+Disorders). 
+ 
+Physician procedure codes classified by CPT-4 (Current Procedural Terminology, 
+Version 4). 
+ 
+Inpatient stay codes classified by DRG (diagnosis related group). 
+ 
+Prescriptions coded by national drug code (NDC), medication names, strength, and 
+quantity dispensed. 
+ 
+Charges, payments, and the reasons for any difference between charges and 
+payments. 
+The MPC is conducted through telephone interviews and mailed survey materials. 
+Insurance Component 
+The MEPS-IC collects data on health insurance plans obtained through private and 
+public sector employers. Data obtained in the IC include the number and types of private 
+insurance plans offered, benefits associated with these plans, premiums, contributions by 
+employers and employees, and employer characteristics. 
+Establishments participating in the MEPS-IC are selected through three sampling 
+frames: 
+ 
+A list of employers or other insurance providers identified by MEPS-HC respondents 
+who report having private health insurance at the Round 1 interview. 
+ 
+A Bureau of the Census list frame of private-sector business establishments. 
+ 
+The Census of Governments from the Bureau of the Census. 
+To provide an integrated picture of health insurance, data collected from the first 
+sampling frame (employers and other insurance providers) are linked back to data 
+provided by the MEPS-HC respondents. Data from the other three sampling frames are 
+collected to provide annual national and State estimates of the supply of private health 
+iv

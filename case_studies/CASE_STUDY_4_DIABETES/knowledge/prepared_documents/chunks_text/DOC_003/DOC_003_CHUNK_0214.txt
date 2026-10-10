@@ -1,0 +1,214 @@
+
+
+===== PDF PAGE 427 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-68 
+WHO STEPS Surveillance 
+No 
+Description: Percentage of respondents classified as doing no work-, transport- or 
+ 
+ 
+physical 
+activity 
+by 
+domain 
+recreational-related physical activity. 
+ 
+Instrument questions: 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+No work-related physical activity 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% no 
+n 
+ activity 
+95% CI 
+at work 
+% no 
+n 
+ activity 
+95% CI 
+at work 
+% no 
+n 
+ activity 
+95% CI 
+at work 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+No transport-related physical activity 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% no 
+n 
+activity 
+95% CI 
+for 
+transport 
+% no 
+n 
+activity 
+95% CI 
+for 
+transport 
+% no 
+n 
+activity 
+95% CI 
+for 
+transport 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+No recreation-related physical activity 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% no 
+n 
+ activity at 
+95% CI 
+recreation 
+% no 
+n 
+ activity at 
+95% CI 
+recreation 
+% no 
+n 
+ activity at 
+95% CI 
+recreation 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Pnoactivitybyset (unweighted); PnoactivitybysetWT (weighted) 
+ 
+
+
+===== PDF PAGE 428 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-69 
+WHO STEPS Surveillance 
+Composition Description: Percentage of work, transport and recreational activity contributing 
+ 
+ 
+of total 
+physical 
+activity 
+to total activity. 
+ 
+Instrument questions: 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Composition of total physical activity 
+Age Group 
+(years) 
+Men 
+% Activity 
+% Activity 
+n 
+ % Activity 
+95% CI 
+ 
+for 
+95% CI 
+during 
+95% CI 
+from work 
+ 
+transport 
+ 
+leisure 
+time 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Composition of total physical activity 
+Age Group 
+(years) 
+Women 
+% Activity 
+% Activity 
+n 
+ % Activity 
+95% CI 
+ 
+for 
+95% CI 
+during 
+95% CI 
+from work 
+ 
+transport 
+ 
+leisure 
+time 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Composition of total physical activity 
+Age Group 
+(years) 
+Both Sexes 
+% Activity 
+% Activity 
+n 
+ % Activity 
+95% CI 
+ 
+for 
+95% CI 
+during 
+95% CI 
+from work 
+ 
+transport 
+ 
+leisure 
+time 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Pcomposition(unweighted); PcompositionWT (weighted) 
+ 

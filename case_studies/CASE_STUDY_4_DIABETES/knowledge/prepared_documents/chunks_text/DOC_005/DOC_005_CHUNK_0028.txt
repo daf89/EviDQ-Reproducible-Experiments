@@ -1,0 +1,97 @@
+
+
+===== PDF PAGE 55 =====
+
+43
+Annex 4. Procedures for laboratory and accuracy testing
+Annex 4
+Annex 4
+Procedures for laboratory and 
+accuracy testing
+Calibrating aneroid mechanical gauge sphygmomanometers 
+Accurate measurement is essential for managing hypertension, as imprecise measurements might significantly 
+affect diagnosis and treatment. Aneroid sphygmomanometers (manual BPMD) are still used in health care 
+institutions, and, in view of their sensitivity to mechanical shocks, they must be tested regularly for accuracy 
+to determine whether they should be calibrated. This section describes the procedure in detail. 
+Aneroid sphygmomanometers may be portable, wall-mounted or mobile-mounted. Fig. A4.1 shows two 
+common aneroid sphygmomanometers. 
+Fig. A4.1. Two common aneroid sphygmomanometers 
+Inflation
+bulb
+Valve
+Tubing
+Cuff
+Inflation
+bulb
+Mechanical face 
+guage
+Cuff
+Mechanical 
+manometer guage
+Tubing
+Valve
+The devices required to test the accuracy of an aneroid pressure gauge are a reference manometer, preferably 
+electronic, which is traceable to a national standard; one or two “Y” or “T” connectors, with tubing and Luer 
+fittings; and an inflation bulb with a valve or an adjustable manual syringe pump. Some tests recommend use 
+of a cuff placed around a cylinder or adding a 500-mL vessel, such as a metal container, so that the tester 
+can increase the pressure gradually and avoid suddenly exceeding the maximum gauge pressure.
+Some tests suggest use of a mercury sphygmomanometer as the reference manometer, but, as explained 
+above, these devices may not be available. A well-maintained mercury sphygmomanometer has a rated 
+accuracy of ± 3 mm Hg, whereas the accuracy of typical reference electronic manometers is ± 0.1–1 mm 
+Hg traceable to a national standard. Reference electronic manometers with high accuracy and an operating 
+
+
+===== PDF PAGE 56 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+44
+range of at least 0–300 mm Hg are commercially available. Fig. A4.2 shows examples of various accuracy 
+test set-ups for aneroid sphygmomanometer gauges.
+The procedure is as follows.
+1. 	Connect the pressure gauge to be tested to the reference manometer with plastic Y or T connectors 
+and plastic or rubber tubing to an inflation bulb or adjustable syringe pump. Addition of a 500-mL hard 
+plastic or metal container or use of the cuff wrapped around a rigid cylinder (about 10 cm in diameter) is 
+recommended if an adjustable manual syringe pump is not used.
+2. 	Make sure the pointer is at 0 when no pressure is applied before beginning the test. Adjust the pointer if 
+necessary.
+3. 	Using the inflation bulb or syringe pump, pressurize the gauge to about 280 mm Hg, and close the valve. 
+Observe whether the pressure is stable. If not, check the set-up for air leaks.
+4. 	If the pressure is stable, increase the pressure to slightly above 300 mm Hg, and release the pressure no 
+faster than 10 mm Hg per second.
+5. 	Stop the pressure release at least every 50 mm Hg. Record both the reading on the gauge being tested 
+and the reference manometer reading. For example, readings can be taken at 300, 250, 200, 160, 120, 
+Fig. A4.2. Examples of equipment for accuracy tests for aneroid sphygmomanometer gauges
+Sphygmomanometer guage 
+being tested
+Adjustable syringe pump
+Y (or T) connector
+Adjustable syringe pump
+T (or Y) connector
+Reference electronic 
+manometer
+Reference 
+electronic 
+manometer
+Sphygmomanometer face 
+guage being tested
+Sphygmomanometer 
+guage being tested
+Reference 
+electronic 
+manometer
+500 cc rigid 
+container
+T (or Y) connector
+Y (or T) connector
+Inflation
+bulb
+Inflation
+bulb
+Cuff
+T (or Y) 
+connector
+Rigid container
+Reference electronic 
+manometer
+Sphygmomanometer 
+guage being tested

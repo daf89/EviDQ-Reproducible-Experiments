@@ -1,0 +1,44 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+After you have your data structure with dummy data and your visualization looking the way you want it, 
+now you should have some idea of what processing will be needed in order to manipulate your raw data 
+into the expected data structure requiredfor the viz. For this handbook, we will not go into all the 
+different methods of processing and transforming data. However, if you plan to publish your 
+visualization to Tableau Public, it can be to your advantage to handle data processing outside of Tableau. 
+Data processing within Tableau can drastically slow your visualization, especially if you have a lot of 
+data. Ifyou plan to export a PDF, JPG, or some other staticformof your visualization, it will not matter if 
+you do all your data processing in Tableau or not. 
+If this report will be published to a website, you will most certainly want to think about automating the 
+data refresh. This plays a large role in your design. Generally, you will want to avoid any manual/human 
+process because humans cannot be automated. For this handbook, we will not go into all the methods 
+of automation which may require shell scripting, Python or programming languages, and possibly 
+support from systems administration. One semi-automated method worth mentioning though is with 
+Tableau Public. If you have decided to use Tableau Public, and your data can be made completely public, 
+Tableau public can read from a Google Sheet. This is handy because there are many ways to update a 
+google sheet. You can sync the sheet to your desktop and have a semi-automated process on your 
+desktop that updates the sheet. You can share the sheet with staff and ask them to update the sheet, 
+which will in-turn update the Tableau. This is a nifty trick to have in your back pocket, which may just 
+meet your requirements without involving a programmer or system admin. 
+Data Quality and Missingness 
+Once you have your raw data loaded into your data visualization, now is the time to look for anomalies. 
+Spikes in line graph that would otherwise be a smooth and continuous line, may indicate missing or 
+erroneous data. The same goes for expected bars missing from a bar chart, or other anomalies. Data 
+visualizations are a great way to check for data quality. Also, missingness in data may not be an error. 
+Missingness can be an important story in your data that you will want to highlight in your supporting 
+content. For example, data suppression due to HIPAA concerns with respect to protecting the privacy of 
+patients, can create missingness. Most organizations will implement a minimum small cell count. This is 
+something you will want to explain in a sidebar and/or FAQ. 
+Developing and Sharing Visualizations 
+It is a good idea to start designing your visualization on paper or using tools such Visio (for windows) or 
+Omnigraffle (for Mac) first, before jumping straight into development. This can save you time and 
+money overall because it is much easier to iterate on a design than it is to develop the solution. There 
+are some exceptions to this though. If your intended solution is a very simple data viz such as a bar chart 
+or a line graph, then many of these tools will allow you to explore and “play” with various visualizations. 
+For example, some tools will allow you to load your data into an X and Y axis and then browse 
+visualizations that it suggestsbasedonyour data. Be very careful with this feature though as it is easyto 
+make assumptions in what it is presenting you that are simply not factual. It can be a quick turn-around 
+solution if your data are simple, verifiable, and it fits your needs. 
+Health IT Advisor Handbook 
+Page 133

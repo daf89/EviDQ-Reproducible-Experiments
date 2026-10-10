@@ -1,0 +1,70 @@
+{
+    "experiment": "DEMARCHE_ENCAD3_CASE_STUDY_3",
+    "step": "04B_SHAP_DEVELOPMENT",
+    "creation_time": "2026-09-26T14:40:53.693340",
+    "input": {
+        "modeling_view_sha256": "a0f2090baf731f1064d4be63769c3e62bf875a517eb1389de9518e18893f20cb",
+        "model_ref_sha256": "0a7fea887b2742f0bd4830e9f0bbde801c9666bfc6f12b93d09fe0fc09992b99"
+    },
+    "methodological_role": {
+        "development_split": "VALIDATION",
+        "purpose": "official F_IMPORTANT selection",
+        "test_used_for_feature_selection": false,
+        "test_reserved_for_final_evaluation": true
+    },
+    "shap_protocol": {
+        "validation_rows": 103287,
+        "sample_size": 20000,
+        "sampling": "random_without_replacement",
+        "random_seed": 42,
+        "importance_metric": "mean_absolute_SHAP",
+        "selection_rule": "smallest cumulative SHAP set >= 90%",
+        "threshold": 0.9
+    },
+    "additivity_check": {
+        "tolerance": 1e-06,
+        "maximum_absolute_error": 7.958078640513122e-13,
+        "pass": true
+    },
+    "official_feature_selection": {
+        "n_total_features": 15,
+        "n_selected": 7,
+        "F_IMPORTANT": [
+            "PM2.5",
+            "PM10",
+            "WSPM",
+            "DEWP",
+            "CO",
+            "month",
+            "hour"
+        ],
+        "cutoff_rank": 7,
+        "cumulative_importance_at_cutoff_percent": 91.99436858418328
+    },
+    "data_quality_intervention": {
+        "missing_values_corrected": false,
+        "numerical_imputation": false,
+        "outliers_modified": false,
+        "measurements_corrected": false,
+        "rag_used": false,
+        "documentary_knowledge_used": false
+    },
+    "artifacts": {
+        "importance": {
+            "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\02_xai_ref\\development\\step04B_shap_dev_importance.csv",
+            "sha256": "415f3db2cb728251145eb450273432e505518c96aceb0076fdfe67221358e2c9"
+        },
+        "shap_values": {
+            "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\02_xai_ref\\development\\step04B_shap_dev_values.csv",
+            "sha256": "50489883ccf9bff44f2a739dae37c6ca29acab95bed57dff1b08b68c01409033"
+        },
+        "sample": {
+            "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\02_xai_ref\\development\\step04B_shap_dev_sample.csv",
+            "sha256": "7773b5bd6637f43c77702fae6c54d048ec7bbc5aae65dba78aef0e910e95f157"
+        },
+        "publication_table": {
+            "path": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_3_BEIJING\\results\\02_xai_ref\\development\\tables\\Table_STEP04B_SHAP_Development.csv",
+            "sha256": "07cf1d3cac90a8fd0322d2e8950b6fe8392abdefe6824b3aaf65c95221bf4ef4"
+        }
+    }
+}

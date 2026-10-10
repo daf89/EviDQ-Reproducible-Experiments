@@ -1,0 +1,29 @@
+5 
+but whose charges were not contained in the hospital bill (e.g., anesthesiologists, pathologists, 
+radiologists) were included in the MPC. 
+Many types of care provided to a person during a hospital stay are not included in the facility bill, 
+but are billed separately by individual providers. Many times, household respondents are not even 
+aware of the services provided. Therefore, in the MPC data collection all potential SBDs 
+associated with a hospital medical event are identified through medical records abstraction. Data 
+are collected for these SBDs separately from the hospital data collection. To avoid duplication, 
+SBDs identified by hospitals that had already been selected for the office-based physician sample 
+are not included in the SBD sample. SBD nodes2 are also categorized with a priority flag prior to 
+being fielded by the contractor. High priority nodes include those associated with an inpatient 
+stay for which the role was “active/providing direct care” (excluding radiology and pathology 
+specialty codes), and all nodes for which the specialty was surgery or anesthesiology. Medium 
+priority nodes include all other nodes associated with an inpatient stay, nodes for which the 
+specialty was radiology with an active role, and pathology codes with an active role (excluding 
+those pathology nodes with only pathology CPT codes), and all other nodes with an active role. 
+All other nodes are considered low priority. Over the course of a data collection cycle, AHRQ 
+directs the inclusion or exclusion of low priority nodes based on budget considerations. 
+Home Care Agencies 
+All home care agencies, hospitals, social service agencies, and other places identified as 
+providing paid home care services were included in the MPC. However, self-employed and 
+unpaid persons identified as providing home care were not considered in scope for the MPC. 
+Pharmacies and Other Sources of Prescribed Medicines 
+All pharmacies reported by HC respondents as places where they purchased or obtained 
+outpatient prescription medicines were included. “Pharmacies”—or sources of prescribed drugs— 
+included all establishments filling prescriptions for outpatient prescription drugs including but not 
+2 An SBD node is a unique combination of the following data elements which are specific to the original 
+hospital or institutional medical event: patient name, SBD provider name, dates(s) of service, location of 
+service (ER, inpatient, or outpatient), and the hospital or institution at which the services were delivered.

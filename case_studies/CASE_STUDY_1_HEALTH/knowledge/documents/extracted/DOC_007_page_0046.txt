@@ -1,0 +1,41 @@
+3.11.4 Managing hyperkalemia
+[No recommendations and practice points]
+3.11.5 Dietary considerations
+Practice Point 3.11.5.1: Implement an individualized approach in people with CKD G3–G5 and emergent hyperkalemia that
+includes dietary and pharmacologic interventions and takes into consideration associated comor-
+bidities and quality of life (QoL). Assessment and education through a renal dietitian or an accredited
+nutrition provider are advised.
+Practice Point 3.11.5.2: Provide advice to limit the intake of foods rich in bioavailable potassium (e.g., processed foods)
+for people with CKD G3–G5 who have a history of hyperkalemia or as a prevention strategy
+during disease periods in which hyperkalemia risk may be a concern.
+3.12 Anemia
+The KDIGO 2012 Clinical Practice Guideline for Anemia in Chronic Kidney Disease will be updated in 2024.437
+3.13 CKD-Mineral Bone Disorder (CKD-MBD)
+The Work Group highlights the KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and
+Treatment of Chronic Kidney Disease–Mineral and Bone Disorder (CKD-MBD).20 Please refer to this publication for speciﬁc
+recommendations, selection, dosing of speciﬁc therapeutic agents, and research recommendations.
+3.14 Hyperuricemia
+Recommendation 3.14.1: We recommend people with CKD and symptomatic hyperuricemia should be offered
+uric acid–lowering intervention (1C).
+Practice Point 3.14.1: Consider initiating uric acid–lowering therapy for people with CKD after their ﬁrst episode of gout
+(particularly where there is no avoidable precipitant or serum uric acid concentration is >9 mg/dl
+[535 mmol/l]).
+Practice Point 3.14.2: Prescribe xanthine oxidase inhibitors in preference to uricosuric agents in people with CKD and
+symptomatic hyperuricemia.
+Practice Point 3.14.3: For symptomatic treatment of acute gout in CKD, low-dose colchicine or intra-articular/oral glu-
+cocorticoids are preferable to nonsteroidal anti-inﬂammatory drugs (NSAIDs).
+Dietary approaches.
+Practice Point 3.14.4: Nonpharmacological interventions which may help prevent gout include limiting alcohol, meats, and
+high-fructose corn syrup intake.
+Recommendation 3.14.2: We suggest not using agents to lower serum uric acid in people with CKD and
+asymptomatic hyperuricemia to delay CKD progression (2D).
+3.15 Cardiovascular disease (CVD) and additional speciﬁc interventions to modify risk
+3.15.1 Lipid management
+The beneﬁts of lowering LDL cholesterol using statin-based therapies on the risk of ASCVD are well established in people with
+and without CKD. There are clear recommendations on when to initiate such therapies set out in the KDIGO Clinical Practice
+Guideline for Lipid Management in Chronic Kidney Disease.19 The Work Group concurs with all the recommendations in this
+guideline. In particular, we draw attention to:
+www.kidney-international.org
+summary of recommendation statements and practice points
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S161

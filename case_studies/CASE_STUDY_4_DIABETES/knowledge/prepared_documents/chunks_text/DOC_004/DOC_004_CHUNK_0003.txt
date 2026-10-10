@@ -1,0 +1,106 @@
+
+
+===== PDF PAGE 5 =====
+
+General data quality issues
+The most common validation issue was missing data, including lower-than-expected data volume, missing demographic or
+geographic information, and missing data on patients (Table 3). Several other idiosyncratic data quality issues included
+incomplete or incorrect mapping of source data values to value sets specified for the ESP data model, errors in source-data
+processing, incorrect zero values, and data on vital signs that did not connect with an encounter (referred to as “orphan”
+observations in MENDS).
+Low data volume. Two scenarios occurred with low data volume: 1) a site provided consistently lower-than-expected
+amounts of data compared with similar data feeds (corrected for population size) of other partners or 2) a sudden, dramatic
+drop in data volume. We found resolvable causes for most low data volume issues. For some data volume fluctuation, we
+could not identify specific errors. In such cases, data contributors were notified of the anomalies, and both the MENDS
+Coordinating Center and data contributors continue to monitor for a future clarification of the issue.
+Incomplete records. We found incomplete data for key variables across all sites to varying degrees. For example, 1
+contributor had missing or unknown race for 23% of patients. Discovery confirmed that this rate of missingness accurately
+reflected the data received from health systems, and thus no further actions were taken. Another contributor found that 5-
+digit zip codes were missing for roughly half its patients. Investigation confirmed that health systems do consistently collect
+and store 5-digit zip codes, but that the health system was not always sharing these data. The health system agreed to
+improve the data feed to the MENDS data contributor, and in subsequent updates, 5-digit zip code missingness decreased
+to 4%.
+Missing patients. Multiple data contributors could not find matching patient IDs in their MENDS database or source data
+during stage 3 validation. Investigation suggested that this issue occurred because of the methods used by MENDS
+contributors to make quarterly data updates. It is common, during such updates, to delete data previously extracted for
+MENDS and to generate a new extract containing historical and recent health data. The new data extract also includes
+newly issued internal identifiers for some or all patients, including those previously in the MENDS database, a deliberate
+strategy to limit the risk of re-identification. Therefore, patient IDs do not match from 1 cycle to the next, which limits the
+time available for validation to the period between case identification in ESP and the start of the next refresh cycle.
+In addition, as a result of the patient matching and deduplication efforts data contributors perform as part of their data
+management processes, the loss of 1 or both MENDS patient IDs may occur as records are merged. Merging duplicates
+improves quality of the source data but may result in mismatched patient IDs after data refresh cycles. Data contributors
+may also need to remove 1) individual patients, at the request of those patients or 2) all patients from a health system that
+has ended its data-sharing relationship with the data contributor.
+Although untraceable patient IDs can cause validation delays, they are not considered invalidating. To complete a validation
+review, missing patients can be replaced by using revised validation listings. To alleviate missing patient IDs, validation
+reviews should ideally be done in a timely fashion between refresh cycles.
+Condition-specific data quality issues
+Some validation issues were specific to the chronic disease indicators being validated. A common finding in the MENDS
+database was the presence of diagnostic codes, heights, weights, and blood pressure values not connected with an
+encounter, so-called “orphan” diagnostic codes or observations. Orphan observations are unexpected because diagnosis
+codes and vital signs are typically generated during clinical encounters. Orphan observations can arise from differences in
+how health systems define encounters in their EHRs or from clinical visits that do not generate an encounter, such as some
+virtual visits, telephone calls, or nonbillable visits. Stage 3 reviews also found blood pressure, height, and weight
+observations with nonmatching encounter dates and observation dates, despite having the same encounter ID.
+Observations and encounters can also become disjointed as the data move through multiple extractions.
+The discovery of orphan observations prompted the development of strategies to retain these data for condition
+determination by creating generic encounters based on available information (“dummy encounters”) and imputing an
+encounter date from the date of the orphan observation. Although this process allows orphan data to be retained, dummy
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+5/12
+
+
+===== PDF PAGE 6 =====
+
+Top
+encounters lack key contextual information such as care setting (eg, inpatient or outpatient). For hypertension, the condition
+algorithm was modified to exclude orphan observations that occurred on the same patient day as an inpatient encounter.
+Hypertension. Validation identified some biologically implausible blood pressure values. The hypertension algorithm was
+updated to exclude systolic blood pressures <30 mm Hg or >300 mm Hg, and diastolic blood pressures <20 mm Hg or
+>150 mm Hg (10). These changes supported more accurate counts of hypertension overall and improved detection of
+undiagnosed hypertension and status of hypertension control. In addition, a review of outlier blood pressure values
+suggested that many came from the inpatient setting. Because hospitalized patients are prone to very high and very low
+blood pressures owing to clinical circumstances unrelated to chronic hypertension, the hypertension algorithm was updated
+to exclude inpatient data. Similarly, orphan blood pressure observations collected on the same day as an inpatient
+encounter were considered to possibly reflect acute illness rather than the chronic state and thus were excluded.
+Smoking. The volume of smoking data was initially low, raising concerns about missing data. However, it was difficult to
+estimate missingness because smoking and tobacco use screening practices varied substantially across and within health
+care organizations. Investigation revealed that smoking data are often stored in multiple locations in the source data. The
+process to extract smoking data was revised (often multiple times) by each contributor to search for and incorporate
+smoking data from multiple locations in the source system. This change was particularly relevant for MENDS sites that
+contributed data via Consolidated Clinical Document Architecture (CCDA) because smoking data are also stored in multiple
+places within a CCDA. One data contributor that reprocessed CCDAs to look for tobacco information in multiple places
+identified an additional 900,000 smoking values — changing 100,000 records from never smoker to current smoker and
+leading to a notable increase in smoking prevalence in the population of this data contributor.
+In addition, large volumes of smoking data were stored without a date and, therefore, no time stamp could be attributed to
+those observations. Smoking data often reside in the EHR in a data domain known as social history, alongside other
+assessment-related information, and these data can have an unusual structure and relationship with the encounters
+recorded within the EHR. We opted not to use smoking data without a date, possibly leading to underestimation of smoking
+prevalence in some jurisdictions.
+Smoking status and tobacco use status are 2 distinct but related concepts, and health systems and clinics do not
+consistently differentiate them. Some screen for one but not the other, and some screen for both and record conflicting
+information. Stage 3 validation highlighted this difference and required MENDS to add fields for smokeless tobacco
+products and non–tobacco smoking substances. Some were not consistently using recommended value sets for smoking
+(11). For example, 1 data contributor had smoking response values of only “current smoker” and “passive smoker,” but not
+“never smoker” or “former smoker.” We were unable to resolve this source-data issue.
+Idiosyncratic data quality issues. Errors in source-data processing and mapping were identified throughout the validation
+process.
+For example, stage 1 validation includes generation of a frequency table of the most common diagnostic codes. It revealed
+that 1 data contributor used Systematized Nomenclature of Medicine (SNOMED) vocabulary (12) to store diagnostic codes.
+Initially, MENDS algorithms included diagnostic code value sets by using only International Classification of Diseases, 10th
+Revision, Clinical Modification  (ICD-10-CM) terminology. To resolve this issue, we created and applied a SNOMED to ICD-
+10-CM code map (13).
+One data contributor’s stage 2 validation showed a higher-than-expected proportion of patients identifying as Alaska
+Native. This unexpected proportion was due to incorrect mapping of race values from the source data and was resolved by
+correcting mapping assignments. Another data contributor found tens of thousands of zero values for heights and weights,
+resulting from errors in the processing of incoming clinical data (before the data were provided to MENDS). The data
+contributor corrected its inbound processing to resolve this issue.
+Stage 3 validation reviews of patients with obesity revealed that 1 data contributor was rounding heights and weights
+incorrectly. This finding was shared with the data contributor and corrected.
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+6/12

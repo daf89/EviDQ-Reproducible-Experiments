@@ -1,0 +1,16 @@
+﻿document_name,knowledge_type_normalized,n_items
+KDIGO-2024-CKD-Guideline.pdf,CORRECTION,1
+KDIGO-2024-CKD-Guideline.pdf,DETECTION,3
+KDIGO-2024-CKD-Guideline.pdf,GOVERNANCE,6
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,CORRECTION,9
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,DETECTION,25
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,ERROR,32
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,GOVERNANCE,46
+mr19.pdf,CORRECTION,24
+mr19.pdf,DETECTION,16
+mr19.pdf,ERROR,32
+mr19.pdf,GOVERNANCE,32
+mr32.pdf,CORRECTION,24
+mr32.pdf,DETECTION,16
+mr32.pdf,ERROR,24
+mr32.pdf,GOVERNANCE,78

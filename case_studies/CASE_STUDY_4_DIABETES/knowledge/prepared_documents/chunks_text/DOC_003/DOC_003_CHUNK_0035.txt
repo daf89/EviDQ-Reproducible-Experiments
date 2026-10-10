@@ -1,0 +1,111 @@
+
+
+===== PDF PAGE 69 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-18 
+WHO STEPS Surveillance 
+Adapting the STEPS Instrument, Continued 
+ 
+ 
+ 
+Question 
+Code 
+Standard wording 
+Guidance for adaptation 
+P10 
+Do you do any vigorous- 
+intensity sports, fitness or 
+recreational (leisure) activities 
+that cause large increases in 
+breathing or heart rate like 
+[running or football] for at least 
+? 
+• Add/modify examples as appropriate. 
+• Develop a show card that shows examples of 
+typical local vigorous-intensity activities 
+during leisure time (see example in Part 5, 
+Section 3). 
+P13 
+Do you do any moderate- 
+intensity sports, fitness or 
+recreational (leisure) activities 
+that cause a small increase in 
+breathing or heart rate such as 
+brisk walking [cycling, 
+swimming, volleyball] for at 
+? 
+• Add/modify examples as appropriate. 
+• Develop a show card that shows examples of 
+typical local moderate-intensity activities 
+during leisure time (see example in Part 5, 
+Section 3). 
+B5, 
+B8, 
+B16, 
+B17 
+Measurements of 
+• Fasting blood glucose 
+• Total cholesterol 
+• Triglycerides 
+• HDL cholesterol 
+• Choose if measurements will be reported in 
+mmol/l or in mg/dl. 
+ 
+Note: For further guidance and details about each item in the STEPS 
+Instrument, please see the Question-by-Question Guide in Part 5, Section 2. 
+ 
+ 
+Skip patterns 
+If the content of the Instrument has been adapted, you will need to review and 
+update all the skip instructions to ensure they are accurate. 
+ 
+Note: The skip instructions may look complicated on paper, however, skips 
+are performed automatically by the Android STEPS app. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 70 =====
+
+Part 2: Planning and Set Up 
+Section 1: Planning and Preparing a STEPS Survey 
+Last Updated: 26 January 2017 
+2-1-19 
+WHO STEPS Surveillance 
+Adapting the STEPS Instrument, Continued 
+ 
+ 
+ 
+Adapting 
+forms, 
+procedures and 
+show cards 
+Some forms, procedures and show cards may also require tailoring to ensure 
+local relevance. 
+ 
+The table below shows some common adaptations that may be required. 
+ 
+Item 
+What to adapt (or create) 
+Show Cards 
+Adapt (or create) examples used for: 
+• list of work status; 
+• tobacco products; 
+• standard drink sizes for alcohol consumption; 
+• local fruit and vegetables with standardized 
+servings; 
+• local foods that are high in salt; 
+• physical activities. 
+See Part 5, Section 3 for examples. 
+Interview Tracking 
+Form 
+May require adjustment according to variations in 
+sampling design. 
+ 
+Note: The Interview Tracking Form needs to be used during the interview 
+process. This form is needed to weight the data during data analysis. 
+ 
+ 

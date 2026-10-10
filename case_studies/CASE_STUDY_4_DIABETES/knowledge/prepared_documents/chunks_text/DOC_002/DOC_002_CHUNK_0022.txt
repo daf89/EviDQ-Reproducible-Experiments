@@ -1,0 +1,103 @@
+
+
+===== PDF PAGE 43 =====
+
+Indicators and metadata  ﻿
+31
+Method of 
+estimation (con't)
+2.	 Availability and quality of national civil registration and vital statistic systems 
+are assessed through submissions to the WHO mortality database. WHO 
+collects mortality data, including cause of death, from civil registration 
+systems in the WHO mortality database through a routine annual call for 
+data. Data quality is assessed through usability defined as percentage of all 
+deaths which are registered with meaningful cause-of-death information. The 
+system is considered to generate reliable cause-specific mortality data on a 
+routine basis if:
+	
+●
+Data from the five most recent reporting years are, on average, at least 
+70% usable. Usability is calculated as:
+[(Completeness (%))*(1- Deaths assigned to a garbage code (%)].
+	
+●
+At least 5 years of cause-of-death data have been reported to WHO in the 
+last 10 years.
+	
+●
+The most recent year of data reported to WHO is no more than 5 years old.
+The availability and quality of a diabetes surveillance system is validated 
+by examining documents that describe or evidence the existence of the 
+abovementioned essential components of a diabetes surveillance system.
+The indicator is considered “Yes” if the country has all the essential components 
+of a diabetes surveillance system.
+The indicator is considered “Partially yes” if the country has one or more, but not 
+all the essential components of a diabetes surveillance system.
+The indicator is considered “No” if the country has none of the essential 
+components of a diabetes surveillance system.
+Disaggregation
+Type of surveillance system components
+Sources of data
+NCD country capacity survey, other survey, country report
+Limitations/comments
+None
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+WHO Mortality Database. Geneva: World Health Organization; 2024 (https://
+platform.who.int/mortality, accessed 26 May 2024).
+Harmonized health facility assessment (‎HHFA)‎: comprehensive guide. 
+Geneva: World Health Organization; 2022 (https://apps.who.int/iris/rest/
+bitstreams/1487289/retrieve).
+Noncommunicable disease facility-based monitoring guidance: framework, 
+indicators and application (https://apps.who.int/iris/handle/10665/364379).
+WHO Noncommunicable disease surveillance, monitoring and reporting; 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+
+
+===== PDF PAGE 44 =====
+
+32
+Service delivery
+Subdomain
+Indicator
+Processes of care: 
+assessment of risk factors 
+for diabetes
+13.	Overweight and obesity assessment
+14.	Tobacco use assessment
+15.	Cardiovascular disease risk assessment
+16.	Hypertension screening
+Processes of care: 
+diagnosis
+17.	Diabetes diagnosis
+18.	Diabetic ketoacidosis at diagnosis
+Processes of care: 
+assessment of risk 
+factor for diabetes 
+complications
+19.	Blood glucose measurement
+Processes of care: 
+assessment of 
+complications
+20.	Retinopathy assessment 
+21.	Chronic kidney disease assessment 
+22.	Diabetic foot assessment
+Processes of care: 
+treatment 
+23.	Treatment with glucose-lowering medication
+24.	Insulin treatment 
+25.	Statin treatment
+26.	Treatment with blood pressure-lowering medication
+27.	Retinopathy treatment
+28.	Diabetic foot treatment
+General population. Population with diabetes.

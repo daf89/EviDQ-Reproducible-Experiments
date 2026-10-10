@@ -1,0 +1,19 @@
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S 
+Exhibit 4: Data Quality Improvement Plan Goal Setting Form 
+Graphic adapted with permission from the Practice Innovation Program at the University of Colorado. 
+Once initial data sources are identified and initial reports developed, a practice can be guided— 
+collaboratively—through steps to assure data accuracy. It is likely that initial reports will contain errors 
+due to erroneous patient attribution, inconsistent data entry into key EHR fields, and a variety of other 
+issues. Careful data cleaning is generally required. Chart audits to verify the accuracy of the data and to 
+determine why it might not be accurate are often very helpful. This entire process takes a great deal of 
+time and varies according to multiple factors, including the type of data being tracked, the EHR or other 
+data source being used, health IT resources within a practice and/or system, and many other variables. 
+[8, 24, 26] In addition, practices often must go through stages of a kind of grief – often including denial 
+and anger – before accepting that the data is a true reflection of the care being provided. 
+1.8 
+Monitoring Practice Adoption and Providing Ongoing Feedback 
+Once clean and trustworthy data are obtained, regular data reports can be used to monitor 
+implementation and improvement over time. These reports provide a picture of where the practice is 
+Health IT Advisor Handbook 
+Page 13

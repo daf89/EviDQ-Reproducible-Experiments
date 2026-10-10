@@ -1,0 +1,82 @@
+A P P E N D I X A : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G
+B L O C K S F O R P R I M A R Y C A R E
+A P P E N D I X B : H E A L T H I T C R O S S W A L K F O R T H E T E N B U I L D I N G 
+B L O C K S F O R P R I M A R Y C A R E 
+Building Block 
+Topic/Process 
+EHR Functionality 
+Data Driven 
+Improvement 
+Quality Monitoring and Improvement 
+Data for reporting 
+Allows for workflows that use discrete data 
+Data for decisions and 
+improvement 
+Accurate and robust reporting for CQMs, 
+clinical process and effectiveness measures 
+Internal data sharing 
+Reports can be built, managed, and viewed by 
+care team members 
+External data sharing 
+Reports and datasets are exportable, 
+interoperable with external partners; APIs 
+Robust Clinical Information Systems 
+Appropriate applications - EHR 
+Medication management, scheduling, 
+referral management, reporting, 
+CDS, computerized provider order entry 
+(CPOE) 
+Habitual data validity review -audit 
+Ability to audit data for integrity, validity, and 
+completeness 
+Standardized, Evidence Based Guidelines 
+Standing orders 
+Order sets 
+CDS 
+CDS 
+Empanelment 
+Management of Patient Panels 
+Assignation of patients to a 
+particular clinician 
+Comprehensive assignment and tracking of 
+patient/caregiver relationships 
+Workload balancing across care 
+team 
+Identify high risk patients; dynamic scheduling 
+Team Based Care 
+Patient Centered care team 
+Data supports action 
+Populate care plan 
+Clinician/Care Team Engagement 
+Access to standardized forms 
+Make forms/care plan/encounter summary 
+accessible to the entire care team 
+Communication tools for use with 
+colleagues 
+Direct Secure Messaging 
+Usability of clinical information 
+technology 
+Produces lists of problems, diagnoses, 
+allergies, interventions (labs, tests) 
+Patient-Team 
+Partnership 
+Excellent Experience of Care 
+Patient satisfaction 
+Patient access to manage information: results, 
+schedule, encounter summary via patient 
+portal and messaging 
+Patient and Caregiver Relationship Management 
+Patient education 
+Patient access to relevant, reliable, culturally 
+sensitive, and linguistically appropriate online 
+educational resources; 
+Patient communication 
+Secure messaging; Patient Portal 
+Patient engagement/self
+management 
+Incorporates patient generated data and/or 
+data from other caregivers; APIs to connect to 
+a patient's preferred health record and other 
+provider portals 
+Health IT Advisor Handbook 
+Page 122

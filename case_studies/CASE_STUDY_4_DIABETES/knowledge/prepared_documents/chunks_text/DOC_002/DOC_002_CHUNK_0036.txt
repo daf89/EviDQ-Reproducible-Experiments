@@ -1,0 +1,65 @@
+
+
+===== PDF PAGE 71 =====
+
+59
+Outcomes and impacts
+Subdomain
+Indicator
+Morbidity
+36.	Diabetes prevalence
+37.	Hospitalization for diabetes
+38.	Cardiovascular disease
+39.	Blindness 
+40.	End-stage kidney disease
+41.	Lower-extremity amputation
+Mortality
+42.	Cardiovascular disease mortality rate
+43.	Diabetes mortality rate
+44.	Probability of premature mortality from noncommunicable diseases
+General population. Population with diabetes.
+
+
+===== PDF PAGE 72 =====
+
+60
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+36. 	Diabetes prevalence
+Indicator name
+Diabetes prevalence
+Purpose
+To measure outcome of diabetes prevention interventions.
+Definition
+Proportion of people aged 18 years and over with raised blood glucose or on 
+medication for diabetes. 
+Raised blood glucose criteria:
+	
+●
+FPG ≥ 126 mg/dl (7 mmol/L); or
+	
+●
+HbA1c ≥ 6.5% (48 mmol/mol).
+Numerator
+Number of respondents aged 18 years and over with raised blood glucose or on 
+medication for diabetes. 
+Denominator
+Total number of respondents aged 18 years and over.
+Method of estimation
+Numerator ÷ denominator × 100
+Disaggregation
+Where possible and applicable, individual characteristics such as age, sex, race/
+ethnicity, comorbidity status, high-risk groups, socioeconomic status, residence 
+type (urban/rural), and health insurance type.
+Sources of data
+Nationally or sub-nationally representative population-based surveys, with 
+blood glucose measurements and a questionnaire, which investigates receiving 
+medicines for diabetes.
+Limitations/comments
+For any comparison over time with other populations, age 
+standardization is needed.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+STEPwise approach to NCD risk factor surveillance (STEPS) [website]. 
+Geneva: World Health Organization; 2024 (https://www.who.int/teams/
+noncommunicable-diseases/surveillance/systems-tools/steps, accessed 
+26 May 2024).

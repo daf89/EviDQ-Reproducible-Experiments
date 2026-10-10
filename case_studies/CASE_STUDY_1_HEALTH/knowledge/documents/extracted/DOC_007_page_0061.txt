@@ -1,0 +1,135 @@
+excretory function but is widely accepted as the best overall
+index of kidney function because it is generally reduced after
+widespread structural damage and most other kidney func-
+tions decline in parallel with GFR in CKD.
+In this section, we describe the overall approach for the
+evaluation of GFR. As in the previous KDIGO Clinical
+Practice Guideline for the Evaluation and Management of
+Chronic Kidney Disease,1 the ﬁrst method to evaluate GFR
+should be eGFRcr. If necessary for greater accuracy, the
+approach then recommends subsequent supportive tests
+from either the more accurate eGFRcr-cys or measurement
+of GFR using urinary or plasma clearance of exogenous
+ﬁltration markers. In contrast to the previous guideline, we
+emphasize the use of eGFRcr-cys based on accumulating
+evidence for its greater accuracy across populations and the
+use of mGFR given the known residual errors in all
+estimating
+equations.
+We
+also
+describe
+laboratory
+techniques and standards that satisfy the requirements for
+robust result reporting. We encourage healthcare providers
+to have a clear understanding of the value and limitations
+of both ﬁltration markers and mGFR, the importance of
+standardization of assays for creatinine and cystatin C, and
+quality control procedures for exogenous markers. Finally,
+we
+describe
+currently
+available,
+validated
+estimating
+equations that can be used for the reporting of GFR by
+clinical laboratories.
+1.2.1 Other functions of kidneys besides GFR
+Practice Point 1.2.1.1: Use the term “GFR” when referring
+to the speciﬁc kidney function of glomerular ﬁltration. Use
+the more general term “kidney function(s)” when dealing
+with the totality of functions of the kidney.
+The kidneys play several roles in the body, including
+metabolism and excretion of substances, volume and BP
+regulation, erythropoietin production, and regulation of
+electrolytes,
+acid-base
+status,
+and
+mineral
+homeostasis.
+Glomerular ﬁltration is one of many functions of the kidney.
+GFR is considered the best overall assessment of kidney
+functions as, in general, losses of these other functions
+correlate with the loss of GFR. The term “kidney function”
+reﬂects the entirety of different and complex physiological
+functions of the kidney; thus, kidney function should not be a
+term used interchangeably with GFR.
+Assessment of the overall functions of the kidney is a
+complex task. GFR is used as the primary tool to assess kidney
+function in practice. Loss of other kidney functions are
+known as complications of CKD and are addressed in
+Chapter 3. This section focuses on how GFR can be evaluated
+using both mGFR and eGFR.
+Special considerations
+Pediatric considerations. There are numerous kidney dis-
+orders in children that may present with tubular dysfunction
+(e.g., Bartter’s and Dent disease) rather than decreased GFR
+or albuminuria. These primarily result in polyuria and/or
+electrolyte disturbances and may or may not progress to
+reduced GFR or kidney failure. Thus, the exclusive use of GFR
+in diagnosing CKD would not be of value in children, high-
+lighting the importance of appreciating different markers
+linked to different kidney functions.
+1.2.2 Guidance to physicians and other healthcare providers
+We describe a framework for evaluation of GFR beginning
+with an initial test and followed by additional supportive tests
+(Figure 11, Tables 7 and 8127–142).
+Figure 11 depicts an algorithm for evaluation of GFR from
+initial test using eGFRcr, followed by decisions for when to
+perform supportive tests such as cystatin C or mGFR
+(Tables 7 and 8). Healthcare providers should consider both
+potential sources of error in eGFR as well as whether the
+clinical decision requires a highly accurate GFR when
+considering the need for additional tests. The level of
+accuracy that is needed for a clinical decision for the use of
+potentially toxic medications, a medication with a narrow
+therapeutic window, or for other therapies with potential
+for adverse events, may exceed the capability of any eGFR
+equation, and in such cases, mGFR should be performed.
+This assessment would ideally be performed every time a
+GFR value is used to make a clinical decision.
+Practice Point 1.2.2.1: Use serum creatinine (SCr) and
+an estimating equation for initial assessment of GFR
+(Figure 11).
+There are no RCTs to quantify the impact for the use of
+less accurate methods versus more accurate methods of
+assessment of GFR. For most clinical circumstances, esti-
+mating GFR from SCr is appropriate for diagnosis, staging,
+and monitoring the progression of CKD, and observational
+data documented an increase in CKD recognition and referral
+to nephrologists shortly after the implementation of reporting
+of eGFR by clinical laboratories, especially for females and
+elderly people.143–145 GFR is used in many routine and
+complex clinical decisions as an assessment of excretory
+kidney function (Table 4) to detect and stage AKD and CKD,
+determine CKD progression, dose medications, determine
+appropriate use of diagnostic tests, and guide treatment
+decisions around KRT therapies. Equations are available
+that estimate GFR using SCr and adjusting for sex and age,
+and
+professional
+societies
+throughout
+the
+world
+have
+recommended
+that
+GFR estimates
+should
+be
+used
+in
+association with SCr reporting. Sources of error in GFR
+estimation from SCr concentration include non–steady-state
+conditions, non-GFR determinants of SCr, measurement
+error at higher GFR, and interferences with the creatinine
+assays. GFR estimates are less precise at higher GFR levels
+than at lower levels, and healthcare providers should remain
+aware of caveats for any estimating equation that may
+inﬂuence the accuracy in an individual person.
+chapter 1
+www.kidney-international.org
+S176
+Kidney International (2024) 105 (Suppl 4S), S117–S314

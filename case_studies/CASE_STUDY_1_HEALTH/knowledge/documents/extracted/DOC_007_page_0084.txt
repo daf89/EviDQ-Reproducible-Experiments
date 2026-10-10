@@ -1,0 +1,180 @@
+provider
+subjective
+estimation
+of
+risk.404
+Several
+risk
+prediction tools have been developed speciﬁcally for people
+with
+CKD,
+and
+when
+implemented,
+allow
+healthcare
+providers to more precisely estimate risk for individual
+people for speciﬁc outcomes, which supports a deeper
+personalization
+of
+CKD
+management.405,406
+Besides
+improving individual risk prediction, these tools may be
+used to more effectively use specialized and often scarce,
+nephrology resources, identify people for earlier use of
+disease-modifying
+therapy,
+or
+enable
+personalized
+discussions of overall goals of care. Importantly, some of
+the
+developed
+prediction
+models
+have
+been
+externally
+validated in multiple populations, have high discrimination
+performance (C-statistics >0.8 or higher), and are easily
+used via online calculators (Table 199,10,407–411).
+Recommendation 2.2.1: In people with CKD G3–G5,
+we recommend using an externally validated risk
+equation to estimate the absolute risk of kidney
+failure (1A).
+This recommendation places a high value on the need and po-
+tential beneﬁts for individual risk prediction to deliver person-
+alized care for people with CKD. The recommendation is worded
+to encourage healthcare providers, patients, researchers, and
+policy makers to go beyond broad categories of RR for popula-
+tion and to estimate the absolute risk of outcomes for each in-
+dividual. The recommendation also places a high value on
+externally validated prediction equations that can be applied in
+diverse healthcare settings and the need for implementation
+science in laboratory information systems and EMRs to enable
+the delivery of risk-based care for people with CKD.
+Key information
+Balance of beneﬁts and harms. There is a large body of
+evidence to support the use of the validated risk equations to
+estimate the absolute risk of kidney failure requiring dialysis
+or transplant in people with CKD G3–G5. Risk equations
+using routinely collected data have been developed, externally
+validated, and implemented in labs, EMRs, and health
+systems.408,412,413
+with eGFR <60 ml/min/1.73 m2 (N=350,232)
+Kidney failure replacement therapy risk among patients
+b
+a
+Risk of 40% decline in eGFR among patients
+with eGFR >15 ml/min/1.73 m2 (N=1,365,272)
+CKD categories substantially overlapping multiple risk ranges
+Nearly all CKD categories substantially overlap multiple risk ranges
+CKD
+stage
+G3aA1 G3bA1 G4A1
+G3aA1G3bA1 G4A1
+G1A1 G2A1
+G1A2 G2A2
+G1A3 G2A3
+G5A1 G3aA2 G3bA2
+G3aA2G3bA2
+G4A2
+G4A2
+G5A2 G3aA3 G3bA3 G4A3
+G3aA3 G3bA3 G4A3
+G5A3
+2-year risk of KFRE (%)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Risk of eGFR 40% decline (%)
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Referral thresholds
+20%–40%: dialysis access/transplant
+>10%: multidisciplinary care
+>2%: nephrology
+Thresholds
+>10%: maximize therapy
+>5%: consider multiple medications
+>1%: optimize medications
+Figure 14 | (a) Predicted risk of kidney failure and (b) ‡40% decline in estimated glomerular ﬁltration rate (eGFR) by chronic kidney
+disease (CKD) eGFR (G1–G5) and albumin-to-creatinine ratio (ACR) (A1–A3) categories in Optum Labs Data Warehouse. The lines show
+potential thresholds for clinical decisions. KFRE, Kidney Failure Risk Equation. Reproduced from (a) Chen TK, Hoenig MP, Nitsch D, et al.
+Advances in the management of chronic kidney disease. BMJ. 2023;383:074216401; (b) Grams M, Sang Y, Ballew S, et al. TH-PO890. Risk
+prediction: CKD staging is the beginning, not the end. J Am Soc Nephrol. 2022;33:301.402
+Table 19| Externally validated risk equations for predicting kidney failure in the general (CKD G3–G5) population
+Equation
+Variable
+Population
+Outcome
+(time horizon)
+Discrimination
+and calibration Usability
+KFRE9,10,407,408
+www.kidneyfailurerisk.com
+www.ckdpc.org/risk-
+models.html
+Age, sex, eGFR, ACR (4 variable) þ
+calcium, phosphate, bicarbonate,
+and albumin (8 variables)
+>1 million patients, >100,000
+events from more than
+30 countries
+Treated kidney
+failure (2–5 yr)
+0.88–0.91/þ
+þ
+KPNW410
+Age, sex, eGFR, albuminuria,
+systolic BP, antihypertensive use,
+diabetes, and diabetes
+complications
+39,013 patients, 1097 events
+from the Kaiser Permanente
+Health System (United States)
+Kidney failure
+(5 yr)
+0.95/þ
+þ
+Landray et al.411
+Sex, SCr, albuminuria, and
+phosphate
+595 patients, >190 events from
+the CRIB and East Kent cohorts
+in the United Kingdom
+Kidney failure
+0.91/þ
+–
+Z6 score409
+SCr, albumin, cystatin C, urea,
+hemoglobin, and ACR
+7978 patients, 870 events—developed
+in the German CKD study, validated
+in 3 additional European cohorts
+Kidney failure
+(5 yr)
+0.89–0.92/þ
+–
+ACR, albumin-to-creatinine ratio; BP, blood pressure; CKD, chronic kidney disease; CRIB, chronic renal impairment in Birmingham; eGFR, estimated glomerular ﬁltration rate;
+KFRE, Kidney Failure Risk Equation; KPNW, Kaiser Permanente Northwest; SCr, serum creatinine.
+www.kidney-international.org
+chapter 2
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S199

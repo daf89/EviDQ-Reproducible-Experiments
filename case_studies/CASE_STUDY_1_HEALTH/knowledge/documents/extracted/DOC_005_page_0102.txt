@@ -1,0 +1,75 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+102
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-01 Les équipes respectent les bonnes 
+pratiques d’identification du patient à toutes les étapes 
+de sa prise en charge
+L’identification fiable et unique du patient à toutes les étapes de sa prise en charge et à chaque venue permet 
+de relier toutes les données relatives à une personne et de délivrer l’acte prescrit à la bonne personne 
+entre le bénéficiaire, la prescription de l’acte et les traitements médicaux. L’utilisation de l’Identité Nationale 
+de Santé (INS) pour référencer les données de santé est obligatoire depuis le 1er janvier 2021. Elle est 
+constituée du Numéro d’Identification au Répertoire des personnes physiques ou Numéro Identifiant Attente 
+de l’individu pour les personnes nées à l’étranger, et des cinq traits INS : nom de naissance, prénom(s) de 
+naissance, date de naissance, sexe, lieu de naissance (Code INSEE). Avant une première utilisation, l’INS 
+doit être qualifiée par appel au téléservice INSi. La vigilance de tous les acteurs permet de maîtriser le risque 
+d’erreur. Les équipes informent le patient qu’à chacune des étapes de sa prise en charge, la concordance 
+entre son identité, ses prescriptions et les actes fera l’objet d’une vérification et elles l’impliquent autant que 
+possible dans cette procédure de sécurité. Les personnels habilités sont formés à la qualification de l’INS. 
+Les personnels administratifs et les professionnels de santé sont formés à la surveillance et à la prévention 
+des erreurs d’identification. Avant tout acte, ils vérifient la concordance L’identitovigilance permet de limiter 
+le risque d’erreurs potentiellement graves liées à une mauvaise identification (erreur de site opératoire, 
+erreur de traitement, erreurs de résultats de laboratoire…).
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• Les lieux où s’effectue l’identification des patients, 
+ainsi que les acteurs impliqués dans la qualification 
+de l’identification sont connus.
+• Les équipes savent contacter les référents de la cellule 
+d'identitovigilance en cas de doute de l'unicité d'un 
+dossier patient.
+• S'il persiste des documents papier du dossier du 
+patient, la bonne identification du patient est reportée 
+sur tous éléments du dossier papier.
+Parcours traceur
+ Observations 
+• Le patient dispose d’un dispositif d’identification 
+(bracelet ou toute autre alternative à son identification 
+dans le respect de la confidentialité et de sa dignité) 
+qui est systématiquement vérifié au cours des examens 
+complémentaires ou actes thérapeutiques.
+Observation
+Fiches pédagogiques
+Évaluation de la gestion des risques et des 
+vigilances.
+Évaluation de l'activité Greffe par prélèvement 
+d'organes et de tissus sur donneur décédé.
+Prise en charge des situations sanitaires 
+exceptionnelles.
+Évaluation de l’accès aux données de santé : 
+dossier patient & « Mon espace santé ».
+Références HAS
+Mettre en œuvre la gestion des risques
+associés aux soins en établissement
+de santé. Des concepts à la pratique, 2012.
+Références légales 
+et réglementaires
+• Art. R. 1112-3 du CSP.
+• Référentiel national d’identitovigilance – mise 
+en œuvre de l’identitovigilance dans les 
+établissements de santé – Réseau des 
+référents nationaux d’identitovigilance, juin 
+2022.
+• Référentiel national d’identitovigilance – 
+Identitovigilance en établissement de santé – 
+Réseau des référents nationaux 
+d’identitovigilance, juin 2022.
+• Article L1111-8-1 - Code de la santé 
+publique.
+• Arrêté du 27 mai 2021 portant approbation 
+des modifications apportées au référentiel « 
+Identifiant national de santé ».

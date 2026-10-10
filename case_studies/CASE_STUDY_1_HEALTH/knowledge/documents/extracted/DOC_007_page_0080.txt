@@ -1,0 +1,98 @@
+KRT or receiving end-of-life care. Studies addressed the
+following critical outcomes: measurement bias (n ¼ 1),
+analytical variability (n ¼ 5), analytical sensitivity (n ¼ 2),
+and analytic speciﬁcity (n ¼ 63) (Supplementary Table
+S5336,347,363,372,373,377,382–384). Speciﬁcity ranged from 17.5 to
+99.5 when evaluative ACR $30 mg/g ($3 mg/mmol) and
+30.0–98.7 when evaluative ACR $300 mg/g ($30 mg/
+mmol). For PCR, speciﬁcity ranged from 80.8–96.9 when
+evaluative PCR >200 mg/g (>20 mg/mmol) and 75.6–95.2
+when evaluative PCR >500 mg/g (>50 mg/mol).
+The evidence regarding the performance of POCT for
+creatinine and urine albumin is heterogeneous limiting the
+determination of overall ﬁndings across these critical out-
+comes. However, given the cost-effectiveness beneﬁts, avail-
+ability of the test in the absence of laboratory studies, and the
+acceptable test performance, the Work Group judged that in
+speciﬁc clinical scenarios, POCT should be used.
+Certainty of evidence. The certainty of evidence for POCT
+for creatinine testing was rated as low due to consistent
+reporting of reference standards across all outcomes, with
+some concerns regarding patient selection and ﬂow and
+timing and directness of the evidence. The certainty of evi-
+dence regarding performance of all POCT for urine albumin
+was very low based on the Quality Assessment of Diagnostic
+Accuracy Studies (QUADAS-2) assessment of individual
+studies due to sparse data, heterogeneous ﬁndings, and con-
+cerns about patient selection, index tests, and unclear
+reporting of the reference standards.
+Values and preferences. The recommendation suggested
+that the majority of people with CKD who have limited access
+to laboratories would choose to use POCT. These tests may
+facilitate people with CKD being seen at home or in remote
+settings. Many people with CKD will value the immediate
+results available with POCT versus waiting for the tests from a
+lab. In addition, some people with CKD will place a higher
+value on avoiding expensive lab tests that may not be covered
+by their insurance, difﬁcult travel to central healthcare facil-
+ities, and exposure to infection risk in hospital. These people
+with CKD may also place a lower value on the potential
+inaccuracies associated with POCTs compared with in-center
+laboratory testing.
+Resource use and costs. For people with CKD, the use of
+POCTs may be less expensive than tests conducted in a
+clinical laboratory. In areas with limited access to healthcare
+and insurance, these tests may be cost saving and increase the
+detection for CKD.385,386 For the healthcare system, some
+direct reagent and staff costs of POCT tend to be higher on
+a per test basis than those of centralized laboratory testing,
+but these costs may be offset by other savings in the clinical
+pathway, for example, through more rapid disease detection
+or avoidance of hospital referral.
+Considerations for implementation. POCTs may not be
+available everywhere. Support from the local laboratory ser-
+vice should be sought to guide the purchase, evaluation,
+implementation, governance, and ongoing quality assurance
+of POCT. The ability to test creatinine in a person’s home may
+have applicability to “virtual ward” settings (hospital at
+home).
+It is worth noting that for albuminuria testing, the Na-
+tional Academy of Clinical Biochemistry has proposed that
+devices should have 95% sensitivity for the detection of
+albuminuria.312 This is not always achieved by POCT devices,
+especially those that produce semiquantitative results.318
+Rationale
+POCT can be carried out in a wide range of settings including
+primary care, community clinics, rural communities, and
+secondary care supporting timely diagnosis, monitoring, and
+treatment. Importantly, in locations where laboratory services
+may be limited or nonexistent (e.g., rural and remote com-
+munities), the ability to test versus not testing blood and
+urine was important. Advantages of POCT include conve-
+nience, elimination of sample transportation to the central
+laboratory, minimal sample processing because the analysis is
+of whole blood/urine, simple analytic process, minimal
+sample requirement, and immediate availability of results.
+However, these tests may be prone to errors and inaccuracies.
+For these reasons, the recommendation suggests the use of
+these tests based on the speciﬁc clinical need or geographical/
+social circumstances.
+Use of POCT may facilitate access to earlier diagnosis and,
+thus, care and can be implemented in rural and remote lo-
+cations. The value of POCT for currently underserved pop-
+ulations cannot be overstated and should include the capacity
+for generating creatinine-based eGFR equations. The POCT
+devices used would ideally measure both blood creatinine and
+urine for albumin and creatinine to measure ACR and be
+standardized and calibrated with similar rigor as is recom-
+mended for laboratory tests.
+Special considerations
+Pediatric considerations. The ability to use a small sample
+volume, ﬁngerprick sample as opposed to venipuncture, may
+have applicability to testing in children.
+For research recommendations, please see Chapter
+6: Research recommendations.
+www.kidney-international.org
+chapter 1
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S195

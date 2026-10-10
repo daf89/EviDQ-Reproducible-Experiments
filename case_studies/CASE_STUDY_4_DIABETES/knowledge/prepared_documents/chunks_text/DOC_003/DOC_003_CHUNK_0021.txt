@@ -1,0 +1,165 @@
+
+
+===== PDF PAGE 41 =====
+
+Part 1: Introduction and Roles 
+Section 2: Roles and Responsibilities 
+Last Updated: 26 January 2017 
+1-2-6 
+WHO STEPS Surveillance 
+Data Collection Team 
+ 
+ 
+ 
+Introduction 
+The data collection team undertakes a core function in a STEPS survey and 
+includes all those who have been recruited for survey data collection. 
+ 
+The data collection team usually consists of 
+• field team supervisors 
+• interviewers 
+• Step 3 data collectors 
+• drivers 
+• administrative staff. 
+ 
+It is recommended these staff be organized in field teams. A field team 
+usually includes one supervisor, two to three interviewers, one Step 3 data 
+collector, and one driver. 
+ 
+Hiring good interviewers and other field personnel is crucial to successful 
+data collection. The quality of data collection and the survey results depend 
+on the consistency and quality of these workers. Training the staff is  
+therefore a major undertaking. 
+ 
+ 
+Field team 
+supervisor’s 
+roles 
+The core roles of a field team supervisor are listed in the table below. They 
+are further specified in Part 3, Section 3. 
+ 
+Role 
+Description 
+1 
+Obtaining and preparing household lists and maps for each area, or 
+other lists to be used as the sampling frame, data collection forms, 
+devices for data collection, supplies and equipment, and 
+distributing them to data collectors 
+2 
+Coordinating logistics and assigning interviewers to households in 
+each cluster or primary sampling unit 
+3 
+Making travel arrangements for data collectors 
+4 
+Informing local authorities about the survey 
+5 
+Supervising the interview process and recording daily activities 
+6 
+Ensuring data quality 
+7 
+Ensuring regular submission of the data to the server 
+8 
+Managing human resource performance and issues 
+9 
+Sending regular progress reports to STEPS Survey Coordinator 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 42 =====
+
+Data Collection Team, Continued 
+Part 1: Introduction and Roles 
+Section 2: Roles and Responsibilities 
+Last Updated: 26 January 2017 
+1-2-7 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Skills and 
+attributes 
+The field team supervisor should have the following skills and attributes: 
+ 
+• ability to work with teams and motivate people; 
+• well-organized and efficient in planning STEPS activities; 
+• ability to mobilize multiple teams over a short period to complete data 
+collection; 
+• experienced in health population-based surveys; 
+• good understanding of the philosophy and objectives of the global STEPS 
+risk factor surveillance process. 
+ 
+ 
+ 
+Interviewer’s 
+roles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skills and 
+attributes 
+The interviewers are all those who have been trained to conduct the survey in 
+the household setting using Step 1, and take physical measurements for Step 2 
+of the STEPS Instrument. They may also undertake Step 3 measurements, if 
+required. 
+The core roles of an interviewer include: 
+ 
+Task 
+Description 
+✓ 
+1 
+Approach selected households. 
+2 
+Brief household members on purpose of the survey. 
+3 
+Select a participant from all eligible members within a 
+selected household using the Android Device. 
+4 
+Record information on the Interview Tracking Form. 
+5 
+Inform the selected participant using the Participant 
+Information Form and obtain written consent. 
+6 
+Conduct the interview and record results for Step 1. 
+7 
+Take measurements and record results for Step 2. 
+8 
+Fill in Participant Feedback Form on results of Step 2 
+measurements for the participant. 
+9 
+Make appointment for Step 3 (if consent given), provide 
+instructions for correct collection of urine sample and inform 
+participant on correct method of fasting. 
+10 
+Report any difficulties to supervisor. 
+ 
+ 
+Interviewers should have the following general skills and attributes: 
+• good oral and written communication skills 
+• friendly manner and patience 
+• good attention to detail. 
+ 
+Continued on next page 

@@ -1,0 +1,324 @@
+CKD staging by eGFRcr-cys and ACR and risk for adverse
+events
+Within the CKD-PC collaboration, 720,736 individuals had
+measures of blood cystatin C in addition to having eGFRcr
+and ACR. The replacement of eGFRcr with eGFRcr-cys in the
+heatmap led to several changes in the risk distributions. Most
+notably, the groups with eGFR category 45–59 ml/min per
+1.73 m2 and ACR <10 mg/g [<1 mg/mmol] were moved to
+eGFRcr-cys
+<10
+10–29
+30–299
+300+
+<10
+10–29
+30–299
+105+
+90–104
+60–89
+45–59
+30–44
+<30
+105+
+90–104
+60–89
+45–59
+30–44
+<30
+105+
+90–104
+60–89
+45–59
+30–44
+<30
+105+
+90–104
+60–89
+45–59
+30–44
+<30
+105+
+90–104
+60–89
+45–59
+Urine albumin-creatinine ratio, mg/g
+Urine albumin-creatinine ratio, mg/g
+All-cause mortality: 11 cohorts
+692 802 participants; 97 006 events
+Myocardial infarction: 10 cohorts
+649 365 participants; 17 926 events
+Kidney failure with replacement therapy: 5 cohorts 
+630 370 participants; 4306 events
+Heart failure: 9 cohorts
+641 298 participants; 27 406 events
+Cardiovascular mortality: 11 cohorts
+692 322 participants, 25 322 events
+Stroke: 9 cohorts
+662 605 participants; 16 909 events
+Acute kidney injury: 5 cohorts
+630 370 participants; 24 062 events
+607 102 participants; 37 278 events
+Hospitalization: 3 cohorts
+630 489 participants; 464 894 events
+Peripheral artery disease: 6 cohorts
+642 624 participants; 3943 events
+30–44
+<30
+300+
+1.0
+1.3
+1.6
+2.5
+0.9
+1.2
+1.4
+2.8
+ref
+1.3
+1.5
+2.0
+ref
+1.2
+1.4
+1.8
+1.2
+1.5
+1.9
+2.5
+1.2
+1.4
+1.5
+1.9
+1.7
+2.2
+2.5
+3.3
+1.6
+1.9
+2.3
+3.3
+2.3
+2.6
+3.4
+4.4
+2.1
+2.6
+3.1
+3.3
+3.6
+4.0
+5.5
+7.1
+5.1
+3.0
+4.9
+5.0
+1.0
+1.4
+1.8
+4.1
+1.0
+1.2
+1.6
+2.5
+ref
+1.5
+1.6
+2.9
+ref
+1.2
+1.5
+2.3
+1.2
+1.7
+2.3
+3.4
+1.2
+1.4
+1.8
+2.5
+1.9
+2.7
+3.2
+4.6
+1.6
+1.7
+2.1
+2.7
+2.5
+3.5
+4.5
+5.9
+1.7
+2.0
+2.3
+2.6
+5.8
+5.0
+6.1
+8.7
+1.9
+2.3
+2.8
+4.4
+0.6
+0.8
+2.3
+10
+0.9
+1.2
+1.7
+3.7
+ref
+1.5
+4.5
+11
+ref
+1.3
+1.4
+2.5
+1.9
+3.7
+8.3
+31
+1.2
+1.6
+1.9
+3.0
+5.8
+13
+25
+73
+1.5
+2.2
+3.0
+4.1
+20
+23
+78
+191
+2.5
+2.9
+4.1
+5.7
+111
+261
+343
+580
+5.3
+4.8
+6.5
+7.7
+0.8
+1.0
+1.4
+3.5
+0.9
+1.0
+1.1
+1.9
+ref
+1.3
+1.7
+2.8
+ref
+1.2
+1.4
+2.2
+1.6
+2.5
+2.9
+5.3
+1.1
+1.3
+1.5
+2.0
+3.9
+4.7
+5.5
+7.5
+1.3
+1.6
+1.8
+2.2
+5.8
+7.0
+8.4
+10
+1.6
+2.0
+2.2
+2.5
+11
+12
+12
+21
+2.0
+2.0
+2.7
+4.4
+1.0
+1.1
+1.1
+1.6
+0.9
+1.9
+1.8
+2.9
+ref
+1.1
+1.3
+1.4
+ref
+1.5
+2.0
+3.2
+1.1
+1.2
+1.3
+1.6
+1.3
+1.8
+2.1
+3.9
+1.3
+1.4
+1.5
+1.7
+2.5
+3.7
+3.3
+4.0
+1.5
+1.5
+1.6
+2.1
+4.0
+3.7
+4.5
+6.9
+1.8
+2.0
+2.1
+3.0
+7.8
+4.5
+9.0
+12
+Figure 6 | Associations of chronic kidney disease (CKD) staging by estimated glomerular ﬁltration rate by creatinine and cystatin C
+(eGFRcr-cys) and albumin-to-creatinine ratio categories and risks for 10 common complications in multivariable-adjusted analyses.
+Numbers reﬂect the adjusted hazard ratio compared with the reference cell. Adjustment variables included age, sex, smoking status (current,
+former, or never), systolic blood pressure, total cholesterol, high-density lipoprotein cholesterol, body mass index, use of antihypertensive
+medications, and a medical history of diabetes, coronary heart disease, stroke, heart failure, atrial ﬁbrillation, peripheral artery disease, cancer,
+and chronic obstructive pulmonary disease, where relevant. The colors were determined for each outcome separately using the following rule:
+the percentile shaded the darkest green color corresponds to the proportion of cells in the grid without CKD (e.g., 6 of 24 cells), and the
+percentile shaded the darkest red color corresponds to proportion expected to be at highest risk (e.g., 5 of 24 cells). In this manner, the numbers
+of green and red cells are consistent across outcomes, but the patterns are allowed to differ. ref, reference cell. Reproduced with permission
+from JAMA, Writing Group for the CKD Prognosis Consortium; Grams ME, Coresh J, Matsushita K, et al. Estimated glomerular ﬁltration rate,
+albuminuria, and adverse outcomes: an individual-participant data meta-analysis. JAMA. 2023;330(13):1266–1277.12 Copyright ª 2023 American
+Medical Association. All rights reserved.
+relative and absolute risks associated with CKD
+www.kidney-international.org
+S146
+Kidney International (2024) 105 (Suppl 4S), S117–S314

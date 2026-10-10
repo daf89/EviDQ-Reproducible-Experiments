@@ -1,0 +1,29 @@
+I N T R O D U C T I O N
+I N T R O D U C T I O N 
+• 
+Section 8: Review of Clinical Quality Measures. This section provides a comprehensive review 
+of how clinical quality measures (CQMs) are constructed and used to support QI. This includes 
+reviews types of CQMs; finding CQMs for use in QI; the anatomy of a CQM; CQM specifications; 
+a worked-through example of a CQM; and tips for presenting CQM data. 
+• 
+Section 9: Review of Risk-Stratification in Primary Care. This section provides an introduction to 
+risk stratification, including the identification of high-risk patients; a discussion of health and 
+social factors that impact health; diseases and risk-stratification; and other risk-stratification 
+data sources, goals, and barriers. 
+• 
+Appendix A: Review of Interoperability and Data Standards. This supplemental section 
+provides a review of key interoperability concepts and data standards, including components of 
+interoperability, interoperability standards, and information models. 
+• 
+Appendix B: Health IT Crosswalk for the Ten Building Blocks for Primary Care. This 
+supplemental section applies the Ten Building Blocks Model for Practice Transformation to 
+health IT concepts. 
+• 
+Appendix C: Example of Data Planning for Quality Improvement. This supplemental section 
+provides additional tips on data planning for a QI project. 
+• 
+Appendix D: Tips on Designing Reports and Data Visualizations. This supplemental section 
+provides a guide for selecting and designing data presentations and visualizations to 
+communicate findings. 
+Health IT Advisor Handbook 
+Page 3

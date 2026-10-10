@@ -1,0 +1,180 @@
+
+
+===== PDF PAGE 451 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-92 
+WHO STEPS Surveillance 
+Height, 
+Description: Mean height, weight, and body mass index among all respondents 
+ 
+ 
+weight 
+and BMI 
+(excluding pregnant women). 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Height 
+• Weight 
+ 
+Mean height (cm) 
+Age Group 
+(years) 
+Men 
+Women 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean weight (kg) 
+Age Group 
+(years) 
+Men 
+Women 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean BMI (kg/m2) 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+n 
+Mean 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M11, M12 
+• Epi Info program name: Mbmi (unweighted); MbmiWT (weighted) 
+ 
+
+
+===== PDF PAGE 452 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-93 
+WHO STEPS Surveillance 
+BMI categories Description: Percentage of respondents (excluding pregnant women) in each 
+ 
+ 
+BMI category. 
+ 
+Instrument questions: 
+• For women: Are you pregnant? 
+• Height 
+• Weight 
+ 
+BMI classifications 
+Age 
+Group 
+(years) 
+Men 
+n 
+% Under- 
+weight 
+<18.5 
+95% CI 
+% Normal 
+weight 
+18.5-24.9 
+95% CI 
+% BMI 
+25.0-29.9 
+95% CI 
+% Obese 
+≥30.0 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+BMI classifications 
+Age 
+Group 
+(years) 
+Women 
+n 
+% Under- 
+weight 
+<18.5 
+95% CI 
+% Normal 
+weight 
+18.5-24.9 
+95% CI 
+% BMI 
+25.0-29.9 
+95% CI 
+% Obese 
+≥30.0 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+BMI classifications 
+Age 
+Group 
+(years) 
+Both Sexes 
+n 
+% Under- 
+weight 
+<18.5 
+95% CI 
+% Normal 
+weight 
+18.5-24.9 
+95% CI 
+% BMI 
+25.0-29.9 
+95% CI 
+% Obese 
+≥30.0 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: M8, M11, M12 
+• Epi Info program name: Mbmiclass (unweighted); MbmiclassWT (weighted) 
+ 

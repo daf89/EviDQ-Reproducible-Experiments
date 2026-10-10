@@ -1,0 +1,179 @@
+
+
+===== PDF PAGE 431 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-72 
+WHO STEPS Surveillance 
+ 
+ 
+History of Raised Blood Pressure 
+ 
+ 
+Blood 
+pressure 
+measurement 
+and 
+diagnosis 
+Description: Blood pressure measurement and diagnosis among all respondents. 
+Instrument questions: 
+• Have you ever had your blood pressure measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have 
+raised blood pressure or hypertension? 
+• Have you been told in the past 12 months? 
+ 
+Blood pressure measurement and diagnosis 
+Age 
+Group 
+(years) 
+Men 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Blood pressure measurement and diagnosis 
+Age 
+Group 
+(years) 
+Women 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Blood pressure measurement and diagnosis 
+Age 
+Group 
+(years) 
+Both sexes 
+% 
+% 
+% 
+% Never 
+measured, 
+diagnosed, 
+diagnosed 
+n 
+measured 
+95% CI 
+not 
+95% CI 
+but not 
+95% CI 
+within past 
+95% CI 
+diagnosed 
+within past 
+12 months 
+12 months 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H1, H2a, H2b 
+• Epi Info program name: Hbloodpressure (unweighted); HbloodpressureWT (weighted) 
+ 
+
+
+===== PDF PAGE 432 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-73 
+WHO STEPS Surveillance 
+ 
+ 
+Blood 
+pressure 
+treatment 
+among 
+those 
+diagnosed 
+Description: Raised blood pressure treatment results among those previously 
+diagnosed with raised blood pressure. 
+ 
+Instrument questions: 
+• Have you ever had your blood pressure measured by a doctor or other health 
+worker? 
+• Have you ever been told by a doctor or other health worker that you have raised 
+blood pressure or hypertension? 
+• In the past two weeks, have you taken any drugs (medication) for raised blood 
+pressure prescribed by a doctor or other health worker? 
+ 
+Currently taking drugs (medication) for raised blood pressure prescribed by doctor or health worker among 
+those diagnosed 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+n 
+% taking 
+95% CI 
+meds 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: H1, H2a, H3 
+• Epi Info program name: Hbloodpressure (unweighted); HbloodpressureWT (weighted) 
+ 

@@ -1,0 +1,54 @@
+A P P E N D I X C : T I P S O N D E S I G N I N G R E P O R T S A N D D A T A
+V I S U A L I Z A T I O N S
+A P P E N D I X D : T I P S O N D E S I G N I N G R E P O R T S A N D 
+D A T A V I S U A L I Z A T I O N S 
+options. Ask yourself, is this customization adding significant value to the visualization? Do not be afraid 
+to frequently ask the developer for their opinion on the most cost-effective solution. Tell them upfront 
+that you are interested in simplicity and to please let you know if they feel that anything you ask is 
+disproportionately time-consuming with the return on investment (ROI). 
+Under the following examples, we will provide the estimated amount of effort that was required to 
+create each visualization in terms of hours. Please refer to Section 2 of this handbook for the various 
+methods and considerations related to extracting data, which plays a big part in the amount of required 
+and cost. 
+Identifying the Message, Intended Purpose, and Minimum Viable Product (MVP) 
+Before identifying data, thinking about data structure, or even contracting with a developer, you should 
+determine the intended purpose of the project. Here are a few examples: 
+• 
+Quality of care improvement 
+• 
+Process/Workflow efficiency 
+• 
+Billing and or administration 
+• 
+Data quality checks 
+One suggestion is to form a committee of stakeholders and conduct brainstorming sessions. What are 
+the needs? Where are the gaps in the existing reports? develop a matrix of intended audiences and 
+feature ideas. The intersection of the columns and rows should be a planned use case for how the 
+intended audience will use that feature. See example in Exhibit 61. 
+Exhibit 61: Matrix of Intended Audiences 
+Physician 
+Health IT Advisor / 
+Practice Manager 
+Administrator 
+Feature #1 
+Physician use case for 
+feature #1 
+Feature #2 
+Practice Manager use 
+case for feature #2 
+Feature #3 
+Administrator use case 
+for feature #3 
+This tool will help you home in on which features are highest priority and part of the Minimum Viable 
+Product (MVP) vs. those that are nice-to-haves. Having this knowledge before approaching development 
+will save time, money, and produce a higher quality solution. 
+Wireframes and Mockups 
+Once you know the features that you plan to include in the MVP, it is time to start working on your 
+design. Because data visualization ideas are hard to communicate using verbal language, it is sometimes 
+more effective to use visual language such as with a wireframe. A wireframe is a representation of an 
+idea in its simplest form. It is much easier to iterate on a design in its simplest form, and therefore time 
+and money will not be wasted on implementation before the design has been communicated and 
+thoroughly discussed. A wireframe could be a simple drawing on a whiteboard, which can then be 
+shared by taking a photo with your phone. The most important thing to remember when wireframing is 
+Health IT Advisor Handbook 
+Page 130

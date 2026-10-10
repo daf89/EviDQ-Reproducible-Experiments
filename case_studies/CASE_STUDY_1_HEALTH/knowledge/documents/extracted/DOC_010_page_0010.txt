@@ -1,0 +1,94 @@
+data (i.e., HC, MPC, or imputed) in 2001 for each type of event category, and the 
+subsequent discussion provides an overview of the imputation process. 
+Table 1. Distribution of source of expenditure data for survey-reported health care events, by 
+type of service, 2001 MEPS 
+Hospital events 
+Office 
+visits 
+Outpatient 
+visits 
+Emergency 
+room visits 
+Inpatient 
+stays 
+Dental 
+visits1
+Home 
+health2
+Number of events 
+142, 793 
+15, 763 
+5, 904 
+3, 405 
+26,438 
+3,155 
+Percent distribution by source of data3
+Total 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+MPC 
+27.9 
+46.7 
+47.9 
+61.4 
+-- 
+42.3 
+HC 
+17.5 
+6.2 
+8.1 
+3.7 
+47.1 
+9.4 
+Imputed: Partial4
+19.2 
+8.2 
+9.7 
+4.9 
+11.8 
+0.1 
+Imputed: Full 
+35.3 
+38.9 
+34.3 
+30.0 
+41.1 
+48.2 
+1Dental care providers are not surveyed in the MEPS Medical Provider Component, so MPC category is not 
+applicable. 
+2Expense data for home health are collected on a monthly rather than a per visit basis. 
+3Percentages for office visits do not add to exactly 100.0 due to rounding. 
+4Includes events where expense information was imputed for some but not all payment sources. 
+Imputation Process 
+Separate imputations are conducted for each event type category because relevant 
+variables and statistically significant correlates of expenditures vary by type of event. 
+However, insurance coverage is utilized for all imputations regardless of event type 
+because generosity of payments is associated with type of coverage. For example, 
+Medicaid payments are typically less generous than private insurance payments for 
+comparable services. 
+Missing expenditure data for health care events reported in the survey are completed 
+through a weighted hot-deck imputation procedure (Cox, 1980), with data from the MPC 
+used as the primary donor source wherever possible. In general, the hot-deck procedure 
+sorts donor events (complete data) and recipient events (missing data) into imputation 
+cells based on important predictors of expenses available in MEPS. For example, the 
+imputation procedure for hospital inpatient events sorts donors and recipients into cells 
+based on insurance coverage of the sample person, number of nights in the hospital, 
+reason for hospitalization, whether the hospital admission immediately followed an 
+emergency room visit, as well as region and urbanization level of the person’s residence. 
+Whenever possible, a donor is selected within the same cell as a recipient to complete a 
+recipient record. However, if there are fewer donors than recipients in a cell, cells are 
+collapsed in a predetermined order until a 1:1 ratio of donors to recipients is achieved. In 
+general, the order used for cell collapsing is determined based on the relative strength of 
+the associations between the classification variables and expenses. 
+Imputations are handled somewhat differently depending on 1) whether all or some 
+potential sources of payment are missing and 2) whether the total charge for the event 
+was reported or not. Following are examples of three different scenarios for imputation 
+of hospital inpatient expenses. These examples assume that donors and recipients match 
+on the pertinent correlates of expenditures (e.g., insurance coverage, number of nights in 
+the hospital, reason for hospitalization, whether the hospital admission immediately 
+followed an emergency room visit, region, and urbanization). 
+4

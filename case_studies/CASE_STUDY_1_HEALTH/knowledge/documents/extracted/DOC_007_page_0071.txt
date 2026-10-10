@@ -1,0 +1,125 @@
+Special considerations
+Pediatric considerations.
+Practice Point 1.2.3.3: Laboratories measuring creatinine in
+infants or small children must ensure their quality control
+process include the lowest end of the expected range of
+values for the group of interest.
+Practice Point 1.2.3.4: Consider the consistent use of
+enzymatic creatinine assays in children, given the higher
+relative contribution of non-creatinine chromogens to
+measured creatinine in children when using the Jaffe assay,
+and the high prevalence of icteric and hemolyzed samples
+in the neonatal period.
+Practice Point 1.2.3.5: An eGFRcr level <90 ml/min per
+1.73 m2 can be ﬂagged as “low” in children and adolescents
+over the age of 2 years.
+In the KDIGO 2012 Clinical Practice Guideline for the
+Evaluation and Management of Chronic Kidney Disease,1 a
+cutoff of 60 ml/min per 1.73 m2 was chosen to deﬁne “low”
+GFR for children. In this update, we advise increasing the
+cutoff to 90 ml/min per 1.73 m2 for children and adolescents.
+In children and adolescents, a reduced GFR is likely to
+deteriorate further and, therefore, warrants closer monitoring
+and early intervention. Children with lower-than-normal GFR
+often experience deterioration in GFR during periods of rapid
+growth in adolescence.224 Those with subnormal GFR during
+adolescence are more likely to eventually experience clinically
+important low GFR later in life. Even mild decreases in
+eGFR (i.e., CKD G2) are associated with poor kidney
+outcomes. In a US study of over 7 million children captured
+by electronic health record data, 8600 had CKD G2. At 10
+years from cohort entry, the rate of reaching kidney failure
+or a 50% decline in eGFR ranged from around 10%
+(nonglomerular CKD) to around 40% (glomerular CKD).225
+Furthermore, eGFR between 60 and 90 ml/min per 1.73 m2
+is sometimes associated with impaired linear growth and
+with hyperparathyroidism in children and adolescents.226,227
+A higher cutoff deﬁning low GFR for children and ado-
+lescents also reﬂects their longer life expectancy. Early inter-
+vention may have profound protection of GFR. CKD G2 has
+long been considered to reﬂect decreased GFR in children,
+reﬂected by the inclusion of children and adolescents with
+CKD G2 in pediatric CKD trials and cohort studies, including
+Effect of Strict Blood Pressure Control and ACE Inhibition on
+the Progression of CRF in Pediatric Patients (ESCAPE),228
+Hypertension Optimal Treatment in Children with Chronic
+Kidney Disease (HOT-KIDS; United Kingdom),229 CKiD
+(North America),230 KoreaN cohort study for outcomes in
+people
+with
+pediatric
+CKD
+(KNOW-PedCKD;
+South
+Korea),231 and the Kids with CKD (KCAD; Australia and
+New
+Zealand).232
+The
+deﬁnition
+of
+CKD
+remains
+unchanged; the ﬂagging of GFR <90 ml/min per 1.73 m2 as
+low for children and adolescents reﬂects the need for closer
+assessment for evidence of kidney damage and monitoring.
+1.2.4 Selection of GFR estimating equations
+Recommendation 1.2.4.1: We recommend using a
+validated GFR estimating equation to derive GFR
+from serum ﬁltration markers (eGFR) rather than
+relying on the serum ﬁltration markers alone (1D).
+Practice Point 1.2.4.1: Use the same equation within
+geographical regions (as deﬁned locally [e.g., continent,
+country, and region] and as large as possible). Within such
+regions, equations may differ for adults and children.
+The recommendation places a high value on the use of an
+estimating equation for GFR that has been validated in the
+population of interest and which has been shown to be most
+accurate in comparison with mGFR and a low value on the
+comparison
+of
+performance
+characteristics
+across
+different
+equations. The key points are to use an equation validated in
+and most suited to the population of interest.
+Key information
+Balance of beneﬁts and harms. This recommendation rec-
+ognizes that there are now a number of validated GFR esti-
+mating equations available. They have differing performance
+characteristics, which may differ depending on the population
+of interest. The intention of suggesting the use of the same
+equation within a region is to reduce clinical confusion if
+people with CKD go to different laboratories within a region
+and to enable appropriate population comparisons. Use of
+different equations (and thus different eGFR values for the
+same person) may lead to confusion for both the individual
+person and their healthcare providers.
+The Work Group judged that there is potential for harm if
+people get different eGFR values when receiving care in
+different settings. As described in Section 1.2.2, there are
+several sources of variability in eGFR. Differences between
+valid equations are often substantially less than these sources
+of variability, but that might not be understood by most
+healthcare providers or people, leading to excessive anxiety
+and repeated testing for small changes in GFR as related to
+the use of a different GFR estimating equation. Using the
+same equation within the same geographical region can
+eliminate the source of variation that is related to the speciﬁc
+parameters of the GFR estimating equation.
+There is beneﬁt to clinical care, research, and public health
+with the use of validated equations such that decisions,
+research ﬁndings, and public policy are informed by accurate
+estimates of CKD.
+Certainty of evidence. This recommendation is based on
+Work Group consensus regarding good clinical practice to use
+a GFR estimating equation validated in the population of
+interest. Table 13 lists criteria for validated equations.
+The criteria were developed by accumulated evidence from
+assessment of the performance of eGFR versus mGFR across
+equations and populations. For example, use of equations
+developed using assays that are not traceable to reference
+chapter 1
+www.kidney-international.org
+S186
+Kidney International (2024) 105 (Suppl 4S), S117–S314

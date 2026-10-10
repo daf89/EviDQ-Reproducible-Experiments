@@ -1,0 +1,64 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+186
+Objectif 3.6 
+L’établissement dispose d’une réponse opérationnelle adaptée aux risques auxquels il peut être confronté
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 3.6-06 L'identification des utilisateurs et des 
+patients dans le système d’information est sécurisée
+Pour prévenir des menaces et risques d’atteinte aux informations conservées sous forme électronique au 
+sein des systèmes d’information des établissements de santé, il est essentiel de définir les règles d’accès 
+aux ressources et données de santé à caractère personnel au sens du RGPD pour l’ensemble des utilisa
+teurs. Les ressources concourent à des activités de prévention, de diagnostic, de soin, de prise en charge, 
+de suivi, ou d’interventions nécessaires à la coordination de plusieurs de ces activités et qu’ils traitent des 
+données. Les règles d’accès sont déclinées dans le dispositif d’habilitation au système d’information quel 
+que soit l’utilisateur (professionnels, intérimaires, étudiants, stagiaires, patients..).
+L’accès à distance au système d’information doit se faire par une authentification à double facteur (depuis 
+un poste depuis l’extérieur du SIH via Internet, en télétravail, en mobilité ou sur le Wifi « invité » de l’éta
+blissement), destinée à s’assurer que les utilisateurs disposent bien des droits d’accès en leur nom propre.
+Le mécanisme d’authentification à double facteur se déroule en deux étapes (par exemple, une première 
+avec l’insertion d’une carte à puce comme les cartes CPS, la seconde avec la saisie du code PIN associé, 
+alternativement peut être utiliser Pro Sante Connect ou le recours à la saisie d’un autre code d’identifica
+tion personnel adressé par SMS, ou mail, après une première étape par un identifiant et mot de passe 
+personnel).
+ Tout l’établissement Standard 
+Fiches pédagogiques
+Évaluation de la gestion des droits des 
+patients.
+Évaluation de la gestion des risques 
+numériques dans les pratiques de soins.
+Références légales 
+et réglementaires
+• Référentiel d'identification électronique 
+des acteurs du secteur sanitaire - 
+personnes physiques, avril 2022.
+• Référentiel d'identification électronique 
+- Acteurs des secteurs sanitaire, médico-
+social et social [personnes morales], avril 
+2022.
+• Référentiel d'identification électronique 
+des usagers, avril 2022.
+Autre référence
+• Plan numérique : Guide d’aide à la 
+préparation au volet numérique du plan 
+blanc, juin 2023
+Éléments d’évaluation
+ Gouvernance 
+• Les règles d’habilitation au système d’information de 
+santé sont définies.
+• L'établissement a mis en œuvre une gestion des arrivées/
+départs pour l’octroi des habilitations au SI (notamment 
+pour les intérimaires, étudiants, stagiaires...).
+• L’établissement octroie un poste de l'établissement (poste 
+professionnel) au personnel en mobilité (astreintes ou 
+travail à distance) ou un dispositif d’ouverture sécurisé 
+de sessions à distance. 
+• Pour les accès à distance, les identités et accès aux don-
+nées de santé sont gérés par un système d'authentification 
+à deux facteurs.
+ Professionnels 
+• Le personnel en interne utilise un identifiant personnel 
+et un mot de passe personnel et unique pour l'accès au 
+système d'information.
+Audit système

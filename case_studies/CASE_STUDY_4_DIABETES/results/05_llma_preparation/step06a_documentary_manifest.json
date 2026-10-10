@@ -1,0 +1,20 @@
+{
+  "step": "STEP_06A",
+  "source_step": "STEP_05",
+  "input_chunk_count": 395,
+  "output_llma_input_count": 395,
+  "all_chunks_retained": true,
+  "feature_source": "STEP_04_SHAP_REF",
+  "features": [
+    "Insulin",
+    "Glucose",
+    "SkinThickness",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "knowledge_source": "Original documentary corpus",
+  "llm_is_knowledge_source": false,
+  "prior_discovered_rules_provided_to_llma": false,
+  "notes": "STEP 06A performs preparation only. No documentary knowledge extraction has yet been performed."
+}

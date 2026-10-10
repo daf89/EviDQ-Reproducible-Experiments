@@ -1,0 +1,115 @@
+task force considers patients with both severe valvular heart disease 
+and symptomatic heart failure to also be at sufficiently high risk. We 
+also note that, whether used for angina control or BP control, a beta- 
+blocker should not be combined with a non-dihydropyridine CCB. 
+9.8.2. Coronary artery disease with particular 
+reference to the blood pressure J-curve 
+Important considerations in patients with coronary artery disease are: 
+(i) the BP J-curve (an observation suggesting that over-intensive BP low-
+ering may increase CVD risk in some patients), and (ii) compelling indi-
+cations for specific classes of BP-lowering medications. 
+The J-curve phenomenon describes increased risk for CVD observed 
+among patients with the lowest and highest BP in the dataset, with the 
+best CVD outcome rates typically observed among those with BP in the 
+normal range (e.g. systolic BP of 100–120 mmHg and diastolic BP of 
+60–80 mmHg). For this reason, the J-curve is sometimes also called 
+the U-curve, with both terms typically used interchangeably.697,783,784 
+However, observational data do not consistently demonstrate a BP 
+J-curve with CVD risk.697 It is more commonly observed among pa-
+tients with established clinical CVD, such as those with coronary artery 
+disease, or in secondary prevention cohorts.785,786 Furthermore, the 
+J-curve is more commonly observed when analysing diastolic BP values 
+vs. systolic BP values, though it has been described for both.114,697 This 
+stronger relationship with diastolic BP has informed the hypothesis that 
+the J-curve may be caused by reduced perfusion of major organs at low 
+BP, which is particularly operative for diastolic BP in the coronary vas-
+culature when considering ischaemic heart disease events (since coron-
+ary blood flow is largely confined to diastole).786,787 
+If excessive lowering of BP causes CVD events, this needs to be 
+addressed in treatment recommendations provided by BP manage-
+ment guidelines. The 2018 ESC/ESH Guidelines on the management 
+of arterial hypertension introduced, for the first time, lower bounds 
+of BP-lowering treatment targets, implying that treatment be 
+de-intensified for patients with on-treatment BP below these bounds 
+(i.e. <120 mmHg systolic or <70 mmHg diastolic).1 The 2023 ESH docu-
+ment also makes this argument.788 
+However, since 2018, compelling evidence has demonstrated that 
+the BP J-curve evident in observational datasets is highly unlikely to re-
+flect a causal process and can instead be attributed to residual con-
+founding and/or reverse causation.33,114,115,546,697,789–793 
+Accordingly, while low BP can indicate a high-risk state, particularly 
+among older adults and those with comorbidities, there is no evidence 
+that this is a causal phenomenon. Indeed, if there is another indication 
+for BP-lowering therapy (e.g. in a patient with wide pulse pressure and a 
+baseline systolic BP of >140 mmHg but diastolic BP of <60 mmHg), the 
+evidence suggests that such therapy should be provided if tolerated to 
+reduce CVD risk. 
+There is a limit to how low BP can be treated without potentially tip-
+ping the scales in favour of CVD harm vs. CVD benefit. However, it is 
+not clear what that limit is and how much it differs based on comorbid-
+ities. Currently, the data do not suggest that risk for CVD can be caus-
+ally increased by treating any patient to the recommended intensive 
+BP target outlined in these guidelines of as low as 120/70 mmHg. 
+We also do not recommend stopping or de-intensifying BP-lowering 
+medication among asymptomatic patients with on-treatment BP of 
+<120/70 mmHg. It should be recognized, though, that there are no ro-
+bust data demonstrating that an on-treatment systolic BP of <90 mmHg 
+or an on-treatment diastolic BP of <50 mmHg is safe from a CVD 
+perspective and there is clear potential for harm. Furthermore, it 
+must be emphasized that the above discussion of the BP J-curve relates 
+solely to CVD risk and does not consider the known non-CVD side ef-
+fects of BP-lowering drugs, like, e.g. orthostatic hypotension, syncope, 
+and renal injury. We do know that patients treated to a more intensive 
+BP target of 120/70 mmHg are at increased risk for these side effects,550 
+which is why these guidelines stress that this more intensive target 
+should only be pursued among those in whom treatment is being toler-
+ated (Section 8). 
+The second consideration in managing BP in patients with coronary 
+artery disease is the recommended use of BP-lowering medications 
+with compelling indications based on outcomes trials that demon-
+strated CVD outcomes benefits in the setting of coronary artery dis-
+ease. These recommendations are provided in the recommendation 
+table below. 
+9.8.3. Valvular heart disease 
+Most patients with both severe heart valve disease and heart failure, de-
+fined by the 2021 ESC/European Association for Cardio-Thoracic 
+Surgery (EACTS) Guidelines for the management of valvular heart dis-
+ease,794 can be considered at increased risk of CVD. Accordingly, it is 
+recommended they are treated with BP-lowering therapy for con-
+firmed baseline BP of >130/80 mmHg, and their recommended target 
+of treatment is BP of 120–129/70–79 mmHg, provided treatment is tol-
+erated. Persons with mild-to-moderate heart valve disease should have 
+a CVD risk assessment prior to deciding their BP-lowering treatment 
+threshold and target. 
+Vasodilating ARBs/ACE inhibitors are preferable over vasodilating di-
+hydropyridine CCBs because of the link between valvular heart disease 
+and subsequent heart failure and given the stronger efficacy evidence 
+for ARBs/ACE inhibitors in the setting of heart failure once mani-
+fested.795 In aortic valve stenosis, concomitant hypertension influences 
+both the aortic root, the aortic valve, and the left ventricular structure 
+and function.796 In this subgroup, treatment preferably with ARBs/ACE 
+inhibitors should be considered. A beta-blocker may be added if BP re-
+mains >140/90 mmHg.796,797 
+9.8.4. Heart failure 
+Patients with symptomatic heart failure are at increased risk of CVD. 
+Therefore, it is recommended that these patients are treated with 
+BP-lowering therapy for confirmed baseline BP of >130/80 mmHg and 
+their recommended treatment target is BP of 120–129/70–79 mmHg, 
+provided treatment is tolerated and with out-of-office confirm-
+ation of on-treatment BP. Of note, many patients with systolic 
+heart failure on maximal heart failure therapies have BP of 
+<120/70 mmHg, and we do not recommend de-intensifying such 
+treatment unless indicated by symptomatic side effects. Besides 
+referencing the new evidence for ARNi and SGLT2 inhibitor ther-
+apies,795 our 2024 recommendations for heart failure are largely 
+unchanged from the 2018 ESC/ESH Guidelines on the management 
+of arterial hypertension. Non-dihydropyridine CCBs should not be 
+used in heart failure. Frailty and hypotension risk should be as-
+sessed in older heart failure patients being considered for ARNi 
+and SGLT2 inhibitor therapies, and older patients should be closely 
+followed to ensure they are tolerating such treatments. For more 
+information on the management of heart failure, we direct readers 
+to the latest ESC Guidelines for the diagnosis and treatment of 
+acute and chronic heart failure.798 
+ESC Guidelines 3977 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

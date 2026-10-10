@@ -1,0 +1,79 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+290
+Libellé
+Définition
+Événement indésirable 
+associé aux soins (EIAS) 
+Événement inattendu qui perturbe ou retarde le processus de soin, ou impacte directement le patient dans 
+sa santé. Cet événement est consécutif aux actes de prévention, de diagnostic ou de traitement.
+Événement indésirable 
+grave (EIG)
+Tout événement indésirable à l’origine du décès, de la mise en jeu du pronostic vital immédiat, 
+de la prolongation de l’hospitalisation, d’une incapacité ou d’un handicap (directive 2000/38/CE de 
+la Commission européenne du 5 juin 2000, modifiant le chapitre V bis – pharmacovigilance.
+e-Satis 
+Dispositif national de mesure de la satisfaction du patient hospitalisé. L’indicateur I-SATIS permet de recueillir, 
+établissement par établissement, l’appréciation des patients sur la qualité des différentes composantes 
+humaines, techniques et logistiques de leur prise en charge. La finalité est de contribuer à améliorer la qualité 
+de l’offre de soins. Il est dans le rôle de la HAS de fournir aux établissements de santé des outils de pilotage 
+de la qualité, pour qu’ils puissent mettre en œuvre des actions d’amélioration au plus près des attentes 
+des patients. Les réponses du patient permettent également le calcul d’un indicateur national, rendu public sur 
+QualiScope – le service d’information en ligne de la HAS, ce qui constitue aussi un levier d’amélioration.
+Expérience patient
+Demande aux patients d’évaluer des aspects objectifs de leur prise en charge ou interroger les patients 
+sur une prestation de soin.
+Filières de soins
+Mode de prise en charge médicale et financière du patient, qui organise la trajectoire du patient dans 
+le système de soins pour faciliter l’accès aux soins et en assurer la continuité.
+Gestion documentaire
+Ensemble de règles générales définissant principalement : le mode d’élaboration et d’évolution des 
+documents ; la gestion de références (documentation source) ; l’élaboration de critères d’identification et de 
+classification ; la rédaction de procédures de vérification, de validation, de mise à disposition des documents ; 
+les dispositions relatives à la sécurité du contenu des documents. Pour mettre en œuvre la gestion 
+documentaire, il convient d’établir une typologie fonctionnelle, de définir le plan de gestion documentaire 
+et de spécifier le système d’information.
+Gestion des lits
+Gérer au mieux une capacité d’accueil pour prendre en charge un volume d’activité donné ou cible, en 
+respectant des critères de qualité (qualité des soins, délais, durées, fiabilité de la programmation…), sous 
+contrainte de ressources. La gestion des lits permet une fluidification des parcours patients en hospitalisation 
+programmée et non programmée pour générer une hospitalisation « au bon endroit » et pour une juste durée 
+avec la localisation de lits d’hospitalisation disponibles, et fluidité du transfert.
+GMT au regard des types 
+d’autorisations 
+Terme employé dans le cadre de la tarification et de la cotation. Le groupe médico-tarifaire est un tarif 
+correspondant au groupe médico-économique (GME). Généralement un GMT par GME sauf pour les GME 
+de soins palliatifs auxquels correspondent deux GMT par GME. 
+Groupement hospitalier 
+de territoire (GHT) 
+A pour objet de permettre aux établissements de mettre en œuvre une stratégie de prise en charge commune 
+et graduée du patient, dans le but d’assurer une égalité d’accès à des soins sécurisés et de qualité. Il assure 
+la rationalisation des modes de gestion par une mise en commun de fonctions ou par des transferts d’activités 
+entre établissements. Dans chaque groupement, les établissements parties élaborent un projet de dossier 
+médical de Mon espace santé (DMP) garantissant une offre de proximité ainsi que l’accès à une offre de 
+référence et de recours.
+Gouvernance
+Collaboration entre les différentes instances participant à la gestion de l’établissement à la suite à la loi HPST 
+du 21 juillet 2009, la nouvelle gouvernance des établissements repose sur une direction renforcée, 
+en concertation étroite avec le directoire, sous le contrôle du conseil de surveillance. Appliqué à la visite de 
+certification, la gouvernance s’entend par direction, présidence de CME et direction des soins.
+HOP’EN « Hôpital 
+numérique ouvert sur 
+son environnement »
+Plan d’action stratégique qui s’inscrit dans le soutien à l’évolution des systèmes d’information hospitaliers. Il 
+présente une vision centrée sur les usages, le pragmatisme et l’humilité des démarches progressives dans un 
+cadre de valeurs éthiques et humanistes. Il contribue ainsi à la mise en œuvre du schéma d’architecture cible 
+proposé dans la feuille de route « accélérer le numérique ». Ce programme s’inscrit également dans le cadre 
+du grand plan d’investissement (GPI), et de son initiative 23 : accélérer la transition numérique du système de 
+santé et son volet « numériser les hôpitaux et leur environnement ». Il poursuit les efforts engagés par les 
+établissements de santé dans leur transformation numérique et leur modernisation et a comme ambition 
+d’amener – d’ici 2022 - les établissements de santé, quels que soient leur statut, leur taille et leur activité, 
+à un palier de maturité de leur système d’information, nécessaire pour répondre aux nouveaux enjeux 
+de décloisonnement du système de santé et de rapprochement avec les patients.
+Hospitalisation à domicile 
+(HAD)
+Mode d’hospitalisation permettant d’éviter ou de raccourcir une hospitalisation avec hébergement. Elle 
+assure, au domicile du malade, des soins médicaux et paramédicaux, continus et coordonnés. Les soins 
+délivrés en hospitalisation à domicile se différencient de ceux habituellement dispensés à domicile par leur 
+complexité, leur durée et la fréquence des actes. Les établissements d’HAD sont des établissements de 
+santé, soumis aux mêmes obligations que les établissements hospitaliers avec hébergement.

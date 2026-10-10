@@ -1,0 +1,178 @@
+
+
+===== PDF PAGE 391 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-32 
+WHO STEPS Surveillance 
+ 
+ 
+Current 
+tobacco users 
+ 
+ 
+Description: Percentage of daily and current (daily plus non-daily) tobacco 
+users, includes smoking and smokeless, among all respondents. 
+ 
+Instrument questions: 
+• Do you currently smoke any tobacco products, such as cigarettes, cigars, or 
+pipes? 
+• Do you currently smoke tobacco products daily? 
+• Do you currently use any smokeless tobacco such as [snuff, chewing 
+tobacco, betel]? 
+• Do you currently use smokeless tobacco products daily? 
+ 
+Current tobacco users 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Current 
+95% CI 
+users 
+% 
+n 
+Current 
+95% CI 
+users 
+% 
+n 
+Current 
+95% CI 
+users 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Daily tobacco users 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+ Daily 
+95% CI 
+users 
+n 
+% Daily 
+95% CI 
+users 
+% 
+n 
+ Daily 
+95% CI 
+users 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, T12, T13 
+• Epi Info program name: Tdailyuser (unweighted); TdailyuserWT (weighted) 
+ 
+
+
+===== PDF PAGE 392 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-33 
+WHO STEPS Surveillance 
+ 
+ 
+Exposure 
+to second- 
+hand 
+smoke in 
+home in 
+past 30 
+days 
+Description: Percentage of respondents exposed second-hand smoke in the home in 
+the past 30 days. 
+ 
+Instrument question: 
+•  In the past 30 days, did someone smoke in your home? 
+ 
+Exposed to second-hand smoke in home during the past 30 days 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+Exposed 
+n 
+% 
+95% CI 
+Exposed 
+n 
+% 
+95% CI 
+Exposed 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T17 
+• Epi Info program name: Tetshome (unweighted); TetshomeWT (weighted) 
+ 
+ 
+ 
+Exposure 
+to second- 
+hand 
+smoke in 
+the 
+workplace 
+in past 30 
+days 
+Description: Percentage of respondents exposed to second-hand smoke in the 
+workplace in the past 30 days. 
+ 
+Instrument question: 
+• During the past 30 days, did someone smoke in closed areas in your workplace 
+(in the building, in a work area or a specific office)? 
+ 
+Exposed to second-hand smoke in the workplace during the past 30 days 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+Exposed 
+n 
+% 
+95% CI 
+Exposed 
+n 
+% 
+95% CI 
+Exposed 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T18 
+• Epi Info program name: Tetswork (unweighted); TetsworkWT (weighted) 
+ 

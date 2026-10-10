@@ -1,0 +1,382 @@
+without diabetes who are at very low risk of ketoacidosis). SGLT2i
+also favorably reduce BP, uric acid levels, measures of ﬂuid over-
+load, the risk of serious hyperkalemia, and do not increase risk of
+hypoglycemia. The recommendation is consistent with but ex-
+pands on Recommendation 1.3.1 from the KDIGO 2022 Clinical
+Practice Guideline for Diabetes Management in Chronic Kid-
+ney Disease to include people with causes of CKD not related to
+diabetes.
+Key information
+Balance of beneﬁts and harms. Beneﬁts. Several large, pla-
+cebo-controlled RCTs have provided clear demonstrations of
+the efﬁcacy of SGLT2i, which substantially reduce the risk of
+kidney failure, AKI, and hospitalization for heart failure, and
+also moderately reduce the risk of cardiovascular death and
+myocardial infarction in people with and without CKD. These
+beneﬁts appear to be irrespective of diabetes status, cause of
+kidney disease, or level of GFR.511,512 The beneﬁts of SGLT2i
+in people with diabetes and CKD have been fully described in
+the KDIGO 2022 Clinical Practice Guideline for Diabetes
+Management in Chronic Kidney Disease.23
+Two large RCTs using 2 different SGLT2i recruited 10,913
+participants and focused on CKD populations at risk of
+progression, reporting beneﬁts in terms of kidney disease
+progression.403,513 Key differences between the 2 trials were
+the inclusion of a large number of causes of kidney disease
+not related to diabetes, lower eGFR, and lower levels of
+ACR in The Study of Heart and Kidney Protection With
+Empagliﬂozin
+(EMPA-KIDNEY)
+compared
+with
+the
+Dapagliﬂozin and Prevention of Adverse Outcomes in
+Chronic Kidney Disease (DAPA-CKD) trial.
+In a collaborative metanalysis including those 2 and 11
+other trials (13 trials with just over 90,000 randomized par-
+ticipants) in comparison with placebo, those allocated to an
+SGLT2i experienced a 37% reduction in the risk of kidney
+disease progression and a 23% reduction in the risk of AKI
+irrespective of diabetes status (Figure 22).511
+The same meta-analysis showed that, compared with pla-
+cebo, allocation to an SGLT2i reduced the risk of the com-
+posite of cardiovascular death or hospitalization for heart
+failure by 23% irrespective of diabetes status (Figure 23511),
+although there were limited numbers of cardiovascular
+events in people with CKD without diabetes. SGLT2i also
+afford an
+approximate
+10%
+RR
+reduction
+in
+MACE,
+primarily from reduced risk of cardiovascular death and
+myocardial infarction with no clear effect on stroke.511,512
+Furthermore, SGLT2i also importantly reduce the risk of
+hospitalization from any cause,403 reduce BP,403,513,514 uric
+Mean
+baseline eGFR,
+ml/min per
+1.73 m2
+Events/participants
+SGLT2
+inhibitor
+Placebo
+Event rate per
+1000 patient-years
+SGLT2
+inhibitor
+Placebo
+Event rate per
+1000 patient-years
+SGLT2
+inhibitor
+Placebo
+Kidney disease progression
+RR
+(95% CI)
+Events/participants
+SGLT2
+inhibitor
+Placebo
+RR
+(95% CI)
+Acute kidney injury
+0.75
+0.25
+0.5
+1.00
+1.50
+Favors SGLT2 inhibitor
+Favors placebo
+0.75
+0.25
+0.5
+1.00
+1.50
+Favors SGLT2 inhibitor
+Favors placebo
+Diabetes
+DECLARE−TIMI 58
+CANVAS Program
+VERTIS CV
+EMPA−REG OUTCOME
+DAPA−HF
+EMPEROR−REDUCED
+EMPEROR−PRESERVED
+DELIVER
+CREDENCE
+SOLOIST−WHF
+SCORED
+DAPA−CKD
+EMPA−KIDNEY
+Subtotal: diabetes
+No diabetes
+DAPA−HF
+EMPEROR−REDUCED
+DELIVER*
+EMPEROR−PRESERVED
+DAPA−CKD
+EMPA−KIDNEY
+Subtotal: no diabetes
+Total: overall
+85
+77
+76
+74
+63
+61
+60
+60
+56
+51
+44
+44
+36
+67
+68
+63
+63
+62
+42
+39
+56
+65
+56/8582
+80/5795
+49/5499
+51/4645
+18/1075
+13/927
+38/1466
+33/1578
+153/2202
+NA/NA
+37/5292
+103/1455
+108/1525
+739/40,041
+10/1298
+5/936
+17/1551
+12/1531
+39/697
+119/1779
+202/7792
+941/47,833
+102/8578
+81/4347
+32/2747
+47/2323
+24/1064
+23/929
+44/1472
+37/1572
+230/2199
+NA/NA
+52/5292
+173/1451
+175/1515
+1020/33,489
+15/1307
+10/938
+17/1557
+18/1519
+70/701
+157/1790
+287/7812
+1307/41,301
+1.6
+3.6
+2.6
+4.0
+12
+13
+15
+9.5
+27
+..
+5.0
+35
+36
+..
+5.0
+5.2
+5.0
+4.5
+29
+35
+..
+..
+3.0
+5.8
+3.4
+7.6
+16
+24
+18
+11
+41
+..
+7.0
+60
+59
+..
+8.0
+10
+4.9
+6.9
+53
+47
+..
+..
+0.55 (0.39–0.76)
+0.61 (0.45–0.83)
+0.76 (0.49–1.19)
+0.51 (0.35–0.76)
+0.73 (0.39–1.34)
+0.52 (0.26–1.03)
+0.82 (0.53–1.27)
+0.87 (0.54–1.39)
+0.64 (0.52–0.79)
+..
+0.71 (0.46–1.08)
+0.57 (0.45–0.73)
+0.55 (0.44–0.71)
+0.62 (0.56–0.68)
+0.67 (0.30–1.49)
+0.50 (0.17–1.48)
+1.01 (0.51–1.97)
+0.68 (0.33–1.40)
+0.51 (0.34–0.75)
+0.74 (0.59–0.95)
+0.69 (0.57–0.82)
+0.63 (0.58–0.69)
+Trend across trials sorted by eGFR: 
+Diabetes P=0.87;
+No diabetes P=0.86; 
+Heterogeneity by diabetes status: P=0.31
+125/8574
+30/5790
+42/5493
+45/4687
+31/1073
+26/927
+60/1466
+59/1578
+86/2200
+25/605
+116/5291
+48/1455
+73/1525
+766/40,664
+18/1295
+20/936
+30/1551
+37/1531
+16/697
+34/1779
+155/7789
+921/48,453
+175/8569
+28/4344
+22/2745
+37/2333
+39/1063
+33/929
+84/1472
+52/1572
+98/2197
+27/611
+111/5286
+69/1451
+81/1515
+856/34,087
+30/1305
+34/938
+47/1558
+47/1519
+21/701
+54/1790
+233/7811
+1089/41,898
+3.5
+1.6
+2.5
+2.5
+19
+21
+20
+17
+17
+55
+16
+15
+24
+..
+9.9
+16
+8.8
+12
+11
+10
+..
+..
+4.9
+2.5
+2.7
+6.2
+24
+27
+28
+15
+20
+59
+16
+22
+27
+..
+16
+28
+14
+15
+15
+16
+..
+..
+0.69 (0.55–0.87)
+0.66 (0.39–1.11)
+0.95 (0.57–1.59)
+0.41 (0.27–0.63)
+0.79 (0.50–1.25)
+0.77 (0.46–1.28)
+0.69 (0.50–0.97)
+1.13 (0.78–1.63)
+0.85 (0.64–1.13)
+0.94 (0.55–1.59)
+1.04 (0.81–1.35)
+0.66 (0.46–0.96)
+0.88 (0.64–1.20)
+0.79 (0.72–0.88)
+0.60 (0.34–1.08)
+0.56 (0.32–0.98)
+0.64 (0.41–1.02)
+0.80 (0.52–1.23)
+0.75 (0.39–1.43)
+0.63 (0.41–0.97)
+0.66 (0.54–0.81)
+0.77 (0.70–0.84)
+Trend across trials sorted by eGFR: 
+Diabetes P=0.02;
+No diabetes P=0.66; 
+Heterogeneity by diabetes status: P=0.12
+Figure 22 | Effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) with kidney disease outcomes by diabetes status. ACR, albumin-
+to-creatinine ratio; CI, conﬁdence interval; eGFR, estimated glomerular ﬁltration rate; NA, not applicable; RR, relative risk. Reproduced from Nufﬁeld
+Department of Population Health Renal Studies Group, SGLT Inhibitor Meta-Analysis Cardio-Renal Trialists’ Consortium. Impact of diabetes on the
+effects of sodium glucose co-transporter-2 inhibitors on kidney outcomes: collaborative meta-analysis of large placebo-controlled trials. Lancet.
+2022;400:1788–1801.511 ª 2022 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license.
+www.kidney-international.org
+chapter 3
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S215

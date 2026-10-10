@@ -1,0 +1,77 @@
+{
+    "experiment": "DEMARCHE_ENCAD3",
+    "stage": "STEP_06_LLMA_FEATURE_BLOCK_PREPARATION",
+    "global_phase": "PHASE_02_KNOWLEDGE",
+    "timestamp": "2026-09-17T18:20:02.048103",
+    "dataset_ref": {
+        "filename": "data_new.csv",
+        "sha256": "5341f90f3a1d330557620af1c734e552abe0ad57053055dd13dbccc6d8384d74",
+        "unchanged": true
+    },
+    "source_page_corpus": {
+        "documents": 11,
+        "pages": 894
+    },
+    "document_blocking": {
+        "strategy": "FIXED_NON_OVERLAPPING_PAGE_BLOCKS",
+        "pages_per_block": 2,
+        "overlap": false,
+        "blocks_cross_documents": false,
+        "last_block_may_contain_one_page": true,
+        "blocks": 452,
+        "all_pages_covered_exactly_once": true
+    },
+    "feature_scope": {
+        "features": 12,
+        "feature_names": [
+            "gagne_sum_tm1",
+            "cost_op_specialists_tm1",
+            "cost_laboratory_tm1",
+            "cost_ip_medical_tm1",
+            "cost_other_tm1",
+            "cost_op_surgery_tm1",
+            "dem_age_band_65-74_tm1",
+            "cost_pharmacy_tm1",
+            "cre_tests_tm1",
+            "cost_emergency_tm1",
+            "dem_age_band_75+_tm1",
+            "cost_home_health_tm1"
+        ]
+    },
+    "feature_block_pairs": {
+        "strategy": "EXHAUSTIVE_CARTESIAN_PRODUCT",
+        "retrieval_used": false,
+        "tfidf_used": false,
+        "cosine_similarity_used": false,
+        "embedding_used": false,
+        "semantic_preselection_used": false,
+        "expected_pairs": 5424,
+        "created_pairs": 5424,
+        "duplicate_pairs": 0
+    },
+    "future_llma": {
+        "executed": false,
+        "task": "FEATURE_BLOCK_SEMANTIC_RELEVANCE_FILTERING",
+        "allowed_decisions": [
+            "RELEVANT",
+            "NOT_RELEVANT"
+        ],
+        "extract_error": false,
+        "extract_detection": false,
+        "extract_correction": false
+    },
+    "methodological_state": {
+        "document_blocks_created": true,
+        "feature_block_pairs_created": true,
+        "semantic_relevance_decided": false,
+        "documentary_knowledge_extracted": false,
+        "knowledge_base_created": false,
+        "candidate_actions_created": false
+    },
+    "safety": {
+        "dataset_modified": false,
+        "dq_problem_confirmed": false,
+        "error_injected": false,
+        "correction_applied": false
+    }
+}

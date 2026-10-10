@@ -1,0 +1,158 @@
+
+
+===== PDF PAGE 413 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-54 
+WHO STEPS Surveillance 
+ 
+ 
+Adding 
+salt at 
+meal 
+Description: Percentage of all respondents who always or often add salt or salty 
+sauce to their food before eating or as they are eating. 
+ 
+Instrument question: 
+• How often do you add salt or a salty sauce such as soya sauce to your food 
+right before you eat it or as you are eating it? 
+ 
+Add salt always or often before eating or when eating 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D5 
+• Epi Info program name: Daddsalt (unweighted); DaddsaltWT (weighted) 
+ 
+ 
+ 
+Adding 
+salt when 
+cooking 
+Description: Percentage of all respondents who always or often add salt to their food 
+when cooking or preparing foods at home. 
+ 
+Instrument question: 
+• How often is salt, salty seasoning or a salty sauce added in cooking or 
+preparing foods in your household? 
+ 
+Add salt always or often when cooking or preparing food at home 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D6 
+• Epi Info program name: Dsaltcooking (unweighted); DsaltcookingWT (weighted) 
+ 
+
+
+===== PDF PAGE 414 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-55 
+WHO STEPS Surveillance 
+ 
+ 
+Salty 
+processed 
+food 
+consumption 
+Description: Percentage of all respondents who always or often eat processed 
+foods high in salt. 
+ 
+Instrument question: 
+• How often do you eat processed food high in salt? 
+ 
+Always or often consume processed food high in salt 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D7 
+• Epi Info program name: Dprocessed (unweighted); DprocessedWT (weighted) 
+ 
+ 
+ 
+Salt 
+consumption 
+Description: Percentage of all respondents who think they consume far too much 
+or too much salt. 
+ 
+Instrument question: 
+• How much salt or salty sauce do you think you consume? 
+ 
+ 
+Think they consume far too much or too much salt 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 

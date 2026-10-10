@@ -1,0 +1,164 @@
+levels of GFR, thus understanding potassium physiology and its
+impacting factors are important in effective patient care.
+Hyperkalemia in people with preserved GFR is less prev-
+alent. An acute episode of hyperkalemia is a potassium result
+above the upper limit of normal that is not known to be
+chronic. At the current time, there is no consensus on the
+magnitude, duration, and frequency of elevated potassium
+values that deﬁne chronicity.556 In addition to decreased
+eGFR, other risk factors for hyperkalemia included higher
+ACR
+and
+prior
+diabetes,
+hyperglycemia,
+constipation,
+RASi,557 and MRA.536 Note that SGLT2i do not appear to
+increase serum potassium values.403,517
+Studies have demonstrated a continuous U-shaped rela-
+tionship between serum potassium and all-cause mortality
+in a range of different populations (Figure 31).555,558 It has
+also
+been
+associated
+with
+worse
+kidney
+prognosis.559
+Observationally, the risk of death from the same degree of
+hyperkalemia is lower in more advanced CKD stages.560–564
+This may suggest that there are adaptive mechanisms that
+render better tolerance to elevated levels of potassium in
+circulation.561,565–568
+3.11.1 Awareness of factors impacting on potassium
+measurement
+There are several factors and mechanisms that may impact on
+potassium measurements, including the actions of medications
+that can increase the risk of developing hyperkalemia. These are
+summarized in Tables 25556,569–575 and 26.23,576
+Practice Point 3.11.1.1: Be aware of the variability of po-
+tassium laboratory measurements as well as factors and
+mechanisms that may inﬂuence potassium measurement
+including diurnal and seasonal variation, plasma versus
+serum samples, and the actions of medications.
+The Work Group would like to highlight Figure 26 for the
+monitoring of serum potassium during treatment with a
+nonsteroidal MRA (ﬁnerenone) from the KDIGO 2022
+Clinical Practice Guideline for Diabetes Management in
+Chronic Kidney Disease.23
+Hyperkalemia has been associated with therapeutic actions
+of either reducing or stopping RASi.577–580 Steps can be taken
+to mitigate the risk of hyperkalemia and improve potassium
+control that could increase the use of RASi in people with an
+evidenced indication. For details on how to manage hyper-
+kalemia associated with the use of RASi and associated
+>90
+75–89
+60–74
+45–59
+30–44
+15–29
+1.5% (0.4, 4.6)
+1.7% (0.5, 5.1)
+2.3% (0.7, 7.0)
+4.5% (1.4, 12.8)
+9.5% (3.0, 24.8)
+16.1% (5.3, 37.5)
+1.1% (0.3, 3.2)
+1.6% (0.5, 4.8)
+2.0% (0.6, 6.0)
+3.5% (1.1, 10.3)
+10.5% (3.3, 26.9)
+19.0% (6.4, 42.5)
+1.4% (0.4, 4.4)
+1.5% (0.5, 4.7)
+2.3% (0.7, 7.0)
+5.2% (1.6, 14.6)
+11.3% (3.6, 28.5)
+23.7% (8.3, 49.4)
+No diabetes
+Hyperkalemia 
+eGFR
+A1
+A2
+A3
+>90
+75–89
+60–74
+45–59
+30–44
+15–29
+1.8% (0.5, 5.5)
+2.8% (0.8, 8.3)
+3.9% (1.2, 11.2)
+8.8% (2.7, 23.3)
+12.8% (4.1, 31.5)
+24.7% (8.8, 50.8)
+3.6% (1.1, 10.5)
+4.0% (1.2, 11.6)
+5.0% (1.5, 14.2)
+9.9% (3.1, 25.5)
+18.7% (6.3, 41.9)
+31.5% (11.9, 59.1)
+1.0% (0.3, 3.0)
+4.6% (1.4, 13.0)
+6.6% (1.8, 17.4)
+11.4% (3.6, 28.8)
+87.5% (67.1, 95.6)
+34.4% (13.3, 62.2)
+Diabetes
+Hyperkalemia 
+eGFR
+A1
+A2
+A3
+Figure 30 | Meta-analyzed adjusted prevalence of hyperkalemia (25th and 75th percentile cohort) in general population and high-risk
+cohorts from the Chronic Kidney Disease Prognosis Consortium, by diabetes status. Hyperkalemia is deﬁned as potassium >5 mmol/l. The
+adjusted prevalence of hyperkalemia at each estimated glomerular ﬁltration rate (eGFR) and albuminuria stage was computed as follows: ﬁrst,
+the random-effects weighted adjusted mean odds at the reference point (eGFR 50 ml/min per 1.73 m2) was converted into a prevalence
+estimate. To the reference estimate, the meta-analyzed odds ratios for hyperkalemia were applied to obtain prevalence estimates at eGFR 95,
+80, 65, 35, and 20 ml/min per 1.73 m2 for each stage of albuminuria. The prevalence estimates were adjusted to 60 years old, half male, non-
+Black, 20% history of CVD, 40% ever smoker, and body mass index 30 kg/m2. The 25th and 75th percentiles for predicted prevalence were the
+estimates from individual cohorts in the corresponding percentiles of the random-effects weighted distribution of adjusted odds. A1,
+albuminuria <30 mg/g (<3 mg/mmol); A2, albuminuria 30–300 mg/g (3–30 mg/mmol); A3, >300 mg/g (>30 mg/mmol). Reproduced from
+American Journal of Kidney Diseases, volume 73, issue 2, Inker LA, Grams ME, Levey AS, et al. Relationship of estimated GFR and albuminuria to
+concurrent laboratory abnormalities: an individual participant data meta-analysis in a Global Consortium, pages 206–217, Copyright ª 2018,
+with permission from the National Kidney Foundation, Inc.541
+0
+0.2
+0.4
+0.6
+0.8
+1
+Density
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+Potassium, mmol/
+eGFR 60+
+eGFR 30–59
+eGFR <30
+Figure 29 | Distribution of blood potassium in general population
+and high-risk cohorts from the Chronic Kidney Disease Prognosis
+Consortium, by estimated glomerular ﬁltration rate (eGFR).
+Density refers to the proportion of the population experiencing
+serum potassium level (e.g., 0.08 of the population with a GFR >60
+have a potassium of 3.8; conversely, 0.2 of the population with a
+GFR <30 have a potassium of 5.5). Reproduced from Kovesdy CP,
+Matsushita K, Sang Y, et al. Serum potassium and adverse outcomes
+across the range of kidney function: a CKD Prognosis Consortium
+meta-analysis. European Heart Journal 2018;39:1535–1542 by
+permission of Oxford University Press on behalf of the European
+Society of Cardiology.555 All rights reserved. ª The Author(s) 2018.
+Inclusion under a Creative Commons license is prohibited. https://doi.
+org/10.1093/eurheartj/ehy100
+chapter 3
+www.kidney-international.org
+S224
+Kidney International (2024) 105 (Suppl 4S), S117–S314

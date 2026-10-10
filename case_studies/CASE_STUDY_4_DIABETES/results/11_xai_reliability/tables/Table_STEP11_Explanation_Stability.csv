@@ -1,0 +1,7 @@
+﻿condition,stability_cosine_mean,stability_cosine_sd,stability_cosine_median,stability_spearman_mean,stability_spearman_sd,stability_spearman_median
+DOC,0.999171,0.002835,1.0,0.996688,0.011634,1.0
+DQ,0.999124,0.002827,1.0,0.996957,0.01264,1.0
+ITERATIVE,0.998935,0.005343,1.0,0.995997,0.021423,1.0
+KNN,0.999048,0.003101,0.99999,0.996072,0.015647,1.0
+MEDIAN,0.998716,0.00775,1.0,0.994747,0.025078,1.0
+REF,0.998894,0.005451,1.0,0.994873,0.027409,1.0

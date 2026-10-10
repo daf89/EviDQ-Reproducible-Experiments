@@ -1,0 +1,142 @@
+
+
+===== PDF PAGE 119 =====
+
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+3-1-2 
+WHO STEPS Surveillance 
+Introduction 
+ 
+ 
+ 
+Background 
+eSTEPS refers to the use of handheld electronic devices for STEPS data 
+collection in connection with the STEPS online data management platform. 
+The WHO STEPS team previously developed a Windows Mobile application 
+for data collection, which has been used by dozens of countries since 2008.   
+As this operating system has since been retired by Microsoft, in 2015 the 
+WHO STEPS team developed an Android application for data collection. 
+ 
+The STEPS Android application provides the primary interface for STEPS 
+data collection, though it works in conjunction with two pre-existing data 
+collection tools: 
+• ODK Collect: This is a widely used, free, open-source application for 
+electronic data collection. It is installed on the Android device and 
+works seamlessly with the STEPS app. 
+• Online eSTEPS platform: A web-based, data management site that 
+provides basic data management tools, allowing for remote data 
+submission (via mobile data or wi-fi connection) while field work is 
+ongoing. 
+ 
+ 
+Rationale of 
+eSTEPS 
+eSTEPS provides the following benefits: 
+ 
+• Immediate error-checking during data collection (e.g. inadvertently skipped 
+questions or out-of-range responses); 
+• Significantly reduced data entry errors; 
+• Marked reduction of materials to be carried by data collectors (one tablet vs. 
+hundreds of paper instruments); 
+• No additional data entry needed. 
+ 
+With the change to the Android application, eSTEPS also allows for remote 
+data submission using wi-fi or mobile data  connections.  This  not  only 
+ensures greater data security but allows for closer monitoring of field work by 
+the local STEPS Coordinating Committee. 
+ 
+While eSTEPS does require the use of several Android devices (one per data 
+collector), this additional cost is partially offset by the savings in data entry 
+expenses. If resources do not exist to purchase Android devices, consider 
+pooling resources with other teams in your  organization.  The  Android 
+devices can be used for other surveys and therefore they can be made   
+available in your organization as a shared resource. Alternatively, contact the 
+WHO Country or Regional Office to enquire about the possibility of  
+borrowing WHO-owned Android devices for the survey. 
+ 
+ 
+ 
+eSTEPS 
+support 
+WHO provides support for eSTEPS and can provide assistance and training as 
+needed. 
+ 
+ 
+
+
+===== PDF PAGE 120 =====
+
+Creating the electronic STEPS Instrument 
+Continued on next page 
+3-1-3 
+WHO STEPS Surveillance 
+Part 3: Data Collection 
+Section 1: Introduction to eSTEPS and Preparation of the Data Collection Environment 
+Last Updated: 26 January 2017 
+ 
+ 
+ 
+Introduction 
+In order to use the STEPS Android app, the country-specific STEPS  
+Instrument must be translated into the XLSForm format.   This is a widely- 
+used survey form standard that allows you  to create  complex forms  in 
+multiple languages using Microsoft Excel.  An XLSForm version of the  
+generic STEPS Instrument has been created by the WHO STEPS team. Thus, 
+the generation of the country-specific STEPS Instrument should only entail 
+modifications to the generic instrument file. 
+ 
+ 
+XLSForm 
+overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Survey 
+Worksheet 
+XLSForm files are Excel worksheets comprised of the following three 
+worksheets: 
+ 
+Work- 
+sheet 
+Description 
+Survey 
+Contains the majority of the instrument content and its overall 
+structure. 
+Choices 
+Contains the response options for all multiple choice questions in 
+the instrument. 
+Settings 
+Allows for the setting of advanced options for the instrument. 
+This is an optional worksheet but is used in STEPS Instruments  
+to clearly specify the Form ID (see next topic in this Section). If 
+not explicitly named here, the name of the Excel file is used as 
+Form ID. 
+ 
+ 
+The image below shows a small sample from the survey worksheet, which 
+will be used here to describe the columns of this worksheet. While only the 
+first 3 columns listed here are mandatory, the remaining columns should be 
+used as well in the STEPS Instrument. 
+ 
+Column 
+Description 
+type 
+Contains the data type for each question and indicates the 
+beginning and end of a group of questions (which may or may 
+not all appear on one screen, depending on the design). 
+ 

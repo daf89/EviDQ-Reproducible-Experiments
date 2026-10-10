@@ -1,0 +1,369 @@
+
+
+===== PDF PAGE 17 =====
+
+pharmacologic stress echocardiography 
+or nuclear imaging.
+Screening Asymptomatic Individuals 
+for Atherosclerotic Cardiovascular 
+Disease
+The screening of asymptomatic individuals 
+with high ASCVD risk is not recommended, 
+in part because these high-risk people 
+should already be receiving intensive med­
+ical therapy—an approach that provides 
+benefits similar to those of invasive revascu­
+larization (197,198). A randomized trial 
+demonstrated no clinical benefit of routine 
+screening with adenosine-stress radionu­
+clide myocardial perfusion imaging in 
+asymptomatic people with type 2 diabe­
+tes and normal ECGs (199). Another ran­
+domized study showed that routine 
+screening with coronary computed to­
+mography angiography did not reduce 
+the composite rate of all-cause mortality, 
+nonfatal MI, or unstable angina in asymp­
+tomatic people with type 1 or type 2 dia­
+betes (200). Studies have also found that 
+a risk factor–based approach to the initial 
+diagnostic evaluation and subsequent 
+follow-up for coronary artery disease 
+fails to identify which people with type 2 
+diabetes who will have silent ischemia on 
+screening tests (201,202).
+Any benefit of noninvasive coronary 
+artery disease screening methods, such 
+as computed tomography calcium scor­
+ing, to identify subgroups for different 
+treatment strategies remains unproven 
+in asymptomatic people with diabetes, 
+though research is ongoing. Coronary 
+calcium scoring in asymptomatic people 
+with diabetes may help in risk stratifica­
+tion (203,204) and provide reasoning for 
+treatment intensification and/or guiding 
+informed individual decision-making and 
+willingness for medication initiation and 
+participation. However, their routine use 
+leads to radiation exposure and may re­
+sult in unnecessary invasive testing, such 
+as coronary angiography and revasculari­
+zation procedures. The ultimate balance 
+of benefit, cost, and risk of such an ap­
+proach in asymptomatic individuals re­
+mains controversial, particularly in the 
+modern setting of aggressive ASCVD risk 
+factor management.
+Screening for Asymptomatic Heart 
+Failure in People With Diabetes
+People with diabetes are at an increased 
+risk for developing heart failure, as shown in 
+multiple longitudinal, observational studies 
+(205,206). This association is not only ob­
+served in people with type 2 diabetes but 
+also evident in people with type 1 diabe­
+tes (205,206). In a large multinational co­
+hort of 750,000 people with diabetes 
+without established CVD, heart failure 
+and CKD were the most frequent first 
+manifestations of cardiovascular or kid­
+ney disease (207). For a detailed review 
+of screening, diagnosis, and treatment 
+recommendations of heart failure in peo­
+ple with diabetes, the reader is further re­
+ferred to the ADA report “Heart Failure: 
+An Underappreciated Complication of Dia­
+betes. A Consensus Report of the American 
+Diabetes Association” (16).
+People with diabetes are at particularly 
+high risk for progression from asymptom­
+atic stage A and B to symptomatic stage C 
+and D heart failure (208,209). Identifica­
+tion, risk stratification, and early treatment 
+of risk factors in people with diabetes and 
+asymptomatic stages of heart failure re­
+duce the risk for progression to symptom­
+atic heart failure (210,211). In people with 
+type 2 diabetes, measurement of natri­
+uretic peptides, including B-type natriuretic 
+peptide (BNP) or N-terminal pro-BNP (NT- 
+proBNP), identifies people at risk for heart 
+failure development, progression of symp­
+toms, and heart failure–related mortality 
+(212–214). A similar association and prog­
+nostic values of increased NT-proBNP with 
+increased cardiovascular and all-cause mor­
+tality has been reported in people with 
+type 1 diabetes (215). Results from several 
+randomized controlled trials revealed that 
+more intensive treatment of risk factors in 
+people with increased levels of natriuretic 
+peptides reduces the risk for symptomatic 
+heart failure, heart failure hospitalization, 
+and newly diagnosed left ventricular dys­
+function (211,216,217).
+Consider screening asymptomatic adults 
+with diabetes for the development of 
+cardiac structural or functional abnormali­
+ties (stage B heart failure) by measuring 
+BNP or NT-proBNP. The biomarker 
+threshold for abnormal values is BNP 
+level ≥50 pg/mL and NT-proBNP level 
+≥125 pg/mL. Use clinical judgement when 
+evaluating abnormal levels of natriuretic 
+peptide and consider possible competing 
+diagnoses that may lead to increased levels 
+of natriuretic peptide, such as renal insuffi­
+ciency, pulmonary hypertension, chronic 
+obstructive lung disease, obstructive sleep 
+apnea, ischemic and hemorrhagic stroke, 
+and anemia. Conversely, natriuretic pep­
+tide levels may be decreased in people 
+with obesity, which impairs sensitivity of 
+testing.
+In people with diabetes and an abnor­
+mal natriuretic peptide level, echocardi­
+ography is recommended as the next 
+step to screen for structural heart disease 
+and echocardiographic Doppler indices 
+for evidence of diastolic dysfunction and 
+increased filling pressures (218). At this 
+stage, an interprofessional approach, which 
+should include a CVD specialist, is recom­
+mended to implement a guideline-directed 
+medical treatment strategy, which may 
+reduce the risk of progression to symp­
+tomatic stages of heart failure (210). The 
+recommendations for screening and treat­
+ment of heart failure in people with diabe­
+tes discussed in this section are consistent 
+with the ADA consensus report on heart 
+failure (16) and with current American 
+Heart Association/American College of 
+Cardiology/Heart Failure Society of America 
+guidelines for the management of heart 
+failure (219).
+Screening for Asymptomatic 
+Peripheral Artery Disease in People 
+With Diabetes
+The risk for PAD in people with diabetes 
+is higher than that in people without dia­
+betes (220–222). In the PAD Awareness, 
+Risk, and Treatment: New Resources for 
+Survival (PARTNERS) program, 30% of peo­
+ple aged 50–69 years with a history of 
+cigarette smoking or diabetes, or aged 
+≥70 years regardless of risk factors, had 
+PAD (223). Similarly, in other screening stud­
+ies, 26% of people with diabetes have been 
+shown to have PAD (224), and diabetes in­
+creased the odds of having PAD by 85% 
+(225). Notably, classical symptoms of claudi­
+cation are uncommon, and almost half of 
+people with newly diagnosed PAD were 
+asymptomatic (223). Many individuals with 
+PAD remain asymptomatic either because 
+they limit physical activity to avoid claudi­
+cation symptoms or because a comorbid 
+condition prevents them from reaching a 
+threshold of activity to provoke symptoms. 
+Risk factors associated with an increased 
+risk for PAD in people with diabetes in­
+clude age, smoking, hypertension, dysli­
+pidemia, worse glycemic management, 
+longer duration of diabetes, neuropathy, 
+and retinopathy as well as a prior history 
+of CVD (226,227). In addition, the pres­
+ence of microvascular disease is associ­
+ated with adverse outcomes in people 
+with PAD, including an increased risk for 
+future limb amputation (228,229). While 
+S232 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 18 =====
+
+a positive screening test for PAD in an 
+asymptomatic population has been associ­
+ated with increased cardiovascular event 
+rates (230,231), prospective, randomized 
+studies addressing whether screening for 
+PAD in people with diabetes improves 
+long-term limb outcomes and cardiovascu­
+lar event rates are limited. In the random­
+ized controlled Viborg Vascular (VIVA) trial, 
+50,156 participants, of whom approxi­
+mately 10% had diabetes, were random­
+ized to combined vascular screening for 
+abdominal aortic aneurysm, PAD, and hy­
+pertension or to no screening. Although 
+the number needed to invite for screen­
+ing to prevent one death was close to 
+170, vascular screening was associated 
+with increased pharmacologic therapy 
+(antiplatelet, lipid-lowering, and antihy­
+pertensive therapy), reduced in-hospital 
+time for PAD and coronary artery disease, 
+and reduced mortality (232). Therefore, 
+screening is recommended for asymp­
+tomatic PAD using ankle-brachial index in 
+people with diabetes in whom a diagnosis 
+of PAD may help further intensify phar­
+macologic therapies and improve cardio­
+vascular and limb outcomes, such as the 
+intensification of LDL-lowering therapies 
+(233), the initiation of low-dose rivaroxa­
+ban therapy (234), or the initiation of 
+GLP-1 RA, as recent clinical trial evidence 
+supports a symptomatic benefit of GLP-1 
+RA in people with diabetes and PAD (235). 
+These people include those with age 
+≥65 years, diabetes with duration ≥10 years, 
+microvascular disease, clinical evidence of 
+foot complications, or any end-organ dam­
+age from diabetes.
+Lifestyle and Pharmacologic 
+Interventions
+Intensive lifestyle intervention focusing 
+on weight loss through decreased caloric 
+intake and increased physical activity, as 
+performed in the Look AHEAD (Action 
+for Health in Diabetes) trial, may be con­
+sidered for improving glucose manage­
+ment, fitness, and some ASCVD risk factors 
+(236). Individuals at increased ASCVD risk 
+should receive statin, ACE inhibitor, or ARB 
+therapy if the individual has hypertension, 
+and possibly aspirin, unless there are con­
+traindications to a particular drug class.
+Clear cardiovascular benefits exist for 
+ACE inhibitor or ARB therapy in people 
+with diabetes. The Heart Outcomes Pre­
+vention Evaluation (HOPE) study random­
+ized 9,297 individuals aged ≥55 years 
+with a history of vascular disease or 
+diabetes plus one other cardiovascular 
+risk factor to either ramipril or placebo. 
+Ramipril significantly reduced cardiovas­
+cular and all-cause mortality, MI, and 
+stroke (237). ACE inhibitors or ARB ther­
+apy also have well-established long-term 
+benefit in people with diabetes and CKD 
+or hypertension, and these agents are rec­
+ommended for hypertension management 
+in people with known ASCVD (particularly 
+coronary artery disease) (66,67,238). Peo­
+ple with type 2 diabetes and CKD should 
+be considered for treatment with finere­
+none to reduce cardiovascular outcomes 
+and the risk of CKD progression (239–242). 
+β-Blockers should be used in individuals 
+with active angina or HFrEF and for 3 years 
+after MI in those with preserved left ven­
+tricular function (243,244).
+Glucose-Lowering Therapies and 
+Cardiovascular Outcomes
+In 2008, the U.S. Food and Drug Adminis­
+tration (FDA) issued guidance for industry 
+to perform cardiovascular outcomes trials 
+for all new medications for the treatment 
+of type 2 diabetes amid concerns of in­
+creased cardiovascular risk (245). Diabe­
+tes medications approved prior to 2008 
+were not subject to the guidance. This 
+guidance was revised in May 2023 (246).
+SGLT2 Inhibitors
+Results of large cardiovascular outcome 
+trials of empagliflozin (10 mg or 25 mg 
+daily) and canagliflozin (100 or 300 mg 
+daily) showed that treatment with ei­
+ther drug reduced rates of MI, stroke, or 
+cardiovascular death. While there was an 
+increased risk of lower-limb amputation 
+with canagliflozin in one trial (247), no sig­
+nificant increase in lower-limb amputa­
+tions, fractures, AKI, or hyperkalemia was 
+seen in other trials of canagliflozin (248). 
+The major cardiovascular outcome trial of 
+dapagliflozin (10 mg daily) did not show a 
+reduction in the coprimary outcome of 
+MI, stroke, or cardiovascular death but did 
+show a significantly lower rate of the co­
+primary composite outcome of hospitali­
+zation for heart failure or cardiovascular 
+death, which was driven by its effect on 
+hospitalization for heart failure. Cardiovas­
+cular outcome trials of ertugliflozin and bex­
+agliflozin have not demonstrated evidence 
+of cardiovascular risk reduction (249,250).
+GLP-1 Receptor Agonists
+Results of trials with the GLP-1 RAs lira­
+glutide (once daily) and semaglutide, 
+albiglutide, efpeglenatide, and dulaglutide 
+(once weekly) have all shown evidence of 
+a reduction in major atherosclerotic cardio­
+vascular outcomes (MI, stroke, or cardiovas­
+cular death) (251–256). An oral formulation 
+of semaglutide has also demonstrated car­
+diovascular benefit (257–259). Lixisenatide 
+and extended-release exenatide were not 
+superior to placebo with respect to the pri­
+mary end point of cardiovascular outcomes 
+(260) and therefore are not recommended 
+for CVD risk reduction.
+In summary, the numerous large ran­
+domized controlled trials report statistically 
+significant reductions in cardiovascular 
+events for three of the FDA-approved 
+SGLT2 inhibitors (empagliflozin, canagli­
+flozin, and dapagliflozin) and four FDA- 
+approved GLP-1 RAs (liraglutide, albiglutide 
+[although that agent was removed from 
+the market for business reasons], semaglu­
+tide [subcutaneous and oral formulations], 
+and dulaglutide). Cardiovascular outcome 
+trials of the dual glucose-dependent insuli­
+notropic polypeptide (GIP)/GLP-1 RA tirze­
+patide are ongoing (261).
+Meta-analyses of the trials reported to 
+date suggest that GLP-1 RAs and SGLT2 
+inhibitors reduce risk of atherosclerotic 
+major adverse cardiovascular events to a 
+comparable degree in people with type 2 
+diabetes and established ASCVD (262,263). 
+SGLT2 inhibitors and GLP-1RA also reduce 
+risk of heart failure hospitalization and 
+progression of kidney disease in people 
+with established ASCVD, multiple risk fac­
+tors for ASCVD, or albuminuric kidney dis­
+ease (264,265). In people with type 2 
+diabetes and established ASCVD, multiple 
+ASCVD risk factors, or CKD, an SGLT2 in­
+hibitor with demonstrated cardiovascular 
+benefit or a GLP-1 RA with demonstrated 
+cardiovascular benefit or both is recom­
+mended to reduce the risk of major ad­
+verse cardiovascular events and/or heart 
+failure hospitalization. Emerging data sug­
+gest that use of both classes of drugs will 
+provide an additive cardiovascular and 
+kidney outcomes benefit; thus, combina­
+tion therapy with an SGLT2 inhibitor and 
+a GLP-1 RA may be considered to pro­
+vide the complementary outcomes ben­
+efits associated with these classes of 
+medication (254), which are largely inde­
+pendent of glycemic management. The 
+efficacy and safety of SGLT2 inhibitors 
+for reduction of cardiovascular and kidney 
+events in people with type 1 diabetes is 
+being investigated and is not currently rec­
+ommended due to a significant increase of 
+diabetesjournals.org/care                                                                                                                           
+Cardiovascular Disease and Risk Management
+S233 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

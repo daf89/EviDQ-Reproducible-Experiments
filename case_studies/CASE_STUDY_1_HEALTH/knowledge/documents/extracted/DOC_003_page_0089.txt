@@ -1,0 +1,155 @@
+224. Timpka S, Fraser A, Schyman T, Stuart JJ, Åsvold BO, Mogren I, et al. The value of preg-
+nancy complication history for 10-year cardiovascular disease risk prediction in 
+middle-aged women. Eur J Epidemiol 2018;33:1003–10. https://doi.org/10.1007/ 
+s10654-018-0429-1 
+225. Blankenberg S, Salomaa V, Makarova N, Ojeda F, Wild P, Lackner KJ, et al. Troponin I 
+and cardiovascular risk prediction in the general population: the BiomarCaRE consor-
+tium. Eur Heart J 2016;37:2428–37. https://doi.org/10.1093/eurheartj/ehw172 
+226. Zeller T, Tunstall-Pedoe H, Saarela O, Ojeda F, Schnabel RB, Tuovinen T, et al. High 
+population prevalence of cardiac troponin I measured by a high-sensitivity assay and 
+cardiovascular risk estimation: the MORGAM biomarker project Scottish cohort. 
+Eur Heart J 2014;35:271–81. https://doi.org/10.1093/eurheartj/eht406 
+227. Schoenthaler AM, Lancaster KJ, Chaplin W, Butler M, Forsyth J, Ogedegbe G, et al. 
+Cluster randomized clinical trial of FAITH (faith-based approaches in the treatment 
+of hypertension) in blacks. Circ Cardiovasc Qual Outcomes 2018;11:e004691. https:// 
+doi.org/10.1161/circoutcomes.118.004691 
+228. Beaney T, Schutte AE, Stergiou GS, Borghi C, Burger D, Charchar F, et al. May 
+Measurement Month 2019: the global blood pressure screening campaign of the inter-
+national society of Hypertension. Hypertension 2020;76:333–41. https://doi.org/10. 
+1161/hypertensionaha.120.14874 
+229. Victor RG, Lynch K, Li N, Blyler C, Muhammad E, Handler J, et al. A cluster-randomized 
+trial of blood-pressure reduction in black barbershops. N Engl J Med 2018;378: 
+1291–301. https://doi.org/10.1056/NEJMoa1717250 
+230. Sun Y, Mu J, Wang DW, Ouyang N, Xing L, Guo X, et al. A village doctor-led multifa-
+ceted intervention for blood pressure control in rural China: an open, cluster rando-
+mised trial. Lancet 2022;399:1964–75. https://doi.org/10.1016/s0140-6736(22)00325-7 
+231. Schmidt BM, Durao S, Toews I, Bavuma CM, Hohlfeld A, Nury E, et al. Screening strat-
+egies for hypertension. Cochrane Database Syst Rev 2020;5:CD013212. https://doi.org/ 
+10.1002/14651858.CD013212.pub2 
+232. Kaczorowski J, Chambers LW, Dolovich L, Paterson JM, Karwalajtys T, Gierman T, 
+et al. Improving cardiovascular health at population level: 39 community cluster rando-
+mised trial of Cardiovascular Health Awareness Program (CHAP). BMJ 2011;342: 
+d442. https://doi.org/10.1136/bmj.d442 
+233. Lindholt JS, Søgaard R, Rasmussen LM, Mejldal A, Lambrechtsen J, Steffensen FH, et al. 
+Five-year outcomes of the Danish cardiovascular screening (DANCAVAS) trial. N Engl 
+J Med 2022;387:1385–94. https://doi.org/10.1056/NEJMoa2208681 
+234. Sheppard JP, Schwartz CL, Tucker KL, McManus RJ. Modern management and diagno-
+sis of hypertension in the United Kingdom: home care and self-care. Ann Glob Health 
+2016;82:274–87. https://doi.org/10.1016/j.aogh.2016.02.005 
+235. Andersson H, Hedström L, Bergman S, Bergh H. The outcome of two-step blood pres-
+sure screening in dental healthcare. Scand J Public Health 2018;46:623–9. https://doi. 
+org/10.1177/1403494818759840 
+236. Zhang H, Thijs L, Kuznetsova T, Fagard RH, Li X, Staessen JA. Progression to hyper-
+tension in the non-hypertensive participants in the Flemish study on environment, 
+genes and health outcomes. J Hypertens 2006;24:1719–27. https://doi.org/10.1097/ 
+01.hjh.0000242395.07473.92 
+237. Conen D, Aeschbacher S, Thijs L, Li Y, Boggia J, Asayama K, et al. Age-specific differ-
+ences between conventional and ambulatory daytime blood pressure values. 
+Hypertension 2014;64:1073–9. https://doi.org/10.1161/hypertensionaha.114.03957 
+238. Karnjanapiboonwong A, Anothaisintawee T, Chaikledkaew U, Dejthevaporn C, Attia J, 
+Thakkinstian A. Diagnostic performance of clinic and home blood pressure measure-
+ments compared with ambulatory blood pressure: a systematic review and 
+meta-analysis. BMC Cardiovasc Disord 2020;20:491. https://doi.org/10.1186/s12872- 
+020-01736-2 
+239. Viera AJ, Yano Y, Lin FC, Simel DL, Yun J, Dave G, et al. Does this adult patient have 
+hypertension?: The rational clinical examination systematic review. JAMA 2021;326: 
+339–47. https://doi.org/10.1001/jama.2021.4533 
+240. Green BB, Anderson ML, Cook AJ, Ehrlich K, Hall YN, Hsu C, et al. Clinic, home, and 
+kiosk blood pressure measurements for diagnosing hypertension: a randomized diag-
+nostic study. J Gen Intern Med 2022;37:2948–56. https://doi.org/10.1007/s11606-022- 
+07400-z 
+241. Kim JS, Rhee MY, Kim CH, Kim YR, Do U, Kim J-H, et al. Algorithm for diagnosing 
+hypertension using out-of-office blood pressure measurements. J Clin Hypertens 
+(Greenwich) 2021;23:1965–74. https://doi.org/10.1111/jch.14382 
+242. van den Born BH, Lip GYH, Brguljan-Hitij J, Cremer A, Segura J, Morales E, et al. ESC 
+Council on Hypertension position document on the management of hypertensive 
+emergencies. Eur Heart J Cardiovasc Pharmacother 2019;5:37–46. https://doi.org/10. 
+1093/ehjcvp/pvy032 
+243. Ross S, Walker A, MacLeod MJ. Patient compliance in hypertension: role of illness per-
+ceptions and treatment beliefs. J Hum Hypertens 2004;18:607–13. https://doi.org/10. 
+1038/sj.jhh.1001721 
+244. Hagger MS, Koch S, Chatzisarantis NLD, Orbell S. The common sense model of self- 
+regulation: meta-analysis and test of a process model. Psychol Bull 2017;143:1117–54. 
+https://doi.org/10.1037/bul0000118 
+245. Meyer D, Leventhal H, Gutmann M. Common-sense models of illness: the ex-
+ample of hypertension. Health Psychol 1985;4:115–35. https://doi.org/10.1037// 
+0278-6133.4.2.115 
+246. O’Carroll RE, Chambers JA, Dennis M, Sudlow C, Johnston M. Improving adherence to 
+medication in stroke survivors: a pilot randomised controlled trial. Ann Behav Med 
+2013;46:358–68. https://doi.org/10.1007/s12160-013-9515-5 
+247. Hollands GJ, Usher-Smith JA, Hasan R, Alexander F, Clarke N, Griffin SJ. Visualising 
+health risks with medical imaging for changing recipients’ health behaviours and risk 
+factors: systematic review with meta-analysis. PLoS Med 2022;19:e1003920. https:// 
+doi.org/10.1371/journal.pmed.1003920 
+248. Burnier M. Medication adherence and persistence as the cornerstone of effective anti-
+hypertensive therapy. Am J Hypertens 2006;19:1190–6. https://doi.org/10.1016/j. 
+amjhyper.2006.04.006 
+249. Parati G, Goncalves A, Soergel D, Bruno RM, Caiani EG, Gerdts E. New perspectives 
+for hypertension management: progress in methodological and technological develop-
+ments. Eur J Prev Cardiol 2023;30:48–60. https://doi.org/10.1093/eurjpc/zwac203 
+250. Naderi SH, Bestwick JP, Wald DS. Adherence to drugs that prevent cardiovascular dis-
+ease: meta-analysis on 376,162 patients. Am J Med 2012;125:882–7.e1. https://doi.org/ 
+10.1016/j.amjmed.2011.12.013 
+251. Chang TE, Ritchey MD, Park S, Chang A, Odom EC, Durthaler J, et al. National rates of 
+nonadherence to antihypertensive medications among insured adults with hyperten-
+sion, 2015. Hypertension 2019;74:1324–32. https://doi.org/10.1161/hypertensionaha. 
+119.13616 
+252. Qvarnström M, Kahan T, Kieler H, Brandt L, Hasselström J, Bengtsson Boström K, et al. 
+Persistence to antihypertensive drug treatment in Swedish primary healthcare. Eur J 
+Clin Pharmacol 2013;69:1955–64. https://doi.org/10.1007/s00228-013-1555-z 
+253. Burnier M, Egan BM. Adherence in hypertension. Circ Res 2019;124:1124–40. https:// 
+doi.org/10.1161/circresaha.118.313220 
+254. Curneen JMG, Rabbitt L, Browne D, O’Donoghue DF, Alansari Y, Harhen B, et al. 
+Major disparities in patient-reported adherence compared to objective assessment 
+of adherence using mass spectrometry: a prospective study in a tertiary-referral hyper-
+tension clinic. Br J Clin Pharmacol 2022;89:1948–55. https://doi.org/10.1111/bcp.15292 
+255. Corrao G, Parodi A, Nicotra F, Zambon A, Merlino L, Cesana G, et al. Better compli-
+ance to antihypertensive medications reduces cardiovascular risk. J Hypertens 2011;29: 
+610–8. https://doi.org/10.1097/HJH.0b013e328342ca97 
+256. Kim S, Shin DW, Yun JM, Hwang Y, Park SK, Ko Y-J, et al. Medication adherence and 
+the risk of cardiovascular mortality and hospitalization among patients with newly pre-
+scribed antihypertensive medications. Hypertension 2016;67:506–12. https://doi.org/ 
+10.1161/hypertensionaha.115.06731 
+257. Lane D, Lawson A, Burns A, Azizi M, Burnier M, Jones DJL, et al. Nonadherence in 
+hypertension: how to develop and implement chemical adherence testing. 
+Hypertension 2022;79:12–23. https://doi.org/10.1161/hypertensionaha.121.17596 
+258. Marshall IJ, Wolfe CD, McKevitt C. Lay perspectives on hypertension and drug adher-
+ence: systematic review of qualitative research. BMJ 2012;345:e3953. https://doi.org/ 
+10.1136/bmj.e3953 
+259. Schoenthaler A, Knafl GJ, Fiscella K, Ogedegbe G. Addressing the social needs of 
+hypertensive patients: the role of patient–provider communication as a predictor of 
+medication adherence. Circ Cardiovasc Qual Outcomes 2017;10:e003659. https://doi. 
+org/10.1161/circoutcomes.117.003659 
+260. Schmieder RE, Wassmann S, Predel HG, Weisser B, Blettenberg J, Gillessen A, et al. 
+Improved persistence to medication, decreased cardiovascular events and reduced all- 
+cause mortality in hypertensive patients with use of single-pill combinations: results 
+from the START-study. Hypertension 2023;80:1127–35. https://doi.org/10.1161/ 
+hypertensionaha.122.20810 
+261. Ruzicka M, Leenen FHH, Ramsay T, Bugeja A, Edwards C, McCormick B, et al. Use of 
+directly observed therapy to assess treatment adherence in patients with apparent 
+treatment-resistant hypertension. JAMA Intern Med 2019;179:1433–4. https://doi. 
+org/10.1001/jamainternmed.2019.1455 
+262. Pio-Abreu A, Trani-Ferreira F, Silva GV, Bortolotto LA, Drager LF. Directly observed 
+therapy for resistant/refractory hypertension diagnosis and blood pressure control. 
+Heart 2022;108:1952–6. https://doi.org/10.1136/heartjnl-2022-320802 
+263. Tomaszewski M, White C, Patel P, Masca N, Damani R, Hepworth J, et al. High rates of 
+non-adherence to antihypertensive treatment revealed by high-performance liquid 
+chromatography-tandem mass spectrometry (HP LC-MS/MS) urine analysis. Heart 
+2014;100:855–61. https://doi.org/10.1136/heartjnl-2013-305063 
+264. Forette F, Seux ML, Staessen JA, et al. The prevention of dementia with antihyperten-
+sive treatment: new evidence from the systolic hypertension in Europe (Syst-Eur) study. 
+Arch Intern Med 2002;162:2046–52. https://doi.org/10.1001/archinte.162.18.2046 
+265. Näslund U, Ng N, Lundgren A, Fhärm E, Grönlund C, Johansson H, et al. Visualization 
+of asymptomatic atherosclerotic disease for optimum cardiovascular prevention 
+(VIPVIZA): a pragmatic, open-label, randomised controlled trial. Lancet 2019;393: 
+133–42. https://doi.org/10.1016/s0140-6736(18)32818-6 
+266. Bengtsson A, Norberg M, Ng N, Carlberg B, Grönlund C, Hultdin J, et al. The bene-
+ficial effect over 3 years by pictorial information to patients and their physician 
+about subclinical atherosclerosis and cardiovascular risk: results from the 
+VIPVIZA randomized clinical trial. Am J Prev Cardiol 2021;7:100199. https://doi. 
+org/10.1016/j.ajpc.2021.100199 
+267. Sjölander M, Carlberg B, Norberg M, Näslund U, Ng N. Prescription of lipid-lowering 
+and antihypertensive drugs following pictorial information about subclinical 
+4000 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

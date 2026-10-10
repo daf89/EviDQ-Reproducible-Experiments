@@ -1,0 +1,7 @@
+﻿condition,validation_n,tn,fp,fn,tp
+REF,154,90,10,10,44
+DQ,154,91,9,12,42
+DOC,139,85,7,9,38
+MEDIAN,154,91,9,11,43
+KNN,154,90,10,12,42
+ITERATIVE,154,91,9,10,44

@@ -1,0 +1,139 @@
+recommendations. There is good evidence for the safety of
+intensive LDL-cholesterol lowering, and statin-based therapy
+combined with a ﬁre-and-forget strategy is low cost. This
+approach is consistent with a more recent recommendation
+for primary prevention in CKD by the American College of
+Cardiology/American
+Heart
+Association
+(which
+recom-
+mended 10-year thresholds of >7.5%).674
+Practice Point 3.15.1.4: Consider prescribing proprotein
+convertase subtilisin/kexin type 9 (PCSK-9) inhibitors to
+people with CKD who have an indication for their use.
+Proprotein convertase subtilisin/kexin type 9 (PCSK-9) in-
+hibitors have been shown to safely reduce ASCVD risk when
+added to maximal tolerated statin-based regimens in people at
+high coronary risk.675,676 Subgroup analyses suggest that their
+safety proﬁle and their biochemical and clinical efﬁcacy are
+similar when participants with CKD and without CKD are
+compared. These trials recruited down to an eGFR of 20 ml/
+min per 1.73 m2.677,678 Current examples of recommendations
+for the use of PCSK-9 inhibitors from the cardiology
+community (and licensed indications) include as an adjunct to
+diet and maximally tolerated statin therapy for the treatment of
+adults with heterozygous familial hypercholesterolemia or for
+people with clinical ASCVD who require additional lowering of
+LDL cholesterol.679,680
+Dietary approaches.
+Practice Point 3.15.1.5: Consider a plant-based “Mediter-
+ranean-style” diet in addition to lipid-modifying therapy to
+reduce cardiovascular risk.
+Diet and lipids have been comprehensively reviewed by
+other clinical practice guidelines.679,681 In that work, the
+Work Groups highlighted that in general populations,
+observational studies have associated plant-based diets that
+include
+higher consumption
+of
+fruit,
+vegetables,
+nuts,
+legumes, ﬁsh, olive oil, yogurt, and whole grains, with lower
+risk of CVD. Diets associated with higher risk are those
+including high consumption of red and processed meats,
+reﬁned carbohydrates, and salt. Vegetable sources of fats
+and
+polyunsaturated
+fatty
+acids
+(e.g.,
+in
+nuts,
+seeds,
+avocado, and olive oil) are also associated with a lower risk
+compared
+with
+animal
+fats,
+including
+dairy
+fat.679
+A
+Mediterranean-style diet has an emphasis on extra virgin
+olive oil and is high in unsaturated fat. RCTs have shown
+that such diets have important effects on cardiovascular risk
+in the long term despite only small effects on traditional
+markers of metabolic syndrome proﬁle.682–685 In the large
+Prevención con Dieta Mediterránea (PREDIMED) primary
+prevention trial of 7447 adults, the Mediterranean diet rich
+in
+extra
+virgin
+olive
+oil
+reduced
+the
+risk
+of
+major
+cardiovascular events by 31% (HR: 0.69; 95% CI: 0.53–
+0.91). The Coronary Diet Intervention With Olive Oil and
+Cardiovascular Prevention (CORDIOPREV) trial found that
+allocation to a Mediterranean diet rich in extra virgin olive
+oil reduced the risk of the composite of MACE by
+approximately 22%–25%.684 There is no large-scale CKD-
+speciﬁc trial comparing these dietary interventions.
+3.15.2 Use of antiplatelet therapy
+Recommendation 3.15.2.1: We recommend oral low-
+dose aspirin for prevention of recurrent ischemic
+cardiovascular disease events (i.e., secondary pre-
+vention) in people with CKD and established
+ischemic cardiovascular disease (1C).
+This recommendation places high value on the importance of
+reducing recurrence of myocardial infarction, ischemic strokes,
+or peripheral arterial disease complications in people with
+CKD and established ischemic CVD due to the mortality and
+disability associated with such complications. In secondary
+prevention, trials have clearly shown the absolute beneﬁts of
+low-dose aspirin substantially exceed the potential for bleeding
+complications, creating certainty about net beneﬁts when
+treating this population. In people with CKD without prior
+ischemic CVD, the balance of beneﬁts and risks are uncertain
+and may be counterbalanced—large RCTs are ongoing.
+Key information
+Balance of beneﬁts and harm. Based on a number of large
+RCTs in populations that are likely to be largely free from
+CKD, lifelong use of low-dose aspirin (75–100 mg) for the
+prevention of recurrence of complications of ischemic CVD is
+strongly recommended among people with known CVD (a
+therapeutic approach referred to as secondary prevention).
+Conversely, it is not possible to provide deﬁnitive recom-
+mendations on when to use aspirin to prevent a ﬁrst ischemic
+cardiovascular event (i.e., primary prevention) in people at
+high risk, and a research recommendation is provided. This is
+due to uncertainty of the net absolute value of such an
+approach, as any reduction in the risk of atherosclerotic
+cardiovascular events needs to be weighed against the risk of
+major bleeding. It is important to consider CKD-speciﬁc data
+in the totality of the evidence.
+Key evidence from general populations is derived from a
+2009 meta-analysis by the Anti-thrombotic Treatment Tria-
+lists’ collaboration. The analyses included data on long-term
+aspirin use versus control care in 16 secondary prevention
+trials (approximately 17,000 people at high average risk,
+approximately 43,000 person-years, 3306 serious vascular
+events [deﬁned as myocardial infarction, stroke, or cardio-
+vascular death]), and 6 primary prevention trials (approxi-
+mately 95,000 participants at low average risk, approximately
+660,000 person-years, 3554 serious vascular events).685a In the
+secondary prevention trials, allocation to aspirin reduced the
+risk of both ischemic stroke and myocardial infarction by
+about one-ﬁfth, such that an overall RR reduction for any
+serious vascular event was 19% compared with controls
+(RR: 0.81; 95% CI: 0.75–0.87). This equated to a 1.49%
+chapter 3
+www.kidney-international.org
+S236
+Kidney International (2024) 105 (Suppl 4S), S117–S314

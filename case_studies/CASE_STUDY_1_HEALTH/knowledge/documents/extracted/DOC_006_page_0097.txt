@@ -1,0 +1,37 @@
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S ( C Q M s )
+S E C T I O N 8 : R E V I E W O F C L I N I C A L Q U A L I T Y M E A S U R E S 
+8.1 Types of Clinical Quality Measures 
+Quality measures are generally divided into three types using a quality model first developed by Avedis 
+Donabedian[93]: 
+• 
+StructuralMeasures evaluate healthcare providers capacity, systems,andprocesses toprovide 
+quality healthcare. For example: 
+o The use of a certified electronic medical record 
+o The number or proportion of board-certified physicians within a healthcare organization 
+o The ratio of providers to patients 
+• 
+Process Measures evaluate healthcare providers use of evidence-based processes to maintain 
+or improve health, typically reflecting generally acceptedrecommendations for clinical practice, 
+such as those developed by the United States Preventive Services Task Force (USPTF). Most 
+healthcare quality measures used for public reporting are process measures. For example: 
+o The percentage of people receiving preventive services (such as mammograms or 
+immunizations). 
+o The percentage of people with diabetes who had their blood sugar tested in a timely 
+manner. 
+• 
+Outcome Measures reflect the impact of the healthcare service or interventions on the health 
+status of patients. For example: 
+o The percentage of patients who died as a result of surgery(surgicalmortalityrates). 
+o The rate of surgical complications or hospital-acquired infections. 
+8.2 
+Finding Clinical Quality Measures for Use in Quality Improvement 
+Common CQMs, however, may not include what you need to measure and trackquality performance for 
+a given QI project. This leaves twooptions: find another quality measure or create a custom measure of 
+your own. 
+For searching a comprehensive database of CQMs, NQF provides a web search tool called the Quality 
+Positioning System. 
+Measures can be searched using multiple criteria and undergo a rigorous review process before they are 
+endorsed by NQF. The measure identifier assigned by NQF is widely used to reference specific quality 
+measures (for example, NQF 0018 measures blood pressure control in patients with hypertension). 
+Health IT Advisor Handbook 
+Page 92

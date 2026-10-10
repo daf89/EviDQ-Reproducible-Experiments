@@ -1,0 +1,127 @@
+but the magnitude of the RR was consistent with the data
+from general populations (RR: 1.35; 95% CI: 1.10–1.65).686
+Note that these analyses did not distinguish
+between
+primary and secondary prevention settings.686 The 2009
+Anti-thrombotic Treatment Trialists’ collaboration meta-
+analysis and results from 3 more recent large trials (A Study
+of Cardiovascular Events in Diabetes [ASCEND],687 Aspirin
+in Reducing Events in the Elderly [ASPREE],688 and Aspirin
+to Reduce Risk of Initial Vascular Events [ARRIVE]689)
+assessing the effects of aspirin versus placebo for primary
+prevention in speciﬁc high-risk populations found that any
+harm from major bleeding counterbalanced any beneﬁt of
+aspirin on cardiovascular risk (with ASPREE and ARRIVE
+both ﬁnding no signiﬁcant effect on cardiovascular events
+in their studied populations of older adults or high-risk
+adults,
+respectively).685a
+A
+dedicated
+large
+primary
+prevention aspirin trial in CKD is underway.690
+Certainty of evidence. The 2009 meta-analysis by the Anti-
+thrombotic Treatment Trialists’ collaboration on the effect of
+aspirin compared with placebo in terms of the primary and
+secondary prevention of CVD and safety among people with
+and without CKD was assessed to have high risk of bias using
+the Risk of Bias Assessment Tool for Systematic Reviews
+(ROBIS) checklist due to unclear identiﬁcation and selection
+of studies, unclear data collection and study appraisal, and
+high risk of bias for synthesis and ﬁndings (although we did
+not contact the authors to clarify these details).685a This
+review did not report on the evidence or certainty of
+evidence assessments directly in the report. Given the
+available evidence, the recommendation has a low certainty
+of evidence (Level C).
+Values and preferences. Maintaining QoL by minimizing
+risk of worsening of ischemic heart disease and recurrent
+stroke-related disability is important to both people with
+CKD and caregivers.691 The Work Group considered that the
+risk of bleeding would be considered acceptable by most
+people with CKD once the clear net beneﬁts were explained
+and
+gastroprotection
+was
+offered.
+The
+Work
+Group
+considered that some people with CKD without prior
+ischemic coronary, cerebrovascular, or peripheral arterial
+disease but at increased risk (e.g., due to diabetes) may still
+wish to consider using aspirin and accept the risk of major
+bleeding.687 Some people with CKD may also have a kidney
+diagnosis that indirectly supports considering the use of
+aspirin despite a lack of evidence (e.g., presumed or proven
+renovascular disease). The Work Group is not aware of any
+risk tools that could be used to help counsel such people
+with CKD as to their expected net absolute beneﬁts and
+risks based on risk factors of the person with CKD,
+including any difference by sex. (Note that scores to predict
+cardiovascular risk are considered in Chapter 2.)
+Resource use and costs. Low-dose aspirin is available at low
+cost and does not require monitoring.
+Considerations for implementation. Proton-pump inhibitors
+(PPIs) are generally effective,692 safe, and low cost (although
+occasionally associated with an interstitial nephritis), and
+the Work Group considers that it is prudent to consider
+bleeding risk and offers PPIs when prescribing antiplatelet
+therapy or antithrombotic therapy, particularly when such
+therapies are combined.693
+Rationale
+Meta-analysis of trials has clearly established the cardio-
+vascular beneﬁts of low-dose aspirin in people who have
+established ASCVD. Any harm of bleeding is far outweighed
+by the beneﬁts (unlike the situation for primary prevention,
+where bleeding risk has been consistently identiﬁed in
+large aspirin trials and cardiovascular beneﬁts to date have
+not).
+Practice Point 3.15.2.1: Consider other antiplatelet therapy
+(e.g., P2Y12 inhibitors) when there is aspirin intolerance.
+Bleeding from gastrointestinal mucosa with antiplatelet
+therapy is likely to be due to their effect on hemostasis of pre-
+existing mucosal lesions. This hypothesis is supported by
+P2Y12 inhibitors (e.g., clopidogrel or ticagrelor) not reducing
+the risk of bleeding in trials comparing them to aspirin.694,695
+However, if people are aspirin intolerant, a P2Y12 inhibitor is
+a noninferior alternative. Note that in 2009, the FDA
+recommended that the coadministration of clopidogrel and
+omeprazole (a PPI) should be avoided because omeprazole
+reduces the effectiveness of clopidogrel. There is uncertainty
+about the precise effect of omeprazole as pharmacokinetic
+data are inconclusive, but PPIs with inhibition of CYP2C19
+are preferred when using clopidogrel.696
+Guidelines from the cardiology community provide rec-
+ommendations for the use of dual antiplatelet therapy for a
+period after acute coronary syndrome or percutaneous
+coronary intervention. These guidelines recommend to
+apply the same diagnostic and therapeutic strategies in
+people with CKD.663 CKD does not modify the beneﬁts of
+ticagrelor,697 and antiplatelet therapy doses do not need to
+be
+modiﬁed
+at
+decreased
+eGFR.
+Note
+that
+other
+antithrombotic therapy choices and doses may need to
+consider a person’s GFR.
+Special considerations
+International considerations. Given the clinical effectiveness
+of low-dose aspirin and its low cost, there should not be many
+barriers to accessing this medication in any setting.
+3.15.3 Invasive versus intensive medical therapy for coronary
+artery disease
+Recommendation 3.15.3.1: We suggest that in stable
+stress-test conﬁrmed ischemic heart disease, an
+initial conservative approach using intensive medi-
+cal therapy is an appropriate alternative to an initial
+invasive strategy (2D).
+chapter 3
+www.kidney-international.org
+S238
+Kidney International (2024) 105 (Suppl 4S), S117–S314

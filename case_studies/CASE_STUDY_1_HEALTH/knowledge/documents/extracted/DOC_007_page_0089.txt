@@ -1,0 +1,24 @@
+personal preferences and goals of care that are not captured
+by risk prediction models. Models developed by the CKD-PC
+for multiple outcomes in CKD G4þ predict the risk of death,
+nonfatal CVD event, or kidney failure in adults at 2 and 4
+years and were developed using multinational data.6,434
+A 5-year mortality model was also developed in the Car-
+diovascular Health Study in older adults from the United
+States, where the majority of people had CKD G3.434 Both
+models
+have
+modest
+discrimination
+(C-statistics
+approximately 0.70). These may be more appropriate to
+identify high-risk groups, where earlier discussions about
+conservative care pathways or alternative goals of care may
+have been helpful. These models should not be used to
+determine the futility of initiating KRT.
+For research recommendations, please see Chapter
+6: Research recommendations.
+chapter 2
+www.kidney-international.org
+S204
+Kidney International (2024) 105 (Suppl 4S), S117–S314

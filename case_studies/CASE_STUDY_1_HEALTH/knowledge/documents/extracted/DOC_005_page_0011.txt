@@ -1,0 +1,43 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+11
+S’inscrire dans le dispositif et personnaliser 
+sa démarche
+L’engagement dans la démarche s’effectue par entité juridique sauf conventionnement 
+particulier avec la HAS en se connectant sur le site https://calista.has-sante.fr (système 
+d’information de la certification : CALISTA).
+L’établissement reçoit en retour ses identifiants et mot de passe d’accès. Il dispose alors 
+de tous les outils pour s’évaluer s’il le souhaite, suivre sa démarche et consulter les 
+résultats de ses évaluations et rapports de certification.
+Le responsable légal désigne, dans CALISTA, l’administrateur de la procédure. Cet admi
+nistrateur, sous l’autorité du responsable de l’établissement :
+• • valide les données de l’établissement aux échéances indiquées ;
+• • donne les droits d’accès aux professionnels et représentants d’usagers de son 
+choix.
+Cette étape d’engagement consiste aussi à identifier le profil de l’établissement. 
+Le profil de l’établissement est déterminé par des données qualifiant ses activités, leur 
+volume, ses modes de prise en charge et les populations de patients qu’il accueille. Elles 
+sont importées des bases nationales (SAE, PMSI, ARHGOS…).
+Le profil de l’établissement permet ainsi de définir :
+• • les critères spécifiques du référentiel qui sont applicables à l’établissement. En 
+effet, les critères génériques sont applicables à tout établissement alors que les 
+critères spécifiques dépendent des activités, des modes de prise en charge ou du 
+type de population accueillie ;
+• • le nombre et les méthodes d’évaluation qui seront utilisées lors de la visite ( nombre 
+et profils des patients traceurs, parcours traceurs, …).
+Le profil de l’établissement intègre les données pour chacun des sites géographiques qui 
+le composent.
+Chaque établissement, ainsi que tous les professionnels et représentants d’usagers qu’il 
+a désignés, a accès, via CALISTA, à tous les outils et éléments utiles à ses démarches : 
+• • son référentiel personnalisé ;
+• • les actualités liées à la certification ;
+• • les documents qu’il souhaite partager (projet d’établissement, organigramme) ;
+• • les bilans de ses évaluations internes ;
+• • son calendrier de visite ;
+• • ses rapports de certification ;
+• • etc.
+Un référentiel 
+adapté à chaque 
+établissement
+CALISTA : 
+une plateforme 
+collaborative

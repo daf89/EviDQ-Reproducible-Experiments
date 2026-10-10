@@ -1,0 +1,28 @@
+feature,model_status,reason
+registration_number,EXCLUDED,Identifiant patient : traçabilité uniquement ; risque de mémorisation.
+disease_id,EXCLUDED,Identifiant maladie/enregistrement : traçabilité uniquement.
+sex_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+sex_name,EXCLUDED,Redondante avec sex_code ; représentation codée conservée.
+birth_date,INCLUDED_CANDIDATE,Conservée provisoirement ; relation/redondance avec age_diag et diag_date à surveiller.
+age_diag,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+vital_status_code,EXCLUDED,Le statut vital intervient dans la construction de Y : fuite de cible.
+vital_status_name,EXCLUDED,Le statut vital intervient dans la construction de Y : fuite de cible.
+death_date,EXCLUDED,Utilisée pour construire Y_3years : fuite directe de la cible.
+diag_date,INCLUDED_CANDIDATE,Conservée provisoirement ; possible effet temporel lié à l'horizon de suivi à surveiller avant entraînement.
+diag_year,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+diag_date_valid_name,EXCLUDED,Variable constante dans Dataset_REF ; aucune information discriminante.
+mkb10_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+mkb10_name,EXCLUDED,Redondante avec mkb10_code ; représentation codée conservée.
+mkb10_3char,INCLUDED_CANDIDATE,Conservée provisoirement ; relation forte avec mkb10_code à documenter sans sélection par importance.
+histology_code,INCLUDED_CANDIDATE,Conservée ; relation avec icdo3_m_code à surveiller.
+icdo3_m_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+icdo3_m_name,EXCLUDED,Redondante avec icdo3_m_code ; représentation codée conservée.
+registry_stage_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+registry_stage_name,EXCLUDED,Redondante avec registry_stage_code ; représentation codée conservée.
+stage_definition_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+stage_definition_name,EXCLUDED,Redondante avec stage_definition_code ; représentation codée conservée.
+diagnosis_method_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+diagnosis_method_name,EXCLUDED,Redondante avec diagnosis_method_code ; représentation codée conservée.
+finding_code,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.
+finding_name,EXCLUDED,Redondante avec finding_code ; représentation codée conservée.
+administr_unit,INCLUDED_CANDIDATE,Candidate prédictive conservée avant analyse SHAP.

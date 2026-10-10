@@ -1,0 +1,137 @@
+
+
+===== PDF PAGE 179 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-19 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1), Continued 
+ 
+ 
+ 
+Diet show card 
+The diet show card in Part 5, Section 3 will have to be updated to show 
+examples of fruits and vegetables considered most typical for the country. A 
+serving size is standardized to represent 80 grams.   Furthermore, the 
+examples for foods high in salt should be adapted to the country context. 
+ 
+ 
+Core 
+questions on 
+physical 
+activity 
+The STEPS physical activity questions represent the Global Physical Activity 
+Questionnaire, version 2 (GPAQ).  This questionnaire assesses physical 
+activity behaviour in three different domains: at work (which includes paid  
+and unpaid work, in and outside of the home), for transport (to get to and   
+from places), and during leisure time. 
+Some people will be physically active in all three domains, others may not be 
+active in any of the settings. In any case, questions from all three domains 
+should be asked. 
+The GPAQ questions include: 
+• vigorous activities at work; 
+• number of days in a typical week with vigorous physical activity at work, 
+and time spent in this activity on one of those days; 
+• moderate activities at work; 
+• number of days in a typical week with moderate physical activity at work, 
+and time spent in this activity on one of those days; 
+• physical activity for transport; 
+• number of days in a typical week with activity for transport, and time spent 
+in this activity on one of those days; 
+• vigorous activities during leisure time; 
+• number of days in a typical week with vigorous physical activity during 
+leisure time, and time spent in this activity on one of those days; 
+• moderate activities during leisure time; 
+• number of days in a typical week with moderate physical activity during 
+leisure time, and time spent in this activity on one of those days. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+• P1: If a person does not do vigorous physical activities at work, go to 
+moderate physical activities at work (P4); 
+• P4: If a person does not do moderate physical activities at work, go to 
+physical activities for transport (P7); 
+• P7: If a person does not do physical activity for transport, go to vigorous 
+physical activities during leisure time (P10); 
+• P10: If a person does not do vigorous physical activities during leisure time, 
+go to moderate physical activities during leisure time (P13); 
+• P13: If a person does not do moderate physical activities during leisure 
+time, go to sedentary behaviour (P16). 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 180 =====
+
+Behavioural Measurements (Step 1), Continued 
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-20 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Expanded 
+question on 
+physical 
+activity 
+The expanded question on physical activity assesses the time spent sitting on  
+a typical day. 
+ 
+ 
+ 
+Physical 
+activity show 
+card 
+The physical activity show cards will have been adapted by each country to 
+show types of physical activities. 
+ 
+See Part 5, Section 3 for a list of typical physical activities as well as show 
+cards that display examples of physical activities for each type of activity. 
+ 
+ 
+ 
+Core 
+questions on 
+history of 
+raised blood 
+pressure 
+The STEPS questions on history of raised blood pressure include: 
+ 
+• whether a person has ever had his/her blood pressure measured 
+• diagnosis of raised blood  pressure 
+• treatment of  raised blood pressure 
+• traditional treatment of raised blood pressure. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• H1: If a person's blood pressure has never been measured, the rest of the 
+history of raised blood pressure questions can be skipped; 
+• H2a: If a person has never been told that he/she has raised blood pressure, the 
+rest of the history of raised blood pressure questions can be skipped. 
+ 
+ 
+ 
+Core questions 
+on history of 
+diabetes 
+The STEPS questions on history of diabetes include: 
+ 
+• whether a person has ever had his/her blood sugar measured 
+• diagnosis of raised blood  sugar 
+• treatment of raised blood  sugar 
+• traditional treatment of raised blood sugar. 
+ 
+The following skip instructions that are automatically programmed on the 
+Android devices apply: 
+ 
+• H6: If a person's blood sugar has never been measured, the rest of the 
+history of diabetes questions can be skipped; 
+• H7a: If a person has never been told that he/she has raised blood sugar, the 
+rest of the history of diabetes questions can be skipped. 
+ 
+Continued on next page 

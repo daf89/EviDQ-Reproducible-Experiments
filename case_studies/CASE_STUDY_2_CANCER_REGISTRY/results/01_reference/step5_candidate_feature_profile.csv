@@ -1,0 +1,15 @@
+feature,dtype,n_missing,missing_pct,n_unique,unique_ratio
+sex_code,int64,0,0.0,2,0.0011
+birth_date,object,0,0.0,1678,0.8997
+age_diag,float64,0,0.0,136,0.0729
+diag_date,object,0,0.0,1452,0.7786
+diag_year,int64,0,0.0,10,0.0054
+mkb10_code,object,0,0.0,7,0.0038
+mkb10_3char,object,0,0.0,2,0.0011
+histology_code,object,62,3.324,14,0.0075
+icdo3_m_code,object,62,3.324,14,0.0075
+registry_stage_code,int64,0,0.0,4,0.0021
+stage_definition_code,object,0,0.0,2,0.0011
+diagnosis_method_code,int64,0,0.0,5,0.0027
+finding_code,int64,0,0.0,5,0.0027
+administr_unit,object,0,0.0,7,0.0038

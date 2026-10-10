@@ -1,0 +1,178 @@
+Harms. The 2014 meta-analysis of 4 large phase III trials
+found that NOACs reduced the risk of death from any
+cause by 10%, conﬁrming net safety (RR: 0.90; 95% CI:
+0.85–0.95). Compared with warfarin, NOACs reduced the
+risk of intracranial hemorrhage (deﬁned as hemorrhagic
+stroke, epidural, subdural, and subarachnoid hemorrhage)
+by about one-half (RR: 0.48; 95% CI: 0.39–0.59), and the
+risk of gastrointestinal bleeding was increased by about
+one-quarter (RR: 1.25; 95% CI: 1.01–1.55). Overall, there
+was no clear effect on the combination of these 2 safety
+outcomes referred to as major bleeding (RR: 0.86; 95% CI:
+0.73–1.00).714 There were large amounts of data on major
+bleeding
+in
+those
+with
+a
+CrCl
+of
+<50
+ml/min,
+so
+reassuring safety data clearly extended to people with
+CKD. There were also consistent safety data in subgroup
+analyses by age, sex, prior diabetes, prior stroke, and
+CHADS2 score. There was a suggestion that major bleeding
+was signiﬁcantly reduced in people attending centers where
+time in therapeutic international normalized ratio (INR) range
+was <66% compared with centers with $66% time in range
+(interaction P ¼ 0.02). This suggests that beneﬁts of NOACs
+are in part a result of their simpler pharmacokinetic proﬁle
+and dosing.714 The 2021 meta-analysis that focused on CKD
+subgroups from 7 trials found that bleeding events were also
+not signiﬁcantly different among those allocated NOACs
+versus warfarin (HR: 0.83; 95% CI: 0.58–1.18).715 Data in
+CKD G5 on dialysis were limited to observational studies.715
+Our evidence review was again limited to a small number of
+studies reporting subtypes of bleeding outcomes, and so
+analyses found imprecise estimates of treatment effect. The
+ﬁndings were qualitatively consistent with the totality of the
+evidence (Figure 42, Supplementary Table S15716–722). The
+review raised a hypothesis that some NOACs may be more
+likely to reduce the risk of bleeding. However, given the
+evidence of effect modiﬁcation by time in therapeutic range in
+the
+warfarin
+group,
+we
+have
+not
+provided
+speciﬁc
+recommendations to prefer certain NOACs.
+Certainty of evidence. The overall certainty of the evidence
+comparing NOACs with warfarin among people with CKD
+and atrial ﬁbrillation is low (Supplementary Tables S14716–721
+and S15716–722). Most of the RCTs evaluating the critical
+outcomes were considered to have a low risk of bias. The
+critical outcome of stroke was reported as any stroke,
+ischemic stroke, and/or hemorrhagic stroke. Because there
+Kidney
+function
+Country
+Follow-up
+length
+Intervention*
+Control
+HR (95% CI)
+eGFR 25–50
+eGFR <50
+CrCl 30–50
+CrCl 30–49
+CrCl 30–49
+39 countries
+44 countries
+46 countries
+Japan
+45 countries
+1.8 yr
+1.8 yr
+2.8 yr
+2.5 yr
+707 d
+Apixaban 2.5–5 mg
+Dabigatran 150 mg
+Edoxaban 60 mg
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+Warfarin
+0.86 (0.54, 1.35)
+0.50 (0.28, 0.87)
+0.99 (0.70, 1.40)
+0.74 (0.17, 3.31)
+1.02 (0.71, 1.46)
+0.87 (0.69, 1.10)
+NOTE: Weights are from random effects analysis
+CrCl 30–50
+CrCl 30–49
+CrCl 30–49
+46 countries
+Japan
+45 countries
+2.8 yr
+2.5 yr
+707 d
+Edoxaban 60 mg
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+Warfarin
+0.91 (0.67, 1.24)
+0.99 (0.29, 3.42)
+0.95 (0.64, 1.41)
+0.93 (0.73, 1.18)
+CrCl 30–50
+CrCl 30–49
+CrCl 30–49
+46 countries
+Japan
+45 countries
+2.8 yr
+2.5 yr
+707 d
+Edoxaban 60 mg
+Rivaroxaban 10 mg
+Rivaroxaban 20 mg
+Warfarin
+Warfarin
+Warfarin
+0.58 (0.30, 1.12)
+1.98 (0.18, 21.80)
+0.58 (0.23, 1.47)
+0.62 (0.36, 1.04)
+Author, year
+Any stroke†
+Bohula, 2016
+Hori, 2013
+Fox, 2011
+Subtotal (I2=0.0%, P=0.980)
+Ischemic stroke
+Stanifer, 2020
+Hijazi, 2018
+Bohula, 2016
+Hori, 2013
+Fox, 2011
+Subtotal (I2=19.5%, P=0.291)
+Hemorrhagic stroke
+Bohula, 2016
+Hori, 2013
+Fox, 2011
+Subtotal (I2=0.0%, P=0.619)
+Weighted hazard ratio of stroke
+0.2 0.5
+5
+1 2
+Favors NOAC
+Favors control
+Figure 41 | Pooled hazard ratio (HR) comparing non–vitamin K antagonist oral anticoagulants (NOACs) with warfarin among people
+with chronic kidney disease in terms of stroke. Bohula E, Giugliano R, Ruff C, et al. Impact of renal function on outcomes with edoxaban in
+the ENGAGE AF-TIMI 48 trial. Circulation. 2016;134:24–36716; Fox KA, Piccini JP, Wojdyla D, et al. Prevention of stroke and systemic embolism
+with rivaroxaban compared with warfarin in patients with non-valvular atrial ﬁbrillation and moderate renal impairment. Eur Heart J.
+2011;32:2387–2394718; Hijazi Z, Hohnloser SH, Oldgren J, et al. Efﬁcacy and safety of dabigatran compared with warfarin in patients with atrial
+ﬁbrillation in relation to renal function over time—a RE-LY trial analysis. Am Heart J. 2018;198:169–177719; Hijazi Z, Alexander JH, Li Z, et al.
+Apixaban or vitamin K antagonists and aspirin or placebo according to kidney function in patients with atrial ﬁbrillation after acute coronary
+syndrome or percutaneous coronary intervention: insights from the AUGUSTUS trial. Circulation. 2021;143:1215–1223722; Hori M, Matsumoto M,
+Tanahashi N, et al. Safety and efﬁcacy of adjusted dose of rivaroxaban in Japanese patients with non-valvular atrial ﬁbrillation: subanalysis of J-
+ROCKET AF for patients with moderate renal impairment. Circ J. 2013;77:632–638720; Stanifer J, Pokorney S, Chertow G, et al. Apixaban versus
+warfarin in patients with atrial ﬁbrillation and advanced chronic kidney disease. Circulation. 2020;141:1384–1392.721 CI, conﬁdence interval; CrCl,
+creatinine clearance; eGFR, estimated glomerular ﬁltration rate.
+chapter 3
+www.kidney-international.org
+S242
+Kidney International (2024) 105 (Suppl 4S), S117–S314

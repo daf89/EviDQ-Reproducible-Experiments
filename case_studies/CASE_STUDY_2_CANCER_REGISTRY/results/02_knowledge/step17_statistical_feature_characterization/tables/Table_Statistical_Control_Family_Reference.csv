@@ -1,0 +1,13 @@
+﻿control_family,description,possible_statistical_types,establishes_error,creates_correction,scope
+MISSINGNESS,Check whether the feature value is absent/null.,NUMERIC_CONTINUOUS;NUMERIC_DISCRETE;CATEGORICAL_NOMINAL;CATEGORICAL_ORDINAL;BINARY;DATE_TIME;IDENTIFIER,False,False,GENERIC_STATISTICAL_CONTROL
+NON_FINITE_NUMERIC,Check NaN/positive infinity/negative infinity for genuinely numeric measurements.,NUMERIC_CONTINUOUS;NUMERIC_DISCRETE,False,False,GENERIC_STATISTICAL_CONTROL
+STATISTICAL_OUTLIER,Identify statistically extreme observations using an explicitly defined numerical method.,NUMERIC_CONTINUOUS;NUMERIC_DISCRETE,False,False,GENERIC_STATISTICAL_CONTROL
+DISTRIBUTION_PROFILE,Characterize the empirical distribution of a genuinely quantitative feature.,NUMERIC_CONTINUOUS;NUMERIC_DISCRETE,False,False,GENERIC_STATISTICAL_CONTROL
+LOW_VARIANCE,Identify a quantitative feature with very limited empirical variation.,NUMERIC_CONTINUOUS;NUMERIC_DISCRETE,False,False,GENERIC_STATISTICAL_CONTROL
+CATEGORY_FREQUENCY,Characterize empirical frequencies of categorical modalities.,CATEGORICAL_NOMINAL;CATEGORICAL_ORDINAL;BINARY,False,False,GENERIC_STATISTICAL_CONTROL
+RARE_CATEGORY,Identify categorical modalities with low empirical frequency under a predefined criterion.,CATEGORICAL_NOMINAL;CATEGORICAL_ORDINAL;BINARY,False,False,GENERIC_STATISTICAL_CONTROL
+CARDINALITY,Characterize the number of distinct modalities of a categorical feature.,CATEGORICAL_NOMINAL;CATEGORICAL_ORDINAL;BINARY;IDENTIFIER,False,False,GENERIC_STATISTICAL_CONTROL
+BINARY_DOMAIN_STRUCTURE,Check the empirical structure expected for a binary feature without establishing domain error.,BINARY,False,False,GENERIC_STATISTICAL_CONTROL
+TEMPORAL_FORMAT,Check whether values can be represented using the expected date/time structure.,DATE_TIME,False,False,GENERIC_STATISTICAL_CONTROL
+TEMPORAL_DISTRIBUTION,Characterize the temporal distribution of a date/time feature.,DATE_TIME,False,False,GENERIC_STATISTICAL_CONTROL
+IDENTIFIER_UNIQUENESS,Assess uniqueness/duplication structure for a feature known to be an identifier.,IDENTIFIER,False,False,GENERIC_STATISTICAL_CONTROL

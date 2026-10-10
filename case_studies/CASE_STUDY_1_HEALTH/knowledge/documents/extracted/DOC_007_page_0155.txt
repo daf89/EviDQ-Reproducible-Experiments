@@ -1,0 +1,111 @@
+Chapter 6: Research recommendations
+The last 30 years have seen an exponential growth in the
+literature relating to kidney disease. However, despite this
+inclusion of people with CKD in prospective RCTs, those with
+lower GFR remain under-represented. Before the KDIGO
+2012 CKD guideline, a low eGFR was an exclusion criterion
+for almost every large cardiovascular and BP trial. As a result,
+we had a largely opinion-based literature. That is changing,
+and although still low, the proportion of the total CKD
+literature that is either an RCT, meta-analysis, or systematic
+review has doubled from 3.3% to 6.5% of published articles
+in the 5-year period ending December 2022.
+Several large international interventional studies have
+been completed in the last 8 years, either speciﬁcally tar-
+geting people with CKD and other comorbidities (most
+notably diabetes or CVD), or with CKD deﬁned by eGFR
+and ACR criteria (e.g., Canagliﬂozin and Renal Endpoints in
+Diabetes with Established Nephropathy Clinical Evaluation
+[CREDENCE],514
+DAPA-CKD,513
+EMPA-KIDNEY,403
+FIGARO-DKD,534 and FIDELIO-DKD533). Interventional
+studies
+targeting
+speciﬁc
+pathways
+and
+diseases
+are
+increasing as well, though limited in scale due to rarity of
+conditions (e.g., IgAN, membranous nephropathy, and
+systemic lupus erythematosus, etc.).
+There remain gaps in the evidence base to inform best
+diagnostic testing strategies, decision-making, and processes
+of care. In addition, some therapies offering promise have not
+yet been adequately tested in people deﬁned by speciﬁc
+criteria with CKD (i.e., people without diabetes, children,
+women, PKD, frail, elderly, etc.) and people from low-income
+and low-middle-income countries. We, therefore, begin this
+section detailing research recommendations with some gen-
+eral guiding principles for those designing studies to consider
+when addressing key questions that impact people living with
+or at risk for CKD.
+Guiding principles for research
+1. To ensure that the evidence base is directly applicable to
+all people with CKD, future studies should avoid auto-
+matic exclusion of older people, children, and young
+adults <18 years old, and give consideration to pregnant
+and lactating people. The need for contraceptive re-
+quirements for trial participation should also be reviewed.
+2. Decreased GFR should not be a reason for automatic
+exclusion from research studies.
+3. Estimating equations equally applicable to those with and
+without CKD are required for children and adolescents.
+4. For new equations predicting CVD and mortality
+risk as well as CKD progression, development and
+implementation studies including validation in different
+populations
+(geographic
+and
+demographic)
+are
+required.
+5. Beneﬁt-risk ratio assessments of old, new, and future
+medications should be performed by levels of GFR and
+ACR and/or using validated risk equations.
+6. Drug
+studies
+evaluating
+pharmacodynamics
+should
+consider using validated eGFR equations or mGFR for
+highly toxic drugs with a narrow therapeutic window,
+especially for those frequently used in CKD. As this may
+be prohibitively expensive for some medications, epide-
+miologic studies may provide information for revisions to
+labels for some drugs.
+7. Pharmacokinetic studies in people with CKD should not
+automatically exclude GFR categories G4 and G5.
+8. Studies should consider measurement of ACR in all co-
+horts, whether speciﬁcally focused on CKD or not, given
+additional prognostic value of this parameter for so many
+outcomes.
+9. All studies should ensure attention to etiology of CKD,
+sex, gender, age, and SES considerations in design and
+analysis of results.
+10. Use of novel study designs (platform, registry-embedded,
+and pragmatic trials), use of large administrative datasets,
+and implementation science methodologies (e.g., causal
+inference techniques) should be considered to enable the
+assessment and evaluation of interventions, processes, and
+models of care.
+11. People living with CKD should be involved in clinical
+studies throughout the research process from identiﬁca-
+tion of knowledge gaps to knowledge mobilization and
+study design.
+The following set of more speciﬁc research recommenda-
+tions are organized according to chapter and are not
+exhaustive. They are generated in part from identifying gaps
+in knowledge during the evidence review and in part from
+clinical practice and patient perspectives.
+Screening
+ Determine whether efforts to systematically detect and treat
+CKD in targeted populations in the community setting will
+reduce the incidence of CVD and CKD progression to
+kidney failure through earlier intervention of disease-
+modifying strategies.
+chapter 6
+www.kidney-international.org
+S270
+Kidney International (2024) 105 (Suppl 4S), S117–S314

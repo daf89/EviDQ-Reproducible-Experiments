@@ -1,0 +1,5 @@
+﻿variable_id,metric,construct,natural_anchor,anchor_interpretation,linguistic_terms,candidate_mf_family,calibration_principle,action_fitted,scientific_status
+FZ_PERFORMANCE,Delta_BalancedAccuracy_vs_DQ,Predictive performance change,0.0,No change relative to DQ,DEGRADED|PRESERVED|IMPROVED,TRAPEZOIDAL_AND_SHOULDER,PRACTICAL_EQUIVALENCE_AROUND_ZERO,False,REQUIRES_NUMERIC_CALIBRATION
+FZ_EXPLANATION_SHIFT,Abs_Delta_Age_SHAP_vs_DQ,Magnitude of explanation change,0.0,No explanation change relative to DQ,LOW|MODERATE|HIGH,TRIANGULAR_TRAPEZOIDAL,RELATIVE_EXPLANATION_CHANGE,False,REQUIRES_NUMERIC_CALIBRATION
+FZ_STABILITY,Stability_Cosine_Mean,Local SHAP explanation stability,1.0,Perfect cosine similarity,LOW|MODERATE|HIGH,TRIANGULAR_TRAPEZOIDAL,PERTURBATION_BASED_RELIABILITY,False,REQUIRES_NUMERIC_CALIBRATION
+FZ_COVERAGE,Coverage,Operational data coverage,1.0,Full coverage,LOW|MODERATE|FULL_OR_NEAR_FULL,TRAPEZOIDAL_AND_SHOULDER,OPERATIONAL_DATA_RETENTION,False,REQUIRES_NUMERIC_CALIBRATION

@@ -1,0 +1,168 @@
+
+
+===== PDF PAGE 467 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-108 
+WHO STEPS Surveillance 
+ 
+ 
+Drug therapy 
+and counseling 
+for those with 
+CVD risk 
+≥30% or 
+existing CVD 
+ 
+ 
+Description: Percentage of eligible persons (defined as aged 40-69 years with a 
+10-year cardiovascular disease (CVD) risk* ≥30%, including those with   
+existing CVD) receiving drug therapy and counseling** (including glycaemic 
+control) to prevent heart attacks and strokes. 
+ 
+Instrument questions: combined from Step 1, 2 and 3 
+• Gender, age 
+• Current and former smoking 
+• History of diabetes, CVD 
+• Lifestyle advice 
+• Systolic blood pressure measurements 
+• Fasting status, glucose and total cholesterol measurements. 
+ 
+ 
+Percentage of eligible persons receiving drug therapy and counseling to prevent heart attacks and strokes 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+40-54 
+55-69 
+40-69 
+ 
+* A 10-year CVD risk of ≥30% is defined according to age, sex, blood pressure, smoking status (current smokers OR those 
+who quit smoking less than 1 year before the assessment), total cholesterol, and diabetes (previously diagnosed OR a fasting 
+plasma glucose concentration >7.0 mmol/l (126 mg/dl)). 
+ 
+**Counseling is defined as receiving advice from a doctor or other health worker to quit using tobacco or not start, reduce salt 
+in diet, eat at least five servings of fruit and/or vegetables per day, reduce fat in diet, start or do more physical activity, 
+maintain a healthy body weight or lose weight. 
+ 
+Analysis Information: 
+• Questions used: C1, C2, C3, T1, T8T10, T11a-c, H6, H7a, H8, H9, H13a, H14, H17, H18, 
+H19, H20a-f, M4a, M5a, M6a, M7, B1, B5, B8 
+• Epi Info program name: CVDrisk (unweighted); CVDriskWT (weighted) 
+ 
+
+
+===== PDF PAGE 468 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-109 
+WHO STEPS Surveillance 
+ 
+ 
+Summary of Combined Risk Factors 
+ 
+ 
+Summary 
+of 
+Combined 
+Risk 
+Factors 
+Description: Percentage of respondents with 0, 1-2, or 3-5 of the following risk 
+factors: 
+ 
+• Current daily smoking 
+• Less than five servings of fruit and/or vegetables per day 
+• Not meeting WHO recommendations on physical activity for health (<150 
+minutes of moderate activity per week, or equivalent) 
+• Overweight or obese (BMI ≥ 25 kg/m2) 
+• Raised BP (SBP ≥ 140 and/or DBP ≥ 90 mmHg or currently on medication 
+for raised BP). 
+ 
+Instrument questions: combined from Step 1 and Step 2 
+ 
+Summary of Combined Risk Factors 
+Age Group 
+(years) 
+Men 
+% with 0 
+% with 1-2 
+% with 3-5 
+n 
+ risk 
+95% CI 
+ risk 
+95% CI 
+ risk 
+95% CI 
+factors 
+ 
+factors 
+ 
+factors 
+18-44 
+45-69 
+18-69 
+ 
+Summary of Combined Risk Factors 
+Age Group 
+(years) 
+Women 
+% with 0 
+% with 1-2 
+% with 3-5 
+n 
+ risk 
+95% CI 
+ risk 
+95% CI 
+ risk 
+95% CI 
+factors 
+ 
+factors 
+ 
+factors 
+18-44 
+45-69 
+18-69 
+ 
+Summary of Combined Risk Factors 
+Age Group 
+(years) 
+Both Sexes 
+% with 0 
+% with 1-2 
+% with 3-5 
+n 
+ risk 
+95% CI 
+ risk 
+95% CI 
+ risk 
+95% CI 
+factors 
+ 
+factors 
+ 
+factors 
+18-44 
+45-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T1, T2, D1-D4, P1-P15b, M4a-M6b, M7, M8, M11, M12 
+• Epi Info program name: Raisedrisk (unweighted); RaisedriskWT (weighted) 
+ 

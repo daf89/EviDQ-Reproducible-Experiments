@@ -1,0 +1,144 @@
+Item
+Item is
+complete
+if:
+Hospital
+OBD
+Home Health
+Agency
+HCH‑Health
+HCN‑Non‑Health
+Institution
+SBD
+Social worker
+Speech
+therapist
+Yard worker
+Driver
+Babysitter
+Other
+6. (IF GLOBAL FEE)
+Dates of other
+services covered by
+fee
+Valid dates
+Don't
+Know
+Refusal
+A5d
+B2b
+7. Location of service
+Physician
+office
+Hospital,
+Inpatient
+Hospital,
+Outpatient
+Hospital,
+Emergency
+Room
+Somewhere
+else
+(For each
+location)
+Yes
+No
+Don't
+Know
+Refusal
+B3
+8. Services Provided
+Description
+or CPT
+code
+Donœt
+Know
+Refusal
+A6a
+B5a
+E4
+9. DRG
+Valid DRG
+None
+Don't
+Know
+Refusal
+A8
+10. Surgical procedures
+Description
+or CPT
+code
+Don't
+Know
+Refusal
+A10a
+B5a
+11. Fee‑For‑Service or
+Capitated
+Fee or
+capitated
+C3
+C3
+Q5
+C5
+12. Total charge
+Dollar
+value
+Don't
+Know
+Refusal
+Q6
+13. Dollar payment by
+payer:
+Patient or
+patient's family
+Medicare
+Medicaid
+Private
+insurance
+VA/CHAMPVA
+Tricare
+Worker's
+compensation
+(For each
+source)
+Dollar
+value
+(includes
+0)
+Don't
+Know
+Refusal
+C4
+C4
+C4a
+Q7
+Q11a
+Q13
+Q16
+C4
+14. Other payment
+source and amount
+Dollar
+value
+(includes
+0)
+C4
+Other
+Loop
+C4
+Other
+Loop
+C4
+Other Loop
+C7, Q11a,
+Q13, Q16
+Other
+Loop
+C4
+Other
+Loop
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+38/40

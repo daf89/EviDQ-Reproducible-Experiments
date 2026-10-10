@@ -1,0 +1,121 @@
+6. Definition and classification of 
+elevated blood pressure and 
+hypertension, and cardiovascular 
+disease risk assessment 
+6.1. Definition and classification of 
+elevated blood pressure and hypertension 
+Epidemiological studies demonstrate a continuous and log-linear asso-
+ciation between BP and adverse CVD outcomes.22,32,33,114,115 Starting 
+at levels as low as 90 mmHg systolic, the higher the BP the higher the 
+relative risk of CVD including atherosclerosis.32,114 These observational 
+data are complemented by randomized clinical trials (RCTs),116 which 
+have provided experimental evidence regarding the BP range for which 
+BP lowering with treatment is proven to reduce CVD events. Of note, 
+some studies suggest a stronger relative risk for CVD for a given BP 
+among females compared with males.117,118 
+A healthy lifestyle should be encouraged for all adults to prevent an 
+increase in BP and development of hypertension.119,120 To aid pharma-
+cological treatment decisions, the 2024 ESC Guidelines recommend a 
+simplified categorization of adults according to their BP (Figure 6). In 
+compiling this categorization, priority was given to evidence from ran-
+domized trials over observational data. However, it is important to re-
+iterate that the risk of CVD attributable to BP is continuous and that 
+interpreting randomized trial data is an iterative process involving an 
+element of subjectivity. As such, no categorization of BP can be consid-
+ered immutable or flawless. 
+The 2024 Guidelines define hypertension as a confirmed office sys-
+tolic BP of ≥140 mmHg or diastolic BP of ≥90 mmHg. For this diagnosis 
+to be made, confirmation is recommended with out-of-office measure-
+ments (HBPM or ABPM) or at least one repeat office measurement at a 
+subsequent visit, as detailed in Section 5 and Section 7.2. This definition is 
+based on several factors. First, meta-analyses of randomized trials pro-
+vide evidence among all adults and across various settings for the bene-
+fit of BP-lowering therapy among patients with BP above this 
+threshold.116,121,122 Second, most adults with BP above this threshold 
+are at increased CVD risk, typically with 10-year risk estimates of 
+≥10% for fatal and non-fatal CVD events.123–125 The higher the pa-
+tient’s baseline absolute risk for CVD, the greater the net benefit 
+from BP-lowering treatment and, at the population level, the lower 
+the estimated number needed to treat (NNT).126–128 Third, this 
+more traditional BP threshold for hypertension is already widely used 
+by policymakers to define a disease state, and maintaining this BP 
+threshold to define hypertension (vs. lowering it) does not require 
+most adults to be labelled with what is widely considered a disease.129 
+Here, we introduce a new BP category called ‘elevated BP’, which 
+is defined as an office systolic BP of 120–139 mmHg or diastolic BP 
+of 70–89 mmHg. Within this BP range, the efficacy of BP-lowering ther-
+apy has been established in meta-analyses of RCTs,116 but average CVD 
+risk in the elevated BP group is not sufficiently high to merit drug treat-
+ment in all patients.123,124,130 Pharmacological treatment initiation is, 
+however, suggested for a subgroup of patients within this BP range 
+who are at increased global risk of CVD as identified by the risk strati-
+fication approach outlined in Sections 6.3, 6.4, and 8. 
+Non-elevated BP is defined as a systolic BP of <120 mmHg and a dia-
+stolic BP of <70 mmHg. Fewer individuals within this BP range are at 
+increased risk of CVD,124 and evidence for CVD benefit with 
+BP-lowering pharmacological treatment is lacking due to an absence 
+of trials. We use the term ‘non-elevated BP’ to define this BP category 
+in recognition that these are treatment categories and not prognostic 
+categories. Because the relative risk for CVD starts to increase at BP 
+below this threshold (even as low as 90 mmHg systolic BP), particularly 
+among women,117,118 we avoid terms like ‘normal BP’, ‘optimal BP’, or 
+‘normotension’ in defining this category. 
+6.2. Principles of a risk-based approach for 
+managing blood pressure and preventing 
+cardiovascular disease 
+In the context of BP-lowering interventions, randomized trials demon-
+strate a consistent relative risk reduction in adverse CVD outcomes 
+per unit reduction in BP.131,139 However, many medical interventions in-
+cur costs and have side effects. Therefore, guidance is needed on select-
+ing patients most likely to benefit from BP-lowering treatment. This is 
+especially true among adults with elevated BP (office systolic BP of 
+120–139 mmHg and/or diastolic BP of 70–89 mmHg). Practical aspects 
+for implementing a risk-based approach are further discussed in Section 8. 
+6.2.1. Role of cardiovascular disease risk assessment 
+The risk of adverse CVD outcomes increases log-linearly with constant 
+increments in systolic BP and diastolic BP.22,32,33,114,140 Concurrently, at 
+higher BP, there is clustering of additional CVD risk factors.141,142 
+Consequently, many patients with hypertension will have an estimated 
+10-year risk for CVD events of ≥10%,116,121,122 which, for the purposes 
+of these guidelines, is considered sufficiently high risk to merit consid-
+eration of BP-lowering treatment in the setting of elevated BP.143 
+Using BP thresholds for hypertension alone for allocating treatment 
+would lead to under-treatment of many high-risk patients.144,145,115 
+A substantial proportion of excess CVD events attributable to BP oc-
+cur in patients with BP levels below the traditional threshold for 
+An assessment for orthostatic hypotension (≥20 
+systolic BP and/or ≥10 diastolic BP mmHg drop at 1 
+and/or 3 min after standing) should be considered at 
+least at the initial diagnosis of elevated BP or 
+hypertension and thereafter if suggestive symptoms 
+arise. This should be performed after the patient is 
+first lying or sitting for 5 min. 
+IIa 
+C 
+Other BP measures and indices (pulse pressure, BP 
+variability, exercise BP) may be considered to 
+provide additional clinical information on CVD risk in 
+some circumstances. 
+IIb 
+C 
+© ESC 2024
+AF, atrial fibrillation; BP, blood pressure; CVD, cardiovascular disease. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 2 — Recommendations for 
+categorizing blood pressure (see Evidence Table 9) 
+Recommendation 
+Classa 
+Levelb 
+It is recommended that BP be categorized as 
+non-elevated BP, elevated BP, and hypertension to 
+aid treatment decisions.116,121,122,131–138 
+I 
+B 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+3936 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

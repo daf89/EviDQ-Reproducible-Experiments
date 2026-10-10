@@ -1,0 +1,64 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+303
+Ajustements
+Critère 1.1-09
+Regroupement d’éléments nécessaires au suivi de la prise en charge.
+Le patient, en prévision de sa sortie, est informé des consignes de suivi pour sa prise en charge
+Libellé 2023 : Le patient, en prévision de sa sortie est informé :
+• des éventuelles modifications de son traitement habituel (arrêt, substitution, posologie, etc.) ;
+• de l’éventuel nouveau traitement prescrit ;
+• des consignes de suivi ; 
+• de la nécessité de signaler tout effet indésirable lié à son traitement médicamenteux et selon les 
+modalités indiquées.
+Libellé 2024 : Le patient, en prévision de sa sortie reçoit toutes les informations utiles :
+• les éventuelles modifications de son traitement habituel (arrêt, substitution, posologie, etc.) ;
+• l’éventuel nouveau traitement prescrit ;
+• les consignes de suivi, le cas échéant (inclusion dans le dispositif vigilanS, actes techniques et examens 
+complémentaires et la planification des actes prévus et à programmer, recommandations et surveillances 
+particulières y compris d'ordre médico-social) ;
+• les consignes postopératoires ou post-thérapeutiques pour détecter les éventuelles complications, 
+signes motivant une consultation, le numéro d’appel en cas de besoin... ;
+• la nécessité de signaler tout effet indésirable lié à son traitement médicamenteux et selon les modalités 
+indiquées.
+Critère 1.1-18
+Ajustement lié au numérique en santé.
+Création du critère : Le patient reçoit une information claire et adaptée à son degré de 
+discernement sur les modalités de sa prise en charge 
+Méthode : patient traceur.
+Cible : Tout établissement.
+Critère 1.2-02
+Regroupement d’éléments en lien avec la prise en charge des enfants et des adolescents. 
+Le patient mineur bénéficie d’un environnement adapté
+Transfert d’un élément d’évaluation du critère 1.3-03 : Pour les enfants, la présence des parents est 
+favorisée 24 heures sur 24.
+Libellé 2023 : En cas d’hospitalisation de mineurs dans un service d’adultes, l’environnement est adapté à 
+leur sécurité et à leur protection.
+Libellé 2024 : En cas de prise en charge de mineurs dans un service d’adultes, l’environnement est 
+adapté à leur sécurité et à leur protection.
+Critère 1.2-06
+Ajustement de l’évaluation en visite.
+Le recours à la contention mécanique relève d’une décision médicale
+Changement de méthode d’investigation des éléments d’évaluation 2, 3 et 4 : méthode parcours traceur 
+Libellé 2023 : La pertinence du maintien de la contention mécanique est obligatoirement réévaluée.
+Libellé 2024 : La pertinence du maintien de la contention mécanique est systématiquement réévaluée.
+Critère 1.3-03
+Ajustement de l’évaluation en visite.
+La présence des proches et/ou aidants est facilitée en dehors des heures de visite, lorsque la 
+situation le nécessite
+Changement de méthode d’investigation : méthode parcours traceur.
+Libellé 2023 : Dans les situations cliniques difficiles, la présence des proches et/ou aidants auprès du 
+patient est proposée et facilitée par l’équipe en dehors des heures de visite. Pour les enfants, la présence 
+des parents est favorisée 24 heures sur 24.
+Libellé 2024 : Dans les situations cliniques difficiles, la présence des proches et/ou aidants auprès du 
+patient est proposée et facilitée par l’équipe en dehors des heures de visite.
+Transfert de la fin de l’élément d’évaluation vers le critère 1.2-02.
+Critère 1.4-01
+Le patient en situation de précarité sociale bénéficie d’un accompagnement pour une orientation 
+vers les services sociaux et associations adéquates
+Transfert de l’élément d’évaluation du critère 1.1-05 : Pour les patients en situation de précarité, les 
+carences en soins sont recherchées.
+Critère 1.4-02
+Le patient vivant avec un handicap – ou ses proches et/ou aidants – exprime ses besoins et 
+préférences pour une prise en compte dans son projet de soins
+Transfert de l’élément d’évaluation du critère 1.1-05 : Pour les patients vivant avec un handicap, les 
+carences en soins sont recherchées.

@@ -1,0 +1,145 @@
+3.3.1 Protein intake
+Recommendation 3.3.1.1: We suggest maintaining a
+protein intake of 0.8 g/kg body weight/d in adults
+with CKD G3–G5 (2C).
+Practice Point 3.3.1.1: Avoid high protein intake (>1.3 g/kg
+body weight/d) in adults with CKD at risk of progression.
+Practice Point 3.3.1.2: In adults with CKD who are willing
+and able, and who are at risk of kidney failure, consider
+prescribing, under close supervision, a very low–protein
+diet (0.3–0.4 g/kg body weight/d) supplemented with
+essential amino acids or ketoacid analogs (up to 0.6 g/kg
+body weight/d).
+Practice Point 3.3.1.3: Do not prescribe low- or very low–
+protein diets in metabolically unstable people with CKD.
+This recommendation places a higher value on slowing the
+rate of GFR decline without the challenges associated with
+adherence to lower-protein diets, potential adverse effects, and
+the contraindications in people with sarcopenia, cachexia, or
+undernutrition. The Work Group judged that many well-
+informed people with CKD G3–G5 would choose to implement
+this recommendation.
+Key information
+Balance of beneﬁts and harms. The Work Group considered
+that maintaining a protein intake of 0.8 g/kg body weight per
+day in adults in the absence of indications for a higher or
+lower protein intake was congruent with a person’s culture
+and QoL. Considerations for protein restriction in the context
+of individual preferences, true impact on CKD progression
+based on etiology, and other factors need to be considered
+and weighed against any potential adverse impacts, such as
+malnutrition.
+In many societies, most adults and older adults consume
+more protein than recommended, with average protein intakes
+of 1.2 g/kg/d.453,454 There is general agreement that, in the
+absence of intercurrent disease, the protein requirements for
+people with CKD are not different from those of healthy
+subjects.455 The Work Group thus suggests maintaining a
+protein intake of 0.8 g/kg body weight/d, a target consistent
+with the WHO Recommended Dietary Allowances for the
+general population.456,457 Figure 1923 shows some examples
+of
+the
+amount
+of
+protein
+in
+grams
+that
+would
+be
+recommended based on body weight. Clinicians should
+advise people with CKD not to confuse grams of protein per
+day with the weight of food in grams (i.e., 100 g of meat
+contains only approximately 25 g of protein; Figure 2023).
+Unlike carbohydrates and fats, excess dietary proteins
+cannot be stored in the body and are catabolized, leading to
+accumulation of protein waste products such as urea and
+other uremic toxins. As CKD progresses, these byproducts
+accumulate and affect organ function. High-protein intake
+also contributes to increased intraglomerular pressure and
+glomerular hyperﬁltration, which, in turn, may lead to glo-
+merulosclerosis
+and
+tubulointerstitial
+injury.458,459
+Progressive decline in kidney function is also associated
+with a spontaneous loss of appetite potentially leading to
+inadequate protein and energy intake.460 The Work Group
+therefore encourages maintaining protein intake in adults
+with CKD within the recommended range around 0.8 g/kg
+body weight/d, and particularly avoiding excess protein
+intakes (>1.3 g/kg of body weight/d), which may be
+harmful for the kidney.455 There is observational evidence
+suggesting that excess protein intake may accelerate kidney
+functional decline.461–463
+The protein type, not only the quantity, may also be
+relevant. Table 21 brieﬂy summarizes the impact of plant-
+based diets in people with CKD.464–470 In another cohort
+study of older subjects (N ¼ 291, mean age 76 years) with
+eGFR <60 ml/min per 1.73 m2, there was no signiﬁcant
+association between vegetable protein intake and change in
+eGFR.460 Observational studies452,464,465 and an RCT466
+have associated a higher plant-based protein relative to
+animal-based protein consumption or adherence to plant-
+based protein dominant diets with slower eGFR decline
+over time and lower risk of death; no study so far has
+assessed the measures of patient preferences.471 It is unclear
+whether
+the
+associations
+are attributed
+to plant-based
+protein intake per se or to other nutrients or lifestyle habits
+that
+accompany
+the
+plant-based
+protein
+intervention;
+however, there is biological plausibility. A crossover study of
+10 healthy individuals fed for 3 weeks evaluated the effect
+of a plant-based protein diet versus an animal-based protein
+diet on kidney function parameters. Both diets provided the
+same amount of total protein per day. Compared with
+animal-based protein, a plant-based protein diet reduced
+renal plasma ﬂow, increased renal vascular resistance, and
+lowered the fractional clearance of albumin.472,473
+Body weight (kg)
+Grams of protein per
+day (wt × 0.8 g/kg)
+35
+28
+40
+32
+50
+40
+55
+44
+60
+48
+65
+52
+70
+56
+75
+60
+80
+64
+85
+68
+90
+72
+95
+76
+100
+80
+Figure 19 | Protein guideline for adults with chronic kidney disease not treated with dialysis. wt, body weight in kg. Reproduced from
+Kidney Disease: Improving Global Outcomes Diabetes Work Group. KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic
+Kidney Disease. Kidney Int. 2022;102:S1–S127.23 Copyright ª 2022, KDIGO: Kidney Disease Improving Global Outcomes. Published by Elsevier
+Inc. on behalf of the International Society of Nephrology. This is an open access article under the CC BY-NC-ND license (http://creativecommons.
+org/licenses/by-nc-nd/4.0/).
+chapter 3
+www.kidney-international.org
+S208
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,176 @@
+extraskeletal (i.e., vascular) calciﬁcation related to these
+abnormalities of metabolism. It has been recommended
+that in people with CKD G3a–G5, treatments of CKD-MBD
+should
+be
+based
+on
+serial
+assessments
+of
+phosphate,
+calcium, and PTH levels considered together.20
+Higher serum phosphate concentrations are associated with
+mortality,602andexperimentaldatasuggestthatserumphosphate
+concentration is directly related to bone disease, vascular
+calciﬁcation,603,604
+and
+CVD.
+Low-phosphorus
+diets
+and
+binders are used to help lower serum phosphate to reduce the
+long-term
+complications
+of
+CKD-MBD,
+although
+more
+research is needed to fully understand the disease-modifying
+impact of these interventions.605 Similarly, despite evidence
+suggesting no beneﬁt on clinical outcomes,606 vitamin D
+replacement and calcimimetics to control PTH levels and to
+maintain calcium within the normal range are also common
+strategies. For recommendations regarding selection and dosing
+with speciﬁc therapeutic agents and research, please see the
+KDIGO 2017 Clinical Practice Guideline Update for the
+Diagnosis, Evaluation, Prevention, and Treatment of Chronic
+Kidney Disease–Mineral and Bone Disorder (CKD-MBD).20
+3.14 Hyperuricemia
+Deﬁnition and prevalence. Uric acid is the end product of the
+metabolism of purine compounds, and both increased urate
+production and decreased kidney excretion of uric acid can lead
+to hyperuricemia. The American College of Rheumatology
+deﬁnes hyperuricemia as a serum uric acid concentration of
+$6.8 mg/dl (approximately $400 mmol/l).607
+Data from the US National Health and Nutrition Exami-
+nation Survey (NHANES) 2015–2016 found that the crude
+adult prevalence of gout (deﬁned as self-reported, doctor
+diagnosis, or uric acid–lowering therapy use) was 3.9% with a
+higher prevalence in men than women (5.2% vs. 2.7%). After
+adjustment for age and sex, an eGFR consistent with CKD G3
+was associated with about twice the prevalence of gout (odds
+ratio: 1.96; 95% CI: 1.05–3.66).608
+Recommendation 3.14.1: We recommend people
+with CKD and symptomatic hyperuricemia should be
+offered uric acid–lowering intervention (1C).
+The Work Group placed high value on avoiding the un-
+pleasant symptoms of acute gout and preventing long-term
+complications of recurrent gout among people with CKD.
+There are well-tolerated and low-cost oral medications that
+can effectively lower blood uric acid concentration in people
+with CKD.
+Key information
+Balance of beneﬁts and harms. Systematic review of the
+management of gout by the American College of Rheu-
+matology found strong evidence for uric acid lowering in
+people with tophaceous gout, radiographic damage due to
+gout, or frequent gout ﬂares; some of whom also had
+CKD.607
+The ERT assessed the safety of uric acid–lowering therapy
+and found that uric acid lowering did not increase adverse
+events among people with CKD and particularly focused on
+risk of cutaneous reactions and hypersensitivity (pooled RR:
+1.00; 95% CI: 0.60–1.65) and hepatotoxicity (pooled RR:
+0.92; 95% CI: 0.37–2.30). Uric acid–lowering therapy was also
+found not to modify the risk of cardiovascular events or all-
+cause mortality in people with CKD.150,609,610 This reassuring
+cardiovascular
+safety
+proﬁle
+is
+consistent
+with
+general
+population
+data.
+In
+the
+open-label
+Allopurinol
+and
+Cardiovascular Outcomes in Patients With Ischemic Heart
+Disease (ALL-HEART) randomized trial, 5721 people aged
+$60 years with ischemic heart disease but no history of
+gout
+were
+included.
+Allopurinol
+did
+not
+modify
+cardiovascular risk compared with standard care (HR for
+the composite primary outcome of nonfatal myocardial
+infarction, nonfatal stroke, or cardiovascular death: 1.04;
+95% CI: 0.89–1.21). Findings were similar when 540 people
+–20
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Parathyroid hormone, pg/m
+15
+30
+45
+60
+75
+90
+105
+120
+–0.2
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+15
+30
+45
+60
+75
+90
+105
+120
+–0.3
+–0.2
+–0.1
+0
+0.1
+0.2
+0.3
+Serum calcium (albumin
+corrected), mg/d
+Serum phosphorus, mg/d
+15
+30
+45
+60
+75
+90
+105
+120
+eGFR, ml/min/1.73 m2
+eGFR, ml/min/1.73 m2
+eGFR, ml/min/1.73 m2
+A1
+A2
+A3
+Figure 35 | Association between estimated glomerular ﬁltration rate (eGFR) with serum concentrations of parathyroid hormone,
+phosphate, and serum calcium in general population and high-risk cohorts from the Chronic Kidney Disease Prognosis Consortium, by
+level of albuminuria (A1–A3). The y axis represents the meta-analyzed absolute difference from the mean adjusted value at an eGFR of 80 ml/
+min per 1.73 m2 and albumin excretion <30 mg/g (<3 mg/mmol). A1, albuminuria <30 mg/g (<3 mg/mmol); A2, albuminuria 30–300 mg/g
+(3–30 mg/mmol); A3, >300 mg/g (>30 mg/mmol). Reproduced from American Journal of Kidney Diseases, volume 73, issue 2, Inker LA, Grams
+ME, Levey AS, et al. Relationship of estimated GFR and albuminuria to concurrent laboratory abnormalities: an individual participant data meta-
+analysis in a Global Consortium, pages 206–217, Copyright ª 2018, with permission from the National Kidney Foundation, Inc.541
+chapter 3
+www.kidney-international.org
+S230
+Kidney International (2024) 105 (Suppl 4S), S117–S314

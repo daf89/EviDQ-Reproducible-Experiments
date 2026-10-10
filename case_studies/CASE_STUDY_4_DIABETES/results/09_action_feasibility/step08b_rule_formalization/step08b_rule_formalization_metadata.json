@@ -1,0 +1,24 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_08B_RULE_FORMALIZATION",
+  "objective": "Formalize documentary and statistical knowledge as IF-THEN rules for the expert system.",
+  "feature": "Age",
+  "dq_problem": "MISSING_VALUE",
+  "n_rules": 4,
+  "n_documentary_rules": 1,
+  "n_statistical_rules": 3,
+  "actions": [
+    "EXCLUDE_FROM_ANALYSIS",
+    "IMPUTE_MEDIAN",
+    "IMPUTE_KNN",
+    "IMPUTE_ITERATIVE"
+  ],
+  "rule_base_csv_sha256": "add1ec0ab3faa1b1ec36ed467e8a83c08a41f1a8004a8e614aebb8e0d42760bd",
+  "rule_base_json_sha256": "99fae76086ea17b5d7dd0a61c74448861ba15f973fa0a2f4c82c6be5e92ad6b1",
+  "dataset_modified": false,
+  "missing_values_injected": false,
+  "correction_applied": false,
+  "model_trained": false,
+  "test_accessed": false,
+  "created_utc": "2026-09-28T16:58:36.624158+00:00"
+}

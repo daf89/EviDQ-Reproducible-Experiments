@@ -1,0 +1,293 @@
+
+
+===== PDF PAGE 21 =====
+
+Society of America guidelines for the 
+management of heart failure (12,13).
+SGLT Inhibitors
+The SGLT2 inhibitors empagliflozin, cana­
+gliflozin, and dapagliflozin reduce the inci­
+dence of heart failure and improve heart 
+failure–related outcomes, including hos­
+pitalization for heart failure and heart 
+failure–related symptoms, in people with 
+diabetes with preserved or reduced ejec­
+tion fraction (242,247,248,281,286–294). 
+The results of these clinical trials have 
+been extensively outlined in the 2024 
+ADA “Standards of Care in Diabetes” 
+(295). These results led to trials of empagli­
+flozin and dapagliflozin in individuals with 
+symptomatic heart failure (both HFrEF and 
+HFpEF), often in populations with and 
+without diabetes.
+The DAPA-HF trial specifically evalu­
+ated the effects of dapagliflozin 10 mg 
+daily on the primary outcome of a com­
+posite of worsening heart failure or car­
+diovascular death in individuals with New 
+York Heart Association (NYHA) class II, III, 
+or IV heart failure and an ejection fraction 
+of 40% or less (287). Dapagliflozin treat­
+ment had a lower risk of the primary out­
+come (HR 0.74 [95% CI 0.65–0.85]), lower 
+risk of first worsening heart failure event 
+(HR 0.70 [95% CI 0.59–0.83]), and lower 
+risk of cardiovascular death (HR 0.82 
+[95% CI 0.69–0.98]) compared with pla­
+cebo. The effect of dapagliflozin on the 
+primary outcome was consistent regard­
+less of the presence or absence of type 2 
+diabetes (287). Similar results were ob­
+tained in clinical trials with empagliflozin 
+(291). In Empagliflozin Outcome Trial in 
+Patients With Chronic Heart Failure With 
+Preserved Ejection Fraction (EMPEROR- 
+Preserved), the primary outcome of car­
+diovascular death or hospitalization for 
+heart failure was reduced in adults with 
+NYHA functional class I–IV and chronic 
+HFpEF (LVEF >40%), extending the previ­
+ously seen benefit in people with heart 
+failure to those with preserved ejection 
+fraction irrespective of the presence of 
+type 2 diabetes (242). A similar benefit 
+for heart failure outcomes was seen in 
+the Dapagliflozin Evaluation to Improve 
+the Lives of Patients with Preserved Ejec­
+tion Fraction Heart Failure (DELIVER) trial 
+for dapagliflozin in people with mildly re­
+duced or preserved ejection fraction (290). 
+In the Effect of Sotagliflozin on Cardio­
+vascular Events in Patients With Type 2 
+Diabetes Post Worsening Heart Failure 
+(SOLOIST-WHF) trial, sotagliflozin, a com­
+bined SGLT1/2 inhibitor, initiated during 
+or shortly after hospitalization for heart 
+failure in people with diabetes, also re­
+duced the risk for the primary end point 
+of deaths from cardiovascular causes and 
+hospitalizations and urgent visits for heart 
+failure (296). A large meta-analysis (297) in­
+cluding the EMPEROR-Reduced, EMPEROR- 
+Preserved, DAPA-HF, DELIVER, and SOLOIST- 
+WHF trials included 21,947 individuals and 
+demonstrated reduced risk for the com­
+posite of cardiovascular death or hospi­
+talization for heart failure, cardiovascular 
+death, first hospitalization for heart fail­
+ure, and all-cause mortality. The findings 
+on the studied end points were consistent 
+in both trials of heart failure with mildly 
+reduced or preserved ejection fraction 
+and in all five trials combined. In addition 
+to the hospitalization and mortality bene­
+fit in people with heart failure, SGLT2 
+inhibitors improve clinical stability and 
+functional status in individuals with heart 
+failure (289,292–294). Collectively, these 
+studies indicate that SGLT2 inhibitors re­
+duce the risk for heart failure hospitaliza­
+tion and cardiovascular death in a wide 
+range of people with heart failure inde­
+pendently of glucose-lowering activity. 
+Therefore, in people with type 2 diabetes 
+and established HFpEF or HFrEF, an SGLT2 
+inhibitor with proven benefit in this popu­
+lation is recommended to reduce the risk 
+of worsening heart failure and cardiovas­
+cular death. In addition, an SGLT2 inhibitor 
+is recommended in this population to im­
+prove symptoms, physical limitations, and 
+quality of life.
+One concern with expanded use of 
+SGLT inhibition is the infrequent but seri­
+ous risk of diabetic ketoacidosis, including 
+the atypical presentation of euglycemic 
+ketoacidosis. While multiple pathways have 
+been proposed to explain the propensity 
+to excess ketone body production with 
+SGLT2 inhibitors (e.g., increases in gluca­
+gon levels), generally the occurrence of 
+other risk factors or situations is needed 
+to precipitate the onset of diabetic ketoa­
+cidosis or euglycemic ketoacidosis, includ­
+ing, but not limited to, a systemic illness, 
+insulin pump malfunctions, significant re­
+duction in insulin doses, and prolonged 
+periods of fasting or carbohydrate restric­
+tion. Although there were low rates of ke­
+toacidosis in the cardiovascular and heart 
+failure outcomes trials evaluating SGLT in­
+hibition, these studies excluded individu­
+als with type 1 diabetes and/or recent 
+history of diabetic ketoacidosis (296,298). 
+To decrease the risk of ketoacidosis when 
+using SGLT inhibition in people with dia­
+betes, it is recommended that clinicians 
+assess the underlying susceptibility; provide 
+education regarding the risks, symptoms, 
+and prevention strategies; and prescribe 
+home monitoring supplies for β-hydroxy­
+butyrate (299,300). Assessment of suscepti­
+bility, education, and provision of monitoring 
+supplies should reoccur throughout the du­
+ration of SGLT inhibitor treatment as core 
+preventative strategies to minimize the risk 
+of ketoacidosis (301,302).
+Mineralocorticoid Receptor Antagonists
+Consistent with heart failure guidelines, 
+an MRA like spironolactone or eplerenone 
+is recommended in people with HFrEF 
+(ejection fraction ≤40%) and type 2 diabe­
+tes (12,13).
+The selective nonsteroidal MRA finere­
+none was examined in the Study to Evalu­
+ate the Efficacy (Effect on Disease) and 
+Safety of Finerenone in Participants With 
+Heart Failure and Left Ventricular Ejection 
+Fraction (Proportion of Blood Expelled 
+Per Heart Stroke) Greater or Equal to 40% 
+(FINEARTS-HF) trial of people with symp­
+tomatic HFpEF (ejection fraction ≥40%) 
+and was found to reduce the risk of total 
+number of worsening heart failure 
+events or cardiovascular death by 16% 
+(rate ratio 0.84, 95% CI 0.74–0.95) (303). 
+Of the enrolled participants, 41% had 
+type 2 diabetes. Thus, finerenone im­
+proves cardiovascular and kidney out­
+comes in people with type 2 diabetes. 
+Addition of finerenone can be considered 
+to improve heart failure outcomes in indi­
+viduals with symptomatic HFpEF. In people 
+with type 2 diabetes and CKD with albu­
+minuria treated with maximum tolerated 
+doses of ACE inhibitor or ARB, the addition 
+of finerenone should be considered to im­
+prove cardiovascular outcomes, including 
+the risk for heart failure hospitalization, 
+and to reduce the risk of CKD progression.
+GLP-1 RA and Dual GIP/GLP-1 RA
+Increasing evidence has demonstrated the 
+benefits of GLP-1 RA or dual GIP/GLP-1 
+RA on symptoms and outcomes for peo­
+ple with HFpEF and obesity, and while 
+most people with HFpEF have obesity, ap­
+proximately 45% have diabetes (304,305). 
+The Semaglutide Treatment Effect in 
+People with Obesity and HFpEF and Dia­
+betes Mellitus (STEP-HFpEF DM) trial eval­
+uated whether the GLP-1 RA semaglutide 
+S236 
+Cardiovascular Disease and Risk Management                                                       
+Diabetes Care Volume 49, Supplement 1, January 2026 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026
+
+
+===== PDF PAGE 22 =====
+
+improves symptoms related to heart fail­
+ure in people with type 2 diabetes (306). 
+In the study, 616 people with type 2 dia­
+betes and a BMI of 30 or greater with 
+HFpEF were assigned to receive once- 
+weekly semaglutide at a dose of 2.4 mg 
+or placebo. The primary end point was 
+the change in the Kansas City Cardiomy­
+opathy Questionnaire clinical summary 
+score (KCCQ-CSS) (range from 0 to 100) 
+and the change in weight. After 1 year of 
+treatment, the mean change in the score 
+was 13.7 points with semaglutide and 6.4 
+points with placebo, and the mean body 
+weight was reduced by 9.8% in the group 
+assigned to semaglutide compared with 
+3.4% with placebo. In addition, in the 
+confirmatory secondary end point, sem­
+aglutide treatment improved 6-min walk 
+distance. SUMMIT [A Study of Tirzepatide 
+(LY3298176) in Participants With Heart 
+Failure With Preserved Ejection Fraction 
+(HFpEF) and Obesity] was a randomized, 
+double-blind, placebo-controlled trial of 
+tirzepatide, a dual GIP and GLP-1 RA, in in­
+dividuals with established HFpEF and obe­
+sity (48% with diabetes). The coprimary 
+outcomes were death from cardiovascu­
+lar causes or a worsening heart failure 
+event and a change in the KCCQ-CSS. Wors­
+ening heart failure or cardiovascular death 
+was less frequent in individuals receiving 
+tirzepatide (9.9% of individuals) versus pla­
+cebo (15.3% of individuals; HR 0.62, 95% 
+CI 0.41–0.95). In addition, the mean KCCQ- 
+CSS improved significantly more in those 
+on active tirzepatide (19.5) than in the pla­
+cebo group (12.7) (307). Because of the re­
+sults of these trials, treatment with a GLP-1 
+RA or GIP/GLP-1 RA for a reduction in heart 
+failure events and heart failure symptoms 
+in people with symptoms of heart failure is 
+recommended.
+Figure 10.6—Approach to prevent ASCVD in people with type 2 diabetes. ASCVD, atherosclerotic cardiovascular disease; BP, blood pressure; CKD, 
+chronic kidney disease; CV, cardiovascular; GLP-1 RA, glucagon-like peptide 1 receptor agonist; LVEF, left ventricle ejection fraction; SGLT2i, 
+sodium–glucose cotransporter 2 inhibitor. 
+Other Glucose-Lowering Therapies 
+in Heart Failure
+Thiazolidinediones have a strong and con­
+sistent relationship with increased risk of 
+heart failure (308,309) and should be 
+avoided in people with heart failure. Met­
+formin may be used for the management 
+of hyperglycemia in people with stable 
+heart failure as long as kidney function re­
+mains within the recommended range for 
+use (310). DPP-4 inhibitors are generally 
+considered safe to use in heart failure, 
+though in The Saxagliptin Assessment of 
+Vascular Outcomes Recorded in Patients 
+with Diabetes Mellitus–Thrombolysis in 
+Myocardial Infarction 53 (SAVOR-TIMI 53) 
+Does the individual have established ASCVD?
+High-intensity statin2
+SGLT2i
+Does the individual have ASCVD in 
+at least two vascular beds, or one 
+Consider aspirin 81 mg daily AND 
+rivaroxaban 2.5 mg twice daily 
+in individuals who do not need 
+systemic anticoagulation or dual 
+antiplatelet therapy and do not 
+have another contraindication3
+High-intensity statin
+SGLT2i
+Aspirin 81 mg once daily OR 
+clopidogrel 75 mg once daily
+Moderate- or high-intensity 
+statin2
+Is the individual at high ASCVD risk?4
+Nutrition and lifestyle
+BP management
+1. 
+ASCVD is defined as a history of an acute coronary syndrome or myocardial infarction, angina, coronary heart disease with or without 
+revascularization, other arterial revascularization, stroke, or peripheral artery disease assumed to be atherosclerotic in origin.
+2. 
+Non-statins with demonstrated benefit should be considered in those with statin intolerance.
+3. 
+Consider low-dose rivaroxaban in people with atherosclerotic disease in at least two vascular beds, or in one bed and are older than 65 years, who do NOT have an
+ic anticoagulation.
+4. 
+Individuals at high risk for ASCVD include those with end-organ damage such as left ventricular hypertrophy or retinopathy or with multiple CV risk factors (e.g., 
+older age, hypertension, smoking, dyslipidemia, CKD, and obesity).
+Yes
+Yes
+No
+No
+No
+Yes
+Prevention of ASCVD1 in people with type 2 diabetes
+diabetesjournals.org/care
+Cardiovascular Disease and Risk Management
+S237 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S216/​848870/​dc26s010.​pdf by guest on 27 September 2026

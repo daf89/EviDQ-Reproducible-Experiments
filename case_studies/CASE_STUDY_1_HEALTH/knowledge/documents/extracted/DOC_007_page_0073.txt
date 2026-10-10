@@ -1,0 +1,131 @@
+However, other considerations may also be relevant for the
+regional organization making these decisions. We also note
+that if cystatin C is available, then using eGFRcr-cys would
+simplify the selection of the equation as the performance of
+eGFRcr-cys computed from the different equations is more
+similar than that of eGFRcr.
+Rationale
+The KDIGO 2012 Clinical Practice Guideline for the Evalu-
+ation and Management of Chronic Kidney Disease recom-
+mended “to report eGFRcr in adults using the 2009 CKD-EPI
+creatinine equation. An alternative creatinine-based GFR
+estimating equation is acceptable if it has been shown to
+improve accuracy of GFR estimates compared to the 2009
+CKD-EPI creatinine equation.” We are updating this recom-
+mendation to accommodate the availability of alternative
+equations that also have high levels of accuracy. Since the
+publication of the KDIGO 2012 Clinical Practice Guideline
+for the Evaluation and Management of Chronic Kidney Dis-
+ease1 for GFR estimation in adults, there have been 3 main
+sources of validated equations: those developed by the
+CKD-EPI, those developed by EKFC, and modiﬁcations of
+each for use in speciﬁc regions (Table 1483,91,147,148,235,238–
+243). Table 15 lists thresholds for key performance metrics
+that can be used to guide comparison between equations.
+The CKD-EPI Research Group developed equations for
+estimatingGFRfromcreatinine,cystatinC,andthecombination
+of both, with and without inclusion of a coefﬁcient for Black
+race. The concerns about the continued use of race in GFR that
+led to the removal of the race coefﬁcient are described in the
+rationale that follows Practice Point 1.2.4.2. The 2009 CKD-EPI
+creatinineequationincludescreatinine,age,race,andsex.238The
+2021 CKD-EPIcreatinine equationwas reﬁtted without race and
+includes creatinine, age, and sex.147 As a consequence of not
+including the Black race coefﬁcient, the 2021 CKD-EPI
+creatinine equation leads to a small overestimate of GFR in
+non-Black individuals and a small underestimate in Black
+individuals. The 2009 CKD-EPI creatinine equation is more
+accurate than the 2021 CKD-EPI creatinine equation in the
+non-Black race group, as indicated by the percentage of eGFRs
+within 30% of mGFR (P30), although the change in the level of
+accuracy is small compared with the known variability in
+mGFR and eGFR, and P30 remains at the level consistent with
+recommended targets as indicated in prior CKD guidelines
+(Table 1483,91,147,148,235,238–243 Section 1.2.2, Figure 12174).1,147
+The 2021 CKD-EPI eGFR creatinine-cystatin C equation that
+includes both ﬁltration markers but does not include a term
+for Black race leads to improved accuracy in both race groups,
+with less difference between race groups in all metrics. The
+EKFC developed equations for estimating GFR from creatinine
+and cystatin C.91,240 Before implementation in other regions,
+the
+authors
+recommended
+that
+local
+regions
+specify
+population-speciﬁc Q-values for the creatinine-based EKFC
+equation, which is the normal level of creatinine in that region.
+To make the SCr-based EKFC equation applicable for children,
+age-adjusted Q-values were deﬁned. The original EKFC
+creatinine equation had a Q-value developed from Belgium
+and Sweden but was validated in 7 European studies and is
+recommended for use in White Europeans.240 They have
+recently published Q-values for Black Europeans developed
+from a cohort of 90 kidney donors in Paris and for Black
+Africans
+developed
+from
+2
+cohorts
+in
+République
+Démocratique de Congo Cote D’Ivoire. The EKFC cystatin C
+equation includes only age and cystatin C, that is, it does not
+include sex or race. The Q-value for cystatin C was developed
+in a White cohort in Uppsala, Sweden. The cystatin C–based
+EKFC equation has been validated in White Europeans, Black
+Europeans, White Americans, and Black Africans. To increase
+accuracy
+and
+precision,
+EKFC
+recommends
+averaging
+creatinine and cystatin C to obtain an estimate of GFR that
+includes both ﬁltration markers. eGFRcr-cys (the average of
+the EKFC creatinine and EKFC cystatin C) also provides the
+most accurate estimates, consistent with the ﬁndings of CKD-
+EPI eGFRcr-cys.
+In both the CKD-EPI and EKFC external validation data-
+sets, there are consistent ﬁndings that the eGFRcr-cys provides
+improved performance in estimating mGFR compared with
+the respective creatinine- or cystatin-only equations. This re-
+inforces the recommendation in Section 1.2.1 emphasizing the
+greater use of eGFRcr-cys for decisions that require GFR.
+There have been several modiﬁcations to the CKD-EPI
+equations for use in individual countries, including China, Japan,
+and Pakistan.83,153,235 We expect country-speciﬁc modiﬁcations
+of both CKD-EPI and EKFC to continue to be developed. One
+recent study in China reported no clinically meaningful
+difference in the performance of the Asian-modiﬁed CKD-EPI
+and EKFC equations compared with mGFR.244
+Studies vary in their consistency and precision. Direct
+comparisons of available estimating equations in populations
+with worldwide applicability are lacking, and so too are
+validation studies comparing equations against mGFR in all
+populations of interest. The overall certainty of the evidence is
+therefore low but where the performance characteristics of
+GFR estimating equations in the population of interest are
+known, there are data to support the use of one equation over
+another for improved accuracy of GFR reporting.
+Practice Point 1.2.4.2: Use of race in the computation of
+eGFR should be avoided.
+Estimating equations for GFR have historically incorpo-
+rated demographic variables of age, sex, and race to explain
+variation in serum concentrations of endogenous ﬁltration
+markers that are unrelated to GFR, thereby minimizing sys-
+tematic errors in subgroups deﬁned by these variables and
+systematic differences between groups.
+Age, sex, and race variables were included in the 2009
+CKD-EPI equation as previous studies indicated higher
+average SCr for the same mGFR level in people who are older
+versus younger, males versus females, and people who are
+Black versus non-Black. Incorporation of these variables
+minimized systematic errors in groups and systematic dif-
+ferences between groups.147,245 Similarly, subsequent to the
+chapter 1
+www.kidney-international.org
+S188
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,4 @@
+﻿feature,total_relevant_chunks,chunks_with_semantics,chunks_with_domain_constraint,chunks_with_error,chunks_with_detection,chunks_with_correction,chunks_without_established_knowledge
+registry_stage_code,39,35,29,0,1,0,4
+age_diag,11,3,2,1,2,1,6
+mkb10_code,13,4,3,0,0,0,9

@@ -1,0 +1,120 @@
+8.5. Intensity of blood pressure-lowering 
+therapy and ideal treatment targets 
+8.5.1. Expected degree of blood pressure reduction 
+with approved drugs 
+The magnitude of BP reduction achieved with the main classes of 
+BP-lowering medications (ACE inhibitors, ARBs, dihydropyridine CCBs, 
+diuretics, and beta-blockers) as monotherapy is similar overall.528,529 BP 
+reduction with standard doses of any of these five classes can be expected 
+to be approximately 9/5 mmHg with office BP and 5/3 mmHg with 
+ABPM.478 These BP-lowering effects may attenuate over time.530 
+Combination therapy (e.g. with three drugs at half standard dose) over 
+the short term can lower office BP by up to 20/11 mmHg.478,531 The rea-
+son why beta-blockers are not considered first-line BP-lowering medica-
+tions (outside of compelling indications) is not because of inferior 
+BP-lowering properties (particularly for vasodilating beta-blockers),532 
+but because of inferior efficacy in reducing CVD events (particularly 
+stroke) among patients with hypertension, and tolerance issues.533–536 
+The BP-lowering effect of each BP medication class generally increases 
+with the dose administered, though this relationship is not linear.537 
+Effects of each medication can also vary at the individual level, sometimes 
+requiring personalization by matching the patient with the best medica-
+tion for them.490 The magnitude of BP reduction for any BP-lowering 
+medication may increase as a function of the pre-treatment BP, which 
+is also known as Wilders principle.538,539 
+The BP-lowering effect of pharmacological therapy is typically evi-
+dent after 1–2 weeks of treatment,540 but the maximum effect might 
+take longer to manifest. Therefore, the advised follow-up after 1–3 
+months (1 month preferred with a GP or specialist) allows for assess-
+ment of tolerance/safety, but also allows enough time to gauge the 
+full BP-lowering effect of each drug titration (see Section 8.3.4). 
+8.5.2. The ideal target of blood pressure-lowering 
+treatment 
+As discussed in Section 6, optimal control of BP translates into CVD 
+risk reduction, thereby reducing morbidity and mortality in the 
+population.116,478,541 
+BP threshold is defined as the BP at which BP-lowering treatment is 
+initiated, while BP target is the BP goal with treatment. 
+The BP threshold to initiate BP-lowering therapy is not necessarily the 
+same as the recommended BP target once therapy is commenced (in 
+other words, treatment threshold and treatment target may not be the 
+same for a given patient). Specifically, for hypertensive patients in whom 
+BP-lowering treatment is recommended above a baseline BP of ≥140/ 
+90 mmHg, the recommended target of BP-lowering therapy is 120–129/ 
+70–79 mmHg, provided treatment is well tolerated (see Supplementary 
+data online). Persons with elevated BP who receive treatment are also re-
+commended to achieve a target of 120–129/70–79 mmHg. 
+Therefore, the treatment target in the 2024 Guidelines is always 
+120–129/70–79 mmHg (but only if treatment is tolerated and with cer-
+tain exceptions where more lenient targets are advised). In contrast, the 
+treatment threshold may differ based on CVD risk, specifically in the ele-
+vated BP category. For example, in addition to hypertensive adults with 
+BP ≥140/90 mmHg, there are individuals with an office systolic BP of 
+130–139 mmHg and/or diastolic BP of 80–89 mmHg who have suffi-
+ciently high CVD risk to recommend BP-lowering drug treatment. 
+The BP target range of 120–129/70–79 mmHg recommended 
+in these guidelines reflects the most current evidence from contempor-
+aneous RCTs135,136,146,542–545 and from meta-analyses of RCTs.131 Of 
+note, this treatment target reduces CVD events in older adults136,523 
+with evidence for efficacy of more intensive BP-lowering treatment 
+targets established up to age 85 years.131 Furthermore, research 
+data indicate that, to optimally reduce CVD risk, achieving an on- 
+treatment BP of 120/70 mmHg is the best point on the BP target range 
+provided in our guideline recommendations (Figure 20). However, while 
+we strongly considered recommending a treatment target of exactly 
+120/70 mmHg with out-of-office BP confirmation, we instead chose a 
+target range of 120–129/70–79 mmHg (preferably with out-of-office 
+BP confirmation but also allowing for office BP) for the following rea-
+sons: providing flexibility to patients and clinicians; feedback from exter-
+nal peer review; feedback from patients that lifestyle is preferred to 
+medication unless BP is in the hypertensive range; the knowledge that 
+contemporary treat-to-target intensive BP trials included only persons 
+with baseline systolic BP of ≥130 mmHg; and a recognition that the 
+BP values recorded under research conditions using systematic ap-
+proaches to measurement (while strongly recommended by these 
+guidelines) are not always the same as BP values recorded under rou-
+tine clinical care, which can be 5–10 mmHg higher.65,66 
+In addition, the trial data confirming efficacy for our recommended 
+treatment target of 120–129/70–79 mmHg do not necessarily apply 
+to moderately-to-severely frail adults who were generally excluded 
+from trials. Furthermore, the data supporting this BP target among 
+adults aged >85 years are inconclusive.131 Frailty can occur at different 
+ages and is, together with tolerability of BP-lowering treatment, an im-
+portant characteristic when considering the BP target for a given pa-
+tient. Accordingly, personalized BP-lowering treatment should be 
+instituted in people aged ≥85 years and/or those with significant frailty. 
+Recommended indicators of frailty in guiding BP-lowering treatment 
+are given in Section 9. 
+Several important nuances are highlighted and warrant consideration 
+prior to implementing the new BP target of 120–129/70–79 mmHg 
+among patients receiving BP-lowering therapy: 
+• Evidence for a systolic BP-lowering treatment target of 120–129 mmHg 
+is strong (Class I, level of evidence A). 
+• Evidence for a specific diastolic BP-lowering treatment target 
+is less strong in those who are treated to a systolic target of 
+120–129 mmHg. While most adults treated to a systolic BP target 
+of 120–129 mmHg will also achieve a diastolic BP of 70–79 mmHg, 
+not all will.543,546 Furthermore, adults who achieve systolic BP con-
+trol are generally at low relative risk for CVD, even when diastolic 
+BP is 70–90 mmHg.547,548 Nonetheless, due in part to the known 
+higher risk of isolated diastolic hypertension among younger 
+adults,549 the task force agreed that it is reasonable to target an 
+on-treatment diastolic BP of 70–79 mmHg among patients with 
+diastolic BP of ≥80 mmHg who are already at the systolic BP tar-
+get of 120–129 mmHg (Class IIb, level of evidence C). 
+• The task force acknowledges the 2021 ESC Guidelines on cardio-
+vascular disease prevention in clinical practice,170 which take a step-
+wise approach to their recommendations for BP-lowering treatment. 
+The 2021 Guidelines recommended an on-treatment systolic BP tar-
+get of 130–139 mmHg as the first step and then—based on patient 
+preferences, risk, and frailty—to aim for a target on-treatment 
+systolic BP of <130 mmHg as the second step. While we recognize 
+the potential value of this two-step approach, which many clinicians 
+may choose to follow, the current guidelines emphasize one on- 
+treatment BP target (120–129/70–79 mmHg, provided treatment is 
+tolerated). This one-step approach is based on the evidence, and mo-
+tivated to discourage therapeutic inertia around BP lowering. As an 
+illustrative example of the latter concern for therapeutic inertia, an 
+3964 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

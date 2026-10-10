@@ -1,0 +1,123 @@
+Signiﬁcant progress has been made in developing a certi-
+ﬁed reference material for urine albumin and a reference
+measurement
+procedure.313,314
+However,
+current
+commercially available assays for urine albumin are not
+standardized against this reference material. Laboratories
+should ensure that they are enrolled and demonstrate
+satisfactory performance in, an EQA scheme for urine
+albumin, creatinine, and ACR.
+Urine albumin (and protein) concentrations in urine
+should be reported as a ratio to creatinine—ACR (or PCR).
+Reporting as a ratio to creatinine corrects for variations in
+urinary ﬂow rate and enables reporting on untimed, spot
+samples, obviating the need for timed, including 24-hour,
+collections, which are prone to collection error and tedious
+for people to undertake. Reporting albumin as a ratio to
+creatinine reduces the intraindividual variability in albumin-
+uria compared with reporting as albumin concentration alone
+(mg/mmol or mg/g).315
+To aid clarity in reporting across and within healthcare
+systems, and to provide guidance regarding the number of
+meaningful digits in a result, a standardized approach should
+be used in relation to reporting units of ACR and PCR. ACR
+results should be expressed to one decimal place (mg/mmol)
+or whole numbers (mg/g). Both enzymatic and Jaffe assays
+are generally suitable for the measurement of creatinine in
+urine, although high concentrations of glucose can interfere
+in Jaffe urine creatinine measurement and produce clinically
+meaningful errors in ACR.
+1.4 Point-of-care testing
+Recommendation 1.4.1: We suggest that point-of-
+care testing (POCT) may be used for creatinine and
+urine albumin measurement where access to a lab-
+oratory is limited or providing a test at the point-of-
+care facilitates the clinical pathway (2C).
+Practice Point 1.4.1: Whenever a POCT device is used for
+creatinine and urine albumin testing, ensure that the same
+preanalytical, analytical, and postanalytical quality criteria
+relating to the specimen collection and performance of the
+device, including external quality assessment, and the
+interpretation of the result is used.
+Practice Point 1.4.2: Where a POCT device for creatinine
+testing is being used, generate an estimate of GFR. Use the
+equation consistent with that used within the region.
+Practice Point 1.4.3: Where a POCT device is being used for
+albuminuria testing, the capability of also analyzing
+creatinine and producing an ACR is important. Assess the
+ability of the POCT ACR devices to produce a positive
+result in 85% of people with signiﬁcant albuminuria (ACR
+‡30 mg/g or ‡3 mg/mmol), as part of the evaluation and
+consideration of using the device.
+This recommendation places a high value on the advantages
+of POCTs including convenience, elimination of sample trans-
+portation to the central laboratory, minimal sample processing,
+simple analytic process, minimal sample requirement, and im-
+mediate availability of results. It places a lower value on the
+limited and heterogeneous data related to their diagnostic
+accuracy.
+Key information
+Balance of beneﬁts and harms. POCTs for both creatinine
+and urine albumin have several potential beneﬁts. POCT may
+lead to earlier diagnosis, and as a result, earlier treatment of
+CKD. They may also be used to monitor CKD progression,
+which enables more timely treatment decisions. The rapid
+reporting, low cost, and convenience to people with CKD
+compared with central laboratory testing are also important
+beneﬁts of POCTs. However, its provision can raise challenges
+in relation to maintenance of analytical and diagnostic per-
+formance, and governance arrangements. In addition, these
+tests may be less accurate than laboratory testing, which may
+lead to misdiagnosis, misclassiﬁcation, overtreatment, or
+undertreatment. The balance of beneﬁts and harms needs
+rigorous evaluation speciﬁc to each clinical situation.
+For creatinine, the ERT identiﬁed a systematic review from
+the National Institute for Health and Care Excellent (NICE)/
+National Institute for Health Research (NIHR) diagnostic
+guideline that evaluated point-of-care creatinine tests to assess
+GFR before computed tomography (CT) scanning with
+contrast media.316 The ERT also updated the ﬁndings of this
+systematic review. The review from NICE/NIHR identiﬁed
+and qualitatively synthesized data from 54 studies on
+diagnostic accuracy: eGFR diagnostic accuracy (n ¼ 12),
+SCr diagnostic accuracy (n ¼ 7), and correlation and bias
+of POC creatinine tests compared with laboratory-based
+tests (n ¼ 50). One study317 was identiﬁed in the update of
+the
+NICE/NIHR
+review
+assessing
+POC
+creatinine
+test
+compared
+with
+laboratory
+standards
+in
+a
+pediatric
+population with malaria in Uganda.
+These studies covered 3 types of devices: StatSensor, i-
+STAT, and ABL devices. In general, all 3 devices demonstrated
+acceptable accuracy at lower levels of eGFR (<30 ml/min per
+1.73 m2).316 Results showed that i-STAT and ABL devices may
+have higher probabilities of correctly classifying people in the
+same eGFR categories as the laboratory reference than
+StatSensor devices.
+For albumin, the ERT identiﬁed a systematic review pub-
+lished in 2014, by McTaggart et al.,318 that evaluated the
+diagnostic accuracy of quantitative and semiquantitative
+protein or albumin urine dipstick tests compared with
+laboratory-based tests among people with suspected or
+diagnosed CKD. The ERT included relevant studies from
+this review and conducted an update.
+Sixty-ﬁve studies (in 66 articles)319–344,345–368,369–384 eval-
+uated the accuracy of quantitative and semiquantitative pro-
+tein or albumin dipstick tests in a general population not on
+chapter 1
+www.kidney-international.org
+S194
+Kidney International (2024) 105 (Suppl 4S), S117–S314

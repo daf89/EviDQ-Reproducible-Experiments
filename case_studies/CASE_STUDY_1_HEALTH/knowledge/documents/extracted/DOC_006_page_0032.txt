@@ -1,0 +1,101 @@
+Expansion of the USCDI to New Quality Domains 
+S E C T I O N 1 : S T R A T E G I E S F O R H E A L T H I T A D V I S O R S
+S E C T I O N 2 : W O R K I N G W I T H E L E C T R O N I C H E A L T H 
+R E C O R D S 
+In2021, the USCDIwasexpandedtoincorporate new data elementsforbehavioralandsocialneedsand 
+assessments.For example,a new classwasadded to addresssocial determinants of health (SDOH) and 
+substance use treatment,animportant targetforQI. Ause caseforhow thesedatamightbe usedforQI is 
+found inSection 6. InJanuary2022,a draftversion3ofUSCDIwaspublished. The most currentspecification 
+for the USCDI’s datastructuresanddataelements, can be accessed through HealthIT.gov here. 
+Exhibit 14: EHR Data Groupings Useful for Quality Improvement (USCDI Data Classes)[35] 
+EHR Data Grouping 
+Description 
+Assessment and 
+Plan of Treatment 
+• 
+Represents a health professional’s conclusions and working assumptions that 
+will guide treatment of the patient. 
+Clinical Notes 
+• 
+Represents narrative patient data relevant to the respective note types. 
+Clinical Tests 
+• 
+Includes non-imaging and non-laboratory tests performed on a patient that 
+results in structured or unstructured (narrative) findings specific to the 
+patient, such as electrocardiogram (ECG), visual acuity exam, macular exam, 
+or graded exercise testing (GXT), to facilitate the diagnosis and management 
+of conditions. 
+Diagnostic Imaging • 
+Tests that result in visual images requiring interpretation by a credentialed 
+professional. 
+Encounter 
+Information 
+• 
+An episode defined by an interaction between a healthcare provider and the 
+subject of care in which healthcare-related activities take place. 
+Health Concerns 
+• 
+Health-related matter that is of interest, importance, or worry to someone 
+who may be the patient, patient’s family, or patient’s healthcare provider. 
+Immunizations 
+• 
+Record of an administration of a vaccination or a record of a vaccination as 
+reported by a patient, a clinician, or another party. 
+Laboratory 
+• 
+The name of the analysis of specimens derived from humans which provide 
+information for the diagnosis, prevention, treatment of disease, or 
+assessment of health. 
+• 
+Documented findings of the analysis of a tested specimen. Includes both 
+structured and unstructured (narrative) components. 
+Medications 
+• 
+[Prescribed medications] 
+Patient 
+Demographics 
+• 
+Current Address 
+• 
+Phone Number 
+• 
+Date of Birth 
+• 
+Phone Number Type 
+• 
+Email Address 
+• 
+Preferred Language 
+• 
+Ethnicity 
+• 
+Previous Address 
+• 
+First Name 
+• 
+Previous Name 
+• 
+Gender Identity 
+• 
+Race 
+• 
+Last Name 
+• 
+Sex (Assigned at Birth) 
+• 
+Middle Name (including middle 
+• 
+Sexual Orientation 
+initial) 
+• 
+Suffix 
+Problems 
+• 
+Information about a condition, diagnosis, or other event, situation, issue, or 
+clinical concept that is documented. 
+Procedures 
+• 
+An activity that is performed with or on a patient as part of the provision of 
+care. 
+Health IT Advisor Handbook 
+Page 27

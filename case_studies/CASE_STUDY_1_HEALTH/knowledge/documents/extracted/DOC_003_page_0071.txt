@@ -1,0 +1,123 @@
+9.14. Management of specific causes 
+of secondary hypertension 
+9.14.1. General considerations 
+These guidelines will describe only the general principles of managing 
+the most common forms of secondary hypertension. For the rarer 
+forms of secondary hypertension, patients should be referred to specia-
+lized hypertension centres. 
+By definition, secondary hypertension should be, for the most part, 
+cured when the underlying cause has been unambiguously identified 
+and removed. However, in clinical practice, this is not always the case. 
+Vascular remodelling, a common feature of a delayed diagnosis of sec-
+ondary hypertension, affects renal function and can account for residual 
+high BP in some patients with secondary hypertension. The rate of cure is 
+higher when the diagnosis is made early in the course of the disease. Most 
+common forms of secondary hypertension are listed in Table 13. 
+9.14.2. Primary aldosteronism 
+Primary aldosteronism (Conn syndrome) is the most common form of 
+secondary hypertension. The management of primary aldosteronism 
+depends on its subtype, particularly on adrenal lesions being unilateral 
+or bilateral, because the unilateral forms are amenable to surgical treat-
+ment while the latter require lifelong medical treatment. In sporadic 
+forms, unilateral primary aldosteronism is distinguished from bilateral 
+primary aldosteronism by adrenal vein sampling or functional imaging 
+with radiolabelled tracers.930–932 In the much less common familial 
+forms (necessitating a family history be taken), genetic testing for germ-
+line mutations is necessary.933 
+For unilateral primary aldosteronism, surgical removal of the offending 
+adrenal gland is typically considered, unless the patient is older or has co-
+morbidities of concern. Surgery is not an option for bilateral primary 
+aldosteronism. Medical treatment is currently based on MRAs. Among 
+MRAs, spironolactone is the most widely available. The effective dose, 
+usually 50–100 mg once daily, can be titrated up to 300–400 mg once 
+daily, if necessary. Eplerenone is also used and, despite being less potent 
+than spironolactone and requiring twice-daily administration, it has the ad-
+vantage of causing less gynaecomastia and erectile dysfunction in men.934 
+Newer agents, such as the non-steroidal MRAs finerenone and 
+exarenone, and the aldosterone synthase inhibitor baxdrostat, which low-
+er BP in resistant hypertension,326,474 are also being tested for treating pri-
+mary aldosteronism. Of the familial forms, only glucocorticoid-remediable 
+primary aldosteronism, now reclassified as familial hyperaldosteronism 
+type 1, can be corrected with dexamethasone,935 usually with low doses 
+that are free of glucocorticoid effects and can be safely used during preg-
+nancy.936 For detailed information, readers are referred to the latest pri-
+mary aldosteronism guidelines.328,329 
+9.14.3. Renovascular hypertension 
+Patients with RVH should receive medical therapy to reduce BP in the 
+first instance. Percutaneous transluminal renal angioplasty (PTRA) 
+without stenting is the treatment of choice for fibromuscular dysplasia, 
+and can restore renal perfusion pressure and lower BP.937 When this is 
+not feasible, RAS blockers are the drugs of choice for treatment, but 
+they require careful monitoring of renal function over time, as they 
+can cause acute renal failure in those with tight bilateral stenoses or a 
+stenosed solitary functioning kidney. Possible involvement of the ca-
+rotid, coronary, and other major arteries, possibly leading to dissection 
+if BP is not controlled, should also be considered, as fibromuscular dys-
+plasia is now recognized as a systemic disease affecting multiple vascular 
+beds. 
+Patients with significant atherosclerotic renal artery stenosis are at 
+very high risk of CVD and renal events. It is recommended that 
+PTRA and stenting are performed in experienced centres due to the 
+high risk of restenosis. Unfortunately, though these studies did not sole-
+ly recruit patients with true significant atherosclerotic RVH, publication 
+of some null trials938,939 have decreased the enthusiasm for investigat-
+ing atherosclerotic renal artery stenosis. This could result in more un-
+controlled hypertension, recurrent flash pulmonary oedema (Pickering 
+syndrome), and worsening renal function ultimately leading to end- 
+stage renal disease.940 
+In patients with resistant hypertension in whom 
+spironolactone is not effective or tolerated, 
+treatment with eplerenone instead of 
+spironolactone,503 or the addition of a beta-blocker if 
+not already indicated459 and, next, a centrally acting 
+BP-lowering medication,515 an alpha-blocker,515 
+hydralazine, or a potassium-sparing diuretic516 
+should be considered. 
+IIa 
+B 
+To reduce BP, and if performed at a medium-to-high 
+volume centre, catheter-based renal denervation 
+may be considered for resistant hypertension 
+patients who have BP that is uncontrolled despite a 
+three BP-lowering drug combination, and who 
+express a preference to undergo renal denervation 
+after a shared risk-benefit discussion and 
+multidisciplinary assessment.564,566–568,586–590 
+IIb 
+B 
+© ESC 2024
+BP, blood pressure. 
+aClass of recommendation. 
+bLevel of evidence. 
+Recommendation Table 31 — Recommendations for 
+managing hypertension in patients with renovascular 
+hypertension (see Evidence Tables 44 and 45) 
+Recommendations 
+Classa 
+Levelb 
+Renal artery angioplasty without stenting should be 
+considered for patients with hypertension and 
+haemodynamically significant renal artery stenosis 
+due to fibromuscular dysplasia.941 
+IIa 
+C 
+Renal artery angioplasty and stenting may be 
+considered in patients with haemodynamically 
+significant, atherosclerotic, renal artery stenosis 
+(stenosis of 70%–99%, or 50%–69% with 
+post-stenotic dilatation and/or significant 
+trans-stenotic pressure gradient) with: 
+• Recurrent heart failure, unstable angina, or sudden 
+onset flash pulmonary oedema despite maximally 
+tolerated medical therapy; 
+• Resistant hypertension; 
+• Hypertension with unexplained unilaterally small 
+kidney or CKD; 
+• Bilateral renal artery stenosis or unilateral renal 
+artery stenosis in a solitary viable kidney.942,943 
+IIb 
+C 
+Continued 
+3982 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

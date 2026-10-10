@@ -1,0 +1,135 @@
+providers are through improved understanding of the iden-
+tiﬁed disease state and the extent of active and chronic lesions.
+The harms include the possibility of complications of the
+procedure (bleeding risk/pain), the obtaining of a non-
+diagnostic or insufﬁcient sample (wasted resource), and the
+anxiety induced while awaiting the results.
+The systematic review performed by the ERT identiﬁed 37
+studies assessing the prognostic beneﬁt and safety of kidney
+biopsy among people with CKD. Ten studies examined the
+diagnostic and/or prognostic beneﬁt of kidney biopsy or in-
+ﬂuence of biopsy results on management decisions. The
+diagnostic ﬁndings were heterogeneous and variable, which
+did not lend themselves to further synthesis. The rate of
+mortality after native kidney biopsy in people with suspected
+or diagnosed CKD was low. Across the 15 studies that re-
+ported on mortality after a native kidney biopsy, there were 3
+reported deaths. The rate of perirenal hematoma across 14
+studies was estimated to be 16% (95% conﬁdence interval
+[CI]: 12%–22%). No studies reported on retroperitoneal
+hemorrhage (Supplementary Table S4106–126).
+Certainty of evidence. The overall certainty of evidence for
+kidneybiopsyandoutcomesofharmsisverylow(Supplementary
+Table S4106–126). The critical outcomes, mortality and perirenal
+hematomas, were primarily assessed in observational studies
+without a comparison group. Because of the potential for
+confounding, the ERT considered the body of evidence to have
+Table 6| Guidance for the selection of additional tests for evaluation of cause
+Test category
+Examples
+Comment or key references
+Imaging
+Ultrasound, intravenous urography, CT kidneys
+ureters bladder, nuclear medicine studies, MRI
+Assess kidney structure (i.e., kidney shape, size, symmetry, and evidence of
+obstruction) for cystic disease and reﬂux disease.
+Evolving role of additional technologies (e.g., 3D ultrasound)
+Kidney biopsy
+Ultrasound-guided percutaneous
+Usually examined by light microscopy, immunoﬂuorescence, and electron
+microscopy, and, in some situations, may include molecular diagnostics
+Used for exact diagnosis, planning treatment, assessing activity and
+chronicity of disease, and likelihood of treatment response; may also be
+used to assess genetic disease
+Laboratory tests:
+serologic, urine
+tests
+Chemistry including acid-base and electrolytes,
+serologic tests such as anti-PLA2R, ANCA, anti-GBM
+antibodies
+Serum-free light chains, serum, and urine protein
+electrophoresis/immunoﬁxation
+Urinalysis and urine sediment examination
+Refer to KDIGO 2021 Clinical Practice Guideline for the Management of
+Glomerular Diseases22
+Increasing recognition of the role of light chains in kidney disease even in
+the absence of multiple myeloma (monoclonal gammopathy of renal
+signiﬁcance [MGRS])98
+Presence of persistent hematuria or albuminuria is critical in determining
+differential diagnosis
+Genetic testing
+APOL1, COL4A3, COL4A4, COL4A5, NPHS1, UMOD,
+HNF1B, PKD1, PKD2
+Evolving as a tool for diagnosis, increased utilization is expected.
+Recognition that genetic causes are more common and may present
+without classic family history99,100
+ANCA, antineutrophil cytoplasmic antibody; APOL1, apolipoprotein 1; COL4A, type IV collagen alpha chain; CT, computed tomography; GBM, glomerular basement membrane;
+HNF1B, hepatocyte nuclear factor 1B; MRI, magnetic resonance imaging; NPHS1, congenital nephrotic syndrome; PKD1, polycystic kidney disease-1; PKD2, polycystic kidney
+disease-2; PLA2R, M-type phospholipase A2 receptor; UMOD, uromodulin.
+Conditions amenable
+to specific disease-
+modifying therapies
+Avoidance of
+prolonged
+immunosuppressive
+therapies
+Conditions at risk for
+recurrence after
+kidney transplantation
+Conditions for which
+genetic testing is
+relevant for reproductive
+counseling
+Examples:
+• GLA (Fabry)
+• AGXT (primary
+hyperoxaluria (PH))
+• CoQ10 genes (SRNS)
+• CTNS (cystinosis)
+• Tubulopathies
+(Na+, K+ etc.)
+Conditions amenable 
+to nonspecific 
+renoprotective 
+strategies
+Example:
+• COL4A3/4/5 (Alport)
+and RAAS blockade
+Example:
+• Glomerular disease
+due to mutations in
+Alport genes
+(COL4A3/4/5)
+Examples:
+• (CFH/CFI/C3...): aHUS
+• (AGXT, GRHPR, 
+HOGA): primary 
+hyperoxaluria (PH)
+• Adenine phosphoribo- 
+syltransferase deficiency 
+(APRT)
+Conditions amenable 
+to specific screening 
+for extrarenal 
+manifestations
+Examples:
+• HNF1B: diabetes
+• PKD1/PKD2
+(ADPKD): intracranial
+aneurysms 
+• FLCN: renal cell
+carcinoma, etc.
+Example:
+• Prenatal/preimplantation
+diagnosis
+Figure 9 | Actionable genes in kidney disease. Actionability refers to the potential for genetic rest results to lead to speciﬁc clinical actions
+from prevention or treatment of a condition, supported by recommendations based on evidence. ADPKD, autosomal dominant polycystic
+kidney disease; aHUS, atypical hemolytic uremic syndrome, CKD, chronic kidney disease; RAAS, renin-angiotensin-aldosterone system, SRNS,
+steroid-resistant nephrotic syndrome. Reproduced from KDIGO Conference Participants. Genetics in chronic kidney disease: conclusions from a
+Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference. Kidney Int. 2022;101:1126–1141.100 Copyright ª 2022, Kidney
+Disease: Improving Global Outcomes (KDIGO). Published by Elsevier Inc. on behalf of the International Society of Nephrology. This is an open
+access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+chapter 1
+www.kidney-international.org
+S174
+Kidney International (2024) 105 (Suppl 4S), S117–S314

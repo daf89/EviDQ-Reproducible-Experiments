@@ -1,0 +1,149 @@
+for identifying undiagnosed diabetes in 
+early pregnancy are the same as those used 
+in nonpregnant individuals (Table 2.1). Indi
+viduals found to have diabetes should be 
+classified as having diabetes complicating 
+pregnancy (most often type 2 diabetes, 
+rarely type 1 diabetes or monogenic dia
+betes) and managed accordingly.
+Early abnormal glucose metabolism, 
+defined as a fasting glucose threshold 
+of 110 mg/dL (6.1 mmol/L) or an A1C of 
+5.9% (41 mmol/mol), may identify indi
+viduals who are at higher risk of adverse 
+pregnancy and neonatal outcomes (pre
+eclampsia, macrosomia, shoulder dysto
+cia, and perinatal death) and are at high 
+risk of a later GDM diagnosis (191–194). 
+Some, but not all, studies showed that 
+an A1C threshold of 5.7% (39 mmol/L) 
+was associated with adverse perinatal 
+outcomes (193,195–197). Professional so
+ciety guidance regarding early-pregnancy di
+agnosis and treatment of hyperglycemia less 
+than overt diabetes differs (see section 15, 
+“Management of Diabetes in Pregnancy”).
+If early screening for undiagnosed dia
+betes was negative, individuals should be 
+rescreened for GDM between 24 and 
+28 weeks of gestation, and individuals not 
+previously screened should be screened 
+for GDM at the same time point (see sec
+tion 15, “Management of Diabetes in 
+Pregnancy”). The GDM diagnostic criteria for 
+the 75-g OGTT from the International Asso
+ciation of the Diabetes and Pregnancy Study 
+Groups (IADPSG) and the GDM screening 
+and diagnostic criteria with the two-step 
+approach were not derived from data in 
+the first half of pregnancy and should 
+not be used for early screening (198).
+Both the FPG and A1C are low-cost 
+tests. An advantage of the A1C test is its 
+convenience, as it can be added to the pre
+natal laboratory tests and does not require 
+an early-morning fasting appointment. 
+Disadvantages include inaccuracies in the 
+presence of conditions such as increased 
+or decreased red blood cell turnover (usually 
+decreases and increases A1C, respectively), 
+hemoglobinopathies, and iron deficiency 
+anemia (increases A1C) (199,200).
+GDM is often indicative of underlying 
+β-cell dysfunction (201), which confers 
+markedly increased risk for later devel
+opment of glucose intolerance and diabe
+tes in the mother after delivery (202–204). 
+Individuals diagnosed with GDM should re
+ceive lifelong screening for prediabe
+tes and type 2 diabetes to allow prompt 
+implementation of effective diabetes 
+prevention interventions (205,206) and 
+early treatment of diabetes (207).
+Diagnosis
+GDM carries risks for the mother, fetus, 
+and neonate. The Hyperglycemia and Ad
+verse Pregnancy Outcome (HAPO) study 
+(208), a large-scale multinational cohort 
+study completed by more than 23,000 
+pregnant individuals, demonstrated that 
+risk of adverse maternal, fetal, and neona
+tal outcomes continuously increased as a 
+function of maternal glycemia at 24–28 
+weeks of gestation, even within ranges 
+previously considered normal for preg
+nancy. For most complications, there was 
+no threshold for risk. These results have 
+led to careful reconsideration of the diag
+nostic criteria for GDM.
+GDM diagnosis (Table 2.8) can be ac
+complished with either of two strategies:
+1. The “one-step” 75-g OGTT derived 
+from the IADPSG criteria, or
+2. The older “two-step” approach with 
+a 50-g (nonfasting) screen followed by a 
+100-g OGTT for those who screen posi
+tive based on the work of Carpenter- 
+Coustan’s interpretation of the older 
+O’Sullivan and Mahan criteria (209). 
+Table 2.8—Screening for and diagnosis of GDM
+One-step strategy 
+Perform a 75-g OGTT, with plasma glucose measurement when an individual is fasting and 
+at 1 and 2 h, at 24–28 weeks of gestation in individuals not previously diagnosed with 
+diabetes. 
+The OGTT should be performed in the morning after an overnight fast of at least 8 h. 
+The diagnosis of GDM is made when any of the following plasma glucose values are met or 
+exceeded: 
+• Fasting: 92 mg/dL (5.1 mmol/L) 
+• 1 h: 180 mg/dL (10.0 mmol/L) 
+• 2 h: 153 mg/dL (8.5 mmol/L) 
+Two-step strategy 
+Step 1: 
+Perform a 50-g GLT (nonfasting), with plasma glucose measurement at 1 h, at 24–28 weeks 
+of gestation in individuals not previously diagnosed with diabetes. 
+If the plasma glucose level measured 1 h after the load is ≥130, 135, or 140 mg/dL (7.2, 
+7.5, or 7.8 mmol/L, respectively),* proceed to a 100-g OGTT. 
+Step 2: 
+The 100-g OGTT should be performed when the individual is fasting. 
+The diagnosis of GDM is made when at least two>† of the following four plasma glucose 
+levels (measured fasting and at 1, 2, and 3 h during OGTT) are met or exceeded 
+(Carpenter-Coustan criteria [208]): 
+• Fasting: 95 mg/dL (5.3 mmol/L) 
+• 1 h: 180 mg/dL (10.0 mmol/L) 
+• 2 h: 155 mg/dL (8.6 mmol/L) 
+• 3 h: 140 mg/dL (7.8 mmol/L) 
+GDM, gestational diabetes mellitus; GLT, glucose load test; OGTT, oral glucose tolerance 
+test. *American College of Obstetricians and Gynecologists (ACOG) recommends any of the 
+commonly used thresholds of 130, 135, or 140 mg/dL for the 1-h 50-g GLT (223). †ACOG 
+notes that one elevated value can be used for diagnosis (223).
+Different diagnostic criteria will iden
+tify different degrees of maternal hyper
+glycemia and maternal/fetal risk, leading 
+experts to debate optimal strategies for 
+the diagnosis of GDM.
+One-Step Strategy
+The IADPSG examined data from the 
+HAPO study and defined diagnostic cut 
+points for GDM as the average fasting, 
+1-h, and 2-h PG values during a 75-g 
+OGTT in individuals at 24–28 weeks of 
+gestation, wherein the cut points were 
+those at which odds for adverse out
+comes reached 1.75 times the estimated 
+odds. This one-step strategy was antici
+pated to significantly increase the incidence 
+of GDM (from 5 to 6% to 15–20%), primar
+ily because only one abnormal value, not 
+two, became sufficient to make the diag
+nosis (210). Many regional studies have 
+seen a roughly one- to threefold increase 
+in GDM cases using the IADPSG criteria 
+(211). A study of pregnancy OGTTs with 
+glucose levels blinded to caregivers found 
+that 11 years after their pregnancies, indi
+viduals who would have been diagnosed 
+with GDM by the one-step approach, as 
+diabetesjournals.org/care 
+Diagnosis and Classification of Diabetes
+S43 
+Downloaded from diabetesjournals.​org/​care/​article-pdf/​49/​Supplement_1/​S27/​848854/​dc26s002.​pdf by guest on 27 August 2026

@@ -1,0 +1,15 @@
+{
+  "case_study": "CASE_STUDY_4_DIABETES",
+  "step": "STEP_08_KB_STAT_AND_ACTION_FEASIBILITY",
+  "created_utc": "2026-09-28T10:16:52.112191+00:00",
+  "statistical_scope": "TRAIN_ONLY",
+  "features_statistically_characterized": [
+    "Age"
+  ],
+  "kb_doc_entries": 4,
+  "candidate_actions_go": 1,
+  "global_experimental_decision": "GO",
+  "controlled_missing_injected": false,
+  "test_dataset_accessed": false,
+  "dq_intervention_applied": false
+}

@@ -1,0 +1,138 @@
+may impact drug metabolism and response. Because drug
+dosages are often universal, women are more likely to
+consume
+higher
+doses
+in
+relation
+to
+their
+body
+weight,136,763,764 and this could be associated with more
+adverse events.136 In people with heart failure with reduced
+ejection
+fraction,
+observational
+studies
+show
+improved
+survival in women with lower doses of renin-angiotensin-
+aldosterone system (RAAS)-blocking medications, whereas
+men beneﬁt from higher doses.765,766 This may be related to
+lower RAAS activity in women compared with men.767
+4.2 Dose adjustments by level of GFR
+Practice Point 4.2.1: Consider GFR when dosing medications
+cleared by the kidneys.
+Many medications and/or their active metabolites are
+excreted by the kidneys. Failure to properly account for the
+effect of GFR when designing appropriate drug-dosing regi-
+mens can predispose a person to treatment failure or adverse
+events.725,728 Although guidelines for adjustment of the
+dosing regimen at varying severities of CKD provided by
+the manufacturer are widely available in pharmacopeias,
+textbooks, online references, or local procedures, there may
+be signiﬁcant differences in information provided by these
+resources.768
+Practice Point 4.2.2: For most people and clinical settings,
+validated eGFR equations using SCr are appropriate for
+drug dosing.
+Practice Point 4.2.3: Where more accuracy is required for
+drug-related decision-making (e.g., dosing due to narrow
+therapeutic or toxic range), drug toxicity, or clinical situ-
+ations where eGFRcr estimates may be unreliable, use of
+equations that combine both creatinine and cystatin C, or
+measured GFR may be indicated.
+An assessment of GFR is important for guiding decisions
+related to the choice and dosing of medications. Section 1.2
+addresses the accuracy of validated eGFR equations, as well
+as indications for the use of eGFRcr-cys or mGFR.
+There is inconsistency between this guidance and those
+found in the package inserts or classic source references for
+drug
+dosing.
+Regulatory
+agencies
+have
+not
+universally
+required pharmacokinetics in abnormal kidney function for
+medication approval.769 In addition, although the Cockcroft-
+Gault formula for estimating CrCl has been used in many past
+pharmacokinetic studies that serve as the basis for the drug
+dosing, there are multiple concerns with that equation. It
+was developed in an era when the need for standardization
+of creatinine measurements was not appreciated, women
+and individuals of Black race were not included, and there
+are concerns about use of weight, which can be impacted
+by edema or obesity.770 However, to date, few studies have
+been conducted to compare different equations for eGFR in
+the context of drug dosing/kinetics, etc.
+There is now a recognition by major regulatory agencies
+that “any contemporary, widely accepted, and clinically
+applicable estimating GFR equation is considered reasonable
+to assess GFR in pharmacokinetic studies.”770,771
+Practice Point 4.2.4: In people with extremes of body
+weight, eGFR nonindexed for body surface area (BSA) may
+be indicated, especially for medications with a narrow
+therapeutic range or requiring a minimum concentration
+to be effective.
+For assessment of CKD, it is relevant to compare the GFR
+according to a standard body size. For this reason, GFR
+estimating equations have been developed in units of ml/min
+per 1.73 m2. However, because drug clearance is more
+strongly associated with nonindexed eGFR (ml/min) than
+indexed eGFR (ml/min per 1.73 m2), in very small or large
+individuals, this can result in over- or underdosing, respec-
+tively, as well as noninitiation of certain medications.772,773
+Nonindexed eGFR can be obtained by multiplying the
+indexed eGFR results by the person’s BSA and dividing by
+1.73 m2, or by using an appropriate online calculator.
+Practice Point 4.2.5: Consider and adapt drug dosing in
+people where GFR, non-GFR determinants of the ﬁltration
+markers, or volume of distribution are not in a steady state.
+In people with rapidly changing health status, it can be a
+challenge to estimate the GFR. Serum concentrations of
+ﬁltration markers may be changing because of changes in true
+GFR and/or in non-GFR determinants of the marker (Section
+1.2). In such settings for people who require medications that
+are impacted by or could impact GFR, healthcare providers
+should regularly assess risk, beneﬁts, and value of the
+medication, and consider higher or lower doses than
+indicated. Where possible, use medication level testing to
+guide dosing.730,774
+Special considerations
+Dose adjustments in cancer. GFR plays a large role in
+determining anticancer therapy, including anticancer agent
+selection, dosing, and eligibility for investigational drugs and
+clinical trials.775,776 Notwithstanding its lack of validation and
+its relative inaccuracy compared with other validated eGFR
+equations, the Cockroft-Gault equation continues to be one
+of the most commonly used eGFR methods for these
+people.775,776 An evaluation of eGFR equation performance
+against mGFR determined by plasma clearance of
+51Cr-
+EDTA in 1200 people with solid tumors observed the
+eGFRcr
+(CKD-EPI)
+and
+the
+eGFRcr-cys
+(CKD-EPI)
+predicted mGFR with greater accuracy than Cockroft-
+Gault.136 We advise that the same approach to GFR
+evaluation described in Section 1.2 be adopted in oncology
+practice and clinical trials.136,764 BSA-adjusted eGFR may be
+indicated for selected speciﬁc situations like carboplatin
+dosing.
+It
+is
+important
+to
+consider
+that
+non-GFR
+determinants of both creatinine and cystatin C may be
+www.kidney-international.org
+chapter 4
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S249

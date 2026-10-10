@@ -1,0 +1,164 @@
+
+
+===== PDF PAGE 315 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4K-2 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+ 
+ 
+Are you currently being treated for tuberculosis? 
+ 
+Yes 1 If Yes, go to end of 
+section 
+CRD5 
+No 2 
+With the next questions, I would like to learn more about any chronic symptoms of cough, wheeze or difficulty 
+breathing that you may have experienced.   
+In the past 12 months, have you had wheezing or 
+whistling in your chest? 
+ 
+Yes 1 
+CRD6 
+No 2 If No, go to CRD10 
+How many attacks of wheezing have you had in the 
+past 12 months? 
+ 
+1-3 1 
+CRD7 
+4 or more 2 
+  
+In the past 12 months, how often, on average has 
+your sleep been disturbed due to wheezing, shortness 
+of breath or coughing? 
+ 
+  
+CRD8 
+Less than 1 night per 
+week 1 
+One or more nights per 
+week 2 
+In the past 12 months, has wheezing ever been 
+severe enough to limit your speech to only one or 
+two words at a time between breaths? 
+ 
+Yes 1 
+CRD9 
+No 2 
+In the past 12 months, have you coughed on most 
+days, for at least 3 months? 
+ 
+Yes 1 
+CRD10 
+No 2 If No, go to CRD12 
+Do you usually cough up phlegm or sputum? 
+ 
+Yes 1 
+CRD11 
+No 2 
+Are you troubled by shortness of breath when 
+hurrying on the level or walking up a slight hill? 
+ 
+Yes 1 
+CRD12 
+No 2 If No, end section 
+
+
+===== PDF PAGE 316 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4K-3 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CORE:  Peak Expiratory Flow Measurement  
+Peak expiratory flow measurement to be done on symptomatic (CRD6=1 OR CRD10=1 OR CRD12=1) and/or 
+participants who have received a diagnosis (CRD1=1 or CRD3=1) 
+Current diagnosis of TB (CRD5=1) and/or Pregnant women will be excluded (skip if M8=’1’) 
+Question 
+Response 
+Code 
+Interviewer ID 
+ 
+ 
+└─┴─┴─┘ 
+PEF1 
+Device ID 
+ 
+ 
+└─┴─┘ 
+PEF2 
+ 
+Reading 1 
+ 
+└─┴─┴─┘ 
+ 
+L/min  
+PEF3a 
+Peak Expiratory Flow measurement 
+ 
+ 
+Reading 2 
+ 
+└─┴─┴─┘ 
+ 
+L/min  
+PEF3b 
+Peak Expiratory Flow measurement 
+ 
+ 
+Reading 3 
+ 
+ 
+PEF3c 
+Peak Expiratory Flow measurement 
+ 
+└─┴─┴─┘ 
+L/min  
+Calculated result 
+Record the calculated result 
+Results 
+ 
+└─┴─┴─┘ 
+ 
+L/min  
+PEF4 
+ 
+└─┴─┘ 
+ 
+% 
+ 
+ 
+If Yes to CRD6 OR CRD10 OR CRD12 then ask the following questions 
+In the past 12 months, have you missed work or 
+have your daily activities been affected by your 
+breathing problems? 
+ 
+Yes 1 
+CRD13 
+No 2 
+In the past 12 months, have you been admitted to 
+hospital because of your breathing problems? 
+ 
+Yes 1 
+CRD14 
+No 2 
+Peak Expiratory Flow Measurement 

@@ -1,0 +1,117 @@
+monitoring, please refer to Figure 21. See Section 4.3 for more
+information on continuing RASi after hyperkalemia events.
+3.11.2 Potassium exchange agents
+Practice Point 3.11.2.1: Be aware of local availability or
+formulary restrictions with regard to the pharmacologic
+management of nonemergent hyperkalemia.
+The pharmacologic management of nonemergent hyper-
+kalemia has a number of clinical tools with the increased
+number of licensed potassium exchange agents. These med-
+ications have differing mechanisms of action, onsets of clin-
+ical effects, and potential medication and disease-state
+interactions (Table 27581,582). Although the classic potassium
+exchange agents have had tolerability issues, the newer ones
+appear to have fewer such issues and appear relatively safe
+when used long term.575,583,584 Use of these newer exchange
+agents may help facilitate essential use of RASi/MRA.
+However, it is important that the healthcare provider be
+aware of clinical nuances and local availability or formulary
+restrictions
+in
+determining
+therapy
+selection.583
+A
+comparison of available potassium exchange agents can be
+found in Table 27.
+3.11.3 Timing to recheck potassium after identifying moder-
+ate and severe hyperkalemia in adults
+“Think Kidneys” and the UK Kidney Association have pro-
+vided a practical guide, which we have adapted (Table 28) for
+repeat testing after a hyperkalemic episode.585 The timing of
+repeat testing is guided by the level of hyperkalemia and the
+clinical context.586
+3.11.4 Managing hyperkalemia
+In people with CKD and the management of nonemergent
+hyperkalemia, a systematic approach of treating correctable
+factors (e.g., correction of severe metabolic acidosis) and
+understanding the role of diet and medications may provide
+a pragmatic framework. Figure 32 shows a stepwise
+practical approach to the management of hyperkalemia in
+CKD.
+3.11.5 Dietary considerations
+In early stages of CKD, high intake of foods naturally rich in
+potassium appears to be protective against disease progres-
+sion, and dietary restriction of foods naturally containing
+potassium, such as fruits and vegetables, may be harmful to
+cardiac health; therefore, such restriction is not endorsed.587
+Practice
+Point
+3.11.5.1:
+Implement
+an
+individualized
+approach in people with CKD G3–G5 and emergent
+hyperkalemia that includes dietary and pharmacologic in-
+terventions
+and
+takes
+into
+consideration
+associated
+comorbidities and quality of life (QoL). Assessment and
+education through a renal dietitian or an accredited
+nutrition provider are advised.
+Practice Point 3.11.5.2: Provide advice to limit the intake of
+foods rich in bioavailable potassium (e.g., processed foods)
+for people with CKD G3–G5 who have a history of
+hyperkalemia or as a prevention strategy during disease
+periods in which hyperkalemia risk may be a concern.
+Diet may increase serum potassium postprandially,575,588
+but other conditions such as the use of potassium-sparing
+Table 26| Medications associated with increased risk of hyperkalemia
+Class
+Mechanism
+Example
+ACEi
+Inhibit conversion of angiotensin I to angiotensin II
+Captopril, lisinopril, perindopril, etc.
+ARB
+Inhibit activation of angiotensin I receptor by angiotensin II
+Losartan, irbesartan, candesartan, etc.
+Aldosterone antagonist
+Block aldosterone receptor activation
+Spironolactone, eplerenone, and ﬁnerenone
+b-Adrenergic receptor
+blocker
+Inhibit renin release
+Propranolol, metoprolol, and atenolol
+Digitalis glycoside
+Inhibit Naþ-Kþ-ATPase, necessary for collecting duct Kþ secretion
+Digoxin
+Heparin
+Reduced production of aldosterone
+Heparin sodium
+Potassium-sparing
+diuretic
+Block collecting duct apical Naþ channel, decreasing gradient for Kþ secretion
+Amiloride and triamterene
+NSAIDs
+Inhibit synthesis of prostaglandin E and prostacyclin, inhibiting renin release
+Ibuprofen, naproxen, diclofenac, etc.
+CNI
+Inhibit Naþ-Kþ-ATPase, necessary for collecting duct Kþ secretion
+Cyclosporine and tacrolimus
+ns-MRA
+Block MR-mediated Naþ reabsorption
+Finerenone
+Other
+Block collecting duct apical Naþ channel, decreasing gradient for Kþ secretion
+Trimethoprim and pentamidine
+ACEi, angiotensin-converting enzyme inhibitor; ARB, angiotensin II receptor blocker; ATP, adenosine triphosphate; CNI, calcineurin inhibitor; Kþ, potassium; Naþ, sodium;
+NSAID, nonsteroidal anti-inﬂammatory drug; ns-MRA, nonsteroidal mineralocorticoid receptor antagonist.
+Data from Weiner et al.576 and Kidney Disease: Improving Global Outcomes Diabetes Work Group.23
+chapter 3
+www.kidney-international.org
+S226
+Kidney International (2024) 105 (Suppl 4S), S117–S314

@@ -1,0 +1,43 @@
+The Medical Expenditure Panel Survey (MEPS) 
+Background 
+The Medical Expenditure Panel Survey (MEPS) is conducted to provide nationally 
+representative estimates of health care use, expenditures, sources of payment, and 
+insurance coverage for the U.S. civilian noninstitutionalized population. MEPS is 
+cosponsored by the Agency for Healthcare Research and Quality (AHRQ), formerly the 
+Agency for Health Care Policy and Research, and the National Center for Health 
+Statistics (NCHS). 
+MEPS comprises three component surveys: the Household Component (HC), the 
+Medical Provider Component (MPC), and the Insurance Component (IC). The HC is the 
+core survey, and it forms the basis for the MPC sample and part of the IC sample. 
+Together these surveys yield comprehensive data that provide national estimates of the 
+level and distribution of health care use and expenditures, support health services 
+research, and can be used to assess health care policy implications. 
+MEPS is the third in a series of national probability surveys conducted by AHRQ on the 
+financing and use of medical care in the United States. The National Medical Care 
+Expenditure Survey (NMCES) was conducted in 1977, the National Medical 
+Expenditure Survey (NMES) in 1987. Beginning in 1996, MEPS continues this series 
+with design enhancements and efficiencies that provide a more current data resource to 
+capture the changing dynamics of the health care delivery and insurance system. 
+The design efficiencies incorporated into MEPS are in accordance with the Department 
+of Health and Human Services (DHHS) Survey Integration Plan of June 1995, which 
+focused on consolidating DHHS surveys, achieving cost efficiencies, reducing 
+respondent burden, and enhancing analytical capacities. To accommodate these goals, 
+new MEPS design features include linkage with the National Health Interview Survey 
+(NHIS), from which the sample for the MEPS-HC is drawn, and enhanced longitudinal 
+data collection for core survey components. The MEPS-HC augments NHIS by selecting 
+a sample of NHIS respondents, collecting additional data on their health care 
+expenditures, and linking these data with additional information collected from the 
+respondents’ medical providers, employers, and insurance providers. 
+Household Component 
+The MEPS-HC, a nationally representative survey of the U.S. civilian noninstitution-
+alized population, collects medical expenditure data at both the person and household 
+levels. The HC collects detailed data on demographic characteristics, health conditions, 
+health status, use of medical care services, charges and payments, access to care, 
+satisfaction with care, health insurance coverage, income, and employment. 
+The HC uses an overlapping panel design in which data are collected through a 
+preliminary contact followed by a series of five rounds of interviews over a two and a 
+half year period. Using computer-assisted personal interviewing (CAPI) technology, data 
+on medical expenditures and use for two calendar years are collected from each 
+household. This series of data collection rounds is launched each subsequent year on a 
+new sample of households to provide overlapping panels of survey data and, when 
+iii

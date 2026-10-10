@@ -1,0 +1,40 @@
+Item
+Item is complete if:
+Item Number
+3. If Drug Name:
+Strength Unit
+Range of Units & Other Specify
+Don't Know
+Refusal
+Q2d / Q2d2
+4. If Drug Name:
+Dosage Form
+Range of Forms & Other Specify
+Q2e
+5. Quantity
+Numeric value up to 3 decimal points
+Don't Know
+Refusal
+Q3a
+6. Patient Payment
+Dollar Value
+$0 ‑ $500
+Don't Know
+Refusal
+Q5
+7. Third party payer type
+Range of Types & Other Specify
+Don't Know
+Refusal
+Q6
+8. Third party payment
+Dollar value
+$0 ‑ $5000
+Don't Know
+Refusal
+Q7
+Return to Table of Contents
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+40/40

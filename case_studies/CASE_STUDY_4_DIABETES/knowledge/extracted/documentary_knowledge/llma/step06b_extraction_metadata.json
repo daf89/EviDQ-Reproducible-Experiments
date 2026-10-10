@@ -1,0 +1,43 @@
+{
+  "step": "STEP_06B",
+  "role": "LLM-A",
+  "prompt_version": "LLMA_DOC_V1",
+  "status": "PASS",
+  "exhaustivity_control": {
+    "input_chunks": 395,
+    "analyzed_chunks": 395,
+    "unique_chunk_ids": 395,
+    "missing_chunk_ids": 0,
+    "duplicate_chunk_ids": 0,
+    "schema_invalid_results": 0
+  },
+  "input_registry": "step06a_llma_input.jsonl",
+  "prompt_file": "step06a_prompt_llma_v1.txt",
+  "schema_file": "step06a_output_schema.json",
+  "analysis_scope": {
+    "features": [
+      "Insulin",
+      "Glucose",
+      "SkinThickness",
+      "BMI",
+      "DiabetesPedigreeFunction",
+      "Age"
+    ],
+    "dq_problems": [
+      "MISSING_VALUE",
+      "POTENTIAL_OUTLIER"
+    ]
+  },
+  "positive_chunks": 3,
+  "negative_chunks": 392,
+  "knowledge_candidate_count": 6,
+  "page_image_references_loaded": 787,
+  "unique_page_images_loaded": 787,
+  "methodological_constraints": [
+    "No chunk omitted.",
+    "No keyword, similarity, TF-IDF, BM25, embedding, Top-K or prior-rule prefilter used to remove chunks from analysis.",
+    "Clinical/diagnostic thresholds were not converted into data-quality outlier rules without documentary support.",
+    "STEP 06C / LLM-B not executed.",
+    "KB_DOC not constructed."
+  ]
+}

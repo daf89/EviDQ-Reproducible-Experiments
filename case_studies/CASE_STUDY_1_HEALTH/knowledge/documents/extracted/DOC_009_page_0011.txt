@@ -1,0 +1,155 @@
+Provider Type
+Start of first MPC wave
+Start of last MPC Wave
+End of MPC data collection
+Number of Waves
+Total Weeks
+Office‑Based Doctors
+1/30/2023
+7/26/2023
+10/13/2023
+3
+37
+Institution
+3/7/2023
+8/1/2023
+10/13/2023
+3
+31
+Home Health Agencies
+3/2/2023
+8/1/2023
+10/13/2023
+3
+32
+Pharmacies
+1/30/2023
+7/25/2023
+10/20/2023
+3
+38
+SBDs
+8/16/2023
+11/28/2023
+1/10/2024
+4
+21
+MPC Data Collection Schedule 2023
+Provider Type
+Start of first MPC wave
+Start of last MPC Wave
+End of MPC data collection
+Number of Waves
+Total Weeks
+Hospital
+2/1/2024
+7/22/2024
+10/11/2024
+3
+37
+Office‑Based Doctors
+2/2/2024
+7/22/2024
+10/11/2024
+3
+37
+Institution
+3/4/2024
+7/25/2024
+10/11/2024
+3
+32
+Home Health Agencies
+2/26/2024
+7/25/2024
+10/11/2024
+3
+33
+Pharmacies
+2/1/2024
+7/22/2024
+10/18/2024
+3
+38
+SBDs
+8/14/2024
+11/20/2024
+1/10/2025
+4
+22
+MPC Data Collection Schedule 2024
+Provider Type
+Start of first MPC wave
+Start of last MPC Wave
+End of MPC data collection
+Number of Waves
+Total Weeks
+Hospital
+2/3/2025
+7/16/2025
+10/17/2025
+4
+37
+Office‑Based Doctors
+2/3/2025
+7/16/2025
+10/17/2025
+4
+37
+Institution
+n/a
+n/a
+n/a
+n/a
+n/a
+Home Health Agencies
+3/4/2025
+7/17/2025
+10/17/2025
+3
+33
+Pharmacies
+2/3/2025
+7/14/2025
+10/21/2025
+3
+38
+SBDs
+8/13/2025
+12/1/2025
+1/13/2026
+4
+23
+Following data collection, additional editing of the files preceded file preparation and matching tasks. These steps have
+been implemented to assure data quality and consistency in the data across survey years.
+Return to Table of Contents
+3.5 Data Collection Results
+Completion Rates
+The MPC applies the following criteria to assess or determine whether an event is complete or partially complete (see
+Appendix C for a full discussion of critical items). The final event level codes determine the final pair disposition.
+Criteria for Non‑Pharmacy Providers. For a pair to be considered partially complete, at least one event in that pair had to
+have a valid response for all critical items, that is, no critical item in that event could contain a don’t know, refusal, or
+missing response entry. If one critical item in the event had a don’t know, refusal, or missing entry, the event was assigned
+a new disposition code “final critical item missing.” If all the events in a pair had this new disposition, the pair was
+considered a partial complete and became eligible for matching. As pairs roll up to the provider level, some providers that
+would have a final disposition of non‑response under the former criteria would have a final disposition of partial complete
+under the revised criteria.
+Criteria for Pharmacy Providers. As with other providers, for a pair to be considered partially completed, it must have
+included an event where critical items contained valid data. Three additional categories took account of response to three
+data elements: Patient Amount, Third Party Payment Source, and Third Party Payment Amount.
+If Patient Amount was missing but at least one of the other two variables was complete, the event was assigned to Partial
+Category A.
+If Patient Amount was complete, but either of the other two variables was missing, the event was assigned to Partial
+Category B.
+If both Patient Amount and Third Party Payment Source were complete but Third Party Payment Amount was missing,
+the event was assigned to Partial Category C.
+The 2024 MPC cycle target pair‑level completion rates were the same as the 2023 goals, with pair target completion rates
+of 88% for Hospital, 80% for OBD, Home Health, and Institution, and 85% for Pharmacy providers. The target SBD
+completion rate goal was 60% of fielded SBD nodes, which was estimated at baseline to be 12,000 completed nodes.
+Table 3‑3 displays the provider‑level results and Table 3‑4 shows the pair‑level results for the 2021 through 2024 MPC
+cycles. The pair‑level completion rates increased for OBD and HMO provider types, but dropped for Hospital, Home
+Care, SBD, and Pharmacy. Institution was not fielded for the 2024 cycle.
+12/09/2026 22:27
+MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC)
+https://meps.ahrq.gov/data_files/publications/annual_contractor_report/mpc_ann_cntrct_methrpt.shtml?utm_source=chatgpt.com#maincontent
+11/40

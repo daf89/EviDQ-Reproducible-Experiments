@@ -1,0 +1,196 @@
+
+
+===== PDF PAGE 385 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-26 
+WHO STEPS Surveillance 
+Status of 
+Description: Status of using smokeless tobacco among all respondents. 
+ 
+ 
+smokeless 
+tobacco 
+use 
+ 
+Instrument questions: 
+• Do you currently use any smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+• Do you currently use smokeless tobacco products daily? 
+• In the past, did you ever use smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+ 
+Smokeless tobacco use 
+Age Group 
+(years) 
+Men 
+n 
+Current user 
+Non user 
+% Daily 
+95% CI 
+% Non- 
+95% CI 
+% Past 
+95% CI 
+% Never 
+95% CI 
+daily 
+ 
+ user 
+ 
+ used 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Smokeless tobacco use 
+Age Group 
+(years) 
+Women 
+n 
+Current user 
+Non user 
+% Daily 
+95% CI 
+% Non- 
+95% CI 
+% Past 
+95% CI 
+% Never 
+95% CI 
+daily 
+ 
+ user 
+ 
+ used 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Smokeless tobacco use 
+Age Group 
+(years) 
+Both Sexes 
+n 
+Current user 
+Non user 
+% Daily 
+95% CI 
+% Non- 
+95% CI 
+% Past 
+95% CI 
+% Never 
+95% CI 
+daily 
+ 
+ user 
+ 
+ used 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T12, T13, T15 
+• Epi Info program name: Tsmokelessstatus (unweighted); TsmokelessstatusWT (weighted) 
+ 
+
+
+===== PDF PAGE 386 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-27 
+WHO STEPS Surveillance 
+ 
+ 
+Former 
+daily users 
+of 
+smokeless 
+tobacco 
+Description: Percentage of former daily users of smokeless tobacco among all 
+respondents and among ever daily users. 
+ 
+Instrument questions: 
+• Do you currently use any smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+• Do you currently use smokeless tobacco products daily? 
+• In the past, did you ever use smokeless tobacco such as [snuff, chewing tobacco, 
+betel]? 
+• In the past, did you ever use smokeless tobacco such as [snuff, chewing tobacco, 
+betel] daily? 
+ 
+Former daily smokeless tobacco users (who don't use tobacco currently) among all respondents 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Former daily smokeless tobacco users (who don’t use tobacco currently) among ever daily users 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+% 
+n 
+Former 
+95% CI 
+daily 
+users 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: T12, T13, T15, T16 
+• Epi Info program name: Tsmokelessexdaily (unweighted); TsmokelessexdailyWT (weighted) 
+ 

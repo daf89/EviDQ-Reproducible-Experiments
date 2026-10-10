@@ -1,0 +1,146 @@
+
+
+===== PDF PAGE 417 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-58 
+WHO STEPS Surveillance 
+Salt 
+Description: Percentage of respondents who think consuming too much salt could 
+ 
+ 
+knowledge 
+cause a serious health problem. 
+ 
+Instrument question: 
+• Do you think that too much salt or salty sauce in your diet could cause a 
+health problem? 
+ 
+Think consuming too much salt could cause serious health problem 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: D10 
+• Epi Info program name: Dhealth (unweighted); DhealthWT (weighted) 
+ 
+
+
+===== PDF PAGE 418 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-59 
+WHO STEPS Surveillance 
+Controlling 
+Description: Percentage of respondents who take specific action on a regular basis 
+ 
+ 
+salt intake 
+to control salt intake. 
+ 
+Instrument question: 
+• Do you do any of the following on a regular basis to control your salt 
+intake? 
+ 
+Limit consumption of processed foods 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Look at the salt or sodium content on food labels 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Buy low salt/sodium alternatives 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Use spices other than salt when cooking 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+n 
+% 
+95% CI 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 

@@ -1,0 +1,40 @@
+{
+  "step": "STEP19",
+  "title": "Construction of KB_EXPERIENCE",
+  "timestamp": "2026-10-03T15:08:30.733321",
+  "methodology": "DEMARCHE_ENCAD3",
+  "experience_id": "EXP_CASE4_DIABETES_001",
+  "case_id": "CASE4_DIABETES",
+  "source_step17": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\17_final_test_evaluation\\STEP17_FINAL_TEST_MATRIX.csv",
+  "source_step18_profiles": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\18_final_fuzzy_explanation\\STEP18_FINAL_TEST_FUZZY_PROFILES.csv",
+  "source_step18_explanations": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_4_DIABETES\\results\\18_final_fuzzy_explanation\\STEP18_FINAL_FUZZY_EXPLANATIONS.csv",
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "experience_records": 4,
+  "similarity_computed": false,
+  "similarity_profile_created": true,
+  "global_score": false,
+  "action_ranking": false,
+  "automatic_recommendation": false,
+  "selected_action": false,
+  "experience_reuse_authorized": false,
+  "new_case_validation_required": true,
+  "REF_used_for_action_comparison": false,
+  "TEST_reopened": false,
+  "new_model_training": false,
+  "new_SHAP_computation": false,
+  "dataset_modified": false,
+  "fuzzy_recalibration": false,
+  "status": "PASS_KB_EXPERIENCE_CONSTRUCTION",
+  "hashes": {
+    "KB_EXPERIENCE_CASE_CONTEXT.json": "5d6882883b6eafed40bf6dc7dd5af37998ae4dec62abd6b95a91d00a39552f68",
+    "KB_EXPERIENCE.json": "cae6868608562769d222a13f51649c516a0e0ee5a6eae1e6bf50d7098f50d124",
+    "KB_EXPERIENCE.csv": "82cb124059550b29e8549edbf19136285dff7fd8c3aa854943703cbc060747d9",
+    "KB_EXPERIENCE_SIMILARITY_PROFILE.json": "6ce7e3a5fbd48d7635bd3f2d23f685f4bb1eebe00aa795febe4a5437244b5cca",
+    "KB_EXPERIENCE_DOCUMENTARY_TRACE.json": "da05794562363928824170239114094e7c854340e5bf567191cb460d35440cc7"
+  }
+}

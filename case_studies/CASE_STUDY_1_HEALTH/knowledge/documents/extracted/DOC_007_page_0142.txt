@@ -1,0 +1,158 @@
+Implementation of referral guidelines will inevitably lead
+to an increased workload for specialist kidney care services.
+However, introduction of local initiatives in conjunction with
+primary care providers can improve the appropriateness and
+quality of the referral. A checklist for goal-directed care in
+CKD should be considered. Local initiatives combined with
+national
+policy
+and
+practice
+changes
+can
+lead
+to
+an
+improvement in the outcomes for people with CKD regard-
+less of the level of resources available.
+Special considerations
+Pediatric considerations.
+Practice Point 5.1.2: Refer children and adolescents to
+specialist
+kidney
+care
+services
+in
+the
+following
+circumstances:
+ an ACR of 30 mg/g (3 mg/mmol) or a PCR of 200 mg/g
+(20 mg/mmol) or more, conﬁrmed on a repeat ﬁrst
+morning void sample, when well and not during
+menstruation,
+ persistent hematuria,
+ any sustained decrease in eGFR,
+ hypertension,
+ kidney outﬂow obstruction or anomalies of the kidney
+and urinary tract,
+ known or suspected CKD, or
+ recurrent urinary tract infection.
+Children with known or suspected CKD or who are at risk
+of CKD (as outlined above) should be referred to specialist
+care. This allows for timely investigations and diagnosis. Early
+integration of children with CKD into nephrology services
+will ensure optimal management of pediatric complications
+of CKD (including growth restriction) and will promote ac-
+cess to preemptive transplantation (the KRT of choice).
+5.2 Symptoms in CKD
+5.2.1 Prevalence and severity of symptoms
+CKD confers a high burden of uremic symptoms that may be
+under-recognized, underdiagnosed, and undertreated.835 As
+kidney disease progresses, affected people experience an
+increasing
+burden
+of adverse
+uremic
+symptoms.
+These
+symptoms can impair their health-related QoL (HRQoL) by
+interfering with social relationships, ﬁnancial instability, and
+contributing to overall poor well-being.836 Patient-reported
+outcomes,
+including
+HRQoL
+and
+symptoms,
+are
+often
+identiﬁed by people with CKD as more important to them
+than clinical outcomes, such as survival.837,838 A recent
+systematic review of 126 patient-reported outcome studies
+involving people with CKD G1–G5, not on KRT, identiﬁed the
+most common symptoms experienced in terms of prevalence
+and severity in this population (Figure 49).839 The most
+prevalent symptom reported in the CKD population not
+on KRT was fatigue at 70% (95% CI: 60%–79%), whereas in
+the identiﬁed control population without CKD, fatigue
+prevalence was 34% (95% CI: 0%–70%). In terms of the
+symptoms reported as the most severe, sexual dysfunction had
+the highest severity score. This review also looked at
+populations receiving dialysis and/or transplantation, allowing
+for
+the
+comparison
+of
+prevalence
+and
+severity
+across
+populations. This provides insight into symptoms that may be
+attributable to changing or deteriorating kidney function and
+may provide symptom targets for tracking in the care of
+people with CKD, especially those with more advanced CKD,
+such as CKD G5.
+5.2.2 Identiﬁcation and assessment of symptoms
+Practice Point 5.2.2.1: Ask people with progressive CKD
+about uremic symptoms (e.g., reduced appetite, nausea, and
+level of fatigue/lethargy) at each consultation using a stan-
+dardized validated assessment of uremic symptoms tool.
+The identiﬁcation and assessment of symptoms in people
+with progressive CKD are important for highlighting changes
+in clinical management,840 redirecting treatment toward
+patient-centered management, and may lead to discussion
+about appropriate supportive care options.838 Effective 2-
+way communication and shared decision-making should be
+key principles between healthcare providers and the people
+they treat, allowing them to work in partnership to identify
+symptom burden, possible treatment strategies, and person-
+centered solutions.835,839,841
+In the past, it had been challenging to ﬁnd an accepted
+standardized approach to assess and report outcomes for
+Table 36| Outcomes examined in a systematic review by
+Smart et al.832
+Outcomes
+Relative risk comparing early
+vs. late referral
+Receive permanent vascular access
+RR: 3.22; 95% CI: 2.92–3.55
+Initiation of KRT with peritoneal dialysis
+RR: 1.74; 95% CI: 1.64–1.84
+Three-month mortality
+OR: 0.61; 95% CI: 0.55–0.67
+Five-month mortality
+OR: 0.66; 95% CI: 0.60–0.71
+Outcomes
+Mean difference in early
+vs. late referral
+Initial hospitalization (d)
+9.1; 95% CI: 10.92 to 7.32
+Systolic blood pressure (mm Hg)
+3.09; 95% CI: 5.23 to 0.95
+Diastolic blood pressure (mm Hg)
+1.64; 95% CI: 2.77 to 0.51
+Hemoglobin (g/dl)
+2.76; 95% CI: 2.53 to 2.99
+Serum albumin (g/dl)
+1.92; 95% CI: 1.83 to 2.01
+CI, conﬁdence interval; KRT, kidney replacement therapy; OR, odds ratio; RR, relative
+risk.
+Table 35| Factors associated with late referral for kidney
+replacement therapy planning
+Patient-related factors
+Healthcare system–related factors
+Age
+Race
+Comorbid illness
+Etiology of kidney disease
+Noncompliance or
+nonadherence
+Socioeconomic status
+Health insurance status
+Type of referring physician
+Type of referring center
+Health system and/or physician rationing
+Distance to dialysis center
+www.kidney-international.org
+chapter 5
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S257

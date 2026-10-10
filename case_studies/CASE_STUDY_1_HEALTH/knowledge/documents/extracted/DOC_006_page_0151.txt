@@ -1,0 +1,72 @@
+R E F E R E N C E S
+R E F E R E N C E S 
+71. 
+Hood, C.M., et al., CountyHealthRankings: Relationships BetweenDeterminant Factorsand 
+Health Outcomes. Am J Prev Med, 2016. 50(2): p. 129-35. 
+72. 
+County Health Rankings & Roadmaps, Determinants of Health from the County Health Rankings 
+Model (2016). Available from: https://www.countyhealthrankings.org/explore-health
+rankings/measures-data-sources/county-health-rankings-model 
+73. 
+The Gravity Project. Available from: https://thegravityproject.net/ 
+74. 
+Hicks, J., The Potential of Claims Data to Support the Measurement of Health Care Quality. 2003, 
+RAND Corporation: Santa Monica, CA. Available from: 
+https://www.rand.org/pubs/rgs_dissertations/RGSD171.html. 
+75. 
+Centers for Medicare & Medicaid Services, Medicare Claims Synthetic Public Use Files (SynPUFs). 
+Available from: https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable
+Public-Use-Files/SynPUFs. 
+76. 
+Stein, J.D., et al., Use of health care claims data to study patients with ophthalmologic 
+conditions. Ophthalmology, 2014. 121(5): p. 1134-41. 
+77. 
+Agency for Healthcare Research and Quality, Inventory and Prioritization of Measures To 
+Support the Growing Effort in Transparency Using All-Payer Claims Databases. 2017. Available 
+from: https://www.ahrq.gov/data/apcd/backgroundrpt/data.html#methods. 
+78. 
+Solberg, L.I., et al., Are claimsdata accurate enough to identify patientsfor performance 
+measures or quality improvement? The case of diabetes, heart disease, and depression. Am J 
+Med Qual, 2006. 21(4): p. 238-45. 
+79. 
+Reid, R.O., et al., Waste in the Medicare Program: a National Cross-Sectional Analysis of 2017 
+Low-Value Service Use and Spending. J Gen Intern Med, 2021. 36(8): p. 2478-2482. 
+80. 
+Rudrapatna, V.A., et al., Accuracy of medical billing data against the electronic health record in 
+the measurement of colorectal cancer screening rates. BMJ open quality, 2020. 9(1): p. e000856. 
+81. 
+National Committee for Quality Assurance (NCQA). HEDIS and Performance Measurement. 
+Available from: https://www.ncqa.org/hedis/. 
+82. 
+Centers for Medicare & Medicaid Services. ICD-10. Available from: 
+https://www.cms.gov/Medicare/Coding/ICD10. 
+83. 
+American Medical Association. CPT®. Available from: https://www.ama-assn.org/practice
+management/cpt. 
+84. 
+Centers for Medicare & Medicaid Services. HCPCS - General Information Available from: 
+https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo. 
+85. 
+Health Policy Brief: Pay For Performance, in Health Affairs Blog. 2012. Available from: 
+https://www.healthaffairs.org/do/10.1377/forefront.20121011.024094/full/. 
+86. 
+National Committee for Quality Assurance (NCQA). HEDISMeasuresand TechnicalResources. 
+Available from: https://www.ncqa.org/hedis/measures/ 
+87. 
+L.A. Care, CPT Category II Coding Tip Sheet. 2020. Available from: 
+http://www.lacare.org/sites/default/files/la2153_cpt_category_ii_tip_sheet_202001.pdf. 
+88. 
+BlueCross BlueShield of Illinois. HEDIS Tip Sheets. Available from: 
+https://www.bcbsil.com/provider/clinical/hedis.html. 
+89. 
+Aetna, Better HealthHEDISTips2020for PCPs. 2020. Available from: 
+https://www.aetnabetterhealth.com/content/dam/aetna/medicaid/kentucky/providers/pdfs/H 
+EDIS%202020%20Tips%20for%20PCPs.pdf. 
+90. 
+Centers for Medicare & Medicaid Services. Traditional MIPS Overview. Available from: 
+https://qpp.cms.gov/mips/traditional-mips 
+91. 
+John Kontor, M., J.P. Hazelrigs;, and E. Johnson, Payer-Provider Partnerships: Analytics Key to 
+Value. NEJM Catalyst, 2020. 
+Health IT Advisor Handbook 
+Page 146

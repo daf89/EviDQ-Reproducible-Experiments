@@ -1,0 +1,109 @@
+Kidney disease can be induced or accelerated by the use of
+certain over-the-counter (OTC) medications, herbal rem-
+edies, and other dietary supplements. One of the most used
+class of OTC analgesic medications is NSAIDs. NSAIDs are
+associated with interstitial nephritis, analgesic nephropathy,
+and hypertension.739 Indiscriminate chronic OTC NSAID use
+has been associated with a higher risks of kidney failure
+compared with nonuse and should be discouraged.740–743
+However, judicious NSAID use, under careful supervision of
+a nephrologist, may be preferred to other pain medications
+such as opioids that have stronger associations with adverse
+events.744,745 PPIs are also common OTC medications in
+some countries that have been associated with AKI and
+CKD due to tubulointerstitial nephritis and acute interstitial
+nephritis.733,734
+The use of herbal compounds remains highly prevalent in
+some countries and cultures.746 These products are often used
+in an unmonitored setting without the input of healthcare
+providers. Many of these remedies are composed of natural
+compounds with complex active ingredients that have not
+been evaluated in people with CKD and/or that may lead to
+many different adverse effects. The frequency of CKD
+associated with herbal remedy use is not known and is
+likely different in different parts of the world, depending on
+local availability and reasons for use. Examples include
+aristolochic acid nephropathy or nephrotoxicity due to
+alkaloid
+compounds
+often
+found
+in
+Chinese
+herbal
+remedies.747 However, cases of nephrotoxicity have been
+reported for many other herbal remedies globally.746,748,749
+The potential toxicity of herbal remedies may be enhanced
+by coexisting volume depletion and by other illness or
+medication use.
+Dietary supplements are readily available in most countries
+around the world and are usually not classiﬁed as OTC med-
+ications. Because of this, their regulation for identity and safety
+can vary widely. Although laws pertaining to dietary supple-
+ment labeling prohibit speciﬁc claims for the treatment or
+prevention of disease, these products are widely used as
+“alternative” or “complementary” therapy. Patients and pro-
+viders often assume that these products are at least safe and
+possibly effective. Their pharmacokinetics may be unknown
+and potential toxicity unstudied. Classic examples include
+creatine supplements used for body building that have been
+associated with allergic interstitial nephritis.750,751 Another
+example is vitamin C (ascorbic acid) supplements, which in
+excess can lead to tubular calcium oxalate crystal deposition.752
+Healthcare providers are encouraged to routinely inquire
+about the use of herbal remedies and recommend stopping
+any unprescribed alternative remedy that may pose a threat
+for (kidney) health. Figure 45747,753,754 lists common herbal
+remedies and dietary supplements arranged by the countries
+where
+the
+adverse
+effects
+were
+reported
+to
+increase
+awareness and facilitate discussions.
+Special considerations
+Global access to medications. Access to medications varies
+globally. Approximately 30% of the world population lacks
+timely access to quality medications. The International Soci-
+ety of Nephrology (ISN) reports that only 35% of patients in
+low-resource settings have access to ACEi/ARBs, statins, and
+Table 31| Key examples of common medications with documented nephrotoxicity and, where available, selected non-
+nephrotoxic alternatives
+Nephrotoxic medication
+Potential non-nephrotoxic alternatives
+Analgesics
+NSAIDs: nephrotoxic effects include a decrease in GFR through a reduction in
+prostaglandin-dependent kidney blood ﬂow, allergic interstitial nephritis (AIN),
+and nephrotic syndrome725
+Acetaminophen
+Antimicrobials
+Aminoglycosides: accumulates in the proximal tubular cells and disrupts phospholipid
+metabolism, resulting in cell apoptosis and acute tubular necrosis (ATN)731,732
+Cephalosporins and carbapenems
+Vancomycin: unclear cause of nephrotoxicity, but likely related to ATN and possible AIN731,732
+Linezolid and daptomycin731
+Sulfamethoxazole-trimethoprim: AIN, ATN, crystalluria within the distal convoluted
+tubule and reversible inhibition of tubular creatinine secretion731
+Clindamycin þ primaquine, pentamidine,
+and atovaquone
+Gastrointestinal medications
+Proton pump inhibitors: may result in AKI and CKD due to tubulointerstitial nephritis
+and AIN733,734
+H2-receptor antagonists
+Cardiovascular medications
+Warfarin: glomerular hemorrhage, oxidative stress causing kidney tubular damage, and
+direct effects on kidney vascular calciﬁcation by vitamin K–dependent alterations
+of matrix Gla protein735,736
+Non–vitamin K antagonist oral anticoagulants
+Other
+Lithium: nephrogenic diabetes insipidus as well as CKD from chronic tubulointerstitial
+nephropathy737
+Aripiprazole, lamotrigine, quetiapine, valproate
+CKD, chronic kidney disease; GFR, glomerular ﬁltration rate; NSAID, nonsteroidal anti-inﬂammatory drug.
+www.kidney-international.org
+chapter 4
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S247

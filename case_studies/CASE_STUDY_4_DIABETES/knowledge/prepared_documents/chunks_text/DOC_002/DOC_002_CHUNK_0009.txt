@@ -1,0 +1,164 @@
+
+
+===== PDF PAGE 17 =====
+
+5
+3.	 The global framework for diabetes 
+prevention and control
+Development process
+The development of the global monitoring 
+framework including the selection and 
+prioritization of indicators involved a multi-
+step approach. The process included:  (i) 
+systematic review of related literature;  (ii) 
+global prioritization to ensure alignment with 
+targets, recommendations, and priority global 
+workstreams; and (iii) expert consensus using 
+a modified Delphi method. 
+A systematic review of reviews was conducted 
+to identify existing indicators designed for 
+surveillance, monitoring and evaluation in the 
+diabetes context. A search of peer-reviewed 
+published literature as of 15 September 2023 
+in various databases such as PubMed (18), 
+Embase (19), Cochrane Reviews (20), Cumulative 
+Index to Nursing and Allied Health Literature (21) 
+and Latin American and Caribbean Literature 
+on Health Sciences (22) was implemented using 
+search terms related to diabetes, monitoring, 
+surveillance, evaluation metrics and indicators, 
+filtered by ‘review’ (Annex A). This produced over 
+4500 unique titles/abstracts for screening, from 
+which over 200 full text articles were selected 
+for further review. Ultimately, 58 studies 
+collectively identified approximately 300 distinct 
+diabetes indicators. 
+Indicators derived from the systematic 
+review were synthesized and refined to 
+reflect key priorities of the Global Diabetes 
+Compact and WHO diabetes prevention and 
+control work in Member States. Indicators specific 
+to gestational diabetes mellitus and diabetes 
+in pregnancy were omitted to ensure that the 
+retained indicators were universally applicable 
+across all types of diabetes. Additionally, 
+indicators related to testing for insulin resistance, 
+intermediate hyperglycaemia, and continuous 
+glucose monitoring were omitted. 
+Generic indicators were discarded in favour of 
+more specific and measurable indicators that 
+represented similar constructs (e.g. general self-
+management behaviour versus physical activity 
+for diabetes self-management). This refinement 
+process reduced the number of indicators to 178.
+A series of global technical consultations using 
+a modified Delphi method were conducted to 
+obtain consensus on these indicators from a 
+broad group of experts identified from WHO 
+networks at the global, regional and national 
+levels. Experts were based in academic 
+institutions, research organizations, diabetes 
+care centres, diabetes associations and 
+international development agencies across 
+different WHO regions and countries, in order 
+to leverage their extensive knowledge and 
+diverse experience in health systems, health 
+promotion and education, clinical management 
+of diabetes, health service delivery, diabetes 
+surveillance, monitoring, evaluation and 
+research. Additionally, some experts 
+provided insights that inherently reflected the 
+perspectives of people with diabetes, as they 
+themselves were living with the condition. 
+
+
+===== PDF PAGE 18 =====
+
+6
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+The modified Delphi process comprised two 
+online surveys conducted through the WHO 
+DataForm survey platform, a virtual meeting 
+featuring polling and focus groups, and a 
+follow-up email consultation. The initial survey 
+aimed to enable experts to assess indicators 
+identified from the systematic review indicating 
+which to include or exclude and to identify any 
+additional indicators necessary for inclusion 
+in the framework. The second survey was 
+conducted to gather experts’ opinions on the 
+framework and on each indicator metadata for 
+all indicators retained following the first survey. 
+The virtual meeting was designed to address 
+any issues regarding indicator definitions and 
+to facilitate consensus on unresolved indicator 
+inclusions. The follow-up email consultation 
+served to finalize the framework, indicators and 
+definitions, confirming consensus on the final 
+adjustments. Ethical approval was not required 
+for the Delphi process.
+In the initial online survey, conducted from 28 
+October to 11 November 2023, over 60 experts 
+assessed which indicators should ultimately 
+be included in the framework, considering the 
+objectives of the global monitoring framework, 
+parsimony of indicators and six important 
+characteristics of indicators: validity; having 
+clear and standard definition; sensitivity to 
+performance; importance to stakeholders; 
+collectability; and ease of interpretation and 
+use. These criteria were presented to the 
+expert panel during an introductory technical 
+expert meeting held on 25 October 2023, prior 
+to the survey launch. Following the survey, 
+60 indicators were retained, including top-
+rated indicators derived from the review and 
+additional indicators suggested by experts 
+during the survey process. 
+A preliminary framework structure, which drew 
+on the WHO NCD facility-based monitoring 
+framework (16) used for diabetes monitoring 
+in primary care settings, was then expanded 
+to include additional domains in order to 
+accommodate the full suite of the identified 60 
+indicators. The framework also incorporated the 
+findings from a WHO-commissioned study (11) 
+that developed the targets used for the WHO 
+Global Diabetes Compact. The metadata for 
+each indicator, including definition, numerator, 
+denominator, method of estimation and data 
+sources, was developed based on systematic 
+review descriptions and related WHO indicator 
+metadata (16, 23–25), WHO guidelines (13,14), 
+and existing WHO data collection and 
+standardized tools (26–28) and national health 
+data systems (29). 
+The second online survey was conducted 
+from 12 December 2023 to 27 January 2024 
+to further examine the remaining indicators, 
+during which over 50 experts evaluated each 
+indicator against the six key characteristics and 
+offered feedback on the indicator metadata and 
+the overall structure. Indicators that achieved 
+the specified threshold for technical validity 
+and feasibility were incorporated into the 
+framework. Feedback that was clear, specific 
+and common across more than one expert 
+was considered and led to adjustments in the 
+indicator metadata.
+On 19 February 2024, a follow-up meeting with 
+technical experts took place to tackle unresolved 
+issues surrounding ‘grey-zone’ indicators (i.e. 
+those which did not meet the threshold for 
+retention in the framework but did receive 
+acceptable validity and feasibility ratings), and 
+to clarify ambiguous or conflicting feedback 
+on indicator metadata in order to finalize the 
+framework. Specifically, experts were tasked 
+with ranking these grey-zone indicators and 
+engaging in focus group discussions to reach 
+an agreement on critical aspects of indicator 
+metadata. Subsequently, an email consultation 
+was conducted from 9 to 23 July 2024 to obtain 
+input on the revisions integrated into the final 
+framework and indicator metadata.

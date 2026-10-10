@@ -1,0 +1,40 @@
+{
+  "step": "STEP15B",
+  "title": "Fuzzy-aware intrinsic and comparative explanations",
+  "timestamp": "2026-10-03T14:45:22.332697",
+  "baseline": "Dataset_DQ",
+  "source_step": "STEP14",
+  "actions": [
+    "DOC",
+    "MEDIAN",
+    "KNN",
+    "ITERATIVE"
+  ],
+  "dimensions": [
+    "PERFORMANCE",
+    "EXPLANATION_SHIFT",
+    "STABILITY",
+    "COVERAGE"
+  ],
+  "comparison_policy": "FUZZY_STATE_FIRST",
+  "within_same_fuzzy_state_numeric_superiority": false,
+  "boundary_secondary_membership_threshold": 0.1,
+  "intrinsic_explanation": true,
+  "comparative_explanation": true,
+  "global_aggregation": false,
+  "global_score": false,
+  "global_ranking": false,
+  "recommendation": false,
+  "defuzzification": false,
+  "REF_used": false,
+  "TEST_accessed": false,
+  "new_model_trained": false,
+  "new_SHAP_computed": false,
+  "new_DQ_action": false,
+  "status": "PASS_FUZZY_AWARE_EXPLANATION_ONLY",
+  "hashes": {
+    "STEP15B_FUZZY_AWARE_EXPLANATIONS.csv": "cc835cb6aad0d5e938b8ea3dc49f074b9054d44abf20299f8e1fba25524c6710",
+    "STEP15B_FUZZY_AWARE_EXPLANATIONS.txt": "4654663b3b861d71859fe3c0c0d254303d5696e0cc3f21820ddb00aad114bd1e",
+    "STEP15B_COMPARISON_AUDIT.csv": "bb7bf8b73fb00a5eac101b74395ab369d5c7c43e221c15c0f2f7951909f44030"
+  }
+}

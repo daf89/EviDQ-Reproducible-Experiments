@@ -1,0 +1,78 @@
+
+
+===== PDF PAGE 43 =====
+
+31
+6. Innovation and research
+Various innovations have been introduced for BP measurement, such 
+as novel BP estimation sensors, mobile apps and wearable devices 
+(49, 50). New developments include central aortic BP measurement, 
+ultra-thin microchip sensors, advanced mathematical methods 
+of signal analysis based on artificial neural networks and cuffless 
+systems for estimating BP (Fig. 8). Cuffless devices require only 
+one sensor for photoplethysmogram, and the algorithm ensures 
+comfortable, continuous, flexible measurement of BP in various 
+settings (48).
+None of these mobile phone technologies have been 
+validated, they are not regulated, and there is no unified, 
+standard system to evaluate their accuracy, performance or 
+use. Thus, these emerging technologies cannot yet be 
+recommended for clinical use. 
+An LED emits light with a wavelength of 940 nm, which penetrates 
+the finger and arrives at the photo detector. The photo detector 
+detects changes in blood flow that corresponds to natural pulsation 
+of the blood flow. Baseline fluctuation is removed by a high-pass 
+filter with a cut-off frequency of 0.3 Hz, and noise is removed by a 
+low-pass filter with a cut-off frequency of 30 Hz. The output signal 
+is digitized at a sampling frequency of 200 Hz and a resolution of 
+12 bytes.
+According to the validation guideline of the Institute of Electrical and Electronics Engineers (IEEE 1708-
+2014), the device shows a comparable BP to that measured simultaneously by auscultatory and electronic 
+oscillometric techniques. The device has not yet met the requirement for pre-calibration with a conventional 
+BPMD, which limits its routine use.
+The accuracy, reproducibility and reliability of such new systems have not yet been established. An effective 
+regulatory system must be in place to ensure independent validation of the accuracy of BPMDs.
+Mobile phone apps to measure BP are still at an early stage of research and development. They are not 
+regulated, and there is no established validation protocol to determine accuracy. Potential inaccuracy is a 
+major constraint for clinical use. Development has also been constrained by the requirement that accessory 
+devices or integrated hardware be built into a device.
+Mobile phone apps (Fig.9) with features to track medical data, enhance medical adherence, link BP data to 
+broader electronic medical records and clinical decisions, however, present promising opportunities which 
+may improve the diagnosis and treatment of hypertension. The way in which new, non-validated devices 
+are flooding the markets is underestimated, and their potential inaccuracy contributes to failures in clinical 
+decisions on hypertension treatment. 
+ 
+Fig. 9. Options proposed for smartphone apps for measuring BP
+User manually 
+enters BP 
+measurements
+User enters BP 
+measurements by 
+wireless
+User has a fully 
+connected BP cuff
+App collects a signal 
+from the user’s finger 
+and transforms it 
+“live and locally” into 
+BP values
+Diverse smartphone apps include the following:
+Fig. 8. Cuffless BPMD
+LED, light emission diode; PD, photo detector; 
+HPF, high-pass filter; Amp, amplificator; LPF, 
+low-pass filter; ADC, analog-digital converter; PC, 
+personal computer.
+Source: Reference (48).
+
+
+===== PDF PAGE 44 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+32
+Given the versatility and low cost of developing such devices, it is expected that a number of apps will become 
+available that aid in the treatment of hypertension. They might include medication reminders and health 
+coaching according to the time, location or missed logging of an event, or they might accumulate personal 
+data to facilitate continuous health monitoring and telemedicine (51, 52).
+Although strict validation standards are set for evaluating manual and electronic (automated and 
+semi-automated) BPMDs, there is no universal standard for assessing the accuracy of BP estimates 
+from mobile apps. Therefore, these devices are not suitable for clinical use.

@@ -1,0 +1,31 @@
+{
+    "phase": "02_knowledge",
+    "step": "08_shap_feature_selection_and_rag_scope",
+    "selection_basis": "SHAP_REF",
+    "selection_rule": "minimum ranked features reaching the cumulative SHAP coverage threshold",
+    "shap_coverage_threshold_pct": 80.0,
+    "achieved_coverage_pct": 80.37565703528747,
+    "n_model_features": 10,
+    "n_selected_features": 5,
+    "selected_features": [
+        "registry_stage_code",
+        "icdo3_m_code",
+        "age_diag",
+        "administr_unit",
+        "mkb10_code"
+    ],
+    "rag_document_directory": "<LOCAL_PROJECT_ROOT>\\CASE_STUDY_2_CANCER_REGISTRY\\knowledge\\documents\\raw",
+    "n_rag_documents_currently_available": 0,
+    "chunking_strategy_next_step": "approximately_2_pages_per_chunk",
+    "knowledge_sources": {
+        "DOCUMENT": "planned",
+        "STATISTICAL": "planned_separately",
+        "EXPERT": "not_available"
+    },
+    "llm_semantic_processor": "GPT-5.6 Sol",
+    "llm_used_in_this_step": false,
+    "hidden_reference_used": false,
+    "published_reference_rules_used": false,
+    "error_diagnosis_performed": false,
+    "correction_performed": false
+}

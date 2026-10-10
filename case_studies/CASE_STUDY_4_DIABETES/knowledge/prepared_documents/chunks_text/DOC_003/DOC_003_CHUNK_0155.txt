@@ -1,0 +1,186 @@
+
+
+===== PDF PAGE 309 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4H-4 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+OR Days 
+4└─┴─┘ If known, go to SF24 
+Don’t know 
+77 
+Since you started using your hearing device, how much has it 
+helped you to hear better (for example in watching TV, listening to 
+radio, conversing with people etc? 
+ 
+(READ OUT OPTIONS) 
+Helped very much 
+1 
+SF24 
+Helped quite a lot 
+2 
+Helped moderately 
+3 
+Helped slightly 
+4 
+Helped not at all 
+5 
+ 
+ 
+ 
+ 
+ 
+Vision and Hearing Assessment 
+ 
+CORE:  Visual Acuity Assessment 
+Question 
+Response 
+Code 
+Interviewer ID 
+ 
+└─┴─┴─┘ 
+VH1 
+Device ID  
+(SNELLEN VISUAL ACUITY CHART/SMART PHONE APP) 
+ 
+└─┴─┘ 
+VH2 
+Uncorrected Distance visual acuity 
+ 
+[Relevant to all participants] 
+ 
+Right eye 
+fraction 
+└─┘/└─┴─┘ 
+VH3a 
+ 
+decimal 
+└─┘.└─┴─┘ 
+Left eye 
+fraction 
+└─┘/└─┴─┘ 
+VH3b 
+decimal 
+└─┘.└─┴─┘ 
+Visual acuity with spectacles or contact lenses (if 
+applicable) 
+ 
+[if spectacles or contact lenses for distance vision are worn to 
+the assessment, visual acuity is measured with the person 
+wearing them] 
+ 
+Right eye 
+fraction 
+└─┘/└─┴─┘ 
+VH4a 
+decimal 
+└─┘.└─┴─┘ 
+Left eye 
+fraction 
+└─┘/└─┴─┘ 
+VH4b 
+decimal 
+└─┘.└─┴─┘ 
+Pinhole Assessment  
+ 
+[ONLY Relevant to participants whose presenting visual acuity (i.e. uncorrected visual acuity or visual acuity with spectacles or contact lenses for distance 
+vision are worn to the assessment) is <6/12 in one or both eyes] 
+Device ID Pinhole Occluder 
+ 
+└─┴─┘ 
+VH5 
+Distance visual acuity using Pinhole Occluder 
+ 
+ 
+Right eye 
+Improve to ≥6/12 
+1 
+VH6a 
+ 
+Does not improve to 
+≥6/12 
+2 
+Left eye 
+Improve to ≥6/12 
+1 
+VH6b 
+
+
+===== PDF PAGE 310 =====
+
+ 
+Part 5: The STEPS Instrument 
+ 
+5-4H-5 
+Section 4: Optional Modules 
+ 
+WHO STEPS Surveillance 
+Last Updated: 23 April 2025 
+ 
+Does not improve to 
+≥6/12 
+2 
+ 
+Near Visual Acuity Assessment 
+(ONLY participants aged ≥35 years old) 
+Device ID:  
+ Device/chart to test for near visual acuity/SMART PHONE APP 
+ 
+└─┴─┘ 
+VH7 
+Uncorrected near visual acuity at 40cm.  
+ 
+[Relevant to all participants aged 35 years and over] 
+Right eye 
+Yes, can see N6 
+1 
+VH8a 
+No, cannot see N6 
+2 
+Left eye 
+Yes, can see N6 
+1 
+VH8b 
+No, cannot see N6 
+2 
+Near visual acuity at 40 cm with spectacles (if applicable) 
+ 
+[Relevant to participants aged 35 years and over who present to 
+the examination with spectacles for near vision] 
+ 
+Right eye 
+Yes, can see N6 
+1 
+VH9a 
+No, cannot see N6 
+2 
+Left eye 
+Yes, can see N6 
+1 
+VH9b 
+No, cannot see N6 
+2 
+CORE:  Hearing Assessment 
+Interviewer ID 
+ 
+└─┴─┴─┘ 
+VH10 
+Device ID 
+ 
+└─┴─┘ 
+VH11 
+Hearing test using automated hearing screener (hearWHO) 
+ 
+Record score in percentages 
+ 
+└─┴─┘ 
+ 
+VH12 
+% 
+ 

@@ -1,0 +1,88 @@
+7.3. Communicating the diagnosis 
+Behavioural responses to health-related threats are strongly influ-
+enced by five core themes (termed ‘illness representations’), which 
+are identity, timeline, cause, consequences, and control/cure.243,244 
+These illness representations form the basis of how patients under-
+stand a diagnosis, and can influence their responses after being diag-
+nosed with hypertension.243 This conceptual framework can help 
+guide the clinical communication of a diagnosis of hypertension. 
+For example, patients’ understanding of the chronic nature of hyper-
+tension (i.e. timeline theme) is key for ensuring long-term engage-
+ment with medical treatment.245 Prior to commencing treatment, 
+it is helpful to understand the extent to which patients believe that 
+medications are necessary and ascertain if they have concerns.246 
+The core illness representations and beliefs about medicines for clin-
+icians to consider are included in Table 7. 
+The 2021 ESC Guidelines on cardiovascular disease prevention in 
+clinical practice recommend “an informed discussion about CVD risk 
+and treatment benefits—tailored to the needs of a patient” as part 
+of a diagnosis communication in hypertension.170 This can be facilitated 
+using an interdisciplinary healthcare-provided approach (see Section 11) 
+and by visual information or other more accessible material that might 
+optimally communicate hypertension-related risk.128 Visualizing risk by 
+medical imaging to motivate risk-reducing behaviour changes may also 
+be beneficial.247 
+7.4. Baseline assessment and diagnostic 
+approach 
+7.4.1. Medical history, medication history, and 
+physical examination 
+The purpose of clinical evaluation is to diagnose hypertension, delineate 
+factors potentially contributing to hypertension, identify other CVD 
+risk factors, define relevant comorbidities, screen for potential second-
+ary causes of hypertension (where indicated), and establish whether 
+N
+Y
+N
+Y
+Screening for hypertension by office BP
+High CVD risk conditions
+or
+SCORE2/SCORE2-OP ≥10%
+or
+SCORE2/SCORE2-OP 5% – <10% 
++ risk modifiers
+ ≥40 years? 
+Non-elevated BP
+<120/70
+mmHg
+Elevated BP
+120–139/70–89
+mmHg
+Hypertension
+140–159/90–99
+mmHg
+Hypertension
+160–179/100–109
+mmHg
+Hypertension
+≥180/110
+mmHg
+Opportunistic
+BP screening
+at least every
+3 years
+(Class IIa)
+Opportunistic
+BP screening
+at least
+every year
+(Class IIa)
+Evaluate for
+hypertensive
+emergency
+(Class I)
+Confirm BP
+preferably with either
+home or ambulatory
+BP measurements
+(Class I)
+Confirm BP promptly
+preferably with either
+home or ambulatory
+BP measurements
+(Class I)
+Figure 10 Protocol for confirming hypertension diagnosis. BP, blood pressure; CVD, cardiovascular disease; SCORE2, Systematic COronary Risk 
+Evaluation 2; SCORE2-OP, Systematic COronary Risk Evaluation 2–Older Persons. 
+3944 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

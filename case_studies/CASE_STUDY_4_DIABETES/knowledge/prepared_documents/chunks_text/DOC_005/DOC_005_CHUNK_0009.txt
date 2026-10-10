@@ -1,0 +1,118 @@
+
+
+===== PDF PAGE 17 =====
+
+5
+3. Non-invasive BPMDs with cufff
+3
+Non-invasive BPMDs with cuff
+BP can be measured either invasively (directly) or noninvasively (indirectly). Screening, diagnosis and 
+treatment of hypertension are done solely with non-invasive devices, whereas invasive monitoring is used in 
+a hospital setting for cardiovascular monitoring to allow quicker assessment of both hyper- and hypotension. 
+Invasive methods should be used only in specialized health care settings. The present document refers only 
+to non-invasive or indirect methods, in which external pressure on the upper arm is used to assess BP. Fig. 2 
+illustrates the two main methods of BP measurement and their subcategories.
+Fig. 2. Main means for measuring BP 
+BP measuring device
+Non-invasive (indirect)
+Invasive (direct)
+Intravascular
+Extravascular
+Automated, cuff
+Manual/analogue
+Automated 
+(electronic)
+Mercury 
+sphygmomanometer
+Aneroid 
+sphygmomanometer
+One time reader
+Automatic
+3 readings
+Semi-automated, 
+cuff
+Cuffless 
+technique, 
+mobile app.
+The scope of this publication will only focus on semi-automated and automated non-invasive BPMDs with cuff.
+For non-invasive BP measurement there is a vast range of medical devices that use different technology to 
+display the results. Each type has advantages and disadvantages, which makes them less or more suitable 
+for certain use and level of care. Table 1 lists the advantages and disadvantages of various devices.
+
+
+===== PDF PAGE 18 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+6
+Table 1. Subcategories of non-invasive BPMDs and their advantages and disadvantages
+Manual / analogue
+Electronic / automated
+Type
+Mercury sphygmomanometer
+Aneroid sphygmomanometer
+Semi-automated, cuff
+Automated, cuff
+Cuffless technique, mobile app.
+Illustration
+Recommend?
+No longer, because of toxicity of 
+mercury
+Not recommended because 
+requires frequent recalibration 
+and observer training and 
+retraining
+Only accuracy validated automated BPMDs are recommended for clinical use
+Not suitable or recommended 
+for clinical use because of 
+lack of universal standards for 
+validating the accuracy of BP 
+measurements
+Reference on 
+publication
+Annex 6. Technical specifications and use of manual non-invasive 
+BPMDs
+Chapter 3. Automated non-invasive BPMDs
+Chapter 5. Innovation and 
+research
+Brief 
+description
+Pressure cuff, hand pump, 
+mercury column, stethoscope
+Pressure cuff, hand pump, 
+aneroid (mechanical 
+transducer), stethoscope
+Pressure cuff, hand pump 
+to inflate cuff, automated 
+deflation and determination 
+of BP
+Pressure cuff automatically 
+inflates and deflates to 
+determine one BP 
+Pressure cuff automatically 
+inflates and deflates to 
+determine multiple BP 
+after a predetermined 
+period of rest and with a 
+predetermined pause between 
+repeated measurements. All 
+measurements ± an average of 
+measurements is displayed.
+E.g. tonometry, pulse transit 
+time, ultrasound or magnetic 
+method, tissue characteristic 
+methods, machine-learning 
+methods, heart rate variation 
+and heartrate power spectrum 
+ratio, photoplethysmography, 
+heart rate and smartphone 
+technology
+Method of BP 
+estimation
+Detection of Korotkoff sounds through a stethoscope for 
+auscultation.
+Two possible methods:
+Most common: Detection of arterial flow (oscillometry), in which pulses sensed through the cuff are 
+filtered, amplified, processed and applied to an algorithm to estimate systolic and diastolic BP.
+Least common: Detection of Korotkoff sounds by the device with a pressure transducer (auscultatory), 
+which are then used to estimate BP
+Variable

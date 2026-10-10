@@ -1,0 +1,157 @@
+
+
+===== PDF PAGE 9 =====
+
+Top
+Top
+for Heart Disease and Stroke Prevention, National Center for Chronic Disease Prevention and Health Promotion, Centers for
+Disease Control and Prevention, who provided oversight to this project; Amanda K. Martinez, NACDD consultant, for her
+support and project management; and Emily W. Lankau, NACDD consultant, who helped edit and format this manuscript.
+The “Improving Chronic Disease Surveillance and Management Through the Use of Electronic Health Records/Health
+Information Systems” project is supported by the Centers for Disease Control and Prevention of the US Department of
+Health and Human Services (HHS) as part of a financial assistance award totaling $1,800,000 with 100% funded by
+CDC/HHS.
+The authors declared no potential conflicts of interest with respect to the research, authorship, or publication of this article.
+No copyrighted material, surveys, instruments, or tools were used in the research described in this article.
+The contents are those of the authors and do not necessarily represent the official views of, nor an endorsement, by
+CDC/HHS, or the US government.
+Author Information
+Corresponding Author: Katherine H. Hohman, DrPH, MPH, National Association of Chronic Disease Directors, 101 W Ponce
+de Leon, Decatur, GA 30030 (khohman@chronicdisease.org).
+Author Affiliations: National Association of Chronic Disease Directors, Decatur, Georgia. Department of Population
+Medicine, Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, Massachusetts. Commonwealth
+Informatics, Waltham, Massachusetts. Division for Heart Disease and Stroke Prevention, National Center for Chronic
+Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia. Independent
+Consultant, Public Health Informatics Institute, Task Force for Global Health, Decatur, Georgia.
+References
+1. Kraus EM, Brand B, Hohman KH, Baker EL. New directions in public health surveillance: using electronic health records
+to monitor chronic disease. J Public Health Manag Pract . 2022;28(2):203–206. PubMed
+doi:10.1097/PHH.0000000000001501
+2. Hohman KH, Martinez AK, Klompas M, Kraus EM, Li W, Carton TW, et al. . Leveraging electronic health record data for
+timely chronic disease surveillance: the Multi-State EHR-Based Network for Disease Surveillance. J Public Health
+Manag Pract . 2023;29(2):162–173. PubMed
+ doi:10.1097/PHH.0000000000001693
+3. National Association of Chronic Disease Directors. Multi-State EHR-Based Network for Disease Surveillance (MENDS).
+Accessed September 2, 2023. https://chronicdisease.org/mendsinfo
+4. ESP/MDPHnet Coordinating Center. Electronic medical record support for public health. Accessed September 2, 2023.
+https://www.esphealth.org
+5. Gianfrancesco MA, Goldstein ND. A narrative review on the validity of electronic health record-based research in
+epidemiology. BMC Med Res Methodol . 2021;21(1):234. PubMed
+ doi:10.1186/s12874-021-01416-5
+6. Public Health Informatics Institute. Multi-State EHR-Based Network for Disease Surveillance (MENDS) Governance
+Principles, Policies, and Processes . Accessed September 2, 2023. https://chronicdisease.org/wp-
+content/uploads/2023/07/MENDS_Governance_Document_V3.pdf
+7. Vogel J, Brown JS, Land T, Platt R, Klompas M. MDPHnet: secure, distributed sharing of electronic health record data
+for public health surveillance, evaluation, and planning. Am J Public Health . 2014;104(12):2265–2270. PubMed
+doi:10.2105/AJPH.2014.302103
+8. ESP/MDPHnet Coordinating Center. ESP algorithms. Accessed January 18, 2024.
+https://espnet.atlassian.net/wiki/spaces/EP/pages/93585410/ESP+Algorithms
+9. Kraus EM, Saintus L, Martinez AK, Brand B, Begley E, Merritt RK, et al. . Fostering governance and information
+partnerships for chronic disease surveillance: the Multi-State EHR-Based Network for Disease Surveillance. J Public
+Health Manag Pract . 2024;30(2):244–254. PubMed
+ doi:10.1097/PHH.0000000000001810
+1
+2
+3
+4
+5
+
+
+
+
+
+
+
+
+
+
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+9/12
+
+
+===== PDF PAGE 10 =====
+
+Top
+10. Hohman KH, Zambarano B, Klompas M, Wall HK, Kraus EM, Carton TW, et al. . Development of a hypertension
+electronic phenotype for chronic disease surveillance in electronic health records: key analytic decisions and their
+effects. Prev Chronic Dis . 2023;20:E80. PubMed
+ doi:10.5888/pcd20.230026
+11. Centers for Disease Control and Prevention. Public Health Information Network Vocabulary Access and Distribution
+System (PHIN VADS): current smoking status (NAACCR). Accessed October 25, 2023.
+https://phinvads.cdc.gov/vads/ViewValueSet.action?id=29668AC8-226F-4E9C-BA9F-23909213248A
+12. SNOMED International. Accessed September 3, 2023. https://www.snomed.org
+13. National Library of Medicine. SNOMED CT to ICD-10-CM map. Accessed September 3, 2023.
+https://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd10cm.html
+14. Mohamed Y, Song X, McMahon TM, Sahil S, Zozus M, Wang Z, et al. ; Greater Plains Collaborative. Electronic health
+record data quality variability across a multistate clinical research network. J Clin Transl Sci . 2023;7(1):e130. PubMed
+ doi:10.1017/cts.2023.548
+15. Tsiampalis T, Panagiotakos D. Methodological issues of the electronic health records’ use in the context of
+epidemiological investigations, in light of missing data: a review of the recent literature. BMC Med Res Methodol .
+2023;23(1):180. PubMed
+ doi:10.1186/s12874-023-02004-5
+16. Ruddle RA, Adnan M, Hall M. Using set visualisation to find and explain patterns of missing values: a case study with
+NHS hospital episode statistics data. BMJ Open . 2022;12(11):e064887. PubMed
+ doi:10.1136/bmjopen-2022-
+064887
+17. Proumen R, Connolly H, Debick NA, Hopkins R. Assessing the accuracy of electronic health record gender identity and
+REaL data at an academic medical center. BMC Health Serv Res . 2023;23(1):884. PubMed
+ doi:10.1186/s12913-
+023-09825-6
+18. Flanagin A, Frey T, Christiansen SL; AMA Manual of Style Committee. Updated guidance on the reporting of race and
+ethnicity in medical and science journals. JAMA . 2021;326(7):621–627. PubMed
+ doi:10.1001/jama.2021.13304
+19. Flanagin A, Frey T, Christiansen SL, Bauchner H. The reporting of race and ethnicity in medical and science journals:
+comments invited. JAMA . 2021;325(11):1049–1052. PubMed
+ doi:10.1001/jama.2021.2104
+20. Johnson JA, Moore B, Hwang EK, Hickner A, Yeo H. The accuracy of race & ethnicity data in US based healthcare
+databases: a systematic review. Am J Surg . 2023;226(4):463–470. PubMed
+ doi:10.1016/j.amjsurg.2023.05.011
+21. Ansari B, Hart-Malloy R, Rosenberg ES, Trigg M, Martin EG. Modeling the potential impact of missing race and
+ethnicity data in infectious disease surveillance systems on disparity measures: scenario analysis of different
+imputation strategies. JMIR Public Health Surveill . 2022;8(11):e38037. PubMed
+ doi:10.2196/38037
+22. Levitt M, Zonta F, Ioannidis JPA. Comparison of pandemic excess mortality in 2020–2021 across different empirical
+calculations. Environ Res . 2022;213:113754. PubMed
+ doi:10.1016/j.envres.2022.113754
+23. Centers for Medicare & Medicaid Services. Eligible Professional Meaningful Use Core Measures Measure 9 of 13.  Last
+updated May 2014. Accessed February 5, 2024. https://www.cms.gov/regulations-and-
+guidance/legislation/ehrincentiveprograms/downloads/9_record_smoking_status.pdf
+24. The Office of the National Coordinator for Health Information Technology. US Core Data for Interoperability (USCDI).
+Health status assessments. Accessed February 5, 2024. https://www.healthit.gov/isa/taxonomy/term/811/uscdi-v4
+25. Yoon J, Mizrahi M, Ghalaty NF, Jarvinen T, Ravi AS, Brune P, et al. . EHR-Safe: generating high-fidelity and privacy-
+preserving synthetic electronic health records. NPJ Digit Med . 2023;6(1):141. PubMed
+ doi:10.1038/s41746-023-
+00888-7
+Tables
+Table 1. Description of the Stages of the Validation Process for Multi-State EHR-Based Network for Disease
+Surveillance (MENDS) Data
+Stage of validation
+Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27/09/2026 11:49
+Validation of Multi-State EHR-Based Network for Disease Surveillance (MENDS) Data and Implications for Improving Data Quality and Representativeness
+https://www.cdc.gov/pcd/issues/2024/23_0409.htm?utm_source=chatgpt.com
+10/12

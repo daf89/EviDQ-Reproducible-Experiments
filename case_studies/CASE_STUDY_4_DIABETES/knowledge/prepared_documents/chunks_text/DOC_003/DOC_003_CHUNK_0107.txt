@@ -1,0 +1,71 @@
+
+
+===== PDF PAGE 213 =====
+
+ 
+ 
+
+
+===== PDF PAGE 214 =====
+
+Part 4: Data Management and Analysis, Reporting and Disseminating Results 
+Section 1: Creating the Final Dataset 
+Last Updated: 7 April 2017 
+4-1-1 
+WHO STEPS Surveillance 
+ 
+ 
+Section 1: Creating the Final Dataset 
+Overview 
+ 
+ 
+Introduction 
+This section covers all the tasks that need to be conducted to prepare the final 
+STEPS dataset for analysis. 
+ 
+ 
+Intended 
+audience 
+This section is designed for use by those fulfilling the following roles: 
+ 
+• Field team supervisors 
+• STEPS Survey Coordinator 
+• Data analyst. 
+ 
+ 
+ 
+Overview of 
+process 
+Once data collection has been completed, one person should oversee the task 
+of creating the final dataset. This task may be completed by the data analyst, 
+but they may need assistance from the survey coordinator or field team 
+supervisors to coordinate obtaining all data files from the devices used for  
+data collection and amassing the Interview Tracking Forms. 
+ 
+The process for creating the final dataset is comprised of three stages: 
+ 
+• 
+Downloading the data 
+• 
+Cleaning the data 
+• 
+Weighting the data. 
+ 
+While the first two stages should be able to be completed within a few hours, 
+the time needed for weighting the data can vary from less than a day to  
+several days or weeks, depending on the availability and cleanliness of the 
+sampling information. 
+ 
+ 
+ 
+In this section 
+This section covers the following topics: 
+Topic 
+See Page 
+Downloading the data 
+4-1-2 
+Cleaning the data 
+4-1-3 
+Weighting the data 
+4-1-5 
+ 

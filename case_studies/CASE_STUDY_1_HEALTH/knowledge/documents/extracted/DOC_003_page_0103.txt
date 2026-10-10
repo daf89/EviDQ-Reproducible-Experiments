@@ -1,0 +1,155 @@
+823. Arima H, Chalmers J, Woodward M, Anderson C, Rodgers A, Davis S, et al. Lower tar-
+get blood pressures are safe and effective for the prevention of recurrent stroke: the 
+PROGRESS trial. J Hypertens 2006;24:1201–8. https://doi.org/10.1097/01.hjh. 
+0000226212.34055.86 
+824. Kitagawa K, Yamamoto Y, Arima H, Maeda T, Sunami N, Kanzawa T, et al. Effect of 
+standard vs intensive blood pressure control on the risk of recurrent stroke: a rando-
+mized clinical trial and meta-analysis. JAMA Neurol 2019;76:1309–18. https://doi.org/10. 
+1001/jamaneurol.2019.2167 
+825. Suchard MA, Schuemie MJ, Krumholz HM, You SC, Chen R, Pratt N, et al. 
+Comprehensive comparative effectiveness and safety of first-line antihypertensive 
+drug classes: a systematic, multinational, large-scale analysis. Lancet 2019;394: 
+1816–26. https://doi.org/10.1016/s0140-6736(19)32317-7 
+826. Wang WT, You LK, Chiang CE, Sung S-H, Chuang S-Y, Cheng H-M, et al. Comparative 
+effectiveness of blood pressure-lowering drugs in patients who have already suffered 
+from stroke: traditional and Bayesian network meta-analysis of randomized trials. 
+Medicine (Baltimore) 2016;95:e3302. https://doi.org/10.1097/md.0000000000003302 
+827. Bath PM, Scutt P, Blackburn DJ, Ankolekar S, Krishnan K, Ballard C, et al. Intensive ver-
+sus guideline blood pressure and lipid lowering in patients with previous stroke: main 
+results from the pilot ‘Prevention of Decline in Cognition after Stroke Trial’ 
+(PODCAST) randomised controlled trial. PLoS One 2017;12:e0164608. https://doi. 
+org/10.1371/journal.pone.0164608 
+828. Mant J, McManus RJ, Roalfe A, Fletcher K, Taylor CJ, Martin U, et al. Different systolic 
+blood pressure targets for people with history of stroke or transient ischaemic attack: 
+PAST-BP (Prevention After Stroke—Blood Pressure) randomised controlled trial. BMJ 
+2016;352:i708. https://doi.org/10.1136/bmj.i708 
+829. Kolmos M, Christoffersen L, Kruuse C. Recurrent ischemic stroke—a systematic re-
+view and meta-analysis. J Stroke Cerebrovasc Dis 2021;30:105935. https://doi.org/10. 
+1016/j.jstrokecerebrovasdis.2021.105935 
+830. Livingston G, Huntley J, Sommerlad A, Ames D, Ballard C, Banerjee S, et al. Dementia 
+prevention, intervention, and care: 2020 report of the Lancet Commission. Lancet 
+2020;396:413–46. https://doi.org/10.1016/s0140-6736(20)30367-6 
+831. Ou YN, Tan CC, Shen XN, Xu W, Hou X-H, Dong Q, et al. Blood pressure and 
+risks of cognitive impairment and dementia: a systematic review and meta-analysis 
+of 209 prospective studies. Hypertension 2020;76:217–25. https://doi.org/10.1161/ 
+hypertensionaha.120.14993 
+832. Abell JG, Kivimäki M, Dugravot A, Tabak AG, Fayosse A, Shipley M, et al. Association 
+between systolic blood pressure and dementia in the Whitehall II cohort study: role of 
+age, duration, and threshold used to define hypertension. Eur Heart J 2018;39: 
+3119–25. https://doi.org/10.1093/eurheartj/ehy288 
+833. Alpérovitch A, Blachier M, Soumaré A, Ritchie K, Dartigues J-F, Richard-Harston S, 
+et al. Blood pressure variability and risk of dementia in an elderly cohort, the 
+Three-City study. Alzheimers Dement 2014;10:S330–337. https://doi.org/10.1016/j. 
+jalz.2013.05.1777 
+834. McGrath ER, Beiser AS, DeCarli C, Plourde KL, Vasan RS, Greenberg S, et al. Blood 
+pressure from mid- to late life and risk of incident dementia. Neurology 2017;89: 
+2447–54. https://doi.org/10.1212/wnl.0000000000004741 
+835. Skoog I, Nilsson L, Persson G, Lernfelt B, Landahl S, Palmertz B, et al. 15-year longitu-
+dinal study of blood pressure and dementia. Lancet 1996;347:1141–5. https://doi.org/ 
+10.1016/s0140-6736(96)90608-x 
+836. Launer LJ, Masaki K, Petrovitch H, Foley D, Havlik RJ. The association between midlife 
+blood pressure levels and late-life cognitive function. The Honolulu-Asia aging study. 
+JAMA 1995;274:1846–51. https://doi.org/10.1001/jama.1995.03530230032026 
+837. Gottesman RF, Albert MS, Alonso A, Coker LH, Coresh J, Davis SM, et al. Associations 
+between midlife vascular risk factors and 25-year incident dementia in the atheroscler-
+osis risk in Communities (ARIC) cohort. JAMA Neurol 2017;74:1246–54. https://doi. 
+org/10.1001/jamaneurol.2017.1658 
+838. Levine DA, Springer MV, Brodtmann A. Blood pressure and vascular cognitive impair-
+ment. Stroke 2022;53:1104–13. https://doi.org/10.1161/strokeaha.121.036140 
+839. Bosch J, O’Donnell M, Swaminathan B, Lonn EM, Sharma M, Dagenais G, et al. Effects of 
+blood pressure and lipid lowering on cognition: results from the HOPE-3 study. 
+Neurology 2019;92:e1435–46. https://doi.org/10.1212/wnl.0000000000007174 
+840. Applegate WB, Pressel S, Wittes J, Luhr J, Shekelle RB, Camel GH, et al. Impact of the 
+treatment of isolated systolic hypertension on behavioral variables. Results from the 
+systolic hypertension in the elderly program. Arch Intern Med 1994;154:2154–60. 
+https://doi.org/10.1001/archinte.1994.00420190047006 
+841. Williamson JD, Pajewski NM, Auchus AP, Bryan RN, Chelune G, Cheung AK, et al. 
+Effect of intensive vs standard blood pressure control on probable dementia: a rando-
+mized clinical trial. JAMA 2019;321:553–61. https://doi.org/10.1001/jama.2018.21442 
+842. Peters R, Beckett N, Forette F, Tuomilehto J, Clarke R, Ritchie C, et al. Incident demen-
+tia and blood pressure lowering in the Hypertension in the Very Elderly Trial cognitive 
+function assessment (HYVET-COG): a double-blind, placebo controlled trial. Lancet 
+Neurol 2008;7:683–9. https://doi.org/10.1016/s1474-4422(08)70143-1 
+843. Lithell H, Hansson L, Skoog I, Elmfeldt D, Hofman A, Olofsson B, et al. The Study on 
+Cognition and Prognosis in the Elderly (SCOPE): principal results of a randomized 
+double-blind intervention trial. J Hypertens 2003;21:875–86. https://doi.org/10.1097/ 
+00004872-200305000-00011 
+844. White WB, Wakefield DB, Moscufo N, Guttmann CRG, Kaplan RF, Bohannon RW, 
+et al. Effects of intensive versus standard ambulatory blood pressure control on cere-
+brovascular outcomes in older people (INFINITY). Circulation 2019;140:1626–35. 
+https://doi.org/10.1161/circulationaha.119.041603 
+845. Tzourio C, Anderson C, Chapman N, Woodward M, Neal B, MacMahon S, et al. 
+Effects of blood pressure lowering with perindopril and indapamide therapy on de-
+mentia and cognitive decline in patients with cerebrovascular disease. Arch Intern 
+Med 2003;163:1069–75. https://doi.org/10.1001/archinte.163.9.1069 
+846. Peters R, Yasar S, Anderson CS, Andrews S, Antikainen R, Arima H, et al. Investigation 
+of antihypertensive class, dementia, and cognitive decline: a meta-analysis. Neurology 
+2020;94:e267–81. https://doi.org/10.1212/wnl.0000000000008732 
+847. Yang W, Luo H, Ma Y, Si S, Zhao H. Effects of antihypertensive drugs on cognitive func-
+tion in elderly patients with hypertension: a review. Aging Dis 2021;12:841–51. https:// 
+doi.org/10.14336/ad.2020.1111 
+848. Iseli R, Nguyen VTV, Sharmin S, Reijnierse EM, Lim WK, Maier AB, et al. Orthostatic 
+hypotension and cognition in older adults: a systematic review and meta-analysis. Exp 
+Gerontol 2019;120:40–9. https://doi.org/10.1016/j.exger.2019.02.017 
+849. Ernst ME, Ryan J, Chowdhury EK, Margolis KL, Beilin LJ, Reid CM, et al. Long-term 
+blood pressure variability and risk of cognitive decline and dementia among older 
+adults. J Am Heart Assoc 2021;10:e019613. https://doi.org/10.1161/jaha.120.019613 
+850. Nakamura K, Stefanescu Schmidt A. Treatment of hypertension in coarctation of the 
+aorta. Curr Treat Options Cardiovasc Med 2016;18:40. https://doi.org/10.1007/s11936- 
+016-0462-x 
+851. Dijkema EJ, Leiner T, Grotenhuis HB. Diagnosis, imaging and clinical management of 
+aortic coarctation. Heart 2017;103:1148–55. https://doi.org/10.1136/heartjnl-2017- 
+311173 
+852. Panzer J, Bové T, Vandekerckhove K, De Wolf D. Hypertension after coarctation 
+repair-a systematic review. Transl Pediatr 2022;11:270–9. https://doi.org/10.21037/ 
+tp-21-418 
+853. Schaefer BM, Lewin MB, Stout KK, Gill E, Prueitt A, Byers P H, et al. The bicuspid aortic 
+valve: an integrated phenotypic classification of leaflet morphology and aortic root 
+shape. Heart 2008;94:1634–8. https://doi.org/10.1136/hrt.2007.132092 
+854. Wang J, Deng W, Lv Q, Li Y, Liu T, Xie M, et al. Aortic dilatation in patients with bi-
+cuspid aortic valve. Front Physiol 2021;12:615175. https://doi.org/10.3389/fphys.2021. 
+615175 
+855. Davies RR, Kaple RK, Mandapati D, Gallo A, Botta DM, Elefteriades JA, et al. Natural 
+history of ascending aortic aneurysms in the setting of an unreplaced bicuspid aortic 
+valve. Ann Thorac Surg 2007;83:1338–44. https://doi.org/10.1016/j.athoracsur.2006. 
+10.074 
+856. Lindman BR, Otto CM. Time to treat hypertension in patients with aortic stenosis. 
+Circulation 2013;128:1281–3. https://doi.org/10.1161/circulationaha.113.005275 
+857. Erbel R, Aboyans V, Boileau C, Bossone E, Di Bartolomeo R, Eggebrecht H, et al. 2014 
+ESC Guidelines on the diagnosis and treatment of aortic diseases: document covering 
+acute and chronic aortic diseases of the thoracic and abdominal aorta of the adult. The 
+Task Force for the Diagnosis and Treatment of Aortic Diseases of the European 
+Society of Cardiology (ESC). Eur Heart J 2014;35:2873–926. https://doi.org/10.1093/ 
+eurheartj/ehu281 
+858. Shores J, Berger KR, Murphy EA, Pyeritz RE. Progression of aortic dilatation and the 
+benefit of long-term beta-adrenergic blockade in Marfan’s syndrome. N Engl J Med 
+1994;330:1335–41. https://doi.org/10.1056/nejm199405123301902 
+859. Groenink M, den Hartog AW, Franken R, Radonic T, de Waard V, Timmermans J, 
+et al. Losartan reduces aortic dilatation rate in adults with Marfan syndrome: a ran-
+domized controlled trial. Eur Heart J 2013;34:3491–500. https://doi.org/10.1093/ 
+eurheartj/eht334 
+860. Pitcher A, Spata E, Emberson J, Davies K, Halls H, Holland L, et al. Angiotensin receptor 
+blockers and β blockers in Marfan syndrome: an individual patient data meta-analysis of ran-
+domised trials. Lancet 2022;400:822–31. https://doi.org/10.1016/s0140-6736(22)01534-3 
+861. Mazzolai L, Rodriguez-Palomares JF, Teixido-Tura G, Lanzi S, Boc V, Bossone E, et al. 
+2024 ESC Guidelines for the management peripheral arterial and aortic diseases. Eur 
+Heart J 2024;45:3538–700. https://doi.org/10.1093/eurheartj/ehae179 
+862. Rechel B, Mladovsky P, Ingleby D, Mackenbach JP, McKee M. Migration and health in an 
+increasingly diverse Europe. Lancet 2013;381:1235–45. https://doi.org/10.1016/s0140- 
+6736(12)62086-8 
+863. Modesti PA, Reboldi G, Cappuccio FP, Agyemang C, Remuzzi G, Rapi S, et al. Panethnic 
+differences in blood pressure in Europe: a systematic review and meta-analysis. PLoS 
+One 2016;11:e0147601. https://doi.org/10.1371/journal.pone.0147601 
+864. Whelton PK, Einhorn PT, Muntner P, Appel LJ, Cushman WC, Diez Roux AV, et al. 
+Research needs to improve hypertension treatment and control in African Americans. 
+Hypertension 2016;68:1066–72. https://doi.org/10.1161/hypertensionaha.116.07905 
+865. Kaufman JS, Cooper RS, McGee DL. Socioeconomic status and health in blacks and 
+whites: the problem of residual confounding and the resiliency of race. Epidemiology 
+1997;8:621–8. 
+866. Agyemang C, van Oeffelen AA, Norredam M, Kappelle LJ, Klijn CJM, Bots ML, et al. 
+Socioeconomic inequalities in stroke incidence among migrant groups: analysis of 
+nationwide data. Stroke 2014;45:2397–403. https://doi.org/10.1161/strokeaha. 
+114.005505 
+4014 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

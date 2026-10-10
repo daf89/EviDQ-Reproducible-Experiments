@@ -1,0 +1,99 @@
+included RCTs. For these reviews, the Cochrane Risk of Bias 2
+tool was used to assess risk of bias for RCTs based on the
+randomization process, deviations from the intended in-
+terventions, missing outcome data, measurement of the
+outcome, and selection of the reported results.927
+The Quality Assessment of Diagnostic Accuracy Studies
+(QUADAS-2) tool was used to assess study limitations of
+diagnostic studies based on the following items928:
+ Could the selection of patients have introduced bias (pa-
+tient selection)?
+ Could the conduct or interpretation of the index test have
+introduced bias (index test)?
+ Could the reference standard, its conduct, or its interpre-
+tation have introduced bias (reference standard)?
+ Couldthepatientﬂowhaveintroducedbias(ﬂowandtiming)?
+ Applicability
+ Are there concerns that the included patients and
+setting do not match the review question?
+ Are there concerns that the index test, its conduct,
+or interpretation differ from the review question?
+ Are there concerns that the target condition as
+deﬁned by the reference standard does not match
+the question?
+The ROBIS tool was used to assess risk of bias in sys-
+tematic reviews based on study eligibility criteria, identiﬁca-
+tion and selection of studies, data collection and study
+appraisal, and overall risk of bias.929
+All risk-of-bias assessments were conducted independently
+by 2 members of the ERT, with disagreements resolved by
+internal discussion and consultation with a third ERT mem-
+ber, as needed.
+Evidence synthesis and meta-analysis. Measures of treatment
+effect. For dichotomous outcomes, a pooled effect estimate
+was calculated as the RR between the trial arms of RCTs, with
+each study weighted by the inverse variance, using a random-
+effects model with the DerSimonian and Laird formula for
+calculating
+between-study
+variance.930
+For
+continuous
+outcomes, a standardized mean difference was calculated by
+using a random-effects model with the DerSimonian and
+Laird formula.930
+Data synthesis. Meta-analysis was conducted if there were 2
+or more studies that were sufﬁciently similar with respect to
+key variables (population characteristics, study duration, and
+comparisons).
+We combined studies of interventions in the same class
+when reporting outcomes. If there was substantial heteroge-
+neity (I2 >50%) in pooled estimates for any outcome, we
+stratiﬁed by the type of intervention before conducting the
+pooled analyses.
+Pooled sensitivity and speciﬁcity was calculated using a
+random-effects model in studies addressing biopsy diagnosis
+and prognosis using the Freeman-Tukey double arcsine
+transformation to calculate the pooled estimate.931 The
+binomial exact method to calculate the CIs was used.932
+Included RCTs:
+• SGLT2: 79 RCTs (278 reports)
+• MRA (without type 2 diabetes): 19 RCTs (33 reports)
+• GLP-1 (without type 2 diabetes): 0 RCTs
+• Uric acid: 30 studies (32 reports)
+• Aspirin: 5 RCTs
+• Angiography: 5 RCTs (7 reports)
+• NOAC: 7 RCTs (13 reports)
+Included nonrandomized studies:
+• Biopsy: 65 studies*
+• eGFR: 47 studies (48 reports)
+• ACR_PCR: 0 studies
+• POC creatinine: 55 studies
+• POC dipstick: 65 studies (66 reports)
+Included studies:
+RCTs: 145 (368 reports)
+Non-randomized: 232 studies (234 reports)
+* 38 studies included in the analyses
+Nonrandomized studies (cross-sectional, pre-post, 
+prospective observational, noncomparative):
+• PubMed: 4944
+• Embase: 5196
+• CINAHL: 146
+• Central: 82
+• Other reviews: 68
+• Handsearching: 74
+Randomized controlled trials identified from databases:
+• PubMed: 7030
+• Embase: 5716
+• Cochrane Central: 6999
+• KDIGO Diabetes 2022 GL: 393
+• Other reviews: 153
+• Handsearching: 60
+Figure 57 | Search yield and study ﬂow diagram. ACR, albumin-to-creatinine ratio; CINALL, Cumulative Index to Nursing and Allied Health
+Literature; eGFR, estimated glomerular ﬁltration rate; GLP-1, glucagon-like peptide-1; KDIGO, Kidney Disease: Improving Global Outcomes; MRA,
+mineralocorticoid antagonists; NOAC, non–vitamin K antagonist oral anticoagulant; PCR, protein-to-creatinine ratio; POC, point of care; RCT,
+randomized controlled trial; SGLT2, sodium-glucose cotransporter-2.
+www.kidney-international.org
+methods for guideline development
+Kidney International (2024) 105 (Suppl 4S), S117–S314
+S279

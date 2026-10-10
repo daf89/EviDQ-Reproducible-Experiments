@@ -1,0 +1,77 @@
+Lexique
+HAS • Manuel : Certification des établissements de santé • Version 2024
+293
+Libellé
+Définition
+Personne de confiance 
+(la) 
+La réglementation (article L. 1111-6 du CSP) attribue deux rôles à la personne de confiance : si le malade 
+le souhaite, la personne de confiance peut l’accompagner dans ses démarches et assister aux entretiens 
+médicaux afin de l’aider dans ses décisions. Elle sera consultée au cas où le patient serait hors d’état 
+d’exprimer sa volonté.
+La consultation de la personne de confiance est requise pour les personnes hors d’état d’exprimer leur 
+volonté : dans les situations hors fin de vie : pour toute intervention ou investigation ; dans les situations de fin 
+de vie : pour la limitation ou l’arrêt de traitement. L’avis de la personne de confiance prévaut sur tout autre avis 
+non médical, à l’exclusion des directives anticipées, lorsqu’une personne est en phase avancée ou terminale 
+d’une affection grave et incurable.
+Pertinence des soins 
+(revue de)
+Méthode permettant d’évaluer l’adéquation des soins et des durées d’hospitalisation aux besoins des patients. 
+Elle s’applique à un soin ou un programme de soins et peut porter sur l’indication, l’initiation ou la poursuite 
+des soins. Elle vise à établir, dans la gestion d’un système de soins, un équilibre entre les besoins particuliers 
+d’un patient et les ressources disponibles.
+Plan blanc 
+Niveau 2 du plan de gestion des tensions hospitalières et des SSE, permet la mobilisation de toutes les 
+capacités de l’établissement (moyens humains et logistiques) dans le cadre d’une organisation spécifique 
+pilotée par une CCH structurée. Il permet d’assurer la prise en charge des patients lors d’événements graves 
+et/ou inhabituels tout en maintenant la continuité et la qualité des soins, des patients non directement 
+impliqués dans l’événement, par la mobilisation au plus juste des ressources nécessaires. Il permet aussi de 
+préserver la sécurité des patients et des personnels (ex. : afflux de victimes potentiellement contaminées).
+Plan de prévention
+Démarche de prévention globale qui permet de repérer les facteurs de risque propres à chaque activité 
+et qui implique de mettre en place des moyens de prévention adaptés. Il s’applique aux professionnels 
+travaillant en établissement de soins (hôpital ou clinique) qui sont potentiellement exposés à des risques 
+infectieux, à des produits chimiques, aux risques physiques, aux risques psychosociaux (RPS), aux troubles 
+musculosquelettiques (TMS).
+Politique qualité
+Orientations et objectifs généraux de qualité exprimés par la direction et formalisés dans un document écrit. 
+La politique qualité définit ainsi les orientations et les enjeux poursuivis en termes de satisfaction 
+des bénéficiaires.
+Prévention
+Ensemble des moyens médicaux, médicosociaux et sanitaires destinés à prévenir la survenue d’une maladie 
+(prévention primaire) ou à en empêcher sa propagation (prévention secondaire).
+Précarité sociale
+Absence d’une ou plusieurs des sécurités permettant aux personnes et familles d’assumer leurs 
+responsabilités élémentaires et de jouir de leurs droits fondamentaux. L’insécurité qui en résulte peut-être plus 
+ou moins étendue et avoir des conséquences plus ou moins graves et définitives.
+Presque accident 
+Un « presqu'accident » est défini comme un EIAS qui n’a pas provoqué de dommage. Le « presqu'accident » 
+est parfois également appelé « presqu'atteinte » car les actes réalisés auraient pu causer un événement 
+indésirable si des mesures correctives n’avaient pas été prises à temps. 
+Procédure 
+Manière spécifiée d’effectuer une activité ou un processus.
+Processus 
+Ensemble d’activités corrélées ou interactives qui transforment des éléments d’entrée en éléments de sortie. 
+Proche-aidant
+Personne qui consacre régulièrement de son temps par défaut ou par choix pour aider au quotidien un être 
+atteint dans sa santé et/ou son autonomie.
+Produits sanguins labiles 
+Produits issus du sang d’un donneur, destinés à être transfusés à un patient. Il s’agit notamment du sang total, 
+du plasma et des cellules sanguines d’origine humaine.
+Parmi ces produits, on distingue les produits autologues, destinés au donneur lui-même, des produits 
+homologues, destinés à une autre personne que le donneur.
+La liste et les caractéristiques des produits sanguins labiles pouvant être distribués ou délivrés à des fins 
+thérapeutiques sont fixées par décision de l’Agence nationale de sécurité du médicament (ANSM) après avis 
+de l’Établissement français du sang (EFS). En effet, ils ne sont pas régis par les mêmes règles puisque 
+les produits sanguins stables sont considérés comme des médicaments.
+Produits de santé
+Ensemble des produits, substances, plantes et dispositifs présentés comme possédant des propriétés 
+curatives, préventives, diagnostiques, cosmétiques, hygiéniques ou diététiques et susceptibles d’être utilisés, 
+chez l’homme ou chez l’animal, en vue d’améliorer son état de santé et/ou son bien-être.
+Protocole de soins
+Description étape par étape d’une thérapie, scientifiquement validée, pour traiter une maladie. Il fournit 
+une réponse standard face à des symptômes précis d’une maladie. Il résulte d’un consensus de 
+professionnels de la santé et revient à officialiser une bonne pratique, pour un acte aussi bien médical que 
+paramédical. Sous l’angle de l’Assurance maladie, le protocole de soins désigne le formulaire qui justifie 
+une prise en charge de certaines dépenses de santé à 100 % de type ALD (affection de longue durée).
+En savoir plus : https://bonne-assurance.com/mutuelle/lexique/protocole-de-soins.

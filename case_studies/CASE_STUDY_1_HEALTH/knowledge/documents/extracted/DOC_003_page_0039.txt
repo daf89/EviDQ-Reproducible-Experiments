@@ -1,0 +1,120 @@
+In addition, excluding pseudo-resistance is a prerequisite. Specifically, 
+pseudo-resistance indicates poor adherence to BP-lowering treatment, 
+which should be verified by careful questioning of the patient in the first 
+instance (Section 7.4.3).257 In addition, white-coat hypertension must be 
+excluded.263 Contributors to pseudo-resistance are listed in Table 11. 
+Objective evaluation of adherence (either directly observed treatment 
+or detecting prescribed drugs in blood or urine samples) should also 
+be considered, if resources allow. 
+The work-up of patients presumed to have resistant hypertension is 
+complex and often requires technologies that are not available to 
+GPs.257,309 Accordingly, we recommend these patients are referred 
+to specialized centres. 
+7.6. Secondary hypertension: when to 
+screen/further investigations 
+7.6.1. General considerations 
+Secondary hypertension is more prevalent than previously thought 
+(Figures 13–15).312–317 Depending on the definition used and the 
+cohort studied, the prevalence of secondary hypertension is 10%–35% in 
+all hypertensive patients318,319 and up to 50% of patients with resistant 
+hypertension (though the latter prevalence estimate included persons 
+with eGFR < 40 mL/min/1.73 m2).312 Primary aldosteronism is a 
+common cause,315,320 with, e.g. a high prevalence of hyperaldosteron-
+ism (up to 12%) observed in patients with BP of >180/110 mmHg.316 
+Despite these numbers, screening rates for primary aldosteronism, 
+even in high-risk groups such as those with resistant hypertension321 
+and hypokalaemia,322 are low (around 2% and 4% of eligible patients, 
+respectively). In most healthcare systems, GPs are typically the ‘gate-
+keeper’ of access to specialized care and should be involved in screen-
+ing patients for common causes of secondary hypertension, especially 
+sleep apnoea and primary aldosteronism (Supplementary data online, 
+Tables S2 and S3). Primary aldosteronism is associated with an increased 
+risk of CVD events, which may be partly independent of BP.323,324 
+7.6.2. Primary aldosteronism 
+Though spontaneous or diuretic-induced hypokalaemia are strongly 
+suggestive of primary aldosteronism, a history of hypokalaemia is 
+not present in most patients diagnosed with this condition. The 
+aldosterone-to-renin ratio (ARR) is thus recommended for primary 
+aldosteronism screening (see Figure 13).325 This test can easily be done 
+in treatment-naïve patients, though it is far more common for the 
+ARR test to be considered when patients are already being treated for 
+elevated BP or hypertension. This is relevant because ARR can be influ-
+enced by the drugs being taken at the time of testing. Accordingly, there 
+are 2 approaches to screen for aldosteronism among patients who are 
+already undergoing treatment for elevated BP or hypertension: 
+• The first is to conduct ARR testing in treated patients with an indication 
+for aldosteronism screening as efficiently as possible and without chan-
+ging or stopping their baseline BP-lowering medications, simply to facili-
+tate such testing. The ARR result then needs to be interpreted in the 
+context of the specific medication(s) the patient is taking. Advantages 
+of this approach include reducing barriers to screening and no change 
+in medication in these patients, many of whom do not have BP con-
+trolled and in whom further deterioration in their BP control by stop-
+ping or changing medication may increase risk of CVD. Disadvantages 
+include the interpretation of the ARR result, which depends on the spe-
+cific medications taken at the time of testing.326 Input from a hyperten-
+sion specialist or endocrinologist may be necessary. 
+Recommendation Table 12 — Recommendations for 
+resistant hypertension work-up (see Evidence Table 18) 
+Recommendation 
+Classa 
+Levelb 
+Patients with resistant hypertension should be 
+considered for referral to clinical centres with expertise 
+in hypertension management for further testing.309,312 
+IIa 
+B 
+© ESC 2024
+aClass of recommendation. 
+bLevel of evidence. 
+Table 10 Current definition of resistant hypertension 
+Definition of resistant hypertension 
+Hypertension is defined as resistant when a treatment strategy including 
+appropriate lifestyle measures and treatment with maximum or maximally 
+tolerated doses of a diuretic (thiazide or thiazide-like), a RAS blocker, and a 
+calcium channel blocker fail to lower office systolic and diastolic BP values to 
+<140 mmHg and/or <90 mmHg, respectively. These uncontrolled BP values 
+must be confirmed by out-of-office BP measurements (HBPM or ABPM— 
+Section 5.1 for relevant BP thresholds). 
+Key considerations 
+• Resistant hypertension is not a disease, but an indicator that should be 
+used to identify patients at high risk for CVD, in which secondary 
+hypertension is also frequent; 
+• Pseudo-resistant hypertension must be excluded, including that caused by 
+non-adherence to treatment; 
+• In patients with decreased eGFR (i.e. <30 mL/min/1.73 m2) an adequately 
+up-titrated loop diuretic is necessary to define resistant hypertension; 
+• Patients with suspected resistant hypertension should be referred to 
+specialized centres; 
+• These ESC Guidelines do not include the terms ‘controlled resistant 
+hypertension’ (BP at target but requiring ≥4 medications) or ‘refractory 
+hypertension’ (BP not at target despite ≥5 medications). 
+© ESC 2024
+ABPM, ambulatory blood pressure monitoring; BP, blood pressure; CVD, cardiovascular 
+disease; eGFR, estimated glomerular filtration rate; HBPM, home blood pressure 
+monitoring; RAS, renin–angiotensin system. 
+Table 11 Conditions found to cause pseudo-resistance 
+or resistance to blood pressure-lowering treatment 
+Causes of pseudo-resistant hypertension 
+Poor adherence to and persistence with treatment 
+White-coat phenomenon 
+Poor BP measurement method 
+Marked brachial artery calcification (Osler phenomenon) 
+Clinician inertia (inadequate doses, inappropriate combinations of 
+BP-lowering drugs) 
+Munchausen syndrome (rare) 
+Causes of resistant hypertension 
+Behavioural factors 
+Overweight/obesity 
+Physical inactivity 
+Excess daily dietary sodium 
+Excess habitual alcohol consumption 
+Use of drugs or substances that may increase BP 
+See Supplementary data online, Table S4 
+Undetected secondary hypertension 
+See Table 13 
+© ESC 2024
+BP, blood pressure. 
+3950 
+ESC Guidelines 
+Downloaded from academic.oup.com/eurheartj/article/45/38/3912/7741010 by guest on 27 August 2026

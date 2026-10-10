@@ -1,0 +1,123 @@
+
+
+===== PDF PAGE 487 =====
+
+Part 7: Glossary 
+Section 1: Glossary of Terms Used in STEPS 
+Last Updated: 26 January 2017 
+7-1-4 
+WHO STEPS Surveillance 
+ 
+ 
+Term 
+Definition 
+Sampling error 
+Sampling errors arise from estimating a population characteristic by 
+looking at only one portion of the population rather than the entire 
+population. It refers to the difference between the estimate derived from a 
+sample survey and the 'true' value that would result if a census of the 
+whole population were taken under the same conditions. 
+Sampling frame 
+A list of the units in the target population, for example an electoral roll, a 
+population register, or a telephone book. For the sample to be 
+representative of the target population, the sampling frame should include 
+all people in the population  (or sub-population) only once, will not  
+include people who do not belong to that population, and will be up-to- 
+date. 
+Sampling unit 
+The objects being selected for a survey.  These units must cover the 
+whole of the population and not overlap, i.e. every element in the 
+population belongs to one, and one only, unit. In a simple random  
+sample, the sampling units are the individuals themselves. In cluster 
+sampling, it may be villages or other localities. In multi-stage sampling, 
+the sampling units differ at each level of sampling. 
+Sampling weight 
+Sampling weights are weights that denote the inverse of the probability of 
+selection. 
+Secondary 
+sampling units 
+(SSU) 
+The sampling units used for selection after the primary sampling units. 
+Serving (of fruit or 
+vegetable) 
+For vegetables this refers to one cup of raw, leafy green vegetables, 
+(spinach, salad etc.), one half cup of other vegetables, cooked or raw 
+(tomatoes, pumpkin, beans etc.), or a half cup of vegetable juice. For 
+fruits, this refers to one medium-sized piece of fruit (banana, apple, kiwi 
+etc.) or a half cup of raw, cooked or canned fruit or a half cup of juice 
+from a fruit (not artificially flavored). 
+Simple random 
+sampling (SRS) 
+A probabilistic sampling method with only one stage of selection in 
+which every member of the population has an equal chance. 
+Skew 
+A distribution of values that is asymmetric and therefore non-normal. 
+Because many of the formulae for estimation are based on assumptions 
+about normal distributions, skewness can seriously distort population 
+estimates, and there must be a strategy for checking and coping with 
+skewed data. 
+Standard deviation 
+(SD) 
+A measure of dispersion, or variation. It is equal to the positive square 
+root of the variance. It is a summary of how widely dispersed the values 
+are around the mean. 
+Standard drink 
+The net alcohol content of a standard drink is generally 10g of ethanol 
+depending on the country. This is the equivalent of 1 regular beer 
+(285ml), a single measure of spirits (30 ml), a medium-sized glass of 
+wine (120 ml), or a measure of aperitif (60 ml). 
+Standard error 
+(SE) 
+A standard error is the standard deviation of an estimate, e.g. a mean. It 
+can be used to calculate confidence intervals. 
+Strata 
+The plural form of stratum. 
+
+
+===== PDF PAGE 488 =====
+
+Part 7: Glossary 
+Section 1: Glossary of Terms Used in STEPS 
+Last Updated: 26 January 2017 
+7-1-5 
+WHO STEPS Surveillance 
+ 
+ 
+Term 
+Definition 
+Stratification 
+Process of dividing the sampling frame into mutually exclusive 
+subgroups or strata. The sample is then drawn either proportionately or 
+disproportionately from all strata. 
+Stratum 
+A partition of the population used in stratified sampling. 
+Systematic error 
+Systematic (one-sided) variation of measurements from the true values, 
+leading to a biased estimate. 
+Systematic 
+sampling 
+A probability sample  selection  method in which the  sample is obtained 
+by selecting every kth unit of the population, where k is an integer greater 
+than 1. For example if k is 15 and the first unit is number 13, then 
+subsequent units are 28, 43, 58 and so on. The first member of the sample 
+must be selected randomly from within the first k units  (a random start).   
+If the target sample size is reached before all the kth members have been 
+surveyed, recruitment must continue until all those selected have been 
+surveyed. 
+Target population 
+The population from which the sample population is drawn. If the 
+sample has been drawn correctly, the estimates obtained from the survey 
+should be representative of the target population. 
+Variable 
+One item of information stored in a dataset, for example age or sex. 
+Variables may be categorical or continuous, but should be clearly defined 
+and consistently recorded. 
+Variance 
+A measure of the variation shown by a set of observations. The standard 
+deviation is calculated by taking the square root of the variance. 
+Vigorous intensity 
+activity 
+Refers to activities which take hard physical effort and which make you 
+breathe much harder than normal. Examples include loading furniture, 
+digging, playing football, tennis or fast swimming. Vigorous activities 
+require an energy expenditure of greater than 6 METs. 

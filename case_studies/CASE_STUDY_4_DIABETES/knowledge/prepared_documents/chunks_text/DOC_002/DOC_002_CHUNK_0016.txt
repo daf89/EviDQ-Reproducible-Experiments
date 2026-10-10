@@ -1,0 +1,117 @@
+
+
+===== PDF PAGE 31 =====
+
+Indicators and metadata  ﻿
+19
+2. 	 Existence and implementation of policies and/or legislation for diabetes 
+prevention
+Indicator name
+Existence and implementation of policies and/or legislation for 
+diabetes prevention
+Purpose
+To assess the availability of governance mechanisms for diabetes prevention.
+Definition
+Country has adopted policies and/or legislation aimed at preventing diabetes 
+and its risk factors, and the policies and/or legislation are currently being 
+implemented.
+National diabetes prevention policies include the country’s vision, priorities, 
+budgetary decisions and course of action for diabetes prevention. A policy or 
+legislation may be an independent diabetes prevention policy/legislation or part 
+of a comprehensive noncommunicable diseases policy/legislation.
+This indicator excludes assessment of tax laws.
+Numerator
+Not applicable
+Denominator
+Not applicable 
+Method of estimation
+Country can respond “Yes” to the question “Has the country adopted national 
+policies and/or legislation aimed at preventing diabetes and its risk factors?” and 
+needs to provide a copy of the policies and legislations and the latest report on 
+their implementation.
+Existence of policies and/or legislation is validated by examining policy/
+legislation documents and implementation is validated by examining the latest 
+report detailing the execution of policies and legislations.
+The indicator is considered “Yes” if the country has adopted policies and/or 
+legislation aimed at preventing diabetes and its risk factors, that are currently 
+being implemented.
+The indicator is considered “Partially yes” if the country has adopted policies 
+and/or legislation aimed at preventing diabetes and its risk factors, but these are 
+not currently being implemented.
+The indicator is considered “No” if the country has not adopted policies and/or 
+legislation.
+Disaggregation
+Policy/legislation
+Sources of data
+NCD country capacity survey, other survey, country report 
+Limitations/comments
+An acceptable minimum number of policies and/or legislation implemented 
+according to plan must be defined every evaluation period to consider the 
+policies and/or legislation as currently implemented.
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+
+
+===== PDF PAGE 32 =====
+
+20
+Guidance on global monitoring for diabetes prevention and control: framework, indicators and application
+3. 	 Existence and enforcement of health taxes on alcoholic beverages, tobacco, 
+sugar-sweetened beverages, foods high in saturated fats, trans fats, free 
+sugars and/or salt
+Indicator name
+Existence and enforcement of health taxes on alcoholic beverages, tobacco, 
+sugar-sweetened beverages, ultra-processed food, foods high in saturated 
+fats, trans fats, free sugars and/or salt
+Purpose
+To assess the availability of governance mechanisms for reducing risk factors for 
+diabetes and diabetes-related complications.
+Definition
+Country has adopted health taxes on one or more of the following items: 
+alcoholic beverages, tobacco, sugar-sweetened beverages, foods high in 
+saturated fats, trans fats, foods high in free sugars, foods high in salt, and these 
+health taxes are being enforced. 
+	
+●
+Health taxes are excise taxes levied on products that have a negative 
+public health impact, for example, tobacco, alcohol and other non-
+alcoholic beverages and food products high in sugar, saturated fats, trans 
+fats and/or salt.
+Numerator
+Not applicable
+Denominator
+Not applicable
+Method of estimation
+Country can respond “Yes” to the question “Has the country adopted health 
+taxes on alcoholic beverages, tobacco, sugar-sweetened beverages, ultra-
+processed foods, foods high in saturated fats, trans fats, free sugars and/or salt?”, 
+and needs to provide a copy of the tax policy/legislation and the latest report on 
+enforcement of health taxes.
+Existence of health taxes is validated by examining tax legislation documents 
+and implementation is validated by examining the latest report(s) detailing the 
+enforcement of health taxes.
+The indicator is considered “Yes” if the country has adopted health taxes 
+on at least one type of forementioned products and the health taxes are 
+being enforced.
+The indicator is considered “Partially yes” if the country has adopted health taxes 
+on at least one type of forementioned products, but the health taxes are not 
+being enforced.
+The indicator is considered “No” if the country has not adopted health taxes on 
+at least one type of forementioned products. 
+Disaggregation
+Type of product, administrative level (district, provincial, or national) 
+Sources of data
+NCD country capacity survey, other survey, country report 
+Limitations/comments
+None
+Related links
+WHO Noncommunicable disease surveillance, monitoring and reporting: 
+NCD country capacity survey [website]. Geneva: World Health Organization; 
+2023 (https://www.who.int/teams/ncds/surveillance/monitoring-capacity/
+ncdccs, accessed 26 May 2024).
+WHO Global Health Observatory: Health taxes [website]. Geneva: World Health 
+Organization; 2024 (https://www.who.int/data/gho/data/themes/health-taxes, 
+accessed 26 May 2024).

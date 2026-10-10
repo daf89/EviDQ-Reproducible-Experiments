@@ -1,0 +1,21 @@
+feature,n_unique,top_values
+registration_number,1800,SIM-P00286:3 | SIM-P00849:2 | SIM-P00096:2 | SIM-P00115:2 | SIM-P01096:2 | SIM-P00113:2 | SIM-P01423:2 | SIM-P00826:2 | SIM-P00402:2 | SIM-P01420:2
+disease_id,1890,SIM-D00847:2 | SIM-D01456:2 | SIM-D00208:2 | SIM-D01147:2 | SIM-D01333:2 | SIM-D01420:2 | SIM-D01639:2 | SIM-D00446:2 | SIM-D00297:2 | SIM-D01634:2
+sex_name,2,Male:1129 | Female:773
+birth_date,1714,1943-03-05:4 | 1966-01-04:3 | 1944-09-24:3 | 1948-08-05:3 | 1943-05-19:3 | 1952-07-10:3 | 1943-11-26:3 | 1938-01-05:3 | 1947-07-11:3 | 1944-05-04:3
+vital_status_name,4,Dead:1672 | Alive:187 | Lost to follow-up:24 | Temporary record / unknown:19
+death_date,1381,nan:206 | 2021-01-30:7 | 2012-09-20:5 | 2017-11-30:5 | 2013-09-19:4 | 2020-04-01:4 | 2013-11-05:4 | 2017-12-30:3 | 2016-05-01:3 | 2021-03-22:3
+diag_date,1475,2020-12-31:14 | 2017-06-12:5 | 2019-02-19:5 | 2015-02-06:4 | 2019-05-02:4 | 2012-04-01:4 | 2017-05-15:4 | 2019-10-04:4 | 2015-04-29:4 | 2013-10-18:4
+diag_date_valid_name,1,FULL DATE VALID:1902
+mkb10_code,7,C34.1:579 | C34.3:494 | C34.9:450 | C34.2:145 | C34.0:109 | C34.8:84 | C33:41
+mkb10_name,7,"Upper lobe, bronchus or lung:579 | Lower lobe, bronchus or lung:494 | Bronchus or lung, unspecified:450 | Middle lobe, bronchus or lung:145 | Main bronchus:109 | Overlapping lesion of bronchus and lung:84 | Malignant neoplasm of trachea:41"
+mkb10_3char,2,C34:1861 | C33:41
+histology_code,14,8250/3:277 | 8041/3:264 | 8140/3:251 | 8260/3:242 | 8072/3:168 | 8070/3:159 | 8071/3:132 | 8000/3:74 | 8010/3:71 | nan:62
+icdo3_m_code,14,8250/3:277 | 8041/3:264 | 8140/3:251 | 8260/3:242 | 8072/3:168 | 8070/3:159 | 8071/3:132 | 8000/3:74 | 8010/3:71 | nan:62
+icdo3_m_name,14,"Lepidic adenocarcinoma:277 | Small cell carcinoma, NOS:264 | Adenocarcinoma, NOS:251 | Papillary adenocarcinoma, NOS:242 | Squamous cell carcinoma, nonkeratinizing, NOS:168 | Squamous cell carcinoma, NOS:159 | Squamous cell carcinoma, keratinizing, NOS:132 | Neoplasm, malignant:74 | Carcinoma, NOS:71 | nan:62"
+registry_stage_name,4,Metastatic:638 | Localized:552 | Regional:531 | No data:181
+stage_definition_code,2,SCR_STAGE_V1:1332 | SCR_STAGE_V2:570
+stage_definition_name,2,"Registry stage definition, earlier period:1332 | Registry stage definition, later period:570"
+diagnosis_method_name,5,Histological examination of primary tumour:1301 | Cytological examination:234 | Histological examination of metastasis:158 | Other diagnostic examinations:132 | Clinical:77
+finding_name,5,Clinical signs:1590 | Other:160 | Autopsy:57 | Unknown:53 | Cause-of-death report:42
+administr_unit,7,Ljubljana:294 | Murska Sobota:285 | Celje:275 | Novo mesto:270 | Kranj:266 | Maribor:265 | Koper:247

@@ -1,0 +1,131 @@
+
+
+===== PDF PAGE 173 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-13 
+WHO STEPS Surveillance 
+Demographic Information (Step 1) 
+ 
+ 
+ 
+Introduction 
+Accurate core demographic information is essential for analysing and 
+reporting on the overall results of the STEPS survey. 
+If the age and sex of a participant cannot be recorded, their responses cannot 
+be used in the analysis, as most analyses report results that are grouped by 
+these variables. 
+ 
+ 
+Core 
+demographic 
+information 
+The core demographic information that is captured with the STEPS 
+Instrument includes: 
+• sex 
+• age 
+• years spent at school. 
+ 
+ 
+ 
+Dates of birth 
+and age 
+In some countries, some individuals may not know their exact dates of birth 
+and/or age. In these situations their age has to be estimated. To estimate 
+someone's age, the interviewer will need to ask them how old, or at what   
+stage in life they were at the time that a number of widely known major local 
+events occurred. 
+ 
+ 
+ 
+Expanded 
+demographic 
+information 
+Expanded demographic information includes: 
+• highest level of education 
+• ethnic/racial group 
+• marital status 
+• work status 
+• household earnings. 
+ 
+Please note that it will be easier for respondents to answer the question on 
+work status if a list of work status is used (see Part 5, Section 3 "Show 
+Cards"). 
+Some of the expanded demographic questions will have been adapted for 
+your country so the terms and phrases make sense to participants in your 
+environment, e.g., insertion of country specific examples for work status. 
+ 
+ 
+ 
+Automatic 
+skips 
+The Android devices include the following automatic skips in the 
+demographic information section of the STEPS Instrument: 
+• C2: If date of birth is known, C3 ("How old are you?") is skipped; 
+• C10a-d: If average earnings of the household are known, C11 (income 
+quintiles) is skipped. 
+ 
+ 
+
+
+===== PDF PAGE 174 =====
+
+Part 3: Data Collection 
+Section 4: Collecting Step 1 data: Interviews 
+Last Updated: 26 January 2017 
+3-4-14 
+WHO STEPS Surveillance 
+Behavioural Measurements (Step 1) 
+ 
+ 
+ 
+Introduction 
+The behavioural measures in the STEPS Instrument relate to risky behaviour 
+with regards to NCDs.  In particular, they are designed to record details  
+about: 
+ 
+• tobacco use 
+• alcohol consumption 
+• fruit and vegetable consumption 
+• salt intake 
+• physical activity 
+• history of raised blood pressure, diabetes, raised total cholesterol and 
+cardiovascular diseases 
+• lifestyle advice 
+• cervical cancer screening. 
+ 
+For the rationale for capturing information on these topics, see Part 1, 
+Section 1. 
+ 
+ 
+Core questions 
+The STEPS Instrument includes core questions for each of the following: 
+ 
+• tobacco use 
+• alcohol consumption 
+• fruit and vegetable consumption 
+• salt intake 
+• physical activity 
+• history of raised blood pressure, diabetes, raised total cholesterol and 
+cardiovascular diseases 
+• lifestyle advice 
+• cervical cancer screening. 
+ 
+The core questions of each are explained in detail in this section below. 
+ 
+ 
+Expanded 
+questions 
+The behavioural measurements section of the STEPS Instrument includes 
+expanded questions for each of the following: 
+ 
+• tobacco use 
+• alcohol consumption 
+• salt intake 
+• sedentary behavior. 
+ 
+The expanded questions of each are explained in detail in this section below. 
+ 
+Continued on next page 

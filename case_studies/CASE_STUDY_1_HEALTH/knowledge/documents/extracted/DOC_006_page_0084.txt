@@ -1,0 +1,62 @@
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T
+S E C T I O N 6 : E H R U S E C A S E S F O R Q U A L I T Y I M P R O V E M E N T 
+EHR Element 
+Description 
+• 
+Assessment and billing codes applied to an encounter may indicate what 
+assessments were done and needs identified. 
+• 
+Records of outside assessment, counseling, specialty care, and 
+community services may not be incorporated into the clinics EHR. 
+Health Concerns 
+• 
+Routine collection of self-reported assessments for behavioral 
+(depression, anxiety, substance use), social/community needs, and 
+disability status are becoming more common in primary care settings. 
+Medications 
+• 
+Certain medications may indicate a positive finding for behavioral health 
+concerns (anti-depressants) and substance use (naltrexone). 
+Patient Demographics • 
+Screening tools are often validated for specific age groups (CRAFFT for 
+adolescents versus AUDIT for adults) or scored by gender (alcohol 
+consumption). 
+Problems 
+• 
+Used to identify individuals with or without specific behavioral 
+conditions or diagnosed substance dependency. 
+• 
+Diagnosis coding standards for SDOH are still in development and may 
+not be represented on a problem list. 
+• 
+Expect variation in how individual providers document “diagnoses” for 
+behavioral conditions, substance use, and social needs using EHR 
+problem lists. 
+Social Determinants 
+of Health 
+• 
+Version 2.0 of the USCDI explicitly creates new data elements to capture 
+and exchange SDOH information as structured data. 
+• 
+To be useful for QI, SDOH data must be recorded as structured data 
+either directly from the questionnaire (an electronic form) or re-entered 
+by staff or clinicians. 
+• 
+Terminology and coding standards for SDOH domains are being 
+developed and may not be fully implemented by the vendor. 
+• 
+Race, ethnicity, language, and disability is often recorded as a 
+demographic data element. 
+6.3 
+Tips for Health IT Advisors on Using EHR for Quality Improvement 
+Earlier in the handbook we made five statements about how EHRs might be used by Health IT Advisors 
+to support QI projects. Here, we returnto these broad generalizations andprovide some practicaltips 
+for effectively using the EHR as a tool for practice transformation. 
+1. EHRs may provide a wide range of demographic, clinical, administrative, and financial data 
+useful for QI: 
+• 
+Once you have a grasp on the goals, objectives, and data requirements for a project, create 
+a written data plan explicitly listing the data elements that will be needed. Use this list to 
+determine whether the EHR can supply these data, and in a form you can use. 
+Health IT Advisor Handbook 
+Page 79

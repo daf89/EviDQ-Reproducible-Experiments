@@ -1,0 +1,85 @@
+Foreword
+Kidney International (2024) 105 (Suppl 4S), S117–S314; https://doi.org/10.1016/j.kint.2023.10.018
+Copyright ª 2023, Kidney Disease: Improving Global Outcomes (KDIGO). Published by Elsevier Inc. on behalf of the International Society of Nephrology. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The Kidney Disease: Improving Global Outcomes (KDIGO)
+organization was established in 2003 with the mission to
+improve the care and outcomes of people living with kidney
+disease worldwide. The development and implementation of
+global clinical practice guidelines is central to the many ac-
+tivities of KDIGO to fulﬁll its mission. Twenty years later, we
+are excited to present this update of the KDIGO Clinical
+Practice Guideline for the Evaluation and Management of
+Chronic Kidney Disease (CKD) to complement the existing
+12 guidelines that address various other facets of kidney
+disease management.
+Our aspiration is that the KDIGO CKD Guideline serves as
+a comprehensive reference for evidence-based practices, of-
+fering clear and valuable guidance for the optimal diagnosis
+and treatment of CKD. The updated guideline is the result of
+a rigorous process, extensively detailed in the KDIGO
+Methods Manual. To promote objectivity and transparency,
+we screen Guideline Co-Chairs and Work Group members
+(which include clinicians, researchers, and patients) for con-
+ﬂicts of interest. Over a span of 2–3 years, these individuals
+volunteer their time, starting with the creation of a Scope of
+Work that undergoes an open public review to engage all
+stakeholders. This document is then adapted into a Request
+for Proposal, which is used to enlist an independent Evidence
+Review Team.
+The Evidence Review Team conducts a systematic review of
+existing literature, extracting studies with appropriate design
+and outcomes deemed important by both people with CKD
+and clinicians. All work is meticulously graded on study
+quality and potential bias, forming the basis for quantifying
+the overall certainty of the evidence using the “Grading of
+Recommendations Assessment, Development, and Evalua-
+tion” (GRADE) approach. The penultimate version of the
+guideline also undergoes public review to capture additional
+perspectives. Thus, guidelines are the result of a rigorous and
+objective assessment of available evidence, enriched by the
+collective expertise of healthcare providers, researchers, and
+patients alike. Guideline statements (“We recommend” or
+“We suggest”) reﬂect clinical questions that were addressed by
+the evidence reviews from the Evidence Review Team. Practice
+points provide guidance on clinical questions that were not,
+and largely could not be, studied by the Evidence Review
+Team.
+We view the current guideline as a dynamic, evolving
+resource rather than a static document. We are delighted by the
+recent pace of clinical discovery that substantially increased the
+scientiﬁc basis of optimal CKD diagnosis and management,
+and we remain committed to updating recommendations and
+practice points as important evidence emerges. We hope that
+the guideline will serve as a useful tool for clinicians in their
+daily practice, providing clear insight into the evidence-based
+recommendations while highlighting areas requiring further
+research. Ultimately, our aim is to facilitate more effective and
+consistent care to patients with CKD worldwide, and the
+publication of the CKD Guideline will provide the foundation
+of many dissemination and implementation activities to in-
+crease the outreach and usefulness of this work.
+We extend our heartfelt gratitude for all those who have
+contributed to the CKD Guideline. First, to the members of
+the Methods Committee, particularly Dr. Marcello Tonelli,
+MD, SM, MSc, Chair of the Committee, and Amy Earley, BS,
+KDIGO Guideline Development Director, for setting the
+expectation of rigor, balance, and transparency throughout
+the process. Next, to the Evidence Review Team at Johns
+Hopkins University, for their meticulous work in reviewing
+the existing literature. Third, to the Work Group members,
+led by the indefatigable Drs. Adeera Levin, MD, and Paul
+Stevens, MB, for their diligence and innumerable hours vol-
+unteered to shepherd the guideline to publication. Fourth, to
+the many individuals who provided comments during the
+rounds of public review. Finally, to the whole KDIGO staff,
+for their steadfast, behind the scenes commitment to excel-
+lence in patient care.
+Sincerely,
+Morgan E. Grams, MD, PhD, MHS
+Michel Jadoul, MD
+KDIGO Co-Chairs
+foreword
+www.kidney-international.org
+S130
+Kidney International (2024) 105 (Suppl 4S), S117–S314

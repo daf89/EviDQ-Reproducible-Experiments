@@ -1,0 +1,83 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+181
+Objectif 3.6 
+L’établissement dispose d’une réponse opérationnelle adaptée aux risques auxquels il peut être confronté
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 3.6-02 Les risques de sécurité numérique sont 
+maîtrisés
+Pour maîtriser au plus juste le risque numérique, l’établissement doit pouvoir s’appuyer sur un système 
+d’information sécurisé, prévoir un plan d’action de continuité et sensibiliser l’ensemble des professionnels 
+pour accroître l’implication des acteurs et la vigilance collective. Une veille de sécurité numérique (prévention 
+active de la sécurité des systèmes d’information) suivant les recommandations de l’ANSSI est mise en place.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Gouvernance 
+• L'établissement a déployé un plan de continuité d’activité 
+et un plan de reprise d’activité dans tous les secteurs.
+• L’établissement a initié les correctifs à 6, 12 et 18 mois 
+sur les actions critiques recommandées par l’audit de 
+sécurité numérique.
+• L'établissement organise régulièrement des actions de 
+sensibilisation individualisées pour les professionnels de 
+santé.
+• L'établissement a démarré un plan de formation pluri-
+annuel à la sécurité informatique et à la mise en œuvre du 
+mode dégradé pour tous les professionnels concernés. 
+• L'établissement a formé des référents sécurité SI en relais 
+des équipes SI dans les secteurs les plus à risques. 
+• Les incidents significatifs ou graves de sécurité des 
+systèmes d'information sont déclarés sans délai auprès de 
+l’Agence du numérique en santé. Les recommandations 
+et les mesures d'urgence proposées par l’ANSSI, pour 
+limiter l'impact de ceux-ci et destinées à améliorer leur 
+sécurité sont mises en œuvre.
+ Professionnels 
+• Les équipes connaissent les conduites à tenir en cas 
+d’incident/d’attaque (contact du référent de la sécurité 
+numérique, identification des mails frauduleux...).
+• Les équipes savent mettre en œuvre à tout moment leur 
+plan de continuité d’activité et leur plan de reprise d’activité.
+• Les équipes sont sensibilisées au besoin d'éradiquer 
+sur leur poste de travail la conservation de documents 
+de santé intégrant des données médicales à caractère 
+personnel.
+Audit système
+Fiches pédagogiques
+Évaluation de la gestion des risques et des 
+vigilances.
+Évaluation de la gestion des risques 
+numériques dans les pratiques de soins.
+Références légales 
+et réglementaires
+• Art. L. 6111-2 al. 1 du CSP.
+• Art L. 1111-8-2 du CSP.
+• Instruction 309 de 2016. Cybersécurité 
+– Mémento DGOS à l’usage du directeur 
+d’établissement de santé, 2017.
+• PSSI-MCAS.RGS.RGPD. Cybersécurité 
+– Mémento DGOS à l’usage du directeur 
+d’établissement de santé, 2017.
+• L’homologation de sécurité en neuf étapes 
+simples, ANSSI, version en vigueur.
+• Prestataires d’audit de la sécurité 
+des systèmes d’information, référentiel 
+d’exigences.
+• Décret n° 2022-715 du 27 avril 2022 relatif 
+aux conditions et aux modalités de mise en 
+œuvre du signalement des incidents 
+significatifs ou graves de sécurité des 
+systèmes d’information.
+• Instruction N° SHFDS/FSSI/2023/15 du 
+30 janvier 2023 relative à l’obligation de 
+réaliser des exercices de crise cyber dans 
+les établissements de santé et à leur 
+financement.
+Autres références
+• PSSI-S.Programme HOP’EN – Guide 
+des indicateurs des prérequis du socle 
+commun.
+• Boîte à outils pour l’atteinte des prérequis 
+HOP’EN – ANAP, 2019.
+• Référentiel d’identification électronique.

@@ -1,0 +1,13 @@
+feature,evaluated_blocks,relevant_blocks,not_relevant_blocks,relevance_percent
+gagne_sum_tm1,452,0,452,0.0
+cost_op_specialists_tm1,452,20,432,4.424778761061947
+cost_laboratory_tm1,452,20,432,4.424778761061947
+cost_ip_medical_tm1,452,20,432,4.424778761061947
+cost_other_tm1,452,17,435,3.7610619469026547
+cost_op_surgery_tm1,452,20,432,4.424778761061947
+dem_age_band_65-74_tm1,452,0,452,0.0
+cost_pharmacy_tm1,452,19,433,4.20353982300885
+cre_tests_tm1,452,6,446,1.3274336283185841
+cost_emergency_tm1,452,20,432,4.424778761061947
+dem_age_band_75+_tm1,452,0,452,0.0
+cost_home_health_tm1,452,20,432,4.424778761061947

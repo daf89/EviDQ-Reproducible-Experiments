@@ -1,0 +1,60 @@
+HAS • Manuel : Certification des établissements de santé • Version 2024
+125
+Objectif 2.3 
+Les équipes maîtrisent les risques liés à leurs pratiques
+1. Le patient
+2. Les équipes de soins
+3. L’établissement
+Critère 2.3-19 Les équipes maîtrisent les risques liés 
+à l’utilisation de rayonnements ionisants
+Les risques liés à l’utilisation de rayonnements ionisants concernent particulièrement les secteurs d’image- 
+rie, le bloc opératoire et interventionnel, la radiothérapie et la médecine nucléaire. Les conditions doivent 
+être conformes aux exigences de l’Autorité de sûreté nucléaire (ASN) pour le patient et les professionnels, 
+notamment les décisions ASN DC-0585 relative à la formation des professionnels à la radioprotection des 
+patients et DC-0660 relative aux obligations d’assurance qualité en imagerie médicale. La dose administrée 
+au patient est contrôlée et tracée. Le patient est informé des doses qu’il a reçues.
+ Tout l’établissement Standard 
+Éléments d’évaluation
+ Professionnels 
+• L’équipe informe le patient des doses qu’il a reçues et des 
+risques pour sa santé.
+• Les professionnels de l’équipe savent expliquer la 
+conduite à tenir (notamment le respect de l’obligation de 
+déclaration à l’Autorité de sûreté nucléaire et d’information 
+de la personne compétente en radioprotection) en cas 
+d’incidents liés aux rayonnements ionisants (surexposition, 
+complication, brûlure…) concernant le patient ou le 
+professionnel.
+• Pour tout acte médical faisant appel aux rayonnements 
+ionisants, le dossier du patient contient les éléments 
+suivants : la justification de l’acte et la procédure réalisée, 
+le matériel utilisé et la quantité de dose reçue ou estimée 
+par le patient au cours de la procédure. 
+• La réalisation des examens radiologiques est effectuée par 
+des professionnels habilités (manipulateurs en radiologie, 
+médecins, radiopharmaciens). 
+Parcours traceur
+ Observations 
+• L’équipe dispose des équipements de protection individuels 
+et de dosimètres.
+• Les professionnels utilisent les équipements de protection 
+individuels et les dosimètres.
+Observation
+Fiche pédagogique
+Évaluation des secteurs interventionnels.
+Références HAS
+Améliorer le suivi des patients
+en radiologie interventionnelle et actes
+radioguidés. Réduire le risque d’effets
+déterministes, 2014.
+Radioprotection du patient et analyse
+des pratiques DPC et certification des
+établissements de santé, 2012.
+Références légales 
+et réglementaires
+• Art. L. 1333-1 à L. 1333-20 du CSP.
+• Art. R. 1333-17 à 44 du CSP.
+• Art. R. 1333-55 à 74 du CSP.
+• Art R. 4451-82 à 92 du Code du travail.
+• Art.R. 4451-103 à R.4451-130 du Code 
+du travail.

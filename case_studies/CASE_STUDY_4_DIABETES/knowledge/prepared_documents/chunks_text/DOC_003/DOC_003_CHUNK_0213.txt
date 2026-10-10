@@ -1,0 +1,225 @@
+
+
+===== PDF PAGE 425 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-66 
+WHO STEPS Surveillance 
+Domain- 
+Description: Mean minutes spent in work-, transport- and recreation-related physical 
+ 
+ 
+specific 
+physical 
+activity- 
+mean 
+activity on average per day. 
+ 
+Instrument questions: 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Mean minutes of work-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean minutes of transport-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Mean minutes of recreation-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+n 
+ Mean 
+95% CI 
+minutes 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Psetspecific (unweighted); PsetspecificWT (weighted) 
+ 
+
+
+===== PDF PAGE 426 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-67 
+WHO STEPS Surveillance 
+Domain- 
+Description: Median minutes spent on average per day in work-, transport- and 
+ 
+ 
+specific 
+physical 
+activity - 
+median 
+recreation-related physical activity. 
+ 
+Instrument questions: 
+• activity at work 
+• travel to and from places 
+• recreational activities 
+ 
+Median minutes of work-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Median minutes of transport-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Median minutes of recreation-related physical activity on average per day 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+Inter- 
+n 
+ Median 
+quartile 
+minutes 
+ range 
+(P25-P75) 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Questions used: P1-P15b 
+• Epi Info program name: Psetspecific (unweighted); PsetspecificmedianWT (weighted) 
+ 

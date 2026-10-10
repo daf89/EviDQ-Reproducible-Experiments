@@ -1,0 +1,168 @@
+
+
+===== PDF PAGE 185 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-3 
+WHO STEPS Surveillance 
+Physical Measurements 
+ 
+ 
+ 
+Introduction 
+Blood pressure is taken from the participants to determine the proportion of 
+the population with raised blood pressure. Height and weight measurements 
+are taken to calculate body mass index (BMI) that is used to determine the 
+prevalence of overweight and obesity in the population. 
+ 
+ 
+Units of 
+measurement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sequence of 
+tests 
+The table below shows the standard units of measurement for physical 
+measurements used in STEPS and their upper and lower limits. The Android 
+devices will not accept values outside these limits. 
+ 
+Physical Measure 
+Unit 
+Minimum 
+Maximum 
+Systolic blood pressure (SBP) 
+mmHg 
+40 
+300 
+Diastolic blood pressure 
+(DBP) 
+mmHg 
+30 
+200 
+Height 
+cm 
+100 
+270 
+Weight 
+kg 
+20 
+350 
+BMI (body mass index) 
+kg/m2 
+11 
+75 
+Waist circumference 
+cm 
+30 
+200 
+Hip circumference 
+cm 
+45 
+300 
+Heart rate 
+beats/minute 
+30 
+200 
+ 
+ 
+In most countries, the physical measurements (Step 2) are done immediately 
+after the behavioural measurements (Step 1). Since the participant must have 
+rested for 15 minutes before the blood pressure measurement, it is most 
+convenient to start the Step 2 measurements with blood pressure as the 
+participant will have already been sitting for the duration of the interview. 
+The Step 2 measurements should hence be taken from the participant in the 
+following order: 
+ 
+1. Blood pressure (and heart rate, if measured) 
+2. Height 
+3. Weight 
+4. Waist circumference 
+5. Hip circumference (if measured). 
+ 
+ 
+ 
+Equipment 
+required for 
+tests 
+The equipment you will need for taking physical measurements include: 
+ 
+• blood pressure monitor and appropriate cuff sizes (or universal cuffs); 
+• height measuring board and weighting scales, or a combined device; 
+• tape measure; 
+• pen; 
+• chair or coat rack for participant's clothes; 
+• curtain or screen to provide privacy if no private area is available for 
+taking measurements. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 186 =====
+
+Part 3: Data Collection 
+Section 5: Collecting Step 2 data: Physical Measurements 
+Last Updated: 26 January 2017 
+3-5-4 
+WHO STEPS Surveillance 
+Physical Measurements, Continued 
+ 
+ 
+ 
+Privacy 
+Where possible, all physical measurements should be conducted in a private 
+area. In some settings, a separate room in the household may be set up with 
+the necessary equipment to take each measurement. Where this is not 
+possible, a separate area should be screened off to provide privacy for waist 
+and hip circumference measurements at minimum. 
+ 
+Allow the participant to select the degree of privacy – some may be 
+concerned about going behind a screen or out of sight of others with people 
+they do not know. 
+ 
+ 
+When to take 
+physical 
+measurements 
+and record 
+results 
+It is recommended that physical measurements are taken immediately after 
+the Step 1 interviews. Results of Step 2 measures are to be recorded on the 
+same Android device. 
+ 
+If physical measurements are taken some time after Step 1 interviews (not 
+recommended), care should be taken to ensure data are recorded correctly on 
+the Android devices where the participant’s record already exists. 
+ 
+ 
+ 
+Introductions 
+and 
+explanations 
+Prior to taking physical measurements, explain that the following 
+measurements will be taken: 
+ 
+For Core 
+• blood pressure 
+• height 
+• weight 
+• waist circumference 
+ 
+For Expanded 
+• heart rate 
+• hip circumference. 
+ 
+ 

@@ -1,0 +1,178 @@
+
+
+===== PDF PAGE 107 =====
+
+Selecting the Sample 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-20 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Introduction 
+Once the sample design is selected and the sampling frame has been prepared, 
+sample selection can start. This section provides instructions for the various 
+stages of sampling. 
+ 
+ 
+Available tools 
+There is an Excel workbook entitled STEPSsampling.xls that includes 
+spreadsheets for every stage of the sample selection. STEPSsampling.xls will: 
+ 
+• provide probability proportional to size (PPS) sampling (see description 
+below) for primary and secondary sampling units as needed; 
+• randomly  select households  or individuals; 
+• provide  information for weighting the data. 
+ 
+The spreadsheet is available on the STEPS website 
+( www.who.int/ncds/steps ). 
+ 
+ 
+Probability 
+proportional to 
+size (PPS) 
+sampling 
+Probability proportional to size (PPS) sampling is a method for selecting a 
+sampling unit in which the probability of selection for a given sampling unit    
+is proportional to its size (most often the number of individuals or households 
+within the sampling unit). 
+ 
+PPS sampling is appropriate for use when sampling units are of markedly 
+different size. In these situations, were random sampling to be used to select 
+sampling units, those individuals in the larger sampling units would have a 
+much smaller chance of selection than those individuals in the smaller 
+sampling units. PPS sampling corrects this problem, therefore reducing bias  
+in survey estimates. 
+ 
+ 
+ 
+Instructions for 
+PPS sampling 
+The table below outlines the steps required to perform PPS sampling on a list 
+of sampling units. Before beginning, a list of sampling units and their 
+corresponding sizes (in number of households or in population) must be 
+compiled. It is recommended that this list be organized geographically, 
+meaning that sampling units located near each other are also near each other 
+on the list.  Additionally, the number of sampling units (clusters) to be  
+selected must be decided. 
+ 
+The STEPSsampling.xls tool will automatically perform Steps 3 through 8 in 
+the table below. The instructions worksheet inside the file explains how to 
+perform PPS sampling using either the PSU or SSU worksheet in the file. 
+ 
+Continued on next page 
+
+
+===== PDF PAGE 108 =====
+
+Selecting the Sample, Continued 
+Continued on next page 
+Part 2: Planning and Set Up 
+Section 2: Preparing the Sample 
+Last Updated: 26 January 2017 
+2-2-21 
+WHO STEPS Surveillance 
+ 
+ 
+ 
+Instructions for 
+PPS sampling 
+(cont.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using PPS 
+sampling with a 
+multi-stage 
+cluster design 
+PPS sampling can be applied at all stages of a multi-stage cluster design 
+except for the final stage in which households or individuals are selected. 
+ 
+The STEPSsampling.xls tool provides worksheets for selecting PSUs and 
+SSUs using PPS sampling. The worksheet entitled PSU allows for the  
+selection of up to 100 PSUs from an entered list of all PSUs. The worksheet 
+entitled SSU allows for the selection of the SSUs within each selected PSU. 
+Therefore, the SSU worksheet must be duplicated, one for each PSU that was 
+selected, so that an independent selection of SSUs can be performed for each 
+PSU. 
+Step 
+Action 
+1 
+Create a list of all sampling units with their size (either number of 
+households or population). If possible, order this list 
+geographically, placing sampling units that are physically 
+adjacent near each other on the list. 
+2 
+Determine the number of sampling units to be selected from the 
+list. 
+3 
+Create a new column containing the cumulative size of the 
+sampling units. The final total should match the total population 
+across all sampling units. 
+4 
+Divide the total cumulative population size (N) by the number of 
+sampling units to be selected (n) to obtain the sampling interval 
+(k). 
+k = N/n 
+5 
+Choose a random number (r) that is between 1 and the sampling 
+interval (k). 
+1 < r <  k 
+6 
+Start at the top of the list and select the first sampling unit whose 
+cumulative population size includes the random number (r). 
+7 
+To select the second cluster, first add the sampling interval to the 
+random number (r).  Then begin counting from the previous 
+cluster selected until the cumulative population size includes this 
+sum (r+k). 
+8 
+Select the remaining clusters by adding the sampling interval, 
+multiplied by 2, then 3 and so on, to the random number. Always 
+start counting from the previous cluster selected not the start of  
+the list. 
+r+(k*2) 
+r+(k*3) 
+etc 
+9 
+Continue until the end of the list is reached. Do not stop as soon 
+as n units have been selected. To avoid bias, all units selected 
+must be used in the survey even if the number is slightly greater 
+than n. 

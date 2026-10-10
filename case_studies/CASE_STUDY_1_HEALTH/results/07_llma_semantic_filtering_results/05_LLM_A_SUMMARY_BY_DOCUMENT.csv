@@ -1,0 +1,12 @@
+document_id,document_name,evaluated_feature_blocks,relevant_feature_blocks,not_relevant_feature_blocks,relevance_percent
+DOC_001,"Anemia - Diagnosis _ NHLBI, NIH.pdf",24,0,24,0.0
+DOC_002,dc26s002.pdf,144,0,144,0.0
+DOC_003,ehae178.pdf,648,0,648,0.0
+DOC_004,ehr-data-assessment-worksheet.pdf,12,0,12,0.0
+DOC_005,Has 2024 santé.pdf,1968,0,1968,0.0
+DOC_006,healthit-advisor-handbook.pdf,924,0,924,0.0
+DOC_007,KDIGO-2024-CKD-Guideline.pdf,1200,6,1194,0.5
+DOC_008,LDL and HDL Cholesterol and Triglycerides _ Cholesterol _ CDC.pdf,24,0,24,0.0
+DOC_009,MEPS Annual Methodology Report - Medical Provider Component (MEPS-MPC).pdf,240,46,194,19.166666666666668
+DOC_010,mr19.pdf,84,32,52,38.095238095238095
+DOC_011,mr32.pdf,156,78,78,50.0

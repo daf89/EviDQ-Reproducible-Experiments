@@ -1,0 +1,129 @@
+
+
+===== PDF PAGE 443 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-84 
+WHO STEPS Surveillance 
+ 
+ 
+Advised by doctor or health worker to start or do more physical activity 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Advised by doctor or health worker to maintain a healthy body weight or to lose weight 
+Age Group 
+(years) 
+Men 
+Women 
+Both Sexes 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+n 
+% 
+95% CI 
+advised 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+ 
+Analysis Information: 
+• Questions used: H20a-f 
+• Epi Info program name: Hlifestyle (unweighted); HlifestyleWT (weighted) 
+ 
+
+
+===== PDF PAGE 444 =====
+
+Part 6: Templates and Forms 
+Section 3C: Data Book Template 
+6-3C-85 
+WHO STEPS Surveillance 
+Cervical Cancer Screening 
+ 
+ 
+Cervical 
+cancer 
+screening 
+Description: Percentage of female respondents who have ever had a screening 
+test for cervical cancer among all female respondents. 
+Instrument question: 
+• Have you ever had a screening test for cervical cancer, using any of these 
+methods described above? 
+ 
+Age Group 
+(years) 
+Women 
+n 
+% ever 
+95% CI 
+tested 
+18-29 
+30-44 
+45-59 
+60-69 
+18-69 
+ 
+Analysis Information: 
+• Question used: CX1 
+• Epi Info program name: Hcervcancer (unweighted); HcervcancerWT (weighted) 
+ 
+ 
+Cervical 
+cancer 
+screening 
+among 
+women aged 
+30-49 years 
+Description: Percentage of female respondents aged 30-49 years who have ever 
+had a screening test for cervical cancer among all female respondents aged 30-49 
+years. 
+Instrument question: 
+• Have you ever had a screening test for cervical cancer, using any of these 
+methods described above? 
+ 
+ 
+ 
+ 
+Analysis Information: 
+• Question used: CX1 
+• Epi Info program name: Hcervcancer (unweighted); HcervcancerWT (weighted) 
+ 
+Age Group 
+(years) 
+Women 
+n 
+% ever 
+95% CI 
+tested 
+30-49 

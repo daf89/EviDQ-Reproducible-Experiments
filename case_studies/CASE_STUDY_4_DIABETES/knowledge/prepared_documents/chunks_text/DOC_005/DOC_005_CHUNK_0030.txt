@@ -1,0 +1,119 @@
+
+
+===== PDF PAGE 59 =====
+
+47
+Annex 4. Procedures for laboratory and accuracy testing
+Fig. A4.4 shows the set-up for testing electronic sphygmomanometers with an auscultative mode.
+Fig. A4.4. Laboratory accuracy test set-up for some electronic sphygmomanometers 
+Electronic sphygmomanometer being 
+tested (in ausculatory mode)
+Reference electronic 
+manometer
+Adjustable syringe pump
+Y (or T) connector
+A typical procedure for electronic sphygmomanometers with auscultative modes is as follows.
+•	 Temporarily seal the pressure release hole, which is usually at the back or side of the unit.
+•	 Once the electronic sphygmomanometer is turned on and placed in auscultatory mode, the unit is allowed 
+to pressurize until it stops.
+•	 With the adjustable syringe pump, the pressure is adjusted to 300 or 280 mm Hg (± 2 mm Hg) from the 
+readings on the reference manometer.
+•	 The readings of the electronic sphygmomanometer are then recorded.
+•	 The procedure is repeated in 20-mm Hg decrements down to 20 mm Hg, following the readings of the 
+reference manometer.
+
+
+===== PDF PAGE 60 =====
+
+WHO Technical specifications for automated non-invasive blood pressure measuring devices with cuff
+48
+Agency / Society
+Description
+Website
+British and Irish 
+Hypertension Society
+The BIHS publishes the only independent, peer-reviewed 
+list of blood pressure monitors that is not governed by 
+commercial interest.
+https://bihsoc.org/bp-monitors/
+Hypertension Canada
+Hypertension Canada’s Blood Pressure Measurement 
+Device Recommendation Program is designed to help you 
+in your purchasing decisions by easily identifying devices 
+that are validated in studies as accurate
+https://hypertension.ca/bpdevices
+French National Agency for 
+the Safety of Medicines and 
+Health Products 
+Since 2001, AFSSSAPS, today ANSM, has paid particular 
+attention to the marketing of blood pressure measuring 
+devices intended for the general public. Between 2001 
+and 2005, it carried out, as part of the national plan, 
+a market control operation relating in particular to the 
+procedures for the clinical evaluation of these devices.
+https://www.ansm.sante.fr/Dossiers/
+Appareils-d-automesure-tensionnelle/
+Surveillance-du-marche-des-
+autotensiometres/(offset)/0
+Japanese Society of 
+Hypertension
+It is of great importance to have products evaluated 
+and validated in accordance with protocols set by 
+organizations such as the British Hypertension Society 
+(BHS), the Association for the Advancement of Medical 
+Instrumentation (AAMI) and, the Working Group on 
+Blood Pressure Monitoring of the European Society of 
+Hypertension (ESH).
+http://www.jpnsh.jp/com_ac_wg1.html
+STRIDEBP
+(cosponsored by the European 
+Society of Hypertension and 
+the International Society of 
+Hypertension) 
+Is an international scientific non-profit organization 
+founded by hypertension experts with the mission of 
+improving the accuracy of blood pressure measurement 
+and the diagnosis and management of hypertension. 
+STRIDE BP provides international guidance and practice 
+tools on the methodology and technology for accurate 
+blood pressure evaluation according to the latest 
+scientific evidence.
+https://stridebp.org/bp-monitors
+American Medical 
+Association and American 
+Heart Association
+The 2017 hypertension guideline from the American 
+College of Cardiology (ACC) and the American Heart 
+Association (AHA) recommends that all BP monitors 
+have peer-reviewed publications showing they have 
+been tested using internationally accepted protocols for 
+the validation of clinical accuracy. Yet it is not easy for 
+patients and physicians to find out which BP monitors 
+on the market meet that criterion, so the AMA is working 
+with the AHA to create a validated device listing.
+https://www.ama-assn.org/sites/ama-assn.
+org/files/corp/media-browser/public/about-
+ama/iho-bp-self-measured-blood-pressure-
+monitoring_0.pdf
+dabl Educational Trust
+The purpose of the dabl®Educational Trust website 
+is to produce regular reviews of blood pressure 
+measuring devices to guide the would-be-purchaser 
+through a complex market. As the majority of blood 
+pressure measuring devices has not been independently 
+validated, the devices listed on the website are 
+representative, therefore, of only a fraction of the many 
+devices available. It is hoped that manufacturers will 
+wish to list devices for which validation is planned and 
+that in time the devices listed will be representative of 
+the market.
+http://www.dableducational.org/
+sphygmomanometers/devices_1_clinical.
+html#ClinTable
+http://www.dableducational.org/
+sphygmomanometers/devices_2_sbpm.
+html#ArmTable
+Annex 5
+Annex 5
+Online resources from professional 
+societies
