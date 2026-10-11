@@ -1,7 +1,8 @@
+
 case_study,material,source,license,redistribution_status,notes
-CASE_STUDY_1_HEALTH,Health dataset,TO_BE_VERIFIED,TO_BE_VERIFIED,REVIEW,Original dataset provenance and redistribution rights require verification
-CASE_STUDY_1_HEALTH,Extracted medical documents,Multiple third-party publishers,MIXED,REVIEW,Review each source individually and exclude material without redistribution permission
-CASE_STUDY_2_CANCER_REGISTRY,Simulated cancer registry,Experimental simulation (to be confirmed),TO_BE_CONFIRMED,REVIEW,Confirm synthetic origin and absence of identifiable real patient records
+CASE_STUDY_1_HEALTH,Health dataset,Source not independently established,License not established,REVIEW,Original dataset provenance and redistribution rights have not been independently established
+CASE_STUDY_1_HEALTH,Extracted medical documents,Multiple third-party publishers,Varies by document,REVIEW,Review each source individually; do not redistribute material without the required permission
+CASE_STUDY_2_CANCER_REGISTRY,Simulated cancer registry,Reported experimental simulation; exact origin not independently established,License not established,REVIEW,Synthetic origin and absence of identifiable real patient records require confirmation before redistribution
 CASE_STUDY_3_BEIJING,Beijing Multi-Site Air Quality,UCI Machine Learning Repository,CC BY 4.0,KEEP_WITH_ATTRIBUTION,Source DOI 10.24432/C5RK5G; verify exact file provenance and retain attribution
-CASE_STUDY_4_DIABETES,Pima Indians Diabetes dataset,Kaggle uciml/pima-indians-diabetes-database (probable),CC0 1.0 (source distribution; unverified for local file),REVIEW,Probable Kaggle origin; local raw CSV contains transformed values; initial preparation and exact provenance not documented
-CASE_STUDY_4_DIABETES,Extracted clinical documents,Multiple third-party publishers,MIXED,REVIEW,Review each source individually and exclude material without redistribution permission
+CASE_STUDY_4_DIABETES,Pima Indians Diabetes dataset,Probable Kaggle distribution: uciml/pima-indians-diabetes-database,CC0 1.0 reported for source distribution; applicability to local file not established,REVIEW,Probable Kaggle origin; local raw CSV contains transformed values; initial preparation and exact provenance are not documented
+CASE_STUDY_4_DIABETES,Extracted clinical documents,Multiple third-party publishers,Varies by document,REVIEW,Review each source individually; do not redistribute material without the required permission
