@@ -1,1 +1,24 @@
-The code and reproducibility materials for the four EviDQ case studies are organized in a public-release package. The definitive repository URL and archival DOI should be inserted here only after the final release has been uploaded and verified.
+EviDQ — Code and Experimental Data Availability
+
+Manuscript:
+EviDQ: Evidence-Guided Data Quality Governance for Responsible Interventions and Explainable Recommendations in Tabular Machine Learning
+
+Public repository:
+https://github.com/daf89/EviDQ-Reproducible-Experiments
+
+The repository provides research materials for the four EviDQ case studies:
+
+- Case Study 1: Health
+- Case Study 2: Cancer Registry
+- Case Study 3: Beijing Multi-Site Air Quality
+- Case Study 4: Diabetes
+
+The deposited materials include experimental Jupyter notebooks, saved execution outputs, available datasets, supporting scripts, intermediate results, documentary knowledge extraction records, action rules, evaluation tables, and figures.
+
+The repository supports scientific traceability, inspection, and partial computational reproduction. Complete end-to-end re-execution has not been independently verified. Some experiments depend on external services, LLM-assisted processing, and environment-specific configurations.
+
+Dataset redistribution and documentary-source access remain subject to applicable licenses and availability conditions.
+
+Installation guidance, case-study descriptions, and known reproducibility limitations are provided in the repository README files.
+
+Archival DOI: Not assigned.
